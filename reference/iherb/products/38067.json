@@ -1,0 +1,256 @@
+{
+ "pid": "38067",
+ "slug": "doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps",
+ "scrapedAt": "2026-08-25T17:38:06.904Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps.jpg",
+  "/products/iherb/doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps-2.jpg",
+  "/products/iherb/doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps-3.jpg",
+  "/products/iherb/doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps/38067",
+ "pageTitle": "Doctor's Best, Fully Active Folate 400, 400 mcg, 90 Veggie Caps",
+ "h1": "Doctor's Best, Fully Active Folate 400, 400 mcg, 90 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "38067",
+  "name": "Doctor's Best, Fully Active Folate 400, 400 mcg, 90 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/g/80.jpg",
+  "mpn": "DRB-00262",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 10358
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "340.57",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Supports Mental & Emotional Health Dietary Supplement Non-GMO / Gluten-Free/ Vegan At Doctor's Best, Quatrefolic® is a stand out in folate support, offering exceptional bioavailability. Along with Vitamin C, this specialized nutrient plays a key role in supporting cell growth, DNA synthesis, and neurological health, while contributing to overall well-being. Features Quatrefolic® Supports healthy mental and emotional well-being",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00262",
+  "gtin12": "753950002623",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/g/80.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin B",
+  "Vitamin B9 (Folate - Folic Acid)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Supports Mental & Emotional Health",
+    "Dietary Supplement",
+    "Non-GMO / Gluten-Free/ Vegan",
+    "Features Quatrefolic®",
+    "Supports healthy mental and emotional well-being"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, Quatrefolic® is a stand out in folate support, offering exceptional bioavailability. Along with Vitamin C, this specialized nutrient plays a key role in supporting cell growth, DNA synthesis, and neurological health, while contributing to overall well-being."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 capsule daily preferably between meals, or as recommended by a nutritionally-informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose (vegetarian capsule)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00262"
+  },
+  {
+   "label": "UPC",
+   "value": "753950002623"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.1 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "40 mg",
+   "44%"
+  ],
+  [
+   "Folate (as (6S)- 5- Methyltetrahydrofolic acid, glucosamine salt) (Quatrefolic®)",
+   "400 mcg DFE**",
+   "100%"
+  ],
+  [
+   "**DFE=Dietary Folate Equivalent"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**DFE=Dietary Folate Equivalent"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "72624",
+   "url": "https://th.iherb.com/pr/doctor-s-best-fully-active-folate-800-800-mcg-60-veggie-caps/72624",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "38067",
+   "url": "https://th.iherb.com/pr/doctor-s-best-fully-active-folate-400-400-mcg-90-veggie-caps/38067",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿340.57",
+  "฿340.57",
+  "฿3.78/‏serving",
+  "{0}% off code: {1}",
+  "฿340.57",
+  "Save 0% in cart",
+  "฿3.78/‏serving",
+  "฿340.57",
+  "(0% off)",
+  "฿340.57",
+  "฿3.78/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/g/80.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/k/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/g/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/85.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00262/s/94.jpg"
+ ]
+}

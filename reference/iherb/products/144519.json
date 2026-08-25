@@ -1,0 +1,285 @@
+{
+ "pid": "144519",
+ "slug": "catalo-omega-3-fish-oil-180-softgels-1-000-mg-per-serving",
+ "scrapedAt": "2026-08-25T17:33:31.623Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/catalo-omega-3-fish-oil-180-softgels-1-000-mg-per-serving.jpg",
+  "/products/iherb/catalo-omega-3-fish-oil-180-softgels-1-000-mg-per-serving-2.jpg",
+  "/products/iherb/catalo-omega-3-fish-oil-180-softgels-1-000-mg-per-serving-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/catalo-omega-3-fish-oil-180-softgels-1-000-mg-per-serving/144519",
+ "pageTitle": "CATALO, Omega-3 Fish Oil, 180 Softgels (1,000 mg per Serving)",
+ "h1": "CATALO, Omega-3 Fish Oil, 180 Softgels (1,000 mg per Serving)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "144519",
+  "name": "CATALO, Omega-3 Fish Oil, 180 Softgels (1,000 mg per Serving)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/g/20.jpg",
+  "mpn": "CAT-02888",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 9
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "CATALO",
+   "url": "https://www.catalo.com/en",
+   "identifier": "CAT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.71",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2070.95",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Ultra-Purified Molecularly Distilled Maintains Heart & Cardiovascular Health Supports Eyesight & Visual Acuity Maintains Brain & Joint Functions For Heart & Cardiovascular Health Dietary Supplement Quality Potency Efficacy cGMP - Current Good Manufacturing Practices Health and Beauty from within. CATALO stands for Care, Vitality, Longevity. This is our philosophy that true health and beauty radiate from within. We are committed to understanding your health needs and enhancing health through superior natural supplements that nourish your body. Natural - It all begins with care - a healthy body is vital for a happy life By embracing all of natures goodness, we are proud to offer this wholesomeness directly to you and your family. Wholesome - When it comes to our products, we make no compromises. We are committed to delivering premium products that contain natural, high efficacy, high potency and safe ingredients, which provide the maximum health benefits benefits to our customers. We care because we treat your health as if it was our own. Family Wellness Series takes care of your family and maintains optimal body health and overall wellness. It provides essential nutrients including high quality DHA & Omega 3, Coral and Algae Calcium, active Probiotics, and Acerola Cherry Vitamin C - in turn supporting cardiovascular and brain health, strong bones, digestive health and immunity. Omega-3 Ocean Fish Oil Made from unpolluted ocean fishes by molecular distillation. Provides 2000 mg Ocean Fish Oil containing 600 mg Omega-3 (320 mg EPA and 200 mg DHA) per serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.35x3.25"
+  },
+  "isRelatedTo": null,
+  "sku": "CAT-02888",
+  "gtin12": "810399028888",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/g/20.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Ultra-Purified Molecularly Distilled",
+    "Maintains Heart & Cardiovascular Health",
+    "Supports Eyesight & Visual Acuity",
+    "Maintains Brain & Joint Functions",
+    "For Heart & Cardiovascular Health",
+    "Dietary Supplement",
+    "Quality Potency Efficacy",
+    "cGMP - Current Good Manufacturing Practices",
+    "Made from unpolluted ocean fishes by molecular distillation.",
+    "Provides 2000 mg Ocean Fish Oil containing 600 mg Omega-3 (320 mg EPA and 200 mg DHA) per serving."
+   ],
+   "paragraphs": [
+    "Health and Beauty from within. CATALO stands for Care, Vitality, Longevity. This is our philosophy that true health and beauty radiate from within. We are committed to understanding your health needs and enhancing health through superior natural supplements that nourish your body.",
+    "Natural - It all begins with care - a healthy body is vital for a happy life By embracing all of natures goodness, we are proud to offer this wholesomeness directly to you and your family.",
+    "Wholesome - When it comes to our products, we make no compromises. We are committed to delivering premium products that contain natural, high efficacy, high potency and safe ingredients, which provide the maximum health benefits benefits to our customers. We care because we treat your health as if it was our own.",
+    "Family Wellness Series takes care of your family and maintains optimal body health and overall wellness. It provides essential nutrients including high quality DHA & Omega 3, Coral and Algae Calcium, active Probiotics, and Acerola Cherry Vitamin C - in turn supporting cardiovascular and brain health, strong bones, digestive health and immunity.",
+    "Omega-3 Ocean Fish Oil"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, for adults, take 1-2 softgels twice daily after meal. For children age 6 or above, take 1 softgel daily after meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, glycerin, purified water. contains fish (anchovy, sardine, mackerel).",
+    "No artificial flavors or colors. No preservatives.",
+    "Manufactured by cGMP certified facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your healthcare practitioner if you are allergic to iodine, use blood thinners, anticipate surgery, or are under medical supervision.",
+    "Store in a cool, dry place. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CAT-02888"
+  },
+  {
+   "label": "UPC",
+   "value": "810399028888"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.3 x 8.5 x 8.3 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%*"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%*"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "1 g",
+   "†"
+  ],
+  [
+   "Monounsaturated Fat",
+   "0 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "20 mg",
+   "7%*"
+  ],
+  [
+   "Ocean Fish Oil",
+   "2000 mg",
+   "†"
+  ],
+  [
+   "Omega-3 Fatty Acids",
+   "600 mg",
+   "†"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "320 mg",
+   "†"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "200 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 3 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,070.95",
+  "฿2,070.95",
+  "฿23.01/‏serving",
+  "{0}% off code: {1}",
+  "฿2,070.95",
+  "Save 0% in cart",
+  "฿23.01/‏serving",
+  "฿2,070.95",
+  "(0% off)",
+  "฿2,070.95",
+  "฿23.01/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/g/20.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/k/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/g/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02888/s/12.jpg"
+ ]
+}

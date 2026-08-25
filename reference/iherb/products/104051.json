@@ -1,0 +1,188 @@
+{
+ "pid": "104051",
+ "slug": "codeage-sbo-probiotic-50-billion-cfu-90-vegetable-capsules",
+ "scrapedAt": "2026-08-25T17:20:16.406Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/codeage-sbo-probiotic-50-billion-cfu-90-vegetable-capsules.jpg",
+  "/products/iherb/codeage-sbo-probiotic-50-billion-cfu-90-vegetable-capsules-2.jpg",
+  "/products/iherb/codeage-sbo-probiotic-50-billion-cfu-90-vegetable-capsules-3.jpg",
+  "/products/iherb/codeage-sbo-probiotic-50-billion-cfu-90-vegetable-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/codeage-sbo-probiotic-50-billion-cfu-90-vegetable-capsules/104051",
+ "pageTitle": "Codeage, SBO Probiotic+, 50 Billion CFU, 90 Vegetable Capsules",
+ "h1": "Codeage, SBO Probiotic+, 50 Billion CFU, 90 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104051",
+  "name": "Codeage, SBO Probiotic+, 50 Billion CFU, 90 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/g/56.jpg",
+  "mpn": "AGE-00820",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 412
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Codeage",
+   "url": "https://www.codeage.com/",
+   "identifier": "AGE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.27",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "1259.25",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-10-01T00:00:00"
+  },
+  "description": "50 Billion CFU‡ Shelf-Stable Prebiotics & Probiotics Beyond Vitamins® Dietary Supplement Soil Based Organisms Fermented Botanical Blend Vegan Non-GMO Soy-Free Dairy-Free Gluten-Free cGMP Certified Manufacturing Feel Different Codeage SBO Probiotic+ offers 50 billion CFUs (colony-forming units) per serving† with a comprehensive blend of 6 different strains of probiotics, including soil-based organisms probiotics and prebiotics. This probiotic supplement also features a carefully curated fermented botanical blend, including turmeric, ginger, astragalus, sprouted canihua seed, flax seed, pumpkin seed, green pea, holy basil, ashwagandha, broccoli, milk thistle, mung bean, chia seed, and turkey tail mushroom, providing a range of additional nutrients. Designed for convenience and simplicity, this product is shelf-stable and requires no refrigeration, perfect for those with busy lifestyles. ‡At time of manufacture.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "AGE-00820",
+  "gtin12": "853919008205",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/g/56.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AGE-00820"
+  },
+  {
+   "label": "UPC",
+   "value": "853919008205"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.3 x 6.6 x 6.5 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Serving Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Fermented Organic Botanical BlendSprouted Flax Seed, Turmeric (root), Ginger (root), Astragalus (root), Sprouted Canihua Seed (Chenopodium pallidicaule), Sprouted Hemp Seed, Sprouted Pumpkin Seed, Sprouted Green Pea (seed), Holy Basil (leaf; Ocimum tenuiflorum), Ashwagandha (root), Sprouted Broccoli Seed, Sprouted Milk Thistle (seed), Sprouted Mung Bean (Vigna radiata), Sprouted Chia Seed, Turkey Tail Mushroom (Fruiting Bodies;Trametes versicolor)",
+   "1,268 mg",
+   "**"
+  ],
+  [
+   "Probiotic Blend (50 Billion CFU‡) L. plantarum, L. paracasei, B. subtilis, B. clausii, B. coagulans, S. boulardii",
+   "200 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established‡At time of manufacture."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 2 CapsulesServing Per Container: 45 Amount Per Serving%DVFermented Organic Botanical BlendSprouted Flax Seed, Turmeric (root), Ginger (root), Astragalus (root), Sprouted Canihua Seed (Chenopodium pallidicaule), Sprouted Hemp Seed, Sprouted Pumpkin Seed, Sprouted Green Pea (seed), Holy Basil (leaf; Ocimum tenuiflorum), Ashwagandha (root), Sprouted Broccoli Seed, Sprouted Milk Thistle (seed), Sprouted Mung Bean (Vigna radiata), Sprouted Chia Seed, Turkey Tail Mushroom (Fruiting Bodies;Trametes versicolor)1,268 mg ** Probiotic Blend (50 Billion CFU‡) L. plantarum, L. paracasei, B. subtilis, B. clausii, B. coagulans, S. boulardii200 mg ** **Daily Value (DV) not established‡At time of manufacture."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "California Gold Nutrition, LactoBif® 30 Probiotics, 30 Billion CFU, 120 Veggie Capsules",
+  "168,709",
+  "฿1,280.55"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/g/56.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/k/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/g/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00820/s/71.jpg"
+ ]
+}

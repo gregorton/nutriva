@@ -1,0 +1,257 @@
+{
+ "pid": "98886",
+ "slug": "kyolic-kyo-dophilus-max-probiotic-50-billion-cfu-30-vegetarian-capsule",
+ "scrapedAt": "2026-08-25T17:32:36.826Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/kyolic-kyo-dophilus-max-probiotic-50-billion-cfu-30-vegetarian-capsule.jpg",
+  "/products/iherb/kyolic-kyo-dophilus-max-probiotic-50-billion-cfu-30-vegetarian-capsule-2.jpg",
+  "/products/iherb/kyolic-kyo-dophilus-max-probiotic-50-billion-cfu-30-vegetarian-capsule-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/kyolic-kyo-dophilus-max-probiotic-50-billion-cfu-30-vegetarian-capsules/98886",
+ "pageTitle": "Kyolic, Kyo-Dophilus®, Max Probiotic, 50 Billion CFU, 30 Vegetarian Capsules",
+ "h1": "Kyolic, Kyo-Dophilus®, Max Probiotic, 50 Billion CFU, 30 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "98886",
+  "name": "Kyolic, Kyo-Dophilus®, Max Probiotic, 50 Billion CFU, 30 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/g/50.jpg",
+  "mpn": "WAK-63393",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 128
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Kyolic",
+   "url": "https://kyolic.com/",
+   "identifier": "WAK"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.33",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1553.89",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Probiotics for You™ Maximum Reinforcement for Gut Health DNA Sequencing Verified†† 50 Billion CFU Guaranteed Live at Expiry Gluten Free Dairy Free Soy Free 12 Strain Probiotic Supplement With The Friendly Trio® Clinically Studied Strains Igen Non GMO Tested GMP Certified A Probiotic You Can Count On Kyo-Dophilus® Probiotics are formulated to support healthy digestive and immune systems. Our probiotics deliver efficacy, quality and extended live cell viability without refrigeration. The Friendly Trio® is the core of our formulations. The Friendly Trio is a clinically studied proprietary blend of human strain Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2. L. gasseri has been shown to support your body's GI function and immune health. B. bifidum may regulate healthy gut flora and enhance immunity by reducing inflammation. B. longum is known to normalize bowel movements. Finding the right probiotic means considering more than CFU††† counts. Choose a probiotic with strains that are diverse, compatible and able to survive stomach acid, to encourage implantation and rapid replication in your gut. Your gut microbiome is as unique as you are. Kyo-Dophilus® Max Probiotic contains a community of 12 beneficial bacteria to help repopulate your microflora. This formulation includes The Friendly Trio®, a proprietary blend of biocompatible human strains Lactobacillus gasseri KS-13, bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2. Max Probiotic also includes L. acidophilus, L. plantarum, B. breve, B. infantis and L. rhamnosus along with other species. If your digestive healthy is susceptible to or has been compromised by travel or stress, Max Probiotic can help replenish your microbiome, balance your GI system and support a healthy immune response. The Max Probiotic For You To maintain good colon health Relieve occasional digestive discomfort Restore and protect good bacteria Take one capsule of Kyo-Dophilus Max Probiotic once daily whenever your gut microbiome needs strong reinforcement to maintain your general wellbeing. †††Colony Forming Units ††The probiotic strains in this product have been identity-verified using DNA sequencing.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.05x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "WAK-63393",
+  "gtin12": "023542633932",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/g/50.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Probiotics for You™",
+    "Maximum Reinforcement for Gut Health",
+    "DNA Sequencing Verified††",
+    "50 Billion CFU Guaranteed Live at Expiry",
+    "Gluten Free",
+    "Dairy Free",
+    "Soy Free",
+    "12 Strain Probiotic Supplement",
+    "With The Friendly Trio® Clinically Studied Strains",
+    "Igen Non GMO Tested",
+    "GMP Certified",
+    "To maintain good colon health",
+    "Relieve occasional digestive discomfort",
+    "Restore and protect good bacteria"
+   ],
+   "paragraphs": [
+    "A Probiotic You Can Count On",
+    "Kyo-Dophilus® Probiotics are formulated to support healthy digestive and immune systems. Our probiotics deliver efficacy, quality and extended live cell viability without refrigeration. The Friendly Trio® is the core of our formulations.",
+    "The Friendly Trio is a clinically studied proprietary blend of human strain Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2.",
+    "L. gasseri has been shown to support your body's GI function and immune health.",
+    "B. bifidum may regulate healthy gut flora and enhance immunity by reducing inflammation.",
+    "B. longum is known to normalize bowel movements.",
+    "Finding the right probiotic means considering more than CFU††† counts. Choose a probiotic with strains that are diverse, compatible and able to survive stomach acid, to encourage implantation and rapid replication in your gut.",
+    "Your gut microbiome is as unique as you are.",
+    "Kyo-Dophilus® Max Probiotic contains a community of 12 beneficial bacteria to help repopulate your microflora. This formulation includes The Friendly Trio®, a proprietary blend of biocompatible human strains Lactobacillus gasseri KS-13, bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2. Max Probiotic also includes L. acidophilus, L. plantarum, B. breve, B. infantis and L. rhamnosus along with other species.",
+    "If your digestive healthy is susceptible to or has been compromised by travel or stress, Max Probiotic can help replenish your microbiome, balance your GI system and support a healthy immune response.",
+    "The Max Probiotic For You",
+    "Take one capsule of Kyo-Dophilus Max Probiotic once daily whenever your gut microbiome needs strong reinforcement to maintain your general wellbeing.",
+    "†††Colony Forming Units",
+    "††The probiotic strains in this product have been identity-verified using DNA sequencing."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one capsule daily. Not recommended for children under 12.",
+    "Refrigeration not required."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Starch (potato, tapioca, corn), hypromellose (vegetable capsule), silicon dioxide, calcium phosphate.",
+    "Free of: Soy, gluten, dairy, sodium, preservatives, artificial colors and flavors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your healthcare professional before using this or any product if you are pregnant, nursing or under medical care.",
+    "Store in a cool, dry place with cap tight. Keep out of reach of children.",
+    "Safety Sealed: Do not use if cap drop ring or printed inner seal is broken or missing. Glass bottle, handle with care."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "WAK-63393"
+  },
+  {
+   "label": "UPC",
+   "value": "023542633932"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 7.7 x 5.6 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 delayed release capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Proprietary BlendLactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1,Bifidobacterium longum MM-2, Lactobacillus plantarum UALp-05,Lactobacillus paracasei UALpc-04, Bifidobacterium lactis UABla-12,Bifidobacterium longum BB536, Lactobacillus acidophilus UALa-01,Bifidobacterium breve M-16V, Bifidobacterium infantis M-63,Lactobacillus gasseri LAC-343, Lactobacillus rhamnosus LCS-742",
+   "50 billion live cells†",
+   "**"
+  ],
+  [
+   "**Daily Values not established.†Prior to expiration date."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Values not established.",
+  "†Prior to expiration date."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,553.89",
+  "฿1,553.89",
+  "฿51.80/‏serving",
+  "{0}% off code: {1}",
+  "฿1,553.89",
+  "Save 0% in cart",
+  "฿51.80/‏serving",
+  "฿1,553.89",
+  "(0% off)",
+  "฿1,553.89",
+  "฿51.80/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/g/50.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/k/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/g/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak63393/s/54.jpg"
+ ]
+}

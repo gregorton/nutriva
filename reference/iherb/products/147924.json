@@ -1,0 +1,261 @@
+{
+ "pid": "147924",
+ "slug": "california-gold-nutrition-akkermansia-probiotics-immune-complex-60-veg",
+ "scrapedAt": "2026-08-25T17:46:20.507Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-akkermansia-probiotics-immune-complex-60-veg.jpg",
+  "/products/iherb/california-gold-nutrition-akkermansia-probiotics-immune-complex-60-veg-2.jpg",
+  "/products/iherb/california-gold-nutrition-akkermansia-probiotics-immune-complex-60-veg-3.jpg",
+  "/products/iherb/california-gold-nutrition-akkermansia-probiotics-immune-complex-60-veg-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-akkermansia-probiotics-immune-complex-60-veggie-capsules/147924",
+ "pageTitle": "California Gold Nutrition, Akkermansia + Probiotics Immune Complex, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, Akkermansia + Probiotics Immune Complex, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "147924",
+  "name": "California Gold Nutrition, Akkermansia + Probiotics Immune Complex, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/g/21.jpg",
+  "mpn": "CGN-10007",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 407
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "807.43",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1076.58",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Total 35 Billion Per Veggie Capsule Supports Immune Health* 6 Strains Complex No Refrigeration Necessary Suitable for Vegetarians Formulated Without: Gluten, GMOs, or Soy Individually Double-Foil Blister Sealed Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee California Gold Nutrition® Akkermansia Immune Complex™ is formulated with 5 live and active strains plus 1 pasteurized strain: Akkermansia muciniphila (AKK). Each veggie capsule contains 30 billion CFU total cultures and 5 billion TFU AKK to deliver an effective number of good bacteria to the body.These bacterial strains have been shown to aid in gut health and digestive wellness, support immune health and contribute to overall health and well-being.* It contains select bacterial strains that are resistant to low pH and gastrointestinal conditions (e.g. acid, bile, pepsin, and pancreatin), as well as adheres to intestinal cell lines. iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.3x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-10007",
+  "gtin12": "898220100071",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/g/21.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Akkermansia"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Total 35 Billion Per Veggie Capsule",
+    "Supports Immune Health*",
+    "6 Strains Complex",
+    "No Refrigeration Necessary",
+    "Suitable for Vegetarians",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Individually Double-Foil Blister Sealed",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Akkermansia Immune Complex™ is formulated with 5 live and active strains plus 1 pasteurized strain: Akkermansia muciniphila (AKK). Each veggie capsule contains 30 billion CFU total cultures and 5 billion TFU AKK to deliver an effective number of good bacteria to the body.These bacterial strains have been shown to aid in gut health and digestive wellness, support immune health and contribute to overall health and well-being.* It contains select bacterial strains that are resistant to low pH and gastrointestinal conditions (e.g. acid, bile, pepsin, and pancreatin), as well as adheres to intestinal cell lines.",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "• Optimal Barrier to Oxygen, Moisture & Light",
+    "• Ensures Product Integrity & Protection",
+    "• Tamper Resistant and Tamper Evident",
+    "• Durable"
+   ],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Individually Double-Foil Blister Sealed for quality and your protection. Do not use if blister pack material is punctured or missing. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Benefits of Individually, Double-Foil Blister Sealed Products:",
+    "Packaged and quality tested in USA with globally sourced ingredients. Akkermansia Immune Complex™ is a Product of China.",
+    "Note: TFU = Total Fluorescent Units",
+    "Our room temperature, shelf-stable¹ Akkermansia Immune Complex™ is ideal for traveling when refrigeration is not readily available. Our Veggie Capsules are individually, double-foil blister sealed to help ensure shelf stability.¹",
+    "¹Room Temperature, Shelf-Stable: Best stored at controlled room temperature 20°C to 25°C (68°F to 77°F). Refrigeration is not required, but highly recommended. Extended exposure to higher than recommended storage temperatures may cause product degradation and the reduction of live and active probiotic bacteria. Potency guaranteed until expiration date when stored in a cool, dry place, at 77°F (25°C) or below.",
+    "All California Gold Nutrition® products come with a 100% GOLD Guarantee. If you are not completely satisfied with your purchase, return the unused portion within 90 days for a full refund."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-10007"
+  },
+  {
+   "label": "UPC",
+   "value": "898220100071"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.2 x 8.4 x 5.5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Probiotic Bacteria BlendTotal CulturesLactobacillus acidophilusLacticaseibacillus caseiPediococcus acidilacticiLactobacillus rhamnosusLactiplantibacillus plantarum",
+   "133 mg30 Billion CFU",
+   "†"
+  ],
+  [
+   "Akkermansia (AKK)(Pasteurized Akkermansia muciniphila)",
+   "25 mg5 Billion TFU",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,076.58",
+  "฿1,076.58",
+  "฿17.94/‏serving",
+  "{0}% off code: {1}",
+  "฿1,076.58",
+  "Save 25% in cart",
+  "฿17.94/‏serving",
+  "฿807.43",
+  "(25% off)",
+  "฿1,076.58",
+  "฿13.46/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/g/21.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/k/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/g/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10007/s/25.jpg"
+ ]
+}

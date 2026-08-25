@@ -1,0 +1,257 @@
+{
+ "pid": "81232",
+ "slug": "zhou-nutrition-collagen-peptides-18-oz-510-g",
+ "scrapedAt": "2026-08-25T17:31:20.027Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/zhou-nutrition-collagen-peptides-18-oz-510-g.jpg",
+  "/products/iherb/zhou-nutrition-collagen-peptides-18-oz-510-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/zhou-nutrition-collagen-peptides-18-oz-510-g/81232",
+ "pageTitle": "Zhou Nutrition, Collagen Peptides, 18 oz (510 g)",
+ "h1": "Zhou Nutrition, Collagen Peptides, 18 oz (510 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "81232",
+  "name": "Zhou Nutrition, Collagen Peptides, 18 oz (510 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/g/32.jpg",
+  "mpn": "ZHO-00605",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1260
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Zhou Nutrition",
+   "url": "https://www.zhounutrition.com/",
+   "identifier": "ZHO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.34",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1003.06",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Hydrolyzed Collagen No Added Flavor Grass Fed & Pasture Raised Dietary Supplement Greatness by Nature™ The Optimal Collagen Bone Health Skin Cell Health Hair & Nail Strength Joint Mobility Essential Amino Acid Source Healthy Gut Support Pure and Primal Gluten Free Lab Verified Hormone Free Type I + III Collagen At Zhou we care about what’s on the surface, and even more about what’s beneath it. Collagen is an essential part of skin, hair, bone and joint health, and our bodies make less collagen as we age. We created our Collagen Peptide powder to be an essential part of your daily wellness routine. Our product is the key to younger looking skin, more luscious locks, and comfortable joints. Collagen also helps fuel bones, tendons, and connective tissue— while providing 18 essential aminos needed to support healthy muscle cells. Our pure, hormone-free collagen hydrolysate can help to replenish lost collagen and may help support cell turnover. With quality you can trust, our collagen is sustainably sourced from grass fed and pasture raised cattle, so not only will your body feel great, but your conscious will too.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.9x4.9"
+  },
+  "isRelatedTo": null,
+  "sku": "ZHO-00605",
+  "gtin12": "859805006058",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Hydrolyzed Collagen",
+    "No Added Flavor",
+    "Grass Fed & Pasture Raised",
+    "Dietary Supplement",
+    "Greatness by Nature™",
+    "The Optimal Collagen",
+    "Bone Health",
+    "Skin Cell Health",
+    "Hair & Nail Strength",
+    "Joint Mobility",
+    "Essential Amino Acid Source",
+    "Healthy Gut Support",
+    "Pure and Primal",
+    "Gluten Free",
+    "Lab Verified",
+    "Hormone Free",
+    "Type I + III Collagen"
+   ],
+   "paragraphs": [
+    "At Zhou we care about what’s on the surface, and even more about what’s beneath it. Collagen is an essential part of skin, hair, bone and joint health, and our bodies make less collagen as we age. We created our Collagen Peptide powder to be an essential part of your daily wellness routine. Our product is the key to younger looking skin, more luscious locks, and comfortable joints. Collagen also helps fuel bones, tendons, and connective tissue— while providing 18 essential aminos needed to support healthy muscle cells. Our pure, hormone-free collagen hydrolysate can help to replenish lost collagen and may help support cell turnover. With quality you can trust, our collagen is sustainably sourced from grass fed and pasture raised cattle, so not only will your body feel great, but your conscious will too."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "Coffee",
+    "Shakes",
+    "Smoothies",
+    "Recipes"
+   ],
+   "paragraphs": [
+    "Take one scoop (11 g) daily with or between meals. Enjoy mixing into hot or cold liquids, juices, smoothies or other favorite recipes. Use only as directed.",
+    "Ready To Use"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Pregnant or nursing mother, children under 18 and individuals with a known medical condition should consult a physician before using this or any dietary supplement.",
+    "Keep container closed and in a cool, dry location.",
+    "This product is packaged by weight, not by volume. Settling of contents occurs over time."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.61 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ZHO-00605"
+  },
+  {
+   "label": "UPC",
+   "value": "859805006058"
+  },
+  {
+   "label": "Package quantity",
+   "value": "510 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.2 x 12.4 x 12.4 cm, 0.61 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (11 g)"
+  ],
+  [
+   "Servings Per Container: 46"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   "0%†"
+  ],
+  [
+   "Sodium",
+   "55 mg",
+   "2%"
+  ],
+  [
+   "Pure Hydrolyzed Collagen Peptides (Bovine)",
+   "11 g",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "46"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,003.06",
+  "฿1,003.06",
+  "฿21.81/‏serving",
+  "{0}% off code: {1}",
+  "฿1,003.06",
+  "Save 0% in cart",
+  "฿21.81/‏serving",
+  "฿1,003.06",
+  "(0% off)",
+  "฿1,003.06",
+  "฿21.81/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zho/zho00605/s/38.jpg"
+ ]
+}

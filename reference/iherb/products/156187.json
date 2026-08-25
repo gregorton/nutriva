@@ -1,0 +1,262 @@
+{
+ "pid": "156187",
+ "slug": "nutrabio-sleep-melatonin-free-90-capsules",
+ "scrapedAt": "2026-08-25T17:15:50.107Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutrabio-sleep-melatonin-free-90-capsules.jpg",
+  "/products/iherb/nutrabio-sleep-melatonin-free-90-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutrabio-sleep-melatonin-free-90-capsules/156187",
+ "pageTitle": "NutraBio, Sleep, Melatonin Free, 90 Capsules",
+ "h1": "NutraBio, Sleep, Melatonin Free, 90 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "156187",
+  "name": "NutraBio, Sleep, Melatonin Free, 90 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/g/8.jpg",
+  "mpn": "NRB-21992",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.3,
+   "reviewCount": 10
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NutraBio",
+   "url": "http://www.nutrabio.com",
+   "identifier": "NRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1558.48",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Advanced Deep Sleep Support Dietary Supplement Kosher Specialty Wellness Vegetarian Halal Zylaria ® CherryPURE ® Relax PLX ® Relissa ® Manufactured in our GMP & FDA Inspected Facility From our Facility to Your Shaker Since 1996 A premium melatonin-free sleep aid supplement to help promote relaxation, improve sleep quality, and support stress management.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.35x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "NRB-21992",
+  "gtin12": "649908219925",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Advanced Deep Sleep Support",
+    "Dietary Supplement",
+    "Kosher",
+    "Specialty Wellness",
+    "Vegetarian",
+    "Halal",
+    "Zylaria®",
+    "CherryPURE®",
+    "Relax PLX®",
+    "Relissa®",
+    "Manufactured in our GMP & FDA Inspected Facility",
+    "From our Facility to Your Shaker Since 1996"
+   ],
+   "paragraphs": [
+    "A premium melatonin-free sleep aid supplement to help promote relaxation, improve sleep quality, and support stress management."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 serving (3 capsules) 30 minutes before bedtime."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable capsule (hypromellose, water).",
+    "Processed in a facility that also processes milk, eggs, fish, and tree nuts.",
+    "Made without gluten, lactose & GMOs.",
+    "Made in USA with ingredients sourced worldwide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place.",
+    "Keep out of reach of children. Do not use if pregnant or nursing. Not for use by individuals under the age of 18 years. Consult a physician before use if you have a medical condition or are taking any medication. Discontinue use two weeks prior to surgery."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NRB-21992"
+  },
+  {
+   "label": "UPC",
+   "value": "649908219925"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 6 x 5.8 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Vegetable Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Montmorency Tart Cherry Powder(CherryPURE® 50:1 concentrate) (Prunus cerasus, fruit, standardized to 3% proanthocyanidins)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "Zylaria®(Xylaria nigripes mycelium extract, Cuscuta chinensis seed extract, Panax notoginseng root extract)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "Relax PLX® Lemon Verbena Extract(Lippia citriodora, leaf, standardized to 28% phenylpropanoids)",
+   "400 mg",
+   "†"
+  ],
+  [
+   "Valerian Extract(Valeriana officinalis, root, standardized to 0.8% valerenic acid)",
+   "313 mg",
+   "†"
+  ],
+  [
+   "Melissa Phytosome™ (Relissa®)[Melissa officinalis L, leaf, with phospholipids (sunflower lecithin), standardized to 17% hydroxycinnamic acids]",
+   "200 mg",
+   "†"
+  ],
+  [
+   "L-Theanine",
+   "200 mg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 vegetable capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Halal",
+    "Gluten-free",
+    "Lactose-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,558.48",
+  "฿1,558.48",
+  "฿51.95/‏serving",
+  "{0}% off code: {1}",
+  "฿1,558.48",
+  "Save 0% in cart",
+  "฿51.95/‏serving",
+  "฿1,558.48",
+  "(0% off)",
+  "฿1,558.48",
+  "฿51.95/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrb/nrb21992/s/13.jpg"
+ ]
+}

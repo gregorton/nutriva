@@ -1,0 +1,343 @@
+{
+ "pid": "32590",
+ "slug": "dr-mcdougall-s-gluten-free-black-bean-lime-soup-3-4-oz-95-g",
+ "scrapedAt": "2026-08-25T17:47:25.968Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/dr-mcdougall-s-gluten-free-black-bean-lime-soup-3-4-oz-95-g.jpg",
+  "/products/iherb/dr-mcdougall-s-gluten-free-black-bean-lime-soup-3-4-oz-95-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dr-mcdougall-s-gluten-free-black-bean-lime-soup-3-4-oz-95-g/32590",
+ "pageTitle": "Dr. McDougall's, Gluten Free Black Bean & Lime Soup, 3.4 oz (95 g)",
+ "h1": "Dr. McDougall's, Gluten Free Black Bean & Lime Soup, 3.4 oz (95 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "32590",
+  "name": "Dr. McDougall's, Gluten Free Black Bean & Lime Soup, 3.4 oz (95 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/g/46.jpg",
+  "mpn": "MCD-01102",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.3,
+   "reviewCount": 500
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dr. McDougall's",
+   "url": "http://www.rightfoods.com/",
+   "identifier": "MCD"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.26",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "98.04",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "108.93",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Right Foods Sustainably Forestry Initiative Certified Sourcing Bright People Foods Each tasty serving of Dr. McDougall's Black Bean & Lime Soup provides 21 g protein and 14 g fiber per 95 g serving. Delicious wellness®. Nourishing your well-being while helping to sustain the earth is our recipe for happiness.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.9x3.9"
+  },
+  "isRelatedTo": null,
+  "sku": "MCD-01102",
+  "gtin12": "767335011025",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Packaged & Prepared Foods",
+  "Ready-to-Eat Meals",
+  "Noodle Meals"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Right Foods",
+    "Sustainably Forestry Initiative Certified Sourcing",
+    "Bright People Foods"
+   ],
+   "paragraphs": [
+    "Each tasty serving of Dr. McDougall's Black Bean & Lime Soup provides 21 g protein and 14 g fiber per 95 g serving. Delicious wellness®.",
+    "Nourishing your well-being while helping to sustain the earth is our recipe for happiness."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Cooking Instructions",
+    "Microwave Cooking Instructions (1,100W)",
+    "Boiling Water Instructions",
+    "Follow instructions above except add BOILING water to fill line and do not microwave."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Black beans *, tomato *, organic sugar* lime juice *, red bell pepper *, sea salt, yeast extracts *, onion *, garlic *, natural flavors *, spices *, chili pepper *, cilantro *.",
+    "*Dried"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Cup and food may be hot. Please handle with care. Do not leave microwave unattended."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MCD-01102"
+  },
+  {
+   "label": "UPC",
+   "value": "767335011025"
+  },
+  {
+   "label": "Package quantity",
+   "value": "95 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 9.9 x 9.9 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 95 g"
+  ],
+  [
+   "Servings Per Container: 1"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "350",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "600 mg",
+   "26%"
+  ],
+  [
+   "Total Carbohydrate",
+   "62 g",
+   "23%"
+  ],
+  [
+   "Dietary Fiber",
+   "14 g",
+   "50%"
+  ],
+  [
+   "Total Sugars",
+   "5 g",
+   ""
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "4%"
+  ],
+  [
+   "Protein",
+   "21 g",
+   "30%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "130 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "5 mg",
+   "30%"
+  ],
+  [
+   "Potassium",
+   "1,440 mg",
+   "30%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "95 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "1"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "53 g",
+   "pid": "32596",
+   "url": "https://th.iherb.com/pr/dr-mcdougall-s-vegan-miso-ramen-noodle-soup-1-9-oz-53-g/32596",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "95 g",
+   "pid": "32590",
+   "url": "https://th.iherb.com/pr/dr-mcdougall-s-gluten-free-black-bean-lime-soup-3-4-oz-95-g/32590",
+   "price": "฿98.04",
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#4 in",
+   "category": "Noodle Meals",
+   "href": "/c/noodle-meals?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Soup Cups",
+   "href": "/c/soup-cups?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Ready-to-Eat Meals",
+   "href": "/c/ready-to-eat-meals?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿108.93",
+  "฿108.93",
+  "฿108.93/‏serving",
+  "{0}% off code: {1}",
+  "฿108.93",
+  "Save 10% in cart",
+  "฿108.93/‏serving",
+  "฿98.04",
+  "(10% off)",
+  "฿108.93",
+  "฿98.04/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01102/b/46.jpg"
+ ]
+}

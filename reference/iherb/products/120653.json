@@ -1,0 +1,224 @@
+{
+ "pid": "120653",
+ "slug": "sheamoisture-raw-shea-butter-deep-moisturizing-leave-in-conditioner-cu",
+ "scrapedAt": "2026-08-25T17:49:30.588Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/sheamoisture-raw-shea-butter-deep-moisturizing-leave-in-conditioner-cu.jpg",
+  "/products/iherb/sheamoisture-raw-shea-butter-deep-moisturizing-leave-in-conditioner-cu-2.jpg",
+  "/products/iherb/sheamoisture-raw-shea-butter-deep-moisturizing-leave-in-conditioner-cu-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sheamoisture-raw-shea-butter-deep-moisturizing-leave-in-conditioner-curly-to-coily-hair-11-5-fl-oz-340-ml/120653",
+ "pageTitle": "SheaMoisture, Raw Shea Butter, Deep Moisturizing Leave-In Conditioner, Curly to Coily Hair, 11.5 fl oz (340 ml)",
+ "h1": "SheaMoisture, Raw Shea Butter, Deep Moisturizing Leave-In Conditioner, Curly to Coily Hair, 11.5 fl oz (340 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "120653",
+  "name": "SheaMoisture, Raw Shea Butter, Deep Moisturizing Leave-In Conditioner, Curly to Coily Hair, 11.5 fl oz (340 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/g/12.jpg",
+  "mpn": "SMT-02075",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 1236
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "SheaMoisture",
+   "url": "http://www.sheamoisture.com/",
+   "identifier": "SMT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.85",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "391.65",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "522.20",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "8x More Moisture vs. Non-Conditioning Shampoo W/ Sea Kelp & Argan Oil Moisturize & Smooth Made With Fair Trade Shea Butter Cruelty Free Ethically Sourced Sustainably Produced Certified B Corporation Family Founded Tested on Our Family for Generations. Never on Animals. Formulated with: No Parabens No Phthalates No Mineral oil No Animal Testing No Petrolatum Our new Raw Shea Butter Deep Moisturizing collection, enriched with a unique Raw Shea Butter blend, satisfies your thirsty curls' and coils' moisture needs. Our new Leave-in Conditioner smooths and infuses hair with 8X more moisture**. Perfect for prepping natural styles or transitioning hair with ease. **vs a non-conditioning shampoo",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.6x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "SMT-02075",
+  "gtin12": "764302020752",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/g/12.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Hair Care",
+  "Conditioner",
+  "Leave-in Conditioner"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "8x More Moisture vs. Non-Conditioning Shampoo",
+    "W/ Sea Kelp & Argan Oil",
+    "Moisturize & Smooth",
+    "Made With Fair Trade Shea Butter",
+    "Cruelty Free",
+    "Ethically Sourced",
+    "Sustainably Produced",
+    "Certified B Corporation",
+    "Family Founded",
+    "Tested on Our Family for Generations. Never on Animals.",
+    "No Parabens",
+    "No Phthalates",
+    "No Mineral oil",
+    "No Animal Testing",
+    "No Petrolatum"
+   ],
+   "paragraphs": [
+    "Formulated with:",
+    "Our new Raw Shea Butter Deep Moisturizing collection, enriched with a unique Raw Shea Butter blend, satisfies your thirsty curls' and coils' moisture needs. Our new Leave-in Conditioner smooths and infuses hair with 8X more moisture**. Perfect for prepping natural styles or transitioning hair with ease.",
+    "**vs a non-conditioning shampoo"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "After conditioning with RAW SHEA BUTTER DEEP MOISTURIZING CONDITIONER or MASQUE, apply product to clean, damp hair and comb through. Do not rinse. Air dry ar diffuse. Perfect for your twist-out, braid out, or wash n' go styles."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (eau), cetearyl alcohol, helianthus annuus (sunflower) seed oil, behentrimonium chloride, butyrospermum parkii (shea, butter)*+, glycerin (vegetable), capryloyl glycerin/sebacic acid copolymer, stearamidopropyl dimethylamine, hydrogenated vegetable oil, argania spinosa (argan) kernel oil, macrocystis pyrifera (kelp) extract, hydrolyzed jojoba esters, polyquaternium-10, saccharide isomerate, jojoba esters, diheptyl succinate, sodium chloride, tartaric acid, citric acid, hydroxypropylgluconamide, hydroxypropylammonium gluconate, sodium citrate, sodium acetate, sodium phytate, benzyl alcohol, sodium benzoate, triethyl citrate, caprylyl glycol, benzoic acid, fragrance (parfum).",
+    "*Certified organic ingredient +Fair trade ingredient"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Natural ingredients may vary in color and consistency. If irritation occurs, discontinue use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SMT-02075"
+  },
+  {
+   "label": "UPC",
+   "value": "764302020752"
+  },
+  {
+   "label": "Package quantity",
+   "value": "340 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 9.1 x 6.9 cm, 0.39 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "340 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    },
+    {
+     "label": "Hair concern",
+     "value": "Dry & frizzy"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Cruelty-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿522.20",
+  "฿522.20",
+  "฿1.54/‏ml",
+  "{0}% off code: {1}",
+  "฿522.20",
+  "Save 25% in cart",
+  "฿1.54/‏ml",
+  "฿391.65",
+  "(25% off)",
+  "฿522.20",
+  "฿1.15/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/g/12.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/k/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/g/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/s/15.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smt/smt02075/s/11.jpg"
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "pid": "145180",
+ "slug": "smnutrition-chelated-zinc-glycinate-120-capsules",
+ "scrapedAt": "2026-08-25T17:29:58.889Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/smnutrition-chelated-zinc-glycinate-120-capsules.jpg",
+  "/products/iherb/smnutrition-chelated-zinc-glycinate-120-capsules-2.jpg",
+  "/products/iherb/smnutrition-chelated-zinc-glycinate-120-capsules-3.jpg",
+  "/products/iherb/smnutrition-chelated-zinc-glycinate-120-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/smnutrition-chelated-zinc-glycinate-120-capsules/145180",
+ "pageTitle": "SMNutrition, Chelated Zinc Glycinate, 120 Capsules",
+ "h1": "SMNutrition, Chelated Zinc Glycinate, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "145180",
+  "name": "SMNutrition, Chelated Zinc Glycinate, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/g/24.jpg",
+  "mpn": "SMO-45846",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 64
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "SMNutrition",
+   "url": "https://smnutrition.com/",
+   "identifier": "SMO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "579.43",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Maximized Bioavailability (TRAACS™) With Vitamin B-6 + BioPerine® Albion Minerals™ Formulated Non-GMO Dietary Supplement Built on Trust. Crafted With Care® Gluten Free Vegetarian Sourced From a GMP Certified Facility 3rd-Party Tested",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "SMO-45846",
+  "gtin12": "850005458463",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Zinc",
+  "Zinc Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Maximized Bioavailability (TRAACS™)",
+    "With Vitamin B-6 + BioPerine®",
+    "Albion Minerals™",
+    "Formulated Non-GMO",
+    "Dietary Supplement",
+    "Built on Trust. Crafted With Care®",
+    "Gluten Free",
+    "Vegetarian",
+    "Sourced From a GMP Certified Facility",
+    "3rd-Party Tested"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement take one (1) capsule daily with a meal or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic brown rice flour and vegetable cellulose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your healthcare provider before using this supplement especially if you are pregnant, nursing, intending to get pregnant, taking medication, or have a medical condition.",
+    "Keep out of the reach of children. Contains desiccant packet for freshness. Do not eat packet. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SMO-45846"
+  },
+  {
+   "label": "UPC",
+   "value": "850005458463"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.2 x 5.1 x 5 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin B-6 (as pyridoxine HCl)",
+   "10 mg",
+   "588%"
+  ],
+  [
+   "Zinc (as zinc bisglycinate chelate) (TRAACS™)",
+   "30 mg",
+   "272%"
+  ],
+  [
+   "BioPerine® (black pepper fruit extract)",
+   "2.5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿579.43",
+  "฿579.43",
+  "฿4.83/‏serving",
+  "{0}% off code: {1}",
+  "฿579.43",
+  "Save 0% in cart",
+  "฿4.83/‏serving",
+  "฿579.43",
+  "(0% off)",
+  "฿579.43",
+  "฿4.83/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smo/smo45846/s/37.jpg"
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "pid": "82696",
+ "slug": "california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2",
+ "scrapedAt": "2026-08-25T17:04:54.228Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "3K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2-2.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2-3.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2-lb-907-g/82696",
+ "pageTitle": "California Gold Nutrition, Sport, Whey Protein Isolate, Dark Chocolate , 2 lb (907 g)",
+ "h1": "California Gold Nutrition, Sport, Whey Protein Isolate, Dark Chocolate , 2 lb (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "82696",
+  "name": "California Gold Nutrition, Sport, Whey Protein Isolate, Dark Chocolate , 2 lb (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/g/77.jpg",
+  "mpn": "CGN-01202",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 14777
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.08",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1708.86",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "27 g Protein, 6.1 g BCAAs☉, 4.6 g Glutamic Acid☉ Naturally Flavored with Cocoa Powder Low Lactose♢ No rbST▣ Supports Muscle Growth* Fuel your fitness gains with the help of California Gold Nutrition® Sport Dark Chocolate Whey Protein Isolate. When combined with a healthy diet and workout routine, this protein powder can help you achieve your goals by supporting muscle growth.* Shake, stir, or blend with your favorite beverage to create a delicious chocolate-flavored drink that makes it easy to get protein on the go. ☉Naturally Occurring Amino Acids ♢Whey Protein Isolate is a low lactose food. ▣No rbST (From cows not supplemented with rbST. No significant difference has been shown between milk derived from rbSTsupplemented and non-rbST supplemented cows). iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "8.55x3.9"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01202",
+  "gtin12": "898220012022",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/g/77.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Isolate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "27 g Protein, 6.1 g BCAAs☉, 4.6 g Glutamic Acid☉",
+    "Naturally Flavored with Cocoa Powder",
+    "Low Lactose♢",
+    "No rbST▣",
+    "Supports Muscle Growth*"
+   ],
+   "paragraphs": [
+    "Fuel your fitness gains with the help of California Gold Nutrition® Sport Dark Chocolate Whey Protein Isolate. When combined with a healthy diet and workout routine, this protein powder can help you achieve your goals by supporting muscle growth.* Shake, stir, or blend with your favorite beverage to create a delicious chocolate-flavored drink that makes it easy to get protein on the go.",
+    "☉Naturally Occurring Amino Acids ♢Whey Protein Isolate is a low lactose food.▣No rbST (From cows not supplemented with rbST. No significant difference has been shown between milk derived from rbSTsupplemented and non-rbST supplemented cows).",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 slightly rounded scoop daily with 6-12 ounces of cold water or the beverage of your choice. For best results, add liquid in a blender-type bottle, shaker cup, or electric blender first. then add the powder. Our Whey Protein Isolate can be blended with a spoon if necessary.",
+    "Note: 40 grams per 1 slightly rounded scoop is an average. Individual scooping technique may yield slightly less than or slightly more than 40 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Aroma, color, consistency, and taste may vary slightly from batch to batch.",
+    "Sealed for your protection. Do not use if pouch is punctured or seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.94 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01202"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012022"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "22 x 21.7 x 9.9 cm, 0.94 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (40 g)"
+  ],
+  [
+   "Servings Per Container: About 23"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "150",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "15 mg",
+   "5%"
+  ],
+  [
+   "Sodium",
+   "180 mg",
+   "8%"
+  ],
+  [
+   "Total Carbohydrate",
+   "8 g",
+   "3%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   ""
+  ],
+  [
+   "Includes 5 g Added Sugars",
+   "",
+   "10%"
+  ],
+  [
+   "Protein",
+   "27 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "130 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "1 mg",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "180 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calorie a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calorie a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "23"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "454 g",
+   "pid": "71031",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-454-g/71031",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "907 g",
+   "pid": "82696",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-2-lb-907-g/82696",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "2267 g",
+   "pid": "84571",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-dark-chocolate-5-lb-2-27-kg/84571",
+   "price": "฿3,588.61",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "Whey Protein Isolate",
+   "href": "/c/whey-protein-isolate?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Whey Protein",
+   "href": "/c/whey-protein?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Protein",
+   "href": "/c/protein?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,708.86",
+  "฿1,708.86",
+  "฿74.30/‏serving",
+  "{0}% off code: {1}",
+  "฿1,708.86",
+  "Save 0% in cart",
+  "฿74.30/‏serving",
+  "฿1,708.86",
+  "(0% off)",
+  "฿1,708.86",
+  "฿74.30/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/g/77.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/k/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/g/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/s/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/s/87.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/s/85.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/s/86.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01202/b/77.jpg"
+ ]
+}

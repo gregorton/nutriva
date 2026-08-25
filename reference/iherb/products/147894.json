@@ -1,0 +1,274 @@
+{
+ "pid": "147894",
+ "slug": "california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-9",
+ "scrapedAt": "2026-08-25T17:36:32.501Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "500+",
+  "flag": "New"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-9.jpg",
+  "/products/iherb/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-9-2.jpg",
+  "/products/iherb/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-9-3.jpg",
+  "/products/iherb/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-9-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-90-veggie-capsules/147894",
+ "pageTitle": "California Gold Nutrition, CranMax® LactoBif® Probiotics, 25 Billion CFU, 90 Veggie Capsules",
+ "h1": "California Gold Nutrition, CranMax® LactoBif® Probiotics, 25 Billion CFU, 90 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "147894",
+  "name": "California Gold Nutrition, CranMax® LactoBif® Probiotics, 25 Billion CFU, 90 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/g/20.jpg",
+  "mpn": "CGN-10005",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 12389
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.23",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1226.28",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Cran-Max® LactoBif Probiotics Featuring 8 Active and Clinically Researched Probiotic Strains 1 Plus Cran-Max® Cranberry Whole Fruit Concentrate Supports Digestive and Urinary Tract Health* Suitable for Vegetarians Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Your body’s natural microbiome of helpful bacteria can become unbalanced from a poor diet or other factors, causing unpleasant symptoms and affecting your daily life. California Gold Nutrition Cran-Max® LactoBif® Probiotic combines probiotics with a bioavailable cranberry concentrate to support digestive and urinary tract health.* Probiotic + Cranberry Benefits This unique formula contains 8 active and clinically researched probiotic strains, including 5 Lactobacilli and 3 Bifidobacteria.¹ When taken on a regular basis, probiotics may help balance intestinal flora which is key for digestive health and overall well being.* In addition, this supplement features Cran-Max®, a pure and natural cranberry concentrate that may help promote a healthy urinary tract. Cran-Max® is delivered by a patented delivery system called Bio-Shield® Technology, which protects the concentrate as it passes through the digestive system until it reaches the lower gastrointestinal tract where it can be better absorbed.* California Gold Nutrition Cran-Max® LactoBif Probiotics contains probiotics and cranberry concentrate in veggie capsules. They are individually-sealed in double-foil blister packaging, which helps protect the ingredients and makes this product shelf-stable with no need for refrigeration. 2 ​ iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.55x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-10005",
+  "gtin12": "898220100057",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/g/20.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Cranberry Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Cran-Max® LactoBif Probiotics",
+    "Featuring 8 Active and Clinically Researched Probiotic Strains1",
+    "Plus Cran-Max® Cranberry Whole Fruit Concentrate",
+    "Supports Digestive and Urinary Tract Health*",
+    "Suitable for Vegetarians",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Your body’s natural microbiome of helpful bacteria can become unbalanced from a poor diet or other factors, causing unpleasant symptoms and affecting your daily life. California Gold Nutrition Cran-Max® LactoBif® Probiotic combines probiotics with a bioavailable cranberry concentrate to support digestive and urinary tract health.*",
+    "Probiotic + Cranberry Benefits",
+    "This unique formula contains 8 active and clinically researched probiotic strains, including 5 Lactobacilli and 3 Bifidobacteria.¹ When taken on a regular basis, probiotics may help balance intestinal flora which is key for digestive health and overall well being.*",
+    "In addition, this supplement features Cran-Max®, a pure and natural cranberry concentrate that may help promote a healthy urinary tract. Cran-Max® is delivered by a patented delivery system called Bio-Shield® Technology, which protects the concentrate as it passes through the digestive system until it reaches the lower gastrointestinal tract where it can be better absorbed.*",
+    "California Gold Nutrition Cran-Max® LactoBif Probiotics contains probiotics and cranberry concentrate in veggie capsules. They are individually-sealed in double-foil blister packaging, which helps protect the ingredients and makes this product shelf-stable with no need for refrigeration.2",
+    "​",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Individually Double-Foil Blister Sealed for quality and your protection. Do not use if blister pack material is punctured or missing. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Potency guaranteed until expiration date when stored in a cool, dry place at 77°F (25°C) or below. Refrigeration is not required, but highly recommended.2",
+    "1In Vitro studies conducted by probiotic raw material supplier.",
+    "2No refrigeration needed, the individually double foil sealed capsules help maintain the quality of LactoBif® with Cran-Max®."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-10005"
+  },
+  {
+   "label": "UPC",
+   "value": "898220100057"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.2 x 9 x 7.7 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Cranberry Concentrate Powder (Vaccinium macrocarpon) (whole fruit)",
+   "250 mg",
+   "†"
+  ],
+  [
+   "Probiotic Bacteria BlendTotal Cultures: Lactobacillus acidophilus, Lactobacillus rhamnosus, Bifidobacterium lactis, Bifidobacterium longum, Lactobacillus plantarum, Lactobacillus casei, Lactobacillus salivarius, Bifidobacterium breve",
+   "105 mg25 Billion CFU",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "95098",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-30-veggie-capsules/95098",
+   "price": "฿550.39",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "64006",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggie-capsules/64006",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "147894",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-cranmax-lactobif-probiotics-25-billion-cfu-90-veggie-capsules/147894",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "143852",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-120-veggie-capsules/143852",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 9 left",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,226.28",
+  "฿1,226.28",
+  "฿13.63/‏serving",
+  "{0}% off code: {1}",
+  "฿1,226.28",
+  "Save 0% in cart",
+  "฿13.63/‏serving",
+  "฿1,226.28",
+  "(0% off)",
+  "฿1,226.28",
+  "฿13.63/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/g/20.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/k/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/g/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10005/s/25.jpg"
+ ]
+}

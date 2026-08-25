@@ -1,0 +1,352 @@
+{
+ "pid": "142409",
+ "slug": "nature-s-craft-men-s-multivitamin-gummies-lemon-pineapple-90-gummies",
+ "scrapedAt": "2026-08-25T17:28:57.563Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-men-s-multivitamin-gummies-lemon-pineapple-90-gummies.jpg",
+  "/products/iherb/nature-s-craft-men-s-multivitamin-gummies-lemon-pineapple-90-gummies-2.jpg",
+  "/products/iherb/nature-s-craft-men-s-multivitamin-gummies-lemon-pineapple-90-gummies-3.jpg",
+  "/products/iherb/nature-s-craft-men-s-multivitamin-gummies-lemon-pineapple-90-gummies-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-men-s-multivitamin-gummies-lemon-pineapple-90-gummies/142409",
+ "pageTitle": "Nature's Craft, Men's Multivitamin Gummies, Lemon Pineapple, 90 Gummies",
+ "h1": "Nature's Craft, Men's Multivitamin Gummies, Lemon Pineapple, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142409",
+  "name": "Nature's Craft, Men's Multivitamin Gummies, Lemon Pineapple, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/g/8.jpg",
+  "mpn": "NCA-63939",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 71
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.70",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "755.89",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Heart, Energy & Immune Support With Ashwagandha, CoQ10 & Superfood Blend Daily Vitamins Dietary Supplement Sourced From a GMP Registered Facility 3rd Party Lab Verified Non GMO Gluten Free Gelatin Free Our adult chewable multivitamin gummies for men is packed with essential nutrients including vitamins A C D3 E and B Complex plus Zinc Potassium Iodine Selenium and Chromium. Our mens multivitamins gummies are unlike any other multi vitamins supplements for men on the market thanks to our complete and unique formula with real fruit and vegetable extracts. Gummies aren’t just for kids so try our adult gummy vitamins for men with a great fruit flavor loaded with essential vitamins and minerals for ideal wellness at any age.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.95x2.9"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-63939",
+  "gtin12": "850050639398",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Men's Health",
+  "Men's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Heart, Energy & Immune Support",
+    "With Ashwagandha, CoQ10 & Superfood Blend",
+    "Daily Vitamins",
+    "Dietary Supplement",
+    "Sourced From a GMP Registered Facility",
+    "3rd Party Lab Verified",
+    "Non GMO",
+    "Gluten Free",
+    "Gelatin Free"
+   ],
+   "paragraphs": [
+    "Our adult chewable multivitamin gummies for men is packed with essential nutrients including vitamins A C D3 E and B Complex plus Zinc Potassium Iodine Selenium and Chromium.",
+    "Our mens multivitamins gummies are unlike any other multi vitamins supplements for men on the market thanks to our complete and unique formula with real fruit and vegetable extracts.",
+    "Gummies aren’t just for kids so try our adult gummy vitamins for men with a great fruit flavor loaded with essential vitamins and minerals for ideal wellness at any age."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 gummies per day, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, glucose, pectin, glycerin, natural flavors, sodium citrate, citric acid, mct oil, tricalcium phosphate, arabic gum, palm oil, carnauba wax, stevioside, purple carrot juice concentrate (color)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult your healthcare provider before use if you are contemplating pregnancy, pregnant, nursing, have any medical condition, or use any medications. For adult use only. Colors will darken over time. This does not alter the potency of the product.",
+    "Keep out of the reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-63939"
+  },
+  {
+   "label": "UPC",
+   "value": "850050639398"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.3 x 7.5 x 7.4 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "30",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "7 g",
+   "3%†"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   "**"
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%†"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "450 mcg RAE",
+   "50%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "75 mg",
+   "83%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "25 mcg",
+   "125%"
+  ],
+  [
+   "Vitamin E (as DL-Alpha Tocopheryl Acetate)",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Thiamin",
+   "0.05 mg",
+   "4%"
+  ],
+  [
+   "Riboflavin",
+   "0.05mg",
+   "4%"
+  ],
+  [
+   "Niacin (as Nicotinamide)",
+   "4 mg NE",
+   "25%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCl)",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate",
+   "667 mcg DFE (400 mcg Folic Acid)",
+   "167%"
+  ],
+  [
+   "Vitamin B12 (as Cyanocobalamin)",
+   "4 mcg",
+   "167%"
+  ],
+  [
+   "Biotin",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "lodine (as Potassium lodide)",
+   "75 mcg",
+   "50%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "5 mg",
+   "45%"
+  ],
+  [
+   "Selenium (as Selenium-Enriched Yeast)",
+   "20 mcg",
+   "36%"
+  ],
+  [
+   "Chromium (as Chromium-Enriched Yeast)",
+   "20 mcg",
+   "57%"
+  ],
+  [
+   "Sodium",
+   "25 mg",
+   "1%"
+  ],
+  [
+   "Ashwagandha Root Extract",
+   "25 mg",
+   "**"
+  ],
+  [
+   "Fruit and Vegetable Blend(Carrot Powder, Spinach Powder, Blueberry Juice Powder, Cranberry Powder)",
+   "20 mg",
+   "**"
+  ],
+  [
+   "Coenzyme Q10",
+   "5 mg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿755.89",
+  "฿755.89",
+  "฿25.20/‏serving",
+  "{0}% off code: {1}",
+  "฿755.89",
+  "Save 0% in cart",
+  "฿25.20/‏serving",
+  "฿755.89",
+  "(0% off)",
+  "฿755.89",
+  "฿25.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/s/11.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63939/b/8.jpg"
+ ]
+}

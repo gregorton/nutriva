@@ -1,0 +1,250 @@
+{
+ "pid": "155871",
+ "slug": "vitauthority-marine-collagen-unflavored-6-35-oz-180-g",
+ "scrapedAt": "2026-08-25T17:34:53.698Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitauthority-marine-collagen-unflavored-6-35-oz-180-g.jpg",
+  "/products/iherb/vitauthority-marine-collagen-unflavored-6-35-oz-180-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitauthority-marine-collagen-unflavored-6-35-oz-180-g/155871",
+ "pageTitle": "Vitauthority, Marine Collagen, Unflavored, 6.35 oz (180 g)",
+ "h1": "Vitauthority, Marine Collagen, Unflavored, 6.35 oz (180 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "155871",
+  "name": "Vitauthority, Marine Collagen, Unflavored, 6.35 oz (180 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/g/16.jpg",
+  "mpn": "VAU-64123",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 13
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitauthority",
+   "url": "https://vitauthority.com/",
+   "identifier": "VAU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.53",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1069.09",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "​​​​​Protein Peptides Types I, II, III, & IV Hair, Skin, Nails 9 g Protein ∧ Add to Coffee, Smoothies, Recipes & More Dietary Supplement Hydrolyzed Fish Collagen Gluten Free No Artificial Colors Paleo & Keto Friendly Third Party Tested Authentic Vitauthority Product A clean, single-ingredient supplement made with 10,000 mg of hydrolyzed fish collagen (whitefish) per scoop. This unflavored powder delivers 9 grams of protein with no sugar, additives, or aftertaste — just full-body support for skin, joints, and connective tissue. It blends seamlessly into coffee, tea, smoothies, and more ∧ Per Serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.6"
+  },
+  "isRelatedTo": null,
+  "sku": "VAU-64123",
+  "gtin12": "850069641238",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/g/16.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "​​​​​Protein Peptides",
+    "Types I, II, III, & IV",
+    "Hair, Skin, Nails",
+    "9 g Protein∧",
+    "Add to Coffee, Smoothies, Recipes & More",
+    "Dietary Supplement",
+    "Hydrolyzed Fish Collagen",
+    "Gluten Free",
+    "No Artificial Colors",
+    "Paleo & Keto Friendly",
+    "Third Party Tested",
+    "Authentic Vitauthority Product"
+   ],
+   "paragraphs": [
+    "A clean, single-ingredient supplement made with 10,000 mg of hydrolyzed fish collagen (whitefish) per scoop. This unflavored powder delivers 9 grams of protein with no sugar, additives, or aftertaste — just full-body support for skin, joints, and connective tissue. It blends seamlessly into coffee, tea, smoothies, and more",
+    "∧Per Serving."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix one scoop with 6-10 ounces of your favorite beverage or recipe. The most popular choices are coffee, smoothies, juices, tea, and foods such as yogurt or oatmeal. It is not recommended to mix with plain water.",
+    "Mix, shake, blend or get creative."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Contains: whitefish.",
+    "Manufactured in a facility which process milk, fish, shellfish, tree nuts, wheat, soybeans, and sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, allergic, or have a medical condition, or are taking any medications, consult a doctor before using this or any other dietary supplement. Do not use if product has been opened or tampered with in any way. Keep out of reach of children. Store in a cool dry place.",
+    "Amount inside is measured by weight, not volume."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VAU-64123"
+  },
+  {
+   "label": "UPC",
+   "value": "850069641238"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 9.3 x 9.1 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (10 g)"
+  ],
+  [
+   "Servings Per Container: About 18"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "<1%"
+  ],
+  [
+   "Protein",
+   "9 g",
+   "0%"
+  ],
+  [
+   "Hydrolyzed Fish Collagen (whitefish)",
+   "10,000 mg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.‡Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "‡Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "18"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Paleo",
+    "Gluten-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,069.09",
+  "฿1,069.09",
+  "฿59.39/‏serving",
+  "{0}% off code: {1}",
+  "฿1,069.09",
+  "Save 0% in cart",
+  "฿59.39/‏serving",
+  "฿1,069.09",
+  "(0% off)",
+  "฿1,069.09",
+  "฿59.39/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/g/16.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/k/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/g/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau64123/s/22.jpg"
+ ]
+}

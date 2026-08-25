@@ -1,0 +1,263 @@
+{
+ "pid": "110467",
+ "slug": "california-gold-nutrition-goodnight-sleep-with-fresh-milky-oat-seed-st",
+ "scrapedAt": "2026-08-25T17:07:06.638Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-goodnight-sleep-with-fresh-milky-oat-seed-st.jpg",
+  "/products/iherb/california-gold-nutrition-goodnight-sleep-with-fresh-milky-oat-seed-st-2.jpg",
+  "/products/iherb/california-gold-nutrition-goodnight-sleep-with-fresh-milky-oat-seed-st-3.jpg",
+  "/products/iherb/california-gold-nutrition-goodnight-sleep-with-fresh-milky-oat-seed-st-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-goodnight-sleep-with-fresh-milky-oat-seed-st-john-s-wort-skullcap-and-passion-flower-herbs-1-fl-oz-30-ml/110467",
+ "pageTitle": "California Gold Nutrition, Goodnight Sleep with Fresh Milky Oat Seed, St. John's Wort, Skullcap, and Passion Flower Herbs, 1 fl oz (30 ml)",
+ "h1": "California Gold Nutrition, Goodnight Sleep with Fresh Milky Oat Seed, St. John's Wort, Skullcap, and Passion Flower Herbs, 1 fl oz (30 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "110467",
+  "name": "California Gold Nutrition, Goodnight Sleep with Fresh Milky Oat Seed, St. John's Wort, Skullcap, and Passion Flower Herbs, 1 fl oz (30 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/g/56.jpg",
+  "mpn": "CGN-02121",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.4,
+   "reviewCount": 1385
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "363.58",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "484.77",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Goodnight Sleep Gentle, Calming Sleep Formula Featuring Select Botanicals, including St. John’s Wort, Skullcap, and Passion Flower Helps Calm the Mind and Support Healthy Sleep Patterns.* Suitable for Vegetarians and Vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee In a busy world of work deadlines, family commitments, and social engagements, it can be difficult to quiet your mind and rest at the end of the day. California Gold Nutrition Goodnight Sleep is a calming sleep formula made specifically for those who have trouble with racing thoughts, worries, or restlessness at bedtime. Natural Sleep Aid with Soothing Botanicals Restless nights can lead to stressful days, but this supplement helps you break this pattern of exhaustion. Featuring a proprietary blend of select botanicals, like St. John’s Wort, skullcap herb, and passion flower herb, this formula was designed to help calm the mind and support healthy sleep patterns.* Unlike some stronger sleep aids that can leave you feeling groggy, these soothing botanicals help to naturally quiet compulsive thinking, allowing you to gently drift to sleep and wake up feeling refreshed.* California Gold Nutrition Goodnight Sleep features a proprietary blend of calming herbs in a convenient liquid supplement. Just take the recommended amount 30 minutes before bed to help calm your mind and prepare for sleep. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.4x1.4"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02121",
+  "gtin12": "898220021215",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/g/56.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Goodnight Sleep",
+    "Gentle, Calming Sleep Formula",
+    "Featuring Select Botanicals, including St. John’s Wort, Skullcap, and Passion Flower",
+    "Helps Calm the Mind and Support Healthy Sleep Patterns.*",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "In a busy world of work deadlines, family commitments, and social engagements, it can be difficult to quiet your mind and rest at the end of the day. California Gold Nutrition Goodnight Sleep is a calming sleep formula made specifically for those who have trouble with racing thoughts, worries, or restlessness at bedtime.",
+    "Natural Sleep Aid with Soothing BotanicalsRestless nights can lead to stressful days, but this supplement helps you break this pattern of exhaustion. Featuring a proprietary blend of select botanicals, like St. John’s Wort, skullcap herb, and passion flower herb, this formula was designed to help calm the mind and support healthy sleep patterns.* Unlike some stronger sleep aids that can leave you feeling groggy, these soothing botanicals help to naturally quiet compulsive thinking, allowing you to gently drift to sleep and wake up feeling refreshed.*",
+    "California Gold Nutrition Goodnight Sleep features a proprietary blend of calming herbs in a convenient liquid supplement. Just take the recommended amount 30 minutes before bed to help calm your mind and prepare for sleep.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 30 drops daily 1/2 hour before bedtime, with or without food. Best when taken as directed by a qualified healthcare professional.",
+    "Shake well before using."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Do not take during pregnancy or while nursing. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture. Sediment/ Particulate is normal and cannot be avoided."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02121"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021215"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 3.6 x 3.6 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 30 drops (1 ml)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Proprietary BlendFresh Milky Oat Seed‡, Fresh St. John's Wort Flowering Herb, FreshSkullcap Herb‡, Passion Flower Herb‡, Hops Strobiles‡, Fresh Lobelia Herb‡, Fresh Pulsatilla Herb",
+   "1 ml",
+   "†"
+  ],
+  [
+   "†Daily Value not established.‡Organic"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established.",
+  "‡Organic"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 ml"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Skullcap",
+   "href": "/c/skullcap?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Passion Flower Supplements",
+   "href": "/c/passion-flower-supplements?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "St. John's Wort",
+   "href": "/c/st-johns-wort?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿484.77",
+  "฿484.77",
+  "฿16.16/‏serving",
+  "{0}% off code: {1}",
+  "฿484.77",
+  "Save 25% in cart",
+  "฿16.16/‏serving",
+  "฿363.58",
+  "(25% off)",
+  "฿484.77",
+  "฿12.12/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/g/56.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/k/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/g/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02121/s/58.jpg"
+ ]
+}

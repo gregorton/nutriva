@@ -1,0 +1,242 @@
+{
+ "pid": "142018",
+ "slug": "ready-100-whey-protein-powder-chocolate-1-lb-476-g",
+ "scrapedAt": "2026-08-25T17:39:39.327Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/ready-100-whey-protein-powder-chocolate-1-lb-476-g.jpg",
+  "/products/iherb/ready-100-whey-protein-powder-chocolate-1-lb-476-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/ready-100-whey-protein-powder-chocolate-1-lb-476-g/142018",
+ "pageTitle": "Ready, 100% Whey Protein Powder, Chocolate, 1 lb (476 g)",
+ "h1": "Ready, 100% Whey Protein Powder, Chocolate, 1 lb (476 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142018",
+  "name": "Ready, 100% Whey Protein Powder, Chocolate, 1 lb (476 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/g/2.jpg",
+  "mpn": "RFB-00609",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 31
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Ready",
+   "url": "https://teamready.com/",
+   "identifier": "RFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "1099.30",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Contents Certified NSF Natural Flavor 25 g Protein Per Serving 0 g Added Sugar* Per Serving 120 Calories Per Serving With 7 Simple Ingredients Gluten Free A Clean & Great Tasting Protein Powder Simple isn't always easy... especially when it comes to producing a clean and great tasting protein powder. It was our biggest product development challenge we've taken on as a company. Why-the science behind creating the perfect powder is a methodical process. It requires nothing less than perfection to achieve a strong nutritional profile with a taste that makes you want to shake every drop out of your cup. It will leave you feeling satisfied; feeling strong, yet it doesn't make you feel full. Well - we nailed it. We accomplished all of those things with only 7 ingredients - yes 7 ingredients! And with 100% whey protein - you'll notice isolate is our number one ingredient. And here's the best part. It's a clean, gluten free combination of simple ingredients with a light and smooth taste you'll want to drink every day. Here's to living Clean! - Pat Cavanaugh, Founder & CEO *Not a low calorie food. See nutritional panel.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.8x5.25"
+  },
+  "isRelatedTo": null,
+  "sku": "RFB-00609",
+  "gtin12": "847644006094",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Blends"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.77 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "RFB-00609"
+  },
+  {
+   "label": "UPC",
+   "value": "847644006094"
+  },
+  {
+   "label": "Package quantity",
+   "value": "476 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "19.8 x 14.7 x 13.3 cm, 0.49 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: (34 g)"
+  ],
+  [
+   "Servings Per Container: 14"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "45 mg",
+   "15%"
+  ],
+  [
+   "Sodium",
+   "90 mg",
+   "4%"
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "7%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   "50%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "140 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "1.5 mg",
+   "8%"
+  ],
+  [
+   "Potassium",
+   "240 mg",
+   "6%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: (34 g)Servings Per Container: 14 Amount Per Serving%Daily Value*Calories120Total Fat 1 g1%Saturated Fat 0.5 g3%Trans Fat 0 gCholesterol 45 mg15%Sodium 90 mg4%Total Carbohydrate 4 g1%Dietary Fiber 2 g7%Total Sugars 1 gIncludes 0 g Added Sugars0%Protein 25 g50%Vitamin D 0 mcg0%Calcium 140 mg10%Iron 1.5 mg8%Potassium 240 mg6%*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "34 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "14"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "NSF"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "ALLMAX, CLASSIC ALLWHEY®, 100% Whey Protein Source, Chocolate, 2 lbs (907 g)",
+  "3,847",
+  "฿1,753.90"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rfb/rfb00609/s/3.jpg"
+ ]
+}

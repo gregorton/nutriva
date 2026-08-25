@@ -1,0 +1,222 @@
+{
+ "pid": "118320",
+ "slug": "swanson-vitamins-melatonin-extra-low-dose-500-mcg-60-vegan-caps",
+ "scrapedAt": "2026-08-25T17:31:00.952Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-melatonin-extra-low-dose-500-mcg-60-vegan-caps.jpg",
+  "/products/iherb/swanson-vitamins-melatonin-extra-low-dose-500-mcg-60-vegan-caps-2.jpg",
+  "/products/iherb/swanson-vitamins-melatonin-extra-low-dose-500-mcg-60-vegan-caps-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-melatonin-extra-low-dose-500-mcg-60-vegan-caps/118320",
+ "pageTitle": "Swanson Vitamins, Melatonin, Extra Low Dose, 500 mcg, 60 Vegan Caps",
+ "h1": "Swanson Vitamins, Melatonin, Extra Low Dose, 500 mcg, 60 Vegan Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "118320",
+  "name": "Swanson Vitamins, Melatonin, Extra Low Dose, 500 mcg, 60 Vegan Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/g/24.jpg",
+  "mpn": "SWV-11648",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1256
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "90.56",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Sleep Support 500 mcg Per Capsule 100% Drug Free Dietary Supplement Vegan As the hormone primarily responsible for regulating our sleep/wake cycles, melatonin plays an important role in our ability to get the restful, restorative sleep we need for healthy body and mind. That’s why many people rely on supplemental melatonin to maintain a regular sleep schedule. But melatonin is powerful stuff, and for some people, a little is all they need to give their sleep patterns a slight adjustment. Our low-potency option from Swanson Melatonin features 500 mcg of melatonin in each veggie capsule, enabling more precise supplementation so you can get the amount that’s right for you.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.45x1.45"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-11648",
+  "gtin12": "087614116488",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Sleep Support",
+    "500 mcg Per Capsule",
+    "100% Drug Free",
+    "Dietary Supplement",
+    "Vegan"
+   ],
+   "paragraphs": [
+    "As the hormone primarily responsible for regulating our sleep/wake cycles, melatonin plays an important role in our ability to get the restful, restorative sleep we need for healthy body and mind. That’s why many people rely on supplemental melatonin to maintain a regular sleep schedule. But melatonin is powerful stuff, and for some people, a little is all they need to give their sleep patterns a slight adjustment. Our low-potency option from Swanson Melatonin features 500 mcg of melatonin in each veggie capsule, enabling more precise supplementation so you can get the amount that’s right for you."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one vegan capsule with water one-half hour before bedtime."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, hypromellose (vegan capsule)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. As melatonin may produce drowsiness, do not take with alcohol or drive an automobile or operate heavy equipment after taking Do not take this product if you are pregnant or nursing, have an autoimmune condition or a depressive disorder, or are under 16 years of age.",
+    "Consult your healthcare provider before use if you are experiencing long-term sleep difficulties, have a medical condition or if you are taking any prescription medications. Not intended for long term use. Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.04 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-11648"
+  },
+  {
+   "label": "UPC",
+   "value": "087614116488"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.2 x 3.7 x 3.7 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegan Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Melatonin",
+   "500 mcg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegan capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿90.56",
+  "฿90.56",
+  "฿1.51/‏serving",
+  "{0}% off code: {1}",
+  "฿90.56",
+  "Save 0% in cart",
+  "฿1.51/‏serving",
+  "฿90.56",
+  "(0% off)",
+  "฿90.56",
+  "฿1.51/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11648/s/32.jpg"
+ ]
+}

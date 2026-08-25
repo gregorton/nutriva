@@ -1,0 +1,267 @@
+{
+ "pid": "113325",
+ "slug": "now-foods-mega-d3-mk-7-120-capsules",
+ "scrapedAt": "2026-08-25T17:15:31.542Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "5K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-mega-d3-mk-7-120-capsules.jpg",
+  "/products/iherb/now-foods-mega-d3-mk-7-120-capsules-2.jpg",
+  "/products/iherb/now-foods-mega-d3-mk-7-120-capsules-3.jpg",
+  "/products/iherb/now-foods-mega-d3-mk-7-120-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-mega-d3-mk-7-120-capsules/113325",
+ "pageTitle": "NOW Foods, Mega D3 & MK-7, 120 Capsules",
+ "h1": "NOW Foods, Mega D3 & MK-7, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "113325",
+  "name": "NOW Foods, Mega D3 & MK-7, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/g/59.jpg",
+  "mpn": "NOW-00386",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 31265
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1055.83",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "5000 IU / 180 mcg Bone & Cardiovascular Support Vitamins D-3 & K-2 MenaQ7® Dietary Supplement Kosher Vitamins Family Owned Since 1968 Halal GMP Quality Assured NOW® Mega D3 & MK-7 combines vitamins D3 and K2, two nutrients extensively researched for their roles in the health of bones, teeth and the cardiovascular system. Vitamin D3 works with calcium to support bone health, and more recent studies indicate it's important for immune system health as well. MenaQ7® MK-7 is a unique soy-free, bioavailable form of vitamin K2 that plays a critical role in arterial health through its ability to support proper calcium metabolism in blood vessels and arteries. Vitamin K2 is also important for the formation of strong, healthy bones.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00386",
+  "gtin12": "733739003867",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/g/59.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "5000 IU / 180 mcg",
+    "Bone & Cardiovascular Support",
+    "Vitamins D-3 & K-2",
+    "MenaQ7®",
+    "Dietary Supplement",
+    "Kosher",
+    "Vitamins",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "NOW® Mega D3 & MK-7 combines vitamins D3 and K2, two nutrients extensively researched for their roles in the health of bones, teeth and the cardiovascular system. Vitamin D3 works with calcium to support bone health, and more recent studies indicate it's important for immune system health as well. MenaQ7® MK-7 is a unique soy-free, bioavailable form of vitamin K2 that plays a critical role in arterial health through its ability to support proper calcium metabolism in blood vessels and arteries. Vitamin K2 is also important for the formation of strong, healthy bones."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily with a fat-containing meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose (cellulose capsule), modified starch, maltodextrin and silicon dioxide.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Do not exceed the recommended dose. Consult physician if pregnant/nursing, taking any anti-coagulants (such as warfarin, Coumadin®, heparin), or other medications (especially topical psoriasis medications or thiazide diuretics), or have a medical condition (especially hypercalcemia, kidney disease, or hyperparathyroidism). Discontinue use two weeks prior to surgery. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00386"
+  },
+  {
+   "label": "UPC",
+   "value": "733739003867"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5 x 5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D(as D3 Cholecalciferol) (from Lanolin)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2(as Menaquinone-7) (MK-7) (MenaQ7®)",
+   "180 mcg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "23506",
+   "url": "https://th.iherb.com/pr/now-foods-mega-d3-mk-7-30-capsules/23506",
+   "price": "฿343.85",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "79866",
+   "url": "https://th.iherb.com/pr/now-foods-mega-d3-mk-7-60-capsules/79866",
+   "price": "฿619.46",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "113325",
+   "url": "https://th.iherb.com/pr/now-foods-mega-d3-mk-7-120-capsules/113325",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "5,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,055.83",
+  "฿1,055.83",
+  "฿8.80/‏serving",
+  "{0}% off code: {1}",
+  "฿1,055.83",
+  "Save 0% in cart",
+  "฿8.80/‏serving",
+  "฿1,055.83",
+  "(0% off)",
+  "฿1,055.83",
+  "฿8.80/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/g/59.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/k/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/g/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00386/s/49.jpg"
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "pid": "114213",
+ "slug": "nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-9",
+ "scrapedAt": "2026-08-25T17:08:50.577Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "300+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-9.jpg",
+  "/products/iherb/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-9-2.jpg",
+  "/products/iherb/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-9-3.jpg",
+  "/products/iherb/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-9-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-90-gummies/114213",
+ "pageTitle": "Nature's Craft, Kids Multivitamin Gummies, Strawberry, Raspberry & Orange, 90 Gummies",
+ "h1": "Nature's Craft, Kids Multivitamin Gummies, Strawberry, Raspberry & Orange, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "114213",
+  "name": "Nature's Craft, Kids Multivitamin Gummies, Strawberry, Raspberry & Orange, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/g/56.jpg",
+  "mpn": "NCA-59934",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1557
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.73",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "608.98",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "761.22",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Rooted in Nature Backed by Science Supports Healthy Immune System Vegetarian Formula Daily Vitamins Dietary Supplement Sourced From A GMP Compliant Facility ISO 170205 Lab Tested Gluten Free Kosher Gummies to Fuel Their Fun Packed with a comprehensive blend of essential vitamins and minerals, our gummies are designed to support your child's overall health and well-being. From boosting immune function to promoting healthy bones, teeth, and skin, these tasty gummies provide the nutrients kids need to grow and thrive daily.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-59934",
+  "gtin12": "793611599345",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/g/56.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Rooted in Nature Backed by Science",
+    "Supports Healthy Immune System",
+    "Vegetarian Formula",
+    "Daily Vitamins",
+    "Dietary Supplement",
+    "Sourced From A GMP Compliant Facility",
+    "ISO 170205 Lab Tested",
+    "Gluten Free",
+    "Kosher"
+   ],
+   "paragraphs": [
+    "Gummies to Fuel Their Fun",
+    "Packed with a comprehensive blend of essential vitamins and minerals, our gummies are designed to support your child's overall health and well-being.",
+    "From boosting immune function to promoting healthy bones, teeth, and skin, these tasty gummies provide the nutrients kids need to grow and thrive daily."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Product should be fully chewed while observed by an adult. Children 2 to 3 years of age fully chew one (1) gummy daily. Children 4 years of age and up fully chew two (2) gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, colors (black carrot concentrate, sodium copper chlorophyllin, curcumin and paprika extract), trisodium citrate, natural flavors, sodium ascorbate, carnauba wax, choline tartrate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using. choking. Not for children under 2 years of age due to risk of choking.",
+    "Keep out of reach of children. Do not use if safety seal under cap is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.33 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-59934"
+  },
+  {
+   "label": "UPC",
+   "value": "793611599345"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.1 cm, 0.33 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy (2-3 Years of Age), 2 Gummies (4 Years & Up)"
+  ],
+  [
+   "Servings Per Container: 90, 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value2-3 Years of Age†",
+   "Amount Per Serving",
+   "%Daily Value4 Years & Up‡"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%",
+   "5 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugars",
+   "1 g",
+   "4%",
+   "3 g",
+   "6%"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "200 mcg",
+   "67%",
+   "400 mcg",
+   "44%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "40 mg",
+   "267%",
+   "80 mg",
+   "89%"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "10 mcg (400 IU)",
+   "67%",
+   "20 mcg (800 IU)",
+   "100%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha Tocopheryl acetate)",
+   "7.5 mg",
+   "125%",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Niacin (as Niacinamide)",
+   "4 mg",
+   "67%",
+   "8 mg",
+   "50%"
+  ],
+  [
+   "Vitamin B-6 (as Pyridoxine HCl)",
+   "0.9 mg",
+   "180%",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate",
+   "220 mcg DFE (130 mcg folic acid)",
+   "147%",
+   "442 mcg DFE (260 mcg folic acid)",
+   "111%"
+  ],
+  [
+   "Vitamin B-12 (as Cyanocobalamin)",
+   "1.2 mcg",
+   "133%",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "15 mcg",
+   "188%",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D-Pantothenate)",
+   "2.5 mg",
+   "125%",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "lodine (from Potassium Iodide)",
+   "75 mcg",
+   "83%",
+   "150 mcg",
+   "100%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "1 mg",
+   "33%",
+   "2 mg",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "2.5 mg",
+   "<1%",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "†Percent Daily Value based on a 1,000 calorie diet.‡Percent Daily Value based on a 2,000 calorie diet. **Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "%Daily Value",
+  "%Daily Value",
+  "†Percent Daily Value based on a 1,000 calorie diet.",
+  "‡Percent Daily Value based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "114213",
+   "url": "https://th.iherb.com/pr/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-90-gummies/114213",
+   "price": "฿608.98",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "133433",
+   "url": "https://th.iherb.com/pr/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-120-gummies/133433",
+   "price": "฿955.12",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "133424",
+   "url": "https://th.iherb.com/pr/nature-s-craft-kids-multivitamin-gummies-strawberry-raspberry-orange-180-gummies/133424",
+   "price": "฿1,263.63",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿761.22",
+  "฿761.22",
+  "฿8.46/‏serving",
+  "{0}% off code: {1}",
+  "฿761.22",
+  "Save 20% in cart",
+  "฿8.46/‏serving",
+  "฿608.98",
+  "(20% off)",
+  "฿761.22",
+  "฿6.77/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/g/56.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/k/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/g/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca59934/s/71.jpg"
+ ]
+}

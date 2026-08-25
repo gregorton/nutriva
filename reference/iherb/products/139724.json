@@ -1,0 +1,265 @@
+{
+ "pid": "139724",
+ "slug": "force-factor-marine-collagen-powder-unflavored-5-93-oz-168-g",
+ "scrapedAt": "2026-08-25T17:40:54.029Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "100+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-marine-collagen-powder-unflavored-5-93-oz-168-g.jpg",
+  "/products/iherb/force-factor-marine-collagen-powder-unflavored-5-93-oz-168-g-2.jpg",
+  "/products/iherb/force-factor-marine-collagen-powder-unflavored-5-93-oz-168-g-3.jpg",
+  "/products/iherb/force-factor-marine-collagen-powder-unflavored-5-93-oz-168-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-marine-collagen-powder-unflavored-5-93-oz-168-g/139724",
+ "pageTitle": "Force Factor, Marine Collagen Powder, Unflavored, 5.93 oz (168 g)",
+ "h1": "Force Factor, Marine Collagen Powder, Unflavored, 5.93 oz (168 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139724",
+  "name": "Force Factor, Marine Collagen Powder, Unflavored, 5.93 oz (168 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/g/8.jpg",
+  "mpn": "FOA-66128",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 632
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "626.09",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1075.57",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "With Hyaluronic Acid 5g Hydrolyzed Peptides Type I &III Supports Healthy hair, Skin, Nails, Bones, & Joints No Artificial Colors No Gelatin Non GMO Dietary Supplement Elevate Your Self Care Ritual Force Factor® Marine Collagen delivers a potent blend of marine collagen and clinically studied hyaluronic acid. Every serving works to nourish your skin's natura elasticity while providing holistic support for healthier hair, strong bones, and cushioned joints. If you're looking for a simple and effective way to improve the way you look and feel, add Force Factor Marine Collagen to your daily self-care ritual. We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it. Let Force Factor help Unleash Your Potential®.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.65"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-66128",
+  "gtin12": "810126661289",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "With Hyaluronic Acid",
+    "5g Hydrolyzed Peptides Type I &III",
+    "Supports Healthy hair, Skin, Nails, Bones, & Joints",
+    "No Artificial Colors",
+    "No Gelatin",
+    "Non GMO",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Elevate Your Self Care Ritual",
+    "Force Factor® Marine Collagen delivers a potent blend of marine collagen and clinically studied hyaluronic acid. Every serving works to nourish your skin's natura elasticity while providing holistic support for healthier hair, strong bones, and cushioned joints. If you're looking for a simple and effective way to improve the way you look and feel, add Force Factor Marine Collagen to your daily self-care ritual.",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it. Let Force Factor help Unleash Your Potential®."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 serving with 8-10 oz of cold water or beverage of your choice. Consume 1 serving daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Silicon Dioxide, Calcium Silicate.",
+    "Allergen warning: Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the U.S. from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-66128"
+  },
+  {
+   "label": "UPC",
+   "value": "810126661289"
+  },
+  {
+   "label": "Package quantity",
+   "value": "168 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 9.3 x 9.3 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (5.6 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Protein",
+   "5 g",
+   "0%**"
+  ],
+  [
+   "Hydrolyzed Marine Collagen Peptides",
+   "5,000 mg",
+   "‡"
+  ],
+  [
+   "Hyaluronic Acid (as sodium hyaluronate)",
+   "60 mg",
+   "‡"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.‡ Daily Value (DV) not established.** Collagen is not a complete protein source."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "‡ Daily Value (DV) not established.",
+  "** Collagen is not a complete protein source."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2026"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,075.57",
+  "฿1,075.57",
+  "฿35.85/‏serving",
+  "{0}% off code: {1}",
+  "฿1,075.57",
+  "Save 42% in cart",
+  "฿35.85/‏serving",
+  "฿626.09",
+  "(42% off)",
+  "฿1,075.57",
+  "฿20.87/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66128/s/20.jpg"
+ ]
+}

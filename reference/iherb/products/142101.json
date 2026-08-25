@@ -1,0 +1,284 @@
+{
+ "pid": "142101",
+ "slug": "legion-athletics-whey-whey-protein-powder-french-vanilla-1-8-lbs-816-g",
+ "scrapedAt": "2026-08-25T17:17:45.096Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/legion-athletics-whey-whey-protein-powder-french-vanilla-1-8-lbs-816-g.jpg",
+  "/products/iherb/legion-athletics-whey-whey-protein-powder-french-vanilla-1-8-lbs-816-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-french-vanilla-1-8-lbs-816-g/142101",
+ "pageTitle": "Legion Athletics, Whey+, Whey Protein Powder, French Vanilla, 1.8 lbs (816 g)",
+ "h1": "Legion Athletics, Whey+, Whey Protein Powder, French Vanilla, 1.8 lbs (816 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142101",
+  "name": "Legion Athletics, Whey+, Whey Protein Powder, French Vanilla, 1.8 lbs (816 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/g/2.jpg",
+  "mpn": "LGA-61370",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 36
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Legion Athletics",
+   "url": "https://legionathletics.com",
+   "identifier": "LGA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.88",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2597.37",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass-Fed Whey Protein Isolate Naturally Sweetened & Flavored No Added Sugars Whey Protein 22 Grams Per Serving Dietary Supplement Natural Ingredients Hormone & Antibiotic Free Gluten Free Non-GMO Third-Party Tested Whey+ is a 100% natural whey isolate protein powder made with exceptionally high-quality milk from small, sustainable dairy farms in Ireland. It's also naturally sweetened and flavored and contains no artificial food dyes, fillers, or other unnecessary junk. So, if you want all-natural, high-protein, and low-calorie plant protein powder, Plant+ is for you.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.7x4.8"
+  },
+  "isRelatedTo": null,
+  "sku": "LGA-61370",
+  "gtin12": "748252613707",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Isolate"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LGA-61370"
+  },
+  {
+   "label": "UPC",
+   "value": "748252613707"
+  },
+  {
+   "label": "Package quantity",
+   "value": "816 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "24 x 19.6 x 12.2 cm, 0.85 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (27.2 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "100",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "5 mg",
+   "2%"
+  ],
+  [
+   "Sodium",
+   "115 mg",
+   "5%"
+  ],
+  [
+   "Total Carbohydrates",
+   "2 g",
+   "1%*"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0 g of Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "22 g",
+   "44%"
+  ],
+  [
+   "Calcium",
+   "133 mg",
+   "13%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "139 mg",
+   "2%"
+  ],
+  [
+   "Non-GMO Whey Protein Isolate",
+   "25 g",
+   "**"
+  ],
+  [
+   "Non-GMO Maltodextrin",
+   "1 g",
+   "**"
+  ],
+  [
+   "*Percent Daily Value Based on a 2,000 Calorie Diet**Daily Value Not Established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 Scoop (27.2 g)Servings Per Container: 30  Amount Per Serving%Daily Value*Calories100Total Fat0 g0%Saturated Fat0 g0%Trans Fat0 gCholesterol5 mg2%Sodium115 mg5%Total Carbohydrates2 g1%*Dietary Fiber0 g0%Total Sugars1 gIncludes 0 g of Added Sugars0%Protein22 g44%Calcium133 mg13%Iron0 mg0%Potassium139 mg2%Non-GMO Whey Protein Isolate25 g**Non-GMO Maltodextrin1 g***Percent Daily Value Based on a 2,000 Calorie Diet**Daily Value Not Established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "All-natural"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "816 g",
+   "pid": "142101",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-french-vanilla-1-8-lbs-816-g/142101",
+   "price": null,
+   "outOfStock": true,
+   "selected": true
+  },
+  {
+   "label": "867 g",
+   "pid": "142100",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-dutch-chocolate-1-91-lbs-867-g/142100",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "879 g",
+   "pid": "142107",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-cookies-cream-1-94-lbs-879-g/142107",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "966 g",
+   "pid": "142102",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-chocolate-peanut-butter-2-13-lbs-966-g/142102",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Biochem, 100% Whey Isolate Protein Powder, Vanilla, 1.8 lbs (857 g)",
+  "2,828",
+  "฿2,124.65"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga61370/b/2.jpg"
+ ]
+}

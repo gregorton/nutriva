@@ -1,0 +1,269 @@
+{
+ "pid": "111468",
+ "slug": "california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000",
+ "scrapedAt": "2026-08-25T17:15:45.218Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "2K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000-2.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000-3.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000-mg-240-fish-softgels/111468",
+ "pageTitle": "California Gold Nutrition, Omega-3 Fish Oil, Vivomega Triglyceride, 1,000 mg, 240 Fish Softgels",
+ "h1": "California Gold Nutrition, Omega-3 Fish Oil, Vivomega Triglyceride, 1,000 mg, 240 Fish Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "111468",
+  "name": "California Gold Nutrition, Omega-3 Fish Oil, Vivomega Triglyceride, 1,000 mg, 240 Fish Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/g/47.jpg",
+  "mpn": "SPN-02141",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 11638
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.95",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1750.56",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Featuring 1000 mg of Premium Fish Oil Concentrate Contains 650 mg Total Omega-3s with 400 mg EPA and 200 mg DHA Supports Heart Health* California Gold Nutrition® Omega-3 Fish Oil is formulated with premium fish oil concentrate and features both EPA and DHA in fish gelatin capsules. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02141",
+  "gtin12": "898220021413",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/g/47.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Featuring 1000 mg of Premium Fish Oil Concentrate",
+    "Contains 650 mg Total Omega-3s with 400 mg EPA and 200 mg DHA",
+    "Supports Heart Health*"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Omega-3 Fish Oil is formulated with premium fish oil concentrate and features both EPA and DHA in fish gelatin capsules.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g ., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.43 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02141"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021413"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.7 x 8 x 8 cm, 0.43 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 240"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%*"
+  ],
+  [
+   "Fish Oil Concentrate",
+   "1 g (1,000 mg)",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acid as TG",
+   "650 mg",
+   "†"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA as TG)",
+   "400 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA as TG)",
+   "200 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "240"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "111467",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000-mg-90-fish-gelatin-softgels/111467",
+   "price": "฿571.51",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "111468",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-fish-oil-vivomega-triglyceride-1-000-mg-240-fish-softgels/111468",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,750.56",
+  "฿1,750.56",
+  "฿7.29/‏serving",
+  "{0}% off code: {1}",
+  "฿1,750.56",
+  "Save 0% in cart",
+  "฿7.29/‏serving",
+  "฿1,750.56",
+  "(0% off)",
+  "฿1,750.56",
+  "฿7.29/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/g/47.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/k/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/g/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02141/s/57.jpg"
+ ]
+}

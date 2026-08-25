@@ -1,0 +1,250 @@
+{
+ "pid": "44053",
+ "slug": "blistex-medicated-lip-ointment-0-21-oz-6-g",
+ "scrapedAt": "2026-08-25T17:50:16.515Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/blistex-medicated-lip-ointment-0-21-oz-6-g.jpg",
+  "/products/iherb/blistex-medicated-lip-ointment-0-21-oz-6-g-2.jpg",
+  "/products/iherb/blistex-medicated-lip-ointment-0-21-oz-6-g-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/blistex-medicated-lip-ointment-0-21-oz-6-g/44053",
+ "pageTitle": "Blistex, Medicated Lip Ointment, 0.21 oz (6 g)",
+ "h1": "Blistex, Medicated Lip Ointment, 0.21 oz (6 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "44053",
+  "name": "Blistex, Medicated Lip Ointment, 0.21 oz (6 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/g/58.jpg",
+  "mpn": "BTX-21021",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 20232
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Blistex",
+   "url": "http://www.blistex.com/",
+   "identifier": "BTX"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.03",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "89.24",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "111.55",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dermatologist Recommended Lip Protectant/External Analgesic Clinically Shown to Help Heal Dry, Chapped Lips Improves Overall Lip Condition Blistex Medicated Lip Ointment contains an Advanced Lip Care System® that delivers penetrating medication to relieve severe lip dryness & cold sores. Clinically shown to help heal dry, chapped lips, improve lip moisture & overall lip condition. Unique formula hydrates & softens lip cells to alleviate cracking & painfully dry lips. Contains four medications to provide relief from the pain, itching & discomfort of lip sores & fever blisters. Uses For the temporary relief of pain and itching associated with minor lip irritations or cold sores Temporarily protects and helps relieve chapped or cracked lips",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x0.85"
+  },
+  "isRelatedTo": null,
+  "sku": "BTX-21021",
+  "gtin12": "041388210216",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/g/58.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Lip Care",
+  "Lip Balm",
+  "Medicated Lip & Cold Sore Treatment"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dermatologist Recommended",
+    "Lip Protectant/External Analgesic",
+    "Clinically Shown to Help Heal Dry, Chapped Lips",
+    "Improves Overall Lip Condition",
+    "For the temporary relief of pain and itching associated with minor lip irritations or cold sores",
+    "Temporarily protects and helps relieve chapped or cracked lips"
+   ],
+   "paragraphs": [
+    "Blistex Medicated Lip Ointment contains an Advanced Lip Care System® that delivers penetrating medication to relieve severe lip dryness & cold sores.",
+    "Clinically shown to help heal dry, chapped lips, improve lip moisture & overall lip condition. Unique formula hydrates & softens lip cells to alleviate cracking & painfully dry lips. Contains four medications to provide relief from the pain, itching & discomfort of lip sores & fever blisters.",
+    "Uses"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily",
+    "children under 2 years of age: Consult a doctor"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Drug Facts",
+    "Active Ingredients\tPurpose",
+    "Camphor 0.5% (w/w)",
+    "External analgesic",
+    "Dimethicone 1.1% (w/w)",
+    "Lip protectant",
+    "Menthol 0.625% (w/w)",
+    "External analgesic",
+    "Phenol 0.5% (w/w)",
+    "External analgesic",
+    "Inactive Ingredients",
+    "Allantoin, ammonium hydroxide, beeswax, calcium disodium EDTA, calcium hydroxide, cetyl alcohol, flavors, glycerin, hydrated silica, lanolin, lauric acid, mineral oil, myristic acid, oleic acid, palmitic acid, paraffin, petrolatum, polyglyceryl-3 diisostearate, potassium hydroxide, purified water, SD alcohol 36, sodium hydroxide, sodium saccharin, stearyl alcohol",
+    "Made in the USA with global materials"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Deep or puncture wounds",
+    "animal bites",
+    "serious burns",
+    "do not get into eyes",
+    "do not apply over large area of the body or bandage",
+    "condition worsens",
+    "symptoms last more than 7 days or clear up and occur again within a few days"
+   ],
+   "paragraphs": [
+    "For external use only.",
+    "Do not use on:",
+    "When using this product:",
+    "Stop use and ask a doctor if:",
+    "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2012"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BTX-21021"
+  },
+  {
+   "label": "UPC",
+   "value": "041388210216"
+  },
+  {
+   "label": "Package quantity",
+   "value": "6 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 8 x 2.2 cm, 0.01 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "6 g"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "6 g",
+   "pid": "44053",
+   "url": "https://th.iherb.com/pr/blistex-medicated-lip-ointment-0-21-oz-6-g/44053",
+   "price": "฿89.24",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "10 g",
+   "pid": "44052",
+   "url": "https://th.iherb.com/pr/blistex-medicated-lip-ointment-0-35-oz-10-g/44052",
+   "price": "฿150.93",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿111.55",
+  "฿111.55",
+  "฿18.59/‏g",
+  "{0}% off code: {1}",
+  "฿111.55",
+  "Save 20% in cart",
+  "฿18.59/‏g",
+  "฿89.24",
+  "(20% off)",
+  "฿111.55",
+  "฿14.87/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/g/58.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/k/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/g/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btx/btx21021/s/60.jpg"
+ ]
+}

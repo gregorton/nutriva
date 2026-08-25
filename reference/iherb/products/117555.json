@@ -1,0 +1,245 @@
+{
+ "pid": "117555",
+ "slug": "swanson-vitamins-ultra-c-formula-250-capsules",
+ "scrapedAt": "2026-08-25T17:40:35.958Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-ultra-c-formula-250-capsules.jpg",
+  "/products/iherb/swanson-vitamins-ultra-c-formula-250-capsules-2.jpg",
+  "/products/iherb/swanson-vitamins-ultra-c-formula-250-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-ultra-c-formula-250-capsules/117555",
+ "pageTitle": "Swanson Vitamins, Ultra C Formula, 250 Capsules",
+ "h1": "Swanson Vitamins, Ultra C Formula, 250 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "117555",
+  "name": "Swanson Vitamins, Ultra C Formula, 250 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/g/24.jpg",
+  "mpn": "SWV-01083",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 116
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.54",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "442.45",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune Support Vitamin Supplement With Acerola Cherry, Rose Hips, Rutin and More Potent Vitamin C Nutrition for Antioxidant and Immune Health Science-Backed Quality Since 1969 A super-charged source of vitamin C for daily antioxidant protection. This special formula from Swanson features 500 mg of pure vitamin C with a supporting cast of acerola cherry, rose hips, rutin, hesperidin and citrus bioflavonoids. Best known as an immune health supporter, vitamin C also healthy skin through its antioxidant properties and its promotion of the body's natural production of collagen.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-01083",
+  "gtin12": "087614010830",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune Support",
+    "Vitamin Supplement",
+    "With Acerola Cherry, Rose Hips, Rutin and More",
+    "Potent Vitamin C Nutrition for Antioxidant and Immune Health",
+    "Science-Backed Quality Since 1969"
+   ],
+   "paragraphs": [
+    "A super-charged source of vitamin C for daily antioxidant protection. This special formula from Swanson features 500 mg of pure vitamin C with a supporting cast of acerola cherry, rose hips, rutin, hesperidin and citrus bioflavonoids. Best known as an immune health supporter, vitamin C also healthy skin through its antioxidant properties and its promotion of the body's natural production of collagen."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one capsule one to two times per day with water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, gelatin, magnesium stearate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult your healthcare provider before using this or any product if you are pregnant or nursing, taking medication or have a medical condition.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-01083"
+  },
+  {
+   "label": "UPC",
+   "value": "087614010830"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.1 x 7.2 x 7.1 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "500 mg",
+   "556%"
+  ],
+  [
+   "Acerola (cherry)",
+   "10 mg",
+   "*"
+  ],
+  [
+   "Citrus Bioflavonoid Complex",
+   "10 mg",
+   "*"
+  ],
+  [
+   "Hesperidin Complex",
+   "10 mg",
+   "*"
+  ],
+  [
+   "Rose Hips 4:1 Extract",
+   "10 mg",
+   "*"
+  ],
+  [
+   "Rutin",
+   "10 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "250"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 6 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿442.45",
+  "฿442.45",
+  "฿1.77/‏serving",
+  "{0}% off code: {1}",
+  "฿442.45",
+  "Save 0% in cart",
+  "฿1.77/‏serving",
+  "฿442.45",
+  "(0% off)",
+  "฿442.45",
+  "฿1.77/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01083/s/32.jpg"
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "pid": "115148",
+ "slug": "nature-s-truth-magnesium-glycinate-chelated-60-quick-release-capsules",
+ "scrapedAt": "2026-08-25T17:27:29.490Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-truth-magnesium-glycinate-chelated-60-quick-release-capsules.jpg",
+  "/products/iherb/nature-s-truth-magnesium-glycinate-chelated-60-quick-release-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-truth-magnesium-glycinate-chelated-60-quick-release-capsules-100-mg-per-capsule/115148",
+ "pageTitle": "Nature's Truth, Magnesium Glycinate, Chelated, 60 Quick Release Capsules (100 mg per Capsule)",
+ "h1": "Nature's Truth, Magnesium Glycinate, Chelated, 60 Quick Release Capsules (100 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "115148",
+  "name": "Nature's Truth, Magnesium Glycinate, Chelated, 60 Quick Release Capsules (100 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/g/72.jpg",
+  "mpn": "NTH-11136",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1219
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Truth",
+   "url": "http://www.naturestruthproducts.com/",
+   "identifier": "NTH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.19",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "431.13",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Superior Absorption Non-GMO Gluten Free Dietary Supplement Highly Absorbable Essential Mineral* 100% Quality What Is Magnesium Glycinate? Magnesium Glycinate is a highly absorbable form of magnesium, an essential mineral the body needs but cannot produce on its own.* While magnesium can be obtained through certain foods like whole grains and leafy greens, a high-quality supplement can help satisfy your daily requirement for this important mineral. Nature’s Truth Magnesium Glycinate Capsules Each serving of our quick release Magnesium capsules delivers 200 mg of this important mineral, as Magnesium Glycinate. Our formula provides superior absorption and is a sure-fire way to incorporate this essential mineral into your daily routine.* *Compared to Magnesium Oxide.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NTH-11136",
+  "gtin12": "840093111364",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/g/72.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Superior Absorption",
+    "Non-GMO",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Highly Absorbable Essential Mineral*",
+    "100% Quality"
+   ],
+   "paragraphs": [
+    "What Is Magnesium Glycinate?",
+    "Magnesium Glycinate is a highly absorbable form of magnesium, an essential mineral the body needs but cannot produce on its own.* While magnesium can be obtained through certain foods like whole grains and leafy greens, a high-quality supplement can help satisfy your daily requirement for this important mineral.",
+    "Nature’s Truth Magnesium Glycinate Capsules",
+    "Each serving of our quick release Magnesium capsules delivers 200 mg of this important mineral, as Magnesium Glycinate. Our formula provides superior absorption and is a sure-fire way to incorporate this essential mineral into your daily routine.*",
+    "*Compared to Magnesium Oxide."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take two (2) quick release capsules daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin capsule, rice powder, vegetable magnesium stearate, silica.",
+    "Free of gluten, wheat, yeast, milk, lactose, soy, artificial color, artificial flavor, artificial sweetener, preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, taking any medications or have any medical condition, including kidney disease, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTH-11136"
+  },
+  {
+   "label": "UPC",
+   "value": "840093111364"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 5 x 5 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Quick Release Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (as Magnesium Glycinate)",
+   "200 mg",
+   "48%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿431.13",
+  "฿431.13",
+  "฿14.37/‏serving",
+  "{0}% off code: {1}",
+  "฿431.13",
+  "Save 0% in cart",
+  "฿14.37/‏serving",
+  "฿431.13",
+  "(0% off)",
+  "฿431.13",
+  "฿14.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/g/72.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/k/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/g/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11136/s/78.jpg"
+ ]
+}

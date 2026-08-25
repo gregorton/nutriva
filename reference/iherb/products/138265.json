@@ -1,0 +1,451 @@
+{
+ "pid": "138265",
+ "slug": "nubest-nubest-tall-growth-protein-powder-for-kids-teens-4-vanilla-7-76",
+ "scrapedAt": "2026-08-25T17:24:47.046Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nubest-nubest-tall-growth-protein-powder-for-kids-teens-4-vanilla-7-76.jpg",
+  "/products/iherb/nubest-nubest-tall-growth-protein-powder-for-kids-teens-4-vanilla-7-76-2.jpg",
+  "/products/iherb/nubest-nubest-tall-growth-protein-powder-for-kids-teens-4-vanilla-7-76-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nubest-nubest-tall-growth-protein-powder-for-kids-teens-4-vanilla-7-76-oz-220-g/138265",
+ "pageTitle": "NuBest, Nubest Tall®, Growth Protein Powder, For Kids & Teens 4 +, Vanilla, 7.76 oz (220 g )",
+ "h1": "NuBest, Nubest Tall®, Growth Protein Powder, For Kids & Teens 4 +, Vanilla, 7.76 oz (220 g )",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138265",
+  "name": "NuBest, Nubest Tall®, Growth Protein Powder, For Kids & Teens 4 +, Vanilla, 7.76 oz (220 g )",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/g/24.jpg",
+  "mpn": "NBS-01600",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.4,
+   "reviewCount": 193
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NuBest",
+   "url": "https://www.nubest.com/",
+   "identifier": "NBS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.66",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1107.82",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vegan Gluten Free GMO Free Soy Free Nut Free Protein Helps Kids & Teens Grow & Develop Researched & Developed By Doctors & Nutritionists 10 g Protein Growth Development Digestion Immunity Brain Protein + Probiotics Plant Calcium · K2 + D3 · Omega 3, 6, 9 Dietary Supplement Premium Nature-Based Nutrient-Dense Simply Delicious! FDA Registed Facility GMP Certified - Good Manufacturing Practice Grow & Gain Formula in One Scoop 10 g plant-based protein for energy and growth 20+ vitamins & minerals for healthy immune function 1 billion CFU § probiotics for balanced digestion Omega 3-6-9 from flaxseed for healthy brain and eyes More Than Just Protein! Crafted with an excellent source of protein, vitamins, minerals, amino acids, plus 1 billion CFU § probiotics-all in one delicious scoop! Perfectly mixed with milk or smoothies for an even yummier flavor. Formulated For: Active kids and teens Picky eaters Instant energy boost Filling nutritional gaps Building healthy eating habits §At time of manufacture.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.6"
+  },
+  "isRelatedTo": null,
+  "sku": "NBS-01600",
+  "gtin12": "850011016008",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vegan",
+    "Gluten Free",
+    "GMO Free",
+    "Soy Free",
+    "Nut Free",
+    "Protein",
+    "Helps Kids & Teens Grow & Develop",
+    "Researched & Developed By Doctors & Nutritionists",
+    "10 g Protein",
+    "Growth",
+    "Development",
+    "Digestion",
+    "Immunity",
+    "Brain",
+    "Protein + Probiotics",
+    "Plant Calcium · K2 + D3 · Omega 3, 6, 9",
+    "Dietary Supplement",
+    "Premium",
+    "Nature-Based",
+    "Nutrient-Dense",
+    "Simply Delicious!",
+    "FDA Registed Facility",
+    "GMP Certified - Good Manufacturing Practice",
+    "10 g plant-based protein for energy and growth",
+    "20+ vitamins & minerals for healthy immune function",
+    "1 billion CFU§ probiotics for balanced digestion",
+    "Omega 3-6-9 from flaxseed for healthy brain and eyes",
+    "Active kids and teens",
+    "Picky eaters",
+    "Instant energy boost",
+    "Filling nutritional gaps",
+    "Building healthy eating habits"
+   ],
+   "paragraphs": [
+    "Grow & Gain Formula in One Scoop",
+    "More Than Just Protein!",
+    "Crafted with an excellent source of protein, vitamins, minerals, amino acids, plus 1 billion CFU§ probiotics-all in one delicious scoop! Perfectly mixed with milk or smoothies for an even yummier flavor.",
+    "Formulated For:",
+    "§At time of manufacture."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Scoop · Shake · Grow!",
+    "Kids ages 4+ and teens take one (1) scoop daily.",
+    "Combine the nutritional powder with 6-8 oz of water, milk, smoothies, or beverage of your choice.",
+    "​One serving per day is recommended."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Pea protein isolate, organic evaporated cane sugar, organic brown rice protein concentrate, natural flavor, guar gum, powder, rebaudioside a (from stevia leaf extract), silicon dioxide.",
+    "Made in USA with global ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Always consult your healthcare professional if you are pregnant, nursing, taking medications, or have an existing medical condition. Don't exceed the recommended dose. Keep out of reach of children.",
+    "Store in a cool, dry place. Do not use if safety seal is broken or missing.",
+    "Sold by the weight not volume. Some settling may occur during transport."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NBS-01600"
+  },
+  {
+   "label": "UPC",
+   "value": "850011016008"
+  },
+  {
+   "label": "Package quantity",
+   "value": "220 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 9.3 x 9.1 cm, 0.3 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Service Size: 22 Grams (approx. 1 Scoop)"
+  ],
+  [
+   "Servings Per Container: 10"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "60",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%***"
+  ],
+  [
+   "Total Carbohydrate",
+   "5 g",
+   "2%***"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%***"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "†"
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "4%***"
+  ],
+  [
+   "Protein",
+   "10 g",
+   ""
+  ],
+  [
+   "Vitamin A (as Beta Carotene and Retinyl Palmitate)",
+   "800 mcg RAE",
+   "89%"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol) (from Lichen)",
+   "30 mcg",
+   "150%"
+  ],
+  [
+   "Vitamin E (as D-Alpha Tocopheryl Succinate)",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Thiamine (Vitamin B1) (as Thiamine HCl)",
+   "1.6 mg",
+   "133%"
+  ],
+  [
+   "Riboflavin (Vitamin B2)",
+   "1.5 mg",
+   "115%"
+  ],
+  [
+   "Niacin (from Inositol Hexanicotinate and as Niacinamide)",
+   "46 mg",
+   "288%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCl)",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate (as L-5 Methyltetrahydrofolate Calcium)",
+   "400 mcg DFE",
+   "100%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "3.8 mcg",
+   "158%"
+  ],
+  [
+   "Biotin",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium-D-Pantothenate)",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "10 mg",
+   "2%"
+  ],
+  [
+   "Calcium (from Aquamin™ F (from Lithothamnion spp.Marine Algae) and as Dicalcium Phosphate)",
+   "325 mg",
+   "25%"
+  ],
+  [
+   "Iron",
+   "4.23 mg",
+   "24%"
+  ],
+  [
+   "Phosphorus (as Dicalcium Phosphate)",
+   "120 mg",
+   "10%"
+  ],
+  [
+   "Iodine (as Potassium lodide)",
+   "90 mcg",
+   "60%"
+  ],
+  [
+   "Magnesium (as Magnesium Citrate and from Aquamin™ F (from Lithothamnion spp. Marine Algae))",
+   "147 mg",
+   "35%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "11 mg",
+   "100%"
+  ],
+  [
+   "Selenium (as Selenium Glycinate)",
+   "38 mcg",
+   "69%"
+  ],
+  [
+   "Copper (as Cupric Oxide)",
+   "1 mg",
+   "111%"
+  ],
+  [
+   "Chloride (from Sodium Chloride and Potassium Chloride)",
+   "329 mg",
+   "14%"
+  ],
+  [
+   "Sodium",
+   "200 mg",
+   "9%"
+  ],
+  [
+   "Potassium",
+   "129 mg",
+   "3%"
+  ],
+  [
+   "Organic Flax Seed Powder",
+   "200 mg",
+   "†"
+  ],
+  [
+   "Growth & Development Proprietary Blend L-Taurine, Inositol Hexanicotinate, L-Arginine (as L-Arginine HCl), Bacillus subtilis DE111® Complex (1 Billion CFU§)(Probiotic), Eucommia Bark Extract",
+   "158 mg",
+   "†"
+  ],
+  [
+   "Vitamin K (as Menaquinone-7 (MK-7))",
+   "20 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value not established.***Percent Daily Values are based on a 2,000 calorie diet.§At time of manufacture."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†Daily Value not established.",
+  "***Percent Daily Values are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "10"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Nut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "220 g",
+   "pid": "138265",
+   "url": "https://th.iherb.com/pr/nubest-nubest-tall-growth-protein-powder-for-kids-teens-4-vanilla-7-76-oz-220-g/138265",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "340 g",
+   "pid": "131634",
+   "url": "https://th.iherb.com/pr/nubest-nubest-tall-growth-protein-powder-for-kids-teens-3-chocolate-12-oz-340-g/131634",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,107.82",
+  "฿1,107.82",
+  "฿110.78/‏serving",
+  "{0}% off code: {1}",
+  "฿1,107.82",
+  "Save 0% in cart",
+  "฿110.78/‏serving",
+  "฿1,107.82",
+  "(0% off)",
+  "฿1,107.82",
+  "฿110.78/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbs/nbs01600/b/24.jpg"
+ ]
+}

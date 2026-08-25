@@ -1,0 +1,327 @@
+{
+ "pid": "99452",
+ "slug": "california-gold-nutrition-superfoods-organic-camu-camu-powder-4-oz-114",
+ "scrapedAt": "2026-08-25T17:50:03.758Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-superfoods-organic-camu-camu-powder-4-oz-114.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-organic-camu-camu-powder-4-oz-114-2.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-organic-camu-camu-powder-4-oz-114-3.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-organic-camu-camu-powder-4-oz-114-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-superfoods-organic-camu-camu-powder-4-oz-114-g/99452",
+ "pageTitle": "California Gold Nutrition, Superfoods, Organic Camu Camu Powder, 4 oz (114 g)",
+ "h1": "California Gold Nutrition, Superfoods, Organic Camu Camu Powder, 4 oz (114 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "99452",
+  "name": "California Gold Nutrition, Superfoods, Organic Camu Camu Powder, 4 oz (114 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/g/18.jpg",
+  "mpn": "CGN-01343",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 2891
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.28",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "469.39",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "625.85",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Superfoods Organic Camu Camu Powder Sourced from Peru, Manufactured in the USA USDA Organic, Certified by A Bee Organic Naturally Occurring Phytonutrients such as Vitamin C Tart, Sour, Citrus-like Flavor Formulated to Contain: No Gluten, No GMOs, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Camu Camu ( Myrciaria dubia ) is a tropical superfruit indigenous to South American that can be found along the flooded areas of the Amazonian Rainforest which gives access to Native peoples to harvest the fruit directly into canoes. The Camu Camu tree has been planted along floodplains as part of reforestation projects because of their hardiness and their productivity as a food source. California Gold Nutrition® Superfoods Organic Camu Camu Powder is a dry milled whole berry powder sourced from Peru. Camu Camu Berries are known to contain a wide variety of naturally occurring phytonutrients such as Vitamin C and polyphenolic antioxidant-like compounds such as flavonoids. The tart sour taste can add a twist in recipes that call for lemon, lime and other citrus-like flavors. Scoop it. Blend it. Sprinkle it. Bake it. It’s that simple. Pairs well with: Banana, Carrot, Orange, Raspberries, Strawberries, Sweet Potato",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01343",
+  "gtin12": "898220013432",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/g/18.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Greens & Superfoods",
+  "Camu Camu"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Superfoods Organic Camu Camu Powder",
+    "Sourced from Peru, Manufactured in the USA",
+    "USDA Organic, Certified by A Bee Organic",
+    "Naturally Occurring Phytonutrients such as Vitamin C",
+    "Tart, Sour, Citrus-like Flavor",
+    "Formulated to Contain: No Gluten, No GMOs, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Camu Camu (Myrciaria dubia) is a tropical superfruit indigenous to South American that can be found along the flooded areas of the Amazonian Rainforest which gives access to Native peoples to harvest the fruit directly into canoes. The Camu Camu tree has been planted along floodplains as part of reforestation projects because of their hardiness and their productivity as a food source.",
+    "California Gold Nutrition® Superfoods Organic Camu Camu Powder is a dry milled whole berry powder sourced from Peru. Camu Camu Berries are known to contain a wide variety of naturally occurring phytonutrients such as Vitamin C and polyphenolic antioxidant-like compounds such as flavonoids. The tart sour taste can add a twist in recipes that call for lemon, lime and other citrus-like flavors.",
+    "Scoop it. Blend it. Sprinkle it. Bake it. It’s that simple.",
+    "Pairs well with: Banana, Carrot, Orange, Raspberries, Strawberries, Sweet Potato"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one serving daily. Blend with shakes or smoothies. Sprinkle over yogurt or oatmeal. Bake in your favorite recipes.",
+    "Note: 5 grams per 1/2 tbsp is an average. Individual scooping technique may yield less or more than 5 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Sealed for your protection. Do not use if pouch is punctured or seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "CONTAINS A FOOD-GRADE MOISTURE ABSORBER TO MAINTAIN FRESHNESS. DO NOT EAT."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01343"
+  },
+  {
+   "label": "UPC",
+   "value": "898220013432"
+  },
+  {
+   "label": "Package quantity",
+   "value": "114 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.8 x 10.2 x 5.8 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1/2 Tbsp (5 g)"
+  ],
+  [
+   "Serving Per Container: about 23"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "0 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Vitamin C",
+   "142 mg",
+   "160%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "5 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "23"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Camu Camu",
+   "href": "/c/camu-camu?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿625.85",
+  "฿625.85",
+  "฿27.21/‏serving",
+  "{0}% off code: {1}",
+  "฿625.85",
+  "Save 25% in cart",
+  "฿27.21/‏serving",
+  "฿469.39",
+  "(25% off)",
+  "฿625.85",
+  "฿20.41/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/g/18.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/k/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/g/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01343/s/21.jpg"
+ ]
+}

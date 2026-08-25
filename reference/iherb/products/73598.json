@@ -1,0 +1,306 @@
+{
+ "pid": "73598",
+ "slug": "california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-bla",
+ "scrapedAt": "2026-08-25T17:36:49.510Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "1K+",
+  "flag": "Flash Deal\n                                \n\n\n    \n\n            \n                \n            \n        \n            Discount details\n            Limited time and while supplies last. Limited units per customer at the Flash Deal price. Additional quantities added to your cart will be charged at regular retail price."
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-bla.jpg",
+  "/products/iherb/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-bla-2.jpg",
+  "/products/iherb/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-bla-3.jpg",
+  "/products/iherb/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-bla-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-black-cumin-seed-oil-boswellia-and-ginger-30-fish-gelatin-softgels/73598",
+ "pageTitle": "California Gold Nutrition, CurcuminUP™ with Omega-3 Curcumin Complex, Black Cumin Seed Oil, Boswellia and Ginger, 30 Fish Gelatin Softgels",
+ "h1": "California Gold Nutrition, CurcuminUP™ with Omega-3 Curcumin Complex, Black Cumin Seed Oil, Boswellia and Ginger, 30 Fish Gelatin Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "73598",
+  "name": "California Gold Nutrition, CurcuminUP™ with Omega-3 Curcumin Complex, Black Cumin Seed Oil, Boswellia and Ginger, 30 Fish Gelatin Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/g/159.jpg",
+  "mpn": "CGN-01144",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 11803
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "414.64",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "552.85",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Omega-3 Curcumin Complex with Black Cumin Seed Oil, Boswellia & Ginger Formulated Without: Gluten or GMOs Supports Joint Mobility and Comfort* Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee California Gold Nutrition® CurcuminUP™ is an upgraded inflammation support formula that features fish oil concentrate that provides omega-3 fatty acids, black cumin seed oil, turmeric extract, boswellia extract, and ginger extract in fish gelatin softgels. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01144",
+  "gtin12": "898220011445",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/g/159.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Omega-3 Curcumin Complex with Black Cumin Seed Oil, Boswellia & Ginger",
+    "Formulated Without: Gluten or GMOs",
+    "Supports Joint Mobility and Comfort*",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® CurcuminUP™ is an upgraded inflammation support formula that features fish oil concentrate that provides omega-3 fatty acids, black cumin seed oil, turmeric extract, boswellia extract, and ginger extract in fish gelatin softgels.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01144"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011445"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 5.1 x 5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%**"
+  ],
+  [
+   "Fish Oil Concentrate",
+   "572 mg",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids",
+   "457 mg",
+   "†"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA)",
+   "228 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA)",
+   "171 mg",
+   "†"
+  ],
+  [
+   "Nigella Seed Oil (Nigella sativa)",
+   "200 mg",
+   "†"
+  ],
+  [
+   "Turmeric Extract (Curcuma longa) (rhizome) (min. 23% Curcuminoids)",
+   "200 mg",
+   "†"
+  ],
+  [
+   "Indian Frankincense Extract (Boswellia serrata) (gum resin) (min. 20% AKBA)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Ginger Extract (Zingiber officinale) (rhizome) (Oleoresin Std. to 50% Gingerols + Shogaols)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "** Percent Daily Values are based on a 2,000 calorie diet.† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†",
+  "†",
+  "†",
+  "** Percent Daily Values are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "73598",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-black-cumin-seed-oil-boswellia-and-ginger-30-fish-gelatin-softgels/73598",
+   "price": "฿414.64",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "97376",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-curcuminup-with-omega-3-curcumin-complex-black-cumin-seed-oil-boswellia-and-ginger-90-fish-gelatin-softgels/97376",
+   "price": "฿1,194.49",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿552.85",
+  "฿552.85",
+  "฿18.43/‏serving",
+  "{0}% off code: {1}",
+  "฿552.85",
+  "Save 25% in cart",
+  "฿18.43/‏serving",
+  "฿414.64",
+  "(25% off)",
+  "฿552.85",
+  "฿13.82/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/g/159.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/k/159.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/g/159.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/s/159.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/s/164.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/s/140.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/s/169.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/s/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01144/s/168.jpg"
+ ]
+}

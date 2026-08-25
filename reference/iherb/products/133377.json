@@ -1,0 +1,261 @@
+{
+ "pid": "133377",
+ "slug": "nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:38:24.804Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule.jpg",
+  "/products/iherb/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule-2.jpg",
+  "/products/iherb/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule-3.jpg",
+  "/products/iherb/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule/133377",
+ "pageTitle": "Nature's Craft, Magnesium Glycinate, 120 Capsules (100 mg per Capsule)",
+ "h1": "Nature's Craft, Magnesium Glycinate, 120 Capsules (100 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "133377",
+  "name": "Nature's Craft, Magnesium Glycinate, 120 Capsules (100 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/g/52.jpg",
+  "mpn": "NCA-38658",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 930
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.32",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "604.36",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Rooted In Nature Backed By Science 400 mg Per Serving Sleep Support Daily Minerals Dietary Supplement Sourced From a GMP Compliant Facility ISO 17025 Lab Tested Vegan Vegetarian Magnesium is one of the most essential minerals for daily bodily function yet it is also one of the most common deficiencies. As a result, many people are not operating at their best, considering that magnesium plays a vital role in so many crucial functions including immune system regulation, heart beat timing, glucose processing, hormone control, cognitive performance, sleep patterns and more. We wanted to give consumers a premium magnesium supplement that could boost their everyday functioning and feel the difference. Magnesium is an essential mineral and magnesium bisglycinate is a highly absorbable form which can improve your overall well-being in no time. Whether you’re looking for better sleep, stronger bones, muscle recovery, sugar balance, or even just better mood, magnesium glycinate can help. Give our magnesium supplement a try today and feel the difference this essential mineral can make in your life. Remember: At Nature’s Craft, we use only the purest, most potent and high-quality ingredients available in our Premium Magnesium Supplement.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-38658",
+  "gtin12": "850034386584",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/g/52.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Rooted In Nature Backed By Science",
+    "400 mg Per Serving",
+    "Sleep Support",
+    "Daily Minerals",
+    "Dietary Supplement",
+    "Sourced From a GMP Compliant Facility",
+    "ISO 17025 Lab Tested",
+    "Vegan",
+    "Vegetarian"
+   ],
+   "paragraphs": [
+    "Magnesium is one of the most essential minerals for daily bodily function yet it is also one of the most common deficiencies. As a result, many people are not operating at their best, considering that magnesium plays a vital role in so many crucial functions including immune system regulation, heart beat timing, glucose processing, hormone control, cognitive performance, sleep patterns and more. We wanted to give consumers a premium magnesium supplement that could boost their everyday functioning and feel the difference.",
+    "Magnesium is an essential mineral and magnesium bisglycinate is a highly absorbable form which can improve your overall well-being in no time. Whether you’re looking for better sleep, stronger bones, muscle recovery, sugar balance, or even just better mood, magnesium glycinate can help. Give our magnesium supplement a try today and feel the difference this essential mineral can make in your life. Remember: At Nature’s Craft, we use only the purest, most potent and high-quality ingredients available in our Premium Magnesium Supplement."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 capsules before a meal. For Sleep Support, take 4 capsules 30-45 minutes before bedtime."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsule), magnesium stearate, silicon dioxide, microcrystalline cellulose.",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Not intended for pregnant or nursing mothers or children under the age of 18. Individuals taking blood thinners, any other medications, or have any known medical conditions should consult a physician before using any herbal supplements. Discontinue use and consult your doctor if any adverse reactions occur. Not intended to treat obesity; consult a physician before beginning any weight loss program.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-38658"
+  },
+  {
+   "label": "UPC",
+   "value": "850034386584"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.4 x 6.4 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium [as Magnesium Glycinate (Buffered)]",
+   "400 mg",
+   "95%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "133377",
+   "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule/133377",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "134495",
+   "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-180-capsules-100-mg-per-capsule/134495",
+   "price": "฿889.16",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "139633",
+   "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule/139633",
+   "price": "฿1,106.29",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿604.36",
+  "฿604.36",
+  "฿20.15/‏serving",
+  "{0}% off code: {1}",
+  "฿604.36",
+  "Save 0% in cart",
+  "฿20.15/‏serving",
+  "฿604.36",
+  "(0% off)",
+  "฿604.36",
+  "฿20.15/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/g/52.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/k/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/g/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38658/s/35.jpg"
+ ]
+}

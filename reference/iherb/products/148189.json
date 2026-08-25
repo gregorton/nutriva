@@ -1,0 +1,309 @@
+{
+ "pid": "148189",
+ "slug": "micro-ingredients-pea-protein-powder-unflavored-5-lb-2-268-g",
+ "scrapedAt": "2026-08-25T17:19:43.293Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-pea-protein-powder-unflavored-5-lb-2-268-g.jpg",
+  "/products/iherb/micro-ingredients-pea-protein-powder-unflavored-5-lb-2-268-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-pea-protein-powder-unflavored-5-lb-2-268-g/148189",
+ "pageTitle": "Micro Ingredients, Pea Protein Powder, Unflavored, 5 lb (2,268 g)",
+ "h1": "Micro Ingredients, Pea Protein Powder, Unflavored, 5 lb (2,268 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148189",
+  "name": "Micro Ingredients, Pea Protein Powder, Unflavored, 5 lb (2,268 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/g/18.jpg",
+  "mpn": "MII-61679",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 279
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "5.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1824.78",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Made of What Matters™+ No Soy Vegan Natural Direct Sourcing Wellness Without Markups Trusted Ingredients Manufactured in a cGMP Facility Non GMO Third Party Lab Tested More of What Matters™ At Micro Ingredients, we believe great wellness starts with better ingredients. For over 10 years, we have been curating raw materials from trusted partners worldwide and packaging them in bulk - delivering exceptional quality, integrity and value at scale. Access to the ingredients and supplements you need should be simple and smart. It should also mean more: More value. More flexibility. More transparency. More control. Micro Ingredients - More of What Matters.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "13.5x0.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-61679",
+  "gtin12": "850015616792",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/g/18.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Plant Based Protein",
+  "Pea Protein"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Made of What Matters™+",
+    "No Soy",
+    "Vegan",
+    "Natural",
+    "Direct Sourcing",
+    "Wellness Without Markups",
+    "Trusted Ingredients",
+    "Manufactured in a cGMP Facility",
+    "Non GMO",
+    "Third Party Lab Tested"
+   ],
+   "paragraphs": [
+    "More of What Matters™",
+    "At Micro Ingredients, we believe great wellness starts with better ingredients. For over 10 years, we have been curating raw materials from trusted partners worldwide and packaging them in bulk - delivering exceptional quality, integrity and value at scale. Access to the ingredients and supplements you need should be simple and smart. It should also mean more: More value. More flexibility. More transparency. More control. Micro Ingredients - More of What Matters."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 2 rounded scoops into smoothies, desserts, juice, oatmeal, tea or yogurt. (Scoop included).",
+    "Reseal bag after opening."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Pea protein powder.",
+    "Free of: Soy, dairy, & gluten."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep in a cool, dry place.",
+    "Natural color variation may occur in this product.",
+    "California warning: Risk of cancer and reproductive harm from exposure to lead. Prop 65. Required California law, this warning does not mean the product is unsafe."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "2.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-61679"
+  },
+  {
+   "label": "UPC",
+   "value": "850015616792"
+  },
+  {
+   "label": "Package quantity",
+   "value": "2,260 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "35.1 x 34.3 x 2.2 cm, 2.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 2 scoops (33 g)"
+  ],
+  [
+   "Servings Per Container: 68"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "110 mg",
+   "5%"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "27 g",
+   ""
+  ],
+  [
+   "Vit. D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "3 mg",
+   "15%"
+  ],
+  [
+   "Potas.",
+   "100 mg",
+   "2%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "68"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,824.78",
+  "฿1,824.78",
+  "฿26.84/‏serving",
+  "{0}% off code: {1}",
+  "฿1,824.78",
+  "Save 0% in cart",
+  "฿26.84/‏serving",
+  "฿1,824.78",
+  "(0% off)",
+  "฿1,824.78",
+  "฿26.84/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/g/18.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/k/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/g/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61679/s/19.jpg"
+ ]
+}

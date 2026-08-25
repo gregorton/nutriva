@@ -1,0 +1,216 @@
+{
+ "pid": "148692",
+ "slug": "medicube-pdrn-pink-glutathione-serum-mist-3-38-fl-oz-100-ml",
+ "scrapedAt": "2026-08-25T17:51:14.030Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/medicube-pdrn-pink-glutathione-serum-mist-3-38-fl-oz-100-ml.jpg",
+  "/products/iherb/medicube-pdrn-pink-glutathione-serum-mist-3-38-fl-oz-100-ml-2.jpg",
+  "/products/iherb/medicube-pdrn-pink-glutathione-serum-mist-3-38-fl-oz-100-ml-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/medicube-pdrn-pink-glutathione-serum-mist-3-38-fl-oz-100-ml/148692",
+ "pageTitle": "Medicube, PDRN Pink Glutathione Serum Mist, 3.38 fl oz (100 ml)",
+ "h1": "Medicube, PDRN Pink Glutathione Serum Mist, 3.38 fl oz (100 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148692",
+  "name": "Medicube, PDRN Pink Glutathione Serum Mist, 3.38 fl oz (100 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/g/37.jpg",
+  "mpn": "MCB-11243",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 415
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Medicube",
+   "url": "https://medicube.us/",
+   "identifier": "MCB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.34",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "453.04",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "566.30",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dedicated To Real Results PDRN (Sodium DNA): Glass & Glowy Skin Glutathione: Skin Radiance Care Provides all-in-one solution for slow aging, skin glow, elasticity, and moisturizing. Provides non-oily real volumizing glow that removes any prejudice on ampoule spray. The triple layered volume glow formula is complete with optimal ratio.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.6x1.6"
+  },
+  "isRelatedTo": null,
+  "sku": "MCB-11243",
+  "gtin12": "8800256112432",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/g/37.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Face Moisturizers & Creams",
+  "Face Mist"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dedicated To Real Results",
+    "PDRN (Sodium DNA): Glass & Glowy Skin",
+    "Glutathione: Skin Radiance Care"
+   ],
+   "paragraphs": [
+    "Provides all-in-one solution for slow aging, skin glow, elasticity, and moisturizing.",
+    "Provides non-oily real volumizing glow that removes any prejudice on ampoule spray.",
+    "The triple layered volume glow formula is complete with optimal ratio."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "After shaking well to mix the water and oil layers thoroughly, close your eyes and spray evenly over your entire face from adistance of 4 to 8 inches from the skin. Let it absorb into the skin."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water, collagen water, dipropylene glycol, c13-15 alkane, ricinus communis (castor) seed oil, glycereth-26, 1,2-hexanediol, niacinamide, sodium chloride, sorbitol, hydroxyethyl urea, butylene glycol, helianthus annuus (sunflower) seed oil, fragrance, ethylhexylglycerin, eclipta prostrata extract, adenosine, sodium dna, melia azadirachta leaf extract, glutathione, paeonia lactiflora root extract, moringa oleifera seed oil, candida bombicola/glucose/methyl rapeseedate ferment, rosa damascena flower water, biotin, hexapeptide-2, biotinoyl tripeptide-1, acetyl hexapeptide-8, tripeptide-1, tripeptide-3, myristoyl pentapeptide-17, hexapeptide-9."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "Read instructions and caution before use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MCB-11243"
+  },
+  {
+   "label": "UPC",
+   "value": "8800256112432"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16 x 4.1 x 4.1 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "100 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "K-Beauty Face Mist",
+   "href": "/c/k-beauty-face-mist?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Face Mist",
+   "href": "/c/face-mist?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿566.30",
+  "฿566.30",
+  "฿5.66/‏ml",
+  "{0}% off code: {1}",
+  "฿566.30",
+  "Save 20% in cart",
+  "฿5.66/‏ml",
+  "฿453.04",
+  "(20% off)",
+  "฿566.30",
+  "฿4.53/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/g/37.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/k/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/g/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcb/mcb11243/s/39.jpg"
+ ]
+}

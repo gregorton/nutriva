@@ -1,0 +1,280 @@
+{
+ "pid": "146511",
+ "slug": "micro-ingredients-omega-3-fish-oil-triple-strength-lemon-120-softgels",
+ "scrapedAt": "2026-08-25T17:10:48.290Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-omega-3-fish-oil-triple-strength-lemon-120-softgels.jpg",
+  "/products/iherb/micro-ingredients-omega-3-fish-oil-triple-strength-lemon-120-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-omega-3-fish-oil-triple-strength-lemon-120-softgels-1-400-mg-per-softgel/146511",
+ "pageTitle": "Micro Ingredients, Omega-3 Fish Oil, Triple Strength, Lemon, 120 Softgels (1,400 mg per Softgel)",
+ "h1": "Micro Ingredients, Omega-3 Fish Oil, Triple Strength, Lemon, 120 Softgels (1,400 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "146511",
+  "name": "Micro Ingredients, Omega-3 Fish Oil, Triple Strength, Lemon, 120 Softgels (1,400 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/g/10.jpg",
+  "mpn": "MII-16722",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 2189
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.53",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "823.67",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "More of What Matters™ 1,200 mg EPA + 900 mg DHA Per Serving Burpless Formulation Dietary Supplement Direct Sourcing Wellness Without Markups Trusted Ingredients Manufactured in a cGMP Facility Non GMO Third Party Lab Tested More of What Matters™ Experience the ultimate in omega-3 supplementation with our triple strength Omega-3 Fish Oil softgels. Crafted with cutting-edge burpless enteric coated technology, these softgels provide a seamless, easily digestible experience without any fishy burps or aftertaste. Infused with a delightful hint of sweet lemon flavor, they offer a refreshing twist to traditional fish oil supplements. Sourced from wild-caught fish, our triple strength formula ensures high levels of EPA and DHA for maximum benefits. Each batch uses a specific Omega-3 Fish Oil form that undergoes rigorous purification to eliminate heavy metals and harmful contaminants.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.15x2.75"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-16722",
+  "gtin12": "850056167222",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/g/10.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "More of What Matters™",
+    "1,200 mg EPA + 900 mg DHA Per Serving",
+    "Burpless Formulation",
+    "Dietary Supplement",
+    "Direct Sourcing",
+    "Wellness Without Markups",
+    "Trusted Ingredients",
+    "Manufactured in a cGMP Facility",
+    "Non GMO",
+    "Third Party Lab Tested"
+   ],
+   "paragraphs": [
+    "More of What Matters™",
+    "Experience the ultimate in omega-3 supplementation with our triple strength Omega-3 Fish Oil softgels. Crafted with cutting-edge burpless enteric coated technology, these softgels provide a seamless, easily digestible experience without any fishy burps or aftertaste. Infused with a delightful hint of sweet lemon flavor, they offer a refreshing twist to traditional fish oil supplements. Sourced from wild-caught fish, our triple strength formula ensures high levels of EPA and DHA for maximum benefits. Each batch uses a specific Omega-3 Fish Oil form that undergoes rigorous purification to eliminate heavy metals and harmful contaminants."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take 3 softgels daily. For best results, please consult your physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel (gelatin, glycerin, natural lemon oil, purified water).",
+    "Free of: Soy, dairy, gluten & tree nuts.",
+    "Contains: Fish (anchovies, sardines)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Keep in a cool, dry place.",
+    "If pregnant / lactating or taking any medications, please consult your physician prior to use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-16722"
+  },
+  {
+   "label": "UPC",
+   "value": "850056167222"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.2 x 13.1 x 7 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Softgels"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Fat",
+   "4.2 g",
+   "5%**"
+  ],
+  [
+   "Omega-3 Fish Oil",
+   "4,200 mg",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids",
+   "2,290 mg",
+   "†"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "1,200 mg",
+   "†"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "900 mg",
+   "†"
+  ],
+  [
+   "Other Omega-3 Fatty Acids",
+   "190 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on 2,000 calorie diet. †Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "146511",
+   "url": "https://th.iherb.com/pr/micro-ingredients-omega-3-fish-oil-triple-strength-lemon-120-softgels-1-400-mg-per-softgel/146511",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "146057",
+   "url": "https://th.iherb.com/pr/micro-ingredients-omega-3-fish-oil-lemon-240-softgels/146057",
+   "price": "฿1,192.00",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿823.67",
+  "฿823.67",
+  "฿20.59/‏serving",
+  "{0}% off code: {1}",
+  "฿823.67",
+  "Save 0% in cart",
+  "฿20.59/‏serving",
+  "฿823.67",
+  "(0% off)",
+  "฿823.67",
+  "฿20.59/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/g/10.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/k/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/g/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16722/s/11.jpg"
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "pid": "78213",
+ "slug": "vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:27:13.706Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule.jpg",
+  "/products/iherb/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule-2.jpg",
+  "/products/iherb/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule-3.jpg",
+  "/products/iherb/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule/78213",
+ "pageTitle": "Vital Proteins, Collagen Peptides, 360 Capsules (550 mg per Capsule)",
+ "h1": "Vital Proteins, Collagen Peptides, 360 Capsules (550 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "78213",
+  "name": "Vital Proteins, Collagen Peptides, 360 Capsules (550 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/g/54.jpg",
+  "mpn": "VTP-00565",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3677
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vital Proteins",
+   "url": "http://www.vitalproteins.com",
+   "identifier": "VTP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.69",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1658.14",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "6 g Collagen Per Day Skin, Hair, Nail + Joint Support^ Grass Fed + Pasture Raised Dietary Supplement Kosher Whole30 Approved Made Without Gluten Made Without Dairy Certified B Corporation 6 g Collagen Peptides Youthful Appearance^ Healthy Joints & Bones^ 1 Simple Ingredient Skin Hydration^ Convenient Capsule Paleo Friendly Skin Elasticity^ Hair & Nail Support^ Look & Feel Your Best^ Our Collagen Peptides Capsules are filled with just one simple ingredient, easily boosting your collagen intake to help you look and feel your best wherever you go. Take them when you want, where you want, with no blending or mixing required. ^Results may vary. Various studies have suggested benefits following daily consumption of collagen peptides for several months.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.45x3.4"
+  },
+  "isRelatedTo": null,
+  "sku": "VTP-00565",
+  "gtin12": "850232005652",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "6 g Collagen Per Day",
+    "Skin, Hair, Nail + Joint Support^",
+    "Grass Fed + Pasture Raised",
+    "Dietary Supplement",
+    "Kosher",
+    "Whole30 Approved",
+    "Made Without Gluten",
+    "Made Without Dairy",
+    "Certified B Corporation",
+    "6 g Collagen Peptides",
+    "Youthful Appearance^",
+    "Healthy Joints & Bones^",
+    "1 Simple Ingredient",
+    "Skin Hydration^",
+    "Convenient Capsule",
+    "Paleo Friendly",
+    "Skin Elasticity^",
+    "Hair & Nail Support^"
+   ],
+   "paragraphs": [
+    "Look & Feel Your Best^",
+    "Our Collagen Peptides Capsules are filled with just one simple ingredient, easily boosting your collagen intake to help you look and feel your best wherever you go. Take them when you want, where you want, with no blending or mixing required.",
+    "^Results may vary. Various studies have suggested benefits following daily consumption of collagen peptides for several months."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 6 capsules 2 times per day with 8 fl oz of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin (capsule).",
+    "Collagen peptides are an incomplete protein that include a combination of 18 essential and non-essential amino acids, including glycine, hydroxyproline, proline and leucine."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "If you are pregnant, nursing or have a medical condition, consult your physician before use.",
+    "Storage Information: Store in a cool, dry place.",
+    "Do not use if safety seal is broken or missing.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "Read this: By opening and using this product, you agree to be bound by our terms and conditions, fully set forth at vitalproteins.com/tc, which includes a mandatory arbitration agreement. If you do not agree to be bound, please do not purchase or return this product immediately.",
+    "Container filled by count, not volume."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.31 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VTP-00565"
+  },
+  {
+   "label": "UPC",
+   "value": "850232005652"
+  },
+  {
+   "label": "Package quantity",
+   "value": "360 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.3 x 8.8 x 8.6 cm, 0.31 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 6 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Protein",
+   "3 g",
+   "0%*"
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "1%"
+  ],
+  [
+   "Collagen peptides(from bovine)",
+   "3.3 g",
+   "**"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "6 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Paleo",
+    "Gluten-free",
+    "Dairy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "284 g",
+   "pid": "71355",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-10-oz-284-g/71355",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "299 g",
+   "pid": "155735",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-pumpkin-spice-10-5-oz-299-g/155735",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "313 g",
+   "pid": "114450",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-lemon-11-oz-313-g/114450",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "383 g",
+   "pid": "112322",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-chocolate-13-5-oz-383-g/112322",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "567 g",
+   "pid": "71356",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-oz-567-g/71356",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "757 g",
+   "pid": "112323",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-chocolate-26-8-oz-761-g/112323",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "20 count",
+   "pid": "71367",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-packets-0-35-oz-10-g-each/71367",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "360 count",
+   "pid": "78213",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule/78213",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,658.14",
+  "฿1,658.14",
+  "฿27.64/‏serving",
+  "{0}% off code: {1}",
+  "฿1,658.14",
+  "Save 0% in cart",
+  "฿27.64/‏serving",
+  "฿1,658.14",
+  "(0% off)",
+  "฿1,658.14",
+  "฿27.64/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00565/b/54.jpg"
+ ]
+}

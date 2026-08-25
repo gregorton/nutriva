@@ -1,0 +1,294 @@
+{
+ "pid": "125303",
+ "slug": "emergen-c-immune-support-gummies-strawberry-lemon-blueberry-45-gummies",
+ "scrapedAt": "2026-08-25T17:15:57.267Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/emergen-c-immune-support-gummies-strawberry-lemon-blueberry-45-gummies.jpg",
+  "/products/iherb/emergen-c-immune-support-gummies-strawberry-lemon-blueberry-45-gummies-2.jpg",
+  "/products/iherb/emergen-c-immune-support-gummies-strawberry-lemon-blueberry-45-gummies-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/emergen-c-immune-support-gummies-strawberry-lemon-blueberry-45-gummies/125303",
+ "pageTitle": "Emergen-C, Immune Support Gummies, Strawberry, Lemon & Blueberry, 45 Gummies",
+ "h1": "Emergen-C, Immune Support Gummies, Strawberry, Lemon & Blueberry, 45 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125303",
+  "name": "Emergen-C, Immune Support Gummies, Strawberry, Lemon & Blueberry, 45 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/g/32.jpg",
+  "mpn": "ALA-60180",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 25
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Emergen-C",
+   "url": "http://www.emergenc.com/",
+   "identifier": "ALA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.70",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "462.68",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "722.43",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "750 mg Vitamin C Enhance Energy with B Vitamins Natural Fruit Flavors Natural Flavor with Other Natural Flavors Gluten Free Vegetarian Caffeine-Free Dietary Supplement A delicious way to naturally support your immune system and energy.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "ALA-60180",
+  "gtin12": "076314601806",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "750 mg Vitamin C",
+    "Enhance Energy with B Vitamins",
+    "Natural Fruit Flavors",
+    "Natural Flavor with Other Natural Flavors",
+    "Gluten Free",
+    "Vegetarian",
+    "Caffeine-Free",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "A delicious way to naturally support your immune system and energy."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults: Take three (3) gummies daily. Do not exceed suggested use. Not formulated for use in children."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sugar, glucose syrup, water. Contains <2% of: Citric acid, fruit & vegetable juice concentrates (strawberry, purple carrot, maqui berry) (color and/or flavor), lemon oil, natural flavors, pectin, sodium citrate, turmeric (color)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any supplement, if you are pregnant, nursing or taking medication, consult your doctor before use.",
+    "Keep out of reach of children.",
+    "Store at room temperature. Keep bottle tightly closed. Protect from moisture. Due to use of plant-based colors, gummy appearance may change over time. This does not alter the product potency.",
+    "Bottle sealed with printed foil under cap.",
+    "Do not use if foil is torn."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ALA-60180"
+  },
+  {
+   "label": "UPC",
+   "value": "076314601806"
+  },
+  {
+   "label": "Package quantity",
+   "value": "45 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.7 x 7.2 x 7.1 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Gummies"
+  ],
+  [
+   "Servings Per Container: 15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "45",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "11 g",
+   "4%†"
+  ],
+  [
+   "Total Sugars",
+   "8 g",
+   "*"
+  ],
+  [
+   "Includes 8 g Added Sugars",
+   "",
+   "16%†"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "750 mg",
+   "833%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine hydrochloride)",
+   "1.5 mg",
+   "88%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "4 mcg",
+   "167%"
+  ],
+  [
+   "Biotin",
+   "36 mcg",
+   "120%"
+  ],
+  [
+   "Zinc (as zinc sulfate)",
+   "1.5 mg",
+   "14%"
+  ],
+  [
+   "Manganese (as manganese gluconate)",
+   "0.38 mg",
+   "17%"
+  ],
+  [
+   "Sodium",
+   "35 mg",
+   "2%"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "15"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿722.43",
+  "฿722.43",
+  "฿48.16/‏serving",
+  "{0}% off code: {1}",
+  "฿722.43",
+  "Save 36% in cart",
+  "฿48.16/‏serving",
+  "฿462.68",
+  "(36% off)",
+  "฿722.43",
+  "฿30.85/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60180/s/35.jpg"
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "pid": "71370",
+ "slug": "california-gold-nutrition-kids-gold-c-liquid-vitamin-c-orange-4-fl-oz",
+ "scrapedAt": "2026-08-25T17:49:29.882Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-kids-gold-c-liquid-vitamin-c-orange-4-fl-oz.jpg",
+  "/products/iherb/california-gold-nutrition-kids-gold-c-liquid-vitamin-c-orange-4-fl-oz-2.jpg",
+  "/products/iherb/california-gold-nutrition-kids-gold-c-liquid-vitamin-c-orange-4-fl-oz-3.jpg",
+  "/products/iherb/california-gold-nutrition-kids-gold-c-liquid-vitamin-c-orange-4-fl-oz-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-kids-gold-c-liquid-vitamin-c-orange-4-fl-oz-118-ml/71370",
+ "pageTitle": "California Gold Nutrition, Kids Gold C™, Liquid Vitamin C, Orange, 4 fl oz (118 ml)",
+ "h1": "California Gold Nutrition, Kids Gold C™, Liquid Vitamin C, Orange, 4 fl oz (118 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "71370",
+  "name": "California Gold Nutrition, Kids Gold C™, Liquid Vitamin C, Orange, 4 fl oz (118 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/g/223.jpg",
+  "mpn": "CGN-01099",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 27140
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.60",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "353.74",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "471.65",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Kids Gold C™ Liquid Vitamin C Featuring Gold C™, a USP Grade Form of Vitamin C Convenient Liquid Supplement for Kids Natural Tart Orange Flavor Immune System Support* Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Vitamin C is an essential vitamin that’s an important part of a healthy diet, especially for children. California Gold Nutrition® Kids Liquid Vitamin C makes it easy for kids to get their daily dose of vitamin C, which can help support the immune system.* California Gold Nutrition® Kids Liquid Vitamin C is formulated with our Gold C™, a USP grade vitamin C that is quality tested to meet strict specifications. It is a great tasting and convenient way to add more vitamin C to your child’s diet! iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01099",
+  "gtin12": "898220010998",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/g/223.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Kids Gold C™ Liquid Vitamin C",
+    "Featuring Gold C™, a USP Grade Form of Vitamin C",
+    "Convenient Liquid Supplement for Kids",
+    "Natural Tart Orange Flavor",
+    "Immune System Support*",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Vitamin C is an essential vitamin that’s an important part of a healthy diet, especially for children. California Gold Nutrition® Kids Liquid Vitamin C makes it easy for kids to get their daily dose of vitamin C, which can help support the immune system.*",
+    "California Gold Nutrition® Kids Liquid Vitamin C is formulated with our Gold C™, a USP grade vitamin C that is quality tested to meet strict specifications. It is a great tasting and convenient way to add more vitamin C to your child’s diet!",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 4 years and older take 1 teaspoon daily, with or without food. Best when taken as directed by a qualified healthcare professional. Shake well before use. Give directly or mix with your child's favorite drink."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture. After opening, keep bottle tightly closed.",
+    "Best if used within 90 days of opening.",
+    "Note: Slight color shift may occur over time. This is a normal occurrence and cannot be avoided."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01099"
+  },
+  {
+   "label": "UPC",
+   "value": "898220010998"
+  },
+  {
+   "label": "Package quantity",
+   "value": "118 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 6.6 x 6.5 cm, 0.27 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Teaspoon (5 ml)"
+  ],
+  [
+   "Servings Per Container: About 24"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value for Children 4 Years & Up"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "1 g",
+   "<1%*"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "†"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%*"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "250 mg",
+   "278%"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value for Children 4 Years & Up",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 teaspoon"
+    },
+    {
+     "label": "Total servings",
+     "value": "24"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿471.65",
+  "฿471.65",
+  "฿19.65/‏serving",
+  "{0}% off code: {1}",
+  "฿471.65",
+  "Save 25% in cart",
+  "฿19.65/‏serving",
+  "฿353.74",
+  "(25% off)",
+  "฿471.65",
+  "฿14.74/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/g/223.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/k/223.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/g/223.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/s/223.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/s/226.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/s/230.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/s/228.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01099/s/229.jpg"
+ ]
+}

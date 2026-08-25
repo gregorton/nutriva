@@ -1,0 +1,268 @@
+{
+ "pid": "89287",
+ "slug": "himalaya-turmeric-95-with-curcumin-30-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:24:40.685Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/himalaya-turmeric-95-with-curcumin-30-vegetarian-capsules.jpg",
+  "/products/iherb/himalaya-turmeric-95-with-curcumin-30-vegetarian-capsules-2.jpg",
+  "/products/iherb/himalaya-turmeric-95-with-curcumin-30-vegetarian-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/himalaya-turmeric-95-with-curcumin-30-vegetarian-capsules/89287",
+ "pageTitle": "Himalaya, Turmeric 95® with Curcumin, 30 Vegetarian Capsules",
+ "h1": "Himalaya, Turmeric 95® with Curcumin, 30 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "89287",
+  "name": "Himalaya, Turmeric 95® with Curcumin, 30 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/g/80.jpg",
+  "mpn": "HIM-43205",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1162
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Himalaya",
+   "url": "https://himalayausa.com/",
+   "identifier": "HIM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.26",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "616.31",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Since 1930 For Joint Support Happiness Through Wellness Non-GMO Project Verified Herbal Supplement 1 Month Supply Gluten Free cGMP Vegan Friendly No Wheat No Corn No Soy No Dairy No Ingredients of Animal Origin Family Owned For Over 90 Years Ayurveda had many names for Turmeric including \"Gives delight to the heart,\" but today it is often called the ultimate superfood. Researchers have described this plant as a gift from nature supporting the joints, liver, immune system, heart, GI tract and more. Our Turmeric is grown in India to take full advantage of the historical relationship between the plant and its native soils. Crafting traditional medicines based on Ayurveda, a 5,000 year old science that believes the journey back to wholeness begins with nurturing the capacity for joy. Trusting the gifts of nature and the irreplaceable relationship between the plant and its native soil for consistent healing properties. Contributing to the wellness of the earth by teaching our family of farmers to grow native plants sustainably on their land and reduce the demand on the local environment. Building communities by advocating women in farming, protecting fair prices, providing maternal health, sponsoring clinical services and offering school wellness programs. Believing that if wellness is the path to happiness, we must contribute to the wellness of all things. Wellness of people, wellness of the environment, wellness of our communities.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.9x2"
+  },
+  "isRelatedTo": null,
+  "sku": "HIM-43205",
+  "gtin12": "605069432054",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/g/80.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Since 1930",
+    "For Joint Support",
+    "Happiness Through Wellness",
+    "Non-GMO Project Verified",
+    "Herbal Supplement",
+    "1 Month Supply",
+    "Gluten Free",
+    "cGMP",
+    "Vegan Friendly",
+    "No Wheat",
+    "No Corn",
+    "No Soy",
+    "No Dairy",
+    "No Ingredients of Animal Origin",
+    "Family Owned For Over 90 Years"
+   ],
+   "paragraphs": [
+    "Ayurveda had many names for Turmeric including \"Gives delight to the heart,\" but today it is often called the ultimate superfood. Researchers have described this plant as a gift from nature supporting the joints, liver, immune system, heart, GI tract and more.",
+    "Our Turmeric is grown in India to take full advantage of the historical relationship between the plant and its native soils.",
+    "Crafting traditional medicines based on Ayurveda, a 5,000 year old science that believes the journey back to wholeness begins with nurturing the capacity for joy.",
+    "Trusting the gifts of nature and the irreplaceable relationship between the plant and its native soil for consistent healing properties.",
+    "Contributing to the wellness of the earth by teaching our family of farmers to grow native plants sustainably on their land and reduce the demand on the local environment.",
+    "Building communities by advocating women in farming, protecting fair prices, providing maternal health, sponsoring clinical services and offering school wellness programs.",
+    "Believing that if wellness is the path to happiness, we must contribute to the wellness of all things. Wellness of people, wellness of the environment, wellness of our communities."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult take 1 capsule per day after food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Plant based cellulose (capsule)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any supplement, consult a healthcare practitioner before use if you are pregnant, nursing, taking medication, have a medical condition or are planning any medical procedure. Discontinue use and consult a healthcare practitioner if any adverse reactions occur. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "HIM-43205"
+  },
+  {
+   "label": "UPC",
+   "value": "605069432054"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.1 x 4.8 x 5.1 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric powder (rhizome)",
+   "350 mg",
+   "♦"
+  ],
+  [
+   "Turmeric extract (rhizome) (Curcuma longa) (95% Curcuminoids 237.5 mg)",
+   "250 mg",
+   "♦"
+  ],
+  [
+   "♦Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "♦Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Non-gmo",
+    "Soy-free",
+    "Wheat-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "89287",
+   "url": "https://th.iherb.com/pr/himalaya-turmeric-95-with-curcumin-30-vegetarian-capsules/89287",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "60 count",
+   "pid": "3744",
+   "url": "https://th.iherb.com/pr/himalaya-turmeric-95-with-curcumin-60-vegetarian-capsules/3744",
+   "price": "฿961.99",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿616.31",
+  "฿616.31",
+  "฿20.54/‏serving",
+  "{0}% off code: {1}",
+  "฿616.31",
+  "Save 0% in cart",
+  "฿20.54/‏serving",
+  "฿616.31",
+  "(0% off)",
+  "฿616.31",
+  "฿20.54/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/g/80.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/k/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/g/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/s/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/him/him43205/s/72.jpg"
+ ]
+}

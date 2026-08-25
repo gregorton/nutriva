@@ -1,0 +1,235 @@
+{
+ "pid": "129293",
+ "slug": "force-factor-melatonin-5-mg-60-vegetable-capsules",
+ "scrapedAt": "2026-08-25T17:18:37.188Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "1K+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-melatonin-5-mg-60-vegetable-capsules.jpg",
+  "/products/iherb/force-factor-melatonin-5-mg-60-vegetable-capsules-2.jpg",
+  "/products/iherb/force-factor-melatonin-5-mg-60-vegetable-capsules-3.jpg",
+  "/products/iherb/force-factor-melatonin-5-mg-60-vegetable-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-melatonin-5-mg-60-vegetable-capsules/129293",
+ "pageTitle": "Force Factor, Melatonin, 5 mg, 60 Vegetable Capsules",
+ "h1": "Force Factor, Melatonin, 5 mg, 60 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "129293",
+  "name": "Force Factor, Melatonin, 5 mg, 60 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/g/29.jpg",
+  "mpn": "FOA-66045",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2153
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "192.27",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Fall Asleep Faster & Stay Asleep Longer Drug Free Vegan No Gelatin Non GMO Dietary Supplement Unleash Your Potential® We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-66045",
+  "gtin12": "810126660459",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/g/29.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Fall Asleep Faster & Stay Asleep Longer",
+    "Drug Free",
+    "Vegan",
+    "No Gelatin",
+    "Non GMO",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Unleash Your Potential®",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule 30-60 minutes before bed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose, vegetable magnesium stearate.",
+    "Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the U.S. from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Do not exceed one capsule in any 24-hour period. Do not drive, operate machinery, or consume alcohol while using this product.",
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-66045"
+  },
+  {
+   "label": "UPC",
+   "value": "810126660459"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5 x 5 cm, 0.02 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetable Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Melatonin",
+   "5 mg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetable capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿192.27",
+  "฿192.27",
+  "฿3.20/‏serving",
+  "{0}% off code: {1}",
+  "฿192.27",
+  "Save 0% in cart",
+  "฿3.20/‏serving",
+  "฿192.27",
+  "(0% off)",
+  "฿192.27",
+  "฿3.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/g/29.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/k/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/g/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66045/s/20.jpg"
+ ]
+}

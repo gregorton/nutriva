@@ -1,0 +1,354 @@
+{
+ "pid": "150996",
+ "slug": "vitaworks-kids-multivitamin-with-iron-mixed-fruit-120-chewables",
+ "scrapedAt": "2026-08-25T17:33:09.116Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitaworks-kids-multivitamin-with-iron-mixed-fruit-120-chewables.jpg",
+  "/products/iherb/vitaworks-kids-multivitamin-with-iron-mixed-fruit-120-chewables-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitaworks-kids-multivitamin-with-iron-mixed-fruit-120-chewables/150996",
+ "pageTitle": "VitaWorks, Kids, Multivitamin With Iron, Mixed Fruit, 120 Chewables",
+ "h1": "VitaWorks, Kids, Multivitamin With Iron, Mixed Fruit, 120 Chewables",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "150996",
+  "name": "VitaWorks, Kids, Multivitamin With Iron, Mixed Fruit, 120 Chewables",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/g/25.jpg",
+  "mpn": "VIW-73029",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 100
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "VitaWorks",
+   "url": "https://vitaworkshealth.com/",
+   "identifier": "VIW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.34",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "573.52",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Complete Body Health Dietary Supplement Vegetarian Natural Flavors Gluten Free Nut Free Kosher Parve With Other Natural Flavors Multivitamins can increase energy levels. When you don't get enough vitamins, your body has to work harder to perform simple tasks, which can lead to fatigue and other health problems.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.25x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "VIW-73029",
+  "gtin12": "810102730299",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/g/25.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Complete Body Health",
+    "Dietary Supplement",
+    "Vegetarian",
+    "Natural Flavors",
+    "Gluten Free",
+    "Nut Free",
+    "Kosher Parve",
+    "With Other Natural Flavors"
+   ],
+   "paragraphs": [
+    "Multivitamins can increase energy levels. When you don't get enough vitamins, your body has to work harder to perform simple tasks, which can lead to fatigue and other health problems."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For children 4yrs and up: As a dietary supplement, take two (2) tablets per day. Chew thoroughly before swallowing. Do not exceed suggested serving size."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cane sugar, natural flavors, stearic acid, microcrystalline cellulose, spirulina color, malic acid, beet color, magnesium stearate, silica, citric acid, choline bitartrate, and manganese gluconate.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy, fish or shellfish.",
+    "Made in the USA with domestic and international ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you have a medical condition, are on medication, or are pregnant or nursing, ask a doctor before using. Not for children under 2 years of age due to risk of choking.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature.",
+    "Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VIW-73029"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730299"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 5.7 x 5.7 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 chewable tablets"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value†"
+  ],
+  [
+   "Total Carbohydrate",
+   "1 g",
+   "<1%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "360 mcg",
+   "40%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "100 mg",
+   "111%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "20 mcg (800 IU)",
+   "100%"
+  ],
+  [
+   "Vitamin E (as dl-alpha-tocopheryl acetate)",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Thiamin (as thiamin mononitrate)",
+   "1.5 mg",
+   "125%"
+  ],
+  [
+   "Riboflavin",
+   "1.7 mg",
+   "131%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "15 mg",
+   "94%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Folate",
+   "330 mcg DFE (200 mcg folic acid)",
+   "83%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "6 mcg",
+   "250%"
+  ],
+  [
+   "Biotin",
+   "40 mcg",
+   "133%"
+  ],
+  [
+   "Pantothenic acid (as D-calcium pantothenate)",
+   "10 mg",
+   "200%"
+  ],
+  [
+   "Calcium (as calcium carbonate)",
+   "20 mg",
+   "2%"
+  ],
+  [
+   "Iron (as ferrous fumarate)",
+   "2.5 mg",
+   "14%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "80 mcg",
+   "53%"
+  ],
+  [
+   "Magnesium (as magnesium oxide)",
+   "10 mg",
+   "2%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "3 mg",
+   "27%"
+  ],
+  [
+   "Selenium (as sodium selenate)",
+   "5 mcg",
+   "9%"
+  ],
+  [
+   "Copper (as copper citrate)",
+   "0.5 mg",
+   "56%"
+  ],
+  [
+   "Chromium (as chromium chloride)",
+   "5 mcg",
+   "14%"
+  ],
+  [
+   "Inositol",
+   "40 mcg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value†",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 chewable tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Halal",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿573.52",
+  "฿573.52",
+  "฿9.56/‏serving",
+  "{0}% off code: {1}",
+  "฿573.52",
+  "Save 0% in cart",
+  "฿9.56/‏serving",
+  "฿573.52",
+  "(0% off)",
+  "฿573.52",
+  "฿9.56/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/g/25.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/k/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/g/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73029/s/33.jpg"
+ ]
+}

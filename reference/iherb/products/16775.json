@@ -1,0 +1,234 @@
+{
+ "pid": "16775",
+ "slug": "natural-factors-vitamin-d3-k2-25-mcg-1-000-iu-120-mcg-60-softgels",
+ "scrapedAt": "2026-08-25T17:36:16.778Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/natural-factors-vitamin-d3-k2-25-mcg-1-000-iu-120-mcg-60-softgels.jpg",
+  "/products/iherb/natural-factors-vitamin-d3-k2-25-mcg-1-000-iu-120-mcg-60-softgels-2.jpg",
+  "/products/iherb/natural-factors-vitamin-d3-k2-25-mcg-1-000-iu-120-mcg-60-softgels-3.jpg",
+  "/products/iherb/natural-factors-vitamin-d3-k2-25-mcg-1-000-iu-120-mcg-60-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/natural-factors-vitamin-d3-k2-25-mcg-1-000-iu-120-mcg-60-softgels/16775",
+ "pageTitle": "Natural Factors, Vitamin D3 & K2, 25 mcg (1,000 IU) & 120 mcg, 60 Softgels",
+ "h1": "Natural Factors, Vitamin D3 & K2, 25 mcg (1,000 IU) & 120 mcg, 60 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "16775",
+  "name": "Natural Factors, Vitamin D3 & K2, 25 mcg (1,000 IU) & 120 mcg, 60 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/g/58.jpg",
+  "mpn": "NFS-01292",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3390
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Natural Factors",
+   "url": "http://www.naturalfactors.com/",
+   "identifier": "NFS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "639.80",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Supports Healthy Bones Vitamins D3 and K2 are a dynamic duo for supporting bone and cardiovascular health. Contains the bioactive and highly bioavailable D3 and K2 (MK-7) forms. Isura®: Verified Clean: ✔ Non GMO: ✔ The Isura® seal is your assurance that this product is independently verified as clean and safe, and has been tested for over 800 possible contaminants. This product is Isura verified clean, one of the highest testing standards in the world.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "NFS-01292",
+  "gtin12": "068958012926",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/g/58.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Supports Healthy Bones"
+   ],
+   "paragraphs": [
+    "Vitamins D3 and K2 are a dynamic duo for supporting bone and cardiovascular health. Contains the bioactive and highly bioavailable D3 and K2 (MK-7) forms.",
+    "Isura®:",
+    "Verified Clean: ✔Non GMO: ✔",
+    "The Isura® seal is your assurance that this product is independently verified as clean and safe, and has been tested for over 800 possible contaminants. This product is Isura verified clean, one of the highest testing standards in the world."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "1 softgel per day with food or as directed by a health care professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel (gelatin, glycerin, purified water, caramel color), medium chain triglycerides (from RSPO-certified palm oil and coconut oil), yellow beeswax, sunflower lecithin.",
+    "Contains no artificial preservatives or sweeteners; no dairy, wheat, gluten, yeast, sesame, egg, fish, shellfish, salt, or GMOs.",
+    "Manufactured by Natural Factors to ensure safety and potency in accordance with current Good Manufacturing Practices (cGMP) of the FDA and Health Canada."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a health care professional before use, especially if you are pregnant or breastfeeding, are taking medication, or have a medical condition. Keep out of the reach of children.",
+    "Sealed for your protection. Do not use if seal is broken. For freshness, store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2009"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NFS-01292"
+  },
+  {
+   "label": "UPC",
+   "value": "068958012926"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 5.5 x 5.5 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Vitamin D3 (cholecalciferol)",
+   "25 mcg (1000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin K2 (menaquinone, MK-7) (natto bean)",
+   "120 mcg",
+   "100%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Shellfish-free",
+    "Fish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿639.80",
+  "฿639.80",
+  "฿10.66/‏serving",
+  "{0}% off code: {1}",
+  "฿639.80",
+  "Save 0% in cart",
+  "฿10.66/‏serving",
+  "฿639.80",
+  "(0% off)",
+  "฿639.80",
+  "฿10.66/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/g/58.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/k/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/g/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfs/nfs01292/s/49.jpg"
+ ]
+}

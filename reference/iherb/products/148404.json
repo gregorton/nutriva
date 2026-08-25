@@ -1,0 +1,227 @@
+{
+ "pid": "148404",
+ "slug": "pink-stork-lactation-probiotic-30-billion-cfus-30-capsules",
+ "scrapedAt": "2026-08-25T17:10:59.692Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/pink-stork-lactation-probiotic-30-billion-cfus-30-capsules.jpg",
+  "/products/iherb/pink-stork-lactation-probiotic-30-billion-cfus-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/pink-stork-lactation-probiotic-30-billion-cfus-30-capsules/148404",
+ "pageTitle": "Pink Stork, Lactation Probiotic, 30 Billion CFUs, 30 Capsules",
+ "h1": "Pink Stork, Lactation Probiotic, 30 Billion CFUs, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148404",
+  "name": "Pink Stork, Lactation Probiotic, 30 Billion CFUs, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/g/8.jpg",
+  "mpn": "PNK-86545",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 10
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Pink Stork",
+   "url": "https://pinkstork.com/",
+   "identifier": "PNK"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.08",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1144.42",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "By Amy Suzanne From 8 Strains Dietary Supplement Women Owned™ This Product Was Prayed Over Amy Suzanne and her team are passionate about giving you the best products, a supportive community, and a ton of hope.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "PNK-86545",
+  "gtin12": "850018865456",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "By Amy Suzanne",
+    "From 8 Strains",
+    "Dietary Supplement",
+    "Women Owned™",
+    "This Product Was Prayed Over"
+   ],
+   "paragraphs": [
+    "Amy Suzanne and her team are passionate about giving you the best products, a supportive community, and a ton of hope."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily. Best with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose capsules, microcrystalline cellulose, magnesium stearate, silicon dioxide (silica).",
+    "Made without: GMOs, gluten, dairy, peanuts, tree nuts, animal products/byproducts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you have a medical condition, or are taking any medication, consult with your physician before use. Keep this product out of reach of children. For optimal potency, store in a cool, dry place. Do not use if seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.04 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PNK-86545"
+  },
+  {
+   "label": "UPC",
+   "value": "850018865456"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.6 x 4.6 x 4.4 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value for Pregnant + Lactating Women"
+  ],
+  [
+   "Proprietary Lactation Probiotic Blend30 Billion CFU/Serving **Lactobacillus paracasei (LC86), Bifidobacterium bifidum (BBi32), Bifidobacterium infantis (BI45), Lactobacillus helveticus (LH76), Lactobacillus rhamnosus (LRa05), Lactobacillus reuteri (LR08), Lactobacillus acidophilus (LA85), Lactobacillus fermentum (LF61)",
+   "250 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established. **At Time of Manufacture."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value for Pregnant + Lactating Women",
+  "*Daily Value not established.",
+  "**At Time of Manufacture."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Peanut-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,144.42",
+  "฿1,144.42",
+  "฿38.15/‏serving",
+  "{0}% off code: {1}",
+  "฿1,144.42",
+  "Save 0% in cart",
+  "฿38.15/‏serving",
+  "฿1,144.42",
+  "(0% off)",
+  "฿1,144.42",
+  "฿38.15/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pnk/pnk86545/s/13.jpg"
+ ]
+}

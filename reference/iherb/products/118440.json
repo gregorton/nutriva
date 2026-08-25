@@ -1,0 +1,264 @@
+{
+ "pid": "118440",
+ "slug": "carlson-magnesium-glycinate-200-mg-90-tablets",
+ "scrapedAt": "2026-08-25T17:25:05.086Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/carlson-magnesium-glycinate-200-mg-90-tablets.jpg",
+  "/products/iherb/carlson-magnesium-glycinate-200-mg-90-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/carlson-magnesium-glycinate-200-mg-90-tablets/118440",
+ "pageTitle": "Carlson, Magnesium Glycinate, 200 mg, 90 Tablets",
+ "h1": "Carlson, Magnesium Glycinate, 200 mg, 90 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "118440",
+  "name": "Carlson, Magnesium Glycinate, 200 mg, 90 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/g/40.jpg",
+  "mpn": "CAR-05611",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 6267
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Carlson",
+   "url": "http://www.carlsonlabs.com/",
+   "identifier": "CAR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.39",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "511.84",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Magnesium Oxide Buffered Dietary Supplement Cardiovascular Health Muscle Function Bone Support Gluten-Free No Artificial Preservatives Potency & Quality Guaranteed An FDA Regulated Facility Magnesium is an essential mineral involved in hundreds of normal body functions. Some of the most important include promoting cardiovascular system health and supporting muscle function and bone health. Magnesium Glycinate contains magnesium bound to the amino acid glycine to promote optimal absorption.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "CAR-05611",
+  "gtin12": "088395056116",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Magnesium Oxide Buffered",
+    "Dietary Supplement",
+    "Cardiovascular Health",
+    "Muscle Function",
+    "Bone Support",
+    "Gluten-Free",
+    "No Artificial Preservatives",
+    "Potency & Quality Guaranteed",
+    "An FDA Regulated Facility"
+   ],
+   "paragraphs": [
+    "Magnesium is an essential mineral involved in hundreds of normal body functions. Some of the most important include promoting cardiovascular system health and supporting muscle function and bone health.",
+    "Magnesium Glycinate contains magnesium bound to the amino acid glycine to promote optimal absorption."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults: Take one tablet daily, at mealtime.",
+    "This formula is prepared to disintegrate over a period of up to 90 minutes."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, cellulose, stearic acid, croscarmellose sodium, silicon dioxide, magnesium stearate, hydroxypropyl methylcellulose, ethylcellulose, carnauba wax, pharmaceutical glaze."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep bottle tightly closed. Store away from heat and moisture. Color variation may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CAR-05611"
+  },
+  {
+   "label": "UPC",
+   "value": "088395056116"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.2 x 6.4 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "<1 g",
+   "<1%**"
+  ],
+  [
+   "Magnesium (from Magnesium glycinate chelate and magnesium oxide)",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "**Percent Daily Value based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Value based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "118440",
+   "url": "https://th.iherb.com/pr/carlson-magnesium-glycinate-200-mg-90-tablets/118440",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "10928",
+   "url": "https://th.iherb.com/pr/carlson-magnesium-glycinate-200-mg-180-tablets/10928",
+   "price": "฿1,010.91",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "125593",
+   "url": "https://th.iherb.com/pr/carlson-magnesium-glycinate-240-tablets-200-mg-per-tablet/125593",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿511.84",
+  "฿511.84",
+  "฿5.69/‏serving",
+  "{0}% off code: {1}",
+  "฿511.84",
+  "Save 0% in cart",
+  "฿5.69/‏serving",
+  "฿511.84",
+  "(0% off)",
+  "฿511.84",
+  "฿5.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car05611/s/45.jpg"
+ ]
+}

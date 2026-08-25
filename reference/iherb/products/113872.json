@@ -1,0 +1,245 @@
+{
+ "pid": "113872",
+ "slug": "sports-research-women-s-probiotics-cranberry-65-billion-cfu-30-delayed",
+ "scrapedAt": "2026-08-25T17:39:25.631Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "400+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sports-research-women-s-probiotics-cranberry-65-billion-cfu-30-delayed.jpg",
+  "/products/iherb/sports-research-women-s-probiotics-cranberry-65-billion-cfu-30-delayed-2.jpg",
+  "/products/iherb/sports-research-women-s-probiotics-cranberry-65-billion-cfu-30-delayed-3.jpg",
+  "/products/iherb/sports-research-women-s-probiotics-cranberry-65-billion-cfu-30-delayed-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-women-s-probiotics-cranberry-65-billion-cfu-30-delayed-release-capsules/113872",
+ "pageTitle": "Sports Research, Women's Probiotics, Cranberry, 65 Billion CFU, 30 Delayed Release Capsules",
+ "h1": "Sports Research, Women's Probiotics, Cranberry, 65 Billion CFU, 30 Delayed Release Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "113872",
+  "name": "Sports Research, Women's Probiotics, Cranberry, 65 Billion CFU, 30 Delayed Release Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/g/24.jpg",
+  "mpn": "SRE-09138",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 393
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1065.02",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "65 Billion Guaranteed 16 Lacto Strains Supports Gut Health Certified Vegan Gluten-Free Non-GMO Dietary Supplement Third Party Tested cGMP Compliant",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-09138",
+  "gtin12": "023249091387",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "65 Billion Guaranteed",
+    "16 Lacto Strains",
+    "Supports Gut Health",
+    "Certified Vegan",
+    "Gluten-Free",
+    "Non-GMO",
+    "Dietary Supplement",
+    "Third Party Tested",
+    "cGMP Compliant"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 delayed release veggie capsule daily with food, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Potato starch, delayed release veggie capsule (hypromellose, gellan gum, purified water), l-leucine, pectin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children and pets. Consult with a qualified healthcare professional prior to using this product, especially if you are pregnant, nursing, have a diagnosed medical condition, or are taking a prescription medication. Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Protect product from excessive heat, freezing, humidity and light.",
+    "▲ 65 billion CFU at time of manufacture through best by date when stored properly. Best stored refrigerated."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-09138"
+  },
+  {
+   "label": "UPC",
+   "value": "023249091387"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 5.2 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Women's Probiotic BlendBifidobacterium bifidum, Bifidobacterium breve, Bifidobacterium longum subsp. infantis, Bifidobacterium animalis subsp. lactis, Bifidobacterium longum subsp. longum, Lactobacillus acidophilus, Lactobacillus casei, Lactobacillus fermentum, Lactobacillus gasseri, Lactobacillus jensenii, Lactobacillus paracasei, Lactobacillus plantarum WCFS1™, Lactobacillus reuteri, Lactobacillus rhamnosus GG, Lactobacillus salivarius, Lactococcus lactis subsp. lactis.",
+   "298 mg (65 Billion CFU)",
+   "*"
+  ],
+  [
+   "Fiber Inulin BlendOrganic Acacia Senegal Gum, Organic Inulin (from Jerusalem Artichoke (tuber) and Agave).",
+   "60 mg",
+   "†"
+  ],
+  [
+   "Cranberry Powder (fruit) (37:1)",
+   "60 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "400+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,065.02",
+  "฿1,065.02",
+  "฿35.50/‏serving",
+  "{0}% off code: {1}",
+  "฿1,065.02",
+  "Save 0% in cart",
+  "฿35.50/‏serving",
+  "฿1,065.02",
+  "(0% off)",
+  "฿1,065.02",
+  "฿35.50/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09138/s/35.jpg"
+ ]
+}

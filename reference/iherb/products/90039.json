@@ -1,0 +1,333 @@
+{
+ "pid": "90039",
+ "slug": "zahler-chapter-one-multi-gummies-flavored-60-gummies",
+ "scrapedAt": "2026-08-25T17:28:04.869Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/zahler-chapter-one-multi-gummies-flavored-60-gummies.jpg",
+  "/products/iherb/zahler-chapter-one-multi-gummies-flavored-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/zahler-chapter-one-multi-gummies-flavored-60-gummies/90039",
+ "pageTitle": "Zahler, Chapter One, Multi Gummies, Flavored, 60 Gummies",
+ "h1": "Zahler, Chapter One, Multi Gummies, Flavored, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "90039",
+  "name": "Zahler, Chapter One, Multi Gummies, Flavored, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/g/38.jpg",
+  "mpn": "CTO-04105",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 83
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Zahler",
+   "url": "http://www.zahlers.com/",
+   "identifier": "ZAH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "530.54",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "707.39",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "With Vitamins, Minerals, and Inositol Dietary Supplement This Product was Manufactured in a GMP Certified Facility Kosher Pareve Peanut Free Tree Nut Free Dairy Free Gluten Free Soy Free Egg Free Chapter One: G is for Gummies™ The first chapter in a lifelong commitment to good nutrition.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "CTO-04105",
+  "gtin12": "848998041052",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/g/38.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "With Vitamins, Minerals, and Inositol",
+    "Dietary Supplement",
+    "This Product was Manufactured in a GMP Certified Facility",
+    "Kosher Pareve",
+    "Peanut Free",
+    "Tree Nut Free",
+    "Dairy Free",
+    "Gluten Free",
+    "Soy Free",
+    "Egg Free"
+   ],
+   "paragraphs": [
+    "Chapter One: G is for Gummies™",
+    "The first chapter in a lifelong commitment to good nutrition."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take two gummies daily, with food, or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, citric acid, sodium citrate, natural flavors, annatto, turmeric, elderberry juice (for colors), coconut oil, carnauba wax."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. If pregnant, nursing or on medication, consult with your healthcare practitioner.",
+    "Store in a cool, dry place, away from direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CTO-04105"
+  },
+  {
+   "label": "UPC",
+   "value": "848998041052"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV*"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Vitamin A (Palmitate) (2100 IU)",
+   "630 mcg RAE",
+   "70%"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid)",
+   "20 mg",
+   "22%"
+  ],
+  [
+   "Vitamin D (Cholecalciferol) (400 IU)",
+   "10 mcg",
+   "50%"
+  ],
+  [
+   "Vitamin E (dl-Alpha Tocopheryl Acetate) (16.5 IU)",
+   "7.43 mg",
+   "50%"
+  ],
+  [
+   "Vitamin B6 (Pyridoxine Hydrochloride)",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Folate (Folic Acid)",
+   "433.33 mcg DFE (260 mcg folic acid)",
+   "108%"
+  ],
+  [
+   "Vitamin B12 (Cyanocobalamin)",
+   "6 mcg",
+   "250%"
+  ],
+  [
+   "Biotin (Biotin)",
+   "60 mcg",
+   "200%"
+  ],
+  [
+   "Pantothenic Acid (Calcium D-Pantothenate)",
+   "5.2 mg",
+   "104%"
+  ],
+  [
+   "Iodine (Potassium Iodide)",
+   "42 mcg",
+   "28%"
+  ],
+  [
+   "Zinc (Zinc Citrate)",
+   "2.7 mg",
+   "25%"
+  ],
+  [
+   "Choline (Choline Bitartrate)",
+   "0.04 mcg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "0%"
+  ],
+  [
+   "Inositol (Inositol)",
+   "40 mcg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Egg-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 3 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿707.39",
+  "฿707.39",
+  "฿23.58/‏serving",
+  "{0}% off code: {1}",
+  "฿707.39",
+  "Save 25% in cart",
+  "฿23.58/‏serving",
+  "฿530.54",
+  "(25% off)",
+  "฿707.39",
+  "฿17.68/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/g/38.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/k/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/g/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cto/cto04105/s/43.jpg"
+ ]
+}

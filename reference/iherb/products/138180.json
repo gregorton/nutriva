@@ -1,0 +1,240 @@
+{
+ "pid": "138180",
+ "slug": "zahler-junior-melatonin-natural-grape-60-chewable-tablets-1-mg-per-tab",
+ "scrapedAt": "2026-08-25T17:24:35.647Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/zahler-junior-melatonin-natural-grape-60-chewable-tablets-1-mg-per-tab.jpg",
+  "/products/iherb/zahler-junior-melatonin-natural-grape-60-chewable-tablets-1-mg-per-tab-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/zahler-junior-melatonin-natural-grape-60-chewable-tablets-1-mg-per-tablet/138180",
+ "pageTitle": "Zahler, Junior Melatonin, Natural Grape, 60 Chewable Tablets (1 mg per Tablet)",
+ "h1": "Zahler, Junior Melatonin, Natural Grape, 60 Chewable Tablets (1 mg per Tablet)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138180",
+  "name": "Zahler, Junior Melatonin, Natural Grape, 60 Chewable Tablets (1 mg per Tablet)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/g/8.jpg",
+  "mpn": "ZAH-08286",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1854
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Zahler",
+   "url": "http://www.zahlers.com/",
+   "identifier": "ZAH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "329.41",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Advanced Nutrition Children's Chewable Melatonin Supports Restful & Quality Sleep Children's Health Dietary Supplement Great-Tasting Flavor Feel Better, Everyday™ Kosher Pareve Gluten Free Dairy Free Soy Free Non-GMO Vegetarian Friendly Made in a GMP Facility Children's Sleep Support Melatonin is a natural sleep aid that the brain produces in response to darkness. Zahler® Junior Melatonin provides children with 1 mg of sleep-regulating melatonin to help support restful & quality sleep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.7x1.65"
+  },
+  "isRelatedTo": null,
+  "sku": "ZAH-08286",
+  "gtin12": "848998082864",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Advanced Nutrition",
+    "Children's Chewable Melatonin",
+    "Supports Restful & Quality Sleep",
+    "Children's Health",
+    "Dietary Supplement",
+    "Great-Tasting Flavor",
+    "Feel Better, Everyday™",
+    "Kosher Pareve",
+    "Gluten Free",
+    "Dairy Free",
+    "Soy Free",
+    "Non-GMO",
+    "Vegetarian Friendly",
+    "Made in a GMP Facility"
+   ],
+   "paragraphs": [
+    "Children's Sleep Support",
+    "Melatonin is a natural sleep aid that the brain produces in response to darkness. Zahler® Junior Melatonin provides children with 1 mg of sleep-regulating melatonin to help support restful & quality sleep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 chewable tablet at bedtime or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sorbitol, microcrystalline cellulose, stearic acid, citric acid, silicon dioxide, natural flavor, fruit and vegetable juice powder (color), rebaudioside-a (from stevia leaf extract).",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. For use only at bedtime. Not intended for children under 5 years old. If your child is taking medication or has a medical condition, consult a physician before using this product. This product is not to be taken by pregnant or lactating women. Do not use in conjunction with alcoholic beverages, when driving a vehicle, or while operating machinery.",
+    "Store tightly closed in a cool, dry place, away from direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ZAH-08286"
+  },
+  {
+   "label": "UPC",
+   "value": "848998082864"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.7 x 4.3 x 4.2 cm, 0.02 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value for Adults and Children ≥ 4 Years of Age"
+  ],
+  [
+   "Melatonin",
+   "1 mg",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value for Adults and Children ≥ 4 Years of Age",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿329.41",
+  "฿329.41",
+  "฿5.49/serving",
+  "{0}% off code: {1}",
+  "฿329.41",
+  "Save 0% in cart",
+  "฿5.49/serving",
+  "฿329.41",
+  "(0% off)",
+  "฿329.41",
+  "฿5.49/serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08286/s/11.jpg"
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "pid": "99735",
+ "slug": "california-gold-nutrition-immune-defense-with-wellmune-beta-glucan-250",
+ "scrapedAt": "2026-08-25T17:47:01.889Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-immune-defense-with-wellmune-beta-glucan-250.jpg",
+  "/products/iherb/california-gold-nutrition-immune-defense-with-wellmune-beta-glucan-250-2.jpg",
+  "/products/iherb/california-gold-nutrition-immune-defense-with-wellmune-beta-glucan-250-3.jpg",
+  "/products/iherb/california-gold-nutrition-immune-defense-with-wellmune-beta-glucan-250-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-immune-defense-with-wellmune-beta-glucan-250-mg-30-veggie-capsules/99735",
+ "pageTitle": "California Gold Nutrition, Immune Defense with Wellmune®, Beta-Glucan, 250 mg, 30 Veggie Capsules",
+ "h1": "California Gold Nutrition, Immune Defense with Wellmune®, Beta-Glucan, 250 mg, 30 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "99735",
+  "name": "California Gold Nutrition, Immune Defense with Wellmune®, Beta-Glucan, 250 mg, 30 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/g/62.jpg",
+  "mpn": "CGN-01793",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2047
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Health Topics",
+   "identifier": "105569"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "355.27",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "473.70",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Immune Defense with Wellmune ® Beta-Glucan from Baker’s Yeast ( Saccharomyces cerevisiae ) Highly Purified Beta 1,3/1,6 Glucan Extracted from Cell Wall Clinically Proven for Immune Support* Formulated to Contain: No Gluten, No GMOs, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Beta-glucan is a type of soluble fiber polysaccharide that can be found in cereal grains, yeast, and some medicinal mushrooms. The bioactive compound Beta 1,3/1,6 Glucan is derived from the cell wall of Saccharomyces cerevisiae , commonly known as Baker’s yeast. Scientific studies have shown that Beta 1,3/1,6 Glucan supports overall immune health by helping to maintain several of the body's immune functions.* California Gold Nutrition Immune Defense with Wellmune ® contains a purified form of Beta 1,3/1,6 Glucan derived from the cell walls of a proprietary strain of Baker's yeast ( Saccharomyces cerevisiae ). Wellmune® is Clinically Proven to Support: Improve General Immune Health* Maintain Overall Physical Health* Protect Against the Harmful Effects of Stress* Promote Healthy Energy Levels & Mental Clarity* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01793",
+  "gtin12": "898220017935",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Health Topics",
+  "Travel",
+  "Wellness On-The-Go"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Immune Defense with Wellmune®",
+    "Beta-Glucan from Baker’s Yeast (Saccharomyces cerevisiae)",
+    "Highly Purified Beta 1,3/1,6 Glucan Extracted from Cell Wall",
+    "Clinically Proven for Immune Support*",
+    "Formulated to Contain: No Gluten, No GMOs, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee",
+    "Improve General Immune Health*",
+    "Maintain Overall Physical Health*",
+    "Protect Against the Harmful Effects of Stress*",
+    "Promote Healthy Energy Levels & Mental Clarity*"
+   ],
+   "paragraphs": [
+    "Beta-glucan is a type of soluble fiber polysaccharide that can be found in cereal grains, yeast, and some medicinal mushrooms. The bioactive compound Beta 1,3/1,6 Glucan is derived from the cell wall of Saccharomyces cerevisiae, commonly known as Baker’s yeast. Scientific studies have shown that Beta 1,3/1,6 Glucan supports overall immune health by helping to maintain several of the body's immune functions.*",
+    "California Gold Nutrition Immune Defense with Wellmune® contains a purified form of Beta 1,3/1,6 Glucan derived from the cell walls of a proprietary strain of Baker's yeast (Saccharomyces cerevisiae).",
+    "Wellmune® is Clinically Proven to Support:",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01793"
+  },
+  {
+   "label": "UPC",
+   "value": "898220017935"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 5.1 x 5.1 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Baker's Yeast Beta-Glucan Powder (from Saccharomyces cerevisiae) (providing a minimum 75% beta-glucan 1,3/1,6 [187.5 mg)",
+   "250 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily  Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Wellmune",
+   "href": "/c/wellmune?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Beta Glucan",
+   "href": "/c/beta-glucan?sr=2"
+  },
+  {
+   "rank": "#24 in",
+   "category": "Fiber",
+   "href": "/c/fiber?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿473.70",
+  "฿473.70",
+  "฿15.79/‏serving",
+  "{0}% off code: {1}",
+  "฿473.70",
+  "Save 25% in cart",
+  "฿15.79/‏serving",
+  "฿355.27",
+  "(25% off)",
+  "฿473.70",
+  "฿11.84/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01793/s/71.jpg"
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "pid": "104104",
+ "slug": "california-gold-nutrition-nmn-175-mg-60-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:14:33.557Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "California Gold Nutrition",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-nmn-175-mg-60-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-nmn-175-mg-60-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-nmn-175-mg-60-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-nmn-175-mg-60-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-nmn-175-mg-60-veggie-capsules/104104",
+ "pageTitle": "California Gold Nutrition, NMN, 175 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, NMN, 175 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104104",
+  "name": "California Gold Nutrition, NMN, 175 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/g/280.jpg",
+  "mpn": "CGN-01920",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 31810
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "538.29",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition ® NMN (Nicotinamide Mononucleotide) 175 mg of β-Nicotinamide Mononucleotide (NMN) per serving High Quality and Enzymatically Produced — Never Fermented GRAS-affirmed 98% Pure NMN Formulated Without: Gluten, GMOs, or Soy Suitable for Vegetarians Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee California Gold Nutrition ® NMN (Nicotinamide Mononucleotide) contains 175 mg of pure β-Nicotinamide Mononucleotide per veggie capsule. While other products push high-dose, complex blends that often carry higher price points or smaller monthly bottle counts, CGN delivers a balanced, everyday dose designed for consistent daily use. It gives you a clean, single-ingredient NMN supplement with a full 60-day supply in a single bottle—providing accessible, high-value cellular support without unnecessary extras.* Benefits NMN is an essential molecule that serves as a direct precursor to NAD+, a key coenzyme found in every living cell. Natural NAD+ levels tend to decline with age, which can affect daily energy and cellular repair. NMN supports natural NAD+ levels to promote cellular energy, daily vitality, and optimal cellular function over time.* *These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. iTested Verified Coming Soon Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01920",
+  "gtin12": "898220019205",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/g/280.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin B",
+  "Vitamin B3 (Niacin)",
+  "NAD+ (Nicotinamide Adenine Dinucleotide)",
+  "NMN (Nicotinamide Mononucleotide)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® NMN (Nicotinamide Mononucleotide)",
+    "175 mg of β-Nicotinamide Mononucleotide (NMN) per serving",
+    "High Quality and Enzymatically Produced — Never Fermented",
+    "GRAS-affirmed 98% Pure NMN",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Suitable for Vegetarians",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® NMN (Nicotinamide Mononucleotide) contains 175 mg of pure β-Nicotinamide Mononucleotide per veggie capsule. While other products push high-dose, complex blends that often carry higher price points or smaller monthly bottle counts, CGN delivers a balanced, everyday dose designed for consistent daily use. It gives you a clean, single-ingredient NMN supplement with a full 60-day supply in a single bottle—providing accessible, high-value cellular support without unnecessary extras.*",
+    "Benefits",
+    "NMN is an essential molecule that serves as a direct precursor to NAD+, a key coenzyme found in every living cell. Natural NAD+ levels tend to decline with age, which can affect daily energy and cellular repair. NMN supports natural NAD+ levels to promote cellular energy, daily vitality, and optimal cellular function over time.*",
+    "*These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+    "iTested Verified Coming Soon",
+    "Third-Party Tested",
+    "Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g ., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01920"
+  },
+  {
+   "label": "UPC",
+   "value": "898220019205"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.2 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "β-Nicotinamide Mononucleotide (NMN)",
+   "175 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "104104",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-nmn-175-mg-60-veggie-capsules/104104",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "126768",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-nmn-175-mg-180-veggie-capsules/126768",
+   "price": "฿1,429.64",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Vitamin B3 (Niacin)",
+   "href": "/c/vitamin-b3-niacin?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "NMN (Nicotinamide Mononucleotide)",
+   "href": "/c/nmn-nicotinamide-mononucleotide?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "NAD+ (Nicotinamide Adenine Dinucleotide)",
+   "href": "/c/nad-nicotinamide-adenine-dinucleotide?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿538.29",
+  "฿538.29",
+  "฿8.97/‏serving",
+  "{0}% off code: {1}",
+  "฿538.29",
+  "Save 0% in cart",
+  "฿8.97/‏serving",
+  "฿538.29",
+  "(0% off)",
+  "฿538.29",
+  "฿8.97/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/g/280.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/k/280.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/g/280.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/280.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/285.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/120.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/164.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/165.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/166.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01920/s/288.jpg"
+ ]
+}

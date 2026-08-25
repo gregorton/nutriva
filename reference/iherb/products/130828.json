@@ -1,0 +1,249 @@
+{
+ "pid": "130828",
+ "slug": "california-gold-nutrition-5-htp-100-mg-60-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:44:12.186Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "3K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-5-htp-100-mg-60-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-5-htp-100-mg-60-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-5-htp-100-mg-60-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-5-htp-100-mg-60-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-5-htp-100-mg-60-veggie-capsules/130828",
+ "pageTitle": "California Gold Nutrition, 5-HTP, 100 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, 5-HTP, 100 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "130828",
+  "name": "California Gold Nutrition, 5-HTP, 100 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/g/120.jpg",
+  "mpn": "SPN-02380",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2547
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "217.63",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "290.17",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Provides 100 mg of 5-Hydroxytryptophan per Serving Suitable for Vegetarians and Vegan Formulated Without: Gluten, GMOs, or Soy California Gold Nutrition® 5-HTP features 100 mg of 5-HTP from the Griffonia simplicifolia plant. 5-HTP has been shown to support mood and the synthesis of serotonin, which is responsible for regulating appetite and sleep.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02380",
+  "gtin12": "898220023806",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/g/120.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Weight Management",
+  "5-HTP"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Provides 100 mg of 5-Hydroxytryptophan per Serving",
+    "Suitable for Vegetarians and Vegan",
+    "Formulated Without: Gluten, GMOs, or Soy"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® 5-HTP features 100 mg of 5-HTP from the Griffonia simplicifolia plant. 5-HTP has been shown to support mood and the synthesis of serotonin, which is responsible for regulating appetite and sleep.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, at bedtime, preferably on an empty stomach. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements. 5-HTP should not be used by individuals taking anti-depressant medications such as MAO Inhibitors (MAOIs) or Selective Serotonin Re-uptake Inhibitors (SSRIs). May cause drowsiness and mild digestive upset.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02380"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023806"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.8 x 5.3 x 5.2 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "5-Hydroxytryptophan (5-HTP)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "5-HTP",
+   "href": "/c/5-htp?sr=2"
+  },
+  {
+   "rank": "#11 in",
+   "category": "Weight Management",
+   "href": "/c/weight-management?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿290.17",
+  "฿290.17",
+  "฿4.84/‏serving",
+  "{0}% off code: {1}",
+  "฿290.17",
+  "Save 25% in cart",
+  "฿4.84/‏serving",
+  "฿217.63",
+  "(25% off)",
+  "฿290.17",
+  "฿3.63/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/g/120.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/k/120.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/g/120.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/s/120.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/s/125.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/s/129.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/s/130.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/s/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02380/s/20.jpg"
+ ]
+}

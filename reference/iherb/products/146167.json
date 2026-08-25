@@ -1,0 +1,277 @@
+{
+ "pid": "146167",
+ "slug": "mommy-s-bliss-kids-sleep-gummies-with-melatonin-ages-3-years-strawberr",
+ "scrapedAt": "2026-08-25T17:34:39.086Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/mommy-s-bliss-kids-sleep-gummies-with-melatonin-ages-3-years-strawberr.jpg",
+  "/products/iherb/mommy-s-bliss-kids-sleep-gummies-with-melatonin-ages-3-years-strawberr-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mommy-s-bliss-kids-sleep-gummies-with-melatonin-ages-3-years-strawberry-1-mg-100-gummies/146167",
+ "pageTitle": "Mommy's Bliss, Kids Sleep Gummies With Melatonin, Ages 3 Years+, Strawberry, 1 mg, 100 Gummies",
+ "h1": "Mommy's Bliss, Kids Sleep Gummies With Melatonin, Ages 3 Years+, Strawberry, 1 mg, 100 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "146167",
+  "name": "Mommy's Bliss, Kids Sleep Gummies With Melatonin, Ages 3 Years+, Strawberry, 1 mg, 100 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/g/8.jpg",
+  "mpn": "BAB-07181",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3664
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mommy's Bliss",
+   "url": "http://www.mommysbliss.com/",
+   "identifier": "BAB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.66",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "799.09",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "1 g of Sugar Per Gummy Helps Support Your Child's Natural Sleep Process Free of Dyes, Gelatin and Artificial Flavors Dietary Supplement Kids Sleep Gummies are a great-tasting way to help promote restful sleep and bring bliss back to bedtime.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "BAB-07181",
+  "gtin12": "679234071812",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "1 g of Sugar Per Gummy",
+    "Helps Support Your Child's Natural Sleep Process",
+    "Free of Dyes, Gelatin and Artificial Flavors",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Kids Sleep Gummies are a great-tasting way to help promote restful sleep and bring bliss back to bedtime."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "3 through 5 years: 1 gummy",
+    "6 through 12 years: up to 2 gummies"
+   ],
+   "paragraphs": [
+    "Following recommended usage guide, take 30-60 minutes before bedtime. Ensure each gummy is thoroughly chewed before swallowing. For short term use only. Consult pediatrician before use."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic tapioca syrup, raw cane sugar, water; less than 2% of: citric acid, coconut oil & carnauba wax, fruit juice (for color), natural flavor, pectin, sodium citrate.",
+    "Free of the top 9 Allergens: Peanuts, wheat, eggs, milk, fish, shellfish, tree nuts, soy, sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Take only as directed. Do not use if safety seal is broken. Not recommended for children under 3 years of age. Melatonin may cause drowsiness, do not operate machinery, or drive a vehicle after taking.",
+    "Store in a cool, dry place.",
+    "Melatonin content may vary."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BAB-07181"
+  },
+  {
+   "label": "UPC",
+   "value": "679234071812"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.4 x 6.9 x 6.7 cm, 0.3 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 gummy, 1 gummy, 2 gummies"
+  ],
+  [
+   "Servings Per Container: 100, 100, 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV Children 3 Years of age",
+   "Amount Per Serving",
+   "%DV Children 4 through 5 years of age",
+   "Amount Per Serving",
+   "%DV Children 6 through 12 years of age"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "10",
+   "",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%**",
+   "2 g",
+   "<1%***",
+   "4 g",
+   "2%***"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "†",
+   "1 g",
+   "†",
+   "2 g",
+   "†"
+  ],
+  [
+   "Added Sugars",
+   "1 g",
+   "4%**",
+   "1 g",
+   "2%***",
+   "2 g",
+   "4%***"
+  ],
+  [
+   "Melatonin",
+   "1 mg",
+   "†",
+   "1 mg",
+   "†",
+   "2 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 1,000 calorie diet.***Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Percent Daily Values are based on a 1,000 calorie diet.",
+  "***Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Soy-free",
+    "Wheat-free",
+    "No artificial flavors",
+    "Egg-free",
+    "Shellfish-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿799.09",
+  "฿799.09",
+  "฿7.99/‏serving",
+  "{0}% off code: {1}",
+  "฿799.09",
+  "Save 0% in cart",
+  "฿7.99/‏serving",
+  "฿799.09",
+  "(0% off)",
+  "฿799.09",
+  "฿7.99/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bab/bab07181/s/13.jpg"
+ ]
+}

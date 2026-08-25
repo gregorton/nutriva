@@ -1,0 +1,260 @@
+{
+ "pid": "85667",
+ "slug": "california-gold-nutrition-cla-conjugated-linoleic-acid-1-000-mg-90-veg",
+ "scrapedAt": "2026-08-25T17:46:55.029Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-cla-conjugated-linoleic-acid-1-000-mg-90-veg.jpg",
+  "/products/iherb/california-gold-nutrition-cla-conjugated-linoleic-acid-1-000-mg-90-veg-2.jpg",
+  "/products/iherb/california-gold-nutrition-cla-conjugated-linoleic-acid-1-000-mg-90-veg-3.jpg",
+  "/products/iherb/california-gold-nutrition-cla-conjugated-linoleic-acid-1-000-mg-90-veg-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-cla-conjugated-linoleic-acid-1-000-mg-90-veggie-softgels/85667",
+ "pageTitle": "California Gold Nutrition, CLA, Conjugated Linoleic Acid, 1,000 mg, 90 Veggie Softgels",
+ "h1": "California Gold Nutrition, CLA, Conjugated Linoleic Acid, 1,000 mg, 90 Veggie Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "85667",
+  "name": "California Gold Nutrition, CLA, Conjugated Linoleic Acid, 1,000 mg, 90 Veggie Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/g/235.jpg",
+  "mpn": "CGN-01264",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 3145
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.44",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "507.79",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "677.05",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition CLA, Conjugated Linoleic Acid 1,000 mg Featuring Clarinol® Conjugated Linoleic Acid Derived from Safflower Oil Provides Support for Overall Weight Management Programs* Suitable for Vegetarians and Vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Maintaining a healthy weight requires a well-rounded diet and exercise routine, but adding supplements to your diet can provide additional support. California Gold Nutrition CLA can help support your weight management program, which may help you maintain a healthy weight.* CLA Supplement Benefits Conjugated linoleic acid (CLA) is a naturally-occurring polyunsaturated fatty acid that is most commonly found in beef and dairy, but our supplement uses a plant-based option from safflower oil. Research suggests, as part of a balanced diet and exercise program, consumption of CLA may help to improve body composition, and increase lean body mass as well as muscle. * Help support your health and weight by adding CLA to your daily routine. California Gold Nutrition CLA contains Clarinol® Conjugated Linoleic Acid (CLA) derived from safflower oil in convenient softgels. When taken as directed, this provides a 3-month supply. Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself. Check out the iTested Report for this product to see the analysis.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01264",
+  "gtin12": "898220012640",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/g/235.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Weight Management",
+  "CLA"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition CLA, Conjugated Linoleic Acid 1,000 mg",
+    "Featuring Clarinol® Conjugated Linoleic Acid Derived from Safflower Oil",
+    "Provides Support for Overall Weight Management Programs*",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Maintaining a healthy weight requires a well-rounded diet and exercise routine, but adding supplements to your diet can provide additional support. California Gold Nutrition CLA can help support your weight management program, which may help you maintain a healthy weight.*",
+    "CLA Supplement Benefits",
+    "Conjugated linoleic acid (CLA) is a naturally-occurring polyunsaturated fatty acid that is most commonly found in beef and dairy, but our supplement uses a plant-based option from safflower oil.",
+    "Research suggests, as part of a balanced diet and exercise program, consumption of CLA may help to improve body composition, and increase lean body mass as well as muscle. * Help support your health and weight by adding CLA to your daily routine.",
+    "California Gold Nutrition CLA contains Clarinol® Conjugated Linoleic Acid (CLA) derived from safflower oil in convenient softgels. When taken as directed, this provides a 3-month supply.",
+    "Third-Party Tested",
+    "Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+    "Check out the iTested Report for this product to see the analysis."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel twice daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01264"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012640"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.8 x 6.6 x 6.5 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%*"
+  ],
+  [
+   "Conjugated Linoleic Acid (CLA)Derived from Safflower Oil (Clarinol®)",
+   "1 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿677.05",
+  "฿677.05",
+  "฿7.52/‏serving",
+  "{0}% off code: {1}",
+  "฿677.05",
+  "Save 25% in cart",
+  "฿7.52/‏serving",
+  "฿507.79",
+  "(25% off)",
+  "฿677.05",
+  "฿5.64/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/g/235.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/k/235.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/g/235.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/s/235.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/s/240.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/s/153.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/s/156.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/s/154.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01264/s/155.jpg"
+ ]
+}

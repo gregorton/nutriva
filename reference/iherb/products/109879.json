@@ -1,0 +1,239 @@
+{
+ "pid": "109879",
+ "slug": "seeking-health-vitamin-d3-k2-60-capsules",
+ "scrapedAt": "2026-08-25T17:38:08.000Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/seeking-health-vitamin-d3-k2-60-capsules.jpg",
+  "/products/iherb/seeking-health-vitamin-d3-k2-60-capsules-2.jpg",
+  "/products/iherb/seeking-health-vitamin-d3-k2-60-capsules-3.jpg",
+  "/products/iherb/seeking-health-vitamin-d3-k2-60-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/seeking-health-vitamin-d3-k2-60-capsules/109879",
+ "pageTitle": "Seeking Health, Vitamin D3 + K2, 60 Capsules",
+ "h1": "Seeking Health, Vitamin D3 + K2, 60 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "109879",
+  "name": "Seeking Health, Vitamin D3 + K2, 60 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/g/72.jpg",
+  "mpn": "SKH-52136",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 2011
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Seeking Health",
+   "url": "https://www.seekinghealth.com/",
+   "identifier": "SKH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.07",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "716.57",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Providing 5,000 IU of D3 and 100 mcg of MK-7 Dietary Supplement Believe in Better™ Vitamin D3 + K2 provides the long-acting form of K2 as MK7.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.75x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "SKH-52136",
+  "gtin12": "810007521367",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/g/72.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Providing 5,000 IU of D3 and 100 mcg of MK-7",
+    "Dietary Supplement",
+    "Believe in Better™"
+   ],
+   "paragraphs": [
+    "Vitamin D3 + K2 provides the long-acting form of K2 as MK7."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As needed, take 1 capsule with food any time of day or night, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, vegetarian capsule (hypromellose and water), ascorbyl palmitate, and silica.",
+    "Does not contain: dairy, eggs, fish, shellfish, tree nuts, peanuts, wheat, soy, sesame, gluten, GMO, artificial colors, or artificial flavors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep closed in a cool, dry place out of reach of children.",
+    "Consult with your healthcare professional prior to using. Do not use if inner tamper seal is damaged."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SKH-52136"
+  },
+  {
+   "label": "UPC",
+   "value": "810007521367"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.4 x 4.4 x 4.4 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (cholecalciferol)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)",
+   "100 mcg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿716.57",
+  "฿716.57",
+  "฿11.94/‏serving",
+  "{0}% off code: {1}",
+  "฿716.57",
+  "Save 0% in cart",
+  "฿11.94/‏serving",
+  "฿716.57",
+  "(0% off)",
+  "฿716.57",
+  "฿11.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/g/72.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/k/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/g/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/82.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/skh/skh52136/s/84.jpg"
+ ]
+}

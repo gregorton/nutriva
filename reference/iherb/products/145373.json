@@ -1,0 +1,282 @@
+{
+ "pid": "145373",
+ "slug": "now-foods-omega-3-fish-oil-gummy-chews-passion-fruit-36-gummy-chews",
+ "scrapedAt": "2026-08-25T17:38:25.535Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-omega-3-fish-oil-gummy-chews-passion-fruit-36-gummy-chews.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-gummy-chews-passion-fruit-36-gummy-chews-2.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-gummy-chews-passion-fruit-36-gummy-chews-3.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-gummy-chews-passion-fruit-36-gummy-chews-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-gummy-chews-passion-fruit-36-gummy-chews/145373",
+ "pageTitle": "NOW Foods, Omega-3 Fish Oil Gummy Chews, Passion Fruit, 36 Gummy Chews",
+ "h1": "NOW Foods, Omega-3 Fish Oil Gummy Chews, Passion Fruit, 36 Gummy Chews",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "145373",
+  "name": "NOW Foods, Omega-3 Fish Oil Gummy Chews, Passion Fruit, 36 Gummy Chews",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/g/18.jpg",
+  "mpn": "NOW-01647",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 959
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.19",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "458.69",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Heart & Brain Health 300 mg EPA/ 225 mg DHA No Fishy Taste Sugar Free A Dietary Supplement Friend Of The Sea® GOED Omega-3® Proud Member Unique Delivery Compared to Typical Gummies Fish Oil Concentrate Great Taste ConCordix® Benefits Inside Family Owned Since 1968 GMP Quality Assured Gummies are a popular dose form for nutritional supplements. Unfortunately, traditional gummies are often high in sugar and relatively low in nutrients requiring several per serving. This great-tasting fish oil gummy chew is a unique delivery form compared to typical gummies. It is also sugar free and sweetened with xylitol and stevia. Supportive but not conclusive research shows that consumption of EPA and DHA omega-3 fatty acids may reduce the risk of coronary heart disease.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.45x1.4"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01647",
+  "gtin12": "733739016478",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/g/18.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Heart & Brain Health",
+    "300 mg EPA/ 225 mg DHA",
+    "No Fishy Taste",
+    "Sugar Free",
+    "A Dietary Supplement",
+    "Friend Of The Sea®",
+    "GOED Omega-3® Proud Member",
+    "Unique Delivery Compared to Typical Gummies",
+    "Fish Oil Concentrate",
+    "Great Taste",
+    "ConCordix® Benefits Inside",
+    "Family Owned Since 1968",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Gummies are a popular dose form for nutritional supplements. Unfortunately, traditional gummies are often high in sugar and relatively low in nutrients requiring several per serving. This great-tasting fish oil gummy chew is a unique delivery form compared to typical gummies. It is also sugar free and sweetened with xylitol and stevia.",
+    "Supportive but not conclusive research shows that consumption of EPA and DHA omega-3 fatty acids may reduce the risk of coronary heart disease."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults and children (ages 4 & up), take 1 gummy chew daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Purified water, xylitol, fish gelatin, erythritol, glycerin, trisodium citrate, natural flavors, gum arabic, citric acid, ascorbic acid, mixed tocopherols, paprika extract and stevia leaf extract.",
+    "Contains fish (anchovies, mackerel, sardines, basa, tilapia).",
+    "Not manufactured with yeast, wheat, gluten, soy protein, milk, egg, shellfish or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult physician if pregnant/nursing, taking medication, or have a medical condition. If you have cardiovascular disease, a blood clotting disorder, or impaired kidney function, please consult physician before consuming products with Erythritol.",
+    "Keep out of reach of children. Contains Xylitol, which is harmful to pets.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01647"
+  },
+  {
+   "label": "UPC",
+   "value": "733739016478"
+  },
+  {
+   "label": "Package quantity",
+   "value": "36 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.2 x 8.8 x 3.6 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy Chew"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1% **"
+  ],
+  [
+   "Total Carbohydrate",
+   "<1 g",
+   "<1% **"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "†"
+  ],
+  [
+   "Sugar Alcohols (Xylitol and Erythritol)",
+   "<1 g",
+   "†"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "< 1%"
+  ],
+  [
+   "Fish Oil ConcentrateOmega-3 Fatty Acids:",
+   "750 mg",
+   "†"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA)***",
+   "300 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA)***",
+   "225 mg",
+   "†"
+  ],
+  [
+   "** Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established.*** As triglyceride forms"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "** Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established.",
+  "*** As triglyceride forms"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "36"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿458.69",
+  "฿458.69",
+  "฿12.74/‏serving",
+  "{0}% off code: {1}",
+  "฿458.69",
+  "Save 0% in cart",
+  "฿12.74/‏serving",
+  "฿458.69",
+  "(0% off)",
+  "฿458.69",
+  "฿12.74/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/g/18.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/k/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/g/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01647/s/22.jpg"
+ ]
+}

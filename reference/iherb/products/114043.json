@@ -1,0 +1,336 @@
+{
+ "pid": "114043",
+ "slug": "munk-pack-nut-seed-bar-peanut-butter-dark-chocolate-1-23-oz-35-g",
+ "scrapedAt": "2026-08-25T17:49:44.756Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/munk-pack-nut-seed-bar-peanut-butter-dark-chocolate-1-23-oz-35-g.jpg",
+  "/products/iherb/munk-pack-nut-seed-bar-peanut-butter-dark-chocolate-1-23-oz-35-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/munk-pack-nut-seed-bar-peanut-butter-dark-chocolate-1-23-oz-35-g/114043",
+ "pageTitle": "Munk Pack, Nut & Seed Bar, Peanut Butter Dark Chocolate, 1.23 oz (35 g)",
+ "h1": "Munk Pack, Nut & Seed Bar, Peanut Butter Dark Chocolate, 1.23 oz (35 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "114043",
+  "name": "Munk Pack, Nut & Seed Bar, Peanut Butter Dark Chocolate, 1.23 oz (35 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/g/25.jpg",
+  "mpn": "MUP-00591",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 709
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Munk Pack",
+   "url": "https://store.munkpack.com/",
+   "identifier": "MUP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "74.54",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "93.18",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "5 g Protein Sugar 1 g 4 g Net Carbs* Non GMO Project Verified Certified Gluten Free Ketogenic Certified Kosher Dairy Low Glycemic Index Keto-Friendly Plant Based Indulge in Taste. Not Sugar.™ Love at first bite. The classic combination of peanut butter and chocolate you dream about, without the added sugar. *Net Carb Calculator Total Carb. (15 g) - Fiber (5 g) - Allulose (6 g) = 4 g Net Carbs Not a low calorie food. See nutrition panel for fat content.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.85x0.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MUP-00591",
+  "gtin12": "853787005917",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/g/25.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Bars",
+  "Snack Bars"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "5 g Protein",
+    "Sugar 1 g",
+    "4 g Net Carbs*",
+    "Non GMO Project Verified",
+    "Certified Gluten Free",
+    "Ketogenic Certified",
+    "Kosher Dairy",
+    "Low Glycemic Index",
+    "Keto-Friendly",
+    "Plant Based",
+    "Indulge in Taste. Not Sugar.™"
+   ],
+   "paragraphs": [
+    "Love at first bite. The classic combination of peanut butter and chocolate you dream about, without the added sugar.",
+    "*Net Carb Calculator",
+    "Total Carb. (15 g) - Fiber (5 g) - Allulose (6 g) = 4 g Net Carbs",
+    "Not a low calorie food. See nutrition panel for fat content."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Peanuts, allulose†, pumpkin seeds, sunflower seeds, tapioca fiber, non-gmo corn fiber, palm kernel & palm oil‡, peanut butter, rice flour, alkalized cocoa powder, sea salt, unsweetened chocolate, lecithin, natural flavor, mixed tocopherols (vitamin e) for freshness, monk fruit extract.",
+    "‡Responsibly sourced",
+    "Allergens: Contains peanuts, almonds, coconut, macadamia, soy, traces of milk.",
+    "Made on equipment that processes tree nuts, egg, sesame.",
+    "†Allulose is a sweetener with virtually no impact on blood sugar and insulin. It is found naturally in foods like maple syrup and raisins. Our source is produced from non-bioengineered corn."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "May contain nut shell fragments."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MUP-00591"
+  },
+  {
+   "label": "UPC",
+   "value": "853787005917"
+  },
+  {
+   "label": "Package quantity",
+   "value": "35 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.4 x 4.7 x 2.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 bar (35 g)"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "150",
+   ""
+  ],
+  [
+   "Total Fat",
+   "13 g",
+   "17%"
+  ],
+  [
+   "Sat. Fat",
+   "3.5 g",
+   "18%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Polyunsaturated Fat",
+   "4 g",
+   ""
+  ],
+  [
+   "Monounsaturated Fat",
+   "4.5 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "105 mg",
+   "5%"
+  ],
+  [
+   "Total Carb.",
+   "15 g",
+   "5%"
+  ],
+  [
+   "Dietary Fiber",
+   "5 g",
+   "18%"
+  ],
+  [
+   "Total Sugars",
+   "<1 g",
+   ""
+  ],
+  [
+   "Incl. 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Allulose",
+   "6 g",
+   ""
+  ],
+  [
+   "Sugar Alcohol",
+   "0 g",
+   ""
+  ],
+  [
+   "Protein",
+   "5 g",
+   "7%"
+  ],
+  [
+   "Vitamin D",
+   "",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "",
+   "4%"
+  ],
+  [
+   "Iron",
+   "",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "",
+   "3%"
+  ]
+ ],
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 bar"
+    },
+    {
+     "label": "Total servings",
+     "value": "1"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Kosher",
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#9 in",
+   "category": "Snack Bars",
+   "href": "/c/snack-bars?sr=2"
+  },
+  {
+   "rank": "#23 in",
+   "category": "Bars",
+   "href": "/c/bars?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿93.18",
+  "฿93.18",
+  "฿93.18/‏serving",
+  "{0}% off code: {1}",
+  "฿93.18",
+  "Save 20% in cart",
+  "฿93.18/‏serving",
+  "฿74.54",
+  "(20% off)",
+  "฿93.18",
+  "฿74.54/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/g/25.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/k/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/g/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mup/mup00591/b/25.jpg"
+ ]
+}

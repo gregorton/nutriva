@@ -1,0 +1,267 @@
+{
+ "pid": "148182",
+ "slug": "micro-ingredients-multi-collagen-peptides-complex-with-biotin-vitamin",
+ "scrapedAt": "2026-08-25T17:38:54.281Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-multi-collagen-peptides-complex-with-biotin-vitamin.jpg",
+  "/products/iherb/micro-ingredients-multi-collagen-peptides-complex-with-biotin-vitamin-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-multi-collagen-peptides-complex-with-biotin-vitamin-c-hyaluronic-acid-240-capsules/148182",
+ "pageTitle": "Micro Ingredients, Multi-Collagen Peptides Complex With Biotin, Vitamin C & Hyaluronic Acid, 240 capsules",
+ "h1": "Micro Ingredients, Multi-Collagen Peptides Complex With Biotin, Vitamin C & Hyaluronic Acid, 240 capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148182",
+  "name": "Micro Ingredients, Multi-Collagen Peptides Complex With Biotin, Vitamin C & Hyaluronic Acid, 240 capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/g/24.jpg",
+  "mpn": "MII-16736",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 714
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "818.94",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Types I, II, III, V, X Clean Ingredients Only Dietary Supplement Lab Tested - 3rd Party Certified for Purity & Potency cGMP Quality Current Good Manufacturing Practice GMO Free Micro Ingredients offers 8-in-1 full spectrum collagen peptide capsules. The ultimate anti-aging complex that provides pure pasture raised collagen peptides. Made with premium hydrolyzed collagen for complete and efficient absorption that nourishes the hair, skin, nails, and joints. A powerful formula that contains collagen types I, II, III, V, and X. Mix it into any of your favorite drinks and replenish your body with top grade collagen from natural sources including bovine, chicken, marine, and eggshell membrane. Feel young again and maintain that healthy youthful vigor with Micro Ingredients complete beauty product. A health and household staple for both men and women. Providing a combination of collagen, as well as hyaluronic acid, vitamin C, and Biotin. Designed to work together in the body to promote healthy collagen formation and rejuvenate any that you already have.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.8x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-16736",
+  "gtin12": "850056167369",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Types I, II, III, V, X",
+    "Clean Ingredients Only",
+    "Dietary Supplement",
+    "Lab Tested - 3rd Party Certified for Purity & Potency",
+    "cGMP Quality Current Good Manufacturing Practice",
+    "GMO Free"
+   ],
+   "paragraphs": [
+    "Micro Ingredients offers 8-in-1 full spectrum collagen peptide capsules. The ultimate anti-aging complex that provides pure pasture raised collagen peptides. Made with premium hydrolyzed collagen for complete and efficient absorption that nourishes the hair, skin, nails, and joints.",
+    "A powerful formula that contains collagen types I, II, III, V, and X. Mix it into any of your favorite drinks and replenish your body with top grade collagen from natural sources including bovine, chicken, marine, and eggshell membrane.",
+    "Feel young again and maintain that healthy youthful vigor with Micro Ingredients complete beauty product. A health and household staple for both men and women. Providing a combination of collagen, as well as hyaluronic acid, vitamin C, and Biotin. Designed to work together in the body to promote healthy collagen formation and rejuvenate any that you already have."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take three (3) capsules daily. Preferably with meals or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin (capsule).",
+    "Free of: Wheat, gluten, soy, dairy & tree nuts.",
+    "Contains: Eggs and fish.",
+    "Made in USA with global ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Notice: Collagen is not a complete protein. Do not use it to replace dietary protein for other dietary needs.",
+    "Keep out of reach of children. Store in a cool, dry place. Do not use if safety seal is damaged or missing. Not intended for individuals under the age of 18. If you are nursing, pregnant, taking medication or have a medical condition, you should consult your healthcare practitioner prior to using this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-16736"
+  },
+  {
+   "label": "UPC",
+   "value": "850056167369"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.3 x 7.1 x 7.1 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 capsules"
+  ],
+  [
+   "Servings Per Container: 80"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Protein",
+   "1 g",
+   "<1%**"
+  ],
+  [
+   "Vitamin C (as ascorbyl palmitate & ascorbic acid)",
+   "72 mg",
+   "80%"
+  ],
+  [
+   "Biotin (as d-biotin)",
+   "2,500 mcg",
+   "8,333%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "Multi Collagen ComplexHydrolyzed Bovine Collagen PeptidesHydrolyzed Fish Collagen PeptidesChicken Bone Broth Protein ConcentrateEggshell Membrane Collagen",
+   "1,100 mg",
+   "†"
+  ],
+  [
+   "Hyaluronic Acid (as sodium hyaluronate)",
+   "55 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established.**Percent Daily Values are based on 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established.",
+  "**Percent Daily Values are based on 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "80"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#25 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿818.94",
+  "฿818.94",
+  "฿10.24/‏serving",
+  "{0}% off code: {1}",
+  "฿818.94",
+  "Save 0% in cart",
+  "฿10.24/‏serving",
+  "฿818.94",
+  "(0% off)",
+  "฿818.94",
+  "฿10.24/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16736/s/30.jpg"
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "pid": "108532",
+ "slug": "vanicream-moisturizing-cream-for-sensitive-skin-fragrance-free-2-oz-57",
+ "scrapedAt": "2026-08-25T17:50:43.147Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/vanicream-moisturizing-cream-for-sensitive-skin-fragrance-free-2-oz-57.jpg",
+  "/products/iherb/vanicream-moisturizing-cream-for-sensitive-skin-fragrance-free-2-oz-57-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vanicream-moisturizing-cream-for-sensitive-skin-fragrance-free-2-oz-57-g/108532",
+ "pageTitle": "Vanicream, Moisturizing Cream, For Sensitive Skin, Fragrance Free, 2 oz (57 g)",
+ "h1": "Vanicream, Moisturizing Cream, For Sensitive Skin, Fragrance Free, 2 oz (57 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "108532",
+  "name": "Vanicream, Moisturizing Cream, For Sensitive Skin, Fragrance Free, 2 oz (57 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/g/14.jpg",
+  "mpn": "VNC-30002",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 9156
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vanicream",
+   "url": "https://www.vanicream.com/",
+   "identifier": "VNC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "156.58",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "208.78",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dermatologist Tested Free of Dyes, Fragrance, Masking Fragrance, Lanolin, Parabens, Formaldehyde Releasers Accepted National Eczema Association Gluten-Free Kid Friendly A non-greasy, long-lasting moisturizing cream, Vanicream™ Moisturizing Cream is easy-to-spread, quickly-absorbed, and non-comedogenic (won't clog pores). It moisturizes the skin without exposing it to common chemical irritants found in ordinary skin care products. Vanicream™ Moisturizing Cream restores and maintains a normal moisture level. It is a gentle as it is effective on even the most delicate skin. An oil-in-water emulsion type vanishing cream base.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.7x1.5"
+  },
+  "isRelatedTo": null,
+  "sku": "VNC-30002",
+  "gtin12": "345334300021",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/g/14.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Face Moisturizers & Creams"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dermatologist Tested",
+    "Free of Dyes, Fragrance, Masking Fragrance, Lanolin, Parabens, Formaldehyde Releasers",
+    "Accepted National Eczema Association",
+    "Gluten-Free",
+    "Kid Friendly"
+   ],
+   "paragraphs": [
+    "A non-greasy, long-lasting moisturizing cream, Vanicream™ Moisturizing Cream is easy-to-spread, quickly-absorbed, and non-comedogenic (won't clog pores). It moisturizes the skin without exposing it to common chemical irritants found in ordinary skin care products.",
+    "Vanicream™ Moisturizing Cream restores and maintains a normal moisture level. It is a gentle as it is effective on even the most delicate skin.",
+    "An oil-in-water emulsion type vanishing cream base."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "When used as a lubricant-moisturizer, apply as often as needed to face, hands, feet, or body. For daily use by the entire family."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Purified water, petrolatum, sorbitol, cetearyl alcohol, propylene glycol, ceteareth-20, simethicone, glyceryl stearate, peg-30 stearate, sorbic acid, bht."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only.",
+    "Store at room temperature."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VNC-30002"
+  },
+  {
+   "label": "UPC",
+   "value": "345334300021"
+  },
+  {
+   "label": "Package quantity",
+   "value": "57 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "5.6 x 9.4 x 3.8 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "57 g"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Fragrance-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "57 g",
+   "pid": "108532",
+   "url": "https://th.iherb.com/pr/vanicream-moisturizing-cream-for-sensitive-skin-fragrance-free-2-oz-57-g/108532",
+   "price": "฿156.58",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "453 g",
+   "pid": "108539",
+   "url": "https://th.iherb.com/pr/vanicream-moisturizing-cream-for-sensitive-skin-fragrance-free-pump-1-lb-453-g/108539",
+   "price": "฿803.51",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿208.78",
+  "฿208.78",
+  "฿3.66/‏g",
+  "{0}% off code: {1}",
+  "฿208.78",
+  "Save 25% in cart",
+  "฿3.66/‏g",
+  "฿156.58",
+  "(25% off)",
+  "฿208.78",
+  "฿2.75/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/g/14.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/k/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/g/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vnc/vnc30002/b/14.jpg"
+ ]
+}

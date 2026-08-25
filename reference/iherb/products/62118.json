@@ -1,0 +1,313 @@
+{
+ "pid": "62118",
+ "slug": "california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-so",
+ "scrapedAt": "2026-08-25T17:00:30.644Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "60K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-so.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-so-2.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-so-3.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-so-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118",
+ "pageTitle": "California Gold Nutrition, Omega-3 Premium Fish Oil, 100 Fish Gelatin Softgels (1,100 mg per Softgel)",
+ "h1": "California Gold Nutrition, Omega-3 Premium Fish Oil, 100 Fish Gelatin Softgels (1,100 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "62118",
+  "name": "California Gold Nutrition, Omega-3 Premium Fish Oil, 100 Fish Gelatin Softgels (1,100 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/g/392.jpg",
+  "mpn": "MLI-00952",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 489613
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.39",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "416.96",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Omega-3 Premium Fish Oil Featuring Globally-Sourced, Highly-Refined Fish Oil 1,1000 mg Fish Oil Per Capsule 180mg EPA and 120mg DHA Per Capsule Concentrated and Molecularly Distilled Bovine-free and porcine-free Uses fish gelatin softgels capsules EPA and DHA contribute to the normal function of the heart.* EPA and DHA contribute to the maintenance of normal blood triglyceride levels* Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Omega-3 fatty acids are one type of \"good fat\" found in fish. California Gold Nutrition Omega-3 Premium Fish Oil provides EPA and DHA, helping you get these nutrients as part of your daily routine. EPA and DHA contribute to the normal function of the heart, and DHA contributes to the maintenance of normal brain function and normal vision.* Benefits of Omega-3 Supplements When you aren't able to get enough omega-3s from food, a daily supplement can help you reach adequate intake. California Gold Nutrition Omega-3 Premium Fish Oil provides EPA and DHA. EPA and DHA contribute to the normal function of the heart, and DHA contributes to the maintenance of normal brain function and normal vision.* California Gold Nutrition Omega-3 Premium Fish Oil is molecularly distilled and provides 180 mg EPA and 120 mg DHA per capsule of highly-refined fish oil that meets strict quality-control standards. Manufactured in California, USA, our softgels use a fish-gelatin shell entirely free from beef and pork — a meat-free option suited to pescatarian and restricted lifestyles. *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself. iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "MLI-00952",
+  "gtin12": "898220009527",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/g/392.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Omega-3 Premium Fish Oil",
+    "Featuring Globally-Sourced, Highly-Refined Fish Oil",
+    "1,1000 mg Fish Oil Per Capsule",
+    "180mg EPA and 120mg DHA Per Capsule",
+    "Concentrated and Molecularly Distilled",
+    "Bovine-free and porcine-free",
+    "Uses fish gelatin softgels capsules",
+    "EPA and DHA contribute to the normal function of the heart.*",
+    "EPA and DHA contribute to the maintenance of normal blood triglyceride levels*",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Omega-3 fatty acids are one type of \"good fat\" found in fish. California Gold Nutrition Omega-3 Premium Fish Oil provides EPA and DHA, helping you get these nutrients as part of your daily routine. EPA and DHA contribute to the normal function of the heart, and DHA contributes to the maintenance of normal brain function and normal vision.*",
+    "Benefits of Omega-3 Supplements",
+    "When you aren't able to get enough omega-3s from food, a daily supplement can help you reach adequate intake. California Gold Nutrition Omega-3 Premium Fish Oil provides EPA and DHA. EPA and DHA contribute to the normal function of the heart, and DHA contributes to the maintenance of normal brain function and normal vision.*",
+    "California Gold Nutrition Omega-3 Premium Fish Oil is molecularly distilled and provides 180 mg EPA and 120 mg DHA per capsule of highly-refined fish oil that meets strict quality-control standards. Manufactured in California, USA, our softgels use a fish-gelatin shell entirely free from beef and pork — a meat-free option suited to pescatarian and restricted lifestyles.",
+    "Third-Party Tested",
+    "Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 softgels daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2014"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MLI-00952"
+  },
+  {
+   "label": "UPC",
+   "value": "898220009527"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 6.6 x 6.4 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%*"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%*"
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "3%"
+  ],
+  [
+   "Fish Oil Concentrate",
+   "2.2 g (2,200 mg )",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids as TG",
+   "640 mg",
+   "†"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA as TG)",
+   "360 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA as TG)",
+   "240 mg",
+   "†"
+  ],
+  [
+   "Other Omega-3 Fatty Acids",
+   "40 mg",
+   "†"
+  ],
+  [
+   "* Percent Daily Values are based on a 2,000 calorie diet.† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "* Percent Daily Values are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "62118",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "86598",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-240-fish-gelatin-softgels-1-100-mg-per-softgel/86598",
+   "price": "฿906.72",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Omegas & Fish Oils (EPA DHA)",
+   "href": "/c/omegas-fish-oils-epa-dha?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Gut Health",
+   "href": "/c/gut-health?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Omega-3 Fish Oil",
+   "href": "/c/omega-3-fish-oil?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "60,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿416.96",
+  "฿416.96",
+  "฿8.34/‏serving",
+  "{0}% off code: {1}",
+  "฿416.96",
+  "Save 0% in cart",
+  "฿8.34/‏serving",
+  "฿416.96",
+  "(0% off)",
+  "฿416.96",
+  "฿8.34/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/g/392.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/k/392.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/g/392.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/392.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/397.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/208.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/240.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/241.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/472.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mli/mli00952/s/436.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco,c_fit,w_200,h_200/images/mli/mli00952/l/392.jpg"
+ ]
+}

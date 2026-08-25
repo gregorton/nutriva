@@ -1,0 +1,257 @@
+{
+ "pid": "126785",
+ "slug": "forest-leaf-maximum-strength-vitamin-d3-1-250-mcg-50-000-iu-120-vegeta",
+ "scrapedAt": "2026-08-25T17:40:08.112Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/forest-leaf-maximum-strength-vitamin-d3-1-250-mcg-50-000-iu-120-vegeta.jpg",
+  "/products/iherb/forest-leaf-maximum-strength-vitamin-d3-1-250-mcg-50-000-iu-120-vegeta-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/forest-leaf-maximum-strength-vitamin-d3-1-250-mcg-50-000-iu-120-vegetable-capsules/126785",
+ "pageTitle": "Forest Leaf, Maximum Strength, Vitamin D3, 1,250 mcg (50,000 IU), 120 Vegetable Capsules",
+ "h1": "Forest Leaf, Maximum Strength, Vitamin D3, 1,250 mcg (50,000 IU), 120 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126785",
+  "name": "Forest Leaf, Maximum Strength, Vitamin D3, 1,250 mcg (50,000 IU), 120 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/g/24.jpg",
+  "mpn": "FRL-87571",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1260
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Forest Leaf",
+   "url": "https://forestleaf.com/",
+   "identifier": "FRL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "721.82",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Tested For Absorption Immune Support Non GMO GMP Compliant Lab Verified Dairy, Gluten, Egg & Nut Free Vegetarian Friendly Forestleaf: Health Focuses Quality Committed Research Driven At ForestLeaf, our mission is to provide high-quality supplements that support health and wellness. We believe that nature provides us with everything we need to thrive. At ForestLeaf, we are committed to helping you live your best life.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "FRL-87571",
+  "gtin12": "645080875713",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Tested For Absorption",
+    "Immune Support",
+    "Non GMO",
+    "GMP Compliant",
+    "Lab Verified",
+    "Dairy, Gluten, Egg & Nut Free",
+    "Vegetarian Friendly",
+    "Health Focuses",
+    "Quality Committed",
+    "Research Driven"
+   ],
+   "paragraphs": [
+    "Forestleaf:",
+    "At ForestLeaf, our mission is to provide high-quality supplements that support health and wellness. We believe that nature provides us with everything we need to thrive. At ForestLeaf, we are committed to helping you live your best life."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take 1 capsule weekly, preferably with a meal, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsule), ascorbyl palmitate, rice flour and silica.",
+    "With Globally Sourced Ingredients Made In The USA"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. If you are pregnant, nursing, or taking any prescription medicine, consult your physician before taking this product. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FRL-87571"
+  },
+  {
+   "label": "UPC",
+   "value": "645080875713"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 5.8 x 5.7 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (Cholecalciferol)",
+   "1,250 mcg (50,000 IU)",
+   "6,250%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Egg-free",
+    "Nut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "126785",
+   "url": "https://th.iherb.com/pr/forest-leaf-maximum-strength-vitamin-d3-1-250-mcg-50-000-iu-120-vegetable-capsules/126785",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "126786",
+   "url": "https://th.iherb.com/pr/forest-leaf-vitamin-d3-250-mcg-10-000-iu-180-vegetable-capsules/126786",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "126788",
+   "url": "https://th.iherb.com/pr/forest-leaf-vitamin-d3-1-250-mcg-50-000-iu-240-vegetable-capsules/126788",
+   "price": "฿1,263.19",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿721.82",
+  "฿721.82",
+  "฿6.02/‏serving",
+  "{0}% off code: {1}",
+  "฿721.82",
+  "Save 0% in cart",
+  "฿6.02/‏serving",
+  "฿721.82",
+  "(0% off)",
+  "฿721.82",
+  "฿6.02/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87571/s/30.jpg"
+ ]
+}

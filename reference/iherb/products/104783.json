@@ -1,0 +1,353 @@
+{
+ "pid": "104783",
+ "slug": "whisps-cheese-crisps-parmesan-6-oz-170-g",
+ "scrapedAt": "2026-08-25T17:45:54.398Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/whisps-cheese-crisps-parmesan-6-oz-170-g.jpg",
+  "/products/iherb/whisps-cheese-crisps-parmesan-6-oz-170-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/whisps-cheese-crisps-parmesan-6-oz-170-g/104783",
+ "pageTitle": "Whisps, Cheese Crisps, Parmesan, 6 oz ( 170 g)",
+ "h1": "Whisps, Cheese Crisps, Parmesan, 6 oz ( 170 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104783",
+  "name": "Whisps, Cheese Crisps, Parmesan, 6 oz ( 170 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/g/10.jpg",
+  "mpn": "WHP-72160",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 941
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Whisps",
+   "url": "https://whisps.com/",
+   "identifier": "WHP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "352.82",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "415.74",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "13 g Protein Per Serving 0 g Sugar Per Serving 0 g Carbs Per Serving Gluten Free Family Size Resealable Simply Grated & Baked Made With 100% Real Cheese From Master Cheese Makers rBST Free† Excellent Source Of Calcium We start with premium cheese then we bake it to crunch As Cheese Whisperers, we bring premium cheese into snacking. Made with aged parmesan cheese selected by Master Cheesemakers, we grate and then bake into crunchy satisfying Crisps. Real Cheese. Real Snacks. †Milk is obtained from cows that are not treated with rBST. No significant difference has been shown between milk derived from cows treated with synthetic bovine somatotropin and milk derived from untreated cows.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5x4.15"
+  },
+  "isRelatedTo": null,
+  "sku": "WHP-72160",
+  "gtin12": "810030721604",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/g/10.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Snacks",
+  "Chips"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "13 g Protein Per Serving",
+    "0 g Sugar Per Serving",
+    "0 g Carbs Per Serving",
+    "Gluten Free",
+    "Family Size",
+    "Resealable",
+    "Simply Grated & Baked",
+    "Made With 100% Real Cheese From Master Cheese Makers",
+    "rBST Free†",
+    "Excellent Source Of Calcium"
+   ],
+   "paragraphs": [
+    "We start with premium cheese then we bake it to crunch",
+    "As Cheese Whisperers, we bring premium cheese into snacking. Made with aged parmesan cheese selected by Master Cheesemakers, we grate and then bake into crunchy satisfying Crisps. Real Cheese. Real Snacks.",
+    "†Milk is obtained from cows that are not treated with rBST. No significant difference has been shown between milk derived from cows treated with synthetic bovine somatotropin and milk derived from untreated cows."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Perfect for snacking straight out of the bag or adding to soups, salads or an appetizer plate."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Parmesan cheese (pasteurized part-skim milk, cheese cultures, salt, enzymes).",
+    "Contains: Milk.",
+    "Packed in a facility that also packages tree nuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Product sold by weight, not volume. Contents tend to settle after packaging. Some breakage may occur.",
+    "Not a low calorie product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.47 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "WHP-72160"
+  },
+  {
+   "label": "UPC",
+   "value": "810030721604"
+  },
+  {
+   "label": "Package quantity",
+   "value": "170 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.9 x 12.7 x 10.5 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: About 14 crisps (28 g)"
+  ],
+  [
+   "Serving Per Container: About 6"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*",
+   "Amount Per Container",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "160",
+   "",
+   "950",
+   ""
+  ],
+  [
+   "Total Fat",
+   "12 g",
+   "15%",
+   "70 g",
+   "90%"
+  ],
+  [
+   "Saturated Fat",
+   "7 g",
+   "35%",
+   "39 g",
+   "195%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "",
+   "2 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "35 mg",
+   "12%",
+   "205 mg",
+   "68%"
+  ],
+  [
+   "Sodium",
+   "350 mg",
+   "15%",
+   "2080 mg",
+   "90%"
+  ],
+  [
+   "Total Carbohydrate",
+   "0 g",
+   "0%",
+   "1 g",
+   "0%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes Added Sugars",
+   "0 g",
+   "0%",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Protein",
+   "13 g",
+   "25%",
+   "80 g",
+   "155%"
+  ],
+  [
+   "Vitamin D",
+   "0.2 mcg",
+   "2%",
+   "1.1 mcg",
+   "6%"
+  ],
+  [
+   "Calcium",
+   "350 mg",
+   "25%",
+   "2070 mg",
+   "160%"
+  ],
+  [
+   "Iron",
+   "0.2 mg",
+   "2%",
+   "0.9 mg",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "30 mg",
+   "0%",
+   "190 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*\tAmount Per Container\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Total servings",
+     "value": "6"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "170 g",
+   "pid": "104783",
+   "url": "https://th.iherb.com/pr/whisps-cheese-crisps-parmesan-6-oz-170-g/104783",
+   "price": "฿352.82",
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿415.74",
+  "฿415.74",
+  "฿69.29/‏serving",
+  "{0}% off code: {1}",
+  "฿415.74",
+  "Save 15% in cart",
+  "฿69.29/‏serving",
+  "฿352.82",
+  "(15% off)",
+  "฿415.74",
+  "฿58.80/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/g/10.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/k/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/g/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/s/11.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp72160/b/10.jpg"
+ ]
+}

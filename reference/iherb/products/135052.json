@@ -1,0 +1,227 @@
+{
+ "pid": "135052",
+ "slug": "force-factor-vitamin-d3-high-potency-125-mcg-5-000-iu-120-softgels",
+ "scrapedAt": "2026-08-25T17:35:08.721Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-vitamin-d3-high-potency-125-mcg-5-000-iu-120-softgels.jpg",
+  "/products/iherb/force-factor-vitamin-d3-high-potency-125-mcg-5-000-iu-120-softgels-2.jpg",
+  "/products/iherb/force-factor-vitamin-d3-high-potency-125-mcg-5-000-iu-120-softgels-3.jpg",
+  "/products/iherb/force-factor-vitamin-d3-high-potency-125-mcg-5-000-iu-120-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-vitamin-d3-high-potency-125-mcg-5-000-iu-120-softgels/135052",
+ "pageTitle": "Force Factor, Vitamin D3, High Potency, 125 mcg (5,000 IU), 120 Softgels",
+ "h1": "Force Factor, Vitamin D3, High Potency, 125 mcg (5,000 IU), 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "135052",
+  "name": "Force Factor, Vitamin D3, High Potency, 125 mcg (5,000 IU), 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/g/29.jpg",
+  "mpn": "FOA-66052",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3587
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "192.27",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Support Immunity & Bone Health No Preservatives Soy Free Dietary Supplement Unleash Your Potential® We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-66052",
+  "gtin12": "810126660527",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/g/29.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Support Immunity & Bone Health",
+    "No Preservatives",
+    "Soy Free",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Unleash Your Potential®",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sunflower oil, gelatin (bovine), glycerin, purified water.",
+    "Allergen Warning: Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the US from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-66052"
+  },
+  {
+   "label": "UPC",
+   "value": "810126660527"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5 x 5 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol) (from Lanolin)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ]
+ ],
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Soy-free",
+    "Preservative-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿192.27",
+  "฿192.27",
+  "฿1.60/‏serving",
+  "{0}% off code: {1}",
+  "฿192.27",
+  "Save 0% in cart",
+  "฿1.60/‏serving",
+  "฿192.27",
+  "(0% off)",
+  "฿192.27",
+  "฿1.60/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/g/29.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/k/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/g/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66052/s/20.jpg"
+ ]
+}

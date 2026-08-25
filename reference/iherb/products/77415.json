@@ -1,0 +1,232 @@
+{
+ "pid": "77415",
+ "slug": "mrm-nutrition-vegan-vitamin-d3-k2-60-vegan-capsules",
+ "scrapedAt": "2026-08-25T17:22:39.455Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/mrm-nutrition-vegan-vitamin-d3-k2-60-vegan-capsules.jpg",
+  "/products/iherb/mrm-nutrition-vegan-vitamin-d3-k2-60-vegan-capsules-2.jpg",
+  "/products/iherb/mrm-nutrition-vegan-vitamin-d3-k2-60-vegan-capsules-3.jpg",
+  "/products/iherb/mrm-nutrition-vegan-vitamin-d3-k2-60-vegan-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mrm-nutrition-vegan-vitamin-d3-k2-60-vegan-capsules/77415",
+ "pageTitle": "MRM Nutrition, Vegan Vitamin D3 & K2, 60 Vegan Capsules",
+ "h1": "MRM Nutrition, Vegan Vitamin D3 & K2, 60 Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "77415",
+  "name": "MRM Nutrition, Vegan Vitamin D3 & K2, 60 Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/g/31.jpg",
+  "mpn": "MRM-23107",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 17465
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MRM Nutrition",
+   "url": "https://mrmnutrition.com/",
+   "identifier": "MRM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "389.13",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Gluten Free Certified Vegan Non GMO Project Verified Supports Calcium Absorption, Bone & Immune Health Vegan Vitamin K2 as Menaquinone-7 (MK-7) Unique Vegan Vitamin D3 From Lichen Extract VegaDELight™ What makes our Vitamin D3+K2 so unique? It’s Vegan! MRM Vegan Vitamin D3 is a cholecalciferol form of Vitamin D3 that is extracted exclusively from lichens, an algae/fungi commensal organism, to meet calcium and bone health needs of both vegans and vegetarians. Vitamin K2 is required for the synthesis of certain proteins (like ones involved in calcium binding) in the body. K2 helps trigger bone cells to extract calcium from the blood and bind it to bones. Low levels of vitamin K2 can cause weakened bones and increase calcification of arteries and other soft tissues. Vitamin K2 is the ideal companion nutrient to Vitamin D3 because Vitamin D helps extract calcium from the diet/supplements and K2 helps bind that calcium to the bone matrix to develop strong bones.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "MRM-23107",
+  "gtin12": "609492231079",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/g/31.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Gluten Free",
+    "Certified Vegan",
+    "Non GMO Project Verified",
+    "Supports Calcium Absorption, Bone & Immune Health",
+    "Vegan Vitamin K2 as Menaquinone-7 (MK-7)",
+    "Unique Vegan Vitamin D3 From Lichen Extract",
+    "VegaDELight™"
+   ],
+   "paragraphs": [
+    "What makes our Vitamin D3+K2 so unique? It’s Vegan!",
+    "MRM Vegan Vitamin D3 is a cholecalciferol form of Vitamin D3 that is extracted exclusively from lichens, an algae/fungi commensal organism, to meet calcium and bone health needs of both vegans and vegetarians.",
+    "Vitamin K2 is required for the synthesis of certain proteins (like ones involved in calcium binding) in the body. K2 helps trigger bone cells to extract calcium from the blood and bind it to bones. Low levels of vitamin K2 can cause weakened bones and increase calcification of arteries and other soft tissues. Vitamin K2 is the ideal companion nutrient to Vitamin D3 because Vitamin D helps extract calcium from the diet/supplements and K2 helps bind that calcium to the bone matrix to develop strong bones."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule per day or as directed by your qualified healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, cellulose capsule, and tapioca dextrin.",
+    "Contains no added milk, egg, peanut, tree nut, fish, shellfish, soy, wheat, gluten or yeast ingredients."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MRM-23107"
+  },
+  {
+   "label": "UPC",
+   "value": "609492231079"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 5 x 4.8 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegan Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "62.5 mcg (2,500 IU)",
+   "310%"
+  ],
+  [
+   "Vitamin K2 (as Menaquinone-7)",
+   "80 mcg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegan capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿389.13",
+  "฿389.13",
+  "฿6.49/‏serving",
+  "{0}% off code: {1}",
+  "฿389.13",
+  "Save 0% in cart",
+  "฿6.49/‏serving",
+  "฿389.13",
+  "(0% off)",
+  "฿389.13",
+  "฿6.49/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/g/31.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/k/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/g/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mrm/mrm23107/s/40.jpg"
+ ]
+}

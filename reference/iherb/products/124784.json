@@ -1,0 +1,316 @@
+{
+ "pid": "124784",
+ "slug": "lifeable-prenatal-multivitamin-gummies-raspberry-60-gummies",
+ "scrapedAt": "2026-08-25T17:38:04.373Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-prenatal-multivitamin-gummies-raspberry-60-gummies.jpg",
+  "/products/iherb/lifeable-prenatal-multivitamin-gummies-raspberry-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-prenatal-multivitamin-gummies-raspberry-60-gummies/124784",
+ "pageTitle": "Lifeable, Prenatal Multivitamin Gummies, Raspberry, 60 Gummies",
+ "h1": "Lifeable, Prenatal Multivitamin Gummies, Raspberry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124784",
+  "name": "Lifeable, Prenatal Multivitamin Gummies, Raspberry, 60  Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/g/40.jpg",
+  "mpn": "LFB-73074",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.2,
+   "reviewCount": 79
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "536.17",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Pregnancy Health Kosher Vegetarian Gluten Free Nut Free These delicious prenatal multivitamins are the perfect way to ensure you get the vitamins you need to help keep you healthy during pregnancy. Each Multivitamin is packed with essential vitamins and minerals such as Vitamins A, B, C, D, E, Zinc and more!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73074",
+  "gtin12": "810102730749",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Moms & Maternity",
+  "Prenatal Supplements",
+  "Prenatal Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Pregnancy Health",
+    "Kosher",
+    "Vegetarian",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "These delicious prenatal multivitamins are the perfect way to ensure you get the vitamins you need to help keep you healthy during pregnancy. Each Multivitamin is packed with essential vitamins and minerals such as Vitamins A, B, C, D, E, Zinc and more!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) gummies per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, natural flavor, black carrot concentrate and sodium copper chlorophyllin (colors), trisodium citrate, citric acid, carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish.",
+    "Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using. Not for children under 2 years of age due to risk of choking.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose call a doctor or poison control center immediately.",
+    "Do not use this product if safety seat under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature.",
+    "Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73074"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730749"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value for Pregnant and Lactating Women†"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "5 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g added sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "650 mcg",
+   "50%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "50 mg",
+   "42%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "20 mcg (800 IU)",
+   "133%"
+  ],
+  [
+   "Vitamin E (as DL-alpha tocopheryl acetate)",
+   "19 mg",
+   "100%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "18 mg",
+   "100%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "2 mg",
+   "100%"
+  ],
+  [
+   "Folate",
+   "612 mcg DFE (360 mcg Folic Acid)",
+   "102%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "2.8 mcg",
+   "100%"
+  ],
+  [
+   "Biotin (as D-biotin)",
+   "35 mcg",
+   "100%"
+  ],
+  [
+   "Iron (as ferric saccharate)",
+   "12 mg",
+   "44%"
+  ],
+  [
+   "lodine (as potassium iodide)",
+   "220 mcg",
+   "76%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "3.8 mg",
+   "29%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value for Pregnant and Lactating Women†",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿536.17",
+  "฿536.17",
+  "฿17.87/‏serving",
+  "{0}% off code: {1}",
+  "฿536.17",
+  "Save 0% in cart",
+  "฿17.87/‏serving",
+  "฿536.17",
+  "(0% off)",
+  "฿536.17",
+  "฿17.87/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73074/s/45.jpg"
+ ]
+}

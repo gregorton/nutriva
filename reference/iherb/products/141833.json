@@ -1,0 +1,355 @@
+{
+ "pid": "141833",
+ "slug": "childlife-essentials-multi-vitamin-gummy-sugar-free-natural-strawberry",
+ "scrapedAt": "2026-08-25T17:34:06.129Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/childlife-essentials-multi-vitamin-gummy-sugar-free-natural-strawberry.jpg",
+  "/products/iherb/childlife-essentials-multi-vitamin-gummy-sugar-free-natural-strawberry-2.jpg",
+  "/products/iherb/childlife-essentials-multi-vitamin-gummy-sugar-free-natural-strawberry-3.jpg",
+  "/products/iherb/childlife-essentials-multi-vitamin-gummy-sugar-free-natural-strawberry-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/childlife-essentials-multi-vitamin-gummy-sugar-free-natural-strawberry-lemon-90-gummies/141833",
+ "pageTitle": "ChildLife Essentials, Multi Vitamin Gummy, Sugar Free, Natural Strawberry Lemon, 90 Gummies",
+ "h1": "ChildLife Essentials, Multi Vitamin Gummy, Sugar Free, Natural Strawberry Lemon, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "141833",
+  "name": "ChildLife Essentials, Multi Vitamin Gummy, Sugar Free, Natural Strawberry Lemon, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/g/24.jpg",
+  "mpn": "CDL-14550",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 168
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "ChildLife Essentials",
+   "url": "https://childlifenutrition.com/",
+   "identifier": "CDL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.64",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "928.62",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Nutrition for Kids® Essentials With DHA With Lutein Dietary Supplement Our Multi Vitamin Gummies have multi-benefits! They help kids maintain: Healthy brain activity with DHA. Healthy energy and metabolism with Folate and Vitamin B12. A healthy immune system with Vitamin C, Vitamin D3, and Zinc. Healthy bones and teeth with Vitamin D3. Healthy vision with Lutein and Vitamin A. They're full of natural yumminess, making them a delightful and nutritious treat for kids!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CDL-14550",
+  "gtin12": "608274145504",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Nutrition for Kids®",
+    "Essentials",
+    "With DHA",
+    "With Lutein",
+    "Dietary Supplement",
+    "Healthy brain activity with DHA.",
+    "Healthy energy and metabolism with Folate and Vitamin B12.",
+    "A healthy immune system with Vitamin C, Vitamin D3, and Zinc.",
+    "Healthy bones and teeth with Vitamin D3.",
+    "Healthy vision with Lutein and Vitamin A."
+   ],
+   "paragraphs": [
+    "Our Multi Vitamin Gummies have multi-benefits!",
+    "They help kids maintain:",
+    "They're full of natural yumminess, making them a delightful and nutritious treat for kids!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 4+ yrs: 2 gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Maltitol, isomalt, xylitol, maltodextrin, gelatin (bovine), pectin, citric acid, natural flavors, sodium citrate, purple carrot (for color), water, oil coating (carnauba wax, sunflower oil), steviol glycosides.",
+    "Contains Fish (Tuna)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CDL-14550"
+  },
+  {
+   "label": "UPC",
+   "value": "608274145504"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.6 x 7.2 x 7.2 cm, 0.29 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 gummies"
+  ],
+  [
+   "Servings Per Container: About 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value Children 4+ yrs"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%**"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "†"
+  ],
+  [
+   "Includes Added Sugars",
+   "0 g",
+   "0%**"
+  ],
+  [
+   "Sugar Alcohol",
+   "3 g",
+   "†"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "230 mcg",
+   "25%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "15 mg",
+   "17%"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "10 mcg (400 IU)",
+   "50%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha Tocopheryl Acetate)",
+   "7.5 mg",
+   "50%"
+  ],
+  [
+   "Thiamin (as Thiamin Hydrochloride)",
+   "0.04 mg",
+   "3%"
+  ],
+  [
+   "Niacin (as Niacinamide)",
+   "3.5 mg",
+   "22%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine Hydrochloride)",
+   "0.7 mg",
+   "41%"
+  ],
+  [
+   "Folate (as Folic Acid)",
+   "190 mcg DFE (114 mcg Folic Acid)",
+   "48%"
+  ],
+  [
+   "Vitamin B12 (as Cyanocobalamin)",
+   "3 mcg",
+   "125%"
+  ],
+  [
+   "Biotin",
+   "75 mcg",
+   "250%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D-Pantothenate)",
+   "1 mg",
+   "20%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "75 mcg",
+   "50%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "1.3 mg",
+   "11%"
+  ],
+  [
+   "Selenium (as L-Selenomethionine)",
+   "7 mcg",
+   "50%"
+  ],
+  [
+   "Chromium (as Chromium Nicotinate Glycinate)",
+   "8.8 mcg",
+   "25%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid) (Fish Oil)",
+   "40 mg",
+   "†"
+  ],
+  [
+   "Lutein (from Marigold Flower Extract)",
+   "1 mg",
+   "†"
+  ],
+  [
+   "Boron (as Boron Citrate)",
+   "250 mcg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet. †Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value Children 4+ yrs",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿928.62",
+  "฿928.62",
+  "฿20.64/‏serving",
+  "{0}% off code: {1}",
+  "฿928.62",
+  "Save 0% in cart",
+  "฿20.64/‏serving",
+  "฿928.62",
+  "(0% off)",
+  "฿928.62",
+  "฿20.64/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cdl/cdl14550/s/36.jpg"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "pid": "125529",
+ "slug": "carlson-vitamins-d3-k2-30-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:33:22.254Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "400+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/carlson-vitamins-d3-k2-30-vegetarian-capsules.jpg",
+  "/products/iherb/carlson-vitamins-d3-k2-30-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/carlson-vitamins-d3-k2-30-vegetarian-capsules/125529",
+ "pageTitle": "Carlson, Vitamins D3 + K2, 30 Vegetarian Capsules",
+ "h1": "Carlson, Vitamins D3 + K2, 30 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125529",
+  "name": "Carlson, Vitamins D3 + K2, 30 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/g/32.jpg",
+  "mpn": "CAR-10600",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 2323
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Carlson",
+   "url": "http://www.carlsonlabs.com/",
+   "identifier": "CAR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "253.29",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "50 mcg (2,000 IU) & 90 mcg Dietary Supplement Bone Support Cardiovascular Health Calcium Absorption Igen™ Non-GMO Tested Soy-Free Gluten-Free No Artificial Preservatives MenaQ7® Vitamin K2 as MK-7 Potency & Quality Guaranteed An FDA Regulated Facility Vitamin D3+K2 work synergistically to support cardiovascular and bone health. Vitamin D3 helps regulate calcium absorption, and vitamin K2, derived from chickpeas, helps direct calcium to our bones.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.5x1.5"
+  },
+  "isRelatedTo": null,
+  "sku": "CAR-10600",
+  "gtin12": "088395106002",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "50 mcg (2,000 IU) & 90 mcg",
+    "Dietary Supplement",
+    "Bone Support",
+    "Cardiovascular Health",
+    "Calcium Absorption",
+    "Igen™ Non-GMO Tested",
+    "Soy-Free",
+    "Gluten-Free",
+    "No Artificial Preservatives",
+    "MenaQ7® Vitamin K2 as MK-7",
+    "Potency & Quality Guaranteed",
+    "An FDA Regulated Facility"
+   ],
+   "paragraphs": [
+    "Vitamin D3+K2 work synergistically to support cardiovascular and bone health. Vitamin D3 helps regulate calcium absorption, and vitamin K2, derived from chickpeas, helps direct calcium to our bones."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults: take two capsules daily at mealtime or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose, hydroxypropyl methycellulose, glycerol monostearate, magnesium stearate (veg.), silicone dioxide, antioxidant blend (ascorbyl palmitate, rosemary extract)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Vitamin K can antagonize the effect of anticoagulants including Warfarin. Do not take this product if you are taking Warfarin or pregnant or breastfeeding without first consulting with your physician."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.02 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CAR-10600"
+  },
+  {
+   "label": "UPC",
+   "value": "088395106002"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.9 x 3.8 x 3.8 cm, 0.02 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "50 mcg (2,000 IU)",
+   "250%"
+  ],
+  [
+   "Vitamin K2 [as MK-7 (menaquinone-7)]",
+   "90 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "15"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "125529",
+   "url": "https://th.iherb.com/pr/carlson-vitamins-d3-k2-30-vegetarian-capsules/125529",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "116233",
+   "url": "https://th.iherb.com/pr/carlson-vitamin-d3-k2-120-vegetarian-capsules/116233",
+   "price": "฿832.07",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "400+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿253.29",
+  "฿253.29",
+  "฿16.89/‏serving",
+  "{0}% off code: {1}",
+  "฿253.29",
+  "Save 0% in cart",
+  "฿16.89/‏serving",
+  "฿253.29",
+  "(0% off)",
+  "฿253.29",
+  "฿16.89/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/car/car10600/s/37.jpg"
+ ]
+}

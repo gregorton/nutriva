@@ -1,0 +1,335 @@
+{
+ "pid": "12136",
+ "slug": "nature-s-way-fish-oil-omega-3-zesty-lemon-16-9-fl-oz-500-ml",
+ "scrapedAt": "2026-08-25T17:24:26.278Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-fish-oil-omega-3-zesty-lemon-16-9-fl-oz-500-ml.jpg",
+  "/products/iherb/nature-s-way-fish-oil-omega-3-zesty-lemon-16-9-fl-oz-500-ml-2.jpg",
+  "/products/iherb/nature-s-way-fish-oil-omega-3-zesty-lemon-16-9-fl-oz-500-ml-3.jpg",
+  "/products/iherb/nature-s-way-fish-oil-omega-3-zesty-lemon-16-9-fl-oz-500-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-fish-oil-omega-3-zesty-lemon-16-9-fl-oz-500-ml/12136",
+ "pageTitle": "Nature's Way, Fish Oil Omega-3, Zesty Lemon, 16.9 fl oz (500 ml)",
+ "h1": "Nature's Way, Fish Oil Omega-3, Zesty Lemon, 16.9 fl oz (500 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "12136",
+  "name": "Nature's Way, Fish Oil Omega-3, Zesty Lemon, 16.9 fl oz (500 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/g/53.jpg",
+  "mpn": "ASC-00009",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 710
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.59",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1938.19",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "1250 mg EPA/DHA per Teaspoon ‡ Fish Oil Supplement Guaranteed Pure Pure✔ ® Check for yourself Supports Cardiovascular and Joint Health With 750 mg EPA and 500 mg DHA per teaspoon‡ Supports eye and brain function Supports healthy skin, joints, and blood triglyceride levels already within normal range Tested for PCBs, heavy metals (including mercury), and other impurities Clean, light taste; no fishy burp back ‡See Supplement Facts for total fat, saturated fat, and cholesterol content.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3x2.95"
+  },
+  "isRelatedTo": null,
+  "sku": "ASC-00009",
+  "gtin12": "850652000091",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/g/53.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "1250 mg EPA/DHA per Teaspoon‡",
+    "Fish Oil Supplement",
+    "Guaranteed Pure",
+    "Pure✔® Check for yourself",
+    "Supports eye and brain function",
+    "Supports healthy skin, joints, and blood triglyceride levels already within normal range",
+    "Tested for PCBs, heavy metals (including mercury), and other impurities",
+    "Clean, light taste; no fishy burp back"
+   ],
+   "paragraphs": [
+    "Supports Cardiovascular and Joint Health",
+    "With 750 mg EPA and 500 mg DHA per teaspoon‡",
+    "‡See Supplement Facts for total fat, saturated fat, and cholesterol content."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Shake well before each use.",
+    "Adults and adolescents 14 years of age and older take 1 teaspoon (tsp) (5 mL) daily.",
+    "Children 2-13 years of age take 1/2 tsp (2.5 mL) daily.",
+    "Refrigerate after opening and consume within 100 days."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Natural flavor, preservatives to maintain freshness (mixed tocopherols, green tea [leaf] extract).",
+    "Contains fish (anchovy, sardine, mackerel, herring)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, taking blood thinning medications, facing surgery, or taking any medications, consult a healthcare professional before use.",
+    "Keep out of reach of children. Safety sealed with outer shrink band. Do not use if seal is broken or missing. Keep tightly closed. Store at room temperature. Avoid excessive heat and direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.72 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ASC-00009"
+  },
+  {
+   "label": "UPC",
+   "value": "850652000091"
+  },
+  {
+   "label": "Package quantity",
+   "value": "500 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "18.4 x 7.6 x 7.5 cm, 0.72 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1/2 teaspoon (2.5 ml)/ 1 teaspoon (5 mL)"
+  ],
+  [
+   "Servings Per Container: 200/ 100"
+  ],
+  [
+   "",
+   "Amount Per ServingAges 2-3",
+   "%DV‡",
+   "Amount Per ServingAges 4-13",
+   "%DV‡",
+   "Amount Per ServingAges 14+",
+   "%DV‡"
+  ],
+  [
+   "Calories",
+   "20",
+   "",
+   "20",
+   "",
+   "40",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2.5 g",
+   "6%††",
+   "2.5 g",
+   "3%†",
+   "4.5 g",
+   "6%†"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "5%††",
+   "0.5 g",
+   "3%†",
+   "1 g",
+   "5%†"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "**",
+   "0 g",
+   "**",
+   "0 g",
+   "**"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "1 g",
+   "**",
+   "1 g",
+   "**",
+   "2 g",
+   "**"
+  ],
+  [
+   "Monounsaturated Fat",
+   "0.5 g",
+   "**",
+   "0.5 g",
+   "**",
+   "1 g",
+   "**"
+  ],
+  [
+   "Cholesterol",
+   "15 mg",
+   "5%",
+   "15 mg",
+   "5%",
+   "30 mg",
+   "10%"
+  ],
+  [
+   "Fish Oil",
+   "2.27 g",
+   "**",
+   "2.27 g",
+   "**",
+   "4.5 g",
+   "**"
+  ],
+  [
+   "Total EPA/DHA",
+   "0.62 g",
+   "**",
+   "0.62 g",
+   "**",
+   "1.25 g",
+   "**"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "375 mg",
+   "**",
+   "375 mg",
+   "**",
+   "750 mg",
+   "**"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "250 mg",
+   "**",
+   "250 mg",
+   "**",
+   "500 mg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 2,000 calorie diet.††Percent Daily Values are based on a 1,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "††Percent Daily Values are based on a 1,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 teaspoon"
+    },
+    {
+     "label": "Total servings",
+     "value": "200"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 5 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,938.19",
+  "฿1,938.19",
+  "฿9.69/‏serving",
+  "{0}% off code: {1}",
+  "฿1,938.19",
+  "Save 0% in cart",
+  "฿9.69/‏serving",
+  "฿1,938.19",
+  "(0% off)",
+  "฿1,938.19",
+  "฿9.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/g/53.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/k/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/g/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asc/asc00009/s/65.jpg"
+ ]
+}

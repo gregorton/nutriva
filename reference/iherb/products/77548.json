@@ -1,0 +1,254 @@
+{
+ "pid": "77548",
+ "slug": "california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-s",
+ "scrapedAt": "2026-08-25T17:09:52.975Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "California Gold Nutrition",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-s.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-s-2.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-s-3.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-s-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-softgels/77548",
+ "pageTitle": "California Gold Nutrition, Vitamin D3, 50 mcg (2,000 IU), 90 Fish Gelatin Softgels",
+ "h1": "California Gold Nutrition, Vitamin D3, 50 mcg (2,000 IU), 90 Fish Gelatin Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "77548",
+  "name": "California Gold Nutrition, Vitamin D3, 50 mcg (2,000 IU), 90 Fish Gelatin Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/g/191.jpg",
+  "mpn": "CGN-01179",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 148609
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "173.28",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Featuring Vitamin D3 (Cholecalciferol) Supports Healthy Bones and Teeth* Supports Healthy Immune System Function* California Gold Nutrition® Vitamin D3, 50 mcg (2,000 IU) is a vitamin D supplement as cholecalciferol in fish gelatin softgels. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x3"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01179",
+  "gtin12": "898220011797",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/g/191.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Featuring Vitamin D3 (Cholecalciferol)",
+    "Supports Healthy Bones and Teeth*",
+    "Supports Healthy Immune System Function*"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Vitamin D3, 50 mcg (2,000 IU) is a vitamin D supplement as cholecalciferol in fish gelatin softgels.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01179"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011797"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.4 x 5.1 x 7.6 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D(as D3, cholecalciferol)",
+   "50 mcg (2,000 IU)",
+   "250%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "77548",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-softgels/77548",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "360 count",
+   "pid": "77549",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-360-fish-gelatin-softgels/77549",
+   "price": "฿431.66",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#4 in",
+   "category": "Vitamin D",
+   "href": "/c/vitamin-d?sr=2"
+  },
+  {
+   "rank": "#16 in",
+   "category": "Vitamins",
+   "href": "/c/vitamins?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿173.28",
+  "฿173.28",
+  "฿1.93/‏serving",
+  "{0}% off code: {1}",
+  "฿173.28",
+  "Save 0% in cart",
+  "฿1.93/‏serving",
+  "฿173.28",
+  "(0% off)",
+  "฿173.28",
+  "฿1.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/g/191.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/k/191.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/g/191.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/191.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/196.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/199.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/202.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/203.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/204.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/310.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/200.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01179/s/201.jpg"
+ ]
+}

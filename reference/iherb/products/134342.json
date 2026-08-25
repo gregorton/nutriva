@@ -1,0 +1,432 @@
+{
+ "pid": "134342",
+ "slug": "super-nutrition-simply-one-women-multivitamin-super-complexes-90-table",
+ "scrapedAt": "2026-08-25T17:51:32.822Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/super-nutrition-simply-one-women-multivitamin-super-complexes-90-table.jpg",
+  "/products/iherb/super-nutrition-simply-one-women-multivitamin-super-complexes-90-table-2.jpg",
+  "/products/iherb/super-nutrition-simply-one-women-multivitamin-super-complexes-90-table-3.jpg",
+  "/products/iherb/super-nutrition-simply-one-women-multivitamin-super-complexes-90-table-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/super-nutrition-simply-one-women-multivitamin-super-complexes-90-tablets/134342",
+ "pageTitle": "Super Nutrition, Simply One®, Women Multivitamin + Super Complexes, 90 Tablets",
+ "h1": "Super Nutrition, Simply One®, Women Multivitamin + Super Complexes, 90 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "134342",
+  "name": "Super Nutrition, Simply One®, Women Multivitamin + Super Complexes, 90 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/g/9.jpg",
+  "mpn": "SPN-02409",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 206
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Super Nutrition",
+   "url": "https://www.iherb.com/c/super-nutrition?rank=0",
+   "identifier": "SPN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.49",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "230.99",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "618.47",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Super Nutrition® SimplyOne® Women Multivitamin + Super Complexes Tablets Formulated with Bioactive B12 Complex and Active Folate as 5-Methytetrahydrofolate Formulated without: Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility iTested Quality Super Nutrition® SimplyOne® Women Multivitamin + Super Complexes is formulated with powerful nutrients meant to support the unique health needs of women. It contains antioxidant vitamins, including vitamins A, C, and E. In addition, our formula includes a Super BlueGreen Complex, a Super Antioxidant Complex, and a Super Spice Complex featuring beneficial ingredients like Coenzyme Q10, cayenne pepper, ginger extract, and turmeric extract. All of these ingredients work together to promote an overall healthy lifestyle.* iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02409",
+  "gtin12": "898220024094",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Women's Health",
+  "Women's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Super Nutrition® SimplyOne® Women Multivitamin + Super Complexes Tablets",
+    "Formulated with Bioactive B12 Complex and Active Folate as 5-Methytetrahydrofolate",
+    "Formulated without: Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "iTested Quality"
+   ],
+   "paragraphs": [
+    "Super Nutrition® SimplyOne® Women Multivitamin + Super Complexes is formulated with powerful nutrients meant to support the unique health needs of women. It contains antioxidant vitamins, including vitamins A, C, and E. In addition, our formula includes a Super BlueGreen Complex, a Super Antioxidant Complex, and a Super Spice Complex featuring beneficial ingredients like Coenzyme Q10, cayenne pepper, ginger extract, and turmeric extract. All of these ingredients work together to promote an overall healthy lifestyle.*",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet daily with food."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02409"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024094"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin A (83% as Retinyl Palmitate and 17% as Beta-Carotene)",
+   "1,800 mcg",
+   "200%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "180 mg",
+   "200%"
+  ],
+  [
+   "Vitamin D (as D3, Cholecalciferol)",
+   "50 mcg",
+   "250%"
+  ],
+  [
+   "Vitamin E (as d-Alpha-Tocopheryl Succinate from Sunflower)",
+   "30 mg",
+   "200%"
+  ],
+  [
+   "Vitamin K (as K1, Phytonadione)",
+   "90 mcg",
+   "75%"
+  ],
+  [
+   "Thiamin (as Thiamin HCI)",
+   "12 mg",
+   "1000%"
+  ],
+  [
+   "Riboflavin",
+   "13 mg",
+   "1000%"
+  ],
+  [
+   "Niacin (as Nicotinic Acid and Niacinamide)",
+   "40 mg",
+   "250%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxal-5-Phosphate)",
+   "17 mg",
+   "1000%"
+  ],
+  [
+   "Folate (as 5-MTHF, L-5-Methyltetrahydrofolate)",
+   "1,600 mcg DFE",
+   "400%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin and Dibencozide)",
+   "48 mcg",
+   "2000%"
+  ],
+  [
+   "Biotin (as d-Biotin)",
+   "300 mcg",
+   "1000%"
+  ],
+  [
+   "Pantothenic Acid (as d-Calcium Pantothenate)",
+   "50 mg",
+   "1000%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "55 mg",
+   "10%"
+  ],
+  [
+   "Calcium (as Calcium Carbonate and Calcium Citrate)",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Iron (as Ferronyl Iron)",
+   "18 mg",
+   "100%"
+  ],
+  [
+   "Iodine (from Kelp)",
+   "150 mcg",
+   "100%"
+  ],
+  [
+   "Magnesium (as Magnesium Oxide and Magnesium Glycinate)",
+   "42 mg",
+   "10%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "22 mg",
+   "200%"
+  ],
+  [
+   "Selenium (as Sodium Selenite)",
+   "110 mcg",
+   "200%"
+  ],
+  [
+   "Copper (as Copper Glycinate)",
+   "1.8 mg",
+   "200%"
+  ],
+  [
+   "Manganese (as Manganese Sulfate)",
+   "4.6 mg",
+   "200%"
+  ],
+  [
+   "Chromium (as Chromium Picolinate)",
+   "175 mcg",
+   "500%"
+  ],
+  [
+   "Molybdenum (as Molybdenum Amino Acid Chelate)",
+   "90 mcg",
+   "200%"
+  ],
+  [
+   "Potassium (as Potassium Chloride)",
+   "102 mg",
+   "2%"
+  ],
+  [
+   "Super BlueGreen ComplexOrganic Alfalfa Grass, Bilberry (fruit), Organic Blueberry (fruit), Organic Broccoli (floret), Organic Chlorella, Organic Kale (leaf), Red Clover (flower), Organic Spirulina, Organic Wheat Grass",
+   "90 mg",
+   "†"
+  ],
+  [
+   "Super Antioxidant ComplexAlpha-Lipoic Acid, Coenzyme Q10 (Ubiquinone), DMAE (as Dimethylaminoethanol Bitartrate), L-Glutathione, Grape Seed Extract, Green Tea Leaf Extract, Hawthorn Berry Extract, Asian Ginseng (root), Pine Bark Extract, Quercetin",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Super Spice ComplexOrganic Cayenne Pepper (fruit), Organic Ginger Extract (root), Organic Turmeric Extract (root)",
+   "45 mg",
+   "†"
+  ],
+  [
+   "Chasteberry Extract (Vitex agnus-castus) (fruit)",
+   "30 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids (from Lemon Fruit)",
+   "30 mg",
+   "†"
+  ],
+  [
+   "Inositol",
+   "30 mg",
+   "†"
+  ],
+  [
+   "Betaine (as Betaine HCl)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Bromelain (80 GDU/g)",
+   "10 mg",
+   "†"
+  ],
+  [
+   "Black Pepper (Piper nigrum) (fruit)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Glutamic Acid (as Glutamic Acid HCl)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Hesperidin (from Citrus)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Rutin",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Boron (from Boron Citrate)",
+   "2 mg",
+   "†"
+  ],
+  [
+   "Lutein",
+   "500 mcg",
+   "†"
+  ],
+  [
+   "Lycopene",
+   "500 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿618.47",
+  "฿618.47",
+  "฿6.87/‏serving",
+  "{0}% off code: {1}",
+  "฿618.47",
+  "Save 63% in cart",
+  "฿6.87/‏serving",
+  "฿230.99",
+  "(63% off)",
+  "฿618.47",
+  "฿2.57/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/s/0.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02409/s/19.jpg"
+ ]
+}

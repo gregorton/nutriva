@@ -1,0 +1,295 @@
+{
+ "pid": "104331",
+ "slug": "naturesplus-collagen-peptides-120-capsules",
+ "scrapedAt": "2026-08-25T17:17:03.706Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturesplus-collagen-peptides-120-capsules.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-120-capsules-2.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-120-capsules-3.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-120-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-120-capsules/104331",
+ "pageTitle": "NaturesPlus, Collagen Peptides, 120 Capsules",
+ "h1": "NaturesPlus, Collagen Peptides, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104331",
+  "name": "NaturesPlus, Collagen Peptides, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/g/42.jpg",
+  "mpn": "NAP-45971",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 5221
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NaturesPlus",
+   "url": "https://naturesplus.com/",
+   "identifier": "NAP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.28",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "660.14",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass Fed Sustainably Caught Cage-Free Chicken Eggshell Membrane I, II, III, IV, V, X Types of Natural Collagen Multi-Collagen Dietary Supplement Certified Non-GMO Environmentally Responsible Gluten Free GMP Certified Facility NaturesPlus® Collagen Peptides is formulated as the highest quality collagen available in a convenient capsule form. Sourced from Grass-Fed Beef, Wild-Caught Cod, Cage-Free Chicken and Eggshell Membrane: Clean, sustainable ingredients are best! These 6 major Collagen Types (I, II, III, IV, V & X) provide a powerful profile, delivering exceptional whole body benefits. NaturesPlus Collagen Peptides now in a convenient easy-to-swallow capsule! Maximized Absorption Superior Source Hydrolyzed Collagen with Collagen Digesting Enzymes to maximize absorption. Full Spectrum Collagen provides whole body results: Type I - Skin Elasticity Type II - Joints and Immune Type III - Skin, Blood Vessels, Vital Organs Type IV - Cell Adhesion, Migration, Differentiation and Growth Type V - Skin, Tendons, Immune, Reproductive Type X - Joints, Bones, Muscles, Hair, Fetal Development",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NAP-45971",
+  "gtin12": "097467459717",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/g/42.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass Fed",
+    "Sustainably Caught",
+    "Cage-Free Chicken",
+    "Eggshell Membrane",
+    "I, II, III, IV, V, X Types of Natural Collagen",
+    "Multi-Collagen",
+    "Dietary Supplement",
+    "Certified Non-GMO",
+    "Environmentally Responsible",
+    "Gluten Free",
+    "GMP Certified Facility",
+    "Sourced from Grass-Fed Beef, Wild-Caught Cod, Cage-Free Chicken and Eggshell Membrane: Clean, sustainable ingredients are best!",
+    "These 6 major Collagen Types (I, II, III, IV, V & X) provide a powerful profile, delivering exceptional whole body benefits.",
+    "Type I - Skin Elasticity",
+    "Type II - Joints and Immune",
+    "Type III - Skin, Blood Vessels, Vital Organs",
+    "Type IV - Cell Adhesion, Migration, Differentiation and Growth",
+    "Type V - Skin, Tendons, Immune, Reproductive",
+    "Type X - Joints, Bones, Muscles, Hair, Fetal Development"
+   ],
+   "paragraphs": [
+    "NaturesPlus® Collagen Peptides is formulated as the highest quality collagen available in a convenient capsule form.",
+    "NaturesPlus Collagen Peptides now in a convenient easy-to-swallow capsule!",
+    "Maximized Absorption",
+    "Superior Source Hydrolyzed Collagen with Collagen Digesting Enzymes to maximize absorption.",
+    "Full Spectrum Collagen provides whole body results:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 capsules daily with water or your favorite beverage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin capsule (beef), microcrystalline cellulose, rice protein and silica.",
+    "Contains egg and fish.",
+    "Does not contain milk, crustacean shellfish, tree nut, peanut, wheat, soy or sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep tightly closed in a cool, dry place. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAP-45971"
+  },
+  {
+   "label": "UPC",
+   "value": "097467459717"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.4 x 6.4 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Capsules"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Calories from Fat",
+   "0",
+   "0%**"
+  ],
+  [
+   "Protein",
+   "2 g",
+   "‡"
+  ],
+  [
+   "Hydrolyzed Grass-Fed Beef Collagen, Fish Collagen, Chicken Collagen and Eggshell Membrane Collagen Concentrate (includes Types I, II, III, IV, V, X), Collagen from Beef Gelatin",
+   "2000 mg",
+   "†"
+  ],
+  [
+   "Collagen Boosting Enzymes(Protease [from Aspergillis niger])",
+   "30 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calories diet.† Daily Value not established.‡High-quality collagen protein is naturally free from the essential amino acid tryptophan and therefore has no % Daily Value."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calories diet.",
+  "† Daily Value not established.",
+  "‡High-quality collagen protein is naturally free from the essential amino acid tryptophan and therefore has no % Daily Value."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Shellfish-free",
+    "Peanut-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "104331",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-120-capsules/104331",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "113991",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-240-capsules/113991",
+   "price": "฿1,216.03",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿660.14",
+  "฿660.14",
+  "฿22.00/‏serving",
+  "{0}% off code: {1}",
+  "฿660.14",
+  "Save 0% in cart",
+  "฿22.00/‏serving",
+  "฿660.14",
+  "(0% off)",
+  "฿660.14",
+  "฿22.00/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/g/42.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/k/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/g/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45971/s/54.jpg"
+ ]
+}

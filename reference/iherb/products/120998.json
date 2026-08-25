@@ -1,0 +1,347 @@
+{
+ "pid": "120998",
+ "slug": "21st-century-zoo-friends-multi-gummies-fruit-60-gummies",
+ "scrapedAt": "2026-08-25T17:23:21.603Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-fruit-60-gummies.jpg",
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-fruit-60-gummies-2.jpg",
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-fruit-60-gummies-3.jpg",
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-fruit-60-gummies-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-zoo-friends-multi-gummies-fruit-60-gummies/120998",
+ "pageTitle": "21st Century, Zoo Friends®, Multi Gummies, Fruit, 60 Gummies",
+ "h1": "21st Century, Zoo Friends®, Multi Gummies, Fruit, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "120998",
+  "name": "21st Century, Zoo Friends®, Multi Gummies, Fruit, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/g/32.jpg",
+  "mpn": "CEN-27619",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 2649
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "236.23",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Great Tasting Fruit Flavors Children's Multivitamin Supplement Daily Multi Naturally Sourced Colors & Flavors Gluten Free Non GMO Vegetarian Friendly Trusted Quality For Over 30 Years Guaranteed Quality Laboratory Tested 21 ST Century® Zoo Friends® Multi Gummies are great tasting, bear shaped gummies with naturally sourced fruit flavors! Parents, you can be sure that your children are receiving quality nutritional support with each daily serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-27619",
+  "gtin12": "740985276198",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Great Tasting Fruit Flavors",
+    "Children's Multivitamin Supplement",
+    "Daily Multi",
+    "Naturally Sourced Colors & Flavors",
+    "Gluten Free",
+    "Non GMO",
+    "Vegetarian Friendly",
+    "Trusted Quality For Over 30 Years",
+    "Guaranteed Quality",
+    "Laboratory Tested"
+   ],
+   "paragraphs": [
+    "21ST Century® Zoo Friends® Multi Gummies are great tasting, bear shaped gummies with naturally sourced fruit flavors! Parents, you can be sure that your children are receiving quality nutritional support with each daily serving."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, children 2 to 3 years of age chew one (1) gummy daily; children 4 years of age and older and adults, chew one (1) gummy twice daily with any meal or as directed by a healthcare provider. Do not exceed recommended dosage. Individual results may vary."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, cane sugar, water, pectin. contains <2% of: carnauba wax, citric acid, colors (vegetable and fruit juice), gellan gum, natural flavors, sodium citrate, sunflower oil.",
+    "No artificial flavors, artificial sweeteners, milk, soy, wheat or yeast."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare provider prior to use if pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.",
+    "Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature. Gummy colors will darken over time. This does not alter the potency of the product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-27619"
+  },
+  {
+   "label": "UPC",
+   "value": "740985276198"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13 x 6.6 x 6.4 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*2-3 Yrs.",
+   "%Daily Value*4 & Up"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%††",
+   "1%†"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "4%††",
+   "2%†"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "315 mcg",
+   "105%",
+   "35%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "10 mg",
+   "67%",
+   "11%"
+  ],
+  [
+   "Vitamin D³ (as Cholecalciferol)",
+   "5 mcg(200 IU)",
+   "33%",
+   "25%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha Tocopheryl Acetate)",
+   "3.7 mg",
+   "62%",
+   "25%"
+  ],
+  [
+   "Vitamin B-6 (as Pyridoxine HCl)",
+   "1 mg",
+   "200%",
+   "59%"
+  ],
+  [
+   "Folate",
+   "217 mcg DFE(130 mcg Folic Acid)",
+   "144%",
+   "54%"
+  ],
+  [
+   "Vitamin B-12 (as Cyanocobalamin)",
+   "3 mcg",
+   "333%",
+   "125%"
+  ],
+  [
+   "Biotin",
+   "30 mcg",
+   "375%",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as d-Calcium Pantothenate)",
+   "2.6 mg",
+   "130%",
+   "52%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "20 mcg",
+   "<1%",
+   "<1%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "21 mcg",
+   "23%",
+   "14%"
+  ],
+  [
+   "Zinc (as Zinc Sulfate)",
+   "1.35 mg",
+   "45%",
+   "12%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "1%",
+   "<1%"
+  ],
+  [
+   "Inositol",
+   "20 mcg",
+   "**",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.††Percent Daily Values are based on a 1,000 calorie diet.**Daily Values not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving \t%Daily Value*",
+  "%Daily Value*",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "††Percent Daily Values are based on a 1,000 calorie diet.",
+  "**Daily Values not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial flavors",
+    "Milk-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿236.23",
+  "฿236.23",
+  "฿3.94/‏serving",
+  "{0}% off code: {1}",
+  "฿236.23",
+  "Save 0% in cart",
+  "฿3.94/‏serving",
+  "฿236.23",
+  "(0% off)",
+  "฿236.23",
+  "฿3.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/43.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27619/s/47.jpg"
+ ]
+}

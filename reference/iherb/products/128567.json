@@ -1,0 +1,266 @@
+{
+ "pid": "128567",
+ "slug": "lifeseasons-rest-zzz-melatonin-free-sleep-support-60-veg-capsules",
+ "scrapedAt": "2026-08-25T17:20:18.873Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeseasons-rest-zzz-melatonin-free-sleep-support-60-veg-capsules.jpg",
+  "/products/iherb/lifeseasons-rest-zzz-melatonin-free-sleep-support-60-veg-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeseasons-rest-zzz-melatonin-free-sleep-support-60-veg-capsules/128567",
+ "pageTitle": "LifeSeasons, Rest-ZZZ, Melatonin-Free Sleep Support, 60 Veg Capsules",
+ "h1": "LifeSeasons, Rest-ZZZ, Melatonin-Free Sleep Support, 60 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "128567",
+  "name": "LifeSeasons, Rest-ZZZ, Melatonin-Free Sleep Support, 60 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/g/8.jpg",
+  "mpn": "LSE-00289",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.4,
+   "reviewCount": 75
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "LifeSeasons",
+   "url": "https://lifeseasons.com/",
+   "identifier": "LSE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "864.88",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Therapeutics Magnesium & GABA Passion Flower Lemon Balm Chamomile Valerian Valerian Dietary Supplement Vegetarian Gluten Free Rest-ZZZ™ Melatonin-Free helps ease muscle tension, restlessness, and nerve related sleeplessness. Magnesium helps ease restlessness and muscle tension GABA is a neurotransmitter that promotes balance and a state of well-being Valerian helps the body ease into restful sleep Passion Flower supports the body's ability to achieve quality sleep Chamomile and Lemon Balm enhance relaxation",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "LSE-00289",
+  "gtin12": "853760002896",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Therapeutics",
+    "Magnesium & GABA",
+    "Passion Flower",
+    "Lemon Balm",
+    "Chamomile Valerian",
+    "Valerian",
+    "Dietary Supplement",
+    "Vegetarian",
+    "Gluten Free",
+    "Magnesium helps ease restlessness and muscle tension",
+    "GABA is a neurotransmitter that promotes balance and a state of well-being",
+    "Valerian helps the body ease into restful sleep",
+    "Passion Flower supports the body's ability to achieve quality sleep",
+    "Chamomile and Lemon Balm enhance relaxation"
+   ],
+   "paragraphs": [
+    "Rest-ZZZ™ Melatonin-Free helps ease muscle tension, restlessness, and nerve related sleeplessness."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules 30 minutes before going to bed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetable cellulose), microcrystalline cellulose, rice bran, and silica.",
+    "No colors, flavors, preservatives, yeast, magnesium stearate, milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, and soy."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "May cause drowsiness. Use only as directed. If pregnant, nursing, taking medication, or under medical super- vision for any condition, consult a healthcare professional before use. Not intended for children.",
+    "Keep out of reach of children. Store in a cool, dry place. Tamper evident. Do not use if printed safety seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LSE-00289"
+  },
+  {
+   "label": "UPC",
+   "value": "853760002896"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.3 x 5.6 x 5.1 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Magnesium (as magnesium amino acid complex)",
+   "100 mg",
+   "24%"
+  ],
+  [
+   "Chamomile (Matricaria recutita) Flower Extract (4:1)",
+   "200 mg",
+   "**"
+  ],
+  [
+   "Passion Flower (Passiflora incarnata) Aerial Extract (3.5% [6.1 mg] flavonoids)",
+   "175 mg",
+   "**"
+  ],
+  [
+   "GABA (Gamma-aminobutyric acid)",
+   "100 mg",
+   "**"
+  ],
+  [
+   "Hawthorn (Crataegus oxycantha and/or monogyna) Berry",
+   "100 mg",
+   "**"
+  ],
+  [
+   "Valerian (Valeriana officinalis) Root Extract (4:1)",
+   "100 mg",
+   "**"
+  ],
+  [
+   "Lemon Balm (Melissa officinalis) Leaf",
+   "50 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿864.88",
+  "฿864.88",
+  "฿28.83/‏serving",
+  "{0}% off code: {1}",
+  "฿864.88",
+  "Save 0% in cart",
+  "฿28.83/‏serving",
+  "฿864.88",
+  "(0% off)",
+  "฿864.88",
+  "฿28.83/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lse/lse00289/s/14.jpg"
+ ]
+}

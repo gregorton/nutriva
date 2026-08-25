@@ -1,0 +1,302 @@
+{
+ "pid": "8229",
+ "slug": "now-foods-vitamin-d3-2-000-iu-120-softgels",
+ "scrapedAt": "2026-08-25T17:23:23.418Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-vitamin-d3-2-000-iu-120-softgels.jpg",
+  "/products/iherb/now-foods-vitamin-d3-2-000-iu-120-softgels-2.jpg",
+  "/products/iherb/now-foods-vitamin-d3-2-000-iu-120-softgels-3.jpg",
+  "/products/iherb/now-foods-vitamin-d3-2-000-iu-120-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-vitamin-d3-2-000-iu-120-softgels/8229",
+ "pageTitle": "NOW Foods, Vitamin D3, 2,000 IU, 120 Softgels",
+ "h1": "NOW Foods, Vitamin D3, 2,000 IU, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "8229",
+  "name": "NOW Foods, Vitamin D3, 2,000 IU, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/g/73.jpg",
+  "mpn": "NOW-00367",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 193198
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "176.52",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Bone & Immunity Health Supports Healthy Teeth Promotes Muscle Health Non-GMO A Dietary Supplement Kosher - Contains Gelatin Family Owned Since 1968 Halal GMP Quality Assured Contains bovine-derived ingredients NOW® Vitamin D3 softgels supply this key vitamin in a highly absorbable liquid softgel form. Vitamin D is normally obtained from the diet or produced by the skin from the ultraviolet energy of the sun. However, it is not abundant in food. As more people avoid sun exposure, vitamin D supplementation becomes even more necessary to ensure that your body receives an adequate supply.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.9x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00367",
+  "gtin12": "733739003676",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/g/73.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Bone & Immunity Health",
+    "Supports Healthy Teeth",
+    "Promotes Muscle Health",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Kosher - Contains Gelatin",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured",
+    "Contains bovine-derived ingredients"
+   ],
+   "paragraphs": [
+    "NOW® Vitamin D3 softgels supply this key vitamin in a highly absorbable liquid softgel form. Vitamin D is normally obtained from the diet or produced by the skin from the ultraviolet energy of the sun. However, it is not abundant in food. As more people avoid sun exposure, vitamin D supplementation becomes even more necessary to ensure that your body receives an adequate supply."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Extra virgin olive oil, softgel capsule [bovine gelatin (BSE-free), glycerin, water] and safflower oil.",
+    "Not manufactured with yeast, wheat, gluten, soy, corn, milk, egg, fish, shellfish, tree nut or sesame ingredients.",
+    "Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place after opening.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00367"
+  },
+  {
+   "label": "UPC",
+   "value": "733739003676"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 4.8 x 4.8 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving:",
+   "% Daily Value"
+  ],
+  [
+   "Vitamin D (as D3 Cholecalciferol) (from Lanolin)",
+   "50 mcg (2,000 IU)",
+   "250%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving:\t% Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "12 count",
+   "pid": "144861",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d-3-max-potency-50-000-iu-12-softgels/144861",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "30 count",
+   "pid": "78093",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d-3-2-000-iu-30-softgels/78093",
+   "price": "฿114.18",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "50 count",
+   "pid": "106239",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d-3-max-potency-50-000-iu-50-softgels/106239",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "8229",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d3-2-000-iu-120-softgels/8229",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "543",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d-3-high-potency-1-000-iu-180-softgels/543",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "16272",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d-3-high-potency-2-000-iu-240-softgels/16272",
+   "price": "฿334.01",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "360 count",
+   "pid": "16273",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d-3-high-potency-1-000-iu-360-softgels/16273",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#8 in",
+   "category": "Vitamin D",
+   "href": "/c/vitamin-d?sr=2"
+  },
+  {
+   "rank": "#26 in",
+   "category": "Vitamins",
+   "href": "/c/vitamins?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿176.52",
+  "฿176.52",
+  "฿1.47/‏serving",
+  "{0}% off code: {1}",
+  "฿176.52",
+  "Save 0% in cart",
+  "฿1.47/‏serving",
+  "฿176.52",
+  "(0% off)",
+  "฿176.52",
+  "฿1.47/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/g/73.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/k/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/g/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/s/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/s/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/s/82.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/s/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00367/s/84.jpg"
+ ]
+}

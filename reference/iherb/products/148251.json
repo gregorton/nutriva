@@ -1,0 +1,266 @@
+{
+ "pid": "148251",
+ "slug": "rise-bar-whey-protein-powder-vanilla-2-3-lb-1-kg",
+ "scrapedAt": "2026-08-25T17:22:10.752Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/rise-bar-whey-protein-powder-vanilla-2-3-lb-1-kg.jpg",
+  "/products/iherb/rise-bar-whey-protein-powder-vanilla-2-3-lb-1-kg-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/rise-bar-whey-protein-powder-vanilla-2-3-lb-1-kg/148251",
+ "pageTitle": "Rise Bar, Whey Protein Powder, Vanilla, 2.3 lb (1 kg)",
+ "h1": "Rise Bar, Whey Protein Powder, Vanilla, 2.3 lb (1 kg)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148251",
+  "name": "Rise Bar, Whey Protein Powder, Vanilla, 2.3 lb (1 kg)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/g/2.jpg",
+  "mpn": "RBA-55338",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 51
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Rise Bar",
+   "url": "https://www.risebar.com/",
+   "identifier": "RBA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2063.46",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Real Ingredients, Nothing Artificial Naturally Flavored 25 g Protein Per Serving Grass Fed, Pasture Raised No Artificial Flavors No Artificial Colors No Artificial Preservatives No Added Sugars Gluten Free No Soy Kosher Dairy A Deliciously Simple Way to Fuel Your Go. Cut through life's chaos with Rise, your body's fuel for a straightforward, clean boost. Power up with 100% real, simple ingredients packed with protein-no fillers, nothing artificial, ever. Fuel your body's journey with Rise, featuring the added benefit of whey protein sourced from the milk of grass-fed cows. It's a great choice for your active lifestyle before or after exercise, between meals, or any time of day when you need extra protein. Let's rise together.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "8.25x4.2"
+  },
+  "isRelatedTo": null,
+  "sku": "RBA-55338",
+  "gtin12": "690819553387",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Concentrate"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "RBA-55338"
+  },
+  {
+   "label": "UPC",
+   "value": "690819553387"
+  },
+  {
+   "label": "Package quantity",
+   "value": "1,043 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "24.3 x 21 x 10.7 cm, 1.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 2 scoops (34.5 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "140",
+   ""
+  ],
+  [
+   "Total Fat",
+   "3.5 g",
+   "4%"
+  ],
+  [
+   "Saturated Fat",
+   "2 g",
+   "10%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "70 mg",
+   "23%"
+  ],
+  [
+   "Sodium",
+   "210 mg",
+   "9%"
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   "50%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "200 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: 2 scoops (34.5 g)Servings Per Container: 30 Amount Per Serving%Daily Value*Calories140 Total Fat3.5 g4%Saturated Fat2 g10%Trans Fat0 g Cholesterol70 mg23%Sodium210 mg9%Total Carbohydrate3 g1%Dietary Fiber0 g0%Total Sugars2 g Includes 0 g Added Sugars 0%Protein25 g50%Vitamin D0 mcg0%Calcium110 mg8%Iron0 mg0%Potassium200 mg4%*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "1043 g",
+   "pid": "148251",
+   "url": "https://th.iherb.com/pr/rise-bar-whey-protein-powder-vanilla-2-3-lb-1-kg/148251",
+   "price": null,
+   "outOfStock": true,
+   "selected": true
+  },
+  {
+   "label": "1088 g",
+   "pid": "148249",
+   "url": "https://th.iherb.com/pr/rise-bar-whey-protein-powder-chocolate-almond-2-4-lb-1-1-kg/148249",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "EVLution Nutrition, 100% Whey Protein, Double Rich Chocolate, 5lb (2.268 kg)",
+  "5,883",
+  "฿3,987.63"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55338/b/2.jpg"
+ ]
+}

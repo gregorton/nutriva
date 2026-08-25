@@ -1,0 +1,251 @@
+{
+ "pid": "72082",
+ "slug": "california-gold-nutrition-euroherbs-olive-leaf-extract-euromed-quality",
+ "scrapedAt": "2026-08-25T17:46:48.802Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-euroherbs-olive-leaf-extract-euromed-quality.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-olive-leaf-extract-euromed-quality-2.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-olive-leaf-extract-euromed-quality-3.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-olive-leaf-extract-euromed-quality-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-euroherbs-olive-leaf-extract-euromed-quality-500-mg-60-veggie-capsules/72082",
+ "pageTitle": "California Gold Nutrition, EuroHerbs™, Olive Leaf Extract, Euromed Quality, 500 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, EuroHerbs™, Olive Leaf Extract, Euromed Quality, 500 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "72082",
+  "name": "California Gold Nutrition, EuroHerbs™, Olive Leaf Extract, Euromed Quality, 500 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/g/233.jpg",
+  "mpn": "CGN-01113",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 8471
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "300.21",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "400.28",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® EuroHerbs ™ Olive Leaf Extract Phyto-Proof® EuroMed Quality Supports a Healthy Immune Response* Standardized to 18% Oleuropein Olive Leaf Origin EU / Processed in Spain Formulated to contain: No GMOs, No Gluten, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Olive Leaf is native to the Mediterranean regions of Europe and is often used to help support immune health.* Olive Leaf may also support healthy inflammatory response and cardiovascular health.* California Gold Nutrition ® EuroHerbs ™ Olive Leaf contains a premium grade extract standardized to 18% Oleuropein. Euromed is one of the world's leading European manufacturers of standardized \"Pharmacopoeia Grade\" herbal extracts. The Phyto-Proof® seal confirms the use of elite seed cultivars for seed to finished extract quality control. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01113",
+  "gtin12": "898220011131",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/g/233.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Olive Leaf"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® EuroHerbs™ Olive Leaf Extract",
+    "Phyto-Proof® EuroMed Quality",
+    "Supports a Healthy Immune Response*",
+    "Standardized to 18% Oleuropein",
+    "Olive Leaf Origin EU / Processed in Spain",
+    "Formulated to contain: No GMOs, No Gluten, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Olive Leaf is native to the Mediterranean regions of Europe and is often used to help support immune health.* Olive Leaf may also support healthy inflammatory response and cardiovascular health.*",
+    "California Gold Nutrition® EuroHerbs™ Olive Leaf contains a premium grade extract standardized to 18% Oleuropein.",
+    "Euromed is one of the world's leading European manufacturers of standardized \"Pharmacopoeia Grade\" herbal extracts. The Phyto-Proof® seal confirms the use of elite seed cultivars for seed to finished extract quality control.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01113"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011131"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.2 x 5.1 x 5.1 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Olive Extract (Olea europaea L.) (leaf) (Standardized to 18% Oleuropein)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "†Daily value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†Daily value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Olive Leaf",
+   "href": "/c/olive-leaf?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿400.28",
+  "฿400.28",
+  "฿6.67/‏serving",
+  "{0}% off code: {1}",
+  "฿400.28",
+  "Save 25% in cart",
+  "฿6.67/‏serving",
+  "฿300.21",
+  "(25% off)",
+  "฿400.28",
+  "฿5.00/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/g/233.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/k/233.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/g/233.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/s/233.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/s/238.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/s/135.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/s/154.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/s/136.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01113/s/153.jpg"
+ ]
+}

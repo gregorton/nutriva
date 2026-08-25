@@ -1,0 +1,262 @@
+{
+ "pid": "104451",
+ "slug": "nutribiotic-immunity-vitamin-c-d3-zinc-250-capsules",
+ "scrapedAt": "2026-08-25T17:33:48.395Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutribiotic-immunity-vitamin-c-d3-zinc-250-capsules.jpg",
+  "/products/iherb/nutribiotic-immunity-vitamin-c-d3-zinc-250-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutribiotic-immunity-vitamin-c-d3-zinc-250-capsules/104451",
+ "pageTitle": "NutriBiotic, Immunity, Vitamin C + D3 & Zinc, 250 Capsules",
+ "h1": "NutriBiotic, Immunity, Vitamin C + D3 & Zinc, 250 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104451",
+  "name": "NutriBiotic, Immunity, Vitamin C + D3 & Zinc, 250 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/g/24.jpg",
+  "mpn": "NBC-00521",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 18052
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NutriBiotic",
+   "url": "http://www.nutribiotic.com/",
+   "identifier": "NBC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.75",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "788.84",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Pharmaceutical Grade Vitamin C, Vitamin D & Zinc Gluten Free Dietary Supplement Made with Non-GMO Ingredients Not Tested on Animals™ Naturally Fresh — Nitro Pak ® — Bacteria Free Environment Rapid Dissolving NutriBiotic ® Vitamin C + D3 & Zinc capsules deliver 100% pharmaceutical grade vitamin C, vitamin D, and zinc, all essential nutrients to the body. Vitamin C: Contributes to immune defense by supporting various cellular functions of both the innate and adaptive immune systems. Vitamin C also provides antioxidant protection to the immune system as well as maintains the health of blood vessels, tissue, cartilage, bones, eyes, and other organ systems. Vitamin D: Crucial for the activation of immune defenses and helps support strong bones and healthy cognitive function. Zinc: Essential for immune system function, including immune cell development and communication. May also help reduce oxidative stresses and inflammatory responses. Our Promise and Guarantee: We use only 100% pure pharmaceutical grade L-ascorbic acid USP - FCC † , which contains no corn residue, plant antigens, or protein impurities. † United States Pharmacopoeia - Food Chemical Codex",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "NBC-00521",
+  "gtin12": "728177005214",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Pharmaceutical Grade Vitamin C, Vitamin D & Zinc",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Made with Non-GMO Ingredients",
+    "Not Tested on Animals™",
+    "Naturally Fresh — Nitro Pak® — Bacteria Free Environment",
+    "Vitamin C: Contributes to immune defense by supporting various cellular functions of both the innate and adaptive immune systems. Vitamin C also provides antioxidant protection to the immune system as well as maintains the health of blood vessels, tissue, cartilage, bones, eyes, and other organ systems.",
+    "Vitamin D: Crucial for the activation of immune defenses and helps support strong bones and healthy cognitive function.",
+    "Zinc: Essential for immune system function, including immune cell development and communication. May also help reduce oxidative stresses and inflammatory responses."
+   ],
+   "paragraphs": [
+    "Rapid Dissolving",
+    "NutriBiotic® Vitamin C + D3 & Zinc capsules deliver 100% pharmaceutical grade vitamin C, vitamin D, and zinc, all essential nutrients to the body.",
+    "Our Promise and Guarantee: We use only 100% pure pharmaceutical grade L-ascorbic acid USP - FCC†, which contains no corn residue, plant antigens, or protein impurities.",
+    "† United States Pharmacopoeia - Food Chemical Codex"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Take 2 capsules daily, preferably with a meal or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose, magnesium stearate (vegetable lubricant), and capsules.",
+    "Made without: GMOs, milk, soy, eggs, yeast, wheat, rose hips, peanuts, tree nuts, fish, crustacean shellfish, fillers, binders, starch, sweeteners, colorings, flavorings, and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any supplement, you should consult your healthcare practitioner before using this product. Keep out of reach of children. If you are nursing, pregnant, or considering pregnancy, you should consult your healthcare practitioner prior to using this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.34 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NBC-00521"
+  },
+  {
+   "label": "UPC",
+   "value": "728177005214"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.9 x 8 x 8 cm, 0.34 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Serving Per Container: 125"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as L-ascorbic acid USP-FCC†)",
+   "1,500 mg",
+   "1,670%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Zinc (as zinc sulfate)",
+   "40 mg",
+   "360%"
+  ],
+  [
+   "† United States Pharmacopoeia - Food Chemical Codex"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† United States Pharmacopoeia - Food Chemical Codex"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "125"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "104450",
+   "url": "https://th.iherb.com/pr/nutribiotic-immunity-vitamin-c-d3-zinc-100-capsules/104450",
+   "price": "฿343.85",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "250 count",
+   "pid": "104451",
+   "url": "https://th.iherb.com/pr/nutribiotic-immunity-vitamin-c-d3-zinc-250-capsules/104451",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿788.84",
+  "฿788.84",
+  "฿6.31/‏serving",
+  "{0}% off code: {1}",
+  "฿788.84",
+  "Save 0% in cart",
+  "฿6.31/‏serving",
+  "฿788.84",
+  "(0% off)",
+  "฿788.84",
+  "฿6.31/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbc/nbc00521/s/27.jpg"
+ ]
+}

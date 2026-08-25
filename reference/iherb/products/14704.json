@@ -1,0 +1,285 @@
+{
+ "pid": "14704",
+ "slug": "nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels",
+ "scrapedAt": "2026-08-25T17:30:56.129Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels.jpg",
+  "/products/iherb/nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels-2.jpg",
+  "/products/iherb/nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels-3.jpg",
+  "/products/iherb/nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels/14704",
+ "pageTitle": "Nature's Way, Primadophilus® Reuteri Probiotic, 1 Billion CFU, 60 Softgels",
+ "h1": "Nature's Way, Primadophilus® Reuteri Probiotic, 1 Billion CFU, 60 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "14704",
+  "name": "Nature's Way, Primadophilus® Reuteri Probiotic, 1 Billion CFU, 60 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/g/91.jpg",
+  "mpn": "NWY-15770",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 1245
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.06",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1095.20",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Small & Easy to Swallow Survives Stomach Acid 1 Billion Cultures Supports Digestive & Immune Health 4 Probiotic Strains Designed to Survive Stomach Acid Pearls® Easy to Swallow Probiotic Supplement Once Daily Howaru® Probiotic Quality You Can Feel Formulated with 4 Probiotic Strains for Digestive Balance Also Promotes Immune Function With Lactobacillus reuteri to promote healthy gut flora Active Lactobacilli and Bifidobacterium cultures to benefit the small and large intestines Advanced triple-layer softgel survives stomach acid",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.45x1"
+  },
+  "isRelatedTo": null,
+  "sku": "NWY-15770",
+  "gtin12": "033674157701",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/g/91.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Reuteri"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Small & Easy to Swallow",
+    "Survives Stomach Acid",
+    "1 Billion Cultures",
+    "Supports Digestive & Immune Health",
+    "4 Probiotic Strains",
+    "Designed to Survive Stomach Acid",
+    "Pearls® Easy to Swallow",
+    "Probiotic Supplement",
+    "Once Daily",
+    "Howaru® Probiotic Quality You Can Feel",
+    "With Lactobacillus reuteri to promote healthy gut flora",
+    "Active Lactobacilli and Bifidobacterium cultures to benefit the small and large intestines",
+    "Advanced triple-layer softgel survives stomach acid"
+   ],
+   "paragraphs": [
+    "Formulated with 4 Probiotic Strains for Digestive Balance",
+    "Also Promotes Immune Function"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Swallow 1 softgel daily with or without food. Do not chew or crush.",
+    "No refrigeration required."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Palm oil, fish gelatin, glycerin, sunflower lecithin, pectin.",
+    "Contains milk and fish (Tilapia).",
+    "Contains no salt, soy, wheat, or artificial colors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are taking any medications, consult a healthcare professional before use.",
+    "Keep out of reach of children. This product has a tamper-evident foil pouch. Do not use if foil or plastic is punctured. Store at room temperature. Avoid excessive heat and direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NWY-15770"
+  },
+  {
+   "label": "UPC",
+   "value": "033674157701"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.4 x 11.3 x 2.5 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value**"
+  ],
+  [
+   "Proprietary Probiotic Blend providing 1 Billion CFU:",
+   "13 mg",
+   "**"
+  ],
+  [
+   "HOWARU® Lactobacillus acidophilus NCFM®",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium longum BB536",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus Lr-32®",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus reuteri SD-5865",
+   "",
+   ""
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value**",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2026"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Salt-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "50909",
+   "url": "https://th.iherb.com/pr/nature-s-way-primadophilus-reuteri-probiotic-1-billion-30-softgels/50909",
+   "price": "฿635.86",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "14704",
+   "url": "https://th.iherb.com/pr/nature-s-way-primadophilus-reuteri-probiotic-1-billion-cfu-60-softgels/14704",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#7 in",
+   "category": "Reuteri",
+   "href": "/c/reuteri?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,095.20",
+  "฿1,095.20",
+  "฿18.25/‏serving",
+  "{0}% off code: {1}",
+  "฿1,095.20",
+  "Save 0% in cart",
+  "฿18.25/‏serving",
+  "฿1,095.20",
+  "(0% off)",
+  "฿1,095.20",
+  "฿18.25/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/g/91.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/k/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/g/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/s/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/s/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/s/98.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/s/99.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15770/s/101.jpg"
+ ]
+}

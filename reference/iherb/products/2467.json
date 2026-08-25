@@ -1,0 +1,261 @@
+{
+ "pid": "2467",
+ "slug": "doctor-s-best-pepzin-gi-zinc-l-carnosine-120-veggie-caps",
+ "scrapedAt": "2026-08-25T17:27:21.717Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-pepzin-gi-zinc-l-carnosine-120-veggie-caps.jpg",
+  "/products/iherb/doctor-s-best-pepzin-gi-zinc-l-carnosine-120-veggie-caps-2.jpg",
+  "/products/iherb/doctor-s-best-pepzin-gi-zinc-l-carnosine-120-veggie-caps-3.jpg",
+  "/products/iherb/doctor-s-best-pepzin-gi-zinc-l-carnosine-120-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-pepzin-gi-zinc-l-carnosine-120-veggie-caps/2467",
+ "pageTitle": "Doctor's Best, PepZin GI®, Zinc-L-Carnosine, 120 Veggie Caps",
+ "h1": "Doctor's Best, PepZin GI®, Zinc-L-Carnosine, 120 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "2467",
+  "name": "Doctor's Best, PepZin GI®, Zinc-L-Carnosine, 120 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/g/106.jpg",
+  "mpn": "DRB-00136",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 25006
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Health Topics",
+   "identifier": "105569"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.11",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "805.16",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Effective Gut Health Support Dietary Supplement Non-GMO Gluten Free Soy Free Vegan At Doctor's Best, our PepZin GI® acts as the digestive tract's smooth operator. It comprises a specialized combination of zinc and L-carnosine, optimized for effectiveness. This unique formulation aids in promoting healthy mucus secretion and plays a crucial role in maintaining a balanced bacterial environment throughout the GI tract. Eases occasional gastric discomfort Supports GI health and mucosal lining",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00136",
+  "gtin12": "753950001367",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/g/106.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Health Topics",
+  "Common Cold & Flu"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Effective Gut Health Support",
+    "Dietary Supplement",
+    "Non-GMO",
+    "Gluten Free",
+    "Soy Free",
+    "Vegan",
+    "Eases occasional gastric discomfort",
+    "Supports GI health and mucosal lining"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, our PepZin GI® acts as the digestive tract's smooth operator. It comprises a specialized combination of zinc and L-carnosine, optimized for effectiveness. This unique formulation aids in promoting healthy mucus secretion and plays a crucial role in maintaining a balanced bacterial environment throughout the GI tract."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 2 capsules daily on an empty stomach, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose (vegetarian capsule), magnesium stearate (vegetable source), silicon dioxide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00136"
+  },
+  {
+   "label": "UPC",
+   "value": "753950001367"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 5.2 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veggie Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Zinc (from PepZin GI® Zinc-L-Carnosine)",
+   "16 mg",
+   "145%"
+  ],
+  [
+   "Zinc-L-Carnosine (from PepZin GI® Zinc-L-Carnosine)",
+   "75 mg",
+   "†"
+  ],
+  [
+   "L-Carnosine (from PepZin GI® Zinc-L-Carnosine)",
+   "59 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veggie capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Carnosine",
+   "href": "/c/carnosine?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Zinc Carnosine",
+   "href": "/c/zinc-carnosine?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Amino Acids",
+   "href": "/c/amino-acids?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿805.16",
+  "฿805.16",
+  "฿13.42/‏serving",
+  "{0}% off code: {1}",
+  "฿805.16",
+  "Save 0% in cart",
+  "฿13.42/‏serving",
+  "฿805.16",
+  "(0% off)",
+  "฿805.16",
+  "฿13.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/g/106.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/k/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/g/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/111.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/94.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00136/s/96.jpg"
+ ]
+}

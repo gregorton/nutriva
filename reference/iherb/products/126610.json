@@ -1,0 +1,259 @@
+{
+ "pid": "126610",
+ "slug": "vitamatic-melatonin-gummies-natural-strawberry-30-mg-60-gummies",
+ "scrapedAt": "2026-08-25T17:12:55.710Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-melatonin-gummies-natural-strawberry-30-mg-60-gummies.jpg",
+  "/products/iherb/vitamatic-melatonin-gummies-natural-strawberry-30-mg-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-melatonin-gummies-natural-strawberry-30-mg-60-gummies/126610",
+ "pageTitle": "Vitamatic, Melatonin Gummies, Natural Strawberry, 30 mg, 60 Gummies",
+ "h1": "Vitamatic, Melatonin Gummies, Natural Strawberry, 30 mg, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126610",
+  "name": "Vitamatic, Melatonin Gummies, Natural Strawberry, 30 mg, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/g/38.jpg",
+  "mpn": "VMC-47258",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 299
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "526.33",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Extra Strength Sugar Free Gluten Free Non-GMO GMP Certified Plant-Based Dietary Supplement Melatonin comes in many forms, including gummies, capsules, chewables, drops, Tablets and liquid - Gummy is the most pleasant-tasting formula which delivers 10 mg per daily serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47258",
+  "gtin12": "810078472582",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/g/38.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Extra Strength",
+    "Sugar Free",
+    "Gluten Free",
+    "Non-GMO",
+    "GMP Certified",
+    "Plant-Based",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Melatonin comes in many forms, including gummies, capsules, chewables, drops, Tablets and liquid - Gummy is the most pleasant-tasting formula which delivers 10 mg per daily serving."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement chew 1 gummy 30 minutes before bedtime with 8 to 12 oz water or as directed by your healthcare provider. Chew completely before swallowing"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Maltitol, sorbitol, water, pectin, citric acid, trisodium citrate, vegetable oil, natural aroma, stevia, carnauba wax.",
+    "No preservatives, soy free, no artificial colors, flavors, or sweeteners."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47258"
+  },
+  {
+   "label": "UPC",
+   "value": "810078472582"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.7 x 6.4 x 6.4 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "8",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "3 g",
+   "2%*"
+  ],
+  [
+   "Total Sugar",
+   "0 g",
+   "**"
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Sodium (as sodium citrate)",
+   "3 mg",
+   "<1%"
+  ],
+  [
+   "Melatonin",
+   "30 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿526.33",
+  "฿526.33",
+  "฿8.77/‏serving",
+  "{0}% off code: {1}",
+  "฿526.33",
+  "Save 0% in cart",
+  "฿8.77/‏serving",
+  "฿526.33",
+  "(0% off)",
+  "฿526.33",
+  "฿8.77/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/g/38.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/k/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/g/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47258/b/38.jpg"
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "pid": "108650",
+ "slug": "nature-s-truth-turmeric-curcumin-complex-plus-black-pepper-extract-120",
+ "scrapedAt": "2026-08-25T17:09:24.798Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-truth-turmeric-curcumin-complex-plus-black-pepper-extract-120.jpg",
+  "/products/iherb/nature-s-truth-turmeric-curcumin-complex-plus-black-pepper-extract-120-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-truth-turmeric-curcumin-complex-plus-black-pepper-extract-120-quick-release-capsules/108650",
+ "pageTitle": "Nature's Truth, Turmeric Curcumin Complex Plus Black Pepper Extract, 120 Quick Release Capsules",
+ "h1": "Nature's Truth, Turmeric Curcumin Complex Plus Black Pepper Extract, 120 Quick Release Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "108650",
+  "name": "Nature's Truth, Turmeric Curcumin Complex Plus Black Pepper Extract, 120 Quick Release Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/g/40.jpg",
+  "mpn": "NTH-10208",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 2240
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Truth",
+   "url": "http://www.naturestruthproducts.com/",
+   "identifier": "NTH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.23",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "669.98",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Non GMO Gluten Free Herbal Supplement 100% Quality Traditional Herbal Support 500 mg Equivalent** What Is Turmeric Curcumin? Turmeric is a traditional herb native to India with a long history of use in Ayurveda. Today, Turmeric is popular as a flavorful spice distinguished by its deep gold color. Turmeric is known for its active compound Curcumin, which consists of a group of naturally occurring phytonutrients called curcuminoids. Taking a high-quality Turmeric Curcumin supplement is a convenient way to add this supplement to your routine. Nature’s Truth Turmeric Curcumin Complex Capsules Each serving of our Turmeric Curcumin complex capsules delivers 285 mg of a Turmeric Curcumin Complex Blend, which consists of 500 mg of Turmeric Root Equivalent.** Our formula also contains Black Pepper Extract for additional support. With 20% more capsules free, this bonus size bottle provides you with 120 quick release capsules – supplying you with about four months of Turmeric! **Equivalent from a proprietary blend of Turmeric Root Powder, Turmeric 10:1 Extract, and Standardized Turmeric Extract.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "NTH-10208",
+  "gtin12": "840093102089",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Non GMO",
+    "Gluten Free",
+    "Herbal Supplement",
+    "100% Quality",
+    "Traditional Herbal Support",
+    "500 mg Equivalent**"
+   ],
+   "paragraphs": [
+    "What Is Turmeric Curcumin?",
+    "Turmeric is a traditional herb native to India with a long history of use in Ayurveda. Today, Turmeric is popular as a flavorful spice distinguished by its deep gold color. Turmeric is known for its active compound Curcumin, which consists of a group of naturally occurring phytonutrients called curcuminoids. Taking a high-quality Turmeric Curcumin supplement is a convenient way to add this supplement to your routine.",
+    "Nature’s Truth Turmeric Curcumin Complex Capsules",
+    "Each serving of our Turmeric Curcumin complex capsules delivers 285 mg of a Turmeric Curcumin Complex Blend, which consists of 500 mg of Turmeric Root Equivalent.** Our formula also contains Black Pepper Extract for additional support. With 20% more capsules free, this bonus size bottle provides you with 120 quick release capsules – supplying you with about four months of Turmeric!",
+    "**Equivalent from a proprietary blend of Turmeric Root Powder, Turmeric 10:1 Extract, and Standardized Turmeric Extract."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take one (1) quick release capsule daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice powder, gelatin capsule, calcium silicate, vegetable magnesium stearate.",
+    "No gluten, wheat, yeast, milk, lactose, soy, artificial color, artificial flavor, artificial sweetener, preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for use by persons under the age of 18. If you are pregnant, nursing, taking any medications or have any medical condition, including gall bladder or bile duct condition, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTH-10208"
+  },
+  {
+   "label": "UPC",
+   "value": "840093102089"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.4 x 5.8 x 5.7 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Quick Release Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Curcumin Complex BlendTurmeric Root Equivalent 500 mgTurmeric Root (Curcuma longa)Turmeric Root 10:1 Extract (Curcuma longa)Turmeric Root Extract (Curcuma longa)(Standardized to contains 95% Curcuminoids)",
+   "285 mg",
+   "*"
+  ],
+  [
+   "Black Pepper Extract (Piper nigrum) (fruit)(Standardized to contains 95% Piperine)",
+   "3 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "122738",
+   "url": "https://th.iherb.com/pr/nature-s-truth-turmeric-curcumin-complex-plus-bioperine-black-pepper-extract-90-quick-release-capsules/122738",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "108650",
+   "url": "https://th.iherb.com/pr/nature-s-truth-turmeric-curcumin-complex-plus-black-pepper-extract-120-quick-release-capsules/108650",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿669.98",
+  "฿669.98",
+  "฿5.58/‏serving",
+  "{0}% off code: {1}",
+  "฿669.98",
+  "Save 0% in cart",
+  "฿5.58/‏serving",
+  "฿669.98",
+  "(0% off)",
+  "฿669.98",
+  "฿5.58/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10208/s/45.jpg"
+ ]
+}

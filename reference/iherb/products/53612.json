@@ -1,0 +1,315 @@
+{
+ "pid": "53612",
+ "slug": "nairn-s-oat-grahams-original-4-packs-5-64-oz-160-g",
+ "scrapedAt": "2026-08-25T17:45:47.422Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/nairn-s-oat-grahams-original-4-packs-5-64-oz-160-g.jpg",
+  "/products/iherb/nairn-s-oat-grahams-original-4-packs-5-64-oz-160-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nairn-s-oat-grahams-original-4-packs-5-64-oz-160-g/53612",
+ "pageTitle": "Nairn's, Oat Grahams, Original, 4 Packs, 5.64 oz (160 g)",
+ "h1": "Nairn's, Oat Grahams, Original, 4 Packs, 5.64 oz (160 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "53612",
+  "name": "Nairn's, Oat Grahams, Original, 4 Packs, 5.64 oz (160 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/g/97.jpg",
+  "mpn": "NRN-03003",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1760
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nairn's",
+   "url": "https://nairns.com/",
+   "identifier": "NRN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "163.55",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "223.77",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Real Oaty. Real Delicious 35% Less Sugar* Perfect as a S'More 28 g Whole Grain Oats† Gluten Free Non GMO Project Verified Beyond Celiac Gluten Free Certification Program Zero Trans Fat Oat Packed with Positive Energy We've always been wild about oats. When other snacks can give us spikes & crashes in energy - oats deliver energy that's better for our bodies & mood, whilst being gluten free. Simple, rugged, magically nutritious. Whether you want a sweet treat or something more substantial, these go-anywhere snacks will always deliver a delicious & naturally nutritious lift. Oat-full of flavor bag-fulls of Goodness Packed full of flavor & loaded with chocolate chips, these perfect little pouches will make your body happy, your heart sing & your soul rejoice. Perfect for the active good life. Grab Life by the Oats Grab & go Filling nutritious snack Coffee time On-the-go energy *Than the average comparable sweet cookie. Our cookies contain over 35% less sugar than the average comparable sweet cookie. Our cookies contain 6 g per 40 g serving. The average comparable sweet cookie contains 11 g per 40 g serving. †Per serving",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "NRN-03003",
+  "gtin12": "612322030032",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/g/97.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Snacks",
+  "Cookies"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Real Oaty. Real Delicious",
+    "35% Less Sugar*",
+    "Perfect as a S'More",
+    "28 g Whole Grain Oats†",
+    "Gluten Free",
+    "Non GMO Project Verified",
+    "Beyond Celiac Gluten Free Certification Program",
+    "Zero Trans Fat",
+    "Grab & go",
+    "Filling nutritious snack",
+    "Coffee time",
+    "On-the-go energy"
+   ],
+   "paragraphs": [
+    "Oat Packed with Positive Energy",
+    "We've always been wild about oats. When other snacks can give us spikes & crashes in energy - oats deliver energy that's better for our bodies & mood, whilst being gluten free. Simple, rugged, magically nutritious.",
+    "Whether you want a sweet treat or something more substantial, these go-anywhere snacks will always deliver a delicious & naturally nutritious lift.",
+    "Oat-full of flavor bag-fulls of Goodness",
+    "Packed full of flavor & loaded with chocolate chips, these perfect little pouches will make your body happy, your heart sing & your soul rejoice. Perfect for the active good life.",
+    "Grab Life by the Oats",
+    "*Than the average comparable sweet cookie. Our cookies contain over 35% less sugar than the average comparable sweet cookie. Our cookies contain 6 g per 40 g serving. The average comparable sweet cookie contains 11 g per 40 g serving.",
+    "†Per serving"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gluten free whole grain oats, sustainable palm oil, sugar, invert sugar, tapioca starch, leavening (sodium bicarbonate), sea salt.",
+    "May contain: Milk, hazelnut, peanut."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place.",
+    "Not suitable if you are allergic to avenin - a protein in oats."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NRN-03003"
+  },
+  {
+   "label": "UPC",
+   "value": "612322030032"
+  },
+  {
+   "label": "Package quantity",
+   "value": "160 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "19.1 x 10.2 x 4.4 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 4 Cookies (40 g)"
+  ],
+  [
+   "Serving Per Container: 4"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "190",
+   ""
+  ],
+  [
+   "Total Fat",
+   "8 g",
+   "10%"
+  ],
+  [
+   "Saturated Fat",
+   "3 g",
+   "15%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "170 mg",
+   "7%"
+  ],
+  [
+   "Total Carbohydrate",
+   "28 g",
+   "9%"
+  ],
+  [
+   "Dietary Fiber",
+   "3 g",
+   "11%"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   ""
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%"
+  ],
+  [
+   "Protein",
+   "3 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "20 mg",
+   "2%"
+  ],
+  [
+   "Iron",
+   "1.2 mg",
+   "7%"
+  ],
+  [
+   "Potassium",
+   "100 mg",
+   "2%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 cookies"
+    },
+    {
+     "label": "Total servings",
+     "value": "4"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2026"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿223.77",
+  "฿223.77",
+  "฿55.94/‏serving",
+  "{0}% off code: {1}",
+  "฿223.77",
+  "Save 27% in cart",
+  "฿55.94/‏serving",
+  "฿163.55",
+  "(27% off)",
+  "Clearance sale",
+  "When products near the end of their shelf life with us, we can offer them to you at the steepest discount. Same quality, now at the lowest price.Discount reflects the \"Best by” date. This product is non-returnable.",
+  "฿223.77"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/g/97.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/k/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/g/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/s/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/s/98.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nrn/nrn03003/b/97.jpg"
+ ]
+}

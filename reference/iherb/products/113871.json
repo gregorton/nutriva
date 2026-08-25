@@ -1,0 +1,314 @@
+{
+ "pid": "113871",
+ "slug": "sports-research-omega-3-fish-oil-180-softgels",
+ "scrapedAt": "2026-08-25T17:12:45.119Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "10K+",
+  "flag": "Best seller"
+ },
+ "images": [
+  "/products/iherb/sports-research-omega-3-fish-oil-180-softgels.jpg",
+  "/products/iherb/sports-research-omega-3-fish-oil-180-softgels-2.jpg",
+  "/products/iherb/sports-research-omega-3-fish-oil-180-softgels-3.jpg",
+  "/products/iherb/sports-research-omega-3-fish-oil-180-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-omega-3-fish-oil-180-softgels/113871",
+ "pageTitle": "Sports Research, Omega-3 Fish Oil, 180 Softgels",
+ "h1": "Sports Research, Omega-3 Fish Oil, 180 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "113871",
+  "name": "Sports Research, Omega-3 Fish Oil, 180 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/g/95.jpg",
+  "mpn": "SRE-09153",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 47558
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.79",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2308.37",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Triple Strength ▴ 1,250 mg Fish Oil | 1,055 mg Omega-3 Supports Cardiovascular Heath ♦ Gluten-Free | Non-GMO | Wild Caught Dietary Supplement Quality Matters Igen™ Non GMO Tested IFOS™ Third Party Tested cGMP Compliant Friend of The Sea® ▴ Triple Strength Omega-3 (in Triglyceride Form [TG as rTG]) when compared to standard fish oil softgels with only 10-30% Omega-3 content. ♦ Supportive but not conclusive research has shown that consumption of EPA and DHA omega-3 fatty acids may reduce the risk of coronary heart disease.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-09153",
+  "gtin12": "023249091530",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/g/95.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Sports Supplements",
+  "Sports Fish Oil & Omegas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Triple Strength▴",
+    "1,250 mg Fish Oil | 1,055 mg Omega-3",
+    "Supports Cardiovascular Heath♦",
+    "Gluten-Free | Non-GMO | Wild Caught",
+    "Dietary Supplement",
+    "Quality Matters",
+    "Igen™ Non GMO Tested",
+    "IFOS™",
+    "Third Party Tested",
+    "cGMP Compliant",
+    "Friend of The Sea®"
+   ],
+   "paragraphs": [
+    "▴Triple Strength Omega-3 (in Triglyceride Form [TG as rTG]) when compared to standard fish oil softgels with only 10-30% Omega-3 content.",
+    "♦Supportive but not conclusive research has shown that consumption of EPA and DHA omega-3 fatty acids may reduce the risk of coronary heart disease."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 softgel daily with food, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel capsule (fish gelatin [tilapia-sourced], vegetable glycerin, purified water), tocopherols.",
+    "Contains: Fish (anchovy, sardine, mackerel).",
+    "Fish oil sourced from Norway. Proudly manufactured in the USA with carefully selected ingredients of domestic and international origins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children and pets. Consult with a qualified healthcare professional prior to using this product, especially if you are pregnant, nursing, have a diagnosed medical condition, are taking a prescription medication (e.g ., blood thinners), or are planning a surgical procedure. Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Store at room temperature, in a dry place. Protect product from excessive heat, freezing, humidity and light."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.36 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-09153"
+  },
+  {
+   "label": "UPC",
+   "value": "023249091530"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.1 x 7.2 x 7.2 cm, 0.36 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%**"
+  ],
+  [
+   "Wild Caught Fish Oil Concentrate",
+   "1250 mg",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids as TG",
+   "1055 mg",
+   "†"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "690 mg",
+   "†"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "310 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "113870",
+   "url": "https://th.iherb.com/pr/sports-research-omega-3-fish-oil-triple-strength-30-softgels/113870",
+   "price": "฿736.92",
+   "outOfStock": true,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "109321",
+   "url": "https://th.iherb.com/pr/sports-research-omega-3-fish-oil-60-softgels/109321",
+   "price": "฿942.31",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "109322",
+   "url": "https://th.iherb.com/pr/sports-research-omega-3-fish-oil-triple-strength-120-softgels/109322",
+   "price": "฿1,554.77",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "113871",
+   "url": "https://th.iherb.com/pr/sports-research-omega-3-fish-oil-180-softgels/113871",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Sports Fish Oil & Omegas",
+   "href": "/c/sports-fish-oil-omegas?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Sports Supplements",
+   "href": "/c/sports-supplements?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Sports",
+   "href": "/c/sports?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,308.37",
+  "฿2,308.37",
+  "฿12.82/‏serving",
+  "{0}% off code: {1}",
+  "฿2,308.37",
+  "Save 0% in cart",
+  "฿12.82/‏serving",
+  "฿2,308.37",
+  "(0% off)",
+  "฿2,308.37",
+  "฿12.82/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/g/95.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/k/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/g/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/s/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09153/s/51.jpg"
+ ]
+}

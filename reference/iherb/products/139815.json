@@ -1,0 +1,265 @@
+{
+ "pid": "139815",
+ "slug": "the-vitamin-shoppe-omega-3-fish-oil-240-softgels",
+ "scrapedAt": "2026-08-25T17:36:30.464Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-vitamin-shoppe-omega-3-fish-oil-240-softgels.jpg",
+  "/products/iherb/the-vitamin-shoppe-omega-3-fish-oil-240-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-vitamin-shoppe-omega-3-fish-oil-240-softgels/139815",
+ "pageTitle": "The Vitamin Shoppe, Omega-3 Fish Oil, 240 Softgels",
+ "h1": "The Vitamin Shoppe, Omega-3 Fish Oil, 240 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139815",
+  "name": "The Vitamin Shoppe, Omega-3 Fish Oil, 240 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/g/8.jpg",
+  "mpn": "VSI-02977",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 128
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Vitamin Shoppe",
+   "url": "https://www.vitaminshoppe.com/",
+   "identifier": "VSI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.00",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2332.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "EPA / DHA 500 mg Cardiovascular Health Brain Health Eye Health Omega Fatty Acids Dietary Supplement Quality Promise - Tested & Trusted® Gluten-Free Dairy-Free Soy-Free Nut-Free Your lifelong wellness journey requires support for a healthy heart, brain, and eyes to see yourself through to the end goal — however you define it. Packed with 300mg of EPA and 200mg of DHA per serving, The Vitamin Shoppe® brand Omega-3 Fish Oil softgels are formulated to support brain development in addition to cardiovascular and eye health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.45x3.45"
+  },
+  "isRelatedTo": null,
+  "sku": "VSI-02977",
+  "gtin12": "766536029778",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "EPA / DHA 500 mg",
+    "Cardiovascular Health",
+    "Brain Health",
+    "Eye Health",
+    "Omega Fatty Acids",
+    "Dietary Supplement",
+    "Quality Promise - Tested & Trusted®",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Soy-Free",
+    "Nut-Free"
+   ],
+   "paragraphs": [
+    "Your lifelong wellness journey requires support for a healthy heart, brain, and eyes to see yourself through to the end goal — however you define it. Packed with 300mg of EPA and 200mg of DHA per serving, The Vitamin Shoppe® brand Omega-3 Fish Oil softgels are formulated to support brain development in addition to cardiovascular and eye health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one (1) softgel daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, glycerin, purified water.",
+    "Contains: Fish (anchovy, sardine, mackerel).",
+    "Does not contain: Gluten, sugar, salt, preservatives, artificial colors or flavors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your healthcare provider prior to use if you are pregnant, nursing, taking any medication or have any medical conditions.",
+    "Consuming EPA and DHA combined may reduce the risk of CHD (coronary heart disease) by lowering blood pressure. However, FDA has concluded that the evidence is inconsistent and inconclusive. One serving of this Omega-3 fish oil provides 500 milligrams of EPA and DHA.",
+    "Store in a cool, dry place.",
+    "Keep out of reach of children.",
+    "Tamper evident: Do not use if outer seal is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.45 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VSI-02977"
+  },
+  {
+   "label": "UPC",
+   "value": "766536029778"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.8 x 8.8 x 8.8 cm, 0.45 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%†"
+  ],
+  [
+   "Cholesterol",
+   "<5 mg",
+   "<1%"
+  ],
+  [
+   "Vitamin E (as d-alpha tocopherol)",
+   "3 mg (5 IU)",
+   "20%"
+  ],
+  [
+   "Fish Oil ConcentrateProviding:EPA (Eicosapentaenoic Acid)DHA (Docosahexaenoic Acid)",
+   "1000 mg300 mg200 mg",
+   "*"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "240"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "240 count",
+   "pid": "139815",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-omega-3-fish-oil-240-softgels/139815",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,332.91",
+  "฿2,332.91",
+  "฿9.72/‏serving",
+  "{0}% off code: {1}",
+  "฿2,332.91",
+  "Save 0% in cart",
+  "฿9.72/‏serving",
+  "฿2,332.91",
+  "(0% off)",
+  "฿2,332.91",
+  "฿9.72/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi02977/s/11.jpg"
+ ]
+}

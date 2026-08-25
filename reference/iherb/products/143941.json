@@ -1,0 +1,239 @@
+{
+ "pid": "143941",
+ "slug": "forest-leaf-magnesium-glycinate-maximum-absorption-90-vegetable-capsul",
+ "scrapedAt": "2026-08-25T17:39:10.868Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/forest-leaf-magnesium-glycinate-maximum-absorption-90-vegetable-capsul.jpg",
+  "/products/iherb/forest-leaf-magnesium-glycinate-maximum-absorption-90-vegetable-capsul-2.jpg",
+  "/products/iherb/forest-leaf-magnesium-glycinate-maximum-absorption-90-vegetable-capsul-3.jpg",
+  "/products/iherb/forest-leaf-magnesium-glycinate-maximum-absorption-90-vegetable-capsul-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/forest-leaf-magnesium-glycinate-maximum-absorption-90-vegetable-capsules-133-3-mg-per-capsule/143941",
+ "pageTitle": "Forest Leaf, Magnesium Glycinate, Maximum Absorption, 90 Vegetable Capsules (133.3 mg per Capsule)",
+ "h1": "Forest Leaf, Magnesium Glycinate, Maximum Absorption, 90 Vegetable Capsules (133.3 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143941",
+  "name": "Forest Leaf, Magnesium Glycinate, Maximum Absorption, 90 Vegetable Capsules (133.3 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/g/28.jpg",
+  "mpn": "FRL-66752",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 248
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Forest Leaf",
+   "url": "https://forestleaf.com/",
+   "identifier": "FRL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.23",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "721.82",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Tested for Absorption Promotes Healthy Body Function Non GMO GMP Compliant Lab Verified Dairy, Gluten, Egg & Nut Free Dietary Supplement Vegetarian Friendly At ForestLeaf, our mission is to provide high-quality supplements that support health and wellness. We believe that nature provides us with everything we need to thrive. At ForestLeaf, we are committed to helping you live your best life. ForestLeaf: Health Focused. Quality Committed. Research Driven.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "FRL-66752",
+  "gtin12": "197644667529",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Tested for Absorption",
+    "Promotes Healthy Body Function",
+    "Non GMO",
+    "GMP Compliant",
+    "Lab Verified",
+    "Dairy, Gluten, Egg & Nut Free",
+    "Dietary Supplement",
+    "Vegetarian Friendly",
+    "Health Focused.",
+    "Quality Committed.",
+    "Research Driven."
+   ],
+   "paragraphs": [
+    "At ForestLeaf, our mission is to provide high-quality supplements that support health and wellness. We believe that nature provides us with everything we need to thrive. At ForestLeaf, we are committed to helping you live your best life.",
+    "ForestLeaf:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take 3 capsules once daily, preferably with food, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsule), magnesium stearate, silicon dioxide, microcrystalline cellulose.",
+    "Made in USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. If you are pregnant, nursing, or taking any prescription medicine, consult your physician before taking this product. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FRL-66752"
+  },
+  {
+   "label": "UPC",
+   "value": "197644667529"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.4 x 6.4 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium(as Magnesium Glycinate)",
+   "400 mg",
+   "95%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Egg-free",
+    "Nut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿721.82",
+  "฿721.82",
+  "฿24.06/‏serving",
+  "{0}% off code: {1}",
+  "฿721.82",
+  "Save 0% in cart",
+  "฿24.06/‏serving",
+  "฿721.82",
+  "(0% off)",
+  "฿721.82",
+  "฿24.06/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl66752/s/39.jpg"
+ ]
+}

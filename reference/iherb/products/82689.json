@@ -1,0 +1,356 @@
+{
+ "pid": "82689",
+ "slug": "california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane",
+ "scrapedAt": "2026-08-25T17:09:38.099Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "1K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane-2.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane-3.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane-sugar-with-sunflower-lecithin-very-vanilla-2-lb-907-g/82689",
+ "pageTitle": "California Gold Nutrition, Sport, Whey Protein Isolate with Organic Cane Sugar, with Sunflower Lecithin, Very Vanilla, 2 lb (907 g)",
+ "h1": "California Gold Nutrition, Sport, Whey Protein Isolate with Organic Cane Sugar, with Sunflower Lecithin, Very Vanilla, 2 lb (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "82689",
+  "name": "California Gold Nutrition, Sport, Whey Protein Isolate with Organic Cane Sugar, with Sunflower Lecithin, Very Vanilla, 2 lb (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/g/93.jpg",
+  "mpn": "CGN-01204",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 7153
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1708.86",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Sport Very Vanilla Whey Protein Isolate, 2 lbs 27 g Protein, 6.1 g BCAAs☉, 4.6 g Glutamic Acid☉ Very Vanilla Flavor Low Lactose♢ No rbST▣ Supports Muscle Growth* No Fillers, No Gluten, No GMOs, No Soy No Artificial Colors, Flavors, or Sweeteners Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Fuel your fitness gains with the help of California Gold Nutrition SPORT Very Vanilla Whey Protein Isolate . When combined with a healthy diet and workout routine, this protein powder can help you achieve your goals by supporting muscle growth.* Shake, stir, or blend this delicious vanilla powder with your favorite beverage to create a convenient and tasty drink that makes it easy to get protein on the go. Whey Protein Benefits Whey protein isolate is a protein concentrate of whey that is fast absorbing and easy to digest, efficiently delivering protein to the body. This type of protein is a good source of naturally occurring BCAAs (Branched Chain Amino Acids) and glutamic acid, which are recognized by bodybuilders for their support of muscle development.* California Gold Nutrition Sport Very Vanilla Whey Protein Isolate features more than 25 grams of protein and 6 grams of BCAAs per serving. It contains low lactose and is manufactured by a multi-stage cold micro-filtration isolation process using state-of-the-art membrane technology. ☉Naturally Occurring Amino Acids ♢Whey Protein Isolate is a low lactose food. ▣No rbST (From cows not supplemented with rbST. No significant difference has been shown between milk derived from rbST-supplemented and non-rbST supplemented cows). iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "6.45x5.1"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01204",
+  "gtin12": "898220012046",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/g/93.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Isolate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Sport Very Vanilla Whey Protein Isolate, 2 lbs",
+    "27 g Protein, 6.1 g BCAAs☉, 4.6 g Glutamic Acid☉",
+    "Very Vanilla Flavor",
+    "Low Lactose♢",
+    "No rbST▣",
+    "Supports Muscle Growth*",
+    "No Fillers, No Gluten, No GMOs, No Soy",
+    "No Artificial Colors, Flavors, or Sweeteners",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Fuel your fitness gains with the help of California Gold Nutrition SPORT Very Vanilla Whey Protein Isolate. When combined with a healthy diet and workout routine, this protein powder can help you achieve your goals by supporting muscle growth.* Shake, stir, or blend this delicious vanilla powder with your favorite beverage to create a convenient and tasty drink that makes it easy to get protein on the go.",
+    "Whey Protein BenefitsWhey protein isolate is a protein concentrate of whey that is fast absorbing and easy to digest, efficiently delivering protein to the body. This type of protein is a good source of naturally occurring BCAAs (Branched Chain Amino Acids) and glutamic acid, which are recognized by bodybuilders for their support of muscle development.*",
+    "California Gold Nutrition Sport Very Vanilla Whey Protein Isolate features more than 25 grams of protein and 6 grams of BCAAs per serving. It contains low lactose and is manufactured by a multi-stage cold micro-filtration isolation process using state-of-the-art membrane technology.",
+    "☉Naturally Occurring Amino Acids",
+    "♢Whey Protein Isolate is a low lactose food.",
+    "▣No rbST (From cows not supplemented with rbST. No significant difference has been shown between milk derived from rbST-supplemented and non-rbST supplemented cows).",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 slightly rounded scoop daily with 6-12 ounces of cold water or the beverage of your choice. For best results, add liquid in a blender-type bottle, shaker cup, or electric blender first, then add the powder. Our Whey Protein Isolate can be blended with a spoon if necessary.",
+    "Note: 38 grams per 1 slightly rounded scoop is an average.Individual scooping technique may yield slightly less than or slightly more than 38 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "Aroma, color, consistency, and taste may vary slightly from batch to batch.",
+    "Sealed for your protection. Do not use if pouch is punctured or seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.95 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01204"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012046"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "22 x 16.4 x 13 cm, 0.95 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutritional Facts"
+  ],
+  [
+   "Serving Size: 1 Scoops (38 g)"
+  ],
+  [
+   "Servings Per Container: About 24"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "140",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "15 mg",
+   "5%"
+  ],
+  [
+   "Sodium",
+   "95 mg",
+   "4%"
+  ],
+  [
+   "Total Carbohydrate",
+   "7 g",
+   "3%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   ""
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%"
+  ],
+  [
+   "Protein",
+   "27 g",
+   "55%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "130 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "130 mg",
+   "2%"
+  ],
+  [
+   "* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calorie a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calorie a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "24"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "454 g",
+   "pid": "71031",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-454-g/71031",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "907 g",
+   "pid": "82689",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane-sugar-with-sunflower-lecithin-very-vanilla-2-lb-907-g/82689",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "2267 g",
+   "pid": "82707",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-whey-protein-isolate-very-vanilla-5-lb-2-27-kg/82707",
+   "price": "฿3,588.61",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#7 in",
+   "category": "Whey Protein Isolate",
+   "href": "/c/whey-protein-isolate?sr=2"
+  },
+  {
+   "rank": "#9 in",
+   "category": "Whey Protein",
+   "href": "/c/whey-protein?sr=2"
+  },
+  {
+   "rank": "#11 in",
+   "category": "Protein",
+   "href": "/c/protein?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,708.86",
+  "฿1,708.86",
+  "฿71.20/‏serving",
+  "{0}% off code: {1}",
+  "฿1,708.86",
+  "Save 0% in cart",
+  "฿71.20/‏serving",
+  "฿1,708.86",
+  "(0% off)",
+  "฿1,708.86",
+  "฿71.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/g/93.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/k/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/g/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/s/94.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/s/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01204/b/93.jpg"
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "pid": "81547",
+ "slug": "evlution-nutrition-turmeric-1500-turmeric-curcumin-with-bioperine-90-v",
+ "scrapedAt": "2026-08-25T17:27:07.888Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/evlution-nutrition-turmeric-1500-turmeric-curcumin-with-bioperine-90-v.jpg",
+  "/products/iherb/evlution-nutrition-turmeric-1500-turmeric-curcumin-with-bioperine-90-v-2.jpg",
+  "/products/iherb/evlution-nutrition-turmeric-1500-turmeric-curcumin-with-bioperine-90-v-3.jpg",
+  "/products/iherb/evlution-nutrition-turmeric-1500-turmeric-curcumin-with-bioperine-90-v-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/evlution-nutrition-turmeric-1500-turmeric-curcumin-with-bioperine-90-veggie-capsules/81547",
+ "pageTitle": "EVLution Nutrition, Turmeric 1500®, Turmeric Curcumin with BioPerine®, 90 Veggie Capsules",
+ "h1": "EVLution Nutrition, Turmeric 1500®, Turmeric Curcumin with BioPerine®, 90 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "81547",
+  "name": "EVLution Nutrition, Turmeric 1500®, Turmeric Curcumin with BioPerine®, 90 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/g/69.jpg",
+  "mpn": "EVL-02051",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2160
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "EVLution Nutrition",
+   "url": "http://evlnutrition.com/",
+   "identifier": "EVL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "432.44",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Antioxidant & Joint Support Dietary Supplement Turmeric 1500®, Natural Antioxidant & Joint Support, Key Product Fea tures: 1500 mg with 95% Curcuminoids Natural Antioxidant Support Anti-Inflammatory Support No Fillers/Allergen Free Bioperine® For Absorption Vegan/Gluten Free/Non-GMO",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "EVL-02051",
+  "gtin12": "818901020511",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/g/69.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Antioxidant & Joint Support",
+    "Dietary Supplement",
+    "1500 mg with 95% Curcuminoids",
+    "Natural Antioxidant Support",
+    "Anti-Inflammatory Support",
+    "No Fillers/Allergen Free",
+    "Bioperine® For Absorption",
+    "Vegan/Gluten Free/Non-GMO"
+   ],
+   "paragraphs": [
+    "Turmeric 1500®, Natural Antioxidant & Joint Support, Key Product Features:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 3 capsules of Turmeric 1500® daily, preferably with a meal and water or as recommended by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (veggie capsule).",
+    "This product is made in the USA, has been distributed and manufactured by a (GMP) registered facility and contains ingredients of domestic and international origin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not for use by those with pre-existing medical conditions; those taking any medications or those under the age of 18. Keep out of reach of children and pets."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "EVL-02051"
+  },
+  {
+   "label": "UPC",
+   "value": "818901020511"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 5.8 x 5.7 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Veggie Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric (Curcuma Longa) Root Powder",
+   "1,350 mg",
+   "†"
+  ],
+  [
+   "Turmeric Root Extract(95% Standardized Curcuminoids)",
+   "150 mg",
+   "†"
+  ],
+  [
+   "Black Pepper Fruit Extract (as BioPerine®)",
+   "10 mg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 veggie capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿432.44",
+  "฿432.44",
+  "฿14.41/‏serving",
+  "{0}% off code: {1}",
+  "฿432.44",
+  "Save 0% in cart",
+  "฿14.41/‏serving",
+  "฿432.44",
+  "(0% off)",
+  "฿432.44",
+  "฿14.41/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/g/69.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/k/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/g/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/79.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02051/s/81.jpg"
+ ]
+}

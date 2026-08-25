@@ -1,0 +1,240 @@
+{
+ "pid": "129687",
+ "slug": "california-gold-nutrition-turmeric-curcumin-500-mg-120-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:18:49.372Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "750+",
+  "flag": "Flash Deal\n                                \n\n\n    \n\n            \n                \n            \n        \n            Discount details\n            Limited time and while supplies last. Limited units per customer at the Flash Deal price. Additional quantities added to your cart will be charged at regular retail price."
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-500-mg-120-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-500-mg-120-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-500-mg-120-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-500-mg-120-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-turmeric-curcumin-500-mg-120-veggie-capsules/129687",
+ "pageTitle": "California Gold Nutrition, Turmeric Curcumin, 500 mg, 120 Veggie Capsules",
+ "h1": "California Gold Nutrition, Turmeric Curcumin, 500 mg, 120 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "129687",
+  "name": "California Gold Nutrition, Turmeric Curcumin, 500 mg, 120 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/g/48.jpg",
+  "mpn": "SPN-02363",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 739
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "703.78",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1172.96",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Suitable for Vegetarians Antioxidant Properties Standardized to 95% Curcuminoids (475 mg) California Gold Nutrition® Turmeric Curcumin provides 500 mg of turmeric per capsule standardized to 95% curcuminoids. iTested Verified ​",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02363",
+  "gtin12": "898220023639",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Suitable for Vegetarians",
+    "Antioxidant Properties",
+    "Standardized to 95% Curcuminoids (475 mg)"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Turmeric Curcumin provides 500 mg of turmeric per capsule standardized to 95% curcuminoids.",
+    "iTested Verified ​"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "NATURAL COLOR VARIATIONS MAY OCCUR IN THIS PRODUCT."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02363"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023639"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5.8 x 5.8 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Extract (Curcuma longa) (root) (Standardized to 95% curcuminoids [475 mg])",
+   "500 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,172.96",
+  "฿1,172.96",
+  "฿9.77/‏serving",
+  "{0}% off code: {1}",
+  "฿1,172.96",
+  "Save 40% in cart",
+  "฿9.77/‏serving",
+  "฿703.78",
+  "(40% off)",
+  "฿1,172.96",
+  "฿5.86/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/s/94.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02363/s/38.jpg"
+ ]
+}

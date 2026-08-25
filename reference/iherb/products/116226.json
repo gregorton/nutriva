@@ -1,0 +1,282 @@
+{
+ "pid": "116226",
+ "slug": "the-smurfs-kids-gummy-restful-sleep-ages-3-smurf-berry-50-gummies",
+ "scrapedAt": "2026-08-25T17:25:41.772Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-smurfs-kids-gummy-restful-sleep-ages-3-smurf-berry-50-gummies.jpg",
+  "/products/iherb/the-smurfs-kids-gummy-restful-sleep-ages-3-smurf-berry-50-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-smurfs-kids-gummy-restful-sleep-ages-3-smurf-berry-50-gummies/116226",
+ "pageTitle": "The Smurfs, Kids Gummy, Restful Sleep, Ages 3+, Smurf Berry, 50 Gummies",
+ "h1": "The Smurfs, Kids Gummy, Restful Sleep, Ages 3+, Smurf Berry, 50 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "116226",
+  "name": "The Smurfs, Kids Gummy, Restful Sleep, Ages 3+, Smurf Berry, 50 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/g/40.jpg",
+  "mpn": "SMS-55698",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 5298
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Smurfs",
+   "url": "",
+   "identifier": "SMF"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "368.79",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Made With Fruit Juice/Puree Doctor Developed 1 mg Melatonin Plus Herbals Dietary Supplement Supports Occasional Sleeplessness Gluten/GMO Free",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "SMS-55698",
+  "gtin12": "850019556988",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Made With Fruit Juice/Puree",
+    "Doctor Developed",
+    "1 mg Melatonin",
+    "Plus Herbals",
+    "Dietary Supplement",
+    "Supports Occasional Sleeplessness",
+    "Gluten/GMO Free"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 3+ years of age take 1 gummy 30 minutes before bedtime. Have child chew fully before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Tapioca syrup, fruit blend (pineapple juice concentrate, apple juice concentrate, pear puree, peach puree, orange juice concentrate, passionfruit juice), cane sugar, pectin, citric acid, vegetable juice (color), natural flavors, sodium citrate, fractionated coconut oil, carnauba wax.",
+    "No milk, soy, egg, nuts, fish, shellfish, gelatin, or synthetic colors/flavors",
+    "Made in Australia in facility that also processes wheat."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for children under 3 years of age. Use only as directed with parental supervision. Consult a healthcare provider before use if child has any medical condition or takes any medications.",
+    "Keep out of reach of children.",
+    "Store tightly closed in cool, dry place. Do not use if safety seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SMS-55698"
+  },
+  {
+   "label": "UPC",
+   "value": "850019556988"
+  },
+  {
+   "label": "Package quantity",
+   "value": "50 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.9 x 6.4 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value for Children 3 Years of Age",
+   "%Daily Value for Children 4+ Years of Age"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%†",
+   "<1%‡"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "8%†",
+   "4%‡"
+  ],
+  [
+   "Herbal Sleep Blend:Chamomile Flower Extract, Lemon Balm Leaf Extract",
+   "50 mg",
+   "**",
+   "**"
+  ],
+  [
+   "Melatonin",
+   "1 mg",
+   "**",
+   "**"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 1,000 calorie diet.‡Percent Daily Values (DV) are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value for Children 3 Years of Age\t%Daily Value for Children 4+ Years of Age",
+  "†Percent Daily Values (DV) are based on a 1,000 calorie diet.",
+  "‡Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2026"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "50 count",
+   "pid": "116226",
+   "url": "https://th.iherb.com/pr/the-smurfs-kids-gummy-restful-sleep-ages-3-smurf-berry-50-gummies/116226",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "100 count",
+   "pid": "143304",
+   "url": "https://th.iherb.com/pr/the-smurfs-kids-gummy-restful-sleep-ages-3-smurf-berry-100-gummies/143304",
+   "price": "฿647.34",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿368.79",
+  "฿368.79",
+  "฿7.38/‏serving",
+  "{0}% off code: {1}",
+  "฿368.79",
+  "Save 0% in cart",
+  "฿7.38/‏serving",
+  "฿368.79",
+  "(0% off)",
+  "฿368.79",
+  "฿7.38/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sms/sms55698/s/45.jpg"
+ ]
+}

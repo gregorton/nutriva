@@ -1,0 +1,235 @@
+{
+ "pid": "143368",
+ "slug": "protocol-for-life-balance-magnesium-glycinate-high-absorption-180-veg",
+ "scrapedAt": "2026-08-25T17:29:12.860Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/protocol-for-life-balance-magnesium-glycinate-high-absorption-180-veg.jpg",
+  "/products/iherb/protocol-for-life-balance-magnesium-glycinate-high-absorption-180-veg-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/protocol-for-life-balance-magnesium-glycinate-high-absorption-180-veg-capsules/143368",
+ "pageTitle": "Protocol for Life Balance, Magnesium Glycinate, High Absorption, 180 Veg Capsules",
+ "h1": "Protocol for Life Balance, Magnesium Glycinate, High Absorption, 180 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143368",
+  "name": "Protocol for Life Balance, Magnesium Glycinate, High Absorption, 180 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/g/8.jpg",
+  "mpn": "PRT-11287",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 494
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Protocol for Life Balance",
+   "url": "http://www.protocolforlife.com/",
+   "identifier": "PRT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.59",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "933.11",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Healthy Muscle, Nerve & Heart Functions With BioPerine® Non-GMO A Dietary Supplement Vegetarian/Vegan How It Works: Magnesium glycinate utilizes magnesium bound to the amino acid glycine, which facilitates intestinal absorption. Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the processes that require magnesium are fat and protein production, as well as glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland. This product is enhanced with BioPerine®, a proprietary black pepper extract.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "PRT-11287",
+  "gtin12": "707359112872",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Healthy Muscle, Nerve & Heart Functions",
+    "With BioPerine®",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan"
+   ],
+   "paragraphs": [
+    "How It Works: Magnesium glycinate utilizes magnesium bound to the amino acid glycine, which facilitates intestinal absorption. Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes.",
+    "Among the processes that require magnesium are fat and protein production, as well as glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland. This product is enhanced with BioPerine®, a proprietary black pepper extract."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules 1 to 2 times daily with food, or as directed by your healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), citric acid, ascorbyl palmitate, microcrystalline cellulose and silicon dioxide.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients.",
+    "Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Natural color variation may occur in this product. Store in a cool, dry place after opening.",
+    "Cautions/Interactions: Large doses of oral magnesium may have a laxative effect. Magnesium may interact with some antibiotics, diuretics, bisphosphonates, and muscle relaxants. In addition, many medications can affect magnesium absorption and excretion. If you are taking prescription medications, consult your healthcare practitioner before using this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PRT-11287"
+  },
+  {
+   "label": "UPC",
+   "value": "707359112872"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.3 x 7.2 x 7.2 cm, 0.27 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veg Capsules"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (elemental) (from Magnesium Bisglycinate) (Albion™)",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "Black Pepper Fruit Extract (BioPerine®) (min. 96% Piperine)",
+   "2.5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veg capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿933.11",
+  "฿933.11",
+  "฿10.37/‏serving",
+  "{0}% off code: {1}",
+  "฿933.11",
+  "Save 0% in cart",
+  "฿10.37/‏serving",
+  "฿933.11",
+  "(0% off)",
+  "฿933.11",
+  "฿10.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/prt/prt11287/s/10.jpg"
+ ]
+}

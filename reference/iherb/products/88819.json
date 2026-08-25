@@ -1,0 +1,275 @@
+{
+ "pid": "88819",
+ "slug": "now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet",
+ "scrapedAt": "2026-08-25T17:00:15.040Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "90K+",
+  "flag": "Best seller"
+ },
+ "images": [
+  "/products/iherb/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet.jpg",
+  "/products/iherb/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet-2.jpg",
+  "/products/iherb/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet-3.jpg",
+  "/products/iherb/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet/88819",
+ "pageTitle": "NOW Foods, Magnesium Glycinate, 180 Tablets (100 mg per Tablet)",
+ "h1": "NOW Foods, Magnesium Glycinate, 180 Tablets (100 mg per Tablet)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "88819",
+  "name": "NOW Foods, Magnesium Glycinate, 180 Tablets (100 mg per Tablet)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/g/62.jpg",
+  "mpn": "NOW-01289",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 41706
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.55",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "771.89",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Nervous System Support Highly Absorbable Form Supports Healthy Muscle, Nerve & Heart Functions Non-GMO Dietary Supplement Vegetarian/Vegan Kosher Minerals Family Owned Since 1968 Halal GMP Quality Assured Albion Minerals™ Magnesium glycinate utilizes magnesium bound to the amino acid glycine, which facilitates intestinal absorption. Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the processes that require magnesium are fat and protein production, as well as glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01289",
+  "gtin12": "733739012890",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Nervous System Support",
+    "Highly Absorbable Form",
+    "Supports Healthy Muscle, Nerve & Heart Functions",
+    "Non-GMO",
+    "Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Minerals",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured",
+    "Albion Minerals™"
+   ],
+   "paragraphs": [
+    "Magnesium glycinate utilizes magnesium bound to the amino acid glycine, which facilitates intestinal absorption. Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the processes that require magnesium are fat and protein production, as well as glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 tablets 1 to 2 times daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Citric acid, hydroxypropyl cellulose, stearic acid (vegetable source), silicon dioxide and vegetarian coating [hypromellose (cellulose), stearic acid (vegetable source), sunflower lecithin, triethyl citrate, sunflower oil].",
+    "Made and quality tested in the USA with globally sourced ingredients.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01289"
+  },
+  {
+   "label": "UPC",
+   "value": "733739012890"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 6.9 x 6.9 cm, 0.25 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Serving Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (elemental) (from 2,000 mg Magnesium Bisglycinate) (Albion™)",
+   "200 mg",
+   "48%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "156872",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-glycinate-90-tablets-100-mg-per-tablet/156872",
+   "price": "฿412.75",
+   "outOfStock": true,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "88819",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet/88819",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Minerals",
+   "href": "/c/minerals?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Magnesium",
+   "href": "/c/magnesium?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Supplements",
+   "href": "/c/supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "90,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿771.89",
+  "฿771.89",
+  "฿8.58/‏serving",
+  "{0}% off code: {1}",
+  "฿771.89",
+  "Save 0% in cart",
+  "฿8.58/‏serving",
+  "฿771.89",
+  "(0% off)",
+  "฿771.89",
+  "฿8.58/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01289/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco,c_fit,w_200,h_200/images/now/now01289/l/62.jpg"
+ ]
+}

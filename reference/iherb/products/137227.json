@@ -1,0 +1,237 @@
+{
+ "pid": "137227",
+ "slug": "revive-magnesium-glycinate-120-vegetarian-capsules-100-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:37:18.250Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/revive-magnesium-glycinate-120-vegetarian-capsules-100-mg-per-capsule.jpg",
+  "/products/iherb/revive-magnesium-glycinate-120-vegetarian-capsules-100-mg-per-capsule-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/revive-magnesium-glycinate-120-vegetarian-capsules-100-mg-per-capsule/137227",
+ "pageTitle": "Revive, Magnesium Glycinate, 120 Vegetarian Capsules (100 mg per Capsule)",
+ "h1": "Revive, Magnesium Glycinate, 120 Vegetarian Capsules (100 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "137227",
+  "name": "Revive, Magnesium Glycinate, 120 Vegetarian Capsules (100 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/g/48.jpg",
+  "mpn": "RVI-68936",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 372
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Revive",
+   "url": "https://revivesups.com/",
+   "identifier": "RVI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "557.77",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Clinically Dosed To Supports Relaxation And Sleep 200 mg Elemental Magnesium Dietary Supplement Gluten Free Vegan Friendly Manufactured in a GMP Facility Physician Formulated 3rd Party Tested Each Batch Tested For: Potency · Purity · Quality Reduces stress, and supports relaxation and calm for unwinding. Helps maintain memory, healthy muscle and nerve function. Promotes restful sleep without grogginess.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "RVI-68936",
+  "gtin12": "850030689368",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Clinically Dosed To Supports Relaxation And Sleep",
+    "200 mg Elemental Magnesium",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Vegan Friendly",
+    "Manufactured in a GMP Facility",
+    "Physician Formulated",
+    "3rd Party Tested",
+    "Each Batch Tested For: Potency · Purity · Quality"
+   ],
+   "paragraphs": [
+    "Reduces stress, and supports relaxation and calm for unwinding.",
+    "Helps maintain memory, healthy muscle and nerve function.",
+    "Promotes restful sleep without grogginess."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Read the entire label carefully before use.",
+    "As a dietary supplement, take two (2) capsules once daily, or as recommended by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetable capsule), microcrystalline cellulose, magnesium stearate, silicon dioxide.",
+    "Manufactured on shared equipment which also processes milk, soy, egg, wheat, fish, shellfish, peanuts, tree nuts, and sesame.",
+    "Globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "This product is intended for healthy individuals 18 years and older. Do not consume if you are pregnant or nursing or have a medical condition. Consult your healthcare provider before taking this product. Do not purchase if the outer seal is broken or damaged. Do not exceed recommended dose. Keep out of reach of children.",
+    "CA warning: This product can expose you to chemicals including Lead, which is known to the State of California to cause cancer and birth defects or other reproductive harm. Prop 65."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "RVI-68936"
+  },
+  {
+   "label": "UPC",
+   "value": "850030689368"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.4 x 6.2 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV†"
+  ],
+  [
+   "Magnesium(from Magnesium Glycinate)",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet. *Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿557.77",
+  "฿557.77",
+  "฿9.30/‏serving",
+  "{0}% off code: {1}",
+  "฿557.77",
+  "Save 0% in cart",
+  "฿9.30/‏serving",
+  "฿557.77",
+  "(0% off)",
+  "฿557.77",
+  "฿9.30/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rvi/rvi68936/s/53.jpg"
+ ]
+}

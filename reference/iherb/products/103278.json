@@ -1,0 +1,270 @@
+{
+ "pid": "103278",
+ "slug": "california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-m",
+ "scrapedAt": "2026-08-25T17:44:41.707Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-m.jpg",
+  "/products/iherb/california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-m-2.jpg",
+  "/products/iherb/california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-m-3.jpg",
+  "/products/iherb/california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-m-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-mg-per-capsule/103278",
+ "pageTitle": "California Gold Nutrition, Apple Cider Vinegar, 60 Veggie Capsules (450 mg per Capsule)",
+ "h1": "California Gold Nutrition, Apple Cider Vinegar, 60 Veggie Capsules (450 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103278",
+  "name": "California Gold Nutrition, Apple Cider Vinegar, 60 Veggie Capsules (450 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/g/51.jpg",
+  "mpn": "CGN-01905",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 10398
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "149.49",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "199.32",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Apple Cider Vinegar Organic Apple Cider Vinegar Powder Supports Healthy Digestion & Metabolism* Formulated to Contain: No Gluten, No GMOs, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Apple Cider Vinegar has been recognized as a home remedy to help regulate the body’s acid/alkaline balance, and has been consumed traditionally for a wide variety of health-promoting benefits. Research suggests that Apple Cider Vinegar can help to improve digestion, and promote a healthy metabolism that can assist with weight loss.* California Gold Nutrition Apple Cider Vinegar features Organic Apple Cider Vinegar powder in vegetarian capsules. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x3.3"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01905",
+  "gtin12": "898220019052",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/g/51.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Weight Management",
+  "Apple Cider Vinegar"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Apple Cider Vinegar",
+    "Organic Apple Cider Vinegar Powder",
+    "Supports Healthy Digestion & Metabolism*",
+    "Formulated to Contain: No Gluten, No GMOs, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Apple Cider Vinegar has been recognized as a home remedy to help regulate the body’s acid/alkaline balance, and has been consumed traditionally for a wide variety of health-promoting benefits. Research suggests that Apple Cider Vinegar can help to improve digestion, and promote a healthy metabolism that can assist with weight loss.*",
+    "California Gold Nutrition Apple Cider Vinegar features Organic Apple Cider Vinegar powder in vegetarian capsules.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01905"
+  },
+  {
+   "label": "UPC",
+   "value": "898220019052"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.4 x 5.1 x 8.4 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Organic Apple Cider Vinegar Powder",
+   "900 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "103278",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-apple-cider-vinegar-60-veggie-capsules-450-mg-per-capsule/103278",
+   "price": "฿149.49",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "103279",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-apple-cider-vinegar-180-veggie-capsules-450-mg-per-capsule/103279",
+   "price": "฿465.08",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Apple Cider Vinegar",
+   "href": "/c/apple-cider-vinegar?sr=2"
+  },
+  {
+   "rank": "#16 in",
+   "category": "Weight Management",
+   "href": "/c/weight-management?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿199.32",
+  "฿199.32",
+  "฿6.64/‏serving",
+  "{0}% off code: {1}",
+  "฿199.32",
+  "Save 25% in cart",
+  "฿6.64/‏serving",
+  "฿149.49",
+  "(25% off)",
+  "฿199.32",
+  "฿4.98/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/g/51.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/k/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/g/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/s/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01905/s/59.jpg"
+ ]
+}

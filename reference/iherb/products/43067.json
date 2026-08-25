@@ -1,0 +1,430 @@
+{
+ "pid": "43067",
+ "slug": "nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange",
+ "scrapedAt": "2026-08-25T17:02:24.863Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "7K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange.jpg",
+  "/products/iherb/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange-2.jpg",
+  "/products/iherb/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange-3.jpg",
+  "/products/iherb/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange-90-gummies/43067",
+ "pageTitle": "Nature's Way, Alive! Kids, Premium Gummy Multivitamin, Cherry, Grape & Orange, 90 Gummies",
+ "h1": "Nature's Way, Alive! Kids, Premium Gummy Multivitamin, Cherry, Grape & Orange, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "43067",
+  "name": "Nature's Way, Alive! Kids, Premium Gummy Multivitamin, Cherry, Grape & Orange, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/g/44.jpg",
+  "mpn": "NWY-15789",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 27216
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.70",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "597.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100% More of 4 B-Vitamins†† Supports Bone, Eye & Immune Health Orchard Fruits™ & Garden Veggies™ Powder Blend (200 mg Per 3 Gummies) Multivitamin Supplement With Plant Based Pectin Vegetarian Gelatin Free Balanced Support for Growth & Development Gelatin-free gummies with 15 vitamins and minerals Full B-vitamin complex helps convert food to fuel High potency vitamins C for immune support Excellent source of vitamins A, D, E, and zinc, essential nutrients for kids Yummy chewables suitable for ages 2+ ††With more Thiamin (0.6 mg v. 0.3 mg), Riboflavin (0.65 mg v. 0.325 mg), Niacin (8 mg v. 4 mg), & Biotin (0.03 mg v. 0.015 mg) in each 3-gummy serving than in each 2-gummy serving of Alive!® Kid's Gummy non-premium formula (15788)",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "NWY-15789",
+  "gtin12": "033674157893",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100% More of 4 B-Vitamins††",
+    "Supports Bone, Eye & Immune Health",
+    "Orchard Fruits™ & Garden Veggies™ Powder Blend (200 mg Per 3 Gummies)",
+    "Multivitamin Supplement",
+    "With Plant Based Pectin",
+    "Vegetarian",
+    "Gelatin Free",
+    "Full B-vitamin complex helps convert food to fuel",
+    "High potency vitamins C for immune support",
+    "Excellent source of vitamins A, D, E, and zinc, essential nutrients for kids",
+    "Yummy chewables suitable for ages 2+"
+   ],
+   "paragraphs": [
+    "Balanced Support for Growth & Development",
+    "Gelatin-free gummies with 15 vitamins and minerals",
+    "††With more Thiamin (0.6 mg v. 0.3 mg), Riboflavin (0.65 mg v. 0.325 mg), Niacin (8 mg v. 4 mg), & Biotin (0.03 mg v. 0.015 mg) in each 3-gummy serving than in each 2-gummy serving of Alive!® Kid's Gummy non-premium formula (15788)"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 2-3 years of age, chew 2 gummies daily. Children 4 years of age and older, chew 3 gummies daily. Take preferably with food. Instruct child to chew gummies thoroughly before swallowing. Do not exceed recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic tapioca syrup, cane sugar, purified water, pectin, citric acid, sodium citrate, natural flavors, vegetable and fruit juice colors, coconut oil, beeswax.",
+    "Free from gluten , wheat, egg, peanut, dairy, and gelatin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Do not use if safety seal under child-resistant cap is broken or missing. Keep tightly closed. Store at room temperature. Avoid excessive heat and direct sunlight.",
+    "Not for children under 2 years of age due to choking hazard. If you are pregnant, nursing, or taking any medications, consult a healthcare professional before use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2012"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NWY-15789"
+  },
+  {
+   "label": "UPC",
+   "value": "033674157893"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies / 3 Gummies"
+  ],
+  [
+   "Servings Per Container: 45/ 30"
+  ],
+  [
+   "",
+   "Amount Per Serving ​2 Gummies(Ages 2-3 Yrs)",
+   "%DV",
+   "Amount Per Serving ​3 Gummies (Ages 4+ Yrs)",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "20",
+   "",
+   "25",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "3%‡",
+   "7 g",
+   "3%†"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**",
+   "4 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugars",
+   "3 g",
+   "12%‡",
+   "4 g",
+   "8%†"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "300 mcg",
+   "100%",
+   "450 mcg",
+   "50%"
+  ],
+  [
+   "Vitamin C (ascorbic acid)",
+   "60 mg",
+   "400%",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "13 mcg",
+   "87%",
+   "20 mcg",
+   "100%"
+  ],
+  [
+   "Vitamin E (as d-alpha tocopheryl acetate)",
+   "5 mg",
+   "83%",
+   "7.5 mg",
+   "50%"
+  ],
+  [
+   "Thiamin (as thiamin HCl)",
+   "0.4 mg",
+   "80%",
+   "0.6 mg",
+   "50%"
+  ],
+  [
+   "Riboflavin",
+   "0.433 mg",
+   "87%",
+   "0.65 mg",
+   "50%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "5.3 mg",
+   "88%",
+   "8 mg",
+   "50%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "1.1 mg",
+   "220%",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate",
+   "133 mcg DFE (80 mcg Folic Acid)",
+   "89%",
+   "200 mcg dfe(120 mcg folic acid)",
+   "50%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "1.6 mcg",
+   "178%",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "20 mcg",
+   "250%",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as D-Calcium Pantothenate)",
+   "1.6 mg",
+   "80%",
+   "2.5 mg",
+   "50%"
+  ],
+  [
+   "Choline (as choline bitartrate)",
+   "14.6 mg",
+   "7%",
+   "22 mg",
+   "4%"
+  ],
+  [
+   "Iodine (as Potassium iodide)",
+   "50 mcg",
+   "56%",
+   "75 mcg",
+   "50%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "3.6 mg",
+   "120%",
+   "5.5 mg",
+   "50%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "1%",
+   "20 mg",
+   "1%"
+  ],
+  [
+   "Orchard Fruits™ & Garden Veggies™ Powder Blend:Orange, Blueberry, Carrot, Plum, Pomegranate, Strawberry, Pear, Apple, Beet, Raspberry, Pineapple, Pumpkin, Cherry, Cauliflower, Grape, Banana, Cabbage, Tomato, Acai, Asparagus, Brussels Sprout, Cranberry, Cucumber, Pea, Broccoli, Spinach",
+   "133 mg",
+   "**",
+   "200 mg",
+   "**"
+  ],
+  [
+   "Inositol",
+   "13 mcg",
+   "**",
+   "20 mcg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 2,000 calorie diet.‡Percent Daily Values are based on a 1,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "‡Percent Daily Values are based on a 1,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "86730",
+   "url": "https://th.iherb.com/pr/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gummies/86730",
+   "price": "฿216.94",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "43067",
+   "url": "https://th.iherb.com/pr/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange-90-gummies/43067",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Children's Multivitamins",
+   "href": "/c/childrens-multivitamins?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Children's Vitamins",
+   "href": "/c/childrens-vitamins?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Children's Health",
+   "href": "/c/childrens-health?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "7,500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿597.75",
+  "฿597.75",
+  "฿19.93/‏serving",
+  "{0}% off code: {1}",
+  "฿597.75",
+  "Save 0% in cart",
+  "฿19.93/‏serving",
+  "฿597.75",
+  "(0% off)",
+  "฿597.75",
+  "฿19.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15789/s/56.jpg"
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "pid": "154191",
+ "slug": "21st-century-kalos-splendor-collagen-peptides-unflavored-10-6-oz-300-g",
+ "scrapedAt": "2026-08-25T17:25:36.538Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-kalos-splendor-collagen-peptides-unflavored-10-6-oz-300-g.jpg",
+  "/products/iherb/21st-century-kalos-splendor-collagen-peptides-unflavored-10-6-oz-300-g-2.jpg",
+  "/products/iherb/21st-century-kalos-splendor-collagen-peptides-unflavored-10-6-oz-300-g-3.jpg",
+  "/products/iherb/21st-century-kalos-splendor-collagen-peptides-unflavored-10-6-oz-300-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-kalos-splendor-collagen-peptides-unflavored-10-6-oz-300-g/154191",
+ "pageTitle": "21st Century, Kalos & Splendor™ Collagen Peptides, Unflavored, 10.6 oz (300 g)",
+ "h1": "21st Century, Kalos & Splendor™ Collagen Peptides, Unflavored, 10.6 oz (300 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "154191",
+  "name": "21st Century, Kalos & Splendor™ Collagen Peptides, Unflavored, 10.6 oz (300 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/g/17.jpg",
+  "mpn": "CEN-25684",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 44
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.91",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "626.54",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass Fed & Pasture Raised 20 g Type I & III Collagen Peptides per Serving Hair, Skin, Nails Plus Bone & Joint Health Support Third Party Tested Non-GMO Gluten Free Dietary Supplement Trusted Quality for Over 30 Years Laboratory Tested Kalos & Splendor™ Collagen Peptides help maintain strength and flexibility throughout the body. Collagen is an important nutrient needed to ensure the health and vitality of skin, hair, nails, cartilage, bones, and joints.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.9x4.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-25684",
+  "gtin12": "740985256848",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/g/17.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass Fed & Pasture Raised",
+    "20 g",
+    "Type I & III Collagen Peptides per Serving",
+    "Hair, Skin, Nails Plus Bone & Joint Health Support",
+    "Third Party Tested",
+    "Non-GMO",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Trusted Quality for Over 30 Years",
+    "Laboratory Tested"
+   ],
+   "paragraphs": [
+    "Kalos & Splendor™ Collagen Peptides help maintain strength and flexibility throughout the body. Collagen is an important nutrient needed to ensure the health and vitality of skin, hair, nails, cartilage, bones, and joints."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults, combine 1 scoop with 8 fl oz of liquid and mix thoroughly."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "​No gluten, soy, milk, lactose or wheat."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare provider prior to use if pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.",
+    "Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-25684"
+  },
+  {
+   "label": "UPC",
+   "value": "740985256848"
+  },
+  {
+   "label": "Package quantity",
+   "value": "300 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 12.4 x 12.3 cm, 0.41 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (20 g)"
+  ],
+  [
+   "Servings Per Container: 15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Protein",
+   "18 g",
+   "36%†"
+  ],
+  [
+   "Sodium",
+   "80 mg",
+   "3%"
+  ],
+  [
+   "Collagen Peptides (from Bovine)",
+   "20 g",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "15"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Milk-free",
+    "Lactose-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿626.54",
+  "฿626.54",
+  "฿41.77/‏serving",
+  "{0}% off code: {1}",
+  "฿626.54",
+  "Save 0% in cart",
+  "฿41.77/‏serving",
+  "฿626.54",
+  "(0% off)",
+  "฿626.54",
+  "฿41.77/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/g/17.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/k/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/g/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/15.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen25684/s/23.jpg"
+ ]
+}

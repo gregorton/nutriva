@@ -1,0 +1,225 @@
+{
+ "pid": "120674",
+ "slug": "nubian-heritage-liquid-hand-soap-patchouli-buriti-12-fl-oz-355-ml",
+ "scrapedAt": "2026-08-25T17:51:20.125Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/nubian-heritage-liquid-hand-soap-patchouli-buriti-12-fl-oz-355-ml.jpg",
+  "/products/iherb/nubian-heritage-liquid-hand-soap-patchouli-buriti-12-fl-oz-355-ml-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nubian-heritage-liquid-hand-soap-patchouli-buriti-12-fl-oz-355-ml/120674",
+ "pageTitle": "Nubian Heritage, Liquid Hand Soap, Patchouli & Buriti, 12 fl oz (355 ml)",
+ "h1": "Nubian Heritage, Liquid Hand Soap, Patchouli & Buriti, 12 fl oz (355 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "120674",
+  "name": "Nubian Heritage, Liquid Hand Soap, Patchouli & Buriti, 12 fl oz (355 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/g/24.jpg",
+  "mpn": "NBH-01761",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 511
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nubian Heritage",
+   "url": "https://www.nubian-heritage.com",
+   "identifier": "NBH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.95",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "280.68",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "327.17",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-27T00:00:00"
+  },
+  "description": "Glowing & Uplifting Infused With: Rosehip Seed Oil Certified B Corporation Cruelty Free Ethically Traded Ingredients Sustainably Sourced No Animal Testing This gentle, sulfate-free liquid hand soap, infused with Patchouli Oil, Shea Butter, and Buriti Oil, cleanses without drying. Leaves hands smooth and refreshed while senses are uplifted with an exotic fragrance. Humble Beginnings Born on the streets of Harlem in 1992, but based on centuries old traditions, Nubian Heritage has been guided by the legacy of ancient Nubia, the world's first melting pot. Ancient Nubia was once a center of cultural trade - a place where goods, ideas and customs from across Africa, Asia, the Middle East and the Mediterranean came together, influenced each other, and then spread across the ancient world. That is our inspiration. We bring together cultural wisdom and indigenous ingredients to create modern wellness solutions for skin and hair. Our mission is to make cultural exchange the model for transforming the global community and personal care. Heritage Buriti Oil is made from the fruit of Moriche Palm, known as the \"tree of life,\" because of its importance in the Amazonian diet. Emphasizing this collection's brightening properties, our package symbolizes happiness. The pattern is representative of Thailand's textile industry, which economically empowers countless communities and employs over one million individuals.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.6"
+  },
+  "isRelatedTo": null,
+  "sku": "NBH-01761",
+  "gtin12": "764302017615",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Bath & Shower",
+  "Hand Soap"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Glowing & Uplifting",
+    "Infused With: Rosehip Seed Oil",
+    "Certified B Corporation",
+    "Cruelty Free",
+    "Ethically Traded Ingredients",
+    "Sustainably Sourced",
+    "No Animal Testing"
+   ],
+   "paragraphs": [
+    "This gentle, sulfate-free liquid hand soap, infused with Patchouli Oil, Shea Butter, and Buriti Oil, cleanses without drying. Leaves hands smooth and refreshed while senses are uplifted with an exotic fragrance.",
+    "Humble Beginnings",
+    "Born on the streets of Harlem in 1992, but based on centuries old traditions, Nubian Heritage has been guided by the legacy of ancient Nubia, the world's first melting pot. Ancient Nubia was once a center of cultural trade - a place where goods, ideas and customs from across Africa, Asia, the Middle East and the Mediterranean came together, influenced each other, and then spread across the ancient world. That is our inspiration. We bring together cultural wisdom and indigenous ingredients to create modern wellness solutions for skin and hair. Our mission is to make cultural exchange the model for transforming the global community and personal care.",
+    "Heritage",
+    "Buriti Oil is made from the fruit of Moriche Palm, known as the \"tree of life,\" because of its importance in the Amazonian diet. Emphasizing this collection's brightening properties, our package symbolizes happiness. The pattern is representative of Thailand's textile industry, which economically empowers countless communities and employs over one million individuals."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Turn nozzle to unlock pump. Apply to hands, lather and rinse."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water, sodium lauroyl methyl isethionate, cocamidopropyl betaine, glycerin (vegetable), propanediol, aloe barbadensis leaf juice, butyrospermum parkii (shea) butter*♥, theobroma grandiflorum (cupuaçu) seed butter, macadamia ternifolia seed oil, rosa canina (dog rose) seed oil, mauritia flexuosa (buriti) fruit oil, tocopherol, calendula officinalis (calendula) flower extract, camellia sinensis (green tea) leaf extract, sodium chloride, guar hydroxypropyltrimonium chloride, triethyl citrate, trisodium ethylenediamine disuccinate, glycine soja (soybean) oil, sodium benzoate, caprylyl glycol, benzoic acid, fragrance.",
+    "*Certified organic ingredient",
+    "♥Fair trade ingredient",
+    "Manufactured in the USA using ingredients from around the world."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Natural ingredients may vary in color and consistency. If irritation occurs, discontinue use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.43 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NBH-01761"
+  },
+  {
+   "label": "UPC",
+   "value": "764302017615"
+  },
+  {
+   "label": "Package quantity",
+   "value": "355 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.3 x 6.6 x 6.6 cm, 0.43 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "355 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Cruelty-free",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#20 in",
+   "category": "Hand Soap",
+   "href": "/c/hand-soap?sr=2"
+  },
+  {
+   "rank": "#21 in",
+   "category": "Cleaners & Disinfectants",
+   "href": "/c/cleaners-disinfectants?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock - Only 2 left, more to come",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿327.17",
+  "฿327.17",
+  "฿0.92/‏ml",
+  "{0}% off code: {1}",
+  "฿327.17",
+  "Save 14% in cart",
+  "฿0.92/‏ml",
+  "฿280.68",
+  "(14% off)",
+  "฿327.17",
+  "฿0.79/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nbh/nbh01761/s/28.jpg"
+ ]
+}

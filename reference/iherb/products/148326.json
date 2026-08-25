@@ -1,0 +1,231 @@
+{
+ "pid": "148326",
+ "slug": "mild-by-nature-anti-bug-balm-stick-cedarwood-geranium-rosemary-oil-0-6",
+ "scrapedAt": "2026-08-25T17:48:15.930Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-anti-bug-balm-stick-cedarwood-geranium-rosemary-oil-0-6.jpg",
+  "/products/iherb/mild-by-nature-anti-bug-balm-stick-cedarwood-geranium-rosemary-oil-0-6-2.jpg",
+  "/products/iherb/mild-by-nature-anti-bug-balm-stick-cedarwood-geranium-rosemary-oil-0-6-3.jpg",
+  "/products/iherb/mild-by-nature-anti-bug-balm-stick-cedarwood-geranium-rosemary-oil-0-6-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-anti-bug-balm-stick-cedarwood-geranium-rosemary-oil-0-6-oz-17-g/148326",
+ "pageTitle": "Mild By Nature, Anti-Bug Balm Stick, Cedarwood, Geranium & Rosemary Oil, 0.6 oz (17 g)",
+ "h1": "Mild By Nature, Anti-Bug Balm Stick, Cedarwood, Geranium & Rosemary Oil, 0.6 oz (17 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148326",
+  "name": "Mild By Nature, Anti-Bug Balm Stick, Cedarwood, Geranium & Rosemary Oil, 0.6 oz (17 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/g/9.jpg",
+  "mpn": "MBN-02579",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 13953
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.06",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "110.12",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "146.83",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild By Nature, Sierra Bees Anti-Bug Balm Stick Formulated with Natural Ingredients for Bug Defense Featuring Beeswax and Botanicals USDA Organic & Certified by Oregon Tilth No Gluten or GMOs No Sulfates, Preservatives or Phthalates Cruelty-Free & No Animal Testing Nature's Choice for Soft and Soothing Skincare Key Ingredients Beeswax Shea Butter, Olive & Castor Oil Citronella and Lemongrass Oil Cedarwood, Geranium & Rosemary Oil We all love spending time outside, but pesky bugs can quickly ruin your outdoor fun. You don’t have to let these insects drive you inside. All you need is the proper defense to help keep bugs at bay. Mild By Nature, Sierra Bees Anti-Bug Balm Stick provides a convenient way to protect yourself from biting insects and other annoying bugs. It’s formulated with citronella, beeswax and botanical oils to provide defense from pests without the strong scent of bug spray. Simply apply the balm to any area of the skin.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "0.85x0.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02579",
+  "gtin12": "898220025794",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Medicine Cabinet",
+  "Bug & Insect Repellents"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild By Nature, Sierra Bees Anti-Bug Balm Stick",
+    "Formulated with Natural Ingredients for Bug Defense",
+    "Featuring Beeswax and Botanicals",
+    "USDA Organic & Certified by Oregon Tilth",
+    "No Gluten or GMOs",
+    "No Sulfates, Preservatives or Phthalates",
+    "Cruelty-Free & No Animal Testing",
+    "Nature's Choice for Soft and Soothing Skincare",
+    "Beeswax",
+    "Shea Butter, Olive & Castor Oil",
+    "Citronella and Lemongrass Oil",
+    "Cedarwood, Geranium & Rosemary Oil"
+   ],
+   "paragraphs": [
+    "Key Ingredients",
+    "We all love spending time outside, but pesky bugs can quickly ruin your outdoor fun. You don’t have to let these insects drive you inside. All you need is the proper defense to help keep bugs at bay.",
+    "Mild By Nature, Sierra Bees Anti-Bug Balm Stick provides a convenient way to protect yourself from biting insects and other annoying bugs. It’s formulated with citronella, beeswax and botanical oils to provide defense from pests without the strong scent of bug spray. Simply apply the balm to any area of the skin."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply Anti-Bug Balm onto any area of skin you want to protect."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Olea Europaea (Olive) Fruit Oil*, Cera Alba (Beeswax)*, Ricinus Communis (Castor) Seed Oil*, Butyrospermum Parkii (Shea) Butter*, Cymbopogon Nardus (Citronella) Oil*, Cymbopogon Flexuosus (Lemongrass) Oil*, Cedrus Atlantica (Cedarwood) Oil*, Pelargonium Graveolens (Geranium) Flower Oil*, Rosmarinus Officinalis (Rosemary) Leaf Oil*.",
+    "*Certified Organic"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Keep out of reach of children.",
+    "For external use only.",
+    "Avoid contact with eyes.",
+    "Discontinue use if you experience skin sensitivity.",
+    "Store in a cool, dry place (Room Temperature is best)."
+   ],
+   "paragraphs": []
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02579"
+  },
+  {
+   "label": "UPC",
+   "value": "898220025794"
+  },
+  {
+   "label": "Package quantity",
+   "value": "17 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 2.2 x 2.2 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "17 g"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Bug & Insect Repellents",
+   "href": "/c/bug-insect-repellents?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿146.83",
+  "฿146.83",
+  "฿8.64/‏g",
+  "{0}% off code: {1}",
+  "฿146.83",
+  "Save 25% in cart",
+  "฿8.64/‏g",
+  "฿110.12",
+  "(25% off)",
+  "฿146.83",
+  "฿6.48/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02579/b/9.jpg"
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "pid": "117486",
+ "slug": "now-foods-liposomal-vitamin-c-120-veg-capsules-500-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:25:46.503Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-liposomal-vitamin-c-120-veg-capsules-500-mg-per-capsule.jpg",
+  "/products/iherb/now-foods-liposomal-vitamin-c-120-veg-capsules-500-mg-per-capsule-2.jpg",
+  "/products/iherb/now-foods-liposomal-vitamin-c-120-veg-capsules-500-mg-per-capsule-3.jpg",
+  "/products/iherb/now-foods-liposomal-vitamin-c-120-veg-capsules-500-mg-per-capsule-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-liposomal-vitamin-c-120-veg-capsules-500-mg-per-capsule/117486",
+ "pageTitle": "NOW Foods, Liposomal Vitamin C, 120 Veg Capsules (500 mg per Capsule)",
+ "h1": "NOW Foods, Liposomal Vitamin C, 120 Veg Capsules (500 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "117486",
+  "name": "NOW Foods, Liposomal Vitamin C, 120 Veg Capsules (500 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/g/60.jpg",
+  "mpn": "NOW-00619",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 6879
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "688.36",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune & Collagen Support Enhanced Absorption and Retention Fat-Soluble Vitamin C Liposomal PureWay C™ Dietary Supplement Vegetarian/Vegan Non-GMO Kosher Vitamins Family Owned Since 1968 GMP Quality Assured NOW® Liposomal Vitamin C features Liposomal PureWay-C™, vitamin C in a fat-soluble delivery system that has demonstrated enhanced absorption, cellular uptake, and bodily retention in clinical studies as compared to other forms of vitamin C. Vitamin C is a powerful antioxidant that is also necessary for collagen synthesis, the maintenance of capillary and blood vessel integrity, cartilage and bone health, normal immune function, and nerve impulse transmission.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00619",
+  "gtin12": "733739006196",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/g/60.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Liposomal Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune & Collagen Support",
+    "Enhanced Absorption and Retention",
+    "Fat-Soluble Vitamin C",
+    "Liposomal PureWay C™",
+    "Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Non-GMO",
+    "Kosher",
+    "Vitamins",
+    "Family Owned Since 1968",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "NOW® Liposomal Vitamin C features Liposomal PureWay-C™, vitamin C in a fat-soluble delivery system that has demonstrated enhanced absorption, cellular uptake, and bodily retention in clinical studies as compared to other forms of vitamin C. Vitamin C is a powerful antioxidant that is also necessary for collagen synthesis, the maintenance of capillary and blood vessel integrity, cartilage and bone health, normal immune function, and nerve impulse transmission."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules daily with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), microcrystalline cellulose, phospholipids (from sunflower lecithin), fatty acids (from rice bran), magnesium stearate (vegetable source), stearic acid (vegetable source), silicon dioxide and citrus bioflavonoids.",
+    "Made and quality tested in the USA with globally sourced ingredients.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place after opening.",
+    "Natural color variation may occur in this product.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00619"
+  },
+  {
+   "label": "UPC",
+   "value": "733739006196"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 6.7 x 6.7 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veg Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (Liposomal PureWay-C™)",
+   "1 g (1,000 mg)",
+   "1111%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veg capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Liposomal Vitamin C",
+   "href": "/c/liposomal-vitamin-c?sr=2"
+  },
+  {
+   "rank": "#6 in",
+   "category": "Vitamin C",
+   "href": "/c/vitamin-c?sr=2"
+  },
+  {
+   "rank": "#30 in",
+   "category": "Vitamins",
+   "href": "/c/vitamins?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿688.36",
+  "฿688.36",
+  "฿11.47/‏serving",
+  "{0}% off code: {1}",
+  "฿688.36",
+  "Save 0% in cart",
+  "฿11.47/‏serving",
+  "฿688.36",
+  "(0% off)",
+  "฿688.36",
+  "฿11.47/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/g/60.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/k/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/g/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00619/s/51.jpg"
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "pid": "16567",
+ "slug": "doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-al",
+ "scrapedAt": "2026-08-25T17:03:17.785Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "80K+",
+  "flag": "Best seller"
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-al.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-al-2.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-al-3.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-al-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567",
+ "pageTitle": "Doctor's Best, High Absorption Magnesium Lysinate Glycinate, Chelated, Albion® TRAACS®, 240 Tablets (100 mg per Tablet)",
+ "h1": "Doctor's Best, High Absorption Magnesium Lysinate Glycinate, Chelated, Albion® TRAACS®, 240 Tablets (100 mg per Tablet)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "16567",
+  "name": "Doctor's Best, High Absorption Magnesium Lysinate Glycinate, Chelated, Albion® TRAACS®, 240 Tablets (100 mg per Tablet)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/g/214.jpg",
+  "mpn": "DRB-00087",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 211069
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.89",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "885.68",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Lysinate Glycinate 100% Chelated Muscle Relaxation & Sleep Support Albion® Minerals Dietary Supplement Non-GMO · Gluten Free · Soy Free · Vegan At Doctor's Best, our high absorption magnesium is the ultimate multitasker, crucial for a range of bodily functions. Our specialized magnesium formula provides essential support for muscles, nerves, sleep quality, and maintaining a balanced mood. Essential in 600 enzyme systems that support biochemical functions Up to 6x better absorbed than other forms of magnesium TRAACS® chelate technology from Albion®",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.1x3.1"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00087",
+  "gtin12": "753950000872",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/g/214.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Lysinate Glycinate",
+    "100% Chelated",
+    "Muscle Relaxation & Sleep Support",
+    "Albion® Minerals",
+    "Dietary Supplement",
+    "Non-GMO · Gluten Free · Soy Free · Vegan",
+    "Essential in 600 enzyme systems that support biochemical functions",
+    "Up to 6x better absorbed than other forms of magnesium",
+    "TRAACS® chelate technology from Albion®"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, our high absorption magnesium is the ultimate multitasker, crucial for a range of bodily functions. Our specialized magnesium formula provides essential support for muscles, nerves, sleep quality, and maintaining a balanced mood."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 2 tablets twice daily, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, croscarmellose sodium, magnesium stearate (vegetable source), stearic acid, hydroxypropyl cellulose, silicon dioxide, hypromellose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2009"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.4 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00087"
+  },
+  {
+   "label": "UPC",
+   "value": "753950000872"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.6 x 7.9 x 7.9 cm, 0.4 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (from 2,000 mg magnesiumlysinate glycinate chelate) (Albion®)",
+   "200 mg",
+   "48%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "15",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-magnesium-120-tablets-100-mg-per-tablet/15",
+   "price": "฿444.91",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "16567",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-magnesium-lysinate-glycinate-chelated-albion-traacs-240-tablets-100-mg-per-tablet/16567",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Minerals",
+   "href": "/c/minerals?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Magnesium",
+   "href": "/c/magnesium?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Supplements",
+   "href": "/c/supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "80,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿885.68",
+  "฿885.68",
+  "฿7.38/‏serving",
+  "{0}% off code: {1}",
+  "฿885.68",
+  "Save 0% in cart",
+  "฿7.38/‏serving",
+  "฿885.68",
+  "(0% off)",
+  "฿885.68",
+  "฿7.38/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/g/214.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/k/214.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/g/214.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/214.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/219.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/223.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/224.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/225.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/226.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/227.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/228.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00087/s/229.jpg"
+ ]
+}

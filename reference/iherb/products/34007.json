@@ -1,0 +1,337 @@
+{
+ "pid": "34007",
+ "slug": "gummiking-multi-vitamin-mineral-gummies-for-kids-strawberry-orange-lem",
+ "scrapedAt": "2026-08-25T17:09:39.031Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/gummiking-multi-vitamin-mineral-gummies-for-kids-strawberry-orange-lem.jpg",
+  "/products/iherb/gummiking-multi-vitamin-mineral-gummies-for-kids-strawberry-orange-lem-2.jpg",
+  "/products/iherb/gummiking-multi-vitamin-mineral-gummies-for-kids-strawberry-orange-lem-3.jpg",
+  "/products/iherb/gummiking-multi-vitamin-mineral-gummies-for-kids-strawberry-orange-lem-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/gummiking-multi-vitamin-mineral-gummies-for-kids-strawberry-orange-lemon-grape-cherry-and-grapefruit-60-gummies/34007",
+ "pageTitle": "GummiKing, Multi Vitamin + Mineral Gummies for Kids, Strawberry, Orange, Lemon, Grape, Cherry and Grapefruit, 60 Gummies",
+ "h1": "GummiKing, Multi Vitamin + Mineral Gummies for Kids, Strawberry, Orange, Lemon, Grape, Cherry and Grapefruit, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "34007",
+  "name": "GummiKing, Multi Vitamin + Mineral Gummies for Kids, Strawberry, Orange, Lemon, Grape, Cherry and Grapefruit, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/g/54.jpg",
+  "mpn": "GUM-00068",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 34880
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "GummiKing",
+   "url": "http://www.gummiking.com/",
+   "identifier": "GUM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "339.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Gelatin Free Natural Flavors Gluten Free Dietary Supplement Certified Vegan According to Vegan Action Natural and Delicious Flavors GummiKing™ Multi Vitamin + Mineral contains all the necessary vitamins kids need. This delicious and healthy formula has 10 essential vitamins and minerals for complete nutritional support.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "GUM-00068",
+  "gtin12": "835776000684",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Gelatin Free",
+    "Natural Flavors",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Certified Vegan According to Vegan Action",
+    "Natural and Delicious Flavors"
+   ],
+   "paragraphs": [
+    "GummiKing™ Multi Vitamin + Mineral contains all the necessary vitamins kids need. This delicious and healthy formula has 10 essential vitamins and minerals for complete nutritional support."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults and children 2 years of age and over chew two Gummi King gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, citric acid, sodium citrate, natural flavors, fruit and vegetable juices (for color), turmeric (for color), tricalcium phosphate and inulin.",
+    "Free of: Gelatin, wheat (gluten), milk, eggs, soy, tree nuts, peanuts, artificial flavors, animal derivatives and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your doctor before use if you have, or have had, any health condition or if you are taking any medications or remedies, including OTC medications, or are planning any medical procedure. Discontinue use and consult your doctor if any adverse reaction occurs. Not recommended for children under two years of age due to choking. Do not use if the inner seal is broken or missing. Store in a cool, dry place. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "GUM-00068"
+  },
+  {
+   "label": "UPC",
+   "value": "835776000684"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.7 x 6.4 x 6.4 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummi King Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV for Children 2 through 3 Years",
+   "% DV for Adults and Children 4 or more Years"
+  ],
+  [
+   "Calories",
+   "15",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "3%**",
+   "1%*"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "†",
+   "†"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "12%**",
+   "6%*"
+  ],
+  [
+   "Vitamin A (as vitamin A palmitate)",
+   "375 mcg RAE",
+   "125%",
+   "42%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "24 mg",
+   "160%",
+   "27%"
+  ],
+  [
+   "Vitamin D (as ergocalciferol)",
+   "2.5 mcg",
+   "17%",
+   "13%"
+  ],
+  [
+   "Vitamin E (as d-alpha tocopheryl succinate)",
+   "5 mg",
+   "84%",
+   "34%"
+  ],
+  [
+   "Folate",
+   "167 mcg DFE(100 mcg folic acid)",
+   "111%",
+   "42%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "2 mcg",
+   "222%",
+   "83%"
+  ],
+  [
+   "Pantothenic Acid (as calcium pantothenate)",
+   "2.5 mg",
+   "125%",
+   "50%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "38 mcg",
+   "42%",
+   "25%"
+  ],
+  [
+   "Magnesium (as magnesium citrate)",
+   "1 mg",
+   "1%",
+   "<1%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "2 mg",
+   "67%",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%",
+   "<1%"
+  ],
+  [
+   "* Percent Daily Values (DV) are based on a 2,000 calorie diet.** Percent Daily Values (DV) are based on a 1,000 calorie diet.† Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "* Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "** Percent Daily Values (DV) are based on a 1,000 calorie diet.",
+  "† Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummi king gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial flavors",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "Children's Multivitamins",
+   "href": "/c/childrens-multivitamins?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Children's Vitamins",
+   "href": "/c/childrens-vitamins?sr=2"
+  },
+  {
+   "rank": "#13 in",
+   "category": "Children's Health",
+   "href": "/c/childrens-health?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿339.91",
+  "฿339.91",
+  "฿11.33/‏serving",
+  "{0}% off code: {1}",
+  "฿339.91",
+  "Save 0% in cart",
+  "฿11.33/‏serving",
+  "฿339.91",
+  "(0% off)",
+  "฿339.91",
+  "฿11.33/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00068/s/64.jpg"
+ ]
+}

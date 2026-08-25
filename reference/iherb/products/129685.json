@@ -1,0 +1,231 @@
+{
+ "pid": "129685",
+ "slug": "california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133",
+ "scrapedAt": "2026-08-25T17:12:31.593Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "7K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-2.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-3.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-mg-per-capsule/129685",
+ "pageTitle": "California Gold Nutrition, Magnesium Glycinate, 180 Veggie Capsules (133 mg per Capsule)",
+ "h1": "California Gold Nutrition, Magnesium Glycinate, 180 Veggie Capsules (133 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "129685",
+  "name": "California Gold Nutrition, Magnesium Glycinate, 180 Veggie Capsules (133 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/g/30.jpg",
+  "mpn": "SPN-02357",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 2871
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.47",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "862.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition ® Magnesium Glycinate 400 mg of Magnesium Glycinate per serving Convenient 3-Capsule Daily serving Buffered to avoid stomach upset* Formulated Without: Gluten, GMOs, or Soy Suitable for Vegetarians or Vegans Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee California Gold Nutrition ® Magnesium Glycinate contains 400 mg of elemental magnesium per serving (133 mg per capsule) that is bound to the amino acid glycine to ease metabolism. While non-chelated magnesium products may require swallowing 4 capsules every day to get your daily dose, CGN delivers a 400 mg dose in just 3 veggie capsules per day. By streamlining your routine into fewer capsules per day without sacrificing mineral content, CGN offers a more convenient, easy-to-swallow way to support your daily wellness.* Benefits Magnesium is an essential mineral involved in hundreds of routine bodily functions.* Chelated with glycine, Magnesium Glycinate is easier to metabolize, promotes muscle relaxation, and mineral support for bones and teeth.* *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02357",
+  "gtin12": "898220023578",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/g/30.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Magnesium Glycinate",
+    "400 mg of Magnesium Glycinate per serving",
+    "Convenient 3-Capsule Daily serving",
+    "Buffered to avoid stomach upset*",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Suitable for Vegetarians or Vegans",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Magnesium Glycinate contains 400 mg of elemental magnesium per serving (133 mg per capsule) that is bound to the amino acid glycine to ease metabolism. While non-chelated magnesium products may require swallowing 4 capsules every day to get your daily dose, CGN delivers a 400 mg dose in just 3 veggie capsules per day. By streamlining your routine into fewer capsules per day without sacrificing mineral content, CGN offers a more convenient, easy-to-swallow way to support your daily wellness.*",
+    "Benefits",
+    "Magnesium is an essential mineral involved in hundreds of routine bodily functions.* Chelated with glycine, Magnesium Glycinate is easier to metabolize, promotes muscle relaxation, and mineral support for bones and teeth.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 capsules daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02357"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023578"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (from magnesium glycinate)",
+   "400 mg",
+   "95%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "7,500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿862.91",
+  "฿862.91",
+  "฿14.38/‏serving",
+  "{0}% off code: {1}",
+  "฿862.91",
+  "Save 0% in cart",
+  "฿14.38/‏serving",
+  "฿862.91",
+  "(0% off)",
+  "฿862.91",
+  "฿14.38/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/g/30.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/k/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/g/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02357/s/42.jpg"
+ ]
+}

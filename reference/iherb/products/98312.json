@@ -1,0 +1,218 @@
+{
+ "pid": "98312",
+ "slug": "mild-by-nature-detoxifying-clay-bar-soap-5-oz-141-g",
+ "scrapedAt": "2026-08-25T17:45:42.743Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-detoxifying-clay-bar-soap-5-oz-141-g.jpg",
+  "/products/iherb/mild-by-nature-detoxifying-clay-bar-soap-5-oz-141-g-2.jpg",
+  "/products/iherb/mild-by-nature-detoxifying-clay-bar-soap-5-oz-141-g-3.jpg",
+  "/products/iherb/mild-by-nature-detoxifying-clay-bar-soap-5-oz-141-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-detoxifying-clay-bar-soap-5-oz-141-g/98312",
+ "pageTitle": "Mild By Nature, Detoxifying Clay Bar Soap, 5 oz (141 g)",
+ "h1": "Mild By Nature, Detoxifying Clay Bar Soap, 5 oz (141 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "98312",
+  "name": "Mild By Nature, Detoxifying Clay Bar Soap, 5 oz (141 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/g/50.jpg",
+  "mpn": "MBN-01740",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 6672
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "134.57",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "179.43",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild By Nature Detoxifying Clay Soap Cleanse • Detox • Defend Ancient Clay • Eucalyptus • Peppermint Rich Lather • Gentle • Easy Rinsing Rainforest Alliance Certified™ Palm Oil Mild By Nature Soaps feature premium ingredients formulated without the bad stuff...just Soapy Simplicity. Detoxifying Clay Soap is moisturizing and gentle with a rich lather that is easy to rinse. This is a cleansing and detoxifying soap that features Ancient Clay, Eucalyptus and Peppermint. Mild By Nature soaps include Rainforest Alliance Certified™ Palm Oil; “ We envision a world where people and nature thrive in harmony.”",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x1.3"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-01740",
+  "gtin12": "898220017409",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/g/50.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Bath & Shower",
+  "Bar Soap"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild By Nature Detoxifying Clay Soap",
+    "Cleanse • Detox • Defend",
+    "Ancient Clay • Eucalyptus • Peppermint",
+    "Rich Lather • Gentle • Easy Rinsing",
+    "Rainforest Alliance Certified™ Palm Oil"
+   ],
+   "paragraphs": [
+    "Mild By Nature Soaps feature premium ingredients formulated without the bad stuff...just Soapy Simplicity.",
+    "Detoxifying Clay Soap is moisturizing and gentle with a rich lather that is easy to rinse. This is a cleansing and detoxifying soap that features Ancient Clay, Eucalyptus and Peppermint. Mild By Nature soaps include Rainforest Alliance Certified™ Palm Oil; “We envision a world where people and nature thrive in harmony.”"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Excellent for bathing, showering, and shaving. Keep bar dry between each use to extend its useful life."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sodium Palmate, Sodium Cocoate* or Sodium Palm Kernelate, Water (Aqua), Glycerin, Eucalyptus (Eucalyptus globulus) Leaf Oil, Kaolin, Sodium Chloride, Sodium Gluconate, Tetrasodium Glutamate Diacetate, Peppermint (Mentha piperita) Oil.",
+    "*Derived from Coconut Oil.",
+    "Formulated Without: Animal By-Products • Artificial Colors or Fragrances • Gluten • Parabens • Petroleum Derivatives • Phthalates • Sodium Lauryl/Laureth Sulfates"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid contact with eyes. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-01740"
+  },
+  {
+   "label": "UPC",
+   "value": "898220017409"
+  },
+  {
+   "label": "Package quantity",
+   "value": "141 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 7.2 x 3.3 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "141 g"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#8 in",
+   "category": "Bar Soap",
+   "href": "/c/bar-soap?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿179.43",
+  "฿179.43",
+  "฿1.27/‏g",
+  "{0}% off code: {1}",
+  "฿179.43",
+  "Save 25% in cart",
+  "฿1.27/‏g",
+  "฿134.57",
+  "(25% off)",
+  "฿179.43",
+  "฿0.95/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/g/50.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/k/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/g/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01740/s/32.jpg"
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "pid": "119358",
+ "slug": "maryruth-s-organic-kids-multivitamin-postbiotics-gummies-mixed-berry-c",
+ "scrapedAt": "2026-08-25T17:24:05.868Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/maryruth-s-organic-kids-multivitamin-postbiotics-gummies-mixed-berry-c.jpg",
+  "/products/iherb/maryruth-s-organic-kids-multivitamin-postbiotics-gummies-mixed-berry-c-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/maryruth-s-organic-kids-multivitamin-postbiotics-gummies-mixed-berry-cherry-60-gummies/119358",
+ "pageTitle": "MaryRuth's, Organic Kids Multivitamin & Postbiotics Gummies, Mixed Berry & Cherry, 60 Gummies",
+ "h1": "MaryRuth's, Organic Kids Multivitamin & Postbiotics Gummies, Mixed Berry & Cherry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "119358",
+  "name": "MaryRuth's, Organic Kids Multivitamin & Postbiotics Gummies, Mixed Berry & Cherry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/g/32.jpg",
+  "mpn": "MRO-62031",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 268
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MaryRuth's",
+   "url": "https://www.maryruthorganics.com/",
+   "identifier": "MRO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.54",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "691.46",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "USDA Organic Gluten Free Dietary Supplement Certified Organic by CAAE All Ingredients Are Vegan and Non-GMO Multivitamin Gummies + 2 Postbiotic Strains Formulated To Support Children’s Health. Try these delicious vegan gummies with two flavors in one bottle containing some essential nutrients their growing bodies need!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "MRO-62031",
+  "gtin12": "810104620314",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "USDA Organic",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Certified Organic by CAAE",
+    "All Ingredients Are Vegan and Non-GMO"
+   ],
+   "paragraphs": [
+    "Multivitamin Gummies + 2 Postbiotic Strains Formulated To Support Children’s Health. Try these delicious vegan gummies with two flavors in one bottle containing some essential nutrients their growing bodies need!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Ages 4+, take up to 2 gummies daily or as recommended by a physician or healthcare professional. Do not exceed the recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic glucose syrup, organic cane sugar, purified water; less than 2% of: pectin, organic maltodextrin, citric acid, organic sunflower oil, organic vegetable juice color, organic fruit juice color, natural flavors, sodium citrate, and organic carnauba wax.",
+    "This product is made without: Gelatin, peanuts, tree nuts, fish, shellfish, gluten, milk, eggs, soy, sesame, mustard, and sulfites."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "We genuinely care about all our customers. Please consult with a physician or healthcare professional before starting any health supplement, especially if pregnant or lactating, taking medication, or if you have a medical diagnosis. Discontinue use if any negative reaction occurs."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MRO-62031"
+  },
+  {
+   "label": "UPC",
+   "value": "810104620314"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.3 x 6.7 x 6.7 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "5 g",
+   "2%*"
+  ],
+  [
+   "Total Sugars",
+   "4 g",
+   "†"
+  ],
+  [
+   "Includes 4 g Added Sugars",
+   "",
+   "8%*"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "200 mcg",
+   "22%"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid)",
+   "20 mg",
+   "22%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "6 mcg (240 IU)",
+   "30%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopherol Acetate)",
+   "7 mg",
+   "47%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine Hydrochloride)",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate (as Calcium L-5-Methyltetrahydrofolate)",
+   "200 mcg DFE",
+   "50%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin (as D-Biotin)",
+   "6 mcg",
+   "20%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium d-Pantothenate)",
+   "2 mg",
+   "40%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "40 mcg",
+   "27%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "2 mg",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "Bifidobacterium lactis (Inactivated)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Lactobacillus rhamnosus (Inactivated)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿691.46",
+  "฿691.46",
+  "฿23.05/‏serving",
+  "{0}% off code: {1}",
+  "฿691.46",
+  "Save 0% in cart",
+  "฿23.05/‏serving",
+  "฿691.46",
+  "(0% off)",
+  "฿691.46",
+  "฿23.05/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62031/s/37.jpg"
+ ]
+}

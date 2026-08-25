@@ -1,0 +1,244 @@
+{
+ "pid": "143107",
+ "slug": "force-factor-turmeric-curcumin-with-bioperine-90-vegetable-capsules",
+ "scrapedAt": "2026-08-25T17:11:16.790Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "200+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-turmeric-curcumin-with-bioperine-90-vegetable-capsules.jpg",
+  "/products/iherb/force-factor-turmeric-curcumin-with-bioperine-90-vegetable-capsules-2.jpg",
+  "/products/iherb/force-factor-turmeric-curcumin-with-bioperine-90-vegetable-capsules-3.jpg",
+  "/products/iherb/force-factor-turmeric-curcumin-with-bioperine-90-vegetable-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-turmeric-curcumin-with-bioperine-90-vegetable-capsules/143107",
+ "pageTitle": "Force Factor, Turmeric Curcumin with BioPerine®, 90 Vegetable Capsules",
+ "h1": "Force Factor, Turmeric Curcumin with BioPerine®, 90 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143107",
+  "name": "Force Factor, Turmeric Curcumin with BioPerine®, 90 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/g/41.jpg",
+  "mpn": "FOA-66158",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1341
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "685.73",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "1,510 mg Per Serving Supports Healthy Inflammatory Response High Absorption 95% Curcuminoids No Gelatin Non GMO Dietary Supplement Unleash Your Potential® We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-66158",
+  "gtin12": "810126661586",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/g/41.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "1,510 mg Per Serving",
+    "Supports Healthy Inflammatory Response",
+    "High Absorption",
+    "95% Curcuminoids",
+    "No Gelatin",
+    "Non GMO",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Unleash Your Potential®",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 capsules, 1-2 times daily, preferably with a meal and water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose, microcrystalline cellulose, silicon dioxide, vegetable magnesium stearate.",
+    "Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the US from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-66158"
+  },
+  {
+   "label": "UPC",
+   "value": "810126661586"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.4 x 6.4 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Vegetable Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Organic Turmeric (Curcuma longa) Powder (root)",
+   "1,350 mg",
+   "*"
+  ],
+  [
+   "Turmeric (Curcuma longa) Extract (root) (std. to 95% curcuminoids)",
+   "150 mg",
+   "*"
+  ],
+  [
+   "BioPerine® Black Pepper Fruit Extract",
+   "10 mg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 vegetable capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿685.73",
+  "฿685.73",
+  "฿22.86/‏serving",
+  "{0}% off code: {1}",
+  "฿685.73",
+  "Save 0% in cart",
+  "฿22.86/‏serving",
+  "฿685.73",
+  "(0% off)",
+  "฿685.73",
+  "฿22.86/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/g/41.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/k/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/g/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66158/s/54.jpg"
+ ]
+}

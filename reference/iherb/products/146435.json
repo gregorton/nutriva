@@ -1,0 +1,237 @@
+{
+ "pid": "146435",
+ "slug": "vitamatic-liquid-melatonin-natural-berry-2-fl-oz-59-ml",
+ "scrapedAt": "2026-08-25T17:14:00.066Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-liquid-melatonin-natural-berry-2-fl-oz-59-ml.jpg",
+  "/products/iherb/vitamatic-liquid-melatonin-natural-berry-2-fl-oz-59-ml-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-liquid-melatonin-natural-berry-2-fl-oz-59-ml/146435",
+ "pageTitle": "Vitamatic, Liquid Melatonin, Natural Berry, 2 fl oz (59 ml)",
+ "h1": "Vitamatic, Liquid Melatonin, Natural Berry, 2 fl oz (59 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "146435",
+  "name": "Vitamatic, Liquid Melatonin, Natural Berry, 2 fl oz (59 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/g/40.jpg",
+  "mpn": "VMC-47273",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 169
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "393.72",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100% Drug Free GMP - Quality Assured 59 Servings Dietary Supplement Non GMO Max Potency - highest melatonin concentration available in the market per serving. Nighttime Relaxation - Wake up Refreshed. More Bioavailable - Our Melatonin Liquid form supplements are more bio-available than most powders and tablets.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.35x1.3"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47273",
+  "gtin12": "810078472735",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100% Drug Free",
+    "GMP - Quality Assured",
+    "59 Servings",
+    "Dietary Supplement",
+    "Non GMO"
+   ],
+   "paragraphs": [
+    "Max Potency - highest melatonin concentration available in the market per serving.",
+    "Nighttime Relaxation - Wake up Refreshed.",
+    "More Bioavailable - Our Melatonin Liquid form supplements are more bio-available than most powders and tablets."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 16 drops (1 mL) daily 30 minutes before going to bed or as recommended by healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Purified water, vegetable glycerin, citric acid, natural berry flavor, potassium sorbate and sodium benzoate.",
+    "No wheat, no soy, no sugar, no dairy, no fish, no eggs, no shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "This product is only intended to be consumed by healthy individuals over the age of 18 years.",
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Stop use immediately and consult your health care provider if you experience any adverse effects. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle.",
+    "Keep out of the reach of children.",
+    "Store at room temperature and avoid excessive heat.",
+    "Do not use if seal under cap is broken or missing.",
+    "Shake well before using."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47273"
+  },
+  {
+   "label": "UPC",
+   "value": "810078472735"
+  },
+  {
+   "label": "Package quantity",
+   "value": "59 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 3.4 x 3.3 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 mL (16 Drops)"
+  ],
+  [
+   "Servings Per Container: 59"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value+"
+  ],
+  [
+   "Melatonin(as n-Acetyl-5-Methoxytrypyamine)",
+   "20 mg",
+   "+"
+  ],
+  [
+   "+Daily value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value+",
+  "+Daily value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "16 drops"
+    },
+    {
+     "label": "Total servings",
+     "value": "59"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Sugar-free",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 6 left",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿393.72",
+  "฿393.72",
+  "฿6.67/‏serving",
+  "{0}% off code: {1}",
+  "฿393.72",
+  "Save 0% in cart",
+  "฿6.67/‏serving",
+  "฿393.72",
+  "(0% off)",
+  "฿393.72",
+  "฿6.67/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47273/s/45.jpg"
+ ]
+}

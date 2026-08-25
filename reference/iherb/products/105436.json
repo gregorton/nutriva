@@ -1,0 +1,322 @@
+{
+ "pid": "105436",
+ "slug": "sunwarrior-plant-based-beauty-greens-collagen-booster-unflavored-10-6",
+ "scrapedAt": "2026-08-25T17:35:58.444Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sunwarrior-plant-based-beauty-greens-collagen-booster-unflavored-10-6.jpg",
+  "/products/iherb/sunwarrior-plant-based-beauty-greens-collagen-booster-unflavored-10-6-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sunwarrior-plant-based-beauty-greens-collagen-booster-unflavored-10-6-oz-300-g/105436",
+ "pageTitle": "Sunwarrior, Plant Based Beauty Greens Collagen Booster, Unflavored, 10.6 oz (300 g)",
+ "h1": "Sunwarrior, Plant Based Beauty Greens Collagen Booster, Unflavored, 10.6 oz (300 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "105436",
+  "name": "Sunwarrior, Plant Based Beauty Greens Collagen Booster, Unflavored, 10.6 oz (300 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/g/40.jpg",
+  "mpn": "SUW-02840",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 260
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sunwarrior",
+   "url": "http://www.sunwarrior.com/",
+   "identifier": "SUW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.00",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1337.45",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Gut Healthy Probiotics - 2 Billion CFU Per Serving Hyaluronic Acid + Biotin Dietary Supplement Unsweetened Kosher No Hooves No Horns No Hides 1 Vegetable Serving Equivalent Soy Free 0 g Added Sugars Keto Friendly Gluten Free Dairy Free Vegan Get the hydrating ingredients your body can e asily digest and absorb from clean, plant-based sources - with 0 g of added sugar! Why ingest inferior, acidic sources of collagen from the bones, skin, and connective tissues of animals? It's our sustainable inside-out approach! Our mission is to bring you superior plant-based nutrition through sustainable means. Science guides us & nature inspires us. Beauty From The Inside Out Kale & Spinach: Sources of antioxidant Vitamin C to support your body's collagen production. Spirulina: Nutrient-dense superfood. Wheat Grass: A powerhouse of free-radical-fighting and healing compounds that benefit your heart, head, skin, and more. Tremella Mushroom: Rejuvenates and maintains skin elasticity. Promotes cell regeneration. Biotin: Increases growth of cells, promoting the strength of hair, skin, and nails. Silica from Bamboo: Silica from all-natural bamboo extract is a key co-nutrient for healthy bones, teeth, nails, and thick hair. Hyaluronic Acid: Enhances the body's ability to produce and use collagen for smooth, supple skin. Vitamin C from Acerola: Concentrated sources of this mandatory co-factor in collagen synthesis. Minerals: Minerals are essential for collagen I, Il, IV, and elastin regulation.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4x4"
+  },
+  "isRelatedTo": null,
+  "sku": "SUW-02840",
+  "gtin12": "814784028408",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Gut Healthy Probiotics - 2 Billion CFU Per Serving",
+    "Hyaluronic Acid + Biotin",
+    "Dietary Supplement",
+    "Unsweetened",
+    "Kosher",
+    "No Hooves",
+    "No Horns",
+    "No Hides",
+    "1 Vegetable Serving Equivalent",
+    "Soy Free",
+    "0 g Added Sugars",
+    "Keto Friendly",
+    "Gluten Free",
+    "Dairy Free",
+    "Vegan"
+   ],
+   "paragraphs": [
+    "Get the hydrating ingredients your body can easily digest and absorb from clean, plant-based sources - with 0 g of added sugar! Why ingest inferior, acidic sources of collagen from the bones, skin, and connective tissues of animals? It's our sustainable inside-out approach!",
+    "Our mission is to bring you superior plant-based nutrition through sustainable means. Science guides us & nature inspires us.",
+    "Beauty From The Inside Out",
+    "Kale & Spinach: Sources of antioxidant Vitamin C to support your body's collagen production.",
+    "Spirulina: Nutrient-dense superfood.",
+    "Wheat Grass: A powerhouse of free-radical-fighting and healing compounds that benefit your heart, head, skin, and more.",
+    "Tremella Mushroom: Rejuvenates and maintains skin elasticity. Promotes cell regeneration.",
+    "Biotin: Increases growth of cells, promoting the strength of hair, skin, and nails.",
+    "Silica from Bamboo: Silica from all-natural bamboo extract is a key co-nutrient for healthy bones, teeth, nails, and thick hair.",
+    "Hyaluronic Acid: Enhances the body's ability to produce and use collagen for smooth, supple skin.",
+    "Vitamin C from Acerola: Concentrated sources of this mandatory co-factor in collagen synthesis.",
+    "Minerals: Minerals are essential for collagen I, Il, IV, and elastin regulation."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix, shake, or blend 1 scoop with 10 oz of your favorite beverage. Refrigerate and use prepared product same day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic coconut water powder, organic wheat grass juice, organic greens blend (organic kale leaf, organic spinach leaf, organic whole spirulina), organic sea buckthorn berry, organic tremella mushroom extract, organic lemon juice, vitamin c (from organic acerola juice powder), hyaluronic acid, silica (from organic bamboo shoot extract), organic phytoserv® veggie blend (organic onion extract, organic beet, organic spinach, organic broccoli, organic carrot), bacillus subtilis (de111®), biotin (from organic holy basil leaf extract & organic sunflower seed kernel extract).",
+    "Contains: Tree nuts (coconut)",
+    "Manufactured in the United States from US and imported ingredients"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your physician before beginning a dietary regimen containing this product. Keep out of the reach of children. If you are nursing, pregnant, or considering pregnancy, consult your healthcare professional prior to using this product.",
+    "Keep package out of direct light and away from heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.45 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SUW-02840"
+  },
+  {
+   "label": "UPC",
+   "value": "814784028408"
+  },
+  {
+   "label": "Package quantity",
+   "value": "300 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.3 x 10.2 x 10.2 cm, 0.45 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: About 1 scoop (12 g)"
+  ],
+  [
+   "Servings Per Container: 25"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "9 g",
+   "3%**"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%**"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "†"
+  ],
+  [
+   "Incl. 0 g Added Sugars",
+   "",
+   "0%**"
+  ],
+  [
+   "Protein",
+   "1 g",
+   ""
+  ],
+  [
+   "Vitamin C",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Calcium",
+   "30 mg",
+   "2%"
+  ],
+  [
+   "Iron",
+   "0.8 mg",
+   "4%"
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "1%"
+  ],
+  [
+   "Potassium",
+   "170 mg",
+   "4%"
+  ],
+  [
+   "Hyaluronic Acid",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Silica",
+   "45 mg",
+   "†"
+  ],
+  [
+   "Bacillus subtilis (DE111®)",
+   "20 mg (2 Billion CFU)",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "25"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Ketogenic diet",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,337.45",
+  "฿1,337.45",
+  "฿53.50/‏serving",
+  "{0}% off code: {1}",
+  "฿1,337.45",
+  "Save 0% in cart",
+  "฿53.50/‏serving",
+  "฿1,337.45",
+  "(0% off)",
+  "฿1,337.45",
+  "฿53.50/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02840/b/40.jpg"
+ ]
+}

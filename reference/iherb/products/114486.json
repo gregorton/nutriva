@@ -1,0 +1,305 @@
+{
+ "pid": "114486",
+ "slug": "force-factor-better-turmeric-curcumin-superfoods-fruit-splash-60-soft",
+ "scrapedAt": "2026-08-25T17:19:36.409Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "100+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-better-turmeric-curcumin-superfoods-fruit-splash-60-soft.jpg",
+  "/products/iherb/force-factor-better-turmeric-curcumin-superfoods-fruit-splash-60-soft-2.jpg",
+  "/products/iherb/force-factor-better-turmeric-curcumin-superfoods-fruit-splash-60-soft-3.jpg",
+  "/products/iherb/force-factor-better-turmeric-curcumin-superfoods-fruit-splash-60-soft-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-better-turmeric-curcumin-superfoods-fruit-splash-60-soft-chews/114486",
+ "pageTitle": "Force Factor, Better Turmeric®, Curcumin + Superfoods, Fruit Splash, 60 Soft Chews",
+ "h1": "Force Factor, Better Turmeric®, Curcumin + Superfoods, Fruit Splash, 60 Soft Chews",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "114486",
+  "name": "Force Factor, Better Turmeric®, Curcumin + Superfoods, Fruit Splash, 60 Soft Chews",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/g/47.jpg",
+  "mpn": "FOA-01736",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 213
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.75",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "700.25",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Extra Strength +329% Superior Absorption 400 mg Total Turmeric Per Serving Dietary Supplement With Other Natural Flavors No Artificial Dyes No Artificial Sweeteners No Gelatin Made w/o Dairy Made w/o Soy Gluten Free Vegetarian Support: Inflammatory Response Joint Health Cellular Energy Immune Function A Better Way to Support Joint Health Turmeric has been used for centuries for its active ingredient, curcumin, which supports a healthy inflammatory response. The trouble is, too many turmeric supplements use low quality curcumin extracts that aren't easily absorbed, and often do very little to help support joint health. Lucky for you, there's Better Turmeric®. Better Turmeric contains HydroCurc®, one of the most bioavailable sources of curcumin in the industry. This scientifically advanced extract delivers the highest level of curcuminoids - the natural compounds in curcumin that support joint health. With added vitamin D for immune health, and B vitamins to boost cellular energy, just two soft chews per day is all it takes to support your joint health and flexibility in the most delicious way imaginable. We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it. Let Force Factor help Unleash Your Potential®.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.55x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-01736",
+  "gtin12": "818594017362",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/g/47.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Extra Strength",
+    "+329% Superior Absorption",
+    "400 mg Total Turmeric Per Serving",
+    "Dietary Supplement",
+    "With Other Natural Flavors",
+    "No Artificial Dyes",
+    "No Artificial Sweeteners",
+    "No Gelatin",
+    "Made w/o Dairy",
+    "Made w/o Soy",
+    "Gluten Free",
+    "Vegetarian",
+    "Inflammatory Response",
+    "Joint Health",
+    "Cellular Energy",
+    "Immune Function"
+   ],
+   "paragraphs": [
+    "Support:",
+    "A Better Way to Support Joint Health",
+    "Turmeric has been used for centuries for its active ingredient, curcumin, which supports a healthy inflammatory response. The trouble is, too many turmeric supplements use low quality curcumin extracts that aren't easily absorbed, and often do very little to help support joint health. Lucky for you, there's Better Turmeric®.",
+    "Better Turmeric contains HydroCurc®, one of the most bioavailable sources of curcumin in the industry. This scientifically advanced extract delivers the highest level of curcuminoids - the natural compounds in curcumin that support joint health.",
+    "With added vitamin D for immune health, and B vitamins to boost cellular energy, just two soft chews per day is all it takes to support your joint health and flexibility in the most delicious way imaginable.",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it. Let Force Factor help Unleash Your Potential®."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Enjoy 2 soft chews daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Tapioca syrup, raw cane sugar, natural flavors, gum arabic, palm oil, sunflower lecithin (an emulsifier), fruit and vegetable juice (color), citric acid, sea salt.",
+    "Allergen Warning: Manufactured by equipment which processes products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the U.S. from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.34 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-01736"
+  },
+  {
+   "label": "UPC",
+   "value": "818594017362"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.1 x 9 x 7.7 cm, 0.34 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Soft Chews"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%*"
+  ],
+  [
+   "Total Carbohydrate",
+   "9 g",
+   "3%*"
+  ],
+  [
+   "Total Sugars",
+   "5 g",
+   "‡"
+  ],
+  [
+   "Includes 5 g Added Sugars",
+   "",
+   "10%*"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "20 mcg (800 IU)",
+   "100%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha Tocopherol Acetate)",
+   "5 mg",
+   "33%"
+  ],
+  [
+   "Niacin",
+   "5 mg",
+   "31%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCl)",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "10 mcg",
+   "417%"
+  ],
+  [
+   "Sodium",
+   "25 mg",
+   "1%"
+  ],
+  [
+   "Better Turmeric™ Optimal Absorption MatrixHydroCurc® Turmeric (Curcuma longa) Extract (rhizomes and/or root) (std. to 85% curcuminoids), Turmeric (Curcuma longa) Extract (root or rhizomes), Tart Cherry (Prunus cerasus) Extract (fruit), Bromelain, Ginger (Zingiber officinale) Extract (root or rhizomes), Garlic (Allium sativum) Extract (bulb), BioPerine® Black Pepper Fruit Extract",
+   "600 mg",
+   "‡"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.‡Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "‡Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 soft chews"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿700.25",
+  "฿700.25",
+  "฿23.34/‏serving",
+  "{0}% off code: {1}",
+  "฿700.25",
+  "Save 0% in cart",
+  "฿23.34/‏serving",
+  "฿700.25",
+  "(0% off)",
+  "฿700.25",
+  "฿23.34/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/g/47.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/k/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/g/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/s/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/s/7.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa01736/s/49.jpg"
+ ]
+}

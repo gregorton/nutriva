@@ -1,0 +1,261 @@
+{
+ "pid": "142223",
+ "slug": "ancient-nutrition-menopause-support-probiotics-50-billion-cfu-60-capsu",
+ "scrapedAt": "2026-08-25T17:03:50.181Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/ancient-nutrition-menopause-support-probiotics-50-billion-cfu-60-capsu.jpg",
+  "/products/iherb/ancient-nutrition-menopause-support-probiotics-50-billion-cfu-60-capsu-2.jpg",
+  "/products/iherb/ancient-nutrition-menopause-support-probiotics-50-billion-cfu-60-capsu-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/ancient-nutrition-menopause-support-probiotics-50-billion-cfu-60-capsules/142223",
+ "pageTitle": "Ancient Nutrition, Menopause Support Probiotics, 50 Billion CFU, 60 Capsules",
+ "h1": "Ancient Nutrition, Menopause Support Probiotics, 50 Billion CFU, 60 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142223",
+  "name": "Ancient Nutrition, Menopause Support Probiotics, 50 Billion CFU, 60 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/g/20.jpg",
+  "mpn": "ATN-02071",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 32
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Ancient Nutrition",
+   "url": "http://ancientnutrition.com/",
+   "identifier": "ATN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "1062.26",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1770.44",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Regenerative Organic Certified SBO Probiotics 50 Billion CFU¹ USDA Organic RO Bronze - Regenerative Organic Certified Whole Food Dietary Supplement 95% Ancient Farmed Made without Gluten, Dairy, Soy Certified B Corporation Certified Organic by CCOF Non-GMO & More Benefit Supports digestion and promotes healthy bones. Key Ingredients Clinically studied probiotics including resilient SBOs (Soil Based Organisms) that survive and thrive in the harsh conditions of the gut. Also featuring prebiotics (fuel for probiotics) and postbiotics (beneficial byproducts). Formulated With 30 Probiotic strains including proprietary Bacillus subtilis AB22.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.6x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "ATN-02071",
+  "gtin12": "816421020714",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/g/20.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Regenerative Organic Certified",
+    "SBO Probiotics 50 Billion CFU¹",
+    "USDA Organic",
+    "RO Bronze - Regenerative Organic Certified",
+    "Whole Food Dietary Supplement",
+    "95% Ancient Farmed",
+    "Made without Gluten, Dairy, Soy",
+    "Certified B Corporation",
+    "Certified Organic by CCOF",
+    "Non-GMO & More"
+   ],
+   "paragraphs": [
+    "Benefit",
+    "Supports digestion and promotes healthy bones.",
+    "Key Ingredients",
+    "Clinically studied probiotics including resilient SBOs (Soil Based Organisms) that survive and thrive in the harsh conditions of the gut. Also featuring prebiotics (fuel for probiotics) and postbiotics (beneficial byproducts).",
+    "Formulated With 30 Probiotic strains including proprietary Bacillus subtilis AB22."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 2 capsules per day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic pullulan, organic apple cider vinegar.",
+    "Produced on equipment that also processes peanuts, tree nuts, milk, soybean, wheat, sesame, shellfish, egg, fish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, allergic, have a medical condition, or taking any medications, consult a doctor before using this or any other dietary supplement. Do not use if inner safety seal is broken or missing. Keep out of reach of children. Color and odor may vary from lot to lot. Store in a cool, dry place. Best if refrigerated.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ATN-02071"
+  },
+  {
+   "label": "UPC",
+   "value": "816421020714"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.8 x 9.1 x 6.4 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol from Organic Saccharomyces cerevisiae)",
+   "16.3 mcg (652 IU)",
+   "81%"
+  ],
+  [
+   "Superfood BlendRegenerative Organic Certified® Reishi Mushroom Mycelium, Regenerative Orgainc Certified® Chaga (Inonotus obliquus) Mycelium, Organic Fermented Black Cohosh Root.",
+   "1.6 g",
+   "+"
+  ],
+  [
+   "Probiotic BlendBacillus subtilis AB22, Bacillus coagulans, Saccharomyces boulardii, Lactobacillus acidophilus, Lactobacillus plantarum, Lactobacillus casei, Lactobacillus paracasei, Lactobacillus rhamnosus, Lactobacillus crispatus, Lactobacillus bulgaricus, Lactobacillus reuteri, Lactobacillus fermentum, Lactobacillus salivarius, Lactobacillus helveticus, Lactobacillus gasseri, Lactobacillus brevis, Lactobacillus sakei, Lactobacillus johnsonii, Lactobacillus genseni, Lactobacillus amylovorus, Bifidobacterium lactis, Bifidobacterium bifidum, Bifidobacterium breve, Bifidobacterium longum, Bifidobacterium infantis, Bifidobacterium animalis, Bifidobacterium adolescentis, Streptococcus thermophilus, Streptococcus salivarius, Lactococcus lactis subsp. lactis.",
+   "62 mg (50 Billion CFU¹)",
+   "+"
+  ],
+  [
+   "+ Daily Value not established.¹At Expiration Date under recommended storage conditions.*Excludes capsule and probiotic cultures."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "+ Daily Value not established.",
+  "*Excludes capsule and probiotic cultures."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 9 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,770.44",
+  "฿1,770.44",
+  "฿59.01/‏serving",
+  "{0}% off code: {1}",
+  "฿1,770.44",
+  "Save 40% in cart",
+  "฿59.01/‏serving",
+  "฿1,062.26",
+  "(40% off)",
+  "Clearance sale",
+  "When products near the end of their shelf life with us, we can offer them to you at the steepest discount. Same quality, now at the lowest price.Discount reflects the \"Best by” date. This product is non-returnable.",
+  "฿1,770.44"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/g/20.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/k/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/g/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02071/s/12.jpg"
+ ]
+}

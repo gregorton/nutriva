@@ -1,0 +1,222 @@
+{
+ "pid": "116502",
+ "slug": "mild-by-nature-nature-s-gate-herbal-shampoo-for-normal-hair-16-fl-oz-4",
+ "scrapedAt": "2026-08-25T17:47:41.771Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-nature-s-gate-herbal-shampoo-for-normal-hair-16-fl-oz-4.jpg",
+  "/products/iherb/mild-by-nature-nature-s-gate-herbal-shampoo-for-normal-hair-16-fl-oz-4-2.jpg",
+  "/products/iherb/mild-by-nature-nature-s-gate-herbal-shampoo-for-normal-hair-16-fl-oz-4-3.jpg",
+  "/products/iherb/mild-by-nature-nature-s-gate-herbal-shampoo-for-normal-hair-16-fl-oz-4-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-nature-s-gate-herbal-shampoo-for-normal-hair-16-fl-oz-473-ml/116502",
+ "pageTitle": "Mild By Nature, (Nature's Gate), Herbal Shampoo for Normal Hair, 16 fl oz (473 ml)",
+ "h1": "Mild By Nature, (Nature's Gate), Herbal Shampoo for Normal Hair, 16 fl oz (473 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "116502",
+  "name": "Mild By Nature, (Nature's Gate), Herbal Shampoo for Normal Hair, 16 fl oz (473 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/g/62.jpg",
+  "mpn": "MBN-02247",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.4,
+   "reviewCount": 4219
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "322.97",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "430.63",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild by Nature Nature’s Gate Shampoo for Normal Hair Formulated with Herbs to Gently Cleanse and Nourish Normal Hair Featuring Sage, Lavender, and Rosemary With Clean, Natural Ingredients – No Artificial Colors Vegan and Cruelty Free No Nasties – Paraben Free • Gluten Free • Soy Free • Phthalate Free Formulated with Mild Ingredients for the Comfort of the Entire Family We’re excited to share that Nature’s Gate is now a part of the Mild by Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products. Normal hair has a good balance of natural oils, so it’s important to invest in haircare to help retain this balance. Mild by Nature Nature’s Gate Shampoo for Normal Hair is formulated specifically for this, with a balancing blend of herbs and botanicals. This perfect harmony of mild cleansers and soothing plant extracts will help keep moisture and oils at the right levels for happy and healthy hair. Our unique formula comes from natural beginnings, focusing on herbs and botanical ingredients. Lavender helps to gently cleanse hair, while also lending a relaxing aroma experience. Extracts from sage and rosemary help to nourish the scalp to prevent dryness. It’s the ideal balanced blend for normal hair. Mild by Nature Nature’s Gate Shampoo for Normal Hair pairs with our Conditioner for Normal Hair as a healthy way to care for your hair with clean, natural ingredients. Strike the perfect balance for your hair by using this combo daily.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02247",
+  "gtin12": "898220022472",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Hair Care",
+  "Shampoo"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild by Nature Nature’s Gate Shampoo for Normal Hair",
+    "Formulated with Herbs to Gently Cleanse and Nourish Normal Hair",
+    "Featuring Sage, Lavender, and Rosemary",
+    "With Clean, Natural Ingredients – No Artificial Colors",
+    "Vegan and Cruelty Free",
+    "No Nasties – Paraben Free • Gluten Free • Soy Free • Phthalate Free",
+    "Formulated with Mild Ingredients for the Comfort of the Entire Family"
+   ],
+   "paragraphs": [
+    "We’re excited to share that Nature’s Gate is now a part of the Mild by Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products.",
+    "Normal hair has a good balance of natural oils, so it’s important to invest in haircare to help retain this balance. Mild by Nature Nature’s Gate Shampoo for Normal Hair is formulated specifically for this, with a balancing blend of herbs and botanicals. This perfect harmony of mild cleansers and soothing plant extracts will help keep moisture and oils at the right levels for happy and healthy hair.",
+    "Our unique formula comes from natural beginnings, focusing on herbs and botanical ingredients. Lavender helps to gently cleanse hair, while also lending a relaxing aroma experience. Extracts from sage and rosemary help to nourish the scalp to prevent dryness. It’s the ideal balanced blend for normal hair.",
+    "Mild by Nature Nature’s Gate Shampoo for Normal Hair pairs with our Conditioner for Normal Hair as a healthy way to care for your hair with clean, natural ingredients. Strike the perfect balance for your hair by using this combo daily."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Massage a generous amount of shampoo gently into wet hair and scalp. Work into rich lather. Rinse thoroughly. For best results, follow with Nature’s Gate Herbal Conditioner. May be used daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Cocamidopropyl Hydroxysultaine, Sodium Cocoyl Isethionate, Disodium Cocoamphodiacetate, Glycerin, Panthenol, Simmondsia Chinensis (Jojoba) Seed Oil, Borago Officinalis (Borage) Seed Oil, Tocopherol, Ascorbic Acid, Achillea Millefolium (Yarrow) Extract, Chamomilla Recutita (Matricaria) Flower Extract, Lavandula Angustifolia (Lavender) Flower Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Salvia Officinalis (Sage) Leaf Extract, Urtica Dioica (Nettle) Extract, Prunus Serotina (Wild Cherry) Bark Extract, Thymus Vulgaris (Thyme) Leaf Extract, Ascorbyl Palmitate, Guar Hydroxypropyltrimonium Chloride, Leuconostoc/ Radish Root Ferment Filtrate, Polysorbate 20, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Glyceryl Undecylenate, Phenoxyethanol, Citric Acid, Fragrance *, Tocopheryl Acetate, Benzyl Benzoate, Coumarin, Eugenol.",
+    "* Phthalate Free",
+    "Vegan • Paraben Free • Gluten Free • Soy Free • Cruelty Free",
+    "NO – Sodium Lauryl/Laureth/Coco Sulfates, Phthalates, Butylene Glycol, Artificial Colors"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid direct contact with eyes."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02247"
+  },
+  {
+   "label": "UPC",
+   "value": "898220022472"
+  },
+  {
+   "label": "Package quantity",
+   "value": "473 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.2 x 6.2 x 6.1 cm, 0.54 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "473 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Halal",
+    "Gluten-free",
+    "Cruelty-free",
+    "Soy-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿430.63",
+  "฿430.63",
+  "฿0.91/‏ml",
+  "{0}% off code: {1}",
+  "฿430.63",
+  "Save 25% in cart",
+  "฿0.91/‏ml",
+  "฿322.97",
+  "(25% off)",
+  "฿430.63",
+  "฿0.68/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02247/b/62.jpg"
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "pid": "142755",
+ "slug": "micro-ingredients-multi-collagen-peptides-unflavored-2-lb-907-g",
+ "scrapedAt": "2026-08-25T17:11:16.768Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-multi-collagen-peptides-unflavored-2-lb-907-g.jpg",
+  "/products/iherb/micro-ingredients-multi-collagen-peptides-unflavored-2-lb-907-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-multi-collagen-peptides-unflavored-2-lb-907-g/142755",
+ "pageTitle": "Micro Ingredients, Multi Collagen Peptides, Unflavored, 2 lb (907 g)",
+ "h1": "Micro Ingredients, Multi Collagen Peptides, Unflavored, 2 lb (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142755",
+  "name": "Micro Ingredients, Multi Collagen Peptides, Unflavored, 2 lb (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/g/10.jpg",
+  "mpn": "MII-61649",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1826
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.06",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1780.01",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Type I, II, III, V, X With Biotin, Vitamin C, Hyaluronic Acid GMO Free Pasture Raised Grass Fed Dietary Supplement Stay Healthy Love Nature Quality Assured Contains bovine-derived ingredients Why Micro Ingredients collagen peptides? Introducing our potent multi-collagen protein powder blend of five collagen types (I, II, III, V, X), along with biotin, hyaluronic acid, and vitamin c sourced from ethically raised, grass-fed, pasture-raised animals. This unflavored protein supplement, designed for seamless integration into any diet, provides comprehensive support for hair, skin, nails, joints, and overall health. With a commitment to quality, our collagen undergoes rigorous testing for purity, potency, and safety. Choose our multi-collagen protein for sustainable, comprehensive collagen support. Two Scoops Powder Offers the Same Potency as Sixteen Regular △ Capsules △ Compared to regular collagen capsules. Regular collagen capsules are defines as collagens in powder-filled capsules.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.25x4.15"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-61649",
+  "gtin12": "850015616495",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/g/10.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Type I, II, III, V, X",
+    "With Biotin, Vitamin C, Hyaluronic Acid",
+    "GMO Free",
+    "Pasture Raised",
+    "Grass Fed",
+    "Dietary Supplement",
+    "Stay Healthy",
+    "Love Nature",
+    "Quality Assured",
+    "Contains bovine-derived ingredients"
+   ],
+   "paragraphs": [
+    "Why Micro Ingredients collagen peptides?",
+    "Introducing our potent multi-collagen protein powder blend of five collagen types (I, II, III, V, X), along with biotin, hyaluronic acid, and vitamin c sourced from ethically raised, grass-fed, pasture-raised animals. This unflavored protein supplement, designed for seamless integration into any diet, provides comprehensive support for hair, skin, nails, joints, and overall health. With a commitment to quality, our collagen undergoes rigorous testing for purity, potency, and safety. Choose our multi-collagen protein for sustainable, comprehensive collagen support.",
+    "Two Scoops Powder Offers the Same Potency as Sixteen Regular△ Capsules",
+    "△Compared to regular collagen capsules. Regular collagen capsules are defines as collagens in powder-filled capsules."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take 2 scoops daily. For best results, please consult your physician.",
+    "Scoop included inside pouch."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "Free of: Soy, dairy, gluten & tree nuts.",
+    "​Contains: Eggs and fish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Keep in a cool dry place.",
+    "Collagen is not a complete protein. Do not use it to replace dietary protein for other dietary needs.",
+    "If pregnant / lactating or taking any medications, please consult you physician prior to use.",
+    "Risk of cancer and reproductive harm from exposure to lead. Prop 65."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.93 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-61649"
+  },
+  {
+   "label": "UPC",
+   "value": "850015616495"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "23.6 x 18.4 x 10.5 cm, 0.93 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 scoops (11 g approx.)"
+  ],
+  [
+   "Servings Per Container: 82"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   "<1%**"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "55 mg",
+   "61%"
+  ],
+  [
+   "Biotin (as d-biotin)",
+   "2,500 mcg",
+   "8,333%"
+  ],
+  [
+   "Sodium",
+   "44 mg",
+   "2%"
+  ],
+  [
+   "Multi Collagen ComplexHydrolyzed Bovine Collagen Peptides, Hydrolyzed Fish Collagen Peptides, Chicken Bone Broth Protein Concentrate, Eggshell Membrane Collagen",
+   "10,880 mg",
+   "†"
+  ],
+  [
+   "Hyaluronic Acid (as sodium hyaluronate)",
+   "55 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "82"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "454 g",
+   "pid": "156450",
+   "url": "https://th.iherb.com/pr/micro-ingredients-multi-collagen-peptides-unflavored-1-lb-454-g/156450",
+   "price": "฿1,234.46",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "907 g",
+   "pid": "142755",
+   "url": "https://th.iherb.com/pr/micro-ingredients-multi-collagen-peptides-unflavored-2-lb-907-g/142755",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "226 g",
+   "pid": "160280",
+   "url": "https://th.iherb.com/pr/micro-ingredients-multi-collagen-peptides-unflavored-8-oz-227-g/160280",
+   "price": "฿834.07",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "40 count",
+   "pid": "160281",
+   "url": "https://th.iherb.com/pr/micro-ingredients-multi-collagen-peptides-unflavored-40-packets-0-39-oz-11-g-each/160281",
+   "price": "฿1,423.01",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#21 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,780.01",
+  "฿1,780.01",
+  "฿21.71/‏serving",
+  "{0}% off code: {1}",
+  "฿1,780.01",
+  "Save 0% in cart",
+  "฿21.71/‏serving",
+  "฿1,780.01",
+  "(0% off)",
+  "฿1,780.01",
+  "฿21.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/g/10.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/k/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/g/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61649/s/11.jpg"
+ ]
+}

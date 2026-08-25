@@ -1,0 +1,248 @@
+{
+ "pid": "98032",
+ "slug": "doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps",
+ "scrapedAt": "2026-08-25T17:34:12.405Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps.jpg",
+  "/products/iherb/doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps-2.jpg",
+  "/products/iherb/doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps-3.jpg",
+  "/products/iherb/doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps/98032",
+ "pageTitle": "Doctor's Best, Fully Active B12, 1,500 mcg, 180 Veggie Caps",
+ "h1": "Doctor's Best, Fully Active B12, 1,500 mcg, 180 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "98032",
+  "name": "Doctor's Best, Fully Active B12, 1,500 mcg, 180 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/g/48.jpg",
+  "mpn": "DRB-00516",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 28887
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.11",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "519.71",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Energy, Memory, & Mood Support Dietary Supplement Non-GMO / Gluten Free / Soy Free / Vegan At Doctor's Best, we value the science of energy. Our unique formula contains methylcobalamin, a bioactive form of vitamin B12 crucial for energy production. This active B12 is readily absorbed, aiding in the maintenance of healthy nerve cells, supporting red blood cell formation, and contributing to overall neurological function in the body. Supports mood, memory, and energy Supports red blood cell formation",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00516",
+  "gtin12": "753950005167",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin B",
+  "Vitamin B12 (Cobalamin)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Energy, Memory, & Mood Support",
+    "Dietary Supplement",
+    "Non-GMO / Gluten Free / Soy Free / Vegan",
+    "Supports mood, memory, and energy",
+    "Supports red blood cell formation"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we value the science of energy. Our unique formula contains methylcobalamin, a bioactive form of vitamin B12 crucial for energy production. This active B12 is readily absorbed, aiding in the maintenance of healthy nerve cells, supporting red blood cell formation, and contributing to overall neurological function in the body."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 capsule daily with a meal, or as recommended by a nutritionally-informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose (vegetarian capsule)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00516"
+  },
+  {
+   "label": "UPC",
+   "value": "753950005167"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.8 x 5.2 x 5.1 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "Servings Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "1,500 mcg",
+   "62500%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "46876",
+   "url": "https://th.iherb.com/pr/doctor-s-best-fully-active-b12-1-500-mcg-60-veggie-caps/46876",
+   "price": "฿212.61",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "98032",
+   "url": "https://th.iherb.com/pr/doctor-s-best-fully-active-b12-1-500-mcg-180-veggie-caps/98032",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿519.71",
+  "฿519.71",
+  "฿2.89/‏serving",
+  "{0}% off code: {1}",
+  "฿519.71",
+  "Save 0% in cart",
+  "฿2.89/‏serving",
+  "฿519.71",
+  "(0% off)",
+  "฿519.71",
+  "฿2.89/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00516/s/62.jpg"
+ ]
+}

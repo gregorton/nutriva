@@ -1,0 +1,363 @@
+{
+ "pid": "117102",
+ "slug": "sunwarrior-sport-organic-active-protein-powder-vanilla-2-2-lb-1-kg",
+ "scrapedAt": "2026-08-25T17:15:16.703Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sunwarrior-sport-organic-active-protein-powder-vanilla-2-2-lb-1-kg.jpg",
+  "/products/iherb/sunwarrior-sport-organic-active-protein-powder-vanilla-2-2-lb-1-kg-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sunwarrior-sport-organic-active-protein-powder-vanilla-2-2-lb-1-kg/117102",
+ "pageTitle": "Sunwarrior, Sport, Organic Active Protein Powder, Vanilla, 2.2 lb (1 kg)",
+ "h1": "Sunwarrior, Sport, Organic Active Protein Powder, Vanilla, 2.2 lb (1 kg)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "117102",
+  "name": "Sunwarrior, Sport, Organic Active Protein Powder, Vanilla, 2.2 lb (1 kg)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/g/24.jpg",
+  "mpn": "SUW-02983",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 339
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sunwarrior",
+   "url": "http://www.sunwarrior.com/",
+   "identifier": "SUW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.60",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1653.52",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Plant Based Informed Choice - We Test You Trust Regularly Tested for Banned Substances Support 30 g Protein¹ + Recover 5 g BCAAs¹ + Optimize Minerals² USDA Organic Dietary Supplement Flavor with Other Natural Flavors Kosher Certified Organic by CCOF Organic is Non-GMO & More 0 g Added Sugars Soy Free Dairy Free Non GMO Welcome! To Active Nutrition You depend on your body, and your body's performance depends on the fuel you feed it. Our clean protein assists and repairs muscle while replenishing vital minerals. Active protein is where high energy and high quality meet to accomplish the incredible. Real nutrition for real sports. Our mission to bring you superior plant-based nutrition through sustainable means. Science guides us & nature inspires us created with light, energy & love to fuel your journey! Support · Recover · Optimize Clean. It's how you play the game. And Sunwarrior Sport brings you clean Active Protein. Designed to power your performance while amplifying recovery from the tip-off to the net, taking you to the finish line, empowering you to actively embrace your future and push past perceived limits. Supports Repair Muscle Amino Acids & BCAAS (Naturally Occurring) 30g Organic Plant-Based Protein¹ Protein from Peas, Brown Rice & Pumpkin Seeds Recovery BCAAS (Naturally Occurring) Tart Cherry Maca Turmeric Black Pepper Probiotic & Enzyme Blend Probiotic - DE111® 1 Billion CFU¹ Enzymes - Bromelain and Papain Mineral Blend Aquamin®, Sea Salt Good Source of Sodium ¹Per 2 Scoop Serving ²Good Source of Sodium",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.8x4.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SUW-02983",
+  "gtin12": "814784029832",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Plant Based Protein",
+  "Plant Based Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Plant Based",
+    "Informed Choice - We Test You Trust",
+    "Regularly Tested for Banned Substances",
+    "Support 30 g Protein¹ + Recover 5 g BCAAs¹ + Optimize Minerals²",
+    "USDA Organic",
+    "Dietary Supplement",
+    "Flavor with Other Natural Flavors",
+    "Kosher",
+    "Certified Organic by CCOF",
+    "Organic is Non-GMO & More",
+    "0 g Added Sugars",
+    "Soy Free",
+    "Dairy Free",
+    "Non GMO",
+    "Amino Acids & BCAAS (Naturally Occurring)",
+    "30g Organic Plant-Based Protein¹",
+    "Protein from Peas, Brown Rice & Pumpkin Seeds",
+    "BCAAS (Naturally Occurring)",
+    "Tart Cherry",
+    "Maca",
+    "Turmeric",
+    "Black Pepper",
+    "Probiotic - DE111® 1 Billion CFU¹",
+    "Enzymes - Bromelain and Papain",
+    "Aquamin®, Sea Salt",
+    "Good Source of Sodium"
+   ],
+   "paragraphs": [
+    "Welcome! To Active Nutrition",
+    "You depend on your body, and your body's performance depends on the fuel you feed it. Our clean protein assists and repairs muscle while replenishing vital minerals. Active protein is where high energy and high quality meet to accomplish the incredible. Real nutrition for real sports.",
+    "Our mission to bring you superior plant-based nutrition through sustainable means. Science guides us & nature inspires us created with light, energy & love to fuel your journey!",
+    "Support · Recover · Optimize",
+    "Clean. It's how you play the game. And Sunwarrior Sport brings you clean Active Protein. Designed to power your performance while amplifying recovery from the tip-off to the net, taking you to the finish line, empowering you to actively embrace your future and push past perceived limits.",
+    "Supports Repair Muscle",
+    "Recovery",
+    "Probiotic & Enzyme Blend",
+    "Mineral Blend",
+    "¹Per 2 Scoop Serving",
+    "²Good Source of Sodium"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix, shake, or blend 2 scoops with 16-20 oz of your favorite beverage. Refrigerate and use prepared product same day. Keep package out of direct light and away from heat."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic flavor, organic medium-chain triglycerides oil, organic coconut milk powder, organic guar gum, organic steviol glycosides (rebaudioside A), organic cinnamon powder.",
+    "Contains: Tree nuts (coconut).",
+    "Maufactured in the United States from US and imported ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your physician before beginning a dietary regimen containing this product. Keep out of the reach of children. If you are nursing, pregnant, or considering pregnancy, consult your healthcare professional prior to using this product.",
+    "Amount inside is measured by weight, not volume.",
+    "Color, texture, flavor, and other traits may vary."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SUW-02983"
+  },
+  {
+   "label": "UPC",
+   "value": "814784029832"
+  },
+  {
+   "label": "Package quantity",
+   "value": "997 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "21.8 x 12.2 x 12.2 cm, 1.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: About 2 Scoops (50 g)"
+  ],
+  [
+   "Servings Per Container: 20"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "200",
+   ""
+  ],
+  [
+   "Total Fat",
+   "4 g",
+   "5%**"
+  ],
+  [
+   "Saturated Fat",
+   "1.5 g",
+   "7%**"
+  ],
+  [
+   "Total Carbohydrate",
+   "10 g",
+   "4%**"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "8%**"
+  ],
+  [
+   "Total Sugars",
+   "<1 g",
+   "†"
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%**"
+  ],
+  [
+   "Protein",
+   "30 g",
+   "48%**"
+  ],
+  [
+   "Magnesium",
+   "35 mg",
+   "8%"
+  ],
+  [
+   "Sodium",
+   "360 mg",
+   "16%"
+  ],
+  [
+   "Potassium",
+   "100 mg",
+   "2%"
+  ],
+  [
+   "Plant Protein BlendOrganic Pea Protein, Organic Brown Rice Protein, Organic Pumpkin Seed Protein",
+   "39 g",
+   "†"
+  ],
+  [
+   "Botanical Blend",
+   "",
+   ""
+  ],
+  [
+   "Organic Tart Cherry",
+   "500 mg",
+   "†"
+  ],
+  [
+   "Organic Maca Root Extract",
+   "300 mg",
+   "†"
+  ],
+  [
+   "Organic Turmeric Root Extract",
+   "200 mg",
+   "†"
+  ],
+  [
+   "Organic Black Pepper Fruit Extract",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Mineral Blend",
+   "",
+   ""
+  ],
+  [
+   "Organic Sea Minerals (Aquamin®) (Lithothamnion sp.)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "Sea Salt",
+   "400 mg",
+   "†"
+  ],
+  [
+   "Probiotic & Enzyme BlendBromelain (Ananas comosus), Bacillus subtilis (DET11®), Papin (Carica papaya)",
+   "160 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "20"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Kosher",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,653.52",
+  "฿1,653.52",
+  "฿82.68/‏serving",
+  "{0}% off code: {1}",
+  "฿1,653.52",
+  "Save 0% in cart",
+  "฿82.68/‏serving",
+  "฿1,653.52",
+  "(0% off)",
+  "฿1,653.52",
+  "฿82.68/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02983/b/24.jpg"
+ ]
+}

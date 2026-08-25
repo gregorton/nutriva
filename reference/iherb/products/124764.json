@@ -1,0 +1,272 @@
+{
+ "pid": "124764",
+ "slug": "lifeable-kids-immune-support-gummies-berry-60-gummies",
+ "scrapedAt": "2026-08-25T17:24:39.701Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-kids-immune-support-gummies-berry-60-gummies.jpg",
+  "/products/iherb/lifeable-kids-immune-support-gummies-berry-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-kids-immune-support-gummies-berry-60-gummies/124764",
+ "pageTitle": "Lifeable, Kids, Immune Support Gummies, Berry, 60 Gummies",
+ "h1": "Lifeable, Kids, Immune Support Gummies, Berry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124764",
+  "name": "Lifeable, Kids, Immune Support Gummies, Berry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/g/32.jpg",
+  "mpn": "LFB-73071",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 260
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "398.32",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement With Elderberry, Vitamin C and Zinc Kosher Vegan Gluten Free Nut Free Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73071",
+  "gtin12": "810102730718",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "With Elderberry, Vitamin C and Zinc",
+    "Kosher",
+    "Vegan",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For Children 4 yrs and up: As a dietary supplement, take two [2] gummies per day. Chew thoroughly before swallowing. Do not exceed suggested serving size."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, trisodium citrate, natural flavor, sodium ascorbate, carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish.",
+    "Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using.",
+    "Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature.",
+    "Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73071"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730718"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value Adults & Children 4 Years of Age and Older‡"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "5 g",
+   "<2%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "8 mg",
+   "73%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "Black Elderberry Extract (Sambucus nigra L.) Fruit",
+   "100 mg",
+   "**"
+  ],
+  [
+   "‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value Adults & Children 4 Years of Age and Older‡",
+  "‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿398.32",
+  "฿398.32",
+  "฿13.28/‏serving",
+  "{0}% off code: {1}",
+  "฿398.32",
+  "Save 0% in cart",
+  "฿13.28/‏serving",
+  "฿398.32",
+  "(0% off)",
+  "฿398.32",
+  "฿13.28/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73071/s/37.jpg"
+ ]
+}

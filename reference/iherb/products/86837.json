@@ -1,0 +1,272 @@
+{
+ "pid": "86837",
+ "slug": "garden-of-life-grass-fed-collagen-peptides-unflavored-19-75-oz-560-g",
+ "scrapedAt": "2026-08-25T17:21:29.954Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/garden-of-life-grass-fed-collagen-peptides-unflavored-19-75-oz-560-g.jpg",
+  "/products/iherb/garden-of-life-grass-fed-collagen-peptides-unflavored-19-75-oz-560-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/garden-of-life-grass-fed-collagen-peptides-unflavored-19-75-oz-560-g/86837",
+ "pageTitle": "Garden of Life, Grass Fed Collagen Peptides, Unflavored, 19.75 oz (560 g)",
+ "h1": "Garden of Life, Grass Fed Collagen Peptides, Unflavored, 19.75 oz (560 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "86837",
+  "name": "Garden of Life, Grass Fed Collagen Peptides, Unflavored, 19.75 oz (560 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/g/66.jpg",
+  "mpn": "GOL-12459",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 8011
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Garden of Life",
+   "url": "http://www.gardenoflife.com/",
+   "identifier": "GOL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.55",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1400.64",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "20 g Per Serving Type I & III + Probiotics Hair, Skin, Nails & Joints About 28 Servings Dietary Supplement Certified B Corporation BPA Free 20 g Collagen + Probiotics Skin Elasticity Strong Nails & Healthy Hair Joints & Mobility Igen Non-GMO Tested NSF Certified Gluten Free NSF Contents Certified No Added Hormones or Antibiotics Grass Fed + Pasture Raised As we age, our body's natural production of Collagen, a protein essential to overall health and appearance, declines. Grass Fed Collagen Peptides is an easy way to add collagen to your daily diet.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.05x4.95"
+  },
+  "isRelatedTo": null,
+  "sku": "GOL-12459",
+  "gtin12": "658010124591",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/g/66.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "20 g Per Serving",
+    "Type I & III + Probiotics",
+    "Hair, Skin, Nails & Joints",
+    "About 28 Servings",
+    "Dietary Supplement",
+    "Certified B Corporation",
+    "BPA Free",
+    "20 g Collagen + Probiotics",
+    "Skin Elasticity",
+    "Strong Nails & Healthy Hair",
+    "Joints & Mobility",
+    "Igen Non-GMO Tested",
+    "NSF Certified Gluten Free",
+    "NSF Contents Certified",
+    "No Added Hormones or Antibiotics"
+   ],
+   "paragraphs": [
+    "Grass Fed + Pasture Raised",
+    "As we age, our body's natural production of Collagen, a protein essential to overall health and appearance, declines. Grass Fed Collagen Peptides is an easy way to add collagen to your daily diet."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "Shake with water.",
+    "Blend in smoothies.",
+    "Use in baking."
+   ],
+   "paragraphs": [
+    "Mix 1 scoop in 8 oz of liquid (scoop included). Not intended for children."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Manufactured in a facility that also processes egg, milk, soy, wheat, fish, tree nuts and sesame.",
+    "This product does not contain common GMO/GE genes or proteins.",
+    "Made in the U.S.A. from foods grown in the U.S.A. and other countries."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use this product as a food supplement only. Do not use for weight reduction.",
+    "Keep out of reach of children. Store in a cool, dry place. Do not use if safety seal is broken or missing.",
+    "The density of the powdered ingredients in this product naturally vary from lot to lot and require space in the container at the time of packaging. Over time, the powders settle, causing the container to appear less full than when it was first packaged. This product is sold by weight and not by volume.",
+    "As with any dietary supplement, consult your healthcare practitioner before using this product, especially if you are pregnant, nursing, giving product to children, anticipate surgery, take medication on a regular basis or are otherwise under medical supervision."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.7 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "GOL-12459"
+  },
+  {
+   "label": "UPC",
+   "value": "658010124591"
+  },
+  {
+   "label": "Package quantity",
+   "value": "280 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.7 x 12.8 x 12.6 cm, 0.7 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (About 20 g)"
+  ],
+  [
+   "Servings Per Container: About 28"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Protein",
+   "18 g",
+   ""
+  ],
+  [
+   "Sodium",
+   "100 mg",
+   "4%"
+  ],
+  [
+   "Collagen Peptides (from Bovine Hide)",
+   "20 g",
+   "+"
+  ],
+  [
+   "Bacillus coagulans SNZ 1969™ (250 million CFU)**",
+   "2.5 mg",
+   "+"
+  ],
+  [
+   "+Daily Value not established.**At time of expiration."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "+Daily Value not established.",
+  "**At time of expiration.",
+  "*Essential Amino Acids"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "28"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Bpa-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "NSF"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#26 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,400.64",
+  "฿1,400.64",
+  "฿50.02/‏serving",
+  "{0}% off code: {1}",
+  "฿1,400.64",
+  "Save 0% in cart",
+  "฿50.02/‏serving",
+  "฿1,400.64",
+  "(0% off)",
+  "฿1,400.64",
+  "฿50.02/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/g/66.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/k/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/g/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12459/s/71.jpg"
+ ]
+}

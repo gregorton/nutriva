@@ -1,0 +1,254 @@
+{
+ "pid": "133054",
+ "slug": "ancient-nutrition-once-daily-probiotics-25-billion-cfu-30-capsules",
+ "scrapedAt": "2026-08-25T17:06:50.907Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/ancient-nutrition-once-daily-probiotics-25-billion-cfu-30-capsules.jpg",
+  "/products/iherb/ancient-nutrition-once-daily-probiotics-25-billion-cfu-30-capsules-2.jpg",
+  "/products/iherb/ancient-nutrition-once-daily-probiotics-25-billion-cfu-30-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/ancient-nutrition-once-daily-probiotics-25-billion-cfu-30-capsules/133054",
+ "pageTitle": "Ancient Nutrition, Once Daily Probiotics, 25 Billion CFU, 30 Capsules",
+ "h1": "Ancient Nutrition, Once Daily Probiotics, 25 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "133054",
+  "name": "Ancient Nutrition, Once Daily Probiotics, 25 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/g/44.jpg",
+  "mpn": "ATN-02065",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 42
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Ancient Nutrition",
+   "url": "http://ancientnutrition.com/",
+   "identifier": "ATN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1179.85",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Regenerative Organic Certified ® USDA Organic SBO Probiotics - 25 Billion CFU 1 Regenerative Organic Certified® Whole Food Dietary Supplement 95% Ancient Farmed* Certified Carbon Neutral ® Product Certified B Corporation Certified Organic by CCOF Non-GMO & More Grown & Harvested on Ancient Farms in: SummerTown, TN & Koshkonong, MO Benefits Supports healthy digestion and immune system Key Ingredients Clinically studied probiotics including resilient SBOs (Soil Based Organisms) that survive and thrive in the harsh conditions of the gut. Also featuring prebiotics (fuel for probiotics) and postbiotics (beneficial byproducts). Formulated With 30 Probiotic strains including proprietary Bacillus subtilis AB22 Our commitment to the planet Regenerative agriculture isn't a luxury it's a necessity. Regenerative Organic Certified® goes beyond organic, demanding the highest standards for soil health, animal welfare and farmworker fairness. Growing the world's most nutrient-dense superfoods and healing the planet start with healthy soil. *Excludes capsule and probiotic cultures. ¹At Expiration Date under recommended storage conditions.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "ATN-02065",
+  "gtin12": "816421020653",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Regenerative Organic Certified®",
+    "USDA Organic",
+    "SBO Probiotics - 25 Billion CFU1",
+    "Regenerative Organic Certified®",
+    "Whole Food Dietary Supplement",
+    "95% Ancient Farmed*",
+    "Certified Carbon Neutral® Product",
+    "Certified B Corporation",
+    "Certified Organic by CCOF",
+    "Non-GMO & More"
+   ],
+   "paragraphs": [
+    "Grown & Harvested on Ancient Farms in: SummerTown, TN & Koshkonong, MO",
+    "Benefits",
+    "Supports healthy digestion and immune system",
+    "Key Ingredients",
+    "Clinically studied probiotics including resilient SBOs (Soil Based Organisms) that survive and thrive in the harsh conditions of the gut. Also featuring prebiotics (fuel for probiotics) and postbiotics (beneficial byproducts).",
+    "Formulated With",
+    "30 Probiotic strains including proprietary Bacillus subtilis AB22",
+    "Our commitment to the planet",
+    "Regenerative agriculture isn't a luxury it's a necessity. Regenerative Organic Certified® goes beyond organic, demanding the highest standards for soil health, animal welfare and farmworker fairness. Growing the world's most nutrient-dense superfoods and healing the planet start with healthy soil.",
+    "*Excludes capsule and probiotic cultures.",
+    "¹At Expiration Date under recommended storage conditions."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 capsule per day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic pullulan, organic apple cider vinegar.",
+    "Produced on equipment that also processes peanuts, tree nuts, milk, soybean, wheat, sesame, shellfish, egg, fish.",
+    "Made without gluten, dairy, soy"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, allergic, have a medical condition, or taking any medications, consult a doctor before using this or any other dietary supplement. Do not use if inner safety seal is broken or missing. Keep out of reach of children. Store in a cool, dry place. Best if refrigerated.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ATN-02065"
+  },
+  {
+   "label": "UPC",
+   "value": "816421020653"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.1 x 6.1 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "12.5 mcg",
+   "521%"
+  ],
+  [
+   "Superfood BlendRegenerative Organic Certified® Cordyceps Mycelium, Regenerative Organic Certified® Maitake (Grifola frondosa) Mushroom Mycelium, Organic Fermented Ginger Root.",
+   "780 mg",
+   "+"
+  ],
+  [
+   "Probiotic BlendBacillus subtilis AB22, Bacillus coagulans, Saccharomyces boulardii, Lactobacillus acidophilus, Lactobacillus plantarum, Lactobacillus casei, Lactobacillus paracasei, Lactobacillus rhamnosus, Lactobacillus crispatus, Lactobacillus bulgaricus, Lactobacillus reuteri, Lactobacillus fermentum, Lactobacillus salivarius, Lactobacillus helveticus, Lactobacillus gasseri, Lactobacillus brevis, Lactobacillus sakei, Lactobacillus johnsonii, Lactobacillus genseni, Lactobacillus amylovorus, Bifidobacterium lactis, Bifidobacterium bifidum, Bifidobacterium breve, Bifidobacterium longum, Bifidobacterium infantis, Bifidobacterium animalis, Bifidobacterium adolescentis, Streptococcus thermophilus, Streptococcus salivarius Lactococcus lactis subsp. lactis.",
+   "32 mg (25 Billion CFU¹)",
+   "+"
+  ],
+  [
+   "+Daily Value not established.¹At Expiration Date under recommended storage conditions."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "+Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 7 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,179.85",
+  "฿1,179.85",
+  "฿39.33/‏serving",
+  "{0}% off code: {1}",
+  "฿1,179.85",
+  "Save 0% in cart",
+  "฿39.33/‏serving",
+  "฿1,179.85",
+  "(0% off)",
+  "฿1,179.85",
+  "฿39.33/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02065/s/36.jpg"
+ ]
+}

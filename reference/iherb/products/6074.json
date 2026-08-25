@@ -1,0 +1,281 @@
+{
+ "pid": "6074",
+ "slug": "neocell-grassfed-collagen-peptides-unflavored-7-oz-200-g",
+ "scrapedAt": "2026-08-25T17:23:09.264Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/neocell-grassfed-collagen-peptides-unflavored-7-oz-200-g.jpg",
+  "/products/iherb/neocell-grassfed-collagen-peptides-unflavored-7-oz-200-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/neocell-grassfed-collagen-peptides-unflavored-7-oz-200-g/6074",
+ "pageTitle": "NeoCell, Grassfed Collagen Peptides, Unflavored, 7 oz (200 g)",
+ "h1": "NeoCell, Grassfed Collagen Peptides, Unflavored, 7 oz (200 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "6074",
+  "name": "NeoCell, Grassfed Collagen Peptides, Unflavored, 7 oz (200 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/g/148.jpg",
+  "mpn": "NEL-01986",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 16905
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NeoCell",
+   "url": "http://www.neocell.com/",
+   "identifier": "NEL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.63",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "668.43",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Healthy Hair, Skin, Nails, Joints Dietary Supplement Mixes Easily Keto Friendly Gluten Free Collagen makes up about 70% of your skin. As we age, our body's collagen gets depleted. BioActive NeoCell® Grassfed Collagen Peptides has been specifically formulated to support your radiant beauty from the inside and can support your body's own collagen production. Skin Hydration With age, collagen production declines, making it harder for the skin to retain moisture. Collagen's amino acids help maintain the skin's moisture balance. Elasticity & Firmness Collagen's amino acids join together to form collagen fibers that help give skin its strength and elasticity. Strong Nails Collagen contains critical amino acids which are essential for keratin production, the protein that makes up nails.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.6"
+  },
+  "isRelatedTo": null,
+  "sku": "NEL-01986",
+  "gtin12": "016185019867",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/g/148.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Healthy Hair, Skin, Nails, Joints",
+    "Dietary Supplement",
+    "Mixes Easily",
+    "Keto Friendly",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "Collagen makes up about 70% of your skin. As we age, our body's collagen gets depleted. BioActive NeoCell® Grassfed Collagen Peptides has been specifically formulated to support your radiant beauty from the inside and can support your body's own collagen production.",
+    "Skin Hydration",
+    "With age, collagen production declines, making it harder for the skin to retain moisture. Collagen's amino acids help maintain the skin's moisture balance.",
+    "Elasticity & Firmness",
+    "Collagen's amino acids join together to form collagen fibers that help give skin its strength and elasticity.",
+    "Strong Nails",
+    "Collagen contains critical amino acids which are essential for keratin production, the protein that makes up nails."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Boost your inner beauty with approximately one (1) heaping scoop (10 g) daily mixed into your favorite beverage, smoothie or desired baked good recipe.",
+    "To enjoy cold, simply mix into room temperature liquid first and then add ice.",
+    "One heaping scoop is equal to approximately two tablespoons."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "May contain: trace amounts of naturally occurring sulfite residue.",
+    "No soy, wheat or lactose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place,",
+    "Keep out of reach of children.",
+    "Amount of product in bottle is based on weight. Some product settling may occur. Scoop inside is for convenience only, not for exact measuring. Household measure indicated in directions is an approximation.",
+    "For adults only. As with any supplement, if you are pregnant, nursing, taking any medication or have a medical condition, consult your doctor before using this product. Discontinue use if any adverse events occur.",
+    "Tamper Evident: Do not use if safety seal is broken or missing.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NEL-01986"
+  },
+  {
+   "label": "UPC",
+   "value": "016185019867"
+  },
+  {
+   "label": "Package quantity",
+   "value": "200 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.8 x 9.3 x 9.1 cm, 0.29 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: Approx. 1 Heaping Scoop (10 g)"
+  ],
+  [
+   "Servings Per Container: About 20"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Protein",
+   "8 g",
+   "0%**"
+  ],
+  [
+   "Sodium",
+   "30 mg",
+   "1%"
+  ],
+  [
+   "BioActive NeoCell Collagen Peptides™ (from Grassfed Bovine)",
+   "10 g",
+   "***"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet. ***Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "***Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 heaping scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "20"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Lactose-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "190 g",
+   "pid": "85079",
+   "url": "https://th.iherb.com/pr/neocell-grassfed-collagen-peptides-berry-lemon-6-7-oz-190-g/85079",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "200 g",
+   "pid": "6074",
+   "url": "https://th.iherb.com/pr/neocell-grassfed-collagen-peptides-unflavored-7-oz-200-g/6074",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#28 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿668.43",
+  "฿668.43",
+  "฿33.42/‏serving",
+  "{0}% off code: {1}",
+  "฿668.43",
+  "Save 0% in cart",
+  "฿33.42/‏serving",
+  "฿668.43",
+  "(0% off)",
+  "฿668.43",
+  "฿33.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/g/148.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/k/148.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/g/148.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/s/148.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/s/154.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nel/nel01986/b/148.jpg"
+ ]
+}

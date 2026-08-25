@@ -1,0 +1,240 @@
+{
+ "pid": "125314",
+ "slug": "swanson-vitamins-melatonin-free-sleep-aid-120-capsules",
+ "scrapedAt": "2026-08-25T17:11:49.787Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-melatonin-free-sleep-aid-120-capsules.jpg",
+  "/products/iherb/swanson-vitamins-melatonin-free-sleep-aid-120-capsules-2.jpg",
+  "/products/iherb/swanson-vitamins-melatonin-free-sleep-aid-120-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-melatonin-free-sleep-aid-120-capsules/125314",
+ "pageTitle": "Swanson Vitamins, Melatonin-Free Sleep Aid, 120 Capsules",
+ "h1": "Swanson Vitamins, Melatonin-Free Sleep Aid, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125314",
+  "name": "Swanson Vitamins, Melatonin-Free Sleep Aid, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/g/24.jpg",
+  "mpn": "SWV-11910",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 877
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "589.93",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Sleep and Stress Support 3-In-1 Formula Dietary Supplement Promotes Relaxation of Mind and Body for a Restful Night's Sleep Supports Serotonin Production Supports Mental and Emotional Wellbeing Science-Backed Quality Since 1969 Gluten Free Non-GMO Need more Zzzs? If you’re one of the many people not getting enough of that good, sound sleep, Swanson Melatonin-Free Sleep Aid may be the answer you’re looking for. We feature a carefully crafted blend of magnesium, L-theanine and 5-HTP to calm your mind and body so you can get the restorative rest your body craves. Sleep is a result of complex biological activity and involves several important neurotransmitters— chemicals that send signals for a particular activity in the brain—such as GABA and serotonin. Supporting these neurotransmitters can lead to improved sleep quality (how well you sleep) and quantity (how much sleep you get).",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-11910",
+  "gtin12": "087614119106",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Sleep and Stress Support",
+    "3-In-1 Formula",
+    "Dietary Supplement",
+    "Promotes Relaxation of Mind and Body for a Restful Night's Sleep",
+    "Supports Serotonin Production",
+    "Supports Mental and Emotional Wellbeing",
+    "Science-Backed Quality Since 1969",
+    "Gluten Free",
+    "Non-GMO"
+   ],
+   "paragraphs": [
+    "Need more Zzzs? If you’re one of the many people not getting enough of that good, sound sleep, Swanson Melatonin-Free Sleep Aid may be the answer you’re looking for. We feature a carefully crafted blend of magnesium, L-theanine and 5-HTP to calm your mind and body so you can get the restorative rest your body craves.",
+    "Sleep is a result of complex biological activity and involves several important neurotransmitters— chemicals that send signals for a particular activity in the brain—such as GABA and serotonin. Supporting these neurotransmitters can lead to improved sleep quality (how well you sleep) and quantity (how much sleep you get)."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two capsules per day 30 minutes before bedtime with water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, silica, magnesium stearate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Do not take this product if you are taking a prescription antidepressant or if you are pregnant or nursing. Consult your healthcare provider before use if you have a medical condition or if you are taking any prescription medications.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-11910"
+  },
+  {
+   "label": "UPC",
+   "value": "087614119106"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 6.7 x 6.7 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (from magnesium glycinate)",
+   "250 mg",
+   "60%"
+  ],
+  [
+   "L-Theanine",
+   "100 mg",
+   "*"
+  ],
+  [
+   "L-5 HTP(L-5-hydroxytryptophan)(Griffonia simplicifolia seed extract)",
+   "50 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿589.93",
+  "฿589.93",
+  "฿9.83/‏serving",
+  "{0}% off code: {1}",
+  "฿589.93",
+  "Save 0% in cart",
+  "฿9.83/‏serving",
+  "฿589.93",
+  "(0% off)",
+  "฿589.93",
+  "฿9.83/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11910/s/32.jpg"
+ ]
+}

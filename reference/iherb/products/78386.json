@@ -1,0 +1,285 @@
+{
+ "pid": "78386",
+ "slug": "zint-pure-grass-fed-collagen-peptides-unflavored-2-oz-56-6-g",
+ "scrapedAt": "2026-08-25T17:28:48.491Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/zint-pure-grass-fed-collagen-peptides-unflavored-2-oz-56-6-g.jpg",
+  "/products/iherb/zint-pure-grass-fed-collagen-peptides-unflavored-2-oz-56-6-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/zint-pure-grass-fed-collagen-peptides-unflavored-2-oz-56-6-g/78386",
+ "pageTitle": "Zint, Pure Grass-Fed Collagen Peptides, Unflavored, 2 oz (56.6 g)",
+ "h1": "Zint, Pure Grass-Fed Collagen Peptides, Unflavored, 2 oz (56.6 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "78386",
+  "name": "Zint, Pure Grass-Fed Collagen Peptides, Unflavored, 2 oz (56.6 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/g/19.jpg",
+  "mpn": "ZNT-02603",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 20744
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Zint",
+   "url": "https://www.zintnutrition.com/",
+   "identifier": "ZNT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "261.17",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Beauty Elements Skin - Hair - Nails Glowy Skin, Healthy Hair. It All Begins Here Hydrolyzed Collagen Types I & III Unflavored for Any Beverage Granulated for Bioavailability Essential Amino Acids This Product is Keto Certified This Product is Paleo Friendly Non GMO Gluten Free Dietary Supplement Beauty is Elemental™ Pure Collagen: Start Here. This is square one for beauty. Before the makeup. Before even the cleansers and creams. Collagen is your body's most basic protein building block for skin, hair, nails, and joints. Our pure, unflavored collagen peptides replenishes your body's declining collagen supply to counter the effects of age. Restore your skin's natural moisture, elasticity, and smoothness for a glow that radiates from within. Feel the difference in healthier hair, stronger nails, and renewed growth. It all starts here.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.9x1.55"
+  },
+  "isRelatedTo": null,
+  "sku": "ZNT-02603",
+  "gtin12": "817516026031",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/g/19.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Beauty Elements",
+    "Skin - Hair - Nails",
+    "Glowy Skin, Healthy Hair. It All Begins Here",
+    "Hydrolyzed Collagen Types I & III",
+    "Unflavored for Any Beverage",
+    "Granulated for Bioavailability",
+    "Essential Amino Acids",
+    "This Product is Keto Certified",
+    "This Product is Paleo Friendly",
+    "Non GMO",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Beauty is Elemental™"
+   ],
+   "paragraphs": [
+    "Pure Collagen: Start Here.",
+    "This is square one for beauty. Before the makeup. Before even the cleansers and creams. Collagen is your body's most basic protein building block for skin, hair, nails, and joints. Our pure, unflavored collagen peptides replenishes your body's declining collagen supply to counter the effects of age. Restore your skin's natural moisture, elasticity, and smoothness for a glow that radiates from within. Feel the difference in healthier hair, stronger nails, and renewed growth. It all starts here."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Dissolve one scoop in any beverage: coffee, juice, smoothies. Stir or blend it. Drink it."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "Allergy information: This product is free of all common allergens, including wheat, gluten, dairy, peanut, tree nut and soy."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Storage: Keep in a cool, dry place. Do not refrigerate."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ZNT-02603"
+  },
+  {
+   "label": "UPC",
+   "value": "817516026031"
+  },
+  {
+   "label": "Package quantity",
+   "value": "56.6 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 9.9 x 3.9 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tbsp (12 g)"
+  ],
+  [
+   "Servings Per Container: 4.7"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "45",
+   ""
+  ],
+  [
+   "Protein",
+   "11 g",
+   "**"
+  ],
+  [
+   "Sodium",
+   "50 mg",
+   "2%†"
+  ],
+  [
+   "Hydrolyzed Bovine Collagen (BSE-Free)",
+   "12 g",
+   "**"
+  ],
+  [
+   "† Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tbsp"
+    },
+    {
+     "label": "Total servings",
+     "value": "4"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Halal",
+    "Paleo",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "56.6 g",
+   "pid": "78386",
+   "url": "https://th.iherb.com/pr/zint-pure-grass-fed-collagen-peptides-unflavored-2-oz-56-6-g/78386",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "283 g",
+   "pid": "71744",
+   "url": "https://th.iherb.com/pr/zint-pure-grass-fed-collagen-peptides-unflavored-10-oz-283-g/71744",
+   "price": "฿859.91",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "454 g",
+   "pid": "71745",
+   "url": "https://th.iherb.com/pr/zint-pure-grass-fed-collagen-peptides-unflavored-16-oz-454-g/71745",
+   "price": "฿1,228.96",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "907 g",
+   "pid": "71746",
+   "url": "https://th.iherb.com/pr/zint-pure-grass-fed-collagen-peptides-unflavored-32-oz-907-g/71746",
+   "price": "฿2,022.44",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿261.17",
+  "฿261.17",
+  "฿65.29/‏serving",
+  "{0}% off code: {1}",
+  "฿261.17",
+  "Save 0% in cart",
+  "฿65.29/‏serving",
+  "฿261.17",
+  "(0% off)",
+  "฿261.17",
+  "฿65.29/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/g/19.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/k/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/g/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/znt/znt02603/s/20.jpg"
+ ]
+}

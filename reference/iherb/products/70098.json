@@ -1,0 +1,264 @@
+{
+ "pid": "70098",
+ "slug": "solaray-vitamin-d3-k2-60-vegcaps",
+ "scrapedAt": "2026-08-25T17:26:41.328Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/solaray-vitamin-d3-k2-60-vegcaps.jpg",
+  "/products/iherb/solaray-vitamin-d3-k2-60-vegcaps-2.jpg",
+  "/products/iherb/solaray-vitamin-d3-k2-60-vegcaps-3.jpg",
+  "/products/iherb/solaray-vitamin-d3-k2-60-vegcaps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/solaray-vitamin-d3-k2-60-vegcaps/70098",
+ "pageTitle": "Solaray, Vitamin D3 + K2, 60 VegCaps",
+ "h1": "Solaray, Vitamin D3 + K2, 60 VegCaps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "70098",
+  "name": "Solaray, Vitamin D3 + K2, 60 VegCaps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/g/100.jpg",
+  "mpn": "SOR-38584",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 93064
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Solaray",
+   "url": "https://solaray.com/",
+   "identifier": "SOR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "475.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Est. 1973 125 mcg | 50 mcg Dietary Supplement Lab Verified Gluten Free Made Without Soy A Brighter Way Supports: Bone Strength Immune System Since 1973, we've scoured the globe for the highest-quality ingredients, connecting you with the most efficacious supplements that help you live brighter and embrace the moments that matter most.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SOR-38584",
+  "gtin12": "076280385847",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/g/100.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Est. 1973",
+    "125 mcg | 50 mcg",
+    "Dietary Supplement",
+    "Lab Verified",
+    "Gluten Free",
+    "Made Without Soy",
+    "A Brighter Way",
+    "Bone Strength",
+    "Immune System"
+   ],
+   "paragraphs": [
+    "Supports:",
+    "Since 1973, we've scoured the globe for the highest-quality ingredients, connecting you with the most efficacious supplements that help you live brighter and embrace the moments that matter most."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Take 1 VegCap daily with a meal or glass of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose capsule, glycerol monostearate, magnesium stearate, silica, modified food starch, and cellulose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not use if safety seal is broken or missing. Keep out of reach of children. Keep your licensed health care practitioner informed when using this product.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SOR-38584"
+  },
+  {
+   "label": "UPC",
+   "value": "076280385847"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 4.6 x 4.6 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 VegCap"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D-3 (as Cholecalciferol) (supplying 5000 IU of Vitamin D)",
+   "125 mcg",
+   "625%"
+  ],
+  [
+   "Calcium (from Calcium Phosphate)",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "Phosphorus (from Calcium Phosphate)",
+   "85 mg",
+   "7%"
+  ],
+  [
+   "Vitamin K-2 (as Menaquinone-7 from Chickpea)",
+   "50 mcg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegcap"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "70098",
+   "url": "https://th.iherb.com/pr/solaray-vitamin-d3-k2-60-vegcaps/70098",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "85529",
+   "url": "https://th.iherb.com/pr/solaray-vitamin-d3-k2-120-vegcaps/85529",
+   "price": "฿826.82",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿475.75",
+  "฿475.75",
+  "฿7.93/‏serving",
+  "{0}% off code: {1}",
+  "฿475.75",
+  "Save 0% in cart",
+  "฿7.93/‏serving",
+  "฿475.75",
+  "(0% off)",
+  "฿475.75",
+  "฿7.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/g/100.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/k/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/g/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/s/108.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/s/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor38584/s/91.jpg"
+ ]
+}

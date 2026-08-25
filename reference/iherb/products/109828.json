@@ -1,0 +1,335 @@
+{
+ "pid": "109828",
+ "slug": "mike-s-mighty-good-craft-ramen-chicken-bone-broth-ramen-soup-1-6-oz-48",
+ "scrapedAt": "2026-08-25T17:47:47.412Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mike-s-mighty-good-craft-ramen-chicken-bone-broth-ramen-soup-1-6-oz-48.jpg",
+  "/products/iherb/mike-s-mighty-good-craft-ramen-chicken-bone-broth-ramen-soup-1-6-oz-48-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mike-s-mighty-good-craft-ramen-chicken-bone-broth-ramen-soup-1-6-oz-48-g/109828",
+ "pageTitle": "Mike's Mighty Good, Craft Ramen™, Chicken Bone Broth Ramen Soup, 1.6 oz (48 g)",
+ "h1": "Mike's Mighty Good, Craft Ramen™, Chicken Bone Broth Ramen Soup, 1.6 oz (48 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "109828",
+  "name": "Mike's Mighty Good, Craft Ramen™, Chicken Bone Broth Ramen Soup, 1.6 oz (48 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/g/48.jpg",
+  "mpn": "MGH-02206",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.1,
+   "reviewCount": 564
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mike's Mighty Good",
+   "url": "https://www.mikesmightygood.com/",
+   "identifier": "MGH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.16",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "98.04",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "108.93",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-31T00:00:00"
+  },
+  "description": "Made with Ramen Organic Noodles No Seed Oil or Palm Oil Added Antibiotic-Free Chicken Ingredients 10 g Protein Per Srving Certified Organic by QAI Bright People Foods North American Wheat Noodles At Mike's Mighty Good®, we believe in good food. We're about making Craft Ramen For A New Generation®. That's why we make our own organic noodles from scratch and bring you ridiculously rich-tasting broths made with antibiotic-free chicken ingredients. Taste the difference and savor the Good. ® Ramen Bar Toppings: Sliced Chicken Green Onion Fried Minced Garlic Shallot Slices Nori Seaweed",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.9x3.9"
+  },
+  "isRelatedTo": null,
+  "sku": "MGH-02206",
+  "gtin12": "815677022060",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Packaged & Prepared Foods",
+  "Pasta & Noodles",
+  "Ramen"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Made with Ramen Organic Noodles",
+    "No Seed Oil or Palm Oil Added",
+    "Antibiotic-Free Chicken Ingredients",
+    "10 g Protein Per Srving",
+    "Certified Organic by QAI",
+    "Bright People Foods",
+    "North American Wheat Noodles",
+    "Sliced Chicken",
+    "Green Onion",
+    "Fried Minced Garlic",
+    "Shallot Slices",
+    "Nori Seaweed"
+   ],
+   "paragraphs": [
+    "At Mike's Mighty Good®, we believe in good food. We're about making Craft Ramen For A New Generation®. That's why we make our own organic noodles from scratch and bring you ridiculously rich-tasting broths made with antibiotic-free chicken ingredients. Taste the difference and savor the Good.®",
+    "Ramen Bar Toppings:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "How to make some mighty good ramen",
+    "Boiling Water Directions",
+    "Microwave Directions (1100 WATTS):",
+    "Follow directions above except add warm water to the fill line inside cup. Microwave on high to boil (about 1 minute 30 seconds), but stop before it boils over. Microwaves can have a mind of their own - you may need to add more time but stop microwave if product is overcooking. Stir, cover tightly, and let stand 6 minutes. If you prefer extra tender noodles, microwave uncovered again as needed. Stir in contents of both packets. Enjoy!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic unbleached wheat flour, chicken fat**, chicken bone broth*, yeast extracts, sea salt, natural flavors, chicken, organic potato starch, garlic, wheat gluten, organic sugar*, soy sauce (soybeans, wheat, salt)*, onion, miso (soybean, roasted barley flour)*, rice fiber, rosemary extract (for freshness)*, green onion*, sesame flour.",
+    "*dried **dried & liquid",
+    "Contains: Sesame, soy, wheat."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Cook before consuming. Not ready to eat. Cup & food will be hot. Please handle with care & do not leave microwave unattended. Children should be assisted by an adult."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MGH-02206"
+  },
+  {
+   "label": "UPC",
+   "value": "815677022060"
+  },
+  {
+   "label": "Package quantity",
+   "value": "48 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 9.9 x 9.9 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 package (48 g)"
+  ],
+  [
+   "Servings Per Container: 1"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "200",
+   ""
+  ],
+  [
+   "Total Fat",
+   "5 g",
+   "6%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "3%"
+  ],
+  [
+   "Sodium",
+   "940 mg",
+   "41%"
+  ],
+  [
+   "Total Carbohydrate",
+   "30 g",
+   "10%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "<1 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "10 g",
+   "18%"
+  ],
+  [
+   "Vitamin D",
+   "0.1 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "20 mg",
+   "2%"
+  ],
+  [
+   "Iron",
+   "0.6 mg",
+   "2%"
+  ],
+  [
+   "Potassium",
+   "200 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 package"
+    },
+    {
+     "label": "Total servings",
+     "value": "1"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "Ramen",
+   "href": "/c/ramen?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Noodle Meals",
+   "href": "/c/noodle-meals?sr=2"
+  },
+  {
+   "rank": "#6 in",
+   "category": "Soup Cups",
+   "href": "/c/soup-cups?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock - Only 3 left, more to come",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿108.93",
+  "฿108.93",
+  "฿108.93/‏serving",
+  "{0}% off code: {1}",
+  "฿108.93",
+  "Save 10% in cart",
+  "฿108.93/‏serving",
+  "฿98.04",
+  "(10% off)",
+  "฿108.93",
+  "฿98.04/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgh/mgh02206/b/48.jpg"
+ ]
+}

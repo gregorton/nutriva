@@ -1,0 +1,272 @@
+{
+ "pid": "110552",
+ "slug": "mav-nutrition-omega-3-fish-oil-natural-lemon-120-softgels",
+ "scrapedAt": "2026-08-25T17:13:49.729Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/mav-nutrition-omega-3-fish-oil-natural-lemon-120-softgels.jpg",
+  "/products/iherb/mav-nutrition-omega-3-fish-oil-natural-lemon-120-softgels-2.jpg",
+  "/products/iherb/mav-nutrition-omega-3-fish-oil-natural-lemon-120-softgels-3.jpg",
+  "/products/iherb/mav-nutrition-omega-3-fish-oil-natural-lemon-120-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mav-nutrition-omega-3-fish-oil-natural-lemon-120-softgels/110552",
+ "pageTitle": "MAV Nutrition, Omega-3 Fish Oil, Natural Lemon, 120 Softgels",
+ "h1": "MAV Nutrition, Omega-3 Fish Oil, Natural Lemon, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "110552",
+  "name": "MAV Nutrition, Omega-3 Fish Oil, Natural Lemon, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/g/80.jpg",
+  "mpn": "MVN-27305",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2119
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MAV Nutrition",
+   "url": "https://mavnutrition.com/",
+   "identifier": "MVN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.53",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1110.43",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Fish Oil 3,600 mg+ 1,300 mg EPA+ 860 mg DHA+ Dietary Supplement Friend Of The Sea® Third Party Tested GMP Certified Facility QUALITY SOURCE OF OMEGA 3. Not all Omega 3 is high quality! The Omega 3 found in Fish Oil contians unique essential fats including EPA and DHA, known to decrease inflammation and support overall health and wellness. MAV Fish Oil is higher quality than competitor brands and contains more EPA and DHA per serving. PREMIUM SERIES NATURALLY SOURCED. Omega 3 fatty acids are widely considered one of the most critical supplements you can put in your body. Our Premium Series Fish Oil is 100% natural and pure with no additives, and contains 3,600mg Fish Oil Fatty Acids, including 864 mg DHA, 1,296 mg EPA per serving. BURPLESS NO FISHY AFTERTASTE. Our Fish Oil is burpless and won't cause stomach upset, so don’t have to worry about indigestion or an unplesant after taste staying with you all day! ULTRA-PURE, REFINED FISH OIL, ADVANCED DELIVERY. Our fish oil is purified with molecular distillation - one of the few current methods that can purify from heavy metals, PCB's and other toxins to below detectable limits for human consumption. Fast method. Minimal temperature. No toxins. +Per serving",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "MVN-27305",
+  "gtin12": "850018273053",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/g/80.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Fish Oil 3,600 mg+",
+    "1,300 mg EPA+",
+    "860 mg DHA+",
+    "Dietary Supplement",
+    "Friend Of The Sea®",
+    "Third Party Tested",
+    "GMP Certified Facility"
+   ],
+   "paragraphs": [
+    "QUALITY SOURCE OF OMEGA 3. Not all Omega 3 is high quality! The Omega 3 found in Fish Oil contians unique essential fats including EPA and DHA, known to decrease inflammation and support overall health and wellness. MAV Fish Oil is higher quality than competitor brands and contains more EPA and DHA per serving.",
+    "PREMIUM SERIES NATURALLY SOURCED. Omega 3 fatty acids are widely considered one of the most critical supplements you can put in your body. Our Premium Series Fish Oil is 100% natural and pure with no additives, and contains 3,600mg Fish Oil Fatty Acids, including 864 mg DHA, 1,296 mg EPA per serving.",
+    "BURPLESS NO FISHY AFTERTASTE. Our Fish Oil is burpless and won't cause stomach upset, so don’t have to worry about indigestion or an unplesant after taste staying with you all day!",
+    "ULTRA-PURE, REFINED FISH OIL, ADVANCED DELIVERY. Our fish oil is purified with molecular distillation - one of the few current methods that can purify from heavy metals, PCB's and other toxins to below detectable limits for human consumption. Fast method. Minimal temperature. No toxins.",
+    "+Per serving"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take three soft gels daily with meals or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, glycerin, purified water, natural lemon oil (flavor).",
+    "Contains: Fish (anchovy)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult your healthcare provider before use if you are contemplating pregnancy, pregnant, nursing, have any medical condition, or use any medications. For adult use only.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MVN-27305"
+  },
+  {
+   "label": "UPC",
+   "value": "850018273053"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.1 x 6.7 x 6.7 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Softgels"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "30",
+   ""
+  ],
+  [
+   "Total Fat",
+   "3.5 g",
+   "4%"
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "3%"
+  ],
+  [
+   "Fish Oil",
+   "3,600 mg",
+   "**"
+  ],
+  [
+   "Omega-3",
+   "2,160 mg",
+   "**"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA)",
+   "1,300 mg",
+   "**"
+  ],
+  [
+   "Docosahexanoeic Acid (DHA)",
+   "860 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,110.43",
+  "฿1,110.43",
+  "฿27.76/‏serving",
+  "{0}% off code: {1}",
+  "฿1,110.43",
+  "Save 0% in cart",
+  "฿27.76/‏serving",
+  "฿1,110.43",
+  "(0% off)",
+  "฿1,110.43",
+  "฿27.76/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/g/80.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/k/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/g/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/86.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27305/s/71.jpg"
+ ]
+}

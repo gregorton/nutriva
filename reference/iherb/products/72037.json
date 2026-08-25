@@ -1,0 +1,295 @@
+{
+ "pid": "72037",
+ "slug": "sports-research-alaskan-omega-3-fish-oil-triple-strength-180-softgels",
+ "scrapedAt": "2026-08-25T17:28:19.252Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sports-research-alaskan-omega-3-fish-oil-triple-strength-180-softgels.jpg",
+  "/products/iherb/sports-research-alaskan-omega-3-fish-oil-triple-strength-180-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-alaskan-omega-3-fish-oil-triple-strength-180-softgels/72037",
+ "pageTitle": "Sports Research, Alaskan Omega-3 Fish Oil, Triple Strength, 180 Softgels",
+ "h1": "Sports Research, Alaskan Omega-3 Fish Oil, Triple Strength, 180 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "72037",
+  "name": "Sports Research, Alaskan Omega-3 Fish Oil, Triple Strength, 180 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/g/52.jpg",
+  "mpn": "SRE-01050",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 50457
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.81",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2351.11",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Triple Strength ▲ 1250 mg Fish Oil | 1040 mg Omega-3 Single-Source Alaska Pollock Gluten-Free Non-GMO Wild Caught Dietary Supplement MSC Certified Sustainable Fishery Quality Matters Igen™ Tested IFOS™ Third Party Tested cGMP Compliant Non BPA Omega-3 Fish Oil is great for supporting heart and immune health, packed with essential Omega 3 fatty acids. And while there may be plenty of fish in the sea, not all are created equal. Our Sports Research® Triple Strength Omega-3 Fish Oil supplement is sourced from Wild Alaska Pollock and utilizes a 10-step refinement process to deliver an ultra-concentrated dose without the typical fishy aftertaste ▲ Triple Strength Omega-3 (in Triglyceride Form [TG as rTG]) when compared to standard fish oil softgels with only 10-30% Omega-3 content.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-01050",
+  "gtin12": "023249010500",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/g/52.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Sports Supplements",
+  "Sports Fish Oil & Omegas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Triple Strength▲",
+    "1250 mg Fish Oil | 1040 mg Omega-3",
+    "Single-Source Alaska Pollock",
+    "Gluten-Free",
+    "Non-GMO",
+    "Wild Caught",
+    "Dietary Supplement",
+    "MSC Certified Sustainable Fishery",
+    "Quality Matters",
+    "Igen™ Tested",
+    "IFOS™",
+    "Third Party Tested",
+    "cGMP Compliant",
+    "Non BPA"
+   ],
+   "paragraphs": [
+    "Omega-3 Fish Oil is great for supporting heart and immune health, packed with essential Omega 3 fatty acids. And while there may be plenty of fish in the sea, not all are created equal. Our Sports Research® Triple Strength Omega-3 Fish Oil supplement is sourced from Wild Alaska Pollock and utilizes a 10-step refinement process to deliver an ultra-concentrated dose without the typical fishy aftertaste",
+    "▲Triple Strength Omega-3 (in Triglyceride Form [TG as rTG]) when compared to standard fish oil softgels with only 10-30% Omega-3 content."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 softgel daily with food, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel capsule (fish gelatin [tilapia-sourced], vegetable glycerin, purified water), tocopherols.",
+    "Contains: Fish (Alaska pollock).",
+    "Fish oil sourced from Alaska. Proudly manufactured in the USA with carefully selected ingredients of domestic and international origins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children and pets. Consult with a qualified healthcare professional prior to using this product, especially if you are pregnant, nursing, have a diagnosed medical condition, are taking a prescription medication (e.g ., blood thinners), or are planning a surgical procedure. Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Store at room temperature, in a dry place. Protect product from excessive heat, freezing, humidity and light."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.37 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-01050"
+  },
+  {
+   "label": "UPC",
+   "value": "023249010500"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.1 x 7.2 x 7.1 cm, 0.37 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Serving Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%**"
+  ],
+  [
+   "Wild Alaska Pollock Fish Oil Concentrate",
+   "1,250 mg",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids as TG",
+   "1,040 mg",
+   "†"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "690 mg",
+   "†"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "260 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Bpa-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "90284",
+   "url": "https://th.iherb.com/pr/sports-research-alaskan-omega-3-fish-oil-90-softgels/90284",
+   "price": "฿1,147.04",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "72037",
+   "url": "https://th.iherb.com/pr/sports-research-alaskan-omega-3-fish-oil-triple-strength-180-softgels/72037",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#4 in",
+   "category": "Sports Fish Oil & Omegas",
+   "href": "/c/sports-fish-oil-omegas?sr=2"
+  },
+  {
+   "rank": "#9 in",
+   "category": "Sports Supplements",
+   "href": "/c/sports-supplements?sr=2"
+  },
+  {
+   "rank": "#22 in",
+   "category": "Omega-3 Fish Oil",
+   "href": "/c/omega-3-fish-oil?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,351.11",
+  "฿2,351.11",
+  "฿13.06/‏serving",
+  "{0}% off code: {1}",
+  "฿2,351.11",
+  "Save 0% in cart",
+  "฿13.06/‏serving",
+  "฿2,351.11",
+  "(0% off)",
+  "฿2,351.11",
+  "฿13.06/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/g/52.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/k/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/g/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre01050/s/57.jpg"
+ ]
+}

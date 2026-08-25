@@ -1,0 +1,263 @@
+{
+ "pid": "142270",
+ "slug": "naturelo-probiotic-50-billion-cfu-60-delayed-release-capsules",
+ "scrapedAt": "2026-08-25T17:19:20.970Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturelo-probiotic-50-billion-cfu-60-delayed-release-capsules.jpg",
+  "/products/iherb/naturelo-probiotic-50-billion-cfu-60-delayed-release-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturelo-probiotic-50-billion-cfu-60-delayed-release-capsules/142270",
+ "pageTitle": "NATURELO, Probiotic, 50 Billion CFU, 60 Delayed Release Capsules",
+ "h1": "NATURELO, Probiotic, 50 Billion CFU, 60 Delayed Release Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142270",
+  "name": "NATURELO, Probiotic, 50 Billion CFU, 60 Delayed Release Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/g/8.jpg",
+  "mpn": "NAU-62832",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 828
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NATURELO",
+   "url": "https://www.naturelo.com/",
+   "identifier": "NAU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1454.80",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "From Nature With Love® 50 Billion CFU† 11 Probiotic Strains Dietary Supplement Formulated to Support Immune and Digestive Health Suitable for Vegans and Vegetarians No GMOs No Soy No Gluten Vegan Friendly GMP - Good Manufacturing Practice Consistent Quality No Coloring, Preservatives or Flavoring The NATURELO Advantage 11 strain digestive health formula with 50 Billion live cultures†. Helps maintain intestinal comfort and digestive health. May help with occasional gas and bloating. Helps support immune system function. Delayed release capsule protects the probiotics from stomach acid to help ensure the bacteria are delivered to your intestinal tract alive. †This product guarantees a minimum potency of 14 Billion CFU per serving until expiration date.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "NAU-62832",
+  "gtin12": "628110628329",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "From Nature With Love®",
+    "50 Billion CFU†",
+    "11 Probiotic Strains",
+    "Dietary Supplement",
+    "Formulated to Support Immune and Digestive Health",
+    "Suitable for Vegans and Vegetarians",
+    "No GMOs",
+    "No Soy",
+    "No Gluten",
+    "Vegan Friendly",
+    "GMP - Good Manufacturing Practice Consistent Quality",
+    "No Coloring, Preservatives or Flavoring",
+    "11 strain digestive health formula with 50 Billion live cultures†.",
+    "Helps maintain intestinal comfort and digestive health.",
+    "May help with occasional gas and bloating.",
+    "Helps support immune system function.",
+    "Delayed release capsule protects the probiotics from stomach acid to help ensure the bacteria are delivered to your intestinal tract alive."
+   ],
+   "paragraphs": [
+    "The NATURELO Advantage",
+    "†This product guarantees a minimum potency of 14 Billion CFU per serving until expiration date."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one (1) capsule a day. May be taken with or without food, best if taken on an empty stomach thirty (30) minutes before a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (delayed release capsule), cellulose, rice fiber, rice extract blend.",
+    "Does not contain: GMOs, soy, gluten, dairy, eggs, fish, shellfish, tree nuts, peanuts or preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. As with any supplement, if you are pregnant, nursing or taking medication, consult your doctor before using this product. Store in a cool, dry place.",
+    "Do not use if safety seal under the lid is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAU-62832"
+  },
+  {
+   "label": "UPC",
+   "value": "628110628329"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.8 x 5.5 x 5.5 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Probiotic Complex: L. acidophilus (La-14), B. bifidum (Bb-06), B. longum (BI-05), L. gasseri (Lg-36), L. salivarius (Ls-33), B. breve (Bb-03), L. casei (Lc-11), L. rhamnosus (KP-GG), L. paracasei (Lpc-37), L. plantarum (Lp-115), B. lactis (Bi-07)",
+   "230 mg (50 Billion CFU)†",
+   "**"
+  ],
+  [
+   "†At the time of manufacture.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**",
+  "†At the time of manufacture.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "101365",
+   "url": "https://th.iherb.com/pr/naturelo-probiotic-50-billion-cfu-30-delayed-release-capsules/101365",
+   "price": "฿982.34",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "142270",
+   "url": "https://th.iherb.com/pr/naturelo-probiotic-50-billion-cfu-60-delayed-release-capsules/142270",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,454.80",
+  "฿1,454.80",
+  "฿24.25/‏serving",
+  "{0}% off code: {1}",
+  "฿1,454.80",
+  "Save 0% in cart",
+  "฿24.25/‏serving",
+  "฿1,454.80",
+  "(0% off)",
+  "฿1,454.80",
+  "฿24.25/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62832/s/10.jpg"
+ ]
+}

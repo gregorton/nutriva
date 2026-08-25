@@ -1,0 +1,281 @@
+{
+ "pid": "159296",
+ "slug": "mav-nutrition-melatonin-gummies-healthy-sleep-support-for-kids-yummy-r",
+ "scrapedAt": "2026-08-25T17:16:46.869Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": "New"
+ },
+ "images": [
+  "/products/iherb/mav-nutrition-melatonin-gummies-healthy-sleep-support-for-kids-yummy-r.jpg",
+  "/products/iherb/mav-nutrition-melatonin-gummies-healthy-sleep-support-for-kids-yummy-r-2.jpg",
+  "/products/iherb/mav-nutrition-melatonin-gummies-healthy-sleep-support-for-kids-yummy-r-3.jpg",
+  "/products/iherb/mav-nutrition-melatonin-gummies-healthy-sleep-support-for-kids-yummy-r-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mav-nutrition-melatonin-gummies-healthy-sleep-support-for-kids-yummy-raspberry-60-gummies/159296",
+ "pageTitle": "MAV Nutrition, Melatonin Gummies, Healthy Sleep Support, For Kids, Yummy Raspberry, 60 Gummies",
+ "h1": "MAV Nutrition, Melatonin Gummies, Healthy Sleep Support, For Kids, Yummy Raspberry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "159296",
+  "name": "MAV Nutrition, Melatonin Gummies, Healthy Sleep Support, For Kids, Yummy Raspberry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/g/8.jpg",
+  "mpn": "MVN-27318",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 2
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MAV Nutrition",
+   "url": "https://mavnutrition.com/",
+   "identifier": "MVN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.54",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "526.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Sourced From a GMP Registered Facility Vegan Friendly No High Fructose Corn Syrup Non-Habit Forming. Our formula allows your child to get a restful night’s sleep and a beneficial morning and not be groggy. Our Melatonin will provide your child with the sleep they need without creating dependency. Melatonin Sleep Supplement. Melatonin is a natural sleep aid alternative to sleeping pills. With the use of the low dosage of 0.5mg of Melatonin you child can have a restful night’s sleep without having a difficult morning. A natural way to help remedy your children’s wake and sleep cycles.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "MVN-27318",
+  "gtin12": "850018273183",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Sourced From a GMP Registered Facility",
+    "Vegan Friendly",
+    "No High Fructose Corn Syrup"
+   ],
+   "paragraphs": [
+    "Non-Habit Forming. Our formula allows your child to get a restful night’s sleep and a beneficial morning and not be groggy. Our Melatonin will provide your child with the sleep they need without creating dependency.",
+    "Melatonin Sleep Supplement. Melatonin is a natural sleep aid alternative to sleeping pills. With the use of the low dosage of 0.5mg of Melatonin you child can have a restful night’s sleep without having a difficult morning. A natural way to help remedy your children’s wake and sleep cycles."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Ages 2-3 chew one gummy as needed at bedtime. Ages 4 and up chew two gummies as needed at bedtime."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic cane sugar, tapioca syrup, water, pectin, natural raspberry flavor, citric acid, trisodium citrate, sodium malate, beet root."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult the child's physician before use if they have a serious medical condition or use prescription medications. This product may cause drowsiness.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MVN-27318"
+  },
+  {
+   "label": "UPC",
+   "value": "850018273183"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy/2 Gummies"
+  ],
+  [
+   "Servings Per Container: 60/30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV for Children 2-3 Yrs**",
+   "Amount Per Serving",
+   "%DV for Adults and Children 4 and Up*"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%***",
+   "5 g",
+   "2%**"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "†",
+   "4 g",
+   "†"
+  ],
+  [
+   "Included Added Sugars",
+   "2 g",
+   "4%***",
+   "4 g",
+   "8%**"
+  ],
+  [
+   "Chamomile",
+   "50 mg",
+   "†",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Lemon Balm",
+   "15 mg",
+   "†",
+   "30 mg",
+   "†"
+  ],
+  [
+   "Melatonin",
+   "0.5 mg",
+   "†",
+   "1 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Value (DV) based on a 2,000 calorie diet.***Percent Daily Value based on a 1,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Percent Daily Value (DV) based on a 2,000 calorie diet.",
+  "***Percent Daily Value based on a 1,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿526.75",
+  "฿526.75",
+  "฿8.78/‏serving",
+  "{0}% off code: {1}",
+  "฿526.75",
+  "Save 0% in cart",
+  "฿8.78/‏serving",
+  "฿526.75",
+  "(0% off)",
+  "฿526.75",
+  "฿8.78/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/23.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mvn/mvn27318/s/24.jpg"
+ ]
+}

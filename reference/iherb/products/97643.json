@@ -1,0 +1,249 @@
+{
+ "pid": "97643",
+ "slug": "life-extension-curcumin-elite-turmeric-extract-60-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:37:50.084Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/life-extension-curcumin-elite-turmeric-extract-60-vegetarian-capsules.jpg",
+  "/products/iherb/life-extension-curcumin-elite-turmeric-extract-60-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/life-extension-curcumin-elite-turmeric-extract-60-vegetarian-capsules/97643",
+ "pageTitle": "Life Extension, Curcumin Elite™, Turmeric Extract, 60 Vegetarian Capsules",
+ "h1": "Life Extension, Curcumin Elite™, Turmeric Extract, 60 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "97643",
+  "name": "Life Extension, Curcumin Elite™, Turmeric Extract, 60 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/g/57.jpg",
+  "mpn": "LEX-24076",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 7228
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Life Extension",
+   "url": "https://www.lifeextension.com",
+   "identifier": "LEX"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "915.10",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Gluten Free Non GMO LE Certified Up To 45.5 Times Greater Bioavailability‡ Dietary Supplement What Is Curcumin Elite Turmeric Extract? Turmeric is a centuries-old ayurvedic spice. The plant’s benefits come from the special active compounds in turmeric root called curcuminoids. But these curcuminoids quickly become less effective during digestion, limiting the good they can do. Our proprietary Curcumin Elite™ formula preserves curcuminoids’ bioavailability—so you get the maximum possible benefit! By combining turmeric extract with fenugreek fibers, we’ve created Curcumin Elite™: our most bioavailable curcumin supplement ever. Curcumin Elite™ Turmeric Extract Benefits Promotes healthy inflammatory response, cardiovascular health, brain health, and immune response Delivers 45x more bioavailable free curcuminoids and 270 times better absorption of total curcuminoids* Better together: take with Pro Resolving Mediators for maximum health benefits *Than unformulated curcumin. ‡Studied against powder turmeric extract standardized to 95% curcuminoids.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.25x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "LEX-24076",
+  "gtin12": "737870240761",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/g/57.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Gluten Free",
+    "Non GMO LE Certified",
+    "Up To 45.5 Times Greater Bioavailability‡",
+    "Dietary Supplement",
+    "Promotes healthy inflammatory response, cardiovascular health, brain health, and immune response",
+    "Delivers 45x more bioavailable free curcuminoids and 270 times better absorption of total curcuminoids*",
+    "Better together: take with Pro Resolving Mediators for maximum health benefits"
+   ],
+   "paragraphs": [
+    "What Is Curcumin Elite Turmeric Extract?",
+    "Turmeric is a centuries-old ayurvedic spice. The plant’s benefits come from the special active compounds in turmeric root called curcuminoids. But these curcuminoids quickly become less effective during digestion, limiting the good they can do. Our proprietary Curcumin Elite™ formula preserves curcuminoids’ bioavailability—so you get the maximum possible benefit!",
+    "By combining turmeric extract with fenugreek fibers, we’ve created Curcumin Elite™: our most bioavailable curcumin supplement ever.",
+    "Curcumin Elite™ Turmeric Extract Benefits",
+    "*Than unformulated curcumin.",
+    "‡Studied against powder turmeric extract standardized to 95% curcuminoids."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Read the entire label and follow the directions carefully.",
+    "Take one (1) capsule daily, or as recommended by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, vegetable cellulose (capsule), vegetable stearate, silica."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Keep out of reach of children.",
+    "Do not exceed recommended dose.",
+    "Do not purchase if outer seal is broken or damaged.",
+    "Consult with your physician if you are undergoing treatment for a medical condition or if you are pregnant or lactating."
+   ],
+   "paragraphs": [
+    "Store tightly closed in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LEX-24076"
+  },
+  {
+   "label": "UPC",
+   "value": "737870240761"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 5.7 x 5.7 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetarian Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Curcumin Elite™Proprietary CGM Blend providing 40% curcuminoids (200 mg) and 3% turmerones (15 mg) [from turmeric (rhizome)], 30% galactomannans (150 mg) [from fenugreek (seed)]",
+   "500 mg",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetarian capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "97644",
+   "url": "https://th.iherb.com/pr/life-extension-curcumin-elite-turmeric-extract-30-vegetarian-capsules/97644",
+   "price": "฿492.15",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "97643",
+   "url": "https://th.iherb.com/pr/life-extension-curcumin-elite-turmeric-extract-60-vegetarian-capsules/97643",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿915.10",
+  "฿915.10",
+  "฿15.25/‏serving",
+  "{0}% off code: {1}",
+  "฿915.10",
+  "Save 0% in cart",
+  "฿15.25/‏serving",
+  "฿915.10",
+  "(0% off)",
+  "฿915.10",
+  "฿15.25/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/g/57.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/k/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/g/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lex/lex24076/s/62.jpg"
+ ]
+}

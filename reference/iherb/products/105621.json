@@ -1,0 +1,242 @@
+{
+ "pid": "105621",
+ "slug": "california-gold-nutrition-curcumin-95-30-veggie-capsules-500-mg-per-ca",
+ "scrapedAt": "2026-08-25T17:23:51.601Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "1K+",
+  "flag": "Flash Deal\n                                \n\n\n    \n\n            \n                \n            \n        \n            Discount details\n            Limited time and while supplies last. Limited units per customer at the Flash Deal price. Additional quantities added to your cart will be charged at regular retail price."
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-curcumin-95-30-veggie-capsules-500-mg-per-ca.jpg",
+  "/products/iherb/california-gold-nutrition-curcumin-95-30-veggie-capsules-500-mg-per-ca-2.jpg",
+  "/products/iherb/california-gold-nutrition-curcumin-95-30-veggie-capsules-500-mg-per-ca-3.jpg",
+  "/products/iherb/california-gold-nutrition-curcumin-95-30-veggie-capsules-500-mg-per-ca-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-curcumin-95-30-veggie-capsules-500-mg-per-capsule/105621",
+ "pageTitle": "California Gold Nutrition, Curcumin 95, 30 Veggie Capsules (500 mg per Capsule)",
+ "h1": "California Gold Nutrition, Curcumin 95, 30 Veggie Capsules (500 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "105621",
+  "name": "California Gold Nutrition, Curcumin 95, 30 Veggie Capsules (500 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/g/74.jpg",
+  "mpn": "LKN-02002",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3992
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "255.26",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "319.08",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Curcumin 95 Standardized Turmeric Extract Antioxidant Support* Promotes Heart Health, Cognitive Health, and Joint Health* Formulated without Gluten, GMOs, or Soy Produced in a GMP Facility Curcumin is one of several curcuminoids, or bioactive compounds, found in turmeric. California Gold Nutrition® Curcumin 95 contains this helpful compound and may provide antioxidant support to the body.* Curcumin Benefits Curcumin is a yellow pigment and the main component in the popular spice turmeric. This compound is what gives turmeric many of its potential health benefits, which is why it is often extracted to be used in dietary supplements. Curcumin may help to increase the level of antioxidants in the body, and promote heart health, cognitive health, and joint health, which can help support an overall healthy lifestyle.* California Gold Nutrition® Curcumin 95 contains curcumin extracted from turmeric root ( Curcuma longa ). When taken as directed, this provides a one-month supply. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "LKN-02002",
+  "gtin12": "898220020027",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/g/74.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Curcumin 95",
+    "Standardized Turmeric Extract",
+    "Antioxidant Support*",
+    "Promotes Heart Health, Cognitive Health, and Joint Health*",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a GMP Facility"
+   ],
+   "paragraphs": [
+    "Curcumin is one of several curcuminoids, or bioactive compounds, found in turmeric. California Gold Nutrition® Curcumin 95 contains this helpful compound and may provide antioxidant support to the body.*",
+    "Curcumin BenefitsCurcumin is a yellow pigment and the main component in the popular spice turmeric. This compound is what gives turmeric many of its potential health benefits, which is why it is often extracted to be used in dietary supplements. Curcumin may help to increase the level of antioxidants in the body, and promote heart health, cognitive health, and joint health, which can help support an overall healthy lifestyle.*",
+    "California Gold Nutrition® Curcumin 95 contains curcumin extracted from turmeric root (Curcuma longa). When taken as directed, this provides a one-month supply.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g ., blood thinners) as well as those with a physician diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LKN-02002"
+  },
+  {
+   "label": "UPC",
+   "value": "898220020027"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.4 x 4.6 x 4.4 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Extract (Curcuma longa) (root)(Std. to 95% Curcuminoids)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿319.08",
+  "฿319.08",
+  "฿10.64/‏serving",
+  "{0}% off code: {1}",
+  "฿319.08",
+  "Save 20% in cart",
+  "฿10.64/‏serving",
+  "฿255.26",
+  "(20% off)",
+  "฿319.08",
+  "฿8.51/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/g/74.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/k/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/g/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/s/79.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/s/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/s/121.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02002/s/85.jpg"
+ ]
+}

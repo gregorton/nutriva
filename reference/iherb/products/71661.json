@@ -1,0 +1,355 @@
+{
+ "pid": "71661",
+ "slug": "dymatize-elite-100-whey-protein-powder-gourmet-vanilla-2-lbs-907-g",
+ "scrapedAt": "2026-08-25T17:23:08.717Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/dymatize-elite-100-whey-protein-powder-gourmet-vanilla-2-lbs-907-g.jpg",
+  "/products/iherb/dymatize-elite-100-whey-protein-powder-gourmet-vanilla-2-lbs-907-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dymatize-elite-100-whey-protein-powder-gourmet-vanilla-2-lbs-907-g/71661",
+ "pageTitle": "Dymatize, Elite 100% Whey Protein Powder, Gourmet Vanilla, 2 lbs (907 g)",
+ "h1": "Dymatize, Elite 100% Whey Protein Powder, Gourmet Vanilla, 2 lbs (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "71661",
+  "name": "Dymatize, Elite 100% Whey Protein Powder, Gourmet Vanilla, 2 lbs (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/g/14.jpg",
+  "mpn": "DYZ-59916",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 109
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dymatize",
+   "url": "http://www.dymatize.com/",
+   "identifier": "DYZ"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2129.70",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Protein 25 g BCAAs 5.5 g Leucine 2.7 g Informed Choice - We Test You Trust Banned Substance Tested Protein Powder 100% Whey Protein^ Naturally and Artificially Flavored Get Dymatized Typical Amino Acid Profile** 25 g Total Amino Acids Per Serving 47% Essential Amino Acids (EAAs): 11.8 g 2:1:1 Ratio BCAAs 5.5 g Leucine 2.7 g - Why Leucine? Leucine is the BCAA that is directly involved in activating Muscle Protein Synthesis. Other EAAs 6.3 g 27% Conditionally Essential Amino Acids (CEAAs): 6.8 g Glutamine† 4.4 g - Is Glutamine important? Yes! Glutamine supports muscle recovery after strenuous workouts. Other CEAAs 2.4 g 26% Non-Essential Amino Acids (Non-EAAs): 6.5 g Non-EAAs 6.5g Why is non-essential... essential? Non-Essential aminos are foundational building blocks of muscle! Informed-Choice® is quality assurance program that certifies that all nutritional supplements and/or ingredients that bear the Informed-Choice logo have been tested for banned substances by the world class sports anti-doping lab, LGC. Amounts Per Serving Protein 25 g Calories 140 Carbs 2 g Fat 3 g Sugar 2 g BCAAs 5.5 g Leucine 2.7 g The Anytime, Anywhere, Fast-Digesting, Fast-Absorbing, 100% Whey Protein. ∧ Whether you're preparing for a hard workout, recovering from intense training in the gym or simply looking to increase your protein intake, Elite 100% Whey® Protein is the perfect anytime protein. Elite 100% Whey Protein flavors are developed in-house so they are delicious every time you enjoy an Elite 100% Whey Protein shake. Think of it as an indulgent, smart reward for your hard work and dedication. Packed with 25 Grams of High-Quality Protein. Each serving of Elite 100% Whey Protein is packed with 25g of protein from high-quality, fast-digesting and absorbing whey protein, including whey protein concentrate, whey protein isolate, and whey peptides. Elite 100% Whey Protein is instantized for easy mixing ensuring that you get world-class taste and consistency from every serving. The exceptional quality of Elite 100% Whey Protein utilizes cross-flow microfiltration processing to preserve the important muscle building properties of whey protein and whey protein fractions such as alpha-lactalbumin and beta-lactoglobulin, serum albumins and immunoglobulins. Elite 100% Whey Protein is formulated by in-house research and development scientists by carefully selecting ingredients that meet our high quality standards and specifications. Real Science & Quality Dymatize® proteins are formulated based on the latest science and put to the test in university studies and at elite professional training facilities. Dymatize protein powders are always manufactured in GMP and Sport Certified facilities, meaning that all ingredients and final products are rigorously tested and validated clean and safe. They are banned substance tested for athlete's reassurance by Informed-Choice®. Dymatize Protein Ethics 100% of the protein claimed per serving is derived from high-quality, pure, intact proteins. We do not amino spike. ^100% of the protein from Whey Protein. **All Amino Acids are naturally occurring in protein. Amounts are based on one serving. †Includes Glutamic Acid",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.95x5.9"
+  },
+  "isRelatedTo": null,
+  "sku": "DYZ-59916",
+  "gtin12": "705016599165",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/g/14.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Protein 25 g",
+    "BCAAs 5.5 g",
+    "Leucine 2.7 g",
+    "Informed Choice - We Test You Trust",
+    "Banned Substance Tested",
+    "Protein Powder 100% Whey Protein^",
+    "Naturally and Artificially Flavored",
+    "Get Dymatized",
+    "2:1:1 Ratio BCAAs 5.5 g",
+    "Leucine 2.7 g - Why Leucine? Leucine is the BCAA that is directly involved in activating Muscle Protein Synthesis.",
+    "Other EAAs 6.3 g",
+    "Glutamine† 4.4 g - Is Glutamine important? Yes! Glutamine supports muscle recovery after strenuous workouts.",
+    "Other CEAAs 2.4 g",
+    "Non-EAAs 6.5g",
+    "Protein 25 g",
+    "Calories 140",
+    "Carbs 2 g",
+    "Fat 3 g",
+    "Sugar 2 g",
+    "BCAAs 5.5 g",
+    "Leucine 2.7 g"
+   ],
+   "paragraphs": [
+    "Typical Amino Acid Profile**",
+    "25 g Total Amino Acids Per Serving",
+    "47% Essential Amino Acids (EAAs): 11.8 g",
+    "27% Conditionally Essential Amino Acids (CEAAs): 6.8 g",
+    "26% Non-Essential Amino Acids (Non-EAAs): 6.5 g",
+    "Why is non-essential... essential? Non-Essential aminos are foundational building blocks of muscle!",
+    "Informed-Choice® is quality assurance program that certifies that all nutritional supplements and/or ingredients that bear the Informed-Choice logo have been tested for banned substances by the world class sports anti-doping lab, LGC.",
+    "Amounts Per Serving",
+    "The Anytime, Anywhere, Fast-Digesting, Fast-Absorbing, 100% Whey Protein.∧",
+    "Whether you're preparing for a hard workout, recovering from intense training in the gym or simply looking to increase your protein intake, Elite 100% Whey® Protein is the perfect anytime protein.",
+    "Elite 100% Whey Protein flavors are developed in-house so they are delicious every time you enjoy an Elite 100% Whey Protein shake. Think of it as an indulgent, smart reward for your hard work and dedication.",
+    "Packed with 25 Grams of High-Quality Protein.",
+    "Each serving of Elite 100% Whey Protein is packed with 25g of protein from high-quality, fast-digesting and absorbing whey protein, including whey protein concentrate, whey protein isolate, and whey peptides. Elite 100% Whey Protein is instantized for easy mixing ensuring that you get world-class taste and consistency from every serving.",
+    "The exceptional quality of Elite 100% Whey Protein utilizes cross-flow microfiltration processing to preserve the important muscle building properties of whey protein and whey protein fractions such as alpha-lactalbumin and beta-lactoglobulin, serum albumins and immunoglobulins. Elite 100% Whey Protein is formulated by in-house research and development scientists by carefully selecting ingredients that meet our high quality standards and specifications.",
+    "Real Science & Quality",
+    "Dymatize® proteins are formulated based on the latest science and put to the test in university studies and at elite professional training facilities. Dymatize protein powders are always manufactured in GMP and Sport Certified facilities, meaning that all ingredients and final products are rigorously tested and validated clean and safe. They are banned substance tested for athlete's reassurance by Informed-Choice®.",
+    "Dymatize Protein Ethics",
+    "100% of the protein claimed per serving is derived from high-quality, pure, intact proteins. We do not amino spike.",
+    "^100% of the protein from Whey Protein.",
+    "**All Amino Acids are naturally occurring in protein. Amounts are based on one serving.",
+    "†Includes Glutamic Acid"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Formulated to easy mixing. Add one scoop (included) to 6-8 fl oz (180 ml - 240 ml) of water, milk or your favorite beverage and mix thoroughly. Enjoy prior to workouts, within 30 minutes after workouts or anytime you desire a high-quality, high-protein drink."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Whey protein blend(whey protein concentrate, whey protein isolate, hydrolyzed whey protein concentrate). Less than2% of: natural and artificial flavors, soy lecithin, sucralose, acesulfame potassium, gum blend (cellulose gum, xanthan gum,carrageenan).",
+    "Contains: Milk and soy.",
+    "Contains a bioengineered food ingredient.",
+    "Made in the USA from domestic and international ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Sold by weight not volume.",
+    "Use this product as a Food Supplement only. Do not use for weight reduction.",
+    "Store in a cool, dry place.",
+    "Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DYZ-59916"
+  },
+  {
+   "label": "UPC",
+   "value": "705016599165"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.4 x 15.1 x 15 cm, 1.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (34 g)"
+  ],
+  [
+   "Servings Per Container: About 26"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "140",
+   ""
+  ],
+  [
+   "Total Fat",
+   "3 g",
+   "4%"
+  ],
+  [
+   "Saturated Fat",
+   "1.5 g",
+   "8%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "75 mg",
+   "25%"
+  ],
+  [
+   "Sodium",
+   "95 mg",
+   "25%"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   "50%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "130 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "140 mg",
+   "2%"
+  ],
+  [
+   "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "26"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "907 g",
+   "pid": "71661",
+   "url": "https://th.iherb.com/pr/dymatize-elite-100-whey-protein-powder-gourmet-vanilla-2-lbs-907-g/71661",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "2300 g",
+   "pid": "61442",
+   "url": "https://th.iherb.com/pr/dymatize-elite-100-whey-protein-powder-gourmet-vanilla-5-lbs-2-3-kg/61442",
+   "price": "฿4,456.25",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 8 left",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,129.70",
+  "฿2,129.70",
+  "฿81.91/‏serving",
+  "{0}% off code: {1}",
+  "฿2,129.70",
+  "Save 0% in cart",
+  "฿81.91/‏serving",
+  "฿2,129.70",
+  "(0% off)",
+  "฿2,129.70",
+  "฿81.91/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/g/14.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/k/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/g/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dyz/dyz59916/b/14.jpg"
+ ]
+}

@@ -1,0 +1,242 @@
+{
+ "pid": "160757",
+ "slug": "dr-murray-s-vitamin-d3-k2-60-vegan-capsules",
+ "scrapedAt": "2026-08-25T17:14:46.001Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "100+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/dr-murray-s-vitamin-d3-k2-60-vegan-capsules.jpg",
+  "/products/iherb/dr-murray-s-vitamin-d3-k2-60-vegan-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dr-murray-s-vitamin-d3-k2-60-vegan-capsules/160757",
+ "pageTitle": "Dr. Murray's, Vitamin D3 + K2, 60 Vegan Capsules",
+ "h1": "Dr. Murray's, Vitamin D3 + K2, 60 Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "160757",
+  "name": "Dr. Murray's, Vitamin D3 + K2, 60 Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/g/8.jpg",
+  "mpn": "DMY-44303",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 11
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dr. Murray's",
+   "url": "https://www.doctormurraysuperfoods.com/",
+   "identifier": "DMY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "344.51",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Products 5,000 IU + 180 mcg Clinical Strength Supports Strong, Healthy Bones Supports Vascular Health Supports Immune Function Dietary Supplement",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "DMY-44303",
+  "gtin12": "850084443039",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural Products",
+    "5,000 IU + 180 mcg",
+    "Clinical Strength",
+    "Supports Strong, Healthy Bones",
+    "Supports Vascular Health",
+    "Supports Immune Function",
+    "Dietary Supplement"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "One capsule daily or as directed by your health care provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hydroxypropyl methylcellulose (vegan capsule) and ascorbyl palmitate.",
+    "Does not contain: Peanuts, tree nuts, fish, shellfish, eggs, milk, wheat, soy, sesame, or gluten.",
+    "Manufactured in a USA cGMP Facility third-party tested for quality globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Storage: Store in a cool dry place. Do not use if seal is broken, keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DMY-44303"
+  },
+  {
+   "label": "UPC",
+   "value": "850084443039"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 5.3 x 5.2 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (as cholecalciferol, D3)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (Menaquinone-7)",
+   "180 mcg",
+   "†"
+  ],
+  [
+   "Medium chain triglycerides",
+   "50 mg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Shellfish-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿344.51",
+  "฿344.51",
+  "฿5.74/‏serving",
+  "{0}% off code: {1}",
+  "฿344.51",
+  "Save 0% in cart",
+  "฿5.74/‏serving",
+  "฿344.51",
+  "(0% off)",
+  "฿344.51",
+  "฿5.74/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy44303/s/13.jpg"
+ ]
+}

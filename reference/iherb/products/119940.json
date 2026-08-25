@@ -1,0 +1,375 @@
+{
+ "pid": "119940",
+ "slug": "nutrachamps-kids-multivitamin-gummies-strawberry-passionfruit-peach-ch",
+ "scrapedAt": "2026-08-25T17:21:29.551Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutrachamps-kids-multivitamin-gummies-strawberry-passionfruit-peach-ch.jpg",
+  "/products/iherb/nutrachamps-kids-multivitamin-gummies-strawberry-passionfruit-peach-ch-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutrachamps-kids-multivitamin-gummies-strawberry-passionfruit-peach-cherry-120-vegan-gummies/119940",
+ "pageTitle": "NutraChamps, Kids Multivitamin Gummies, Strawberry, Passionfruit, Peach & Cherry, 120 Vegan Gummies",
+ "h1": "NutraChamps, Kids Multivitamin Gummies, Strawberry, Passionfruit, Peach & Cherry, 120 Vegan Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "119940",
+  "name": "NutraChamps, Kids Multivitamin Gummies, Strawberry, Passionfruit, Peach & Cherry, 120 Vegan Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/g/40.jpg",
+  "mpn": "NHP-50081",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 198
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NutraChamps",
+   "url": "https://www.nutrachamps.com/",
+   "identifier": "NHP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.60",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "600.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Sugar Free Essential Daily Kids Formula A Blend of Vitamins A, C, D, E, K, Bs, Inositol & Zinc Dietary Supplement GMP Consistent Quality Lab Tested Verified Non GMO Plant Based A tasty sugar-free candy-like-multivitamin carefully designed to contain all the essential nutrients parents want and kids need, Supports healthy growth, development and a strong immune system - helping little bodies thrive.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "NHP-50081",
+  "gtin12": "621983500815",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Sugar Free",
+    "Essential Daily Kids Formula",
+    "A Blend of Vitamins A, C, D, E, K, Bs, Inositol & Zinc",
+    "Dietary Supplement",
+    "GMP Consistent Quality",
+    "Lab Tested Verified",
+    "Non GMO",
+    "Plant Based"
+   ],
+   "paragraphs": [
+    "A tasty sugar-free candy-like-multivitamin carefully designed to contain all the essential nutrients parents want and kids need, Supports healthy growth, development and a strong immune system - helping little bodies thrive."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take two (2) gummies daily, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Non-GMO maltitol syrup, isomalt, pectin, vegetable glycerin, arabic gum, citric acid, coconut oil, sodium citrate, natural flavors, vegetable oil, carnauba wax, purple carrot concentrate.",
+    "Contains: Tree nuts (coconut)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Pregnant or nursing mothers or individuals with a known medical condition should consult a physician before using this or any dietary supplement.",
+    "Keep out of the reach of children to prevent accidental use. Do not use if safety seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NHP-50081"
+  },
+  {
+   "label": "UPC",
+   "value": "621983500815"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.4 x 6.9 x 6.7 cm, 0.27 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 or 4 Gummies"
+  ],
+  [
+   "Servings Per Container: 30 or 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV for Children 2-3 Yrs of Age (2 Gummies)‡",
+   "Amount Per Serving",
+   "%DV for Adults & Children 4 Yrs of Age & Older (4 Gummies)‡"
+  ],
+  [
+   "Calories",
+   "5",
+   "",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "3%",
+   "8 g",
+   "3%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "**",
+   "0 g",
+   "**"
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%",
+   "",
+   "0%"
+  ],
+  [
+   "Sugar Alcohol",
+   "4 g",
+   "**",
+   "7 g",
+   "**"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "400 mcg",
+   "133%",
+   "800 mcg",
+   "89%"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid)",
+   "10 mg",
+   "67%",
+   "20 mg",
+   "22%"
+  ],
+  [
+   "Vitamin D3 (as Vegan Cholecalciferol)(Plant-sourced from Lichen)",
+   "(120 IU)3 mcg",
+   "20%",
+   "(240 IU)6 mcg",
+   "30%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha Tocopheryl Acetate)",
+   "4 mg",
+   "67%",
+   "8 mg",
+   "53%"
+  ],
+  [
+   "Vitamin K (K1 and Phytonadione)",
+   "10 mcg",
+   "33%",
+   "20 mcg",
+   "17%"
+  ],
+  [
+   "Riboflavin (Vitamin B2)",
+   "0.5 mg",
+   "100%",
+   "1 mg",
+   "77%"
+  ],
+  [
+   "Niacin (as Niacinamide) (Vitamin B3)",
+   "2.5 mg",
+   "42%",
+   "5 mg",
+   "31%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCl)",
+   "0.5 mg",
+   "100%",
+   "1 mg",
+   "59%"
+  ],
+  [
+   "Folate",
+   "150 mcg DFE(as 90 mcg Folic Acid)",
+   "100%",
+   "300 mcg DFE(as 180 mcg Folic Acid)",
+   "75%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "5 mcg",
+   "556%",
+   "10 mcg",
+   "417%"
+  ],
+  [
+   "Biotin",
+   "37.5 mcg",
+   "469%",
+   "75 mcg",
+   "250%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium Pantothenate)",
+   "2.5 mg",
+   "125%",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "20 mcg",
+   "<1%",
+   "40 mcg",
+   "<1%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "22.5 mcg",
+   "25%",
+   "45 mcg",
+   "30%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "1.5 mg",
+   "50%",
+   "3 mg",
+   "27%"
+  ],
+  [
+   "Inositol",
+   "20 mcg",
+   "**",
+   "40 mcg",
+   "**"
+  ],
+  [
+   "‡Percent Daily Values (DV) are based on a 1,000 calorie diet.†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "‡Percent Daily Values (DV) are based on a 1,000 calorie diet.",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 7 left",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿600.75",
+  "฿600.75",
+  "฿10.01/‏serving",
+  "{0}% off code: {1}",
+  "฿600.75",
+  "Save 0% in cart",
+  "฿10.01/‏serving",
+  "฿600.75",
+  "(0% off)",
+  "฿600.75",
+  "฿10.01/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nhp/nhp50081/s/45.jpg"
+ ]
+}

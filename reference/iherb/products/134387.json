@@ -1,0 +1,245 @@
+{
+ "pid": "134387",
+ "slug": "divine-health-dr-colbert-m-d-immune-support-90-capsules",
+ "scrapedAt": "2026-08-25T17:15:01.695Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/divine-health-dr-colbert-m-d-immune-support-90-capsules.jpg",
+  "/products/iherb/divine-health-dr-colbert-m-d-immune-support-90-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/divine-health-dr-colbert-m-d-immune-support-90-capsules/134387",
+ "pageTitle": "Divine Health, Dr Colbert M.D., Immune Support, 90 Capsules",
+ "h1": "Divine Health, Dr Colbert M.D., Immune Support, 90 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "134387",
+  "name": "Divine Health, Dr Colbert M.D., Immune Support, 90 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/g/24.jpg",
+  "mpn": "DVH-00858",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 17
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Divine Health",
+   "url": "https://shop.drcolbert.com/",
+   "identifier": "DVH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.27",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "885.87",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vitamin C Zinc Vitamin D3 Elderberry Quercetin Dietary Supplement GMP Quality - Good Manufacturing Practice Certification Boost your body's natural defenses with Divine Health Immune Support, a premium supplement meticulously designed to enhance your immune function and overall well-being. This powerful formula combines potent vitamins, essential minerals, and natural plant extracts to provide comprehensive immune support. Each ingredient has been carefully selected to maximize effectiveness and ensure optimal health benefits.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "DVH-00858",
+  "gtin12": "857772008587",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vitamin C",
+    "Zinc",
+    "Vitamin D3",
+    "Elderberry",
+    "Quercetin",
+    "Dietary Supplement",
+    "GMP Quality - Good Manufacturing Practice Certification"
+   ],
+   "paragraphs": [
+    "Boost your body's natural defenses with Divine Health Immune Support, a premium supplement meticulously designed to enhance your immune function and overall well-being. This powerful formula combines potent vitamins, essential minerals, and natural plant extracts to provide comprehensive immune support. Each ingredient has been carefully selected to maximize effectiveness and ensure optimal health benefits."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 2 capsules daily or as directed by your healthcare provider. For optimal results, take 20-30 minutes before a meal with an 8 oz glass of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Veggie capsule (hypromellose) & rice flour."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, may become pregnant, or breastfeeding, consult with your healthcare provider before using this product. Keep out of the reach of children. Do not store In direct sunlight. Store In a cool, dry place.",
+    "Tamper Evident: Do not use if seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DVH-00858"
+  },
+  {
+   "label": "UPC",
+   "value": "857772008587"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.5 x 5.5 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veggie Capsules"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Vitamin C (as Calcium Ascorbate)",
+   "1,000 mg",
+   "1,111%"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "5,000 IU (125 mcg)",
+   "625%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "30 mg",
+   "100%"
+  ],
+  [
+   "Quercetin",
+   "250 mg",
+   "†"
+  ],
+  [
+   "Elderberry Extract 10:1",
+   "200 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veggie capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿885.87",
+  "฿885.87",
+  "฿19.69/‏serving",
+  "{0}% off code: {1}",
+  "฿885.87",
+  "Save 0% in cart",
+  "฿19.69/‏serving",
+  "฿885.87",
+  "(0% off)",
+  "฿885.87",
+  "฿19.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dvh/dvh00858/s/29.jpg"
+ ]
+}

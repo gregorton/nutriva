@@ -1,0 +1,258 @@
+{
+ "pid": "118882",
+ "slug": "nature-s-craft-organic-vitamin-d3-k2-drops-alcohol-free-60-ml",
+ "scrapedAt": "2026-08-25T17:10:46.695Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-organic-vitamin-d3-k2-drops-alcohol-free-60-ml.jpg",
+  "/products/iherb/nature-s-craft-organic-vitamin-d3-k2-drops-alcohol-free-60-ml-2.jpg",
+  "/products/iherb/nature-s-craft-organic-vitamin-d3-k2-drops-alcohol-free-60-ml-3.jpg",
+  "/products/iherb/nature-s-craft-organic-vitamin-d3-k2-drops-alcohol-free-60-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-organic-vitamin-d3-k2-drops-alcohol-free-60-ml/118882",
+ "pageTitle": "Nature's Craft, Organic Vitamin D3 + K2 Drops, Alcohol-Free, 60 ml",
+ "h1": "Nature's Craft, Organic Vitamin D3 + K2 Drops, Alcohol-Free, 60 ml",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "118882",
+  "name": "Nature's Craft, Organic Vitamin D3 + K2 Drops, Alcohol-Free, 60 ml",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/g/108.jpg",
+  "mpn": "NCA-38620",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 489
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.28",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "782.19",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-30T00:00:00"
+  },
+  "description": "USDA Organic Non-GMO Vegan Gluten-Free Daily Vitamins Dietary Supplement Sourced From a GMP Certified Facility ISO 17025 Lab Tested Halal Certified Organic by Organic Certifiers, Ventura CA The powerful duo of vitamins K2 and D3 supports strong bones, heart health, and immune function by helping your body absorb and direct calcium where it's needed most. Sugar-free Boosts immune defense Supports heart health Strengthens bones and teeth Strong Bones, Stronger You Boost your daily wellness with our K2+D3 drops-an easy way to build stronger bones, support heart health. and keep your immune system thriving. With just a few drops a day, you'll have everything you need to stay active and healthy",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.7x1.6"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-38620",
+  "gtin12": "850034386201",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/g/108.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "USDA Organic",
+    "Non-GMO",
+    "Vegan",
+    "Gluten-Free",
+    "Daily Vitamins",
+    "Dietary Supplement",
+    "Sourced From a GMP Certified Facility",
+    "ISO 17025 Lab Tested",
+    "Halal",
+    "Certified Organic by Organic Certifiers, Ventura CA",
+    "Sugar-free",
+    "Boosts immune defense",
+    "Supports heart health",
+    "Strengthens bones and teeth"
+   ],
+   "paragraphs": [
+    "The powerful duo of vitamins K2 and D3 supports strong bones, heart health, and immune function by helping your body absorb and direct calcium where it's needed most.",
+    "Strong Bones, Stronger You",
+    "Boost your daily wellness with our K2+D3 drops-an easy way to build stronger bones, support heart health. and keep your immune system thriving. With just a few drops a day, you'll have everything you need to stay active and healthy"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "Water",
+    "Smoothie",
+    "Milk"
+   ],
+   "paragraphs": [
+    "Take 17 drops (a quarter of a dropper) once daily, as needed, or as directed by a healthcare professional. Can be taken directly or added to juice.",
+    "Ways to Use:"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic MCT oil and mixed tocopherols."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Not intended for pregnant or nursing mothers. Individuals taking blood thinners, any other medications, or have any known medical conditions should consult a physician before using any herbal supplements. Discontinue use and consult your doctor if any adverse reactions occur. Not intended to treat obesity; consult a physician before beginning any weight loss program.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-38620"
+  },
+  {
+   "label": "UPC",
+   "value": "850034386201"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.4 x 4.3 x 4.1 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 0.5 ml (Approx. 17 drops)"
+  ],
+  [
+   "Servings Per Bottle: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (from Lichen)",
+   "50 mcg",
+   "250%"
+  ],
+  [
+   "Vitamin K2 (as MK-7 from Natto)",
+   "20 mcg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "0.5 ml"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Halal",
+    "Gluten-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock - Only 2 left, more to come",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿782.19",
+  "฿782.19",
+  "฿6.52/‏serving",
+  "{0}% off code: {1}",
+  "฿782.19",
+  "Save 0% in cart",
+  "฿6.52/‏serving",
+  "฿782.19",
+  "(0% off)",
+  "฿782.19",
+  "฿6.52/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/g/108.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/k/108.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/g/108.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/108.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/110.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/79.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38620/s/81.jpg"
+ ]
+}

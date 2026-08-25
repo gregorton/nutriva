@@ -1,0 +1,360 @@
+{
+ "pid": "89773",
+ "slug": "culturelle-kids-multivitamin-probiotic-chewables-3-years-natural-fruit",
+ "scrapedAt": "2026-08-25T17:29:42.573Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/culturelle-kids-multivitamin-probiotic-chewables-3-years-natural-fruit.jpg",
+  "/products/iherb/culturelle-kids-multivitamin-probiotic-chewables-3-years-natural-fruit-2.jpg",
+  "/products/iherb/culturelle-kids-multivitamin-probiotic-chewables-3-years-natural-fruit-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/culturelle-kids-multivitamin-probiotic-chewables-3-years-natural-fruit-punch-50-chewable-tablets/89773",
+ "pageTitle": "Culturelle, Kids, Multivitamin + Probiotic Chewables, 3+ Years, Natural Fruit Punch, 50 Chewable Tablets",
+ "h1": "Culturelle, Kids, Multivitamin + Probiotic Chewables, 3+ Years, Natural Fruit Punch, 50 Chewable Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "89773",
+  "name": "Culturelle, Kids, Multivitamin + Probiotic Chewables, 3+ Years, Natural Fruit Punch, 50 Chewable Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/g/70.jpg",
+  "mpn": "CTL-40070",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 906
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Culturelle",
+   "url": "http://www.culturelle.com/",
+   "identifier": "CTL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1009.24",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "From The #1 Pediatrician Recommended Brand♢ 11 Essential Vitamins & Minerals, Plus a Probiotic Helps Support Healthy Growth & Development Once Daily Probiotic Supplement With Other Natural Flavors Naturally Sourced LGG® Most Researched Strain in Children† Purity & Potency*** Dairy, Gluten^, Soy Free The Culturelle® Difference∞ Allergy Friendly Free From Milk Wheat Eggs Tree Nuts Peanuts Culturelle® Kids Multivitamin + Probiotic Your child's health is your first priority, so help support their healthy growth & development with 11 essential vitamins & minerals plus a proven effective probiotic.†† Supports Healthy Vision Supports Immune & Digestive Health Promotes Healthy Teeth & Gums Our Brand Values We're on a mission to inspire better health & wellness for you & your family. We believe in integrity, so we hold ourselves to the highest standards of truth. We believe in the natural power of your body's microbiome, & in scientific research & products that will unlock its full potential. We believe in uncompromising quality, safety & proven efficacy. We believe in empowering you to embrace every day with confidence. ♢Based on a 2018 survey among pediatricians recommending a probiotic brand. †Based on the number of Lactobacillus rhamnosus GG studies as of January 2020. ††Based on the studies of Lactobacillus rhamnosus GG for a range of benefits throughout the lifespan. ***Guaranteed potency through date on box when stored as directed. ^Meets the FDA's guidelines for gluten-free. Not a reduced calorie food. ∞Excludes gummy formulas",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.35x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "CTL-40070",
+  "gtin12": "049100400709",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/g/70.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "From The #1 Pediatrician Recommended Brand♢",
+    "11 Essential Vitamins & Minerals, Plus a Probiotic",
+    "Helps Support Healthy Growth & Development",
+    "Once Daily",
+    "Probiotic Supplement",
+    "With Other Natural Flavors",
+    "Naturally Sourced LGG®",
+    "Most Researched Strain in Children†",
+    "Purity & Potency***",
+    "Dairy, Gluten^, Soy Free",
+    "The Culturelle® Difference∞",
+    "Milk",
+    "Wheat",
+    "Eggs",
+    "Tree Nuts",
+    "Peanuts",
+    "Supports Healthy Vision",
+    "Supports Immune & Digestive Health",
+    "Promotes Healthy Teeth & Gums"
+   ],
+   "paragraphs": [
+    "Allergy Friendly Free From",
+    "Culturelle® Kids Multivitamin + Probiotic",
+    "Your child's health is your first priority, so help support their healthy growth & development with 11 essential vitamins & minerals plus a proven effective probiotic.††",
+    "Our Brand Values",
+    "We're on a mission to inspire better health & wellness for you & your family.",
+    "We believe in integrity, so we hold ourselves to the highest standards of truth.",
+    "We believe in the natural power of your body's microbiome, & in scientific research & products that will unlock its full potential.",
+    "We believe in uncompromising quality, safety & proven efficacy.",
+    "We believe in empowering you to embrace every day with confidence.",
+    "♢Based on a 2018 survey among pediatricians recommending a probiotic brand.",
+    "†Based on the number of Lactobacillus rhamnosus GG studies as of January 2020.",
+    "††Based on the studies of Lactobacillus rhamnosus GG for a range of benefits throughout the lifespan.",
+    "***Guaranteed potency through date on box when stored as directed.",
+    "^Meets the FDA's guidelines for gluten-free.",
+    "Not a reduced calorie food.",
+    "∞Excludes gummy formulas"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For children 3-12 years: Take one (1) chewable tablet at any time of day with or without food. For optimal results continued daily use is suggested."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Xylitol, mannitol, hydroxypropyl cellulose, stearic acid, natural flavor, magnesium stearate, sucralose, citric acid, vegetable juice (color), malic acid."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Storage Instructions: Store Culturelle® in a cool, dry place away from direct sunlight. Close cap firmly after use.",
+    "Tamper Evident: Do not use this product if safety seal bearing \"Sealed For Your Protection\" under cap is missing or torn.",
+    "Keep out of reach of children. Not intended for children under 3 years of age due to risk of choking. Inform a healthcare professional before starting any dietary supplement, particularly if there is a known immune-compromised condition.",
+    "When first taking Culturelle®, your child may experience minor bloating, gas or intestinal gurgling which should subside with continued use. Consult your healthcare professional if symptoms persist after two weeks."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CTL-40070"
+  },
+  {
+   "label": "UPC",
+   "value": "049100400709"
+  },
+  {
+   "label": "Package quantity",
+   "value": "50 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.8 x 8.5 x 5.8 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: One (1) Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value 3 Years of Age",
+   "%Daily Value4+ Years of Age"
+  ],
+  [
+   "Calories",
+   "0",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "<1 g",
+   "<1%++",
+   "<1%+"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "**",
+   "**"
+  ],
+  [
+   "Incl. 0 g Added Sugars",
+   "",
+   "0%++",
+   "0%+"
+  ],
+  [
+   "Sugar Alcohol",
+   "<1 g",
+   "**",
+   "**"
+  ],
+  [
+   "Vitamin A (as Vitamin A Acetate)",
+   "360 mcg RAE (1200 IU)",
+   "120%",
+   "40%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "45 mg",
+   "300%",
+   "50%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "30 mcg (1200 IU)",
+   "200%",
+   "150%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopheryl Acetate)",
+   "10 mg (15 IU)",
+   "167%",
+   "67%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine Hydrochloride)",
+   "0.85 mg",
+   "170%",
+   "50%"
+  ],
+  [
+   "Folate (as Folic Acid)",
+   "200 mcg DFE (120 mcg folic acid)",
+   "133%",
+   "50%"
+  ],
+  [
+   "Vitamin B12 (as Cyanocobalamin)",
+   "1.2 mcg",
+   "133%",
+   "50%"
+  ],
+  [
+   "Biotin",
+   "7.5 mcg",
+   "94%",
+   "25%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D Pantothenate)",
+   "2.5 mg",
+   "125%",
+   "50%"
+  ],
+  [
+   "Iodine (as Potassium Iodine)",
+   "30 mcg",
+   "33%",
+   "20%"
+  ],
+  [
+   "Zinc (as Zinc Oxide)",
+   "1.88 mg",
+   "63%",
+   "17%"
+  ],
+  [
+   "Lactobacillus rhamnosus GG",
+   "13 mg (2.5 billion CFUs)",
+   "**",
+   "**"
+  ],
+  [
+   "++Percent Daily Values are based on a 1,000 calorie diet.+Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "3 Years of Age\t%Daily Value",
+  "++Percent Daily Values are based on a 1,000 calorie diet.",
+  "+Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 chewable tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,009.24",
+  "฿1,009.24",
+  "฿16.82/‏serving",
+  "{0}% off code: {1}",
+  "฿1,009.24",
+  "Save 0% in cart",
+  "฿16.82/‏serving",
+  "฿1,009.24",
+  "(0% off)",
+  "฿1,009.24",
+  "฿16.82/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/g/70.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/k/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/g/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40070/s/65.jpg"
+ ]
+}

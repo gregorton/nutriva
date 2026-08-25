@@ -1,0 +1,337 @@
+{
+ "pid": "89919",
+ "slug": "california-gold-nutrition-sport-plant-based-protein-with-organic-brown",
+ "scrapedAt": "2026-08-25T17:47:14.572Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-sport-plant-based-protein-with-organic-brown.jpg",
+  "/products/iherb/california-gold-nutrition-sport-plant-based-protein-with-organic-brown-2.jpg",
+  "/products/iherb/california-gold-nutrition-sport-plant-based-protein-with-organic-brown-3.jpg",
+  "/products/iherb/california-gold-nutrition-sport-plant-based-protein-with-organic-brown-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-plant-based-protein-with-organic-brown-rice-protein-concentrate-flaxseed-chia-seed-cinnamon-bun-2-lb-907-g/89919",
+ "pageTitle": "California Gold Nutrition, Sport, Plant-Based Protein with Organic Brown Rice Protein Concentrate, Flaxseed, Chia Seed, Cinnamon Bun, 2 lb (907 g)",
+ "h1": "California Gold Nutrition, Sport, Plant-Based Protein with Organic Brown Rice Protein Concentrate, Flaxseed, Chia Seed, Cinnamon Bun, 2 lb (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "89919",
+  "name": "California Gold Nutrition, Sport, Plant-Based Protein with Organic Brown Rice Protein Concentrate, Flaxseed, Chia Seed, Cinnamon Bun, 2 lb (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/g/47.jpg",
+  "mpn": "CGN-01349",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.4,
+   "reviewCount": 4572
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "1251.66",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1668.88",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Sport Plant-Based Protein, Cinnamon Bun Easy to Digest, Non-Dairy Protein Powder Featuring Flaxseed, Chia Seed, and Sprouted Black Rice 20 Grams of Protein, 3.8 g BCAAs☉ Naturally Flavored - Cinnamon Bun Helps Support an Active Lifestyle* No Artificial Colors, Flavors, or Sweeteners Suitable for Vegetarians and Vegans Formulated without GMOs Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee If you’re vegan or dairy free, you may be struggling to find high-protein additions to your diet, especially if you’re on the hunt for protein powder. California Gold Nutrition ®Sport Plant-Based Protein is a protein powder made entirely from plant-based, non-dairy sources. Use it to create a protein-packed shake with a delicious cinnamon bun flavor for the perfect post-workout snack! Benefits of Plant-Based Protein Our Plant-Based Protein supplies you with 20 grams of protein from pea protein isolate, brown rice protein concentrate, flaxseed, chia seed, and sprouted black rice powders. In addition to protein, both flax and chia seeds deliver naturally-occurring omega-3 fatty acids, fiber, and minerals, as well as digestive enzymes that help make this formula easy to digest. Our plant-based protein also contains a premium fruit and veggie blend for added nutritional value. This unique formula is an excellent addition to your active lifestyle and can help support your workout goals.* California Gold Nutrition® Sport Plant-Based Protein contains protein and amino acids from entirely plant-based sources. It is naturally flavored to create a delicious, creamy, cinnamon bun flavored shake.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "9.35x4"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01349",
+  "gtin12": "898220013494",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/g/47.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Plant Based Protein",
+  "Plant Based Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Sport Plant-Based Protein, Cinnamon Bun",
+    "Easy to Digest, Non-Dairy Protein Powder Featuring Flaxseed, Chia Seed, and Sprouted Black Rice",
+    "20 Grams of Protein, 3.8 g BCAAs☉",
+    "Naturally Flavored - Cinnamon Bun",
+    "Helps Support an Active Lifestyle*",
+    "No Artificial Colors, Flavors, or Sweeteners",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without GMOs",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "If you’re vegan or dairy free, you may be struggling to find high-protein additions to your diet, especially if you’re on the hunt for protein powder. California Gold Nutrition ®Sport Plant-Based Protein is a protein powder made entirely from plant-based, non-dairy sources. Use it to create a protein-packed shake with a delicious cinnamon bun flavor for the perfect post-workout snack!",
+    "Benefits of Plant-Based ProteinOur Plant-Based Protein supplies you with 20 grams of protein from pea protein isolate, brown rice protein concentrate, flaxseed, chia seed, and sprouted black rice powders. In addition to protein, both flax and chia seeds deliver naturally-occurring omega-3 fatty acids, fiber, and minerals, as well as digestive enzymes that help make this formula easy to digest. Our plant-based protein also contains a premium fruit and veggie blend for added nutritional value. This unique formula is an excellent addition to your active lifestyle and can help support your workout goals.*",
+    "California Gold Nutrition® Sport Plant-Based Protein contains protein and amino acids from entirely plant-based sources. It is naturally flavored to create a delicious, creamy, cinnamon bun flavored shake."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix one level scoop daily with 8 ounces of water or the beverage of your choice. For best results, add liquid in a blender-type bottle, shaker cup, or electric blender first, then add the powder.",
+    "Note: 31 grams per level scoop is an average. Individual scooping technique may yield slightly less than or slightly more than 31 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Sealed for your protection. Do not use if pouch is punctured or seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "☉Naturally occurring Branched Chain Amino Acids."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.46 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01349"
+  },
+  {
+   "label": "UPC",
+   "value": "898220013494"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "30.6 x 23.7 x 10.2 cm, 0.95 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 scoop (31 g)"
+  ],
+  [
+   "Servings Per Container: About 29"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2.5 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "330 mg",
+   "14%"
+  ],
+  [
+   "Total Carbohydrate",
+   "5 g",
+   "2%"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "7%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%"
+  ],
+  [
+   "Protein",
+   "20 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "20 mg",
+   "2%"
+  ],
+  [
+   "Iron",
+   "6.4 mg",
+   "35%"
+  ],
+  [
+   "Potassium",
+   "190 mg",
+   "4%"
+  ],
+  [
+   "* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value*",
+  "* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "29"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Halal",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#5 in",
+   "category": "Greens & Superfood Blends",
+   "href": "/c/greens-superfoods-blends?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Protein Blends",
+   "href": "/c/protein-blends?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Plant Based Protein Blends",
+   "href": "/c/plant-based-protein-blends?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,668.88",
+  "฿1,668.88",
+  "฿57.55/‏serving",
+  "{0}% off code: {1}",
+  "฿1,668.88",
+  "Save 25% in cart",
+  "฿57.55/‏serving",
+  "฿1,251.66",
+  "(25% off)",
+  "฿1,668.88",
+  "฿43.16/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/g/47.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/k/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/g/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01349/b/47.jpg"
+ ]
+}

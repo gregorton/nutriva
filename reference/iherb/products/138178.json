@@ -1,0 +1,239 @@
+{
+ "pid": "138178",
+ "slug": "zahler-melatonin-chewables-orange-5-mg-60-chewable-tablets",
+ "scrapedAt": "2026-08-25T17:27:39.809Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/zahler-melatonin-chewables-orange-5-mg-60-chewable-tablets.jpg",
+  "/products/iherb/zahler-melatonin-chewables-orange-5-mg-60-chewable-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/zahler-melatonin-chewables-orange-5-mg-60-chewable-tablets/138178",
+ "pageTitle": "Zahler, Melatonin Chewables, Orange, 5 mg, 60 Chewable Tablets",
+ "h1": "Zahler, Melatonin Chewables, Orange, 5 mg, 60 Chewable Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138178",
+  "name": "Zahler, Melatonin Chewables, Orange, 5 mg, 60 Chewable Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/g/24.jpg",
+  "mpn": "ZAH-08283",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1769
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Zahler",
+   "url": "http://www.zahlers.com/",
+   "identifier": "ZAH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.06",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "376.66",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Advanced Nutrition Fast-Acting Chewable Melatonin Supports Restful & Quality Sleep General Health Dietary Supplement Feel Better Everyday™ Kosher Pareve GMP Certified Facility Non-GMO Gluten Free Dairy Free Soy Free Vegetarian Friendly Advanced Melatonin Chewables Melatonin is a natural sleep aid that the brain produces in response to darkness. Zahler Melatonin Chewables provides 5 mg of sleep-regulating melatonin to help support restful & quality sleep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.65x1.65"
+  },
+  "isRelatedTo": null,
+  "sku": "ZAH-08283",
+  "gtin12": "848998082833",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Advanced Nutrition",
+    "Fast-Acting Chewable Melatonin",
+    "Supports Restful & Quality Sleep",
+    "General Health",
+    "Dietary Supplement",
+    "Feel Better Everyday™",
+    "Kosher Pareve",
+    "GMP Certified Facility",
+    "Non-GMO",
+    "Gluten Free",
+    "Dairy Free",
+    "Soy Free",
+    "Vegetarian Friendly"
+   ],
+   "paragraphs": [
+    "Advanced Melatonin Chewables",
+    "Melatonin is a natural sleep aid that the brain produces in response to darkness. Zahler Melatonin Chewables provides 5 mg of sleep-regulating melatonin to help support restful & quality sleep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Chew one tablet at bedtime or as directed by as healthcare practitioner. For adult use only."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sorbitol, microcrystalline cellulose, stearic acid, citric acid, silicon dioxide, natural flavor, rebaudioside-a (from stevia leaf extract).",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For use only for healthy individuals 18 years or older. For use only at bedtime. This product is not to be taken by pregnant or lactating women. If you are taking medication or have a medical condition, consult a physician before using this product. Do not use in conjunction with alcoholic beverages, when driving a vehicle, or while operating machinery.",
+    "You may need additional supplements to support a healthy diet: consult your nutrition for a formula that is right for you.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. If pregnant, nursing or on medication, consult with your healthcare practitioner.",
+    "Store tightly closed in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ZAH-08283"
+  },
+  {
+   "label": "UPC",
+   "value": "848998082833"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.7 x 4.2 x 4.2 cm, 0.02 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Melatonin",
+   "5 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 chewable tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿376.66",
+  "฿376.66",
+  "฿6.28/‏serving",
+  "{0}% off code: {1}",
+  "฿376.66",
+  "Save 0% in cart",
+  "฿6.28/‏serving",
+  "฿376.66",
+  "(0% off)",
+  "฿376.66",
+  "฿6.28/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08283/s/29.jpg"
+ ]
+}

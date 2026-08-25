@@ -1,0 +1,353 @@
+{
+ "pid": "75267",
+ "slug": "probulin-women-s-health-probiotic-20-billion-cfu-60-capsules",
+ "scrapedAt": "2026-08-25T17:11:47.034Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/probulin-women-s-health-probiotic-20-billion-cfu-60-capsules.jpg",
+  "/products/iherb/probulin-women-s-health-probiotic-20-billion-cfu-60-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/probulin-women-s-health-probiotic-20-billion-cfu-60-capsules/75267",
+ "pageTitle": "Probulin, Women's Health Probiotic, 20 Billion CFU, 60 Capsules",
+ "h1": "Probulin, Women's Health Probiotic, 20 Billion CFU, 60 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "75267",
+  "name": "Probulin, Women's Health Probiotic, 20 Billion CFU, 60 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/g/42.jpg",
+  "mpn": "PBL-00351",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 252
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Probulin",
+   "url": "https://probulin.com/",
+   "identifier": "PBL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2067.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "The Next Generation of Probiotics™ 20 Billion CFU ‡ Doctor Formulated § 12 Scientifically-Studied Strains + Prebiotics MAKTrek ® 3-D for Increased Probiotic Survival Supports a Healthy Vaginal Microbiome † Supports Immune Health † Dietary Supplement No GMO's No Gluten No Wheat No Dairy No Magnesium Stearate No Soy Halal Probulin® Women's Health is a targeted once Daily Probiotic + Prebiotic for women that: Features: Benefits: 20 Billion cfu ‡ per capsule Supports digestive balance 12 key probiotic strains Supports digestive health Prebiotic inulin-food for the probiotics survival Shelf stable Employs the MAKTrek® 3-D probiotic delivery system Probulin® goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut. Our scientifically-validated MAKTrek® 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work. Probulin's Women's Health Probiotic includes 12 probiotic strains, scientifically studied to provide support for women's unique vaginal, urinary tract, digestive and immune health. Formulated by: J. Mitchell Jason Mitchell, N.D ., Founder & CEO § Board-certified Naturopathic Doctor specializing in research & development ‡ CFU (colony forming units) amount at the time of BEST BY date, as long as recommended storage conditions are maintained. Refrigeration is not required but may help to extend shelf life.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.3x1.8"
+  },
+  "isRelatedTo": null,
+  "sku": "PBL-00351",
+  "gtin12": "855757003510",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/g/42.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "The Next Generation of Probiotics™",
+    "20 Billion CFU‡",
+    "Doctor Formulated§",
+    "12 Scientifically-Studied Strains + Prebiotics",
+    "MAKTrek® 3-D for Increased Probiotic Survival",
+    "Supports a Healthy Vaginal Microbiome†",
+    "Supports Immune Health†",
+    "Dietary Supplement",
+    "No GMO's",
+    "No Gluten",
+    "No Wheat",
+    "No Dairy",
+    "No Magnesium Stearate",
+    "No Soy",
+    "Halal"
+   ],
+   "paragraphs": [
+    "Probulin® Women's Health is a targeted once Daily Probiotic + Prebiotic for women that:",
+    "Probulin® goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut.",
+    "Our scientifically-validated MAKTrek® 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work.",
+    "Probulin's Women's Health Probiotic includes 12 probiotic strains, scientifically studied to provide support for women's unique vaginal, urinary tract, digestive and immune health.",
+    "Formulated by: J. Mitchell Jason Mitchell, N.D ., Founder & CEO",
+    "§Board-certified Naturopathic Doctor specializing in research & development",
+    "‡CFU (colony forming units) amount at the time of BEST BY date, as long as recommended storage conditions are maintained. Refrigeration is not required but may help to extend shelf life."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one (1) capsule daily with or without food. For best results, take at bedtime. As a reminder, discuss the supplements and medications that you take with your health care providers.",
+    "No refrigeration required."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Complex marine polysaccharides [brown seaweed (lessonia nigrescens)], vegetable cellulose (capsule shell), cellulose, non-GMO rice extract, tricalcium phosphate, sodium chloride, potassium chloride.",
+    "No: GMO’s wheat, gluten, milk, dairy, eggs, magnesium stearate, soy, artificial flavors, artificial colors, artificial sweeteners or shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Pregnant or nursing mothers, children under 18, and individuals with a known medical condition should consult a physician before using this or any dietary supplement.",
+    "Do not accept if seal is broken. Keep out of the reach of children.",
+    "Store in a cool, dry place at 72°F (22ºC) or below."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PBL-00351"
+  },
+  {
+   "label": "UPC",
+   "value": "855757003510"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.7 x 8.4 x 4.6 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV**"
+  ],
+  [
+   "Sodium",
+   "11 mg",
+   "<1%"
+  ],
+  [
+   "Women's Health Probiotic Blend (20 billion cfu‡)",
+   "375 mg",
+   "*"
+  ],
+  [
+   "Lactobacillus Blend (13.5 billion cfu‡)",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus rhamnosus MAK79L08R",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus acidophilus MAK32L61A",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus reuteri MAK02L14R",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus fermentum MAK20L13F",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus bulgaricus MAK55L88B",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus helveticus MAK18L62H",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus brevis MAK11L82B",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria Blend (5.5 billion cfu‡)",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria lactis MAK16B42L",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria longum MAK34B12L",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria bifidum MAK53B66B",
+   "",
+   "*"
+  ],
+  [
+   "Total Other Probiotics (1 Billion cfu‡)",
+   "",
+   "*"
+  ],
+  [
+   "Streptococcus thermophilus MAK34S24T",
+   "",
+   "*"
+  ],
+  [
+   "Saccharomyces boulardii MAK08S06B",
+   "",
+   "*"
+  ],
+  [
+   "Inulin [from chicory] (100 mg)",
+   "",
+   "*"
+  ],
+  [
+   "**Percent Daily Values based on a 2,000 calorie diet.*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*",
+  "*",
+  "*",
+  "*",
+  "**Percent Daily Values based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "75266",
+   "url": "https://th.iherb.com/pr/probulin-women-s-health-probiotic-30-capsules/75266",
+   "price": "฿1,131.95",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "75267",
+   "url": "https://th.iherb.com/pr/probulin-women-s-health-probiotic-20-billion-cfu-60-capsules/75267",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 7 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,067.04",
+  "฿2,067.04",
+  "฿34.45/‏serving",
+  "{0}% off code: {1}",
+  "฿2,067.04",
+  "Save 0% in cart",
+  "฿34.45/‏serving",
+  "฿2,067.04",
+  "(0% off)",
+  "฿2,067.04",
+  "฿34.45/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/g/42.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/k/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/g/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00351/s/41.jpg"
+ ]
+}

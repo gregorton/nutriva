@@ -1,0 +1,276 @@
+{
+ "pid": "92971",
+ "slug": "bioschwartz-collagen-peptides-bio-unflavored-16-oz-454-g",
+ "scrapedAt": "2026-08-25T17:10:31.862Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "200+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/bioschwartz-collagen-peptides-bio-unflavored-16-oz-454-g.jpg",
+  "/products/iherb/bioschwartz-collagen-peptides-bio-unflavored-16-oz-454-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/bioschwartz-collagen-peptides-bio-unflavored-16-oz-454-g/92971",
+ "pageTitle": "BioSchwartz, Collagen Peptides Bio+, Unflavored, 16 oz (454 g)",
+ "h1": "BioSchwartz, Collagen Peptides Bio+, Unflavored, 16 oz (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "92971",
+  "name": "BioSchwartz, Collagen Peptides Bio+, Unflavored, 16 oz (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/g/34.jpg",
+  "mpn": "BTZ-75125",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1161
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "BioSchwartz",
+   "url": "https://bioschwartz.com/",
+   "identifier": "BTZ"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "775.98",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "969.98",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Professional Grade Premium Quality Unflavored and Taste-Free Bovine Hydrolyzed Protein Type I & Type III Collagen with 18 Naturally Occurring Amino Acids Healthy Skin, Hair & Nails Support Bones & Joints Stirs in & Mixes Easily Dietary Supplement Gluten Free Ingredients GMP - Good Manufacturing Practices No GMOs, Color Additives or Preservatives What Makes Our Collagen Different? BioSchwartz ® has developed this unique formula with our team of professionals using stringent quality-control standards to ensure a premium boost of collagen to our consumers. Hydrolyzed Collagen Peptides - Our proprietary collagen peptide blend contains Type I & III collagen with a combination of over 18 amino acids sourced from Non-GMO, Pasture-Raised, Pasture-Fed Cows. Exceptional Bioavailability - This clinically developed formula features small highly bioavailable peptides, which are easily absorbed and broken down into amino acids for maximum results. Made with Purity Tested/Allergen Free Ingredients - The neutral tasting formula, contains no artificial colors, flavors, sweeteners, preservatives, fillers, binders or harmful chemicals. It is free of lactose, gluten, soy, wheat, milk, tree nuts, peanuts, eggs and fish/shellfish. Promotes Healthy Skin, Hair & Nails Supports Bones & Joints Stirs In and Mixes Easily Premium Quality - Professional Grade Supplements We create superior products through the perfect balance of the latest technologies and the finest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.9x4.9"
+  },
+  "isRelatedTo": null,
+  "sku": "BTZ-75125",
+  "gtin12": "737212751252",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/g/34.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Professional Grade",
+    "Premium Quality",
+    "Unflavored and Taste-Free",
+    "Bovine Hydrolyzed Protein",
+    "Type I & Type III Collagen with 18 Naturally Occurring Amino Acids",
+    "Healthy Skin, Hair & Nails",
+    "Support Bones & Joints",
+    "Stirs in & Mixes Easily",
+    "Dietary Supplement",
+    "Gluten Free Ingredients",
+    "GMP - Good Manufacturing Practices",
+    "No GMOs, Color Additives or Preservatives",
+    "Promotes Healthy Skin, Hair & Nails",
+    "Supports Bones & Joints",
+    "Stirs In and Mixes Easily"
+   ],
+   "paragraphs": [
+    "What Makes Our Collagen Different?",
+    "BioSchwartz® has developed this unique formula with our team of professionals using stringent quality-control standards to ensure a premium boost of collagen to our consumers.",
+    "Hydrolyzed Collagen Peptides - Our proprietary collagen peptide blend contains Type I & III collagen with a combination of over 18 amino acids sourced from Non-GMO, Pasture-Raised, Pasture-Fed Cows.",
+    "Exceptional Bioavailability - This clinically developed formula features small highly bioavailable peptides, which are easily absorbed and broken down into amino acids for maximum results.",
+    "Made with Purity Tested/Allergen Free Ingredients - The neutral tasting formula, contains no artificial colors, flavors, sweeteners, preservatives, fillers, binders or harmful chemicals. It is free of lactose, gluten, soy, wheat, milk, tree nuts, peanuts, eggs and fish/shellfish.",
+    "Premium Quality - Professional Grade Supplements",
+    "We create superior products through the perfect balance of the latest technologies and the finest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Combine 1 scoop (11 g) into your favorite beverage or meal and mix thoroughly. Collagen Peptides will clump in cold water.",
+    "Helpful Tip: If you want to enjoy Collagen Peptides in cold liquid, simply mix into room temperature liquid first and then add ice."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Packaged in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use this product as a food supplement only. Do not use for weight reduction.",
+    "Use only as directed. Consult your healthcare provider before use if you are contemplating pregnancy, pregnant, nursing, have any medical condition, or use any medications. For adult use only.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place.",
+    "Packaged by weight not volume. Settling of contents may occur and cannot be avoided."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BTZ-75125"
+  },
+  {
+   "label": "UPC",
+   "value": "737212751252"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 12.4 x 12.4 cm, 0.54 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (11 g)"
+  ],
+  [
+   "Servings Per Container: 41"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   "0%**"
+  ],
+  [
+   "Sodium",
+   "25 mg",
+   "1%"
+  ],
+  [
+   "Bovine Collagen Peptides",
+   "11 g",
+   "*"
+  ],
+  [
+   "**Percent Daily Values (DV) based on 2,000 calorie diet.*Daily Value (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "**Percent Daily Values (DV) based on 2,000 calorie diet.",
+  "*Daily Value (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "41"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 6 left",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿969.98",
+  "฿969.98",
+  "฿23.66/‏serving",
+  "{0}% off code: {1}",
+  "฿969.98",
+  "Save 20% in cart",
+  "฿23.66/‏serving",
+  "฿775.98",
+  "(20% off)",
+  "฿969.98",
+  "฿18.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/g/34.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/k/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/g/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75125/s/40.jpg"
+ ]
+}

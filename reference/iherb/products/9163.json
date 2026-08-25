@@ -1,0 +1,279 @@
+{
+ "pid": "9163",
+ "slug": "barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-8-fl-oz-236-ml",
+ "scrapedAt": "2026-08-25T17:25:11.555Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-8-fl-oz-236-ml.jpg",
+  "/products/iherb/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-8-fl-oz-236-ml-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-8-fl-oz-236-ml/9163",
+ "pageTitle": "Barlean's, Fresh Catch®, Fish Oil, Omega-3 EPA/DHA, Orange, 8 fl oz (236 ml)",
+ "h1": "Barlean's, Fresh Catch®, Fish Oil, Omega-3 EPA/DHA, Orange, 8 fl oz (236 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "9163",
+  "name": "Barlean's, Fresh Catch®, Fish Oil, Omega-3 EPA/DHA, Orange, 8 fl oz (236 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/g/52.jpg",
+  "mpn": "BAR-60001",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 312
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Barlean's",
+   "url": "http://www.barleans.com/",
+   "identifier": "BAR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.56",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "761.95",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1320.16",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Estd 1989 Pathway to A Better life Molecularly Distilled Gluten Free The Freshest Tasting Fish Oil Dietary Supplement Non GMO Project Verified Sourced Sustainably Third Party Lab Tested for Purity & Potency Purified Triglyceride Form From Our Family to Yours Not Your Grandmother's Fish Oil Fish Oil Back in the \"good old days\" kids would line up, holding their noses, to choke down their daily serving of fish oil. Oh, how things have changed. Our Fresh Catch® Fish Oil provides a boost of Omega-3s, but without the fishy taste or fish burps. That's because we use cutting edge technology to bring you the freshest, highest quality fish oils available. We date our Fresh Catch® Fish Oils 12 months (not up to 3 years) to ensure the freshest fish oil available.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2"
+  },
+  "isRelatedTo": null,
+  "sku": "BAR-60001",
+  "gtin12": "705875600019",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/g/52.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Estd 1989",
+    "Pathway to A Better life",
+    "Molecularly Distilled",
+    "Gluten Free",
+    "The Freshest Tasting Fish Oil",
+    "Dietary Supplement",
+    "Non GMO Project Verified",
+    "Sourced Sustainably",
+    "Third Party Lab Tested for Purity & Potency",
+    "Purified Triglyceride Form",
+    "From Our Family to Yours"
+   ],
+   "paragraphs": [
+    "Not Your Grandmother's Fish Oil",
+    "Fish Oil Back in the \"good old days\" kids would line up, holding their noses, to choke down their daily serving of fish oil. Oh, how things have changed. Our Fresh Catch® Fish Oil provides a boost of Omega-3s, but without the fishy taste or fish burps. That's because we use cutting edge technology to bring you the freshest, highest quality fish oils available.",
+    "We date our Fresh Catch® Fish Oils 12 months (not up to 3 years) to ensure the freshest fish oil available."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "1 tsp daily with a meal. Refrigerate after opening. A cloudy appearance is natural. Shake well."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Fish oil (anchovy, mackerel, sardine and/or tuna), natural flavors, antioxidant blend (natural mixed tocopherols, rosemary extract, ascorbyl palmitate, and ascorbic acid)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BAR-60001"
+  },
+  {
+   "label": "UPC",
+   "value": "705875600019"
+  },
+  {
+   "label": "Package quantity",
+   "value": "236 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.1 x 5.3 x 5.1 cm, 0.25 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 tsp (5 ml)"
+  ],
+  [
+   "Servings Per Container: 47"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Fat",
+   "4.5 g",
+   "6%*"
+  ],
+  [
+   "Saturated Fat",
+   "1.5 g",
+   "8%*"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "1.5 g",
+   "†"
+  ],
+  [
+   "Monounsaturated Fat",
+   "1 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "30 mg",
+   "10%",
+   ""
+  ],
+  [
+   "Total Omega-3 Fatty Acids",
+   "1,445 mg",
+   "†"
+  ],
+  [
+   "EPA and DHA",
+   "1,242 mg",
+   "†"
+  ],
+  [
+   "* Percent Daily Values are based on a 2,000 calorie diet.† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "* Percent Daily Values  are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tsp"
+    },
+    {
+     "label": "Total servings",
+     "value": "47"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 2 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,320.16",
+  "฿1,320.16",
+  "฿28.09/‏serving",
+  "{0}% off code: {1}",
+  "฿1,320.16",
+  "Save 42% in cart",
+  "฿28.09/‏serving",
+  "฿761.95",
+  "(42% off)",
+  "฿1,320.16",
+  "฿16.21/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/g/52.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/k/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/g/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar60001/s/57.jpg"
+ ]
+}

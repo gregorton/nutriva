@@ -1,0 +1,225 @@
+{
+ "pid": "17636",
+ "slug": "organix-south-theraneem-naturals-neem-toothpaste-neem-therape-with-min",
+ "scrapedAt": "2026-08-25T17:48:12.221Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/organix-south-theraneem-naturals-neem-toothpaste-neem-therape-with-min.jpg",
+  "/products/iherb/organix-south-theraneem-naturals-neem-toothpaste-neem-therape-with-min-2.jpg",
+  "/products/iherb/organix-south-theraneem-naturals-neem-toothpaste-neem-therape-with-min-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/organix-south-theraneem-naturals-neem-toothpaste-neem-therape-with-mint-4-23-oz-120-g/17636",
+ "pageTitle": "Organix South, TheraNeem® Naturals, Neem Toothpaste, Neem Therape with Mint, 4.23 oz (120 g)",
+ "h1": "Organix South, TheraNeem® Naturals, Neem Toothpaste, Neem Therape with Mint, 4.23 oz (120 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "17636",
+  "name": "Organix South, TheraNeem® Naturals, Neem Toothpaste, Neem Therape with Mint, 4.23 oz (120 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/g/34.jpg",
+  "mpn": "ORS-00030",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 1550
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Organix South",
+   "url": "https://theraneem.com/",
+   "identifier": "ORS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "181.60",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "242.14",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "With Supercritical Extracts of Neem Leaf and Neem Bark Supports Healthy Teeth and Gums Cruelty Free™ Vegan™ Fluoride Free Sulfate Free Paraben Free Gluten Free No Artificial Colors or Flavors Suitable for Diabetics and Children If you want your teeth to gleam, brush with Neem!™ Neem has been traditionally used in Ayurveda for oral health care. Commonly known in India as the Toothbrush Tree, Neem twigs are frequently used to clean the teeth. Modern science continues to study the ancient wisdom of using Neem. Grapeseed Clove Neem Fennel Licorice Peppermint Spearmint",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.1x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "ORS-00030",
+  "gtin12": "666183000307",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/g/34.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Oral Care",
+  "Toothpaste",
+  "Fluoride Free Toothpaste"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "With Supercritical Extracts of Neem Leaf and Neem Bark",
+    "Supports Healthy Teeth and Gums",
+    "Cruelty Free™",
+    "Vegan™",
+    "Fluoride Free",
+    "Sulfate Free",
+    "Paraben Free",
+    "Gluten Free",
+    "No Artificial Colors or Flavors",
+    "Suitable for Diabetics and Children",
+    "Grapeseed",
+    "Clove",
+    "Neem",
+    "Fennel",
+    "Licorice",
+    "Peppermint",
+    "Spearmint"
+   ],
+   "paragraphs": [
+    "If you want your teeth to gleam, brush with Neem!™",
+    "Neem has been traditionally used in Ayurveda for oral health care. Commonly known in India as the Toothbrush Tree, Neem twigs are frequently used to clean the teeth. Modern science continues to study the ancient wisdom of using Neem."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults and children age 7 and older, use a 1-inch strip of paste. For children ages 2-7, use a pea-sized amount of paste. For children under 2 years of age, consult with a doctor or dentist. Instruct your child in good brushing and rinsing habits. For best results, brush teeth twice a day, after each meal, or as directed by your dentist, and floss daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Calcium carbonate, sorbitol, aqua (water), glycerin, silica, sodium lauroyl glutamate, xylitol, xanthan gum, cyamopsis tetragonoloba (guar) gum, vitis vinifera (grape) seed oil, glycyrrhiza glabra (licorice) root*, foeniculum vulgare (fennel)*, eugenia caryophyllus (clove) bud oil*, azadirachta indica (neem) leaf*, azadirachta indica (neem) bark*, mentha piperita (peppermint) oil, potassium sorbate, mentha viridis (spearmint) oil, ascorbic acid.",
+    "*Made with certified organic supercritical extracts"
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2009"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ORS-00030"
+  },
+  {
+   "label": "UPC",
+   "value": "666183000307"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "3.3 x 18 x 4.8 cm, 0.14 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "120 g"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Cruelty-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#30 in",
+   "category": "Fluoride Free Toothpaste",
+   "href": "/c/fluoride-free-toothpaste?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿242.14",
+  "฿242.14",
+  "฿2.02/‏g",
+  "{0}% off code: {1}",
+  "฿242.14",
+  "Save 25% in cart",
+  "฿2.02/‏g",
+  "฿181.60",
+  "(25% off)",
+  "฿242.14",
+  "฿1.51/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/g/34.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/k/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/g/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ors/ors00030/s/36.jpg"
+ ]
+}

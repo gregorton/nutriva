@@ -1,0 +1,282 @@
+{
+ "pid": "160785",
+ "slug": "maryruth-s-kids-sleep-gummies-melatonin-free-strawberry-30-gummies",
+ "scrapedAt": "2026-08-25T17:26:05.122Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": "New"
+ },
+ "images": [
+  "/products/iherb/maryruth-s-kids-sleep-gummies-melatonin-free-strawberry-30-gummies.jpg",
+  "/products/iherb/maryruth-s-kids-sleep-gummies-melatonin-free-strawberry-30-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/maryruth-s-kids-sleep-gummies-melatonin-free-strawberry-30-gummies/160785",
+ "pageTitle": "MaryRuth's, Kids Sleep Gummies, Melatonin Free, Strawberry, 30 Gummies",
+ "h1": "MaryRuth's, Kids Sleep Gummies, Melatonin Free, Strawberry, 30 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "160785",
+  "name": "MaryRuth's, Kids Sleep Gummies, Melatonin Free, Strawberry, 30 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/g/8.jpg",
+  "mpn": "MRO-62092",
+  "aggregateRating": null,
+  "brand": {
+   "@type": "Brand",
+   "name": "MaryRuth's",
+   "url": "https://www.maryruthorganics.com/",
+   "identifier": "MRO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "393.72",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vegan 20 mg B6 Per 2 Gummies Gluten Free Sugar Free Flavored With Other Natural Flavors Dietary Supplement Support relaxation & sleep with these delicious, strawberry-flavored gummies! Promote sleep quality with no melatonin — enjoy vegan strawberry-flavored gummies with l-theanine, chamomile flower, lemon balm leaf, and vitamin B6.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.35x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "MRO-62092",
+  "gtin12": "810104620925",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vegan",
+    "20 mg B6 Per 2 Gummies",
+    "Gluten Free",
+    "Sugar Free",
+    "Flavored With Other Natural Flavors",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Support relaxation & sleep with these delicious, strawberry-flavored gummies! Promote sleep quality with no melatonin — enjoy vegan strawberry-flavored gummies with l-theanine, chamomile flower, lemon balm leaf, and vitamin B6."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Ages 2-3, take 1 gummy and ages 4-13, take up to 2 gummies, at or 20-30 minutes before bedtime or as recommended by a physician or healthcare professional. Do not exceed the recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Maltitol, purified water, organic erythritol, xylitol, pectin, citric acid, natural flavors, sodium citrate, vegetable juice color, and organic rebaudioside a.",
+    "All Ingredients are vegan.",
+    "This product is made without: Gelatin, peanuts, tree nuts, fish, shellfish, gluten, milk, eggs, soy, and sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "We genuinely care about all our customers. Please consult with a physician or healthcare professional before starting any health supplement, especially if pregnant or lactating, taking medication, or if you have a medical diagnosis. Discontinue use if any negative reaction occurs.",
+    "Note: Herbal supplements may not be appropriate for everyone. Herbal products may interfere with certain medications or complicate health conditions.",
+    "Xylitol is harmful to pets. Seek immediate veterinary care if you suspect ingestion has occurred."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MRO-62092"
+  },
+  {
+   "label": "UPC",
+   "value": "810104620925"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6 x 5.8 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2-3 Years (1 Gummy)/ 4+ Years (2 Gummies)"
+  ],
+  [
+   "Servings Per Container: 30/15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV for 2-3 Years",
+   "Amount Per Serving",
+   "%DV for 4+ Years"
+  ],
+  [
+   "Calories",
+   "",
+   "",
+   "5",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%**",
+   "3 g",
+   "1%*"
+  ],
+  [
+   "Sugar Alcohol",
+   "1 g",
+   "†",
+   "3 g",
+   "†"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine Hydrochloride)",
+   "10 mg",
+   "2,000%",
+   "20 mg",
+   "1,176%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "1%",
+   "15 mg",
+   "1%"
+  ],
+  [
+   "L-Theanine",
+   "100 mg",
+   "†",
+   "200 mg",
+   "†"
+  ],
+  [
+   "Chamomile Flower Extract (10:1)",
+   "40 mg",
+   "†",
+   "80 mg",
+   "†"
+  ],
+  [
+   "Lemon Balm Leaf Extract (10:1)",
+   "10 mg",
+   "†",
+   "20 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.**Percent Daily Values (DV) are based on a 1,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Percent Daily Values (DV) are based on a 1,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Sugar-free",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿393.72",
+  "฿393.72",
+  "฿13.12/‏serving",
+  "{0}% off code: {1}",
+  "฿393.72",
+  "Save 0% in cart",
+  "฿13.12/‏serving",
+  "฿393.72",
+  "(0% off)",
+  "฿393.72",
+  "฿13.12/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62092/s/13.jpg"
+ ]
+}

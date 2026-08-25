@@ -1,0 +1,246 @@
+{
+ "pid": "72080",
+ "slug": "california-gold-nutrition-euroherbs-lemon-balm-extract-euromed-quality",
+ "scrapedAt": "2026-08-25T17:49:31.906Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-euroherbs-lemon-balm-extract-euromed-quality.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-lemon-balm-extract-euromed-quality-2.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-lemon-balm-extract-euromed-quality-3.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-lemon-balm-extract-euromed-quality-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-euroherbs-lemon-balm-extract-euromed-quality-500-mg-60-veggie-capsules/72080",
+ "pageTitle": "California Gold Nutrition, EuroHerbs™, Lemon Balm Extract, Euromed Quality, 500 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, EuroHerbs™, Lemon Balm Extract, Euromed Quality, 500 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "72080",
+  "name": "California Gold Nutrition, EuroHerbs™, Lemon Balm Extract, Euromed Quality, 500 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/g/250.jpg",
+  "mpn": "CGN-01111",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 4560
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "307.60",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "410.13",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition EuroHerbs™ Lemon Balm Featuring Phyto-Proof® Euromed Quality Lemon Balm Extract With Antioxidant Rosmarinic Acids (Standardized to 4%) Supports Relaxation* Suitable for Vegetarians and Vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Lemon balm ( Melissa officinalis L.) is a member of the mint family that has long been enjoyed for its scent as well as its medicinal effect, in part due to the antioxidant polyphenols it contains. California Gold Nutrition EuroHerbs ™ Lemon Balm features an extract from lemon balm in a once daily veggie capsule and can help support relaxation.* Benefits of Lemon Balm and Rosmarinic Acids The calming essence of lemon balm has been used for various purposes since the Middle Ages. The balm naturally contains antioxidant polyphenols called rosmarinic acids that are thought to have beneficial effects. Research suggests that it is the rosmarinic acids in lemon balm that can help to support relaxation, which in turn may help reduce stress and anxiety, as well as help to promote sleep.* California Gold Nutrition EuroHerbs ™ Lemon Balm features a premium Euromed-quality lemon balm extract that is standardized to 4% rosmarinic acid. Euromed is one of the world's leading European manufacturers of standardized \"Pharmacopoeia Grade\" herbal extracts. Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself. iTested Report",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01111",
+  "gtin12": "898220011117",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/g/250.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Lemon Balm (Melissa)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition EuroHerbs™ Lemon Balm",
+    "Featuring Phyto-Proof® Euromed Quality Lemon Balm Extract",
+    "With Antioxidant Rosmarinic Acids (Standardized to 4%)",
+    "Supports Relaxation*",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Lemon balm (Melissa officinalis L.) is a member of the mint family that has long been enjoyed for its scent as well as its medicinal effect, in part due to the antioxidant polyphenols it contains. California Gold Nutrition EuroHerbs™ Lemon Balm features an extract from lemon balm in a once daily veggie capsule and can help support relaxation.*",
+    "Benefits of Lemon Balm and Rosmarinic AcidsThe calming essence of lemon balm has been used for various purposes since the Middle Ages. The balm naturally contains antioxidant polyphenols called rosmarinic acids that are thought to have beneficial effects. Research suggests that it is the rosmarinic acids in lemon balm that can help to support relaxation, which in turn may help reduce stress and anxiety, as well as help to promote sleep.*",
+    "California Gold Nutrition EuroHerbs™ Lemon Balm features a premium Euromed-quality lemon balm extract that is standardized to 4% rosmarinic acid. Euromed is one of the world's leading European manufacturers of standardized \"Pharmacopoeia Grade\" herbal extracts.",
+    "Third-Party TestedOur products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+    "iTested Report"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01111"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011117"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.1 x 5.1 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Lemon Balm Extract(Melissa officinalis L.)(leaf)[Standardized to 4% Rosmarinic Acid]",
+   "500 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿410.13",
+  "฿410.13",
+  "฿6.84/‏serving",
+  "{0}% off code: {1}",
+  "฿410.13",
+  "Save 25% in cart",
+  "฿6.84/‏serving",
+  "฿307.60",
+  "(25% off)",
+  "฿410.13",
+  "฿5.13/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/g/250.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/k/250.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/g/250.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/s/250.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/s/255.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/s/259.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/s/170.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/s/148.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01111/s/147.jpg"
+ ]
+}

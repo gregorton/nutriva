@@ -1,0 +1,230 @@
+{
+ "pid": "118400",
+ "slug": "swanson-vitamins-vitamins-d3-k2-60-veggie-caps",
+ "scrapedAt": "2026-08-25T17:25:05.702Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-vitamins-d3-k2-60-veggie-caps.jpg",
+  "/products/iherb/swanson-vitamins-vitamins-d3-k2-60-veggie-caps-2.jpg",
+  "/products/iherb/swanson-vitamins-vitamins-d3-k2-60-veggie-caps-3.jpg",
+  "/products/iherb/swanson-vitamins-vitamins-d3-k2-60-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-vitamins-d3-k2-60-veggie-caps/118400",
+ "pageTitle": "Swanson Vitamins, Vitamins D3 & K2, 60 Veggie Caps",
+ "h1": "Swanson Vitamins, Vitamins D3 & K2, 60 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "118400",
+  "name": "Swanson Vitamins, Vitamins D3 & K2, 60 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/g/24.jpg",
+  "mpn": "SWV-11809",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3785
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.07",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "341.23",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Bone and Immune Health 2-In-1 Formula Vegan Dietary Supplement Contains Vitashine D3™ Better together! Emerging research suggests that vitamins D3 and K2—two key nutrients for efficient calcium usage in the body—may have an even more beneficial effect when taken together. Swanson Vitamins D3 & K2 offers these bone and heart health helpers in a convenient, one-a-day veggie capsule. What if you already supplement with vitamins D and K or get them from your diet? Now Swanson offers a low-dose D3 & K2 combo just for you. Swanson low dose Vitamins D3 & K2 provides 50 mcg (2,000 IU) of vegan D3 derived from lichen and 75 mcg soy-free chickpea-sourced K2 as MK-7 in a once-daily veggie cap to help maintain cardiovascular health and promote strong, healthy bones.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.45x1.45"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-11809",
+  "gtin12": "087614118093",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Bone and Immune Health",
+    "2-In-1 Formula",
+    "Vegan",
+    "Dietary Supplement",
+    "Contains Vitashine D3™"
+   ],
+   "paragraphs": [
+    "Better together! Emerging research suggests that vitamins D3 and K2—two key nutrients for efficient calcium usage in the body—may have an even more beneficial effect when taken together. Swanson Vitamins D3 & K2 offers these bone and heart health helpers in a convenient, one-a-day veggie capsule.",
+    "What if you already supplement with vitamins D and K or get them from your diet? Now Swanson offers a low-dose D3 & K2 combo just for you. Swanson low dose Vitamins D3 & K2 provides 50 mcg (2,000 IU) of vegan D3 derived from lichen and 75 mcg soy-free chickpea-sourced K2 as MK-7 in a once-daily veggie cap to help maintain cardiovascular health and promote strong, healthy bones."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one veggie capsule per day with food and water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, hypromellose (vegetarian capsule), microcrystal- line cellulose (plant fiber), maltodextrin, silica, cornstarch."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Do not take this product if you have a renal disorder or if you are pregnant or nursing. Consult your healthcare provider before use if you have a medical condition or if you are taking medication, especially blood thinning medication.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-11809"
+  },
+  {
+   "label": "UPC",
+   "value": "087614118093"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.1 x 3.7 x 3.7 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitashine™ Vitamin D3 (vegan cholecalciferol) (from lichen)",
+   "50 mcg",
+   "250%"
+  ],
+  [
+   "Vitamin K2 [menaquinone-7 (MK-7)]",
+   "75 mcg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie cap"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿341.23",
+  "฿341.23",
+  "฿5.69/‏serving",
+  "{0}% off code: {1}",
+  "฿341.23",
+  "Save 0% in cart",
+  "฿5.69/‏serving",
+  "฿341.23",
+  "(0% off)",
+  "฿341.23",
+  "฿5.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11809/s/33.jpg"
+ ]
+}

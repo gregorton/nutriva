@@ -1,0 +1,228 @@
+{
+ "pid": "124284",
+ "slug": "idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-mask",
+ "scrapedAt": "2026-08-25T17:49:46.963Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-mask.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-mask-2.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-mask-3.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-mask-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-masks-0-68-fl-oz-20-ml-each/124284",
+ "pageTitle": "Idealove, Superfood Skin Savior, Let's Avo Good Time, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+ "h1": "Idealove, Superfood Skin Savior, Let's Avo Good Time, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124284",
+  "name": "Idealove, Superfood Skin Savior, Let's Avo Good Time, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/g/46.jpg",
+  "mpn": "IDE-02309",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 9687
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Idealove",
+   "url": "https://www.iherb.com/c/idealove?rank=0",
+   "identifier": "IDE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.32",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "215.32",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "287.09",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Idealove ™ Superfood Skin Savior , Let’s Avo Good Time Replenishing Avocado Smoothing Cocoa Extract, Hyaluronic Acid, Trehalose, and Arginine Lyocell Sheet Material to Maximize Adhesion and Delivery of Essence Made in Korea Korean skincare designed to bring out the light in you!... Idealove ™. Treat yourself to an at-home spa day with Idealove ™ Superfood Skin Savior, Let’s Avo Good Time . This superfood-infused sheet mask is packed with key vitamins and minerals from avocado and can help rejuvenate skin for a clear and dewy appearance. Made with silky-smooth pulp fabric, the mask helps to maximize essence absorption for a super(food) radiant complexion! This Superfood Skin Savior mask is infused with avocado extract, which contains key antioxidants and nutrients that moisturize and soothe to help skin stay elastic and vibrant.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.2x0.9"
+  },
+  "isRelatedTo": null,
+  "sku": "IDE-02309",
+  "gtin12": "898220023097",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Beauty Face Masks",
+  "Sheet Masks"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Idealove™ Superfood Skin Savior, Let’s Avo Good Time",
+    "Replenishing Avocado",
+    "Smoothing Cocoa Extract, Hyaluronic Acid, Trehalose, and Arginine",
+    "Lyocell Sheet Material to Maximize Adhesion and Delivery of Essence",
+    "Made in Korea"
+   ],
+   "paragraphs": [
+    "Korean skincare designed to bring out the light in you!...Idealove™.",
+    "Treat yourself to an at-home spa day with Idealove™ Superfood Skin Savior, Let’s Avo Good Time. This superfood-infused sheet mask is packed with key vitamins and minerals from avocado and can help rejuvenate skin for a clear and dewy appearance. Made with silky-smooth pulp fabric, the mask helps to maximize essence absorption for a super(food) radiant complexion!",
+    "This Superfood Skin Savior mask is infused with avocado extract, which contains key antioxidants and nutrients that moisturize and soothe to help skin stay elastic and vibrant."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "How to Use:"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, Polysorbate 60, 1,2-Hexanediol, Hydroxyacetophenone, Glyceryl Stearate, PEG-100 Stearate, Arginine, Carbomer, Hydroxyethylcellulose, Allantoin, Chlorphenesin, Trehalose, Dipotassium Glycyrrhizate, Disodium EDTA, Fragrance, Sodium Hyaluronate, Butylene Glycol, Theobroma Cacao (Cocoa) Extract, Persea Gratissima (Avocado) Fruit Extract, CI 19140, CI 42090, Dextrin, Butylphenyl Methylpropional, Disodium Phosphate, Sodium Phosphate, Linalool."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid contact with eyes. Keep out of reach of children. Discontinue use if irritation occurs.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "IDE-02309"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023097"
+  },
+  {
+   "label": "Package quantity",
+   "value": "5 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.9 x 10.7 x 2.3 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "5 count"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "5 count",
+   "pid": "124284",
+   "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-let-s-avo-good-time-5-beauty-sheet-masks-0-68-fl-oz-20-ml-each/124284",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "7 count",
+   "pid": "124288",
+   "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-beauty-masks-variety-pack-7-sheets-0-68-fl-oz-20-ml-each/124288",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿287.09",
+  "฿287.09",
+  "฿57.42/‏count",
+  "{0}% off code: {1}",
+  "฿287.09",
+  "Save 25% in cart",
+  "฿57.42/‏count",
+  "฿215.32",
+  "(25% off)",
+  "฿287.09",
+  "฿43.06/‏count",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/s/4.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02309/b/46.jpg"
+ ]
+}

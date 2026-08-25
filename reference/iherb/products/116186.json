@@ -1,0 +1,231 @@
+{
+ "pid": "116186",
+ "slug": "cetaphil-eczema-restoraderm-soothing-moisturizer-for-sensitive-skin-fr",
+ "scrapedAt": "2026-08-25T17:50:30.229Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/cetaphil-eczema-restoraderm-soothing-moisturizer-for-sensitive-skin-fr.jpg",
+  "/products/iherb/cetaphil-eczema-restoraderm-soothing-moisturizer-for-sensitive-skin-fr-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/cetaphil-eczema-restoraderm-soothing-moisturizer-for-sensitive-skin-fragrance-free-10-fl-oz-296-ml/116186",
+ "pageTitle": "Cetaphil, Eczema, Restoraderm® Soothing Moisturizer, For Sensitive Skin, Fragrance Free, 10 fl oz (296 ml)",
+ "h1": "Cetaphil, Eczema, Restoraderm® Soothing Moisturizer, For Sensitive Skin, Fragrance Free, 10 fl oz (296 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "116186",
+  "name": "Cetaphil, Eczema, Restoraderm® Soothing Moisturizer, For Sensitive Skin, Fragrance Free, 10 fl oz (296 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/g/26.jpg",
+  "mpn": "CET-11504",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2041
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Cetaphil",
+   "url": "http://www.cetaphil.com/",
+   "identifier": "CET"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.77",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "595.23",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "744.04",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dermatologist Recommended 3 - Protect Skin Protectant Colloidal Oatmeal Microbiome Gentle Ad-Resyl® Steroid Free Accepted National Eczema Association Steroid Free Paraben Free Hypoallergenic Won't Clog Pores Trusted by Dermatologists for 75 Years Lightweight lotion is clinically proven to provide soothing hydration for 48 hours, completely restore skin's protective barrier, and improve the resilience of sensitive skin with 84% of consumers noticing fewer flare-ups with continued use. Dermatologist developed regimen with a microbiome friendly blend of Ad-Resyl®, filaggrin technology, and skin protectant colloidal oatmeal for gentle yet effective care throughout the eczema cycle. Uses: Temporarily protects and helps relive minor skin irritation and itching due to: Eczema Rashes",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.1"
+  },
+  "isRelatedTo": null,
+  "sku": "CET-11504",
+  "gtin12": "302990115048",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/g/26.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Medicine Cabinet",
+  "Skin Treatment",
+  "Eczema"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dermatologist Recommended",
+    "3 - Protect",
+    "Skin Protectant Colloidal Oatmeal",
+    "Microbiome Gentle Ad-Resyl®",
+    "Steroid Free",
+    "Accepted National Eczema Association",
+    "Steroid Free",
+    "Paraben Free",
+    "Hypoallergenic",
+    "Won't Clog Pores",
+    "Trusted by Dermatologists for 75 Years",
+    "Eczema",
+    "Rashes"
+   ],
+   "paragraphs": [
+    "Lightweight lotion is clinically proven to provide soothing hydration for 48 hours, completely restore skin's protective barrier, and improve the resilience of sensitive skin with 84% of consumers noticing fewer flare-ups with continued use.",
+    "Dermatologist developed regimen with a microbiome friendly blend of Ad-Resyl®, filaggrin technology, and skin protectant colloidal oatmeal for gentle yet effective care throughout the eczema cycle.",
+    "Uses: Temporarily protects and helps relive minor skin irritation and itching due to:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply as needed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Drug Facts",
+    "Active Ingredients\tPurpose",
+    "Colloidal Oatmeal 1%\tSkin protectant",
+    "Inactive Ingredients",
+    "Water, glycerin, caprylic/capric triglyceride, helianthus annuus (sunflower) seed oil, pentylene glycol, butyrospermum parkii (shea) butter, cyclopentasiloxane, cetearyl alcohol, sorbitol, behenyl alcohol, glyceryl stearate, avena sativa (oat) kernel flour, cetyl alcohol, tocopheryl acetate, arginine, niacinamide, glyceryl stearate citrate, sodium polyacrylate, disodium ethylene dicocamide peg-15 disulfate, caprylyl glycol, ceteareth-20, sodium pca, panthenol, citric acid, allantoin, dimethiconol, ophiopogon japonicus root extract, disodium edta, maltodextrin, sodium hyaluronate, ceramide np, pantolactone."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Do not get into eyes.",
+    "Condition worsens",
+    "Symptoms last more than 7 days or clear up and occur again within a few days."
+   ],
+   "paragraphs": [
+    "For external use only.",
+    "When using this product:",
+    "Stop use and ask a Doctor if:",
+    "Keep out of reach of children.",
+    "If swallowed, get medical help or contact a Poison Control Center right away."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.35 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CET-11504"
+  },
+  {
+   "label": "UPC",
+   "value": "302990115048"
+  },
+  {
+   "label": "Package quantity",
+   "value": "296 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "19.6 x 6.7 x 5.3 cm, 0.35 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "296 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Fragrance-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿744.04",
+  "฿744.04",
+  "฿2.51/‏ml",
+  "{0}% off code: {1}",
+  "฿744.04",
+  "Save 20% in cart",
+  "฿2.51/‏ml",
+  "฿595.23",
+  "(20% off)",
+  "฿744.04",
+  "฿2.01/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/g/26.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/k/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/g/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet11504/s/30.jpg"
+ ]
+}

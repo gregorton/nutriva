@@ -1,0 +1,241 @@
+{
+ "pid": "96258",
+ "slug": "california-gold-nutrition-pea-300-mg-pqq-10-mg-90-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:48:45.324Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-pea-300-mg-pqq-10-mg-90-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-pea-300-mg-pqq-10-mg-90-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-pea-300-mg-pqq-10-mg-90-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-pea-300-mg-pqq-10-mg-90-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-pea-300-mg-pqq-10-mg-90-veggie-capsules/96258",
+ "pageTitle": "California Gold Nutrition, PEA 300 mg + PQQ 10 mg, 90 Veggie Capsules",
+ "h1": "California Gold Nutrition, PEA 300 mg + PQQ 10 mg, 90 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "96258",
+  "name": "California Gold Nutrition, PEA 300 mg + PQQ 10 mg, 90 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/g/88.jpg",
+  "mpn": "LKN-01592",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 4351
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "617.04",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "822.72",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Suitable for Vegetarians and Vegans California Gold Nutrition® PEA with PQQ is a daily supplement containing Palmitoylethanolamide and Pyrroloquinoline Quinone, which can help support mitochondrial function and joint comfort.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LKN-01592",
+  "gtin12": "898220015924",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/g/88.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "PQQ"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Suitable for Vegetarians and Vegans"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® PEA with PQQ is a daily supplement containing Palmitoylethanolamide and Pyrroloquinoline Quinone, which can help support mitochondrial function and joint comfort.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LKN-01592"
+  },
+  {
+   "label": "UPC",
+   "value": "898220015924"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.2 x 6.2 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Palmitoylethanolamide (PEA)",
+   "600 mg",
+   "†"
+  ],
+  [
+   "Pyrroloquinoline QuinoneDisodium Salt (PQQ)",
+   "20 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿822.72",
+  "฿822.72",
+  "฿18.28/‏serving",
+  "{0}% off code: {1}",
+  "฿822.72",
+  "Save 25% in cart",
+  "฿18.28/‏serving",
+  "฿617.04",
+  "(25% off)",
+  "฿822.72",
+  "฿13.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/g/88.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/k/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/g/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/s/87.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/s/135.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01592/s/99.jpg"
+ ]
+}

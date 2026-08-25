@@ -1,0 +1,269 @@
+{
+ "pid": "148171",
+ "slug": "micro-ingredients-vitamin-d3-k2-300-softgels",
+ "scrapedAt": "2026-08-25T17:25:47.993Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-vitamin-d3-k2-300-softgels.jpg",
+  "/products/iherb/micro-ingredients-vitamin-d3-k2-300-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-300-softgels/148171",
+ "pageTitle": "Micro Ingredients, Vitamin D3 & K2, 300 Softgels",
+ "h1": "Micro Ingredients, Vitamin D3 & K2, 300 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148171",
+  "name": "Micro Ingredients, Vitamin D3 & K2, 300 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/g/2.jpg",
+  "mpn": "MII-16762",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 1699
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1147.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune Support Extra Strength K2 as MK-7 10,000 IU + 200 mcg Made with Coconut Oil GMO Free Gluten Free Soy Free Dietary Supplement Stay Healthy Love Nature Quality Assured Why Micro Ingredients vitamin d3 & k2? Enjoy a special Vitamin D3 K2 complex with a potent, one-a-day formula featuring the high bioavailability of top-grade D3 as cholecalciferol and K2 as MK-7. Enhanced with coconut oil for its beneficial healthy fats, this addition aids in maximizing the utilization of vitamins D3 and K2 fat-soluble properties, often referred to as the 'natural sunshine vitamins'. Our authentic, premium forms are encapsulated in easy-to-consume mini softgels, making your daily intake effortless. Easily embrace the sunshine synergy of Vitamin D3 and K2 for your wellness journey with every serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.1x1.5"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-16762",
+  "gtin12": "850056167628",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune Support",
+    "Extra Strength",
+    "K2 as MK-7",
+    "10,000 IU + 200 mcg",
+    "Made with Coconut Oil",
+    "GMO Free",
+    "Gluten Free",
+    "Soy Free",
+    "Dietary Supplement",
+    "Stay Healthy",
+    "Love Nature",
+    "Quality Assured"
+   ],
+   "paragraphs": [
+    "Why Micro Ingredients vitamin d3 & k2?",
+    "Enjoy a special Vitamin D3 K2 complex with a potent, one-a-day formula featuring the high bioavailability of top-grade D3 as cholecalciferol and K2 as MK-7. Enhanced with coconut oil for its beneficial healthy fats, this addition aids in maximizing the utilization of vitamins D3 and K2 fat-soluble properties, often referred to as the 'natural sunshine vitamins'. Our authentic, premium forms are encapsulated in easy-to-consume mini softgels, making your daily intake effortless. Easily embrace the sunshine synergy of Vitamin D3 and K2 for your wellness journey with every serving."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take 1 softgel daily with a meal. For best results, please consult your physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Coconut oil, softgel (gelatin, glycerin, purified water).",
+    "Free of: Soy, dairy & gluten.",
+    "Contains: Tree nuts (coconut)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Keep in a cool dry place.",
+    "Disclaimer: Due to coconut oil softening under hot temperatures, this may cause a milky, spotted appearing softgel. Refrigerate upon arrival to avoid this matter.",
+    "If pregnant / lactating or taking any medications, please consult your physician prior to use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-16762"
+  },
+  {
+   "label": "UPC",
+   "value": "850056167628"
+  },
+  {
+   "label": "Package quantity",
+   "value": "300 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.3 x 13 x 3.8 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 300"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)(D3)",
+   "250 mcg (10,000 IU)",
+   "1,250%"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)(MK-7)",
+   "200 mcg",
+   "+"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "300"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "180 count",
+   "pid": "156616",
+   "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-180-softgels/156616",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "152159",
+   "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-240-softgels/152159",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "300 count",
+   "pid": "148171",
+   "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-300-softgels/148171",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,147.04",
+  "฿1,147.04",
+  "฿3.82/‏serving",
+  "{0}% off code: {1}",
+  "฿1,147.04",
+  "Save 0% in cart",
+  "฿3.82/‏serving",
+  "฿1,147.04",
+  "(0% off)",
+  "฿1,147.04",
+  "฿3.82/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16762/b/2.jpg"
+ ]
+}

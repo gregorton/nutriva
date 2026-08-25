@@ -1,0 +1,240 @@
+{
+ "pid": "4892",
+ "slug": "nature-s-way-primadophilus-bifidus-probiotic-5-billion-cfu-90-capsules",
+ "scrapedAt": "2026-08-25T17:29:15.041Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-primadophilus-bifidus-probiotic-5-billion-cfu-90-capsules.jpg",
+  "/products/iherb/nature-s-way-primadophilus-bifidus-probiotic-5-billion-cfu-90-capsules-2.jpg",
+  "/products/iherb/nature-s-way-primadophilus-bifidus-probiotic-5-billion-cfu-90-capsules-3.jpg",
+  "/products/iherb/nature-s-way-primadophilus-bifidus-probiotic-5-billion-cfu-90-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-primadophilus-bifidus-probiotic-5-billion-cfu-90-capsules/4892",
+ "pageTitle": "Nature's Way, Primadophilus® Bifidus Probiotic, 5 Billion CFU, 90 Capsules",
+ "h1": "Nature's Way, Primadophilus® Bifidus Probiotic, 5 Billion CFU, 90 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "4892",
+  "name": "Nature's Way, Primadophilus® Bifidus Probiotic, 5 Billion CFU, 90 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/g/64.jpg",
+  "mpn": "NWY-06860",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1848
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "705.42",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Delayed Release Once Daily Supports Healthy Digestive Flora Probiotic Supplement 4 Strain Formula Provides 5 Billion CFU Per Serving With Bifidobacteria and Lactobacilli Strains True Potency™ Guarantee Through The Date of Expiration Delayed-Release Capsules Resist Stomach Acid Starting a new wellness habit is easy with great benefits like these. Primadophilus Bifidus Probiotic helps maintain healthy digestive flora with 4 strains of Bifidobacteria and Lactobacilli, all in one easy-to-take daily probiotic.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x4.2"
+  },
+  "isRelatedTo": null,
+  "sku": "NWY-06860",
+  "gtin12": "033674068601",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/g/64.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Bifidobacterium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Delayed Release Once Daily",
+    "Supports Healthy Digestive Flora",
+    "Probiotic Supplement",
+    "4 Strain Formula Provides 5 Billion CFU Per Serving",
+    "With Bifidobacteria and Lactobacilli Strains",
+    "True Potency™ Guarantee Through The Date of Expiration",
+    "Delayed-Release Capsules Resist Stomach Acid"
+   ],
+   "paragraphs": [
+    "Starting a new wellness habit is easy with great benefits like these. Primadophilus Bifidus Probiotic helps maintain healthy digestive flora with 4 strains of Bifidobacteria and Lactobacilli, all in one easy-to-take daily probiotic."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 capsule daily. Keep refrigerated to maintain maximum potency."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Potato starch, plant-derived capsule (hypromellose, gellan gum), magnesium stearate, ascorbic acid (preservative to maintain freshness).",
+    "Contains milk and soy."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If pregnant, nursing, or taking any medications, consult a healthcare professional before use.",
+    "Keep out of reach of children. Safety sealed with inner seal. Do not use if seal is broken or missing. Keep tightly closed."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NWY-06860"
+  },
+  {
+   "label": "UPC",
+   "value": "033674068601"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "5.1 x 5.1 x 10.7 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Proprietary Probiotic Blend providing 5 Billion CFU",
+   "340 mg",
+   "**"
+  ],
+  [
+   "Bifodobacteria Blend: Bifidobacterium breve HA-129Bifidobacterium longum HA-135Lactobacilli Blend: Lactobacillus rhamnosus HA-111Lactobacillus acidophilus RO418",
+   "",
+   ""
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#7 in",
+   "category": "Bifidobacterium",
+   "href": "/c/bifidobacterium?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿705.42",
+  "฿705.42",
+  "฿7.84/‏serving",
+  "{0}% off code: {1}",
+  "฿705.42",
+  "Save 0% in cart",
+  "฿7.84/‏serving",
+  "฿705.42",
+  "(0% off)",
+  "฿705.42",
+  "฿7.84/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/g/64.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/k/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/g/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy06860/s/76.jpg"
+ ]
+}

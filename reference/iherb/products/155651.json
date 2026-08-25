@@ -1,0 +1,430 @@
+{
+ "pid": "155651",
+ "slug": "california-gold-nutrition-super-immune-seasonal-wellness-multivitamin",
+ "scrapedAt": "2026-08-25T17:49:16.989Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-super-immune-seasonal-wellness-multivitamin.jpg",
+  "/products/iherb/california-gold-nutrition-super-immune-seasonal-wellness-multivitamin-2.jpg",
+  "/products/iherb/california-gold-nutrition-super-immune-seasonal-wellness-multivitamin-3.jpg",
+  "/products/iherb/california-gold-nutrition-super-immune-seasonal-wellness-multivitamin-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-super-immune-seasonal-wellness-multivitamin-240-tablets/155651",
+ "pageTitle": "California Gold Nutrition, Super Immune, Seasonal Wellness Multivitamin, 240 Tablets",
+ "h1": "California Gold Nutrition, Super Immune, Seasonal Wellness Multivitamin, 240 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "155651",
+  "name": "California Gold Nutrition, Super Immune, Seasonal Wellness Multivitamin, 240 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/g/10.jpg",
+  "mpn": "CGN-10035",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 89
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "1253.29",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1671.06",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune-Strengthening Multivitamin with Glutathione A High-Potency Blend of Vitamins, Minerals, Herbs, and Antioxidants Seasonal Wellness Multivitamin* Bone and Energy Production Support* Formulated Without: Gluten, GMOs, or Soy California Gold Nutrition® Super Immune is an immune-strengthening multivitamin featuring a high-potency blend of nutrients. It’s unique blend of herbs, antioxidants, vitamins, and minerals provides support for seasonal wellness, as well as bone health and energy production.* iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.1x3.1"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-10035",
+  "gtin12": "898220100354",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/g/10.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune-Strengthening Multivitamin with Glutathione",
+    "A High-Potency Blend of Vitamins, Minerals, Herbs, and Antioxidants",
+    "Seasonal Wellness Multivitamin*",
+    "Bone and Energy Production Support*",
+    "Formulated Without: Gluten, GMOs, or Soy"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Super Immune is an immune-strengthening multivitamin featuring a high-potency blend of nutrients. It’s unique blend of herbs, antioxidants, vitamins, and minerals provides support for seasonal wellness, as well as bone health and energy production.*",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 tablets daily with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Manufactured and quality tested in USA with globally sourced ingredients.",
+    "All California Gold Nutrition® products come with a 100% GOLD Guarantee. If you are not completely satisfied with your purchase, return the unused portion within 90 days for a full refund."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.49 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-10035"
+  },
+  {
+   "label": "UPC",
+   "value": "898220100354"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16 x 7.9 x 7.9 cm, 0.5 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Tablets"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "750 mcg",
+   "83%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "750 mg",
+   "833%"
+  ],
+  [
+   "Vitamin D (as D3, Cholecalciferol)",
+   "50 mcg",
+   "250%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopheryl Succinate and Mixed Tocopherols)",
+   "268.5 mg",
+   "1790%"
+  ],
+  [
+   "Thiamin (as Thiamine HCI)",
+   "42.5 mg",
+   "3542%"
+  ],
+  [
+   "Riboflavin",
+   "35 mg",
+   "2692%"
+  ],
+  [
+   "Niacin (as Nicotinic Acid and Niacinamide)",
+   "106 mg",
+   "663%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCI)",
+   "125 mg",
+   "7353%"
+  ],
+  [
+   "Folate",
+   "850 mcg DFE(500 mcg Folic Acid)",
+   "213%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "500 mcg",
+   "20833%"
+  ],
+  [
+   "Biotin (as d-Biotin)",
+   "300 mcg",
+   "1000%"
+  ],
+  [
+   "Pantothenic Acid (as d-Calcium Pantothenate)",
+   "87.5 mg",
+   "1750%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "90 mg",
+   "16%"
+  ],
+  [
+   "Calcium (as Calcium Carbonate and Calcium Citrate)",
+   "500 mg",
+   "38%"
+  ],
+  [
+   "Iron (as Ferrous Carbonyl)",
+   "12 mg",
+   "67%"
+  ],
+  [
+   "Iodine (from Kelp)",
+   "117 mcg",
+   "78%"
+  ],
+  [
+   "Magnesium (as Magnesium Oxide and Magnesium Glycinate)",
+   "300 mg",
+   "71%"
+  ],
+  [
+   "Zinc (as Zinc Oxide and Zinc Citrate)",
+   "20 mg",
+   "182%"
+  ],
+  [
+   "Selenium (as Sodium Selenite)",
+   "125 mcg",
+   "227%"
+  ],
+  [
+   "Copper (as Copper Glycinate)",
+   "1.25 mg",
+   "139%"
+  ],
+  [
+   "Manganese (as Manganese Sulfate and Manganese Citrate)",
+   "5 mg",
+   "217%"
+  ],
+  [
+   "Chromium (as Chromium Picolinate)",
+   "150 mcg",
+   "429%"
+  ],
+  [
+   "Molybdenum (as molybdenum amino acid chelate)",
+   "75 mcg",
+   "167%"
+  ],
+  [
+   "Acetyl-L-Carnitine HCl",
+   "250 mg",
+   "†"
+  ],
+  [
+   "Whole Food Herb & Phyto-Antioxidant Blend Quercetin, Organic Alfalfa Grass, Rose Hips, Lutein, Lycopene, Organic Astragalus Root, Organic Bilberry Fruit, Organic Bitter Melon Fruit, Cang-Zhu Atractylodes Root, Organic Chlorella, Organic Codonopsis Root, Organic Dandelion Root, Organic Fo-Ti Root, Organic Ginger Root, Organic Ginkgo Leaf Extract, Organic Gotu Kola Leaf, Organic Hawthorn Berry Extract, Organic Licorice Root Extract, Organic Maca Root, Organic Nettle Leaf, Organic Olive Leaf, Pau D'Arco Bark, Organic Rehmannia Root, Organic Schisandra Berry Extract, Organic Spirulina, Organic Suma",
+   "125 mg",
+   "†"
+  ],
+  [
+   "L-Glutathione",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Betaine (as betaine HCl)",
+   "70 mg",
+   "†"
+  ],
+  [
+   "Glutamic Acid (as glutamic acid HCl)",
+   "53 mg",
+   "†"
+  ],
+  [
+   "Alpha-Lipoic Acid",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Beta Glucan 1,3/1,6",
+   "50 mg",
+   "†"
+  ],
+  [
+   "GLA (gamma-linolenic acid from borage seed oil)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Inositol",
+   "37.5 mg",
+   "†"
+  ],
+  [
+   "Rutin",
+   "17.5 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids (from lemon fruit)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "Coenzyme Q10 (Ubiquinone)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "Mixed Tocopherols (d-alpha, d-beta, d-gamma, d-delta)",
+   "4.8 mg",
+   "†"
+  ],
+  [
+   "Hesperidin (from citrus)",
+   "2.5 mg",
+   "†"
+  ],
+  [
+   "Boron (from boron citrate)",
+   "1.5 mg",
+   "†"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)",
+   "90 mcg",
+   "†"
+  ],
+  [
+   "† Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "† Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,671.06",
+  "฿1,671.06",
+  "฿27.85/‏serving",
+  "{0}% off code: {1}",
+  "฿1,671.06",
+  "Save 25% in cart",
+  "฿27.85/‏serving",
+  "฿1,253.29",
+  "(25% off)",
+  "฿1,671.06",
+  "฿20.89/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/g/10.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/k/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/g/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/s/15.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn10035/s/21.jpg"
+ ]
+}

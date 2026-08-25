@@ -1,0 +1,246 @@
+@import "tailwindcss";
+
+/*
+  Nutriva design tokens.
+
+  Direction: Thai apothecary — mangosteen plum as the brand chrome, turmeric as the single
+  conversion accent, pandan green reserved strictly for trust semantics (verified, in stock,
+  savings). This deliberately inverts the category convention of green chrome + orange button,
+  so the storefront reads as its own brand rather than a clone of the reference site.
+*/
+@theme {
+  /* brand chrome */
+  --color-plum-900: #2b0f20;
+  --color-plum-800: #3b1430;
+  --color-plum-700: #4d1c3f;
+  --color-plum-600: #6b2a57;
+  --color-plum-200: #e9d6e1;
+  --color-plum-100: #f7edf3;
+
+  /* the only conversion accent: add-to-cart, active nav, countdown digits */
+  --color-turmeric-700: #8a5804;
+  --color-turmeric-600: #a96c05;
+  --color-turmeric-500: #d08a0e;
+  --color-turmeric-200: #f5dfad;
+  --color-turmeric-100: #fbf1d9;
+
+  /* review stars — the one yellow, and only ever a rating */
+  --color-star: #f5a623;
+
+  /* volume figures ("2,400 bought this month") — a highlight, not a trust claim */
+  --color-sold: #659fd9;
+
+  /* add-to-cart, and nothing else: a raised gradient button, edge one step darker */
+  --color-cart-top: #c06d00;
+  --color-cart-bottom: #bc5500;
+  --color-cart-edge: #b66700;
+  --color-cart-top-hover: #a85f00;
+  --color-cart-bottom-hover: #a34a00;
+
+  /* trust semantics only — never used as chrome */
+  --color-pandan-700: #164a34;
+  --color-pandan-600: #1e5b41;
+  --color-pandan-100: #e6f0ea;
+
+  /* markdown price — berry, not the reference's fire-engine red */
+  --color-sale-600: #a3123a;
+
+  /* neutrals */
+  --color-ink: #221a1f;
+  --color-muted: #6f636b;
+  --color-faint: #9a8f95;
+  --color-line: #e8e1d9;
+  --color-line-strong: #d6cbc0;
+  --color-paper: #fbf9f5;
+  --color-paper-warm: #f4ede2;
+
+  --font-display: var(--font-display), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-card: 10px;
+  --radius-tile: 14px;
+}
+
+/* Page shell: one container width for every section, matching the dense catalog feel. */
+@utility shell {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 84rem; /* 1344px */
+  padding-inline: 1rem;
+}
+
+/* The signature device: a back-of-bottle spec row. Data type is the same sans as the rest
+   of the UI — smaller, tabular and colour-separated. Figures still line up in columns
+   without the typewriter look a mono brings. */
+@utility facts {
+  font-size: 12px;
+  line-height: 1.35;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-muted);
+}
+
+/* Small label for eyebrows and section kickers. */
+@utility kicker {
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+}
+
+/*
+  Add-to-cart, everywhere it appears: card, cross-sell tile and buy box.
+
+  A raised gradient orange with a one-step-darker edge and a 3px radius — the storefront
+  convention for the one button that commits money, and the only place gradient or this
+  orange is allowed. White label at every size; the old plum-on-turmeric flat fill read as
+  a caption rather than a call to action.
+*/
+@utility btn-cart {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  border: 1px solid var(--color-cart-edge);
+  background-color: var(--color-cart-bottom);
+  background-image: linear-gradient(var(--color-cart-top) 0%, var(--color-cart-bottom) 100%);
+  color: #fff;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+  transition:
+    background-image 160ms ease,
+    background-color 160ms ease,
+    border-color 160ms ease,
+    opacity 160ms ease,
+    transform 160ms ease;
+
+  &:hover {
+    border-color: var(--color-cart-bottom-hover);
+    background-color: var(--color-cart-bottom-hover);
+    background-image: linear-gradient(
+      var(--color-cart-top-hover) 0%,
+      var(--color-cart-bottom-hover) 100%
+    );
+  }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background: #fff;
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 15px;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    line-height: 1.1;
+  }
+
+  /* Prices and any compared figure line up in columns. */
+  [data-num] {
+    font-variant-numeric: tabular-nums;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-turmeric-500);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background: var(--color-turmeric-200);
+    color: var(--color-plum-900);
+  }
+
+  /* Horizontal rails scroll by snap; scrollbar hidden but keyboard/trackpad still work. */
+  .rail {
+    scrollbar-width: none;
+    scroll-snap-type: x mandatory;
+  }
+  .rail::-webkit-scrollbar {
+    display: none;
+  }
+  .rail > * {
+    scroll-snap-align: start;
+  }
+
+  /*
+    Add-to-cart on a product card. Hidden until the card is hovered or holds focus, so a
+    grid at rest shows products rather than a column of buttons. Pointer devices only:
+    where hover does not exist the button stays visible, because a touch user has no way
+    to reveal it. Keyboard users get it via :focus-within on the card. The fade itself is
+    timed by `btn-cart`, which every one of these buttons also carries.
+  */
+  @media (hover: hover) {
+    .reveal-add {
+      opacity: 0;
+      transform: translateY(6px);
+      pointer-events: none;
+    }
+    .group:hover .reveal-add,
+    .group:focus-within .reveal-add {
+      opacity: 1;
+      transform: none;
+      pointer-events: auto;
+    }
+  }
+
+  /*
+    Product-page gallery. Four radios carry which shot is showing, so switching views needs no
+    client JS, each thumbnail is a real tab stop, and the choice survives a hard reload. The
+    frame and the thumb strip are siblings of the inputs, which is what lets `:checked ~` reach
+    both — hence the index-by-index rules rather than one generic selector.
+  */
+  .gallery .shot {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 140ms ease;
+  }
+  .gallery > input:nth-of-type(1):checked ~ .frame .shot:nth-child(1),
+  .gallery > input:nth-of-type(2):checked ~ .frame .shot:nth-child(2),
+  .gallery > input:nth-of-type(3):checked ~ .frame .shot:nth-child(3),
+  .gallery > input:nth-of-type(4):checked ~ .frame .shot:nth-child(4) {
+    opacity: 1;
+    visibility: visible;
+  }
+  .gallery > input:nth-of-type(1):checked ~ .thumbs > li:nth-child(1) .thumb,
+  .gallery > input:nth-of-type(2):checked ~ .thumbs > li:nth-child(2) .thumb,
+  .gallery > input:nth-of-type(3):checked ~ .thumbs > li:nth-child(3) .thumb,
+  .gallery > input:nth-of-type(4):checked ~ .thumbs > li:nth-child(4) .thumb {
+    border-color: var(--color-plum-700);
+    box-shadow: inset 0 0 0 1px var(--color-plum-700);
+  }
+  /* The radio itself is off-screen, so the visible thumbnail has to carry its focus ring. */
+  .gallery > input:focus-visible ~ .thumbs .thumb {
+    outline: none;
+  }
+  .gallery > input:nth-of-type(1):focus-visible ~ .thumbs > li:nth-child(1) .thumb,
+  .gallery > input:nth-of-type(2):focus-visible ~ .thumbs > li:nth-child(2) .thumb,
+  .gallery > input:nth-of-type(3):focus-visible ~ .thumbs > li:nth-child(3) .thumb,
+  .gallery > input:nth-of-type(4):focus-visible ~ .thumbs > li:nth-child(4) .thumb {
+    outline: 2px solid var(--color-turmeric-500);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+ "pid": "129586",
+ "slug": "super-nutrition-collagen-peptides-vanilla-10-4-oz-295-g",
+ "scrapedAt": "2026-08-25T17:33:12.792Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/super-nutrition-collagen-peptides-vanilla-10-4-oz-295-g.jpg",
+  "/products/iherb/super-nutrition-collagen-peptides-vanilla-10-4-oz-295-g-2.jpg",
+  "/products/iherb/super-nutrition-collagen-peptides-vanilla-10-4-oz-295-g-3.jpg",
+  "/products/iherb/super-nutrition-collagen-peptides-vanilla-10-4-oz-295-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/super-nutrition-collagen-peptides-vanilla-10-4-oz-295-g/129586",
+ "pageTitle": "Super Nutrition, Collagen Peptides, Vanilla, 10.4 oz (295 g)",
+ "h1": "Super Nutrition, Collagen Peptides, Vanilla, 10.4 oz (295 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "129586",
+  "name": "Super Nutrition, Collagen Peptides, Vanilla, 10.4 oz (295 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/g/10.jpg",
+  "mpn": "SPN-02348",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 727
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Super Nutrition",
+   "url": "https://www.iherb.com/c/super-nutrition?rank=0",
+   "identifier": "SPN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.85",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "331.89",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "897.22",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Vanilla Flavored Supports Hair, Skin, Nails, and Joints* Features Hydrolyzed Type I & III Collagen Super Nutrition® Collagen Peptides Powder provides 20 g of non-GMO bovine collagen peptides per serving. It is also rich in the amino acids glycine, proline, hydroxyproline, and alanine which help support collagen synthesis in the body.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.6x3.55"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02348",
+  "gtin12": "898220023486",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/g/10.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural Vanilla Flavored",
+    "Supports Hair, Skin, Nails, and Joints*",
+    "Features Hydrolyzed Type I & III Collagen"
+   ],
+   "paragraphs": [
+    "Super Nutrition® Collagen Peptides Powder provides 20 g of non-GMO bovine collagen peptides per serving. It is also rich in the amino acids glycine, proline, hydroxyproline, and alanine which help support collagen synthesis in the body.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 2 scoops daily with 8-10 oz of your favorite beverage in a shaker cup or blender.",
+    "Note: 21 grams per 2 scoops is an average. Individual scooping technique may yield slightly less than or slightly more than 21 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "NOTICE: USE THIS PRODUCT AS A FOOD SUPPLEMENT ONLY. DO NOT USE FOR WEIGHT REDUCTION."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02348"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023486"
+  },
+  {
+   "label": "Package quantity",
+   "value": "295 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.3 x 9.1 x 9 cm, 0.39 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Scoops (21 g)"
+  ],
+  [
+   "Servings Per Container: About 14"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Protein",
+   "18 g",
+   "<1%**"
+  ],
+  [
+   "Calcium",
+   "26 mg",
+   "2%"
+  ],
+  [
+   "Sodium",
+   "100 mg",
+   "4%"
+  ],
+  [
+   "Hydrolyzed Collagen Peptides (from bovine hide)",
+   "20 g",
+   "†"
+  ],
+  [
+   "** Percent Daily Values are based on a 2,000 calorie diet.† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "** Percent Daily Values are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "14"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿897.22",
+  "฿897.22",
+  "฿64.09/‏serving",
+  "{0}% off code: {1}",
+  "฿897.22",
+  "Save 63% in cart",
+  "฿64.09/‏serving",
+  "฿331.89",
+  "(63% off)",
+  "฿897.22",
+  "฿23.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/g/10.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/k/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/g/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/s/15.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02348/b/10.jpg"
+ ]
+}

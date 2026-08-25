@@ -1,0 +1,358 @@
+{
+ "pid": "75264",
+ "slug": "probulin-daily-care-probiotic-10-billion-cfu-30-capsules",
+ "scrapedAt": "2026-08-25T17:17:28.143Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/probulin-daily-care-probiotic-10-billion-cfu-30-capsules.jpg",
+  "/products/iherb/probulin-daily-care-probiotic-10-billion-cfu-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/probulin-daily-care-probiotic-10-billion-cfu-30-capsules/75264",
+ "pageTitle": "Probulin, Daily Care Probiotic, 10 Billion CFU, 30 Capsules",
+ "h1": "Probulin, Daily Care Probiotic, 10 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "75264",
+  "name": "Probulin, Daily Care Probiotic, 10 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/g/54.jpg",
+  "mpn": "PBL-00340",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 272
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Probulin",
+   "url": "https://probulin.com/",
+   "identifier": "PBL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "738.23",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "The Next Generation of Probiotics™ 10 Billion CFU‡ Doctor Formulated§ 12 Scientifically-Studied Strains + Prebiotics MAKTrek® 3-D for Increased Probiotic Survival Supports Digestive Balance Supports Immune Health No Refrigeration Required Dietary Supplement No GMOs No Gluten No Wheat No Dairy No Magnesium Stearate No Soy Halal Probulin® Daily Care is a balanced once daily Probiotic + Prebiotic that: Features: Benefits: 10 Billion cfu‡ per capsule Supports digestive health 12 probiotic strains Supports digestive balance Prebiotic inulin-food for the probiotics survival Shelf stable Employs the MAKTrek® 3-D probiotic delivery system Probulin® goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut. Our scientifically-validated MAKTrek® 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work. Probulin's Daily Care Probiotic features 12 probiotic strains to provide broad-spectrum support for digestive health and immune function. Taking a probiotic is an important part of your daily wellness routine. Formulated by: Jason Mitchell, N.D ., Founder & CEO §Board-certified Naturopathic Doctor specializing in research & development ‡Refrigeration is not required but may help to extend shelf life. Store in a cool dry place at 72°F (22°C) or below.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.35x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "PBL-00340",
+  "gtin12": "855757003404",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "The Next Generation of Probiotics™",
+    "10 Billion CFU‡",
+    "Doctor Formulated§",
+    "12 Scientifically-Studied Strains + Prebiotics",
+    "MAKTrek® 3-D for Increased Probiotic Survival",
+    "Supports Digestive Balance",
+    "Supports Immune Health",
+    "No Refrigeration Required",
+    "Dietary Supplement",
+    "No GMOs",
+    "No Gluten",
+    "No Wheat",
+    "No Dairy",
+    "No Magnesium Stearate",
+    "No Soy",
+    "Halal"
+   ],
+   "paragraphs": [
+    "Probulin® Daily Care is a balanced once daily Probiotic + Prebiotic that:",
+    "Probulin® goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut.",
+    "Our scientifically-validated MAKTrek® 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work.",
+    "Probulin's Daily Care Probiotic features 12 probiotic strains to provide broad-spectrum support for digestive health and immune function. Taking a probiotic is an important part of your daily wellness routine.",
+    "Formulated by: Jason Mitchell, N.D ., Founder & CEO",
+    "§Board-certified Naturopathic Doctor specializing in research & development",
+    "‡Refrigeration is not required but may help to extend shelf life. Store in a cool dry place at 72°F (22°C) or below."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one (1) capsule daily with or without food. For best results, take at bedtime. As a reminder, discuss the supplements and medications that you take with your health care providers."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Complex marine polysaccharides [brown seaweed (lessonia nigrescens)], vegetable cellulose (capsule shell), cellulose, non-gmo rice extract, tricalcium phosphate, sodium chloride, potassium chloride.",
+    "No: GMOs, wheat, gluten, dairy, eggs, magnesium stearate, soy, artificial flavors, artificial colors, artificial sweeteners or shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Pregnant or nursing mothers, children under 18, and individuals with a known medical condition should consult a physician before using this or any dietary supplement.",
+    "Do not accept if seal is broken. Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PBL-00340"
+  },
+  {
+   "label": "UPC",
+   "value": "855757003404"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 8.5 x 4.4 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Sodium",
+   "11 mg",
+   "<1%"
+  ],
+  [
+   "Daily Care Probiotic Blend",
+   "(10 Billion cfu‡) 375 mg",
+   "*"
+  ],
+  [
+   "Lactobacillus Blend",
+   "(7 Billion cfu‡)",
+   "*"
+  ],
+  [
+   "Lactobacillus acidophilus MAK32L61A",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus rhamnosus MAK79L08R",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus bulgaricus MAK55L88B",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus fermentum MAK20L13F",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus helveticus MAK18L62H",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus brevis MAK11L82B",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus reuteri MAKO2L14R",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria Blend",
+   "(3 Billion cfu‡)",
+   "*"
+  ],
+  [
+   "Bifidobacteria breve MAK40B22B",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria lactis MAK16B42L",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria longum MAK34B12L",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria bifidum MAK53B66B",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria infantis MAK22B041",
+   "",
+   "*"
+  ],
+  [
+   "Inulin [from chicory]",
+   "100 mg",
+   "*"
+  ],
+  [
+   "**Percent Daily Values based on a 2,000 calorie diet.*Daily Value not established. ‡CFU (Colony forming unite) amount at the time of best by date, as long as recommended storage conditions ae maintained. Refrigeration is not required but may help to extend shelf life. Store in a cool dry place at 72°F (22°C) or below."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "**Percent Daily Values based on a 2,000 calorie diet.",
+  "*Daily Value not established.",
+  "‡CFU (Colony forming unite) amount at the time of best by date, as long as recommended storage conditions ae maintained. Refrigeration is not required but may help to extend shelf life. Store in a cool dry place at 72°F (22°C) or below."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "75264",
+   "url": "https://th.iherb.com/pr/probulin-daily-care-probiotic-10-billion-cfu-30-capsules/75264",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "60 count",
+   "pid": "75265",
+   "url": "https://th.iherb.com/pr/probulin-daily-care-probiotic-10-billion-cfu-60-capsules/75265",
+   "price": "฿1,353.09",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 7 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿738.23",
+  "฿738.23",
+  "฿24.61/‏serving",
+  "{0}% off code: {1}",
+  "฿738.23",
+  "Save 0% in cart",
+  "฿24.61/‏serving",
+  "฿738.23",
+  "(0% off)",
+  "฿738.23",
+  "฿24.61/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00340/s/53.jpg"
+ ]
+}

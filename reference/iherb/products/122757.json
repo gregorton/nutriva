@@ -1,0 +1,233 @@
+{
+ "pid": "122757",
+ "slug": "nature-s-truth-sleep-melatonin-plus-l-theanine-72-tablets",
+ "scrapedAt": "2026-08-25T17:22:53.189Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-truth-sleep-melatonin-plus-l-theanine-72-tablets.jpg",
+  "/products/iherb/nature-s-truth-sleep-melatonin-plus-l-theanine-72-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-truth-sleep-melatonin-plus-l-theanine-72-tablets/122757",
+ "pageTitle": "Nature's Truth, Sleep Melatonin Plus L-Theanine, 72 Tablets",
+ "h1": "Nature's Truth, Sleep Melatonin Plus L-Theanine, 72 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "122757",
+  "name": "Nature's Truth, Sleep Melatonin Plus L-Theanine, 72 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/g/40.jpg",
+  "mpn": "NTH-10082",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 82
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Truth",
+   "url": "http://www.naturestruthproducts.com/",
+   "identifier": "NTH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "501.34",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100% Drug Free Gluten Free Non GMO Vegan Dietary Supplement 100% Quality Nighttime sleep aid to help with occasional sleeplessness.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.9x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "NTH-10082",
+  "gtin12": "840093100825",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100% Drug Free",
+    "Gluten Free",
+    "Non GMO",
+    "Vegan",
+    "Dietary Supplement",
+    "100% Quality"
+   ],
+   "paragraphs": [
+    "Nighttime sleep aid to help with occasional sleeplessness."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take one (1) vegan tablet 30 minutes before bedtime as Melatonin may cause drowsiness. This product is intended for short term, occasional use only. Do not exceed recommended dosage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Dicalcium phosphate, cellulose (plant origin), crospovidone, vegetable magnesium stearate, vegetable stearic acid, silica.",
+    "Free of gluten, wheat, yeast, milk, lactose, soy, artificial color, artificial flavor, artificial sweetener, preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for use by pregnant or nursing women or persons under the age of 18. If you are taking any medications or have any medical condition, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. Consumption above recommended dosage may impair ability to drive a motor vehicle or operate heavy equipment. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTH-10082"
+  },
+  {
+   "label": "UPC",
+   "value": "840093100825"
+  },
+  {
+   "label": "Package quantity",
+   "value": "72 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 4.8 x 4.8 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegan Tablet"
+  ],
+  [
+   "Servings Per Container: 72"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Melatonin",
+   "10 mg",
+   "*"
+  ],
+  [
+   "L-Theanine",
+   "5.5 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "72"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿501.34",
+  "฿501.34",
+  "฿6.96/‏serving",
+  "{0}% off code: {1}",
+  "฿501.34",
+  "Save 0% in cart",
+  "฿6.96/‏serving",
+  "฿501.34",
+  "(0% off)",
+  "฿501.34",
+  "฿6.96/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth10082/s/45.jpg"
+ ]
+}

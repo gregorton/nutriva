@@ -1,0 +1,258 @@
+{
+ "pid": "118375",
+ "slug": "swanson-vitamins-full-spectrum-turmeric-720-mg-100-vegan-capsules",
+ "scrapedAt": "2026-08-25T17:22:13.308Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-full-spectrum-turmeric-720-mg-100-vegan-capsules.jpg",
+  "/products/iherb/swanson-vitamins-full-spectrum-turmeric-720-mg-100-vegan-capsules-2.jpg",
+  "/products/iherb/swanson-vitamins-full-spectrum-turmeric-720-mg-100-vegan-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-full-spectrum-turmeric-720-mg-100-vegan-capsules/118375",
+ "pageTitle": "Swanson Vitamins, Full Spectrum® Turmeric, 720 mg, 100 Vegan Capsules",
+ "h1": "Swanson Vitamins, Full Spectrum® Turmeric, 720 mg, 100 Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "118375",
+  "name": "Swanson Vitamins, Full Spectrum® Turmeric, 720 mg, 100 Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/g/32.jpg",
+  "mpn": "SWV-01940",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 10774
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.26",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "211.95",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Joint Health and Mobility Herbal Supplement Supports Skin Health Plus Joint Health, Movement and Physical Function Offers Antioxidant Support Full Spectrum® Whole Herb Rhizome Formulas Science-Backed Quality Since 1969 Vegan Gluten Free Dairy Free Non-GMO Traditionally used in cooking as a curry spice, herbalists use turmeric as a liver tonic and gastrointestinal system soother. The key to turmeric's benefits appear to be its high concentration of natural compounds known as curcuminoids, which possess powerful antioxidant capabilities. Digestive health is a critical—yet often overlooked—area of health. It's the difference between a happy tummy and occasional gas or bloating. By paying attention to your body and making a few healthy changes, you can help keep things running smoothly. Help support your liver and digestive system with this Swanson Turmeric supplement!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-01940",
+  "gtin12": "087614019406",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Joint Health and Mobility",
+    "Herbal Supplement",
+    "Supports Skin Health Plus Joint Health, Movement and Physical Function",
+    "Offers Antioxidant Support",
+    "Full Spectrum® Whole Herb Rhizome Formulas",
+    "Science-Backed Quality Since 1969",
+    "Vegan",
+    "Gluten Free",
+    "Dairy Free",
+    "Non-GMO"
+   ],
+   "paragraphs": [
+    "Traditionally used in cooking as a curry spice, herbalists use turmeric as a liver tonic and gastrointestinal system soother. The key to turmeric's benefits appear to be its high concentration of natural compounds known as curcuminoids, which possess powerful antioxidant capabilities. Digestive health is a critical—yet often overlooked—area of health. It's the difference between a happy tummy and occasional gas or bloating. By paying attention to your body and making a few healthy changes, you can help keep things running smoothly. Help support your liver and digestive system with this Swanson Turmeric supplement!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two vegan capsules once per day with water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegan capsules (hypromellose)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult your healthcare provider before using this or any product if you are pregnant or nursing, taking medication or have a medical condition, especially if you have or have had gallbladder problems. Discontinue use if you experience gastrointestinal discomfort.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-01940"
+  },
+  {
+   "label": "UPC",
+   "value": "087614019406"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 5.8 x 5.8 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Vegan Capsules"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric (Curcuma longa) (rhizome)",
+   "1.44 g",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 vegan capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "117632",
+   "url": "https://th.iherb.com/pr/swanson-vitamins-full-spectrum-turmeric-720-mg-30-vegan-capsules/117632",
+   "price": "฿81.68",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "118375",
+   "url": "https://th.iherb.com/pr/swanson-vitamins-full-spectrum-turmeric-720-mg-100-vegan-capsules/118375",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "109046",
+   "url": "https://th.iherb.com/pr/swanson-vitamins-full-spectrum-turmeric-240-capsules-720-mg-per-capsule/109046",
+   "price": "฿404.49",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿211.95",
+  "฿211.95",
+  "฿4.24/‏serving",
+  "{0}% off code: {1}",
+  "฿211.95",
+  "Save 0% in cart",
+  "฿4.24/‏serving",
+  "฿211.95",
+  "(0% off)",
+  "฿211.95",
+  "฿4.24/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01940/s/40.jpg"
+ ]
+}

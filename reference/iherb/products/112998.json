@@ -1,0 +1,269 @@
+{
+ "pid": "112998",
+ "slug": "kal-high-absorption-magnesium-glycinate-350-160-vegcaps",
+ "scrapedAt": "2026-08-25T17:17:23.324Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/kal-high-absorption-magnesium-glycinate-350-160-vegcaps.jpg",
+  "/products/iherb/kal-high-absorption-magnesium-glycinate-350-160-vegcaps-2.jpg",
+  "/products/iherb/kal-high-absorption-magnesium-glycinate-350-160-vegcaps-3.jpg",
+  "/products/iherb/kal-high-absorption-magnesium-glycinate-350-160-vegcaps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/kal-high-absorption-magnesium-glycinate-350-160-vegcaps/112998",
+ "pageTitle": "KAL, High Absorption Magnesium Glycinate 350, 160 VegCaps",
+ "h1": "KAL, High Absorption Magnesium Glycinate 350, 160 VegCaps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "112998",
+  "name": "KAL, High Absorption Magnesium Glycinate 350, 160 VegCaps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/g/48.jpg",
+  "mpn": "CAL-39022",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 28764
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "KAL",
+   "url": "https://www.kalvitamins.com/",
+   "identifier": "CAL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.43",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "597.15",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Trust KAL Quality Since 1932 Relaxation Support Fully Chelated Non GMO Project Verified Vegan Gluten Free Made Without Soy Dietary Supplement Why Glycinate? Our magnesium glycinate (also known as bisglycinate) is fully chelated, making it easy for the body to digest and absorb. Gentle on the stomach, KAL High Absorption Magnesium Glycinate may help support: Relaxation Bone Health Enzymatic Function Muscular Health The Kal Difference... Better Quality - Lab-tested for purity and potency Better Form - Highly absorbable magnesium glycinate Better For You - Suitable for vegan diets",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CAL-39022",
+  "gtin12": "021245390220",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Trust KAL Quality Since 1932",
+    "Relaxation Support",
+    "Fully Chelated",
+    "Non GMO Project Verified",
+    "Vegan",
+    "Gluten Free",
+    "Made Without Soy",
+    "Dietary Supplement",
+    "Relaxation",
+    "Bone Health",
+    "Enzymatic Function",
+    "Muscular Health"
+   ],
+   "paragraphs": [
+    "Why Glycinate?",
+    "Our magnesium glycinate (also known as bisglycinate) is fully chelated, making it easy for the body to digest and absorb. Gentle on the stomach, KAL High Absorption Magnesium Glycinate may help support:",
+    "The Kal Difference...",
+    "Better Quality - Lab-tested for purity and potency",
+    "Better Form - Highly absorbable magnesium glycinate",
+    "Better For You - Suitable for vegan diets"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 VegCaps daily with a meal or glass of water. Use only as directed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose capsule, magnesium stearate, cellulose and silica."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not use if safety seal is broken or missing. Keep out of reach of children. Keep your licensed health care practitioner informed when using this product.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CAL-39022"
+  },
+  {
+   "label": "UPC",
+   "value": "021245390220"
+  },
+  {
+   "label": "Package quantity",
+   "value": "160 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 VegCaps"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Magnesium (from Magnesium Bisglycinate)",
+   "350 mg",
+   "83%"
+  ],
+  [
+   "BioPerine® Black Pepper Extract (Piper nigrum) (fruit)",
+   "5 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 vegcaps"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#11 in",
+   "category": "Magnesium Glycinate",
+   "href": "/c/magnesium-glycinate?sr=2"
+  },
+  {
+   "rank": "#14 in",
+   "category": "Magnesium",
+   "href": "/c/magnesium?sr=2"
+  },
+  {
+   "rank": "#15 in",
+   "category": "Sleep",
+   "href": "/c/sleep?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿597.15",
+  "฿597.15",
+  "฿14.93/‏serving",
+  "{0}% off code: {1}",
+  "฿597.15",
+  "Save 0% in cart",
+  "฿14.93/‏serving",
+  "฿597.15",
+  "(0% off)",
+  "฿597.15",
+  "฿14.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cal/cal39022/s/57.jpg"
+ ]
+}

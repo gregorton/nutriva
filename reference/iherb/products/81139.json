@@ -1,0 +1,268 @@
+{
+ "pid": "81139",
+ "slug": "zahler-junior-c-advanced-chewable-vitamin-c-natural-orange-250-mg-90-c",
+ "scrapedAt": "2026-08-25T17:31:48.804Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/zahler-junior-c-advanced-chewable-vitamin-c-natural-orange-250-mg-90-c.jpg",
+  "/products/iherb/zahler-junior-c-advanced-chewable-vitamin-c-natural-orange-250-mg-90-c-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/zahler-junior-c-advanced-chewable-vitamin-c-natural-orange-250-mg-90-chewable-tablets/81139",
+ "pageTitle": "Zahler, Junior C, Advanced Chewable Vitamin C, Natural Orange, 250 mg, 90 Chewable Tablets",
+ "h1": "Zahler, Junior C, Advanced Chewable Vitamin C, Natural Orange, 250 mg, 90 Chewable Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "81139",
+  "name": "Zahler, Junior C, Advanced Chewable Vitamin C, Natural Orange, 250 mg, 90 Chewable Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/g/22.jpg",
+  "mpn": "ZAH-08116",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 226
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Zahler",
+   "url": "http://www.zahlers.com/",
+   "identifier": "ZAH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "353.36",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "471.15",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Advanced Nutrition by Zahler Immune System Support Children's Health Dietary Supplement Feel Better, Everyday Kosher Pareve This Product was Manufactured in a GMP Certified Facility Gluten Free Soy Free Dairy Free Vegetarian Non GMO Immune System Support Vitamin C is an essential nutrient that functions as a powerful antioxidant and supports the immune system. Zahler Junior CTM contains 250 mg of Vitamin C in a delicious-tasting orange flavored tablet.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.55x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "ZAH-08116",
+  "gtin12": "848998081164",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/g/22.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Advanced Nutrition by Zahler",
+    "Immune System Support",
+    "Children's Health",
+    "Dietary Supplement",
+    "Feel Better, Everyday",
+    "Kosher Pareve",
+    "This Product was Manufactured in a GMP Certified Facility",
+    "Gluten Free",
+    "Soy Free",
+    "Dairy Free",
+    "Vegetarian",
+    "Non GMO"
+   ],
+   "paragraphs": [
+    "Immune System Support",
+    "Vitamin C is an essential nutrient that functions as a powerful antioxidant and supports the immune system. Zahler Junior CTM contains 250 mg of Vitamin C in a delicious-tasting orange flavored tablet."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For children 4 years of age and older, take 1 to 4 chewable tablets daily, or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Mannitol, sorbitol, natural flavor, vegetable stearate, silicon dioxide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Do not use if safety seal is damaged or missing.",
+    "If pregnant, nursing or on medication, consult with your healthcare practitioner.",
+    "You may need additional supplements to support a healthy diet; consult your nutritionist for a formula that is right for you.",
+    "Store tightly closed in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ZAH-08116"
+  },
+  {
+   "label": "UPC",
+   "value": "848998081164"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.8 x 6.5 x 6.4 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Serving Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "250 mg",
+   "278%"
+  ],
+  [
+   "* Percent Daily Values are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "* Percent Daily Values are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "81139",
+   "url": "https://th.iherb.com/pr/zahler-junior-c-advanced-chewable-vitamin-c-natural-orange-250-mg-90-chewable-tablets/81139",
+   "price": "฿353.36",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "500 count",
+   "pid": "139245",
+   "url": "https://th.iherb.com/pr/zahler-junior-c-advanced-chewable-vitamin-c-natural-orange-250-mg-500-chewable-tablets/139245",
+   "price": "฿1,887.24",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿471.15",
+  "฿471.15",
+  "฿5.24/‏serving",
+  "{0}% off code: {1}",
+  "฿471.15",
+  "Save 25% in cart",
+  "฿5.24/‏serving",
+  "฿353.36",
+  "(25% off)",
+  "฿471.15",
+  "฿3.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/g/22.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/k/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/g/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/zah/zah08116/s/17.jpg"
+ ]
+}

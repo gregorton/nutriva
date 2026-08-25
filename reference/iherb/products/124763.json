@@ -1,0 +1,209 @@
+{
+ "pid": "124763",
+ "slug": "lifeable-immune-support-gummies-with-elderberry-vitamin-c-and-zinc-ber",
+ "scrapedAt": "2026-08-25T17:07:22.739Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-immune-support-gummies-with-elderberry-vitamin-c-and-zinc-ber.jpg",
+  "/products/iherb/lifeable-immune-support-gummies-with-elderberry-vitamin-c-and-zinc-ber-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-immune-support-gummies-with-elderberry-vitamin-c-and-zinc-berry-60-gummies/124763",
+ "pageTitle": "Lifeable, Immune Support Gummies with Elderberry, Vitamin C and Zinc, Berry, 60 Gummies",
+ "h1": "Lifeable, Immune Support Gummies with Elderberry, Vitamin C and Zinc, Berry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124763",
+  "name": "Lifeable, Immune Support Gummies with Elderberry, Vitamin C and Zinc, Berry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/g/24.jpg",
+  "mpn": "LFB-73061",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 136
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.49",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "398.32",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-09-03T00:00:00"
+  },
+  "description": "Dietary Supplement Kosher Vegan Gluten Free Nut Free Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73061",
+  "gtin12": "810102730619",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Elderberry Sambucus"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73061"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730619"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.7 x 6.2 x 6.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value†"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "5 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "8 mg",
+   "73%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "Black Elderberry Extract (Sambucus nigra L.)",
+   "100 mg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 2 GummiesServings Per Container: 30 Amount Per Serving%Daily Value†Calories20 Total Carbohydrates5 g2%Total Sugars3 g**Includes 3 g Added Sugars 6%Vitamin C (as ascorbic acid)90 mg100%Zinc (as Zinc Citrate)8 mg73%Sodium5 mg<1%Black Elderberry Extract (Sambucus nigra L.)100 mg**†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Nature's Way, Sambucus® Immune Lozenges, Elderberry + Vitamin C, Ages 7+, 30 Lozenges",
+  "2,447",
+  "฿530.21"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73061/s/29.jpg"
+ ]
+}

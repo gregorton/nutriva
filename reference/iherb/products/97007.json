@@ -1,0 +1,254 @@
+{
+ "pid": "97007",
+ "slug": "mild-by-nature-moisturizing-shea-butter-3-oz-85-g",
+ "scrapedAt": "2026-08-25T17:46:34.301Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-moisturizing-shea-butter-3-oz-85-g.jpg",
+  "/products/iherb/mild-by-nature-moisturizing-shea-butter-3-oz-85-g-2.jpg",
+  "/products/iherb/mild-by-nature-moisturizing-shea-butter-3-oz-85-g-3.jpg",
+  "/products/iherb/mild-by-nature-moisturizing-shea-butter-3-oz-85-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-moisturizing-shea-butter-3-oz-85-g/97007",
+ "pageTitle": "Mild By Nature, Moisturizing Shea Butter, 3 oz (85 g)",
+ "h1": "Mild By Nature, Moisturizing Shea Butter, 3 oz (85 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "97007",
+  "name": "Mild By Nature, Moisturizing Shea Butter, 3 oz (85 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/g/135.jpg",
+  "mpn": "MBN-01430",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 9320
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.26",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "148.15",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "197.54",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild by Nature Moisturizing Shea Butter Hexane-Free pH Balanced and Cruelty-Free Sourced from Africa Suitable for All Skin Types* Formulated without GMOs, Parabens, or Phthalates Made in the USA with Globally Sourced Materials Dry, arid climates and other environmental factors can wreak havoc on your skin, stripping it of moisture and leaving you feeling uncomfortable. Mild by Nature Moisturizing Shea Butter is the perfect remedy to help calm dry or irritated skin. Simply apply to the affected area to deliver moisture and nourishment directly to the skin. Our Shea Butter is extracted from the nuts of the shea tree and is naturally rich in skin-nourishing vitamins and fatty acids. This concentrated hydrator helps to soothe and replenish all skin types for soft and smooth-looking skin.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x1.4"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-01430",
+  "gtin12": "898220014309",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/g/135.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Body Care",
+  "Body Butter",
+  "Shea Butter"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild by Nature Moisturizing Shea Butter",
+    "Hexane-Free",
+    "pH Balanced and Cruelty-Free",
+    "Sourced from Africa",
+    "Suitable for All Skin Types*",
+    "Formulated without GMOs, Parabens, or Phthalates",
+    "Made in the USA with Globally Sourced Materials"
+   ],
+   "paragraphs": [
+    "Dry, arid climates and other environmental factors can wreak havoc on your skin, stripping it of moisture and leaving you feeling uncomfortable. Mild by Nature Moisturizing Shea Butter is the perfect remedy to help calm dry or irritated skin. Simply apply to the affected area to deliver moisture and nourishment directly to the skin.",
+    "Our Shea Butter is extracted from the nuts of the shea tree and is naturally rich in skin-nourishing vitamins and fatty acids. This concentrated hydrator helps to soothe and replenish all skin types for soft and smooth-looking skin."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Rub a small amount into the palms of your hands until warmed and gently massage onto desired areas as needed to moisturize.",
+    "This product is naturally solid and the color and texture will vary depending on the ambient temperature. Fluctuations in the temperature may produce fat crystals that affect the color and texture of the product, making it appear grainy or clumpy. This is natural and may affect the appearance, but will not harm the quality of the product. If solid, shea butter can be softened by placing the container in hot water or by microwaving until soft."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Butyrospermum Parkii (Shea) Butter (tree nut). Hexane-Free",
+    "This product is naturally solid, color and texture will vary depending on temperature."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "For external use only.",
+    "Avoid contact with eyes.",
+    "Keep out of reach of children.",
+    "Discontinue use if irritation occurs."
+   ],
+   "paragraphs": []
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-01430"
+  },
+  {
+   "label": "UPC",
+   "value": "898220014309"
+  },
+  {
+   "label": "Package quantity",
+   "value": "85 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.2 x 7.2 x 3.6 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "85 g"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "85 g",
+   "pid": "97007",
+   "url": "https://th.iherb.com/pr/mild-by-nature-moisturizing-shea-butter-3-oz-85-g/97007",
+   "price": "฿148.15",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "198 g",
+   "pid": "113002",
+   "url": "https://th.iherb.com/pr/mild-by-nature-moisturizing-shea-butter-7-oz-198-g/113002",
+   "price": "฿287.09",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "Shea Butter",
+   "href": "/c/shea-butter?sr=2"
+  },
+  {
+   "rank": "#6 in",
+   "category": "Body Butter",
+   "href": "/c/body-butters?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Shea Butter Lotion",
+   "href": "/c/shea-butter-lotion?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿197.54",
+  "฿197.54",
+  "฿2.32/‏g",
+  "{0}% off code: {1}",
+  "฿197.54",
+  "Save 25% in cart",
+  "฿2.32/‏g",
+  "฿148.15",
+  "(25% off)",
+  "฿197.54",
+  "฿1.74/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/g/135.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/k/135.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/g/135.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/s/135.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/s/134.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/s/141.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/s/143.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn01430/s/72.jpg"
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "pid": "134965",
+ "slug": "now-foods-turmeric-curcumin-with-bioperine-90-veg-capsules",
+ "scrapedAt": "2026-08-25T17:23:09.220Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-turmeric-curcumin-with-bioperine-90-veg-capsules.jpg",
+  "/products/iherb/now-foods-turmeric-curcumin-with-bioperine-90-veg-capsules-2.jpg",
+  "/products/iherb/now-foods-turmeric-curcumin-with-bioperine-90-veg-capsules-3.jpg",
+  "/products/iherb/now-foods-turmeric-curcumin-with-bioperine-90-veg-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-turmeric-curcumin-with-bioperine-90-veg-capsules/134965",
+ "pageTitle": "NOW Foods, Turmeric Curcumin with BioPerine®, 90 Veg Capsules",
+ "h1": "NOW Foods, Turmeric Curcumin with BioPerine®, 90 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "134965",
+  "name": "NOW Foods, Turmeric Curcumin with BioPerine®, 90 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/g/28.jpg",
+  "mpn": "NOW-04792",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 940
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "918.03",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune System Support Standardized to 95% Curcuminoids Enhanced Absorption Non-GMO A Dietary Supplement Vegetarian/Vegan Kosher Botanicals/ Herbs Family Owned Since 1968 Halal Quality GMP Assured Curcumin is the major bioactive component found in the roots of turmeric (Curcuma longa). Curcumin has been extensively researched for its free radical neutralizing and immune system supporting activities. This product features a combination of curcumin and BioPerine®, a black pepper extract, that has been shown in clinical studies to enhance absorption.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.2x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-04792",
+  "gtin12": "733739047922",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune System Support",
+    "Standardized to 95% Curcuminoids",
+    "Enhanced Absorption",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Botanicals/ Herbs",
+    "Family Owned Since 1968",
+    "Halal",
+    "Quality GMP Assured"
+   ],
+   "paragraphs": [
+    "Curcumin is the major bioactive component found in the roots of turmeric (Curcuma longa). Curcumin has been extensively researched for its free radical neutralizing and immune system supporting activities. This product features a combination of curcumin and BioPerine®, a black pepper extract, that has been shown in clinical studies to enhance absorption."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule 1 to 2 times daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), calcium laurate and silicon dioxide.",
+    "Not manufactured with yeast, wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients.",
+    "Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place after opening.",
+    "For adults only. Consult physician if pregnant/ nursing, taking medication (especially anticoagulants or anti-platelet drugs), have a medical condition, or have any history of liver, gall bladder, or gastrointestinal problems. Keep out of reach of children.",
+    "Natural color variation may occur in this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-04792"
+  },
+  {
+   "label": "UPC",
+   "value": "733739047922"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 10.7 x 6.4 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Root Extract (Curcuma longa)[Standardized to min. 95% Curcuminoids (625 mg) (including Curcumin, Demethoxycurcumin and Bisdemethoxycurcumin)]",
+   "658 mg",
+   "**"
+  ],
+  [
+   "Black Pepper Fruit Extract (BioPerine®)",
+   "5 mg",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veg capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿918.03",
+  "฿918.03",
+  "฿10.20/‏serving",
+  "{0}% off code: {1}",
+  "฿918.03",
+  "Save 0% in cart",
+  "฿10.20/‏serving",
+  "฿918.03",
+  "(0% off)",
+  "฿918.03",
+  "฿10.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04792/s/19.jpg"
+ ]
+}

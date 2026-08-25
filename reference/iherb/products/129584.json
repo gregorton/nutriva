@@ -1,0 +1,212 @@
+{
+ "pid": "129584",
+ "slug": "super-nutrition-collagen-peptides-chocolate-13-33-oz-378-g-discontinue",
+ "scrapedAt": "2026-08-25T17:47:58.130Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": null,
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/super-nutrition-collagen-peptides-chocolate-13-33-oz-378-g-discontinue.jpg",
+  "/products/iherb/super-nutrition-collagen-peptides-chocolate-13-33-oz-378-g-discontinue-2.jpg",
+  "/products/iherb/super-nutrition-collagen-peptides-chocolate-13-33-oz-378-g-discontinue-3.jpg",
+  "/products/iherb/super-nutrition-collagen-peptides-chocolate-13-33-oz-378-g-discontinue-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/super-nutrition-collagen-peptides-chocolate-13-33-oz-378-g/129584",
+ "pageTitle": "Super Nutrition, Collagen Peptides, Chocolate, 13.33 oz (378 g) (Discontinued Item)",
+ "h1": "Super Nutrition, Collagen Peptides, Chocolate, 13.33 oz (378 g) (Discontinued Item)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "129584",
+  "name": "Super Nutrition, Collagen Peptides, Chocolate, 13.33 oz (378 g) (Discontinued Item) ",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/g/10.jpg",
+  "mpn": "SPN-02347",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 536
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Super Nutrition",
+   "url": "https://www.iherb.com/c/super-nutrition?rank=0",
+   "identifier": "SPN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.00",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "1051.84",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Chocolate Flavored Supports Hair, Skin, Nails, and Joints* Features Hydrolyzed Type I & III Collagen Super Nutrition® Collagen Peptides Powder provides 20 g of non-GMO bovine collagen peptides per serving. It is also rich in the amino acids glycine, proline, hydroxyproline, and alanine which help support collagen synthesis in the body.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.6"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02347",
+  "gtin12": "898220023479",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/g/10.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.45 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02347"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023479"
+  },
+  {
+   "label": "Package quantity",
+   "value": "378 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.3 x 9.3 x 9.1 cm, 0.45 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Scoops (27 g)"
+  ],
+  [
+   "Servings Per Container: 14"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "90",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%**"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "7%**"
+  ],
+  [
+   "Protein",
+   "18 g",
+   "<1%**"
+  ],
+  [
+   "Calcium",
+   "26 mg",
+   "2%"
+  ],
+  [
+   "Sodium",
+   "120 mg",
+   "5%"
+  ],
+  [
+   "Hydrolyzed Collagen Peptides (from bovine hide)",
+   "20 g",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 2 Scoops (27 g)Servings Per Container: 14 Amount Per Serving%Daily Value*Calories90 Total Carbohydrate3 g1%**Dietary Fiber2 g7%**Protein18 g<1%**Calcium26 mg2%Sodium120 mg5%Hydrolyzed Collagen Peptides (from bovine hide)20 g†**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "14"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides, Unflavored, 1.1 lb (500 g)",
+  "25,292",
+  "฿1,468.26"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/g/10.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/k/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/g/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02347/b/10.jpg"
+ ]
+}

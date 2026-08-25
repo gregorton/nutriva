@@ -1,0 +1,251 @@
+{
+ "pid": "110461",
+ "slug": "california-gold-nutrition-vitamin-d3-unflavored-50-mcg-2-000-iu-1-fl-o",
+ "scrapedAt": "2026-08-25T17:50:45.871Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-vitamin-d3-unflavored-50-mcg-2-000-iu-1-fl-o.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-unflavored-50-mcg-2-000-iu-1-fl-o-2.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-unflavored-50-mcg-2-000-iu-1-fl-o-3.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-unflavored-50-mcg-2-000-iu-1-fl-o-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-unflavored-50-mcg-2-000-iu-1-fl-oz-30-ml/110461",
+ "pageTitle": "California Gold Nutrition, Vitamin D3, Unflavored, 50 mcg (2,000 IU), 1 fl oz (30 ml)",
+ "h1": "California Gold Nutrition, Vitamin D3, Unflavored, 50 mcg (2,000 IU), 1 fl oz (30 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "110461",
+  "name": "California Gold Nutrition, Vitamin D3, Unflavored, 50 mcg (2,000 IU), 1 fl oz (30 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/g/51.jpg",
+  "mpn": "CGN-02115",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 4119
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "348.19",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "464.26",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Vitamin D3, Unflavored Convenient Liquid Supplement with a Daily Dose of Vitamin D3 Unflavored for Easy Addition into Your Favorite Beverages Supports Bone Health* Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Vitamin D3 is an essential nutrient found naturally in very few foods, making supplements the perfect solution for adding more to your diet. California Gold Nutrition Vitamin D3 is a convenient liquid supplement that delivers your daily dose of vitamin D3, helping to support bone and immune health.* Benefits of Vitamin D Supplements Sometimes called the “sunshine vitamin” because it is produced in the skin in response to sunlight, vitamin D is associated with a wide range of health-supporting benefits. One of the primary benefits of vitamin D is its ability to promote the absorption of calcium and phosphorus, both of which are important for building and maintaining strong bones.* In addition, vitamin D supports the health of many other vital systems, including the immune system and cardiovascular system, as well as promoting overall health.* California Gold Nutrition Vitamin D3 contains vitamin D3 (cholecalciferol) in a convenient liquid supplement. It is unflavored, allowing you to add it to any beverage, and is formulated without gluten, GMOs, or soy. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.3x1.3"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02115",
+  "gtin12": "898220021154",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/g/51.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Vitamin D3, Unflavored",
+    "Convenient Liquid Supplement with a Daily Dose of Vitamin D3",
+    "Unflavored for Easy Addition into Your Favorite Beverages",
+    "Supports Bone Health*",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Vitamin D3 is an essential nutrient found naturally in very few foods, making supplements the perfect solution for adding more to your diet. California Gold Nutrition Vitamin D3 is a convenient liquid supplement that delivers your daily dose of vitamin D3, helping to support bone and immune health.*",
+    "Benefits of Vitamin D SupplementsSometimes called the “sunshine vitamin” because it is produced in the skin in response to sunlight, vitamin D is associated with a wide range of health-supporting benefits. One of the primary benefits of vitamin D is its ability to promote the absorption of calcium and phosphorus, both of which are important for building and maintaining strong bones.* In addition, vitamin D supports the health of many other vital systems, including the immune system and cardiovascular system, as well as promoting overall health.*",
+    "California Gold Nutrition Vitamin D3 contains vitamin D3 (cholecalciferol) in a convenient liquid supplement. It is unflavored, allowing you to add it to any beverage, and is formulated without gluten, GMOs, or soy.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 5 drops daily, with food. Best when taken as directed by a qualified healthcare professional.",
+    "Shake well before using."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Main IngredientsVitamin D (as D3, Cholecalciferol)",
+    "Other IngredientsMedium Chain Triglycerides (MCT Oil)",
+    "Not manufactured with milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, sesame, or gluten. Produced in an FDAregistered, third-party audited, and cGMP compliant facility that may process other products that contain these allergens or ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02115"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021154"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 3.3 x 3.3 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 5 drops (0.2 mL)"
+  ],
+  [
+   "Servings Per Container: 150"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D(as D3, Cholecalciferol)",
+   "50 mcg",
+   "250%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "0.2 ml"
+    },
+    {
+     "label": "Total servings",
+     "value": "150"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿464.26",
+  "฿464.26",
+  "฿3.10/‏serving",
+  "{0}% off code: {1}",
+  "฿464.26",
+  "Save 25% in cart",
+  "฿3.10/‏serving",
+  "฿348.19",
+  "(25% off)",
+  "฿464.26",
+  "฿2.32/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/g/51.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/k/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/g/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02115/b/51.jpg"
+ ]
+}

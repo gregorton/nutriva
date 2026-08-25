@@ -1,0 +1,258 @@
+{
+ "pid": "114511",
+ "slug": "natural-vitality-calm-kids-sleep-gummies-with-melatonin-nighttime-berr",
+ "scrapedAt": "2026-08-25T17:30:14.000Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/natural-vitality-calm-kids-sleep-gummies-with-melatonin-nighttime-berr.jpg",
+  "/products/iherb/natural-vitality-calm-kids-sleep-gummies-with-melatonin-nighttime-berr-2.jpg",
+  "/products/iherb/natural-vitality-calm-kids-sleep-gummies-with-melatonin-nighttime-berr-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/natural-vitality-calm-kids-sleep-gummies-with-melatonin-nighttime-berry-60-gummies/114511",
+ "pageTitle": "Natural Vitality, CALM®, Kids Sleep Gummies With Melatonin, Nighttime Berry, 60 Gummies",
+ "h1": "Natural Vitality, CALM®, Kids Sleep Gummies With Melatonin, Nighttime Berry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "114511",
+  "name": "Natural Vitality, CALM®, Kids Sleep Gummies With Melatonin, Nighttime Berry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/g/24.jpg",
+  "mpn": "PTG-04382",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 808
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Natural Vitality",
+   "url": "http://naturalvitality.com/",
+   "identifier": "PTG"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "516.43",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Magnesium Citrate Non GMO Vegan Gluten Free Dietary Supplement Free of Artificial Sweetener, Synthetic Color Why Natural Vitality CALM® for Kids Sleep Gummies? Natural Vitality CALM® for Kids Sleep Gummies were developed specifically for those occasional times children need sleep support. They feature Natural Vitality CALM® along with Melatonin, which helps the body ease into a restful sleep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "PTG-04382",
+  "gtin12": "183405043824",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Magnesium Citrate",
+    "Non GMO",
+    "Vegan",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Free of Artificial Sweetener, Synthetic Color"
+   ],
+   "paragraphs": [
+    "Why Natural Vitality CALM® for Kids Sleep Gummies?",
+    "Natural Vitality CALM® for Kids Sleep Gummies were developed specifically for those occasional times children need sleep support. They feature Natural Vitality CALM® along with Melatonin, which helps the body ease into a restful sleep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Individual needs may vary. For children 4 years and older, we suggest starting off chewing and swallowing a half gummy per day 30 minutes before bedtime and gradually increasing to one gummy, or as directed by your child's pediatrician. Melatonin may cause drowsiness. For best results, allow your child to sleep for more than 6 hours. Take only as directed. This product is intended for short term, occasional use only. As a reminder, discuss the supplements and medications your child takes with their pediatrician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic beet sugar, glucose syrup, pectin, citric acid, flavors, sodium citrate, fruit and vegetable juice (color), carnauba wax, coconut oil."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Not recommended for children under 4 years of age. Consult your child's pediatrician before use if they are taking any medication or have any medical condition, including kidney disease. Not intended for use by pregnant or nursing women. If any adverse reactions occur, immediately stop using this product and consult your child's pediatrician. Consumption above recommended dose may impair ability to drive a motor vehicle or operate heavy equipment.",
+    "To ensure quality through expiration, this product was manufactured with higher ingredient levels than the indicated amount per serving.",
+    "Keep Kids Safe: Children should be under adult supervision when consuming this product. Not to be dispensed by children.",
+    "Do not use if safety seal is broken or missing. Store in a cool, dry place. Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PTG-04382"
+  },
+  {
+   "label": "UPC",
+   "value": "183405043824"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13 x 5.8 x 5.8 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "<1%***"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%***"
+  ],
+  [
+   "Magnesium (as Magnesium Citrate)",
+   "25 mg",
+   "6%"
+  ],
+  [
+   "Melatonin",
+   "1 mg",
+   "**"
+  ],
+  [
+   "**Daily Value not established.***Percent Daily Values are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value not established.",
+  "***Percent Daily Values are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "No artificial colors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿516.43",
+  "฿516.43",
+  "฿8.61/‏serving",
+  "{0}% off code: {1}",
+  "฿516.43",
+  "Save 0% in cart",
+  "฿8.61/‏serving",
+  "฿516.43",
+  "(0% off)",
+  "฿516.43",
+  "฿8.61/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04382/s/32.jpg"
+ ]
+}

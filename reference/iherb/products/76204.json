@@ -1,0 +1,369 @@
+{
+ "pid": "76204",
+ "slug": "sunwarrior-classic-plus-protein-vanilla-1-65-lb-750-g",
+ "scrapedAt": "2026-08-25T17:14:22.519Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sunwarrior-classic-plus-protein-vanilla-1-65-lb-750-g.jpg",
+  "/products/iherb/sunwarrior-classic-plus-protein-vanilla-1-65-lb-750-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sunwarrior-classic-plus-protein-vanilla-1-65-lb-750-g/76204",
+ "pageTitle": "Sunwarrior, Classic Plus Protein, Vanilla, 1.65 lb (750 g)",
+ "h1": "Sunwarrior, Classic Plus Protein, Vanilla, 1.65 lb (750 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "76204",
+  "name": "Sunwarrior, Classic Plus Protein, Vanilla, 1.65 lb (750 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/g/78.jpg",
+  "mpn": "SUW-02421",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 1732
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sunwarrior",
+   "url": "http://www.sunwarrior.com/",
+   "identifier": "SUW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1615.93",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Plant-Based 17 g Protein† 3 g Net Carb† 90 Calories† USDA Organic Protein Powder Drink Mix Flavor with Other Natural Flavors 0 g Added Sugars Soy Free Gluten Free Dairy Free Certified Organic by CCOF Organic is Non-GMO & More Kosher Vegan Pack in the essential amino acids with a nutrient-dense protein that's gentle on digestion and essential for a fit and lean lifestyle. Our mission is to bring you superior plant-based nutrition through sustainable means... Science guides us & nature inspires us created with light, energy & love to fuel your journey. Ancient Superfood Nutrition Classic Plus Protein is packed with 5 powerful superfood sources. It is gentle on digestion, includes essential BCAAS, and is an excellent source of plant-based proteins and iron. Build Muscle 3.2 g branched-chain amino acids 17 g organic plant-based protein Multi organic protein sources Digestibility Easy to digest Enzymatically derived Fewer allergens than whey Superfood Blend Chia Amaranth Quinoa Fit & Lean 90 calories† 3 g Net carb†‡ Keto friendly 0 g added sugars †Per serving. ‡Net Carb is calculated by subtracting Dietary Fiber form Total Carbohydrates.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.2x4.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SUW-02421",
+  "gtin12": "814784024219",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/g/78.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Plant Based Protein",
+  "Plant Based Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Plant-Based",
+    "17 g Protein†",
+    "3 g Net Carb†",
+    "90 Calories†",
+    "USDA Organic",
+    "Protein Powder Drink Mix",
+    "Flavor with Other Natural Flavors",
+    "0 g Added Sugars",
+    "Soy Free",
+    "Gluten Free",
+    "Dairy Free",
+    "Certified Organic by CCOF",
+    "Organic is Non-GMO & More",
+    "Kosher",
+    "Vegan",
+    "3.2 g branched-chain amino acids",
+    "17 g organic plant-based protein",
+    "Multi organic protein sources",
+    "Easy to digest",
+    "Enzymatically derived",
+    "Fewer allergens than whey",
+    "Chia",
+    "Amaranth",
+    "Quinoa",
+    "90 calories†",
+    "3 g Net carb†‡",
+    "Keto friendly",
+    "0 g added sugars"
+   ],
+   "paragraphs": [
+    "Pack in the essential amino acids with a nutrient-dense protein that's gentle on digestion and essential for a fit and lean lifestyle.",
+    "Our mission is to bring you superior plant-based nutrition through sustainable means... Science guides us & nature inspires us created with light, energy & love to fuel your journey.",
+    "Ancient Superfood Nutrition",
+    "Classic Plus Protein is packed with 5 powerful superfood sources. It is gentle on digestion, includes essential BCAAS, and is an excellent source of plant-based proteins and iron.",
+    "Build Muscle",
+    "Digestibility",
+    "Superfood Blend",
+    "Fit & Lean",
+    "†Per serving.",
+    "‡Net Carb is calculated by subtracting Dietary Fiber form Total Carbohydrates."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix, shake, or blend 1 scoop with 10 oz of your favorite beverage. Refrigerate and use prepared product same day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Proprietary protein blend (organic brown rice protein, organic pea protein, organic quinoa, organic chia seed powder, organic amaranth), organic flavor, sea salt, organic guar gum, organic steviol glycosides (rebaudioside a).",
+    "This product is manufactured in a facility that may also manufacture products containing peanuts or tree nuts.",
+    "Manufactured in the United States from U.S. and imported ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Amount inside is measured by weight, not volume.",
+    "Keep package out of direct light and away from heat.",
+    "Color, texture, flavor, and other traits may vary. We always aim for perfection, but Nature likes variety and who are we to argue?",
+    "No a low calorie."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.93 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SUW-02421"
+  },
+  {
+   "label": "UPC",
+   "value": "814784024219"
+  },
+  {
+   "label": "Package quantity",
+   "value": "750 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "22.6 x 13.2 x 12.2 cm, 0.93 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (25 g)"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "90",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "260 mg",
+   "11%"
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "17 g",
+   "28%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Iron",
+   "8.5 mg",
+   "45%"
+  ],
+  [
+   "Potassium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Ketogenic diet",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "375 g",
+   "pid": "76205",
+   "url": "https://th.iherb.com/pr/sunwarrior-classic-plus-protein-vanilla-13-2-oz-375-g/76205",
+   "price": "฿993.39",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "750 g",
+   "pid": "76204",
+   "url": "https://th.iherb.com/pr/sunwarrior-classic-plus-protein-vanilla-1-65-lb-750-g/76204",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#14 in",
+   "category": "Greens & Superfood Blends",
+   "href": "/c/greens-superfoods-blends?sr=2"
+  },
+  {
+   "rank": "#24 in",
+   "category": "Plant Based Protein Blends",
+   "href": "/c/plant-based-protein-blends?sr=2"
+  },
+  {
+   "rank": "#26 in",
+   "category": "Protein Blends",
+   "href": "/c/protein-blends?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,615.93",
+  "฿1,615.93",
+  "฿53.86/‏serving",
+  "{0}% off code: {1}",
+  "฿1,615.93",
+  "Save 0% in cart",
+  "฿53.86/‏serving",
+  "฿1,615.93",
+  "(0% off)",
+  "฿1,615.93",
+  "฿53.86/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/g/78.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/k/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/g/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/s/84.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02421/b/78.jpg"
+ ]
+}

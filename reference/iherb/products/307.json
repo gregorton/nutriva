@@ -1,0 +1,256 @@
+{
+ "pid": "307",
+ "slug": "now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:16:58.548Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule.jpg",
+  "/products/iherb/now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule-2.jpg",
+  "/products/iherb/now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule-3.jpg",
+  "/products/iherb/now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule/307",
+ "pageTitle": "NOW Foods, Turmeric Curcumin, 60 Veg Capsules (665 mg per Capsule)",
+ "h1": "NOW Foods, Turmeric Curcumin, 60 Veg Capsules (665 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "307",
+  "name": "NOW Foods, Turmeric Curcumin, 60 Veg Capsules (665 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/g/46.jpg",
+  "mpn": "NOW-04638",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 14974
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "803.19",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Herbal Supplement Standardized Extract 95% Curcuminoids Non-GMO A Dietary Supplement Vegetarian/Vegan Kosher Botanicals/Herbs Family Owned Since 1968 Halal GMP Quality Assured Curcumin is the major bioactive component found in the roots of turmeric (Curcuma longa), a plant belonging to the ginger family. Turmeric has been used as a coloring and flavoring agent in South Asia cuisines for centuries, and it has also been recommended by traditional Ayurvedic herbalists for thousands of years. Curcumin has been extensively researched by modern scientists for its various biological activities.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-04638",
+  "gtin12": "733739046383",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Herbal Supplement",
+    "Standardized Extract",
+    "95% Curcuminoids",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Botanicals/Herbs",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Curcumin is the major bioactive component found in the roots of turmeric (Curcuma longa), a plant belonging to the ginger family. Turmeric has been used as a coloring and flavoring agent in South Asia cuisines for centuries, and it has also been recommended by traditional Ayurvedic herbalists for thousands of years. Curcumin has been extensively researched by modern scientists for its various biological activities."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule 1 to 2 times daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), calcium laurate and silicon dioxide.",
+    "Not manufactured with yeast, wheat, gluten, soy, milk, egg, fish, shellfish or tree nut ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, have a medical condition, or have any history of liver, gall bladder, or gastrointestinal problems. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-04638"
+  },
+  {
+   "label": "UPC",
+   "value": "733739046383"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 6.1 x 6.1 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Root Extract (Curcuma longa) [Standardized to min. 95% Curcuminoids (630 mg) (including Curcumin, Demethoxycurcumin and Bisdemethoxycurcumin)]",
+   "665 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veg capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "307",
+   "url": "https://th.iherb.com/pr/now-foods-turmeric-curcumin-60-veg-capsules-665-mg-per-capsule/307",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "13441",
+   "url": "https://th.iherb.com/pr/now-foods-turmeric-curcumin-120-veg-capsules-665-mg-per-capsule/13441",
+   "price": "฿1,515.17",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿803.19",
+  "฿803.19",
+  "฿13.39/‏serving",
+  "{0}% off code: {1}",
+  "฿803.19",
+  "Save 0% in cart",
+  "฿13.39/‏serving",
+  "฿803.19",
+  "(0% off)",
+  "฿803.19",
+  "฿13.39/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now04638/s/65.jpg"
+ ]
+}

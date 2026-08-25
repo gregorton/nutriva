@@ -1,0 +1,282 @@
+{
+ "pid": "698",
+ "slug": "now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:25:00.174Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule.jpg",
+  "/products/iherb/now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule-2.jpg",
+  "/products/iherb/now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule-3.jpg",
+  "/products/iherb/now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule/698",
+ "pageTitle": "NOW Foods, Magnesium Citrate, 120 Veg Capsules (133 mg per Capsule)",
+ "h1": "NOW Foods, Magnesium Citrate, 120 Veg Capsules (133 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "698",
+  "name": "NOW Foods, Magnesium Citrate, 120 Veg Capsules (133 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/g/77.jpg",
+  "mpn": "NOW-01294",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 69910
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "458.69",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Nervous System Support Supports Energy Production Critical for Enzyme Function Non-GMO A Dietary Supplement Vegetarian/Vegan Kosher Minerals Family Owned Since 1968 GMP Quality Assured Halal Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the reactions catalyzed by these enzymes are fatty acid synthesis, protein synthesis, and glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01294",
+  "gtin12": "733739012944",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/g/77.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Citrate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Nervous System Support",
+    "Supports Energy Production",
+    "Critical for Enzyme Function",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Minerals",
+    "Family Owned Since 1968",
+    "GMP Quality Assured",
+    "Halal"
+   ],
+   "paragraphs": [
+    "Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the reactions catalyzed by these enzymes are fatty acid synthesis, protein synthesis, and glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 capsules daily, preferably in divided doses, with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), ascorbyl palmitate and silicon dioxide.",
+    "Made and quality tested in the USA with globally sourced ingredients",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "This magnesium citrate is a fully reacted mineral supplement."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01294"
+  },
+  {
+   "label": "UPC",
+   "value": "733739012944"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 6.9 x 6.9 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Veg Capsules"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (elemental) (from 2,667 mg Magnesium Citrate)",
+   "400 mg",
+   "95%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 veg capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2031"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "144960",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-citrate-60-veg-capsules-133-mg-per-capsule/144960",
+   "price": "฿274.95",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "698",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-citrate-120-veg-capsules-133-mg-per-capsule/698",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "78201",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-citrate-240-veg-capsules-133-mg-per-capsule/78201",
+   "price": "฿923.36",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Magnesium Citrate",
+   "href": "/c/magnesium-citrate?sr=2"
+  },
+  {
+   "rank": "#11 in",
+   "category": "Magnesium",
+   "href": "/c/magnesium?sr=2"
+  },
+  {
+   "rank": "#11 in",
+   "category": "Sleep",
+   "href": "/c/sleep?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿458.69",
+  "฿458.69",
+  "฿11.47/‏serving",
+  "{0}% off code: {1}",
+  "฿458.69",
+  "Save 0% in cart",
+  "฿11.47/‏serving",
+  "฿458.69",
+  "(0% off)",
+  "฿458.69",
+  "฿11.47/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/g/77.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/k/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/g/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/s/82.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/s/85.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/s/86.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/s/87.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01294/s/88.jpg"
+ ]
+}

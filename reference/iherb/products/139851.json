@@ -1,0 +1,198 @@
+{
+ "pid": "139851",
+ "slug": "the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable",
+ "scrapedAt": "2026-08-25T17:22:52.408Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable.jpg",
+  "/products/iherb/the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable-capsules/139851",
+ "pageTitle": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 13 Billion CFU, 100 Vegetable Capsules",
+ "h1": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 13 Billion CFU, 100 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139851",
+  "name": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 13 Billion CFU, 100 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/g/8.jpg",
+  "mpn": "VSI-03817",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 101
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Vitamin Shoppe",
+   "url": "https://www.vitaminshoppe.com/",
+   "identifier": "VSI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "848.47",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-09-03T00:00:00"
+  },
+  "description": "Digestive Health Immune Support Respiratory Health Specialty Dietary Supplement Non-GMO Gluten-Free Dairy-Free Soy-Free Quality Promise Tested & Trusted A happy gut makes a healthy you. Formulated to promote digestive, respiratory, and immune health, The Vitamin Shoppe® brand Ultimate 10+ Probiotic capsules have 13 billion CFUs of 12 beneficial probiotic strains, plus fructo-oligosaccharides to keep the good bacteria in your digestive tract fed and flourishing. Exemplifying convenience and quality, these once-daily vegetable capsules are verified by independent 3rd party labs for potency and purity. What are CFUs? CFUs, or colony forming units, are units of measurement that express the potency of a probiotic. What are fructo-oligosaccharides? Fructo-oligosaccharides are prebiotic fiber that \"feed\" the probiotics present in your digestive tract.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "VSI-03817",
+  "gtin12": "766536038176",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VSI-03817"
+  },
+  {
+   "label": "UPC",
+   "value": "766536038176"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.5 x 5.5 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetable Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Ultimate 10+Probiotic BlendLactobacillus rhamnosus, L. casei,L. acidophilus, L. plantarum, Bifidobacterium lactis, L. bulgaricus, L. salivarius, B. bifidum, Streptococcus thermophilus, B. longum, B. breve, L. gasseri",
+   "13 Billion CFUs",
+   "*"
+  ],
+  [
+   "Fructooligosaccharides (FOS)",
+   "75 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 Vegetable Capsule Amount Per Serving%Daily Value*Ultimate 10+Probiotic BlendLactobacillus rhamnosus, L. casei,L. acidophilus, L. plantarum, Bifidobacterium lactis, L. bulgaricus, L. salivarius, B. bifidum, Streptococcus thermophilus, B. longum, B. breve, L. gasseri 13 Billion CFUs*Fructooligosaccharides (FOS) 75 mg**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetable capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "139858",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable-capsules/139858",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "139853",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-20-billion-cfu-60-vegetable-capsules/139853",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "139851",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable-capsules/139851",
+   "price": "฿848.47",
+   "outOfStock": true,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "California Gold Nutrition, LactoBif® 5 Probiotics, 5 Billion CFU, 120 Veggie Capsules",
+  "112,866",
+  "฿619.43"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03817/s/11.jpg"
+ ]
+}

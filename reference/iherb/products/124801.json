@@ -1,0 +1,270 @@
+{
+ "pid": "124801",
+ "slug": "lifeable-kids-vitamin-c-gummies-sugar-free-citrus-60-gummies-125-mg-pe",
+ "scrapedAt": "2026-08-25T17:24:52.683Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-kids-vitamin-c-gummies-sugar-free-citrus-60-gummies-125-mg-pe.jpg",
+  "/products/iherb/lifeable-kids-vitamin-c-gummies-sugar-free-citrus-60-gummies-125-mg-pe-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-kids-vitamin-c-gummies-sugar-free-citrus-60-gummies-125-mg-per-gummy/124801",
+ "pageTitle": "Lifeable, Kids, Vitamin C Gummies, Sugar Free, Citrus, 60 Gummies (125 mg per Gummy)",
+ "h1": "Lifeable, Kids, Vitamin C Gummies, Sugar Free, Citrus, 60 Gummies (125 mg per Gummy)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124801",
+  "name": "Lifeable, Kids, Vitamin C Gummies, Sugar Free, Citrus, 60 Gummies (125 mg per Gummy)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/g/32.jpg",
+  "mpn": "LFB-73088",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 168
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "472.47",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Immune Support Kosher 250 mg Per Serving Vegan Gluten Free Nut Free Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73088",
+  "gtin12": "810102730886",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Immune Support",
+    "Kosher",
+    "250 mg Per Serving",
+    "Vegan",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) gummies per day. Chew thoroughly before swallowing.",
+    "Do not exceed suggested serving size."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Maltitol, isomalt, water, pectin, citric acid, sodium citrate, natural flavor, beta-carotene (color), vegetable oil (palm), carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish. Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using.",
+    "Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature. Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73088"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730886"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Bottle: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value For Children 2-3 Years Of Age‡",
+   "% Daily Value For Adults & Children 4 Years Of Age and Older‡‡"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "5 g",
+   "3%",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%",
+   "0%"
+  ],
+  [
+   "Sugar Alcohol",
+   "4 g",
+   "**",
+   "**"
+  ],
+  [
+   "Vitamin C (ascorbic acid)",
+   "250 mg",
+   "1,667%",
+   "278%"
+  ],
+  [
+   "‡Percent Daily Values are based on a 1,000 calorie diet.‡‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value For Children 2-3 Years Of Age‡\t% Daily Value For Adults & Children 4 Years Of Age and Older‡‡",
+  "‡Percent Daily Values are based on a 1,000 calorie diet.",
+  "‡‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿472.47",
+  "฿472.47",
+  "฿15.75/‏serving",
+  "{0}% off code: {1}",
+  "฿472.47",
+  "Save 0% in cart",
+  "฿15.75/‏serving",
+  "฿472.47",
+  "(0% off)",
+  "฿472.47",
+  "฿15.75/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73088/s/37.jpg"
+ ]
+}

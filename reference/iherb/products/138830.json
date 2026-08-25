@@ -1,0 +1,269 @@
+{
+ "pid": "138830",
+ "slug": "sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels",
+ "scrapedAt": "2026-08-25T17:41:05.602Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels.jpg",
+  "/products/iherb/sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels-2.jpg",
+  "/products/iherb/sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels-3.jpg",
+  "/products/iherb/sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels/138830",
+ "pageTitle": "Sports Research, D3 + K2, Plant-Based, 62.5 mcg/100 mcg, 60 Veggie Softgels",
+ "h1": "Sports Research, D3 + K2, Plant-Based, 62.5 mcg/100 mcg, 60 Veggie Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138830",
+  "name": "Sports Research, D3 + K2, Plant-Based, 62.5 mcg/100 mcg, 60 Veggie Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/g/8.jpg",
+  "mpn": "SRE-09166",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1741
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "942.31",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "62.5 mcg (2,500 IU) D3 100 mcg K2 Supports Bone & Immune Health With Coconut MCT Dietary Supplement Quality Matters: Non-GMO Project Verified Certified Vegan Gluten-Free Third Party Tested cGMP Compliant",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-09166",
+  "gtin12": "023249091660",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "62.5 mcg (2,500 IU) D3",
+    "100 mcg K2",
+    "Supports Bone & Immune Health",
+    "With Coconut MCT",
+    "Dietary Supplement",
+    "Non-GMO Project Verified",
+    "Certified Vegan",
+    "Gluten-Free",
+    "Third Party Tested",
+    "cGMP Compliant"
+   ],
+   "paragraphs": [
+    "Quality Matters:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 veggie softgel daily with food, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Coconut mct oil, plantgel™ capsule non-GMO modified tapioca starch, vegetable glycerin purified water, turmeric [for color]).",
+    "Contains: Tree nuts (coconut).",
+    "Proudly manufactured in the USA with carefully selected ingredients of domestic and international origins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children and pets. Do not Consume with other high dose vitamin d supplements. This product is intended for individuals who do not obtain the RDI through their daily diet. Consult with a qualified healthcare professional prior to using this product, especially if you are pregnant, nursing, have a diagnosed medical condition, or. are taking a prescription medication (e.g ., Anticoagulants [Coumadin/Warfarin]). Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Store at room temperature, in a dry place. Protect product from excessive heat, freezing, humidity and light."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-09166"
+  },
+  {
+   "label": "UPC",
+   "value": "023249091660"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 5.2 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Softgel"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Vitamin D (as D3, cholecalciferol)(from lichen)(VEGADELIGHT®)",
+   "62.5 mcg (2,500 IU)",
+   "313%"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)(MK-7 from chickpea)",
+   "100 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "123663",
+   "url": "https://th.iherb.com/pr/sports-research-d3-k2-plant-based-30-veggie-softgels/123663",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "138830",
+   "url": "https://th.iherb.com/pr/sports-research-d3-k2-plant-based-62-5-mcg-100-mcg-60-veggie-softgels/138830",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "138839",
+   "url": "https://th.iherb.com/pr/sports-research-d3-k2-plant-based-120-veggie-softgels/138839",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿942.31",
+  "฿942.31",
+  "฿15.71/‏serving",
+  "{0}% off code: {1}",
+  "฿942.31",
+  "Save 0% in cart",
+  "฿15.71/‏serving",
+  "฿942.31",
+  "(0% off)",
+  "฿942.31",
+  "฿15.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/s/11.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09166/s/19.jpg"
+ ]
+}

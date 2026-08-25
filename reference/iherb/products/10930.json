@@ -1,0 +1,279 @@
+{
+ "pid": "10930",
+ "slug": "doctor-s-best-high-absorption-coq10-100-mg-120-softgels",
+ "scrapedAt": "2026-08-25T17:28:06.557Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-high-absorption-coq10-100-mg-120-softgels.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-coq10-100-mg-120-softgels-2.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-coq10-100-mg-120-softgels-3.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-coq10-100-mg-120-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-100-mg-120-softgels/10930",
+ "pageTitle": "Doctor's Best, High Absorption CoQ10, 100 mg, 120 Softgels",
+ "h1": "Doctor's Best, High Absorption CoQ10, 100 mg, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "10930",
+  "name": "Doctor's Best, High Absorption CoQ10, 100 mg, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/g/131.jpg",
+  "mpn": "DRB-00183",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 57509
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.19",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "727.73",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Heart & Energy Support BioPerine® Dietary Supplement USP Verified, Naturally Fermented CoQ10 Non-GMO Gluten Free At Doctor's Best, we are all about tackling stress, free radicals, statin medications, ▵ and aging, which can zap CoQ10 levels and affect stamina. Our specialized formula is geared towards boosting energy production, supporting muscle function, and enhancing overall vitality. Helps restore CoQ10 that may be depleted by aging and statin drugs ▵ Formulated with BioPerine® black pepper extract to enhance absorption and bioavailability ▵ CoQ10 is not intended to serve as a replacement for statin therapy, nor should you discontinue taking any prescribed medications while supplementing with CoQ10.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00183",
+  "gtin12": "753950001831",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/g/131.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Coenzyme Q10 (Ubiquinone)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Heart & Energy Support",
+    "BioPerine®",
+    "Dietary Supplement",
+    "USP Verified, Naturally Fermented CoQ10",
+    "Non-GMO",
+    "Gluten Free",
+    "Helps restore CoQ10 that may be depleted by aging and statin drugs▵",
+    "Formulated with BioPerine® black pepper extract to enhance absorption and bioavailability"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we are all about tackling stress, free radicals, statin medications,▵ and aging, which can zap CoQ10 levels and affect stamina. Our specialized formula is geared towards boosting energy production, supporting muscle function, and enhancing overall vitality.",
+    "▵ CoQ10 is not intended to serve as a replacement for statin therapy, nor should you discontinue taking any prescribed medications while supplementing with CoQ10."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 softgel daily, preferably with food for maximum absorption, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Extra virgin olive oil (non-GMO), softgel capsule (gelatin, glycerin, purified water), beeswax, soy lecithin, rosemary extract.",
+    "Contains soy."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2008"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00183"
+  },
+  {
+   "label": "UPC",
+   "value": "753950001831"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.3 x 5.2 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings per container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving:",
+   "% Daily Value"
+  ],
+  [
+   "Coenzyme Q10 (Ubiquinone)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Black Pepper Ext. (Piper nigrum) (fruit)(standardized to contain 95% Piperine) (BioPerine®)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving:\t% Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "7947",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-60-softgels/7947",
+   "price": "฿437.69",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "97518",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-300-mg-90-veggie-softgels/97518",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "10930",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-100-mg-120-softgels/10930",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Coenzyme Q10 (Ubiquinone)",
+   "href": "/c/coenzyme-q10-ubiquinone?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Antioxidants",
+   "href": "/c/antioxidants?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿727.73",
+  "฿727.73",
+  "฿6.06/‏serving",
+  "{0}% off code: {1}",
+  "฿727.73",
+  "Save 0% in cart",
+  "฿6.06/‏serving",
+  "฿727.73",
+  "(0% off)",
+  "฿727.73",
+  "฿6.06/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/g/131.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/k/131.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/g/131.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/131.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/136.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/139.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/140.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/141.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/142.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/143.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/144.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/145.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00183/s/146.jpg"
+ ]
+}

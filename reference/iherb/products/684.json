@@ -1,0 +1,254 @@
+{
+ "pid": "684",
+ "slug": "now-foods-inositol-500-mg-100-veg-capsules",
+ "scrapedAt": "2026-08-25T17:16:15.830Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "20K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-inositol-500-mg-100-veg-capsules.jpg",
+  "/products/iherb/now-foods-inositol-500-mg-100-veg-capsules-2.jpg",
+  "/products/iherb/now-foods-inositol-500-mg-100-veg-capsules-3.jpg",
+  "/products/iherb/now-foods-inositol-500-mg-100-veg-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-inositol-500-mg-100-veg-capsules/684",
+ "pageTitle": "NOW Foods, Inositol, 500 mg, 100 Veg Capsules",
+ "h1": "NOW Foods, Inositol, 500 mg, 100 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "684",
+  "name": "NOW Foods, Inositol, 500 mg, 100 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/g/70.jpg",
+  "mpn": "NOW-00475",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 47630
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "343.85",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Cellular Health Supports Healthy Membrane Function Myo-Inositol Form Non-GMO A Dietary Supplement Vegetarian/Vegan Kosher Vitamins Family Owned Since 1968 GMP Quality Assured Inositol is a non-essential member of the B-complex family with dietary sources from both animal and plant foods. The form of inositol used in this product is myo-inositol, the most abundant form of this nutrient. Inositol is found in all cell membranes, with the highest concentrations in the brain and central nervous system, where it plays an important role in neurotransmitter signaling. Inositol is also critical for the proper action of insulin, lipid metabolism, and for the maintenance of cellular calcium balance.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00475",
+  "gtin12": "733739004758",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/g/70.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin B",
+  "Inositol"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Cellular Health",
+    "Supports Healthy Membrane Function",
+    "Myo-Inositol Form",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Vitamins",
+    "Family Owned Since 1968",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Inositol is a non-essential member of the B-complex family with dietary sources from both animal and plant foods. The form of inositol used in this product is myo-inositol, the most abundant form of this nutrient. Inositol is found in all cell membranes, with the highest concentrations in the brain and central nervous system, where it plays an important role in neurotransmitter signaling. Inositol is also critical for the proper action of insulin, lipid metabolism, and for the maintenance of cellular calcium balance."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily as needed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, hypromellose (cellulose capsule), stearic acid (vegetable source) and silicon dioxide.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish or tree nut ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place after opening.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00475"
+  },
+  {
+   "label": "UPC",
+   "value": "733739004758"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 5.8 x 5.8 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Inositol",
+   "500 mg",
+   "**"
+  ],
+  [
+   "** Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "** Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veg capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2031"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Inositol",
+   "href": "/c/inositol?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Vitamin B",
+   "href": "/c/vitamin-b?sr=2"
+  },
+  {
+   "rank": "#12 in",
+   "category": "Vitamins",
+   "href": "/c/vitamins?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "20,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿343.85",
+  "฿343.85",
+  "฿3.44/‏serving",
+  "{0}% off code: {1}",
+  "฿343.85",
+  "Save 0% in cart",
+  "฿3.44/‏serving",
+  "฿343.85",
+  "(0% off)",
+  "฿343.85",
+  "฿3.44/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/g/70.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/k/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/g/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/s/79.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00475/s/81.jpg"
+ ]
+}

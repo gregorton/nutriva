@@ -1,0 +1,316 @@
+{
+ "pid": "102333",
+ "slug": "now-foods-omega-3-fish-oil-100-softgels",
+ "scrapedAt": "2026-08-25T17:21:02.072Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "30K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-omega-3-fish-oil-100-softgels.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-100-softgels-2.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-100-softgels-3.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-100-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-100-softgels/102333",
+ "pageTitle": "NOW Foods, Omega-3 Fish Oil, 100 Softgels",
+ "h1": "NOW Foods, Omega-3 Fish Oil, 100 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102333",
+  "name": "NOW Foods, Omega-3 Fish Oil, 100 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/g/58.jpg",
+  "mpn": "NOW-01650",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 176755
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.39",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "297.92",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Molecularly Distilled Cardiovascular Support ♦ 1,000 mg Fish Oil Per Softgel 180 EPA / 120 DHA Per Softgel GOED Omega-3 - Proud Member A Dietary Supplement Non-GMO Family Owned Since 1968 Halal GMP Quality Assured Contains bovine-derived ingredients This fish oil concentrate is manufactured under strict quality control standards. It is tested for potentially harmful levels of contaminants such as PCBs, dioxins, mercury and other heavy metals. ♦ Supportive but not conclusive research shows that consumption of EPA and DHA omega-3 fatty acids may reduce the risk of coronary heart disease.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01650",
+  "gtin12": "733739016508",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/g/58.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Molecularly Distilled",
+    "Cardiovascular Support♦",
+    "1,000 mg Fish Oil Per Softgel",
+    "180 EPA / 120 DHA Per Softgel",
+    "GOED Omega-3 - Proud Member",
+    "A Dietary Supplement",
+    "Non-GMO",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured",
+    "Contains bovine-derived ingredients"
+   ],
+   "paragraphs": [
+    "This fish oil concentrate is manufactured under strict quality control standards. It is tested for potentially harmful levels of contaminants such as PCBs, dioxins, mercury and other heavy metals.",
+    "♦Supportive but not conclusive research shows that consumption of EPA and DHA omega-3 fatty acids may reduce the risk of coronary heart disease."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 softgels twice daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel capsule [bovine gelatin (bse-free), glycerin, water] and d-alpha tocopherol (from sunflower).",
+    "Contains fish (anchovies, sardines, tuna).",
+    "Not manufactured with yeast, wheat, gluten, soy, milk, egg, shellfish, tree nuts or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Fish oil is product of Peru, Morocco, Mauritius, Malaysia.",
+    "Packaged and quality tested in the USA."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01650"
+  },
+  {
+   "label": "UPC",
+   "value": "733739016508"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.4 x 6.4 cm, 0.17 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%**"
+  ],
+  [
+   "Fish Oil Concentrate",
+   "2 g (2,000 mg)",
+   "†"
+  ],
+  [
+   "Omega-3 Fatty Acids:"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA)",
+   "360 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA)",
+   "240 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "117152",
+   "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-90-softgels/117152",
+   "price": "฿366.82",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "102333",
+   "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-100-softgels/102333",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "724",
+   "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-180-softgels/724",
+   "price": "฿739.62",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "200 count",
+   "pid": "323",
+   "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-1-000-mg-200-softgels/323",
+   "price": "฿602.85",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Omegas & Fish Oils (EPA DHA)",
+   "href": "/c/omegas-fish-oils-epa-dha?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Omega-3 Fish Oil",
+   "href": "/c/omega-3-fish-oil?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Gut Health",
+   "href": "/c/gut-health?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "30,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿297.92",
+  "฿297.92",
+  "฿5.96/‏serving",
+  "{0}% off code: {1}",
+  "฿297.92",
+  "Save 0% in cart",
+  "฿5.96/‏serving",
+  "฿297.92",
+  "(0% off)",
+  "฿297.92",
+  "฿5.96/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/g/58.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/k/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/g/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01650/s/49.jpg"
+ ]
+}

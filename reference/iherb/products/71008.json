@@ -1,0 +1,310 @@
+{
+ "pid": "71008",
+ "slug": "jovial-organic-einkorn-cookies-crispy-cocoa-8-8-oz-250-g",
+ "scrapedAt": "2026-08-25T17:50:58.034Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/jovial-organic-einkorn-cookies-crispy-cocoa-8-8-oz-250-g.jpg",
+  "/products/iherb/jovial-organic-einkorn-cookies-crispy-cocoa-8-8-oz-250-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/jovial-organic-einkorn-cookies-crispy-cocoa-8-8-oz-250-g/71008",
+ "pageTitle": "Jovial, Organic Einkorn Cookies, Crispy Cocoa, 8.8 oz (250 g)",
+ "h1": "Jovial, Organic Einkorn Cookies, Crispy Cocoa, 8.8 oz (250 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "71008",
+  "name": "Jovial, Organic Einkorn Cookies, Crispy Cocoa, 8.8 oz (250 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/g/55.jpg",
+  "mpn": "JOV-01213",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 1343
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Jovial",
+   "url": "http://jovialfoods.com/",
+   "identifier": "JOV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.65",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "209.44",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "234.36",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Inherently Good Organic Ancient Grain Crafted by Italian Artisan Bakers Einkorn is an Ancient Wheat Easy to Digest The Only Wheat Never Hybridized Low Gluten Index 3 g Protein Per Serving USDA Organic Non GMO Project Verified Fair Trade Certified Ingredients Certified Organic by QAI We care about your cookies, one quality ingredient at a time! Crafted in small batches by passionate Italian bakers, our cookies are lightly sweetened and satisfying without being overly rich. What really sets these cookies apart is einkorn, the original and most ancient variety of wheat. Socially and environmentally responsible palm fruit oil helps reduce deforestation and preserves biodiversity. Extracted from prehistoric salt deposits left behind when the oceans receded, this salt is a product of centuries of natural evaporation of seawater. Ancient einkorn wheat gives this cookie real integrity, not to mention great flavor and protein. Wheat as Nature Intended™ Einkorn was planted by the very first farmers over 12,000 years ago during the Neolithic Revolution. Left untouched, it's the only wheat never hybridized, and is well tolerated by many with gluten sensitivities. While modern wheat was bred for higher yields and stronger gluten, einkorn's tiny grains stayed true to nature. With less carbohydrates, more protein, and a deliciously sweet flavor, just as wheat was meant to be. We work directly with small, organic farmers to maintain the integrity of this most ancient grain so you can feel great about the ingredients in these traditional Italian cookies. Einkorn: Unchanged for 12,000 years. Modern wheat: bread for higher yields and strong gluten.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.6x2"
+  },
+  "isRelatedTo": null,
+  "sku": "JOV-01213",
+  "gtin12": "815421012132",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/g/55.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Snacks",
+  "Cookies"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Inherently Good",
+    "Organic Ancient Grain",
+    "Crafted by Italian Artisan Bakers",
+    "Einkorn is an Ancient Wheat",
+    "Easy to Digest",
+    "The Only Wheat Never Hybridized",
+    "Low Gluten Index",
+    "3 g Protein Per Serving",
+    "USDA Organic",
+    "Non GMO Project Verified",
+    "Fair Trade Certified Ingredients",
+    "Certified Organic by QAI"
+   ],
+   "paragraphs": [
+    "We care about your cookies, one quality ingredient at a time!",
+    "Crafted in small batches by passionate Italian bakers, our cookies are lightly sweetened and satisfying without being overly rich. What really sets these cookies apart is einkorn, the original and most ancient variety of wheat.",
+    "Socially and environmentally responsible palm fruit oil helps reduce deforestation and preserves biodiversity.",
+    "Extracted from prehistoric salt deposits left behind when the oceans receded, this salt is a product of centuries of natural evaporation of seawater.",
+    "Ancient einkorn wheat gives this cookie real integrity, not to mention great flavor and protein.",
+    "Wheat as Nature Intended™",
+    "Einkorn was planted by the very first farmers over 12,000 years ago during the Neolithic Revolution. Left untouched, it's the only wheat never hybridized, and is well tolerated by many with gluten sensitivities.",
+    "While modern wheat was bred for higher yields and stronger gluten, einkorn's tiny grains stayed true to nature. With less carbohydrates, more protein, and a deliciously sweet flavor, just as wheat was meant to be. We work directly with small, organic farmers to maintain the integrity of this most ancient grain so you can feel great about the ingredients in these traditional Italian cookies.",
+    "Einkorn: Unchanged for 12,000 years.",
+    "Modern wheat: bread for higher yields and strong gluten."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic einkorn flour, organic cane sugar,* organic palm fruit oil, organic rice syrup, organic cocoa,* leavening (potassium acid tartrate, baking soda, ammonium carbonate), salt, organic cocoa extract.",
+    "*Fair Trade Certified™ by Fair Trade USA. 23% Fair trade ingredients.",
+    "Contains wheat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "JOV-01213"
+  },
+  {
+   "label": "UPC",
+   "value": "815421012132"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.8 x 14.2 x 5.1 cm, 0.29 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 3 cookies (28 g)"
+  ],
+  [
+   "Servings Per Container: About 11"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value*"
+  ],
+  [
+   "Calories",
+   "130",
+   ""
+  ],
+  [
+   "Total Fat",
+   "4.5 g",
+   "6%"
+  ],
+  [
+   "Saturated Fat",
+   "2 g",
+   "10%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "80 mg",
+   "3%"
+  ],
+  [
+   "Total Carbohydrate",
+   "18 g",
+   "7%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   ""
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%"
+  ],
+  [
+   "Protein",
+   "3 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "20 mg",
+   "2%"
+  ],
+  [
+   "Iron",
+   "0.6 mg",
+   "4%"
+  ],
+  [
+   "Potassium",
+   "110 mg",
+   "2%"
+  ],
+  [
+   "The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value*",
+  "The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 cookies"
+    },
+    {
+     "label": "Total servings",
+     "value": "11"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿234.36",
+  "฿234.36",
+  "฿21.31/‏serving",
+  "{0}% off code: {1}",
+  "฿234.36",
+  "Save 11% in cart",
+  "฿21.31/‏serving",
+  "฿209.44",
+  "(11% off)",
+  "฿234.36",
+  "฿19.04/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/g/55.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/k/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/g/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01213/b/55.jpg"
+ ]
+}

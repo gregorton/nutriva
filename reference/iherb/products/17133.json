@@ -1,0 +1,269 @@
+{
+ "pid": "17133",
+ "slug": "doctor-s-best-ubiquinol-100-mg-60-softgels",
+ "scrapedAt": "2026-08-25T17:39:08.247Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-ubiquinol-100-mg-60-softgels.jpg",
+  "/products/iherb/doctor-s-best-ubiquinol-100-mg-60-softgels-2.jpg",
+  "/products/iherb/doctor-s-best-ubiquinol-100-mg-60-softgels-3.jpg",
+  "/products/iherb/doctor-s-best-ubiquinol-100-mg-60-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-ubiquinol-100-mg-60-softgels/17133",
+ "pageTitle": "Doctor's Best, Ubiquinol , 100 mg, 60 Softgels",
+ "h1": "Doctor's Best, Ubiquinol , 100 mg, 60 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "17133",
+  "name": "Doctor's Best, Ubiquinol , 100 mg, 60 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/g/104.jpg",
+  "mpn": "DRB-00205",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 4521
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1333.41",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Made With Quality Ubiquinol - Kaneka Q+® Reduced Form of Coenzyme Q10 Dietary Supplement Non-GMO / Gluten Free / Soy Free At Doctor's Best, our Ubiquinol features the reduced form of coenzyme Q10, essential for powering a strong wellness journey. Both ubiquinol (CoQ10-H,) and ubiquinone (CoQ10) are metabolically active, uniquely contributing to cells for antioxidant support, heart health, and energy production. Ubiquinol aids in regenerating antioxidants like vitamin C and E, potentially enhancing bioavailability for aging adults tackling nutrient levels or absorption concerns. Helps support mitochondria to enhance cellular energy production Helps support healthy heart function Ubiquinol is a powerful antioxidant",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.1"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00205",
+  "gtin12": "753950002050",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/g/104.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Coenzyme Q10 (Ubiquinone)",
+  "Ubiquinol"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Made With Quality Ubiquinol - Kaneka Q+®",
+    "Reduced Form of Coenzyme Q10",
+    "Dietary Supplement",
+    "Non-GMO / Gluten Free / Soy Free",
+    "Helps support mitochondria to enhance cellular energy production",
+    "Helps support healthy heart function",
+    "Ubiquinol is a powerful antioxidant"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, our Ubiquinol features the reduced form of coenzyme Q10, essential for powering a strong wellness journey. Both ubiquinol (CoQ10-H,) and ubiquinone (CoQ10) are metabolically active, uniquely contributing to cells for antioxidant support, heart health, and energy production. Ubiquinol aids in regenerating antioxidants like vitamin C and E, potentially enhancing bioavailability for aging adults tackling nutrient levels or absorption concerns."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 softgel daily with food, or as recommended by a nutritionally-informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Extra virgin olive oil, softgel capsule [gelatin, glycerin, purified water, annatto (color)], medium-chain triglycerides, sunflower lecithin, beeswax, rosemary leaf extract."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2009"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00205"
+  },
+  {
+   "label": "UPC",
+   "value": "753950002050"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.3 x 5.3 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Ubiquinol(Kaneka Ubiquinol™, reduced form of CoQ10)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "41053",
+   "url": "https://th.iherb.com/pr/doctor-s-best-ubiquinol-200-mg-30-softgels/41053",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "17133",
+   "url": "https://th.iherb.com/pr/doctor-s-best-ubiquinol-100-mg-60-softgels/17133",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "12631",
+   "url": "https://th.iherb.com/pr/doctor-s-best-ubiquinol-with-kaneka-q-50-mg-90-softgels/12631",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "41054",
+   "url": "https://th.iherb.com/pr/doctor-s-best-ubiquinol-200-mg-120-softgels/41054",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,333.41",
+  "฿1,333.41",
+  "฿22.22/‏serving",
+  "{0}% off code: {1}",
+  "฿1,333.41",
+  "Save 0% in cart",
+  "฿22.22/‏serving",
+  "฿1,333.41",
+  "(0% off)",
+  "฿1,333.41",
+  "฿22.22/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/g/104.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/k/104.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/g/104.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/104.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/109.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/112.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/113.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/117.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00205/s/118.jpg"
+ ]
+}

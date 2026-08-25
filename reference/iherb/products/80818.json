@@ -1,0 +1,203 @@
+{
+ "pid": "80818",
+ "slug": "vitafusion-power-c-high-potency-vitamin-c-gummies-natural-orange-150-g",
+ "scrapedAt": "2026-08-25T17:28:32.332Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitafusion-power-c-high-potency-vitamin-c-gummies-natural-orange-150-g.jpg",
+  "/products/iherb/vitafusion-power-c-high-potency-vitamin-c-gummies-natural-orange-150-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitafusion-power-c-high-potency-vitamin-c-gummies-natural-orange-150-gummies/80818",
+ "pageTitle": "VitaFusion, Power C™, High Potency Vitamin C Gummies, Natural Orange, 150 Gummies",
+ "h1": "VitaFusion, Power C™, High Potency Vitamin C Gummies, Natural Orange, 150 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "80818",
+  "name": "VitaFusion, Power C™, High Potency Vitamin C Gummies, Natural Orange, 150 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/g/56.jpg",
+  "mpn": "VFU-01920",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1764
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "VitaFusion",
+   "url": "http://gummyvites.com/",
+   "identifier": "VFU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.19",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "530.19",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "For Immune Support #1 America's Gummy Vitamin Brand Dietary Supplement No Artificial Flavors or Sweeteners No Gluten No High Fructose Corn Syrup No Dairy No Synthetic FD&C Dyes Award Winning Taste 2020 ChefsBest Award Growing Communities With Fruitful Planting Power C™ gummies provide an excellent source of immune supporting vitamin C - as much as 10 tangerines per serving! These high potency vitamin C gummies with natural, zesty orange flavor are sure to please with their award winning taste. The ChefsBest® Award for Best Taste is awarded to the brand rated highest overall among leading brands by independent professional chefs.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "VFU-01920",
+  "gtin12": "027917019208",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/g/56.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VFU-01920"
+  },
+  {
+   "label": "UPC",
+   "value": "027917019208"
+  },
+  {
+   "label": "Package quantity",
+   "value": "150 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16 x 8 x 8 cm, 0.54 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Gummy Vitamins"
+  ],
+  [
+   "Serving Per Bottle: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "30",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "7 g",
+   "3%†"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   "**"
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%†"
+  ],
+  [
+   "Protein",
+   "<1 g",
+   "<1%†"
+  ],
+  [
+   "Vitamin C (as ascorbic acid and sodium ascorbate)",
+   "282 mg",
+   "313%"
+  ],
+  [
+   "Sodium",
+   "35 mg",
+   "2%"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 3 Gummy VitaminsServing Per Bottle: 50 Amount Per Serving%Daily ValueCalories30 Total Carbohydrate7 g3%†Total Sugars6 g**Includes 6 g Added Sugars12%†Protein<1 g<1%†Vitamin C (as ascorbic acid and sodium ascorbate)282 mg313%Sodium35 mg2%†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 gummy vitamins"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Natural Factors, Vitamin C, Fruit-Flavor Chew, Peach, Passionfruit and Mango, 500 mg, 180 Chewable Wafers",
+  "1,330",
+  "฿736.15"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/g/56.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/k/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/g/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vfu/vfu01920/s/59.jpg"
+ ]
+}

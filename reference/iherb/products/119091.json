@@ -1,0 +1,279 @@
+{
+ "pid": "119091",
+ "slug": "california-gold-nutrition-ergothioneine-mushroom-complex-with-organic",
+ "scrapedAt": "2026-08-25T17:51:07.856Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-ergothioneine-mushroom-complex-with-organic.jpg",
+  "/products/iherb/california-gold-nutrition-ergothioneine-mushroom-complex-with-organic-2.jpg",
+  "/products/iherb/california-gold-nutrition-ergothioneine-mushroom-complex-with-organic-3.jpg",
+  "/products/iherb/california-gold-nutrition-ergothioneine-mushroom-complex-with-organic-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-ergothioneine-mushroom-complex-with-organic-maitake-organic-oyster-organic-lion-s-mane-mushroom-extracts-and-l-ergothioneine-90-veggie-capsules/119091",
+ "pageTitle": "California Gold Nutrition, Ergothioneine Mushroom Complex with Organic Maitake, Organic Oyster, Organic Lion's Mane Mushroom Extracts and L-Ergothioneine, 90 Veggie Capsules",
+ "h1": "California Gold Nutrition, Ergothioneine Mushroom Complex with Organic Maitake, Organic Oyster, Organic Lion's Mane Mushroom Extracts and L-Ergothioneine, 90 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "119091",
+  "name": "California Gold Nutrition, Ergothioneine Mushroom Complex with Organic Maitake, Organic Oyster, Organic Lion's Mane Mushroom Extracts and L-Ergothioneine, 90 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/g/18.jpg",
+  "mpn": "CGN-02268",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1026
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "598.78",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "798.38",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Ergothioneine Mushroom Complex Supports Mitochondrial Function* Anti-Inflammatory & Supports Immune System* Supports Antioxidant & Cellular Health* Supports Cognitive Health Formulated to Contain: No Gluten, No GMOs, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility Ergothioneine Mushroom Complex, by California Gold Nutrition , is a powerful blend of remarkable mushrooms. This extraordinary blend utilizes the unique properties of Organic Maitake Mushroom Extract, Organic Oyster Mushroom Extract, and Organic Lion's Mane Mushroom Extract fortified with the powerhouse antioxidant Ergothioneine to provide you with a comprehensive and potent health-boosting supplement. California Gold Nutrition Ergothioneine Mushroom Complex features MitoPrime® which is designed to promote a healthy-inflammatory response, a healthy immune system, and cell detoxification. Ergothioneine is a naturally occurring amino acid found in high concentrations in select sources such as mushrooms and certain microorganisms. It acts as a potent antioxidant, working to neutralize harmful free radicals and protect your cells from oxidative stress. Organic Maitake Mushroom Extract Renowned for its immune-boosting properties, Maitake mushrooms have been cherished for centuries in traditional medicine. Our organic Maitake mushroom extract supports a strong and resilient immune system, helping your body defend against invaders and maintain optimal well-being. It also offers potential benefits for healthy blood sugar levels and supports overall vitality*. Organic Oyster Mushroom Extract Known for its rich nutritional profile, organic Oyster mushroom extract is a natural gem that provides vitamins, minerals, and antioxidants. It supports immune function, aids in digestion, and contributes to overall wellness. Organic Lion's Mane Mushroom Extract Elevate your cognitive health with organic Lion’s Mane mushroom extract. This exceptional mushroom is revered for its potential to support brain function, memory, and focus. Lion’s Mane may also help promote a positive mood and overall mental well-being. Unlock the full potential of your mind with this remarkable mushroom extract. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.35x2.35"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02268",
+  "gtin12": "898220022687",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/g/18.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Mushrooms",
+  "Mushroom Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Ergothioneine Mushroom Complex",
+    "Supports Mitochondrial Function*",
+    "Anti-Inflammatory & Supports Immune System*",
+    "Supports Antioxidant & Cellular Health*",
+    "Supports Cognitive Health",
+    "Formulated to Contain: No Gluten, No GMOs, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility"
+   ],
+   "paragraphs": [
+    "Ergothioneine Mushroom Complex, by California Gold Nutrition, is a powerful blend of remarkable mushrooms. This extraordinary blend utilizes the unique properties of Organic Maitake Mushroom Extract, Organic Oyster Mushroom Extract, and Organic Lion's Mane Mushroom Extract fortified with the powerhouse antioxidant Ergothioneine to provide you with a comprehensive and potent health-boosting supplement.",
+    "California Gold Nutrition Ergothioneine Mushroom Complex features MitoPrime® which is designed to promote a healthy-inflammatory response, a healthy immune system, and cell detoxification.",
+    "Ergothioneine is a naturally occurring amino acid found in high concentrations in select sources such as mushrooms and certain microorganisms. It acts as a potent antioxidant, working to neutralize harmful free radicals and protect your cells from oxidative stress.",
+    "Organic Maitake Mushroom ExtractRenowned for its immune-boosting properties, Maitake mushrooms have been cherished for centuries in traditional medicine. Our organic Maitake mushroom extract supports a strong and resilient immune system, helping your body defend against invaders and maintain optimal well-being. It also offers potential benefits for healthy blood sugar levels and supports overall vitality*.",
+    "Organic Oyster Mushroom ExtractKnown for its rich nutritional profile, organic Oyster mushroom extract is a natural gem that provides vitamins, minerals, and antioxidants. It supports immune function, aids in digestion, and contributes to overall wellness.",
+    "Organic Lion's Mane Mushroom ExtractElevate your cognitive health with organic Lion’s Mane mushroom extract. This exceptional mushroom is revered for its potential to support brain function, memory, and focus. Lion’s Mane may also help promote a positive mood and overall mental well-being. Unlock the full potential of your mind with this remarkable mushroom extract.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02268"
+  },
+  {
+   "label": "UPC",
+   "value": "898220022687"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6 x 6 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement Facts†"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Organic Maitake Mushroom Extract (Grifola frondosa) (fruiting body)",
+   "150 mg",
+   "†"
+  ],
+  [
+   "Organic Oyster Mushroom Extract (Pleurotus ostreatus) (fruiting body)",
+   "150 mg",
+   "†"
+  ],
+  [
+   "Organic Lion's Mane Mushroom Extract (Hericium erinaceus) (fruiting body)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "L-Ergothioneine",
+   "5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Maitake",
+   "href": "/c/maitake?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Mushroom Blends",
+   "href": "/c/mushroom-blends?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "L-Ergothioneine",
+   "href": "/c/l-ergothioneine?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿798.38",
+  "฿798.38",
+  "฿8.87/‏serving",
+  "{0}% off code: {1}",
+  "฿798.38",
+  "Save 25% in cart",
+  "฿8.87/‏serving",
+  "฿598.78",
+  "(25% off)",
+  "฿798.38",
+  "฿6.65/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/g/18.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/k/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/g/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02268/s/23.jpg"
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "pid": "154740",
+ "slug": "micro-ingredients-pure-turmeric-curcumin-95-120-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:32:51.212Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-pure-turmeric-curcumin-95-120-vegetarian-capsules.jpg",
+  "/products/iherb/micro-ingredients-pure-turmeric-curcumin-95-120-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-pure-turmeric-curcumin-95-120-vegetarian-capsules/154740",
+ "pageTitle": "Micro Ingredients, Pure Turmeric Curcumin 95, 120 Vegetarian Capsules",
+ "h1": "Micro Ingredients, Pure Turmeric Curcumin 95, 120 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "154740",
+  "name": "Micro Ingredients, Pure Turmeric Curcumin 95, 120 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/g/24.jpg",
+  "mpn": "MII-02348",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 99
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.22",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "885.87",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "1,000 mg Per Serving 95% Curcuminoids Highly Bioavailable Bee Propolis Ginger Black Pepper Extract MCT Oil Fat-Soluble Vitamin C Only Clean Ingredients Dietary Supplement Gluten Free GMO Free Lab Tested - 3rd Party Certified For Purity & Potency Majority of turmeric products are mostly turmeric with low levels of curcumin, while ours is 95% pure curcumin. Curcumin is the active component of turmeric that holds all its health benefits.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-02348",
+  "gtin12": "850069023485",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "1,000 mg Per Serving",
+    "95% Curcuminoids",
+    "Highly Bioavailable",
+    "Bee Propolis",
+    "Ginger",
+    "Black Pepper Extract",
+    "MCT Oil",
+    "Fat-Soluble Vitamin C",
+    "Only Clean Ingredients",
+    "Dietary Supplement",
+    "Gluten Free",
+    "GMO Free",
+    "Lab Tested - 3rd Party Certified For Purity & Potency"
+   ],
+   "paragraphs": [
+    "Majority of turmeric products are mostly turmeric with low levels of curcumin, while ours is 95% pure curcumin. Curcumin is the active component of turmeric that holds all its health benefits."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take three (3) capsules daily. Preferably with meals or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose (capsule).",
+    "Contains: Tree nuts (coconut).",
+    "Free of: Gluten, soy, dairy, fish & shellfish.",
+    "Made in USA with global ingredients"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Store in a cool, dry place. Do not use if safety seal is damaged or missing. Not intended for individuals under the age of 18. If you are nursing, pregnant, taking medication or have a medical condition, you should consult your healthcare practitioner prior to using this product.",
+    "Risk of cancer and reproductive harm from exposure to lead. Prop 65."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-02348"
+  },
+  {
+   "label": "UPC",
+   "value": "850069023485"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.4 x 6.1 x 6.1 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Vegetarian Capsules"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as ascorbyl palmitate)",
+   "100 mg",
+   "111%"
+  ],
+  [
+   "Turmeric Extract (Curcuma longa) (root) (standardized to 95% Curcuminoids) (total 950mg Curcuminoids)",
+   "1,000 mg",
+   "†"
+  ],
+  [
+   "Bee Propolis Extract",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Ginger (Zingiber officinale) (root)",
+   "62.5 mg",
+   "†"
+  ],
+  [
+   "MCT Oil Powder (from coconut oil) (Medium Chain Triglycerides, Acacia Fiber)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Black Pepper Extract (Piper nigrum) (fruit)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 vegetarian capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿885.87",
+  "฿885.87",
+  "฿22.15/‏serving",
+  "{0}% off code: {1}",
+  "฿885.87",
+  "Save 0% in cart",
+  "฿22.15/‏serving",
+  "฿885.87",
+  "(0% off)",
+  "฿885.87",
+  "฿22.15/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii02348/s/29.jpg"
+ ]
+}

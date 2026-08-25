@@ -1,0 +1,279 @@
+{
+ "pid": "112971",
+ "slug": "solaray-high-absorption-magnesium-glycinate-120-vegcaps",
+ "scrapedAt": "2026-08-25T17:09:08.090Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/solaray-high-absorption-magnesium-glycinate-120-vegcaps.jpg",
+  "/products/iherb/solaray-high-absorption-magnesium-glycinate-120-vegcaps-2.jpg",
+  "/products/iherb/solaray-high-absorption-magnesium-glycinate-120-vegcaps-3.jpg",
+  "/products/iherb/solaray-high-absorption-magnesium-glycinate-120-vegcaps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/solaray-high-absorption-magnesium-glycinate-120-vegcaps/112971",
+ "pageTitle": "Solaray, High Absorption Magnesium Glycinate, 120 VegCaps",
+ "h1": "Solaray, High Absorption Magnesium Glycinate, 120 VegCaps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "112971",
+  "name": "Solaray, High Absorption Magnesium Glycinate, 120 VegCaps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/g/30.jpg",
+  "mpn": "SOR-54901",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 61906
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Solaray",
+   "url": "https://solaray.com/",
+   "identifier": "SOR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "547.93",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Est. 1973 Bone Muscle Relaxation Dietary Supplement Lab Verified Vegan Non GMO Project Verified A Brighter Way Since 1973, we've scoured the globe for the highest quality ingredients, connecting you with the most efficacious supplements that help you live brighter & embrace the moments that matter most. Discussion : Magnesium Glycinate (also known as Bisglycinate) is believed to offer superior availability of Magnesium to the body. It is intended to provide nutritive support for normal, healthy, muscle function.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "SOR-54901",
+  "gtin12": "076280549010",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/g/30.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Est. 1973",
+    "Bone",
+    "Muscle",
+    "Relaxation",
+    "Dietary Supplement",
+    "Lab Verified",
+    "Vegan",
+    "Non GMO Project Verified",
+    "A Brighter Way"
+   ],
+   "paragraphs": [
+    "Since 1973, we've scoured the globe for the highest quality ingredients, connecting you with the most efficacious supplements that help you live brighter & embrace the moments that matter most.",
+    "Discussion: Magnesium Glycinate (also known as Bisglycinate) is believed to offer superior availability of Magnesium to the body. It is intended to provide nutritive support for normal, healthy, muscle function."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Take 4 VegCaps daily with a meal or glass of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose capsule, magnesium stearate, cellulose, and silica."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not use if safety seal is broken or missing. Keep out of reach of children. Keep your licensed health care practitioner informed when using this product.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SOR-54901"
+  },
+  {
+   "label": "UPC",
+   "value": "076280549010"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.2 x 7.2 x 7.2 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 VegCaps"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Magnesium (from Magnesium Bisglycinate)",
+   "350 mg",
+   "83%"
+  ],
+  [
+   "BioPerine® Black Pepper Extract (Piper nigrum)(fruit)",
+   "5 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 vegcaps"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "112971",
+   "url": "https://th.iherb.com/pr/solaray-high-absorption-magnesium-glycinate-120-vegcaps/112971",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "112970",
+   "url": "https://th.iherb.com/pr/solaray-high-absorption-magnesium-glycinate-240-vegcaps/112970",
+   "price": "฿997.32",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#8 in",
+   "category": "Magnesium Glycinate",
+   "href": "/c/magnesium-glycinate?sr=2"
+  },
+  {
+   "rank": "#10 in",
+   "category": "Magnesium",
+   "href": "/c/magnesium?sr=2"
+  },
+  {
+   "rank": "#10 in",
+   "category": "Sleep",
+   "href": "/c/sleep?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿547.93",
+  "฿547.93",
+  "฿18.26/‏serving",
+  "{0}% off code: {1}",
+  "฿547.93",
+  "Save 0% in cart",
+  "฿18.26/‏serving",
+  "฿547.93",
+  "(0% off)",
+  "฿547.93",
+  "฿18.26/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/g/30.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/k/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/g/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sor/sor54901/s/29.jpg"
+ ]
+}

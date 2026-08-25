@@ -1,0 +1,238 @@
+{
+ "pid": "146366",
+ "slug": "vitamatic-magnesium-malate-with-b6-90-vegetarian-tablets",
+ "scrapedAt": "2026-08-25T17:34:23.018Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-magnesium-malate-with-b6-90-vegetarian-tablets.jpg",
+  "/products/iherb/vitamatic-magnesium-malate-with-b6-90-vegetarian-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-magnesium-malate-with-b6-90-vegetarian-tablets/146366",
+ "pageTitle": "Vitamatic, Magnesium Malate with B6, 90 Vegetarian Tablets",
+ "h1": "Vitamatic, Magnesium Malate with B6, 90 Vegetarian Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "146366",
+  "name": "Vitamatic, Magnesium Malate with B6, 90 Vegetarian Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/g/40.jpg",
+  "mpn": "VMC-47401",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 809
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.34",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "492.15",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "2000 mg Per Serving An Essential Mineral GMP Quality Assured Dietary Supplement Non GMO",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47401",
+  "gtin12": "810078474012",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Malate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "2000 mg Per Serving",
+    "An Essential Mineral",
+    "GMP Quality Assured",
+    "Dietary Supplement",
+    "Non GMO"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 2 tablets daily with 8 to 12 oz of water or as directed by your healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, dicalcium phosphate, croscarmellose sodium, stearic acid, silicon dioxide, vegetable magnesium stearate, hypromellose, peg, titanium dioxide.",
+    "Free of sugar, yeast, wheat, egg, artificial colors, flavors, and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Stop use immediately and consult your health-care provider if you experience any adverse effects. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47401"
+  },
+  {
+   "label": "UPC",
+   "value": "810078474012"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 5.6 x 5.6 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin B6",
+   "10 mg",
+   "588%"
+  ],
+  [
+   "Magnesium (From Magnesium Malate)",
+   "600 mg",
+   "141%"
+  ],
+  [
+   "Magnesium Malate",
+   "2000 mg",
+   "+"
+  ],
+  [
+   "+Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "+Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿492.15",
+  "฿492.15",
+  "฿10.94/‏serving",
+  "{0}% off code: {1}",
+  "฿492.15",
+  "Save 0% in cart",
+  "฿10.94/‏serving",
+  "฿492.15",
+  "(0% off)",
+  "฿492.15",
+  "฿10.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47401/s/46.jpg"
+ ]
+}

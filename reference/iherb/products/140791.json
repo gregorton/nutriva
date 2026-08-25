@@ -1,0 +1,226 @@
+{
+ "pid": "140791",
+ "slug": "jym-supplement-science-probio-performance-probiotic-30-billion-cfu-30",
+ "scrapedAt": "2026-08-25T17:25:58.220Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/jym-supplement-science-probio-performance-probiotic-30-billion-cfu-30.jpg",
+  "/products/iherb/jym-supplement-science-probio-performance-probiotic-30-billion-cfu-30-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/jym-supplement-science-probio-performance-probiotic-30-billion-cfu-30-vegetarian-capsules/140791",
+ "pageTitle": "JYM Supplement Science, Probio, Performance Probiotic , 30 Billion CFU, 30 Vegetarian Capsules",
+ "h1": "JYM Supplement Science, Probio, Performance Probiotic , 30 Billion CFU, 30 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "140791",
+  "name": "JYM Supplement Science, Probio, Performance Probiotic , 30 Billion CFU, 30 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/g/8.jpg",
+  "mpn": "JYM-02459",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 11
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "JYM Supplement Science",
+   "url": "https://www.jymsupplementscience.com/",
+   "identifier": "JYM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1017.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "30 Billion CFU Per Serving 11 Probiotic Strains Gut Health Supplement To Support Healthy Digestion Dietary Supplement Gluten and Soy Free Made In A GMP Certified Facility Experience profound transformation with Dr. Jim Stoppani's unique supplement, crafted for goal-driven athletes. Fortify your health and accelerate your performance as Team JYM introduces an innovative probiotic formulation, designed to meet the high demands of the JYM ARMY. Boost your physique and pride, don't settle for ordinary.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "JYM-02459",
+  "gtin12": "817047024599",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "JYM-02459"
+  },
+  {
+   "label": "UPC",
+   "value": "817047024599"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5 x 5 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "JYM PROBIO™ Probiotics (30 Billion CFU)",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus gasseri (as LG08) (10.29 Billion CFU)",
+   "100 mg",
+   ""
+  ],
+  [
+   "Lactobacillus casei (as Lc-11®) (10.71 Billion CFU)",
+   "69.5 mg",
+   ""
+  ],
+  [
+   "Bacillus subtilis (as DE111®) (5 Billion CFU)",
+   "55 mg",
+   ""
+  ],
+  [
+   "Lactobacillus helveticus (as LH76) (0.56 Billion CFU)",
+   "20 mg",
+   ""
+  ],
+  [
+   "Bifidobacterium longum (as Bl-05™) (0.56 Billion CFU)",
+   "10 mg",
+   ""
+  ],
+  [
+   "Bacillus coagulans (as UABC-20™) (0.62 Billion CFU)",
+   "7.33 mg",
+   ""
+  ],
+  [
+   "Lactobacillus acidophilus (LA-14®) (0.56 Billion CFU)",
+   "5 mg",
+   ""
+  ],
+  [
+   "Lactobacillus reuteri (as LR08) (0.56 Billion CFU)",
+   "5 mg",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus (as GG) (0.56 Billion CFU)",
+   "2.85 mg",
+   ""
+  ],
+  [
+   "Bifidobacterium bifidum, Bifidobacterium lactis(as Bb-02™) (0.58 Billion CFU)",
+   "2.3 mg",
+   ""
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 CapsuleServings Per Container: 30 Amount Per Serving%Daily Value* JYM PROBIO™ Probiotics (30 Billion CFU)   Lactobacillus gasseri (as LG08) (10.29 Billion CFU)100 mg  Lactobacillus casei (as Lc-11®) (10.71 Billion CFU)69.5 mg   Bacillus subtilis (as DE111®) (5 Billion CFU)55 mg   Lactobacillus helveticus (as LH76) (0.56 Billion CFU)20 mg   Bifidobacterium longum (as Bl-05™) (0.56 Billion CFU)10 mg   Bacillus coagulans (as UABC-20™) (0.62 Billion CFU)7.33 mg   Lactobacillus acidophilus (LA-14®) (0.56 Billion CFU)5 mg   Lactobacillus reuteri (as LR08) (0.56 Billion CFU)5 mg   Lactobacillus rhamnosus (as GG) (0.56 Billion CFU)2.85 mg   Bifidobacterium bifidum, Bifidobacterium lactis(as Bb-02™) (0.58 Billion CFU)2.3 mg  †Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "California Gold Nutrition, LactoBif® 65 Probiotics, 30 Veggie Capsules",
+  "12,942",
+  "฿853.06"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jym/jym02459/s/11.jpg"
+ ]
+}

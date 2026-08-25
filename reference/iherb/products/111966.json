@@ -1,0 +1,254 @@
+{
+ "pid": "111966",
+ "slug": "mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74",
+ "scrapedAt": "2026-08-25T17:45:05.652Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74.jpg",
+  "/products/iherb/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74-2.jpg",
+  "/products/iherb/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74-3.jpg",
+  "/products/iherb/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74-ml/111966",
+ "pageTitle": "Mild By Nature, Hydrating Body Lotion, Lavender Lemongrass, 2.5 fl oz (74 ml)",
+ "h1": "Mild By Nature, Hydrating Body Lotion, Lavender Lemongrass, 2.5 fl oz (74 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "111966",
+  "name": "Mild By Nature, Hydrating Body Lotion, Lavender Lemongrass, 2.5 fl oz (74 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/g/66.jpg",
+  "mpn": "MBN-02153",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 6848
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "74.14",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "186.20",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-27T00:00:00"
+  },
+  "description": "Mild by Nature Hydrating Body Lotion, Lavender Lemongrass Aloe Vera, Vitamin E, Lavender, and Lemongrass Oils Calendula, Echinacea and Green Tea Extracts pH Balanced and Cruelty-Free For Soft, Smooth, Healthier-Looking Skin Formulated Without Sulfates, Parabens or Phthalates Made in the USA with Globally Sourced Materials Dry skin is a common problem that can leave your skin feeling tight, itchy, and uncomfortable. Mild by Nature Hydrating Body Lotion offers a soothing formula to moisturize dry skin and help alleviate irritation. This rejuvenating body lotion features aloe vera and vitamin E, as well as extracts from calendula, echinacea, and green tea to help you achieve softer, smoother, and healthier-looking skin. Our Lavender Lemongrass lotion is infused with lavender and lemongrass oils for a refreshing, subtle scent that will help calm your skin and your senses. Use this moisturizing lotion daily to see best results and enjoy happier, healthier skin.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.7"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02153",
+  "gtin12": "898220021536",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/g/66.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Body Care",
+  "Lotion"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild by Nature Hydrating Body Lotion, Lavender Lemongrass",
+    "Aloe Vera, Vitamin E, Lavender, and Lemongrass Oils",
+    "Calendula, Echinacea and Green Tea Extracts",
+    "pH Balanced and Cruelty-Free",
+    "For Soft, Smooth, Healthier-Looking Skin",
+    "Formulated Without Sulfates, Parabens or Phthalates",
+    "Made in the USA with Globally Sourced Materials"
+   ],
+   "paragraphs": [
+    "Dry skin is a common problem that can leave your skin feeling tight, itchy, and uncomfortable. Mild by Nature Hydrating Body Lotion offers a soothing formula to moisturize dry skin and help alleviate irritation. This rejuvenating body lotion features aloe vera and vitamin E, as well as extracts from calendula, echinacea, and green tea to help you achieve softer, smoother, and healthier-looking skin.",
+    "Our Lavender Lemongrass lotion is infused with lavender and lemongrass oils for a refreshing, subtle scent that will help calm your skin and your senses. Use this moisturizing lotion daily to see best results and enjoy happier, healthier skin."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Massage into skin to hydrate and moisturize as needed. Best when applied daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Stearic Acid, Carthamus Tinctorius (Safflower) Seed Oil, Glyceryl Stearate, Glycerin, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Butyrospermum Parkii (Shea) Nut Butter *, Lavandula Angustifolia (Lavender) Oil, Lavandula Hybrida Oil *, Cymbopogon Schoenanthus (Lemongrass) Oil, Tocopheryl Acetate (Vitamin E), Cocos Nucifera (Coconut) Oil, Aloe Barbadensis Inner Leaf Juice *, Calendula Officinalis (Marigold) Flower Extract *, Chamomilla Recutita (Matricaria) Flower Extract *, Camellia Sinensis (Green Tea) Leaf Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, Citrus Grandis (Grapefruit) Fruit Extract, Laminaria Digitata (Kelp) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Passiflora Incarnata (Passion) Flower Extract, Rosa Canina (Rosehip) Fruit Extract, Dimethicone, Phenoxyethanol, Aminomethyl Propanol, Lecithin, Sodium Acrylates Copolymer, Ethylhexylglycerin, Linalool, Coumarin, Sodium Citrate, Tetrasodium EDTA, Fragrance.",
+    "*Certified Organic Ingredient"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "For external use only.",
+    "Avoid contact with eyes.",
+    "Keep out of reach of children.",
+    "Discontinue use if irritation occurs."
+   ],
+   "paragraphs": []
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02153"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021536"
+  },
+  {
+   "label": "Package quantity",
+   "value": "74 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 4.6 x 4.3 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "74 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Cruelty-free",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "74 ml",
+   "pid": "111966",
+   "url": "https://th.iherb.com/pr/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-2-5-fl-oz-74-ml/111966",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "236 ml",
+   "pid": "111965",
+   "url": "https://th.iherb.com/pr/mild-by-nature-hydrating-body-lotion-lavender-lemongrass-8-fl-oz-236-ml/111965",
+   "price": null,
+   "outOfStock": true,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#14 in",
+   "category": "Lotion",
+   "href": "/c/lotion?sr=2"
+  },
+  {
+   "rank": "#23 in",
+   "category": "Vitamin E Skin Care",
+   "href": "/c/vitamin-e-skin-care?sr=2"
+  },
+  {
+   "rank": "#27 in",
+   "category": "Body Care",
+   "href": "/c/body-care?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock - Only 4 left, more to come",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿186.20",
+  "฿186.20",
+  "฿2.52/‏ml",
+  "{0}% off code: {1}",
+  "฿186.20",
+  "Save 60% in cart",
+  "฿2.52/‏ml",
+  "฿74.14",
+  "(60% off)",
+  "฿186.20",
+  "฿1.00/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/g/66.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/k/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/g/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02153/b/66.jpg"
+ ]
+}

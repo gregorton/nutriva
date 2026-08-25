@@ -1,0 +1,259 @@
+{
+ "pid": "103274",
+ "slug": "california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs",
+ "scrapedAt": "2026-08-25T17:11:38.017Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "20K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs-2.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs-3.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs-240-veggie-capsules-100-mg-per-capsule/103274",
+ "pageTitle": "California Gold Nutrition, Magnesium Bisglycinate Chelate, Albion TRAACS®, 240 Veggie Capsules (100 mg per Capsule)",
+ "h1": "California Gold Nutrition, Magnesium Bisglycinate Chelate, Albion TRAACS®, 240 Veggie Capsules (100 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103274",
+  "name": "California Gold Nutrition, Magnesium Bisglycinate Chelate, Albion TRAACS®, 240 Veggie Capsules (100 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/g/106.jpg",
+  "mpn": "CGN-01902",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 27313
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.53",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "971.32",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Highly Absorbable Bisglycinate Chelate Form Albion® TRAACS Chelated Minerals Bioavailable and Gentle Form of Magnesium Supports Bone, Heart, Nerve, Muscle & Sleep* Suitable for Vegetarians and Vegans Non-GMO · Gluten Free · Soy Free · Vegan California Gold Nutrition® Magnesium Bisglycinate contains a high-absorption form of magnesium bisglycinate chelate made with TRAACS®. This branded ingredient, which stands for “The Real Amino Acid Chelate System,'' was created by Albion Laboratories and has been validated through a number of patents and published research studies. Research suggests that when compared to other forms, magnesium bisglycinate chelate is four times more absorbable than magnesium oxide.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.05x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01902",
+  "gtin12": "898220019021",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/g/106.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Highly Absorbable Bisglycinate Chelate Form",
+    "Albion® TRAACS Chelated Minerals",
+    "Bioavailable and Gentle Form of Magnesium",
+    "Supports Bone, Heart, Nerve, Muscle & Sleep*",
+    "Suitable for Vegetarians and Vegans",
+    "Non-GMO · Gluten Free · Soy Free · Vegan"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Magnesium Bisglycinate contains a high-absorption form of magnesium bisglycinate chelate made with TRAACS®. This branded ingredient, which stands for “The Real Amino Acid Chelate System,'' was created by Albion Laboratories and has been validated through a number of patents and published research studies. Research suggests that when compared to other forms, magnesium bisglycinate chelate is four times more absorbable than magnesium oxide.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01902"
+  },
+  {
+   "label": "UPC",
+   "value": "898220019021"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.4 x 7.7 x 7.7 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (from Magnesium Bisglycinate Chelate, Magnesium Oxide)",
+   "200 mg",
+   "48%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "103273",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs-60-veggie-capsules-100-mg-per-capsule/103273",
+   "price": "฿315.11",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "103274",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-bisglycinate-chelate-albion-traacs-240-veggie-capsules-100-mg-per-capsule/103274",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Magnesium Oxide",
+   "href": "/c/magnesium-oxide?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Magnesium Glycinate",
+   "href": "/c/magnesium-glycinate?sr=2"
+  },
+  {
+   "rank": "#6 in",
+   "category": "Magnesium",
+   "href": "/c/magnesium?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "20,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿971.32",
+  "฿971.32",
+  "฿8.09/‏serving",
+  "{0}% off code: {1}",
+  "฿971.32",
+  "Save 0% in cart",
+  "฿8.09/‏serving",
+  "฿971.32",
+  "(0% off)",
+  "฿971.32",
+  "฿8.09/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/g/106.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/k/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/g/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/s/111.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/s/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/s/79.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01902/s/114.jpg"
+ ]
+}

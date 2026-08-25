@@ -1,0 +1,232 @@
+{
+ "pid": "118379",
+ "slug": "swanson-vitamins-vitamin-c-250-tablets",
+ "scrapedAt": "2026-08-25T17:37:35.952Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-vitamin-c-250-tablets.jpg",
+  "/products/iherb/swanson-vitamins-vitamin-c-250-tablets-2.jpg",
+  "/products/iherb/swanson-vitamins-vitamin-c-250-tablets-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-vitamin-c-250-tablets/118379",
+ "pageTitle": "Swanson Vitamins, Vitamin C, 250 Tablets",
+ "h1": "Swanson Vitamins, Vitamin C, 250 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "118379",
+  "name": "Swanson Vitamins, Vitamin C, 250 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/g/24.jpg",
+  "mpn": "SWV-01946",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 131
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1087.29",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Buffered Vitamin C with Bioflavonoids Immune Health Gentle On The Stomach Vitamin Supplement Boosts Immune System Function and Antioxidant Reserve Buffered with Minerals to Prevent Potential Stomach Upset Helps Combat Free Radical Damage Science-Backed Quality Since 1969 For a powerful boost of antioxidant protection that won't upset your stomach, Swanson Buffered C with Bioflavonoids is an excellent choice. It features a unique form of vitamin C that's bonded to calcium through a special process that neutralizes the vitamin's acidity, making it gentler on the stomach—but that's not all. Each capsule also includes 200 mg of natural citrus bioflavonoids that promote efficient assimilation of vitamin C and enhance its antioxidant potency.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-01946",
+  "gtin12": "087614019468",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Buffered Vitamin C with Bioflavonoids",
+    "Immune Health",
+    "Gentle On The Stomach",
+    "Vitamin Supplement",
+    "Boosts Immune System Function and Antioxidant Reserve",
+    "Buffered with Minerals to Prevent Potential Stomach Upset",
+    "Helps Combat Free Radical Damage",
+    "Science-Backed Quality Since 1969"
+   ],
+   "paragraphs": [
+    "For a powerful boost of antioxidant protection that won't upset your stomach, Swanson Buffered C with Bioflavonoids is an excellent choice. It features a unique form of vitamin C that's bonded to calcium through a special process that neutralizes the vitamin's acidity, making it gentler on the stomach—but that's not all. Each capsule also includes 200 mg of natural citrus bioflavonoids that promote efficient assimilation of vitamin C and enhance its antioxidant potency."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one tablet per day with water or as recommended by your healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose (plant fiber), stearic acid, croscarmellose sodium, magnesium stearate, hydroxypropyl methylcellulose, silica, pharmaceutical glaze."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult your healthcare provider before using this or any product if you are pregnant or nursing, taking medication or have a medical condition.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.59 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-01946"
+  },
+  {
+   "label": "UPC",
+   "value": "087614019468"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.6 x 8 x 8 cm, 0.59 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (from calcium ascorbate)",
+   "1,000 mg",
+   "1,111%"
+  ],
+  [
+   "Calcium (from calcium ascorbate)",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "Bioflavonoids [from citrus bioflavonoids (Citrus aurantium)(skin)]",
+   "200 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "250"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,087.29",
+  "฿1,087.29",
+  "฿4.35/‏serving",
+  "{0}% off code: {1}",
+  "฿1,087.29",
+  "Save 0% in cart",
+  "฿4.35/‏serving",
+  "฿1,087.29",
+  "(0% off)",
+  "฿1,087.29",
+  "฿4.35/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv01946/s/32.jpg"
+ ]
+}

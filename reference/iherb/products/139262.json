@@ -1,0 +1,256 @@
+{
+ "pid": "139262",
+ "slug": "california-gold-nutrition-l-glutamine-l-leucine-unflavored-15-87-oz-45",
+ "scrapedAt": "2026-08-25T17:48:13.896Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-unflavored-15-87-oz-45.jpg",
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-unflavored-15-87-oz-45-2.jpg",
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-unflavored-15-87-oz-45-3.jpg",
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-unflavored-15-87-oz-45-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-l-glutamine-l-leucine-unflavored-15-87-oz-450-g/139262",
+ "pageTitle": "California Gold Nutrition, L-Glutamine + L-Leucine, Unflavored, 15.87 oz (450 g)",
+ "h1": "California Gold Nutrition, L-Glutamine + L-Leucine, Unflavored, 15.87 oz (450 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139262",
+  "name": "California Gold Nutrition, L-Glutamine + L-Leucine, Unflavored, 15.87 oz (450 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/g/29.jpg",
+  "mpn": "SPN-02479",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 383
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.27",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "735.77",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "919.71",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "2.5 g of L-Glutamine and 2.5 g of L-Leucine Per Serving Featuring AjiPure® L-Glutamine & L-Leucine Unflavored Suitable for Vegetarians or Vegans Formulated Without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility iTested Quality California Gold Nutrition® L-Glutamine + L-Leucine, 5 g combines AjiPure® Quality L-Glutamine and L-Leucine, in a 1:1 ratio, ideal for individuals looking to support muscle performance, recovery, and strength.* These premium L-form amino acids support muscle endurance, muscle protein synthesis, and overall muscle health.* The unflavored powder can be quickly added to the beverage of your choice. L-Glutamine is a conditionally essential amino acid and the most abundant in human muscle tissue, aiding in muscle repair and boosting immune function.* L-Leucine, an essential Branched Chain Amino Acid (BCAA), stimulates the mTOR pathway to promote muscle protein synthesis and enhance strength performance.* Together, these amino acids are ideal for improving muscle endurance, building lean muscle mass, and accelerating recovery after exercise.* L-Glutamine & L-Leucine are sourced exclusively from AjiPure® and are produced through a patented Ferment-AjiPure® Technology, ensuring pharmaceutical-grade purity without any animal products, making it suitable for vegetarians and vegans. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.9x4.9"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02479",
+  "gtin12": "898220024797",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/g/29.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Amino Acids",
+  "L-Glutamine"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "2.5 g of L-Glutamine and 2.5 g of L-Leucine Per Serving",
+    "Featuring AjiPure® L-Glutamine & L-Leucine",
+    "Unflavored",
+    "Suitable for Vegetarians or Vegans",
+    "Formulated Without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "iTested Quality"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® L-Glutamine + L-Leucine, 5 g combines AjiPure® Quality L-Glutamine and L-Leucine, in a 1:1 ratio, ideal for individuals looking to support muscle performance, recovery, and strength.* These premium L-form amino acids support muscle endurance, muscle protein synthesis, and overall muscle health.* The unflavored powder can be quickly added to the beverage of your choice.",
+    "L-Glutamine is a conditionally essential amino acid and the most abundant in human muscle tissue, aiding in muscle repair and boosting immune function.* L-Leucine, an essential Branched Chain Amino Acid (BCAA), stimulates the mTOR pathway to promote muscle protein synthesis and enhance strength performance.* Together, these amino acids are ideal for improving muscle endurance, building lean muscle mass, and accelerating recovery after exercise.*",
+    "L-Glutamine & L-Leucine are sourced exclusively from AjiPure® and are produced through a patented Ferment-AjiPure® Technology, ensuring pharmaceutical-grade purity without any animal products, making it suitable for vegetarians and vegans.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 scoop daily with 8-10 ounces of water or the beverage of your choice. For best results, use a blender-type bottle or shaker cup. Best when taken as directed by a qualified healthcare professional.",
+    "Note: 5 grams per scoop is an average. Individual scooping technique may yield slightly less than or slightly more than 5 grams"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.58 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02479"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024797"
+  },
+  {
+   "label": "Package quantity",
+   "value": "450 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 12.4 x 12.4 cm, 0.58 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (5 g)"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "25",
+   ""
+  ],
+  [
+   "L-Glutamine",
+   "2.5 g",
+   "†"
+  ],
+  [
+   "L-Leucine",
+   "2.5 g",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿919.71",
+  "฿919.71",
+  "฿10.22/‏serving",
+  "{0}% off code: {1}",
+  "฿919.71",
+  "Save 20% in cart",
+  "฿10.22/‏serving",
+  "฿735.77",
+  "(20% off)",
+  "฿919.71",
+  "฿8.18/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/g/29.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/k/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/g/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02479/s/20.jpg"
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "pid": "83688",
+ "slug": "earthtone-foods-grass-fed-collagen-peptides-16-oz-454-g",
+ "scrapedAt": "2026-08-25T17:32:05.611Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/earthtone-foods-grass-fed-collagen-peptides-16-oz-454-g.jpg",
+  "/products/iherb/earthtone-foods-grass-fed-collagen-peptides-16-oz-454-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/earthtone-foods-grass-fed-collagen-peptides-16-oz-454-g/83688",
+ "pageTitle": "Earthtone Foods, Grass-Fed Collagen Peptides, 16 oz (454 g)",
+ "h1": "Earthtone Foods, Grass-Fed Collagen Peptides, 16 oz (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "83688",
+  "name": "Earthtone Foods, Grass-Fed Collagen Peptides, 16 oz (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/g/20.jpg",
+  "mpn": "ERT-37381",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 7381
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Earthtone Foods",
+   "url": "https://www.earthtone.life",
+   "identifier": "ERT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.02",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "964.80",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "The Essential Beauty Protein Pasture-Raised & Non-GMO Replenish Your Body's Collagen Supply for Lasting Beauty and Youthfulness Dietary Supplement Vital Nutrients In The Colors Of The Earth Food is life. We depend on it for sustenance, for pleasure, for culture and well-being. And yet our modern lifestyles and industrialized food can sometimes make our Earth's most basic, soul-strengthening nutrients seem out of reach. Earthtone Foods is here to bring those amazing ingredients back into your life. We know the best nourishment comes straight from the heart of nature, not science labs. We also prioritize amazing nutrition over costly marketing campaigns. By making nature's nutrients accessible to all, we're here to make sure modern living can also mean a great life. Reimagine Your Beauty Routine Lasting beauty comes from the most basic elements: your skin, your hair, the right nutrients to nourish your body. Collagen is your body's foundational beauty protein. By replenishing the collagen production that starts to decline in your 20s, you'll restore your glowing skin, healthy hair, strong nails, and pliable joints. Just add a spoonful or two to your day, and you just might attain a beauty that lasts longer than your lipstick.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.4x3.8"
+  },
+  "isRelatedTo": null,
+  "sku": "ERT-37381",
+  "gtin12": "760488373811",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/g/20.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "The Essential Beauty Protein",
+    "Pasture-Raised & Non-GMO",
+    "Replenish Your Body's Collagen Supply for Lasting Beauty and Youthfulness",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Vital Nutrients In The Colors Of The Earth",
+    "Food is life. We depend on it for sustenance, for pleasure, for culture and well-being. And yet our modern lifestyles and industrialized food can sometimes make our Earth's most basic, soul-strengthening nutrients seem out of reach.",
+    "Earthtone Foods is here to bring those amazing ingredients back into your life. We know the best nourishment comes straight from the heart of nature, not science labs. We also prioritize amazing nutrition over costly marketing campaigns. By making nature's nutrients accessible to all, we're here to make sure modern living can also mean a great life.",
+    "Reimagine Your Beauty Routine",
+    "Lasting beauty comes from the most basic elements: your skin, your hair, the right nutrients to nourish your body. Collagen is your body's foundational beauty protein. By replenishing the collagen production that starts to decline in your 20s, you'll restore your glowing skin, healthy hair, strong nails, and pliable joints. Just add a spoonful or two to your day, and you just might attain a beauty that lasts longer than your lipstick."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Stir one or two teaspoons of collagen into coffee, smoothies, and other beverages until fully dissolved."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Free of all common allergens, including wheat, gluten, dairy, peanut, tree nut and soy.",
+    "Pasture raised and processed in Brazil"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep the product sealed in a cool, dry place. Do not refrigerate."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.87 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ERT-37381"
+  },
+  {
+   "label": "UPC",
+   "value": "760488373811"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "24.3 x 18.8 x 9.7 cm, 0.46 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tbsp. (12 g)"
+  ],
+  [
+   "Servings Per Container: About 38"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV*"
+  ],
+  [
+   "Calories",
+   "45",
+   ""
+  ],
+  [
+   "Protein",
+   "11 g",
+   ""
+  ],
+  [
+   "Sodium",
+   "12 mg",
+   "1%"
+  ],
+  [
+   "Hydrolyzed Bovine Collagen Peptides",
+   "12 g",
+   ""
+  ],
+  [
+   "*Percent Daily Value (DV) are based on a 2,000 calories diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Value (DV) are based on a 2,000 calories diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tbsp"
+    },
+    {
+     "label": "Total servings",
+     "value": "38"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Peanut-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "454 g",
+   "pid": "83688",
+   "url": "https://th.iherb.com/pr/earthtone-foods-grass-fed-collagen-peptides-16-oz-454-g/83688",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "907 g",
+   "pid": "101377",
+   "url": "https://th.iherb.com/pr/earthtone-foods-grass-fed-collagen-peptides-32-oz-907-g/101377",
+   "price": "฿1,728.75",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿964.80",
+  "฿964.80",
+  "฿25.39/‏serving",
+  "{0}% off code: {1}",
+  "฿964.80",
+  "Save 0% in cart",
+  "฿25.39/‏serving",
+  "฿964.80",
+  "(0% off)",
+  "฿964.80",
+  "฿25.39/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/g/20.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/k/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/g/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ert/ert37381/s/21.jpg"
+ ]
+}

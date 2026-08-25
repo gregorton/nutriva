@@ -1,0 +1,255 @@
+{
+ "pid": "107240",
+ "slug": "california-gold-nutrition-beauty-menopause-support-with-angelica-gigas",
+ "scrapedAt": "2026-08-25T17:46:42.132Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas.jpg",
+  "/products/iherb/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas-2.jpg",
+  "/products/iherb/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas-3.jpg",
+  "/products/iherb/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas-cynanchum-wilfordii-phlomis-umbrosa-and-l-leucine-30-veggie-capsules/107240",
+ "pageTitle": "California Gold Nutrition, Beauty, Menopause Support with Angelica gigas, Cynanchum wilfordii, Phlomis umbrosa and L-Leucine, 30 Veggie Capsules",
+ "h1": "California Gold Nutrition, Beauty, Menopause Support with Angelica gigas, Cynanchum wilfordii, Phlomis umbrosa and L-Leucine, 30 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "107240",
+  "name": "California Gold Nutrition, Beauty, Menopause Support with Angelica gigas, Cynanchum wilfordii, Phlomis umbrosa and L-Leucine, 30 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/g/54.jpg",
+  "mpn": "CGN-02061",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 6106
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "454.01",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "605.35",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Contains Angelica gigas, Cynanchum wilfordii, and Phlomis umbrosa Suitable for Vegetarians California Gold Nutrition® Beauty Menopause Support is formulated with EstroG-100® and contains three herbal root extracts to help naturally relieve common menopause symptoms, including hot flashes and night sweats.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x1.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02061",
+  "gtin12": "898220020614",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Women's Health",
+  "Perimenopause & Menopause Support"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Contains Angelica gigas, Cynanchum wilfordii, and Phlomis umbrosa",
+    "Suitable for Vegetarians"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Beauty Menopause Support is formulated with EstroG-100® and contains three herbal root extracts to help naturally relieve common menopause symptoms, including hot flashes and night sweats.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g ., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02061"
+  },
+  {
+   "label": "UPC",
+   "value": "898220020614"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.8 x 5.1 x 4.7 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Menopause Support BlendAngelica gigas (root), Cynanchum wilfordii (root), Phlomis umbrosa (root)",
+   "514 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "107240",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas-cynanchum-wilfordii-phlomis-umbrosa-and-l-leucine-30-veggie-capsules/107240",
+   "price": "฿454.01",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "107239",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-beauty-menopause-support-with-angelica-gigas-cynanchum-wilfordii-phlomis-umbrosa-and-l-leucine-90-veggie-capsules/107239",
+   "price": "฿1,523.21",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿605.35",
+  "฿605.35",
+  "฿20.18/‏serving",
+  "{0}% off code: {1}",
+  "฿605.35",
+  "Save 25% in cart",
+  "฿20.18/‏serving",
+  "฿454.01",
+  "(25% off)",
+  "฿605.35",
+  "฿15.13/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/136.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02061/s/64.jpg"
+ ]
+}

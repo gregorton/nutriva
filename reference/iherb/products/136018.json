@@ -1,0 +1,308 @@
+{
+ "pid": "136018",
+ "slug": "maryruth-s-organic-kids-multivitamin-gummies-mixed-berry-cherry-60-gum",
+ "scrapedAt": "2026-08-25T17:15:25.885Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/maryruth-s-organic-kids-multivitamin-gummies-mixed-berry-cherry-60-gum.jpg",
+  "/products/iherb/maryruth-s-organic-kids-multivitamin-gummies-mixed-berry-cherry-60-gum-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/maryruth-s-organic-kids-multivitamin-gummies-mixed-berry-cherry-60-gummies/136018",
+ "pageTitle": "MaryRuth's, Organic Kids Multivitamin Gummies, Mixed Berry & Cherry, 60 Gummies",
+ "h1": "MaryRuth's, Organic Kids Multivitamin Gummies, Mixed Berry & Cherry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "136018",
+  "name": "MaryRuth's, Organic Kids Multivitamin Gummies, Mixed Berry & Cherry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/g/24.jpg",
+  "mpn": "MRO-62029",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 297
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MaryRuth's",
+   "url": "https://www.maryruthorganics.com/",
+   "identifier": "MRO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.55",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "642.70",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "USDA Organic Vegan Non GMO 200 mcg DFE Methylfolate per 2 Gummies Dietary Supplement Certified Organic by CAAE Make vitamins the easiest part of your little one’s day! Our Organic Kids Multivitamin Gummies are packed with vitamins and minerals to help support wellness as they grow. With a delicious fruity taste and a formula made just for kids, these gummies provide nutrients that play a role in immune support, bone health, skin health, vision, metabolism, and more.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "MRO-62029",
+  "gtin12": "810104620291",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "USDA Organic",
+    "Vegan",
+    "Non GMO",
+    "200 mcg DFE Methylfolate per 2 Gummies",
+    "Dietary Supplement",
+    "Certified Organic by CAAE"
+   ],
+   "paragraphs": [
+    "Make vitamins the easiest part of your little one’s day! Our Organic Kids Multivitamin Gummies are packed with vitamins and minerals to help support wellness as they grow. With a delicious fruity taste and a formula made just for kids, these gummies provide nutrients that play a role in immune support, bone health, skin health, vision, metabolism, and more."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Ages 4+, take up to 2 gummies per day or as recommended by a physician or healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic glucose syrup, organic cane sugar, purified water, pectin, organic maltodextrin, citric acid, organic sunflower oil, organic vegetable juice color, organic fruit juice color, natural flavors, organic carnauba wax, and sodium citrate.",
+    "This product is made without: gelatin, peanuts, tree nuts, fish, shellfish, gluten, milk, eggs, soy, and sesame.",
+    "All ingredients are vegan and non-GMO."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed the recommended dose.",
+    "Keep out of reach of children.",
+    "We genuinely care about all our customers. Please consult with a physician or healthcare professional before starting any health supplement, especially if pregnant or lactating, taking medication, or if you have a medical diagnosis. Discontinue use if any negative reaction occurs."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MRO-62029"
+  },
+  {
+   "label": "UPC",
+   "value": "810104620291"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.3 x 6.9 x 6.9 cm, 0.25 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%*"
+  ],
+  [
+   "Total Sugars",
+   "4 g",
+   "†"
+  ],
+  [
+   "Includes 4 g Added Sugars",
+   "",
+   "8%*"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "200 mcg",
+   "22%"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid)",
+   "20 mg",
+   "22%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "6 mcg (240 IU)",
+   "30%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopherol Acetate)",
+   "7 mg",
+   "47%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine Hydrochloride)",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate (as Methylfolate)",
+   "200 mcg DFE",
+   "50%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin (as D-Biotin)",
+   "6 mcg",
+   "20%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium d-Pantothenate)",
+   "2 mg",
+   "40%"
+  ],
+  [
+   "Iodine (as Potassium Lodide)",
+   "40 mcg",
+   "27%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "2 mg",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿642.70",
+  "฿642.70",
+  "฿21.42/‏serving",
+  "{0}% off code: {1}",
+  "฿642.70",
+  "Save 0% in cart",
+  "฿21.42/‏serving",
+  "฿642.70",
+  "(0% off)",
+  "฿642.70",
+  "฿21.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro62029/s/30.jpg"
+ ]
+}

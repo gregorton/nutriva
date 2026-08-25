@@ -1,0 +1,288 @@
+{
+ "pid": "119902",
+ "slug": "new-chapter-immune-defense-vitamin-c-citrus-60-gummies",
+ "scrapedAt": "2026-08-25T17:20:21.350Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/new-chapter-immune-defense-vitamin-c-citrus-60-gummies.jpg",
+  "/products/iherb/new-chapter-immune-defense-vitamin-c-citrus-60-gummies-2.jpg",
+  "/products/iherb/new-chapter-immune-defense-vitamin-c-citrus-60-gummies-3.jpg",
+  "/products/iherb/new-chapter-immune-defense-vitamin-c-citrus-60-gummies-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/new-chapter-immune-defense-vitamin-c-citrus-60-gummies/119902",
+ "pageTitle": "New Chapter, Immune Defense Vitamin C+, Citrus, 60 Gummies",
+ "h1": "New Chapter, Immune Defense Vitamin C+, Citrus, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "119902",
+  "name": "New Chapter, Immune Defense Vitamin C+, Citrus, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/g/24.jpg",
+  "mpn": "NCR-90375",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 31
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "New Chapter",
+   "url": "http://www.newchapter.com/",
+   "identifier": "NCR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "409.60",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "666.10",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Formulated for Absorption Est. 1982 Made With Organic Fiber† Formulated for Absorption Dietary Supplement Non GMO Project Verified Gluten Free Certified B Corporation 100% Vegan Certified Organic by Where Food Comes From Organic Daily Immune Support: Excellent source of immune- Supportive vitamin c and zinc with complementary superfood acerola cherry.§ Only 2 g of sugar: Unlike most gummy vitamins made from just sugar, we packed vitamin c+ into 100% delicious gummies made with organic fiber. †Not a significant source of dietary fiber §Excellent source is defined as a nutrient delivering >20% DV per FDA",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "NCR-90375",
+  "gtin12": "727783903754",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Formulated for Absorption",
+    "Est. 1982",
+    "Made With Organic Fiber†",
+    "Formulated for Absorption",
+    "Dietary Supplement",
+    "Non GMO Project Verified",
+    "Gluten Free",
+    "Certified B Corporation",
+    "100% Vegan",
+    "Certified Organic by Where Food Comes From Organic"
+   ],
+   "paragraphs": [
+    "Daily Immune Support: Excellent source of immune- Supportive vitamin c and zinc with complementary superfood acerola cherry.§",
+    "Only 2 g of sugar: Unlike most gummy vitamins made from just sugar, we packed vitamin c+ into 100% delicious gummies made with organic fiber.",
+    "†Not a significant source of dietary fiber",
+    "§Excellent source is defined as a nutrient delivering >20% DV per FDA"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults, chew two gummies daily. Can be taken anytime, even on an empty stomach."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic tapioca syrup, organic inulin agave, organic cane sugar; less than 2% of: pectin, water, sodium citrate, citric acid, organic natural flavor, organic sunflower oil, organic carnauba wax, color (organic annatto) and bacillus coagulans mtcc 5856."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any dietary or herbal supplement, you should advise your healthcare professional of the use of this product if you are taking medication (especially immune suppressing drugs) or have a serious medical condition (especially if the immune system is compromised). If you are nursing, pregnant, or considering pregnancy, consult your healthcare professional prior to using this product. Discontinue use and contact a healthcare professional if you experience an allergic reaction or side effect. Avoid use if known sensitivity to any of the ingredients. Do not exceed suggested use. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCR-90375"
+  },
+  {
+   "label": "UPC",
+   "value": "727783903754"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.6 x 7.2 x 7.2 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%**"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "7%**"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "*"
+  ],
+  [
+   "Includes 2 g of Added Sugars",
+   "",
+   "4%**"
+  ],
+  [
+   "Sodium",
+   "12 mg",
+   "<1%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid, as sodium ascorbate and from organic acerola cherry)",
+   "125 mg",
+   "139%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "5.5 mg",
+   "50%"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿666.10",
+  "฿666.10",
+  "฿22.20/‏serving",
+  "{0}% off code: {1}",
+  "฿666.10",
+  "Save 39% in cart",
+  "฿22.20/‏serving",
+  "฿409.60",
+  "(39% off)",
+  "฿666.10",
+  "฿13.65/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90375/s/37.jpg"
+ ]
+}

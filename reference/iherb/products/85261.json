@@ -1,0 +1,282 @@
+{
+ "pid": "85261",
+ "slug": "garden-of-life-organics-turmeric-inflammatory-response-120-vegan-table",
+ "scrapedAt": "2026-08-25T17:39:44.060Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "400+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/garden-of-life-organics-turmeric-inflammatory-response-120-vegan-table.jpg",
+  "/products/iherb/garden-of-life-organics-turmeric-inflammatory-response-120-vegan-table-2.jpg",
+  "/products/iherb/garden-of-life-organics-turmeric-inflammatory-response-120-vegan-table-3.jpg",
+  "/products/iherb/garden-of-life-organics-turmeric-inflammatory-response-120-vegan-table-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/garden-of-life-organics-turmeric-inflammatory-response-120-vegan-tablets/85261",
+ "pageTitle": "Garden of Life, Organics, Turmeric, Inflammatory Response, 120 Vegan Tablets",
+ "h1": "Garden of Life, Organics, Turmeric, Inflammatory Response, 120 Vegan Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "85261",
+  "name": "Garden of Life, Organics, Turmeric, Inflammatory Response, 120 Vegan Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/g/54.jpg",
+  "mpn": "GOL-12289",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3685
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Garden of Life",
+   "url": "http://www.gardenoflife.com/",
+   "identifier": "GOL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.00",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1563.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Extra Strength USDA Organic Non-GMO Project Verified With Organic Fermented Whole Turmeric & Ginger Organic Black Pepper & Probiotics for Digestion Herbal Supplement Kosher Certified Organic by QCS Vegan Certified Certified Gluten-Free by NSF Traceable, Tested & True 3rd Party Audited Expertly Formulated The naturally occurring compounds found in Turmeric Root (especially Curcumin) support the body's antioxidant response, which, in turn, helps support health inflammatory functions. Our Extra Strength Turmeric contains 100 mg of Curcumin (more than our Turmeric Boost). To add synergistic benefits, we've added Organic Whole Turmeric and Ginger Root fermented to support their bioavailability. Supports the body's healthy inflammatory function. Supports the body's antioxidant response. Probiotics & organic black pepper extract for enhance digestion.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "GOL-12289",
+  "gtin12": "658010122894",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Extra Strength",
+    "USDA Organic",
+    "Non-GMO Project Verified",
+    "With Organic Fermented Whole Turmeric & Ginger",
+    "Organic Black Pepper & Probiotics for Digestion",
+    "Herbal Supplement",
+    "Kosher",
+    "Certified Organic by QCS",
+    "Vegan Certified",
+    "Certified Gluten-Free by NSF",
+    "Traceable, Tested & True",
+    "3rd Party Audited",
+    "Expertly Formulated",
+    "Supports the body's healthy inflammatory function.",
+    "Supports the body's antioxidant response.",
+    "Probiotics & organic black pepper extract for enhance digestion."
+   ],
+   "paragraphs": [
+    "The naturally occurring compounds found in Turmeric Root (especially Curcumin) support the body's antioxidant response, which, in turn, helps support health inflammatory functions.",
+    "Our Extra Strength Turmeric contains 100 mg of Curcumin (more than our Turmeric Boost). To add synergistic benefits, we've added Organic Whole Turmeric and Ginger Root fermented to support their bioavailability."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults 1 tablet daily. Not intended for children."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Clean Tablet Technology™ blend (patent pending): organic gum arabic, organic dextrose, organic coating (organic sunflower lecithin, organic tapioca maltodextrin, organic palm oil, organic guar gum).",
+    "Made without dairy or soy ingredients, peanuts, tree nuts or shellfish. Manufactured in a facility that also processes soy, egg, dairy, peanut, tree nuts, wheat, fish, shellfish and sesame.",
+    "Made in the U.S.A. from foods grown in the U.S.A. and other countries."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any dietary supplement, consult your healthcare practitioner before using this product, especially if you are pregnant, nursing, anticipate surgery, take medication on a regular basis or are otherwise under medical supervision.",
+    "Keep out of reach of children. Store in a cool, dry place. Do not use if safety seal is broken or missing.",
+    "Package size is determined by labeling information, not the number of servings in this container. The serving size and contents are clearly marked."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.45 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "GOL-12289"
+  },
+  {
+   "label": "UPC",
+   "value": "658010122894"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.7 x 7.2 x 7.2 cm, 0.46 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Organic Turmeric BlendOrganic Turmeric Root Extract standardized to 95% curcuminoids, Organic Fermented Turmeric Root (blend yielding 100 mg curcuminoids)",
+   "553 mg",
+   "†"
+  ],
+  [
+   "Organic Fermented Ginger Root",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Organic Black Pepper Fruit Extract",
+   "7 mg",
+   "†"
+  ],
+  [
+   "Probiotic Blend (1 Billion CFU)Bifidobacterium lactis Bl-04Lactobacillus acidophilus La-14",
+   "4 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "85258",
+   "url": "https://th.iherb.com/pr/garden-of-life-organics-turmeric-inflammatory-response-60-vegan-tablets/85258",
+   "price": "฿953.60",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "85261",
+   "url": "https://th.iherb.com/pr/garden-of-life-organics-turmeric-inflammatory-response-120-vegan-tablets/85261",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "400+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,563.00",
+  "฿1,563.00",
+  "฿13.03/‏serving",
+  "{0}% off code: {1}",
+  "฿1,563.00",
+  "Save 0% in cart",
+  "฿13.03/‏serving",
+  "฿1,563.00",
+  "(0% off)",
+  "฿1,563.00",
+  "฿13.03/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12289/s/59.jpg"
+ ]
+}

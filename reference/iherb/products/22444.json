@@ -1,0 +1,180 @@
+{
+ "pid": "22444",
+ "slug": "nature-s-way-pearls-complete-probiotic-1-billion-cfu-90-softgels",
+ "scrapedAt": "2026-08-25T17:33:36.383Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-pearls-complete-probiotic-1-billion-cfu-90-softgels.jpg",
+  "/products/iherb/nature-s-way-pearls-complete-probiotic-1-billion-cfu-90-softgels-2.jpg",
+  "/products/iherb/nature-s-way-pearls-complete-probiotic-1-billion-cfu-90-softgels-3.jpg",
+  "/products/iherb/nature-s-way-pearls-complete-probiotic-1-billion-cfu-90-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-pearls-complete-probiotic-1-billion-cfu-90-softgels/22444",
+ "pageTitle": "Nature's Way, Pearls®, Complete Probiotic, 1 Billion CFU, 90 Softgels",
+ "h1": "Nature's Way, Pearls®, Complete Probiotic, 1 Billion CFU, 90 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "22444",
+  "name": "Nature's Way, Pearls®, Complete Probiotic, 1 Billion CFU, 90 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/g/116.jpg",
+  "mpn": "EMT-04369",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 327
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "1446.93",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-30T00:00:00"
+  },
+  "description": "Small & Easy To Swallow Survives Stomach Acid 1 Billion Cultures Supports Digestive Balance, Regularity & Colon Health 7 Probiotic Strains Designed To Survive Stomach Acid Probiotic Supplement Once Daily No Refrigeration Required Howaru® Probiotic Quality You Can Feel Formulated with 7 Probiotic Strains For Digestive Balance Also Promotes Immune and Colon Health Protects against occasional bloating, constipation, and digestive discomfort Active Lactobacilli and Bifidobacteria cultures to benefit the small and large intestines Advanced triple-layer softgel survives stomach acid",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.75x1.4"
+  },
+  "isRelatedTo": null,
+  "sku": "EMT-04369",
+  "gtin12": "763948043699",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/g/116.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2010"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "EMT-04369"
+  },
+  {
+   "label": "UPC",
+   "value": "763948043699"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.4 x 9.5 x 3.6 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV**"
+  ],
+  [
+   "Proprietary Probiotic BlendProviding 1 Billion CFU:HOWARU® Lactobacillus acidophilus, NCFM®Lactobacillus rhamnosus Lr-32®, Bifidobacterium bifidum/ lactis Bb-02™, Bifidobacterium lactis BL-04®, Bifidobacterium longum BB536, Bifidobacterium breve M-16V",
+   "12 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 Softgel Amount Per Serving%DV**Proprietary Probiotic BlendProviding 1 Billion CFU:HOWARU® Lactobacillus acidophilus, NCFM®Lactobacillus rhamnosus Lr-32®, Bifidobacterium bifidum/ lactis Bb-02™, Bifidobacterium lactis BL-04®, Bifidobacterium longum BB536, Bifidobacterium breve M-16V12 mg****Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Salt-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "21st Century, Acidophilus Probiotic Blend, 100 Capsules",
+  "46,492",
+  "฿288.07"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/g/116.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/k/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/g/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/117.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/118.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/120.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/121.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04369/s/123.jpg"
+ ]
+}

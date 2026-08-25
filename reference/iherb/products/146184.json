@@ -1,0 +1,301 @@
+{
+ "pid": "146184",
+ "slug": "naturesplus-dreaminol-stress-sleep-complex-with-melatonin-60-capsules",
+ "scrapedAt": "2026-08-25T17:32:51.592Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturesplus-dreaminol-stress-sleep-complex-with-melatonin-60-capsules.jpg",
+  "/products/iherb/naturesplus-dreaminol-stress-sleep-complex-with-melatonin-60-capsules-2.jpg",
+  "/products/iherb/naturesplus-dreaminol-stress-sleep-complex-with-melatonin-60-capsules-3.jpg",
+  "/products/iherb/naturesplus-dreaminol-stress-sleep-complex-with-melatonin-60-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturesplus-dreaminol-stress-sleep-complex-with-melatonin-60-capsules/146184",
+ "pageTitle": "NaturesPlus, Dreaminol®, Stress & Sleep Complex with Melatonin, 60 Capsules",
+ "h1": "NaturesPlus, Dreaminol®, Stress & Sleep Complex with Melatonin, 60 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "146184",
+  "name": "NaturesPlus, Dreaminol®, Stress & Sleep Complex with Melatonin, 60 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/g/9.jpg",
+  "mpn": "NAP-47594",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 39
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NaturesPlus",
+   "url": "https://naturesplus.com/",
+   "identifier": "NAP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "482.31",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "For Stress Related Sleep Issues Dietary Supplement Vegan Gluten Free Non-GMO NaturesPlus knows the importance of a good night's sleep. That's why our new Dreaminol® line of products has been formulated to support the restful, rejuvenating sleep you need so you can feel your best! As we know, it's difficult to fall asleep when you're stressed out, so let us help you calm down to relax mind and body, so you can drift off into dreamland. Dreaminol Stress & Sleep Complex with Melatonin is a blend of superior-quality chelated magnesium, the neurotransmitter GABA, the serotonin precursor 5-HTP, and other nutrients all working synergistically to maximize and expand the potential of Melatonin's effects to support deep, \"dreamy\" sleep! A clinically supported level of Melatonin helps you to enjoy deep, restful sleep and to wake up feeling non-groggy! Enjoy your mornings refreshed, re-energized and re-charged!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "NAP-47594",
+  "gtin12": "097467475946",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Brain & Cognitive",
+  "Stress Relief Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "For Stress Related Sleep Issues",
+    "Dietary Supplement",
+    "Vegan",
+    "Gluten Free",
+    "Non-GMO"
+   ],
+   "paragraphs": [
+    "NaturesPlus knows the importance of a good night's sleep. That's why our new Dreaminol® line of products has been formulated to support the restful, rejuvenating sleep you need so you can feel your best!",
+    "As we know, it's difficult to fall asleep when you're stressed out, so let us help you calm down to relax mind and body, so you can drift off into dreamland.",
+    "Dreaminol Stress & Sleep Complex with Melatonin is a blend of superior-quality chelated magnesium, the neurotransmitter GABA, the serotonin precursor 5-HTP, and other nutrients all working synergistically to maximize and expand the potential of Melatonin's effects to support deep, \"dreamy\" sleep! A clinically supported level of Melatonin helps you to enjoy deep, restful sleep and to wake up feeling non-groggy! Enjoy your mornings refreshed, re-energized and re-charged!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules before bedtime or as recommended by a qualified health care professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose, ascorbyl palmitate, silica and microcrystalline cellulose.",
+    "Free from synthetic colors, preservatives. Free from milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy and sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep tightly closed in a cool, dry place. Keep out of reach of children.",
+    "May cause drowsiness. Do not use if pregnant, nursing or under 18. Consult doctor before use if you are taking any medications or have any medical conditions, including depression, seasonal affective disorder, schizophrenia, autoimmune disease, high blood pressure, asthma or epilepsy. Stop use and consult doctor if adverse reactions occur. Do not drive, operate machinery or consume alcohol while taking product. Allow a two-week break between two-month periods of daily use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAP-47594"
+  },
+  {
+   "label": "UPC",
+   "value": "097467475946"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 5.6 x 5.5 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCI, pyridoxal 5'-phosphate [P5P])",
+   "5.1 mg",
+   "300%"
+  ],
+  [
+   "Magnesium (as bisglycinate, taurate)",
+   "50 mg",
+   "12%"
+  ],
+  [
+   "Alanzeebium™ (Alangium salvifolium Fruit, Ziziphus jujuba Fruit, Citrus sinensis Peel Extracts)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "L-Theanine",
+   "100 mg",
+   "†"
+  ],
+  [
+   "GABA (gamma aminobutyric acid)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Chamomile (Matricaria recutita Flower Extract)(std. 1% [0.5 mg] apigenin)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Hops (Humulus lupulus Flower Extract)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Passionflower (Passiflora incarnata Herb)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Valerian (Valeriana officinalis Root)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Lemon Balm (Melissa officinalis Leaf and Stem Extract)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "5-HTP (5-hydroxytryptophan)(Griffonia simplicifolia Seed Extract)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "L-Tryptophan",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Magnolia (Magnolia officinalis Bark Extract)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Melatonin",
+   "1.5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿482.31",
+  "฿482.31",
+  "฿16.08/‏serving",
+  "{0}% off code: {1}",
+  "฿482.31",
+  "Save 0% in cart",
+  "฿16.08/‏serving",
+  "฿482.31",
+  "(0% off)",
+  "฿482.31",
+  "฿16.08/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap47594/s/20.jpg"
+ ]
+}

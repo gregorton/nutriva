@@ -1,0 +1,435 @@
+{
+ "pid": "105915",
+ "slug": "super-nutrition-super-immune-immune-strengthening-multivitamin-with-gl",
+ "scrapedAt": "2026-08-25T17:49:44.962Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/super-nutrition-super-immune-immune-strengthening-multivitamin-with-gl.jpg",
+  "/products/iherb/super-nutrition-super-immune-immune-strengthening-multivitamin-with-gl-2.jpg",
+  "/products/iherb/super-nutrition-super-immune-immune-strengthening-multivitamin-with-gl-3.jpg",
+  "/products/iherb/super-nutrition-super-immune-immune-strengthening-multivitamin-with-gl-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/super-nutrition-super-immune-immune-strengthening-multivitamin-with-glutathione-high-potency-vitamins-minerals-and-herbs-60-tablets/105915",
+ "pageTitle": "Super Nutrition, Super Immune, Immune-Strengthening Multivitamin with Glutathione, High-Potency Vitamins, Minerals and Herbs, 60 Tablets",
+ "h1": "Super Nutrition, Super Immune, Immune-Strengthening Multivitamin with Glutathione, High-Potency Vitamins, Minerals and Herbs, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "105915",
+  "name": "Super Nutrition, Super Immune, Immune-Strengthening Multivitamin with Glutathione, High-Potency Vitamins, Minerals and Herbs, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/g/61.jpg",
+  "mpn": "SPN-02014",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 5264
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Super Nutrition",
+   "url": "https://www.iherb.com/c/super-nutrition?rank=0",
+   "identifier": "SPN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.29",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "170.57",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "482.31",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune-Strengthening Multivitamin with Glutathione A High-Potency Blend of Vitamins, Minerals, Herbs, and Antioxidants Vitamins A, C, D, E, K, B6 and B12 Calcium, Iron, and Zinc Olive Leaf, Maca Root, Ginkgo Biloba, and Rose Hips Super Nutrition® Super Immune contains powerful vitamins, minerals, herbs, and antioxidants to support seasonal wellness, as well as bone health and energy production.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02014",
+  "gtin12": "898220020140",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/g/61.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune-Strengthening Multivitamin with Glutathione",
+    "A High-Potency Blend of Vitamins, Minerals, Herbs, and Antioxidants",
+    "Vitamins A, C, D, E, K, B6 and B12",
+    "Calcium, Iron, and Zinc",
+    "Olive Leaf, Maca Root, Ginkgo Biloba, and Rose Hips"
+   ],
+   "paragraphs": [
+    "Super Nutrition® Super Immune contains powerful vitamins, minerals, herbs, and antioxidants to support seasonal wellness, as well as bone health and energy production.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 tablets daily with food."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Not intended for pregnant/nursing women. Consult with a licensed physician, pharmacist, naturopath, or other qualified healthcare professional prior to taking dietary supplements.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02014"
+  },
+  {
+   "label": "UPC",
+   "value": "898220020140"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 5 x 5 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Tablets"
+  ],
+  [
+   "Servings Per Container: 15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "750 mcg",
+   "83%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "750 mg",
+   "833%"
+  ],
+  [
+   "Vitamin D (as D3, cholecalciferol)",
+   "50 mcg",
+   "250%"
+  ],
+  [
+   "Vitamin E (as d-alpha tocopheryl succinate and mixed tocopherols)",
+   "268.5 mg",
+   "1790%"
+  ],
+  [
+   "Thiamin (as thiamin HCl)",
+   "42.5 mg",
+   "3542%"
+  ],
+  [
+   "Riboflavin",
+   "35 mg",
+   "2692%"
+  ],
+  [
+   "Niacin (as nicotinic acid and niacinamide)",
+   "106 mg",
+   "663%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "125 mg",
+   "7353%"
+  ],
+  [
+   "Folate",
+   "850 mcg DFE (500 mcg Folic Acid)",
+   "213%"
+  ],
+  [
+   "Vitamin B12 (as methylcobalamin)",
+   "500 mcg",
+   "20833%"
+  ],
+  [
+   "Biotin (as d-biotin)",
+   "300 mcg",
+   "1000%"
+  ],
+  [
+   "Pantothenic Acid (as d-calcium pantothenate)",
+   "87.5 mg",
+   "1750%"
+  ],
+  [
+   "Choline (as choline bitartrate)",
+   "90 mg",
+   "16%"
+  ],
+  [
+   "Calcium (as calcium carbonate and calcium citrate)",
+   "500 mg",
+   "38%"
+  ],
+  [
+   "Iron (as ferrous carbonyl)",
+   "12 mg",
+   "67%"
+  ],
+  [
+   "Iodine (from kelp)",
+   "117.5 mcg",
+   "78%"
+  ],
+  [
+   "Magnesium (as magnesium oxide and magnesium glycinate)",
+   "300 mg",
+   "71%"
+  ],
+  [
+   "Zinc (as zinc oxide and zinc citrate)",
+   "20 mg",
+   "182%"
+  ],
+  [
+   "Selenium (as sodium selenite)",
+   "125 mcg",
+   "227%"
+  ],
+  [
+   "Copper (as copper glycinate)",
+   "1.25 mg",
+   "139%"
+  ],
+  [
+   "Manganese (as manganese sulfate and manganese citrate)",
+   "5 mg",
+   "217%"
+  ],
+  [
+   "Chromium (as chromium picolinate)",
+   "150 mcg",
+   "429%"
+  ],
+  [
+   "Molybdenum (as molybdenum amino acid chelate)",
+   "75 mcg",
+   "167%"
+  ],
+  [
+   "Acetyl-L-Carnitine HCl",
+   "250 mg",
+   "†"
+  ],
+  [
+   "Whole Food Herb & Phyto-Antioxidant BlendQuercetin, Organic Alfalfa Grass, Rose Hips, Hawthorn Berry Extract, Organic Olive Leaf, Organic Bitter Melon Fruit, Organic Schizandra Berry Fruit, Organic Ginkgo biloba Leaf Extract, Organic Bilberry Fruit, Organic Astragalus membranaceus Root, Atractylodes Lancea Root, Organic Rehmannia Root, Suma Root, Organic Maca Root, Organic Fo-Ti Root, Organic Codonopsis Root, Organic Licorice Root, Organic Ginger Root, Organic Nettles Leaf, Pau d'Arco Bark, Organic Gotu Kola Leaf, Organic Spirulina, Organic Dandelion Root, Organic Chlorella, Lutein, and Lycopene",
+   "125 mg",
+   "†"
+  ],
+  [
+   "L-Glutathione",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Betaine (as betaine HCl)",
+   "70 mg",
+   "†"
+  ],
+  [
+   "Glutamic Acid (as glutamic acid HCl)",
+   "53 mg",
+   "†"
+  ],
+  [
+   "Alpha-Lipoic Acid",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Beta Glucan 1,3/1,6",
+   "50 mg",
+   "†"
+  ],
+  [
+   "DMAE (as dimethylaminoethanol)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "GLA (gamma-linolenic acid from borage seed oil)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Inositol",
+   "37.5 mg",
+   "†"
+  ],
+  [
+   "Rutin",
+   "17.5 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids (from citrus fruit)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "Coenzyme Q10 (Ubiquinone)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "Mixed Tocopherols (d-gamma, d-delta, d-alpha, d-beta)",
+   "4.8 mg",
+   "†"
+  ],
+  [
+   "Hesperidin (from citrus)",
+   "2.5 mg",
+   "†"
+  ],
+  [
+   "Boron (from boron citrate)",
+   "1.5 mg",
+   "†"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)",
+   "90 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "15"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿482.31",
+  "฿482.31",
+  "฿32.15/‏serving",
+  "{0}% off code: {1}",
+  "฿482.31",
+  "Save 65% in cart",
+  "฿32.15/‏serving",
+  "฿170.57",
+  "(65% off)",
+  "฿482.31",
+  "฿11.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/g/61.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/k/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/g/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02014/s/74.jpg"
+ ]
+}

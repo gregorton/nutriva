@@ -1,0 +1,271 @@
+{
+ "pid": "151000",
+ "slug": "vitaworks-kids-immune-support-mixed-berry-120-chewables",
+ "scrapedAt": "2026-08-25T17:22:10.049Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitaworks-kids-immune-support-mixed-berry-120-chewables.jpg",
+  "/products/iherb/vitaworks-kids-immune-support-mixed-berry-120-chewables-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitaworks-kids-immune-support-mixed-berry-120-chewables/151000",
+ "pageTitle": "VitaWorks, Kids, Immune Support, Mixed Berry, 120 Chewables",
+ "h1": "VitaWorks, Kids, Immune Support, Mixed Berry, 120 Chewables",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "151000",
+  "name": "VitaWorks, Kids, Immune Support, Mixed Berry, 120 Chewables",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/g/42.jpg",
+  "mpn": "VIW-73037",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 55
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "VitaWorks",
+   "url": "https://vitaworkshealth.com/",
+   "identifier": "VIW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "524.31",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "With Elderberry, Vitamin C, and Zinc Dietary Supplement Vegan Natural Flavors Non GMO Gluten Free Nut Free With Other Natural Flavors Kosher Parve The berries and flowers of elderberry are packed with antioxidants and vitamins that may boost your immune system. Zinc is found in cells throughout the body. It helps your immune system fight off invading bacteria and viruses.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "VIW-73037",
+  "gtin12": "810102730374",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/g/42.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "With Elderberry, Vitamin C, and Zinc",
+    "Dietary Supplement",
+    "Vegan",
+    "Natural Flavors",
+    "Non GMO",
+    "Gluten Free",
+    "Nut Free",
+    "With Other Natural Flavors",
+    "Kosher Parve"
+   ],
+   "paragraphs": [
+    "The berries and flowers of elderberry are packed with antioxidants and vitamins that may boost your immune system. Zinc is found in cells throughout the body. It helps your immune system fight off invading bacteria and viruses."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) chewable tablets per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sugar, natural flavors, stearic acid, magnesium stearate, silica, and rebaudioside A.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy, fish or shellfish.",
+    "Made in the USA with global and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested use. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using. Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature. Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VIW-73037"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730374"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.2 x 5.2 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Chewable Tablets"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value For Children 2-3 Years of Age‡",
+   "%Daily Value Adults & Children 4 Years of Age and Older‡‡"
+  ],
+  [
+   "Total Carbohydrate",
+   "<1 g",
+   "<1%",
+   "<1%"
+  ],
+  [
+   "Total Sugars",
+   "<1 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes <1 g Added Sugars",
+   "",
+   "3%",
+   "1%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "90 mg",
+   "600%",
+   "100%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "8 mg",
+   "267%",
+   "73%"
+  ],
+  [
+   "Elderberry fruit 10:1 extract",
+   "100 mg",
+   "**",
+   "**"
+  ],
+  [
+   "‡Percent Daily Values are based on a 1,000 calorie diet.‡‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value For Children 2-3 Years of Age‡",
+  "%Daily Value Adults & Children 4 Years of Age and Older‡‡",
+  "‡Percent Daily Values are based on a 1,000 calorie diet.",
+  "‡‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 chewable tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿524.31",
+  "฿524.31",
+  "฿8.74/‏serving",
+  "{0}% off code: {1}",
+  "฿524.31",
+  "Save 0% in cart",
+  "฿8.74/‏serving",
+  "฿524.31",
+  "(0% off)",
+  "฿524.31",
+  "฿8.74/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/g/42.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/k/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/g/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/viw/viw73037/s/50.jpg"
+ ]
+}

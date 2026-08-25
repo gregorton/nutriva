@@ -1,0 +1,230 @@
+{
+ "pid": "144197",
+ "slug": "source-naturals-sleep-science-melatonin-10-mg-60-tablets",
+ "scrapedAt": "2026-08-25T17:33:47.644Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/source-naturals-sleep-science-melatonin-10-mg-60-tablets.jpg",
+  "/products/iherb/source-naturals-sleep-science-melatonin-10-mg-60-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/source-naturals-sleep-science-melatonin-10-mg-60-tablets/144197",
+ "pageTitle": "Source Naturals, Sleep Science®, Melatonin, 10 mg, 60 Tablets",
+ "h1": "Source Naturals, Sleep Science®, Melatonin, 10 mg, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "144197",
+  "name": "Source Naturals, Sleep Science®, Melatonin, 10 mg, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/g/16.jpg",
+  "mpn": "SNS-02466",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 68
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Source Naturals",
+   "url": "https://shopsourcenaturals.com/",
+   "identifier": "SNS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.07",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "357.63",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Non GMO Validated Melatonin is produced in humans by the pineal gland. A favorite of travelers, it helps to support restful sleep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.7x1.65"
+  },
+  "isRelatedTo": null,
+  "sku": "SNS-02466",
+  "gtin12": "021078024668",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/g/16.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Non GMO Validated"
+   ],
+   "paragraphs": [
+    "Melatonin is produced in humans by the pineal gland. A favorite of travelers, it helps to support restful sleep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "1 tablet at bedtime. Do not exceed the suggested use."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Dibasic calcium phosphate, microcrystalline cellulose, stearic acid, magnesium stearate, and silica.",
+    "Contains no yeast, dairy, egg, gluten, corn, soy or wheat.",
+    "Contains no sugar, starch, salt, preservatives, or artificial color, flavor or fragrance."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only at bedtime. For adult use only. Not for use by children, teenagers, or women who are pregnant, may become pregnant or breastfeeding. Do not drive, operate machinery or consume alcohol or other sedatives while taking this product. If you are under medical supervision, or have an autoimmune disease, diabetes, a depressive disorder, a thyroid condition, epilepsy, leukemia, or a lymphoproliferative disorder, or are taking MAO inhibitor drugs or corticosteroids such as hydrocortisone or prednisone, consult your physician before taking this product. Do not take with alcoholic beverages or when operating machinery or driving a vehicle.",
+    "Store in a cool, dry place.",
+    "Do not use if either tamper-evident seal is broken or missing. Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SNS-02466"
+  },
+  {
+   "label": "UPC",
+   "value": "021078024668"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.7 x 4.3 x 4.2 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calcium (as dibasic calcium phosphate)",
+   "28 mg",
+   "2%"
+  ],
+  [
+   "Melatonin",
+   "10 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿357.63",
+  "฿357.63",
+  "฿5.96/‏serving",
+  "{0}% off code: {1}",
+  "฿357.63",
+  "Save 0% in cart",
+  "฿5.96/‏serving",
+  "฿357.63",
+  "(0% off)",
+  "฿357.63",
+  "฿5.96/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/g/16.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/k/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/g/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02466/s/21.jpg"
+ ]
+}

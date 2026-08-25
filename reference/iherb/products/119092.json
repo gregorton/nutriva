@@ -1,0 +1,252 @@
+{
+ "pid": "119092",
+ "slug": "california-gold-nutrition-ergothioneine-5-mg-90-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:47:15.679Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-ergothioneine-5-mg-90-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-ergothioneine-5-mg-90-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-ergothioneine-5-mg-90-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-ergothioneine-5-mg-90-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-ergothioneine-5-mg-90-veggie-capsules/119092",
+ "pageTitle": "California Gold Nutrition, Ergothioneine, 5 mg, 90 Veggie Capsules",
+ "h1": "California Gold Nutrition, Ergothioneine, 5 mg, 90 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "119092",
+  "name": "California Gold Nutrition, Ergothioneine, 5 mg, 90 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/g/9.jpg",
+  "mpn": "CGN-02269",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1150
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Health Topics",
+   "identifier": "105569"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "459.85",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "613.14",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Ergothioneine Supports Cellular Energy* Supports Antioxidant & Cellular Anti-Aging Pathways* Anti inflammatory* Formulated to Contain: No Gluten, No GMOs, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility Ergothioneine is a naturally occurring amino acid found in high concentrations in select sources such as mushrooms and certain microorganisms. It acts as a potent antioxidant, working to neutralize harmful free radicals and protect your cells from oxidative stress. Unleash the extraordinary benefits of Ergothioneine, the powerhouse antioxidant that is here to revolutionize your well-being. Derived from a natural and potent source, this remarkable supplement is your key to optimal health, cellular protection, and enhanced vitality. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02269",
+  "gtin12": "898220022694",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Health Topics",
+  "Anti-Aging & Longevity"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Ergothioneine",
+    "Supports Cellular Energy*",
+    "Supports Antioxidant & Cellular Anti-Aging Pathways*",
+    "Anti inflammatory*",
+    "Formulated to Contain: No Gluten, No GMOs, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility"
+   ],
+   "paragraphs": [
+    "Ergothioneine is a naturally occurring amino acid found in high concentrations in select sources such as mushrooms and certain microorganisms. It acts as a potent antioxidant, working to neutralize harmful free radicals and protect your cells from oxidative stress.",
+    "Unleash the extraordinary benefits of Ergothioneine, the powerhouse antioxidant that is here to revolutionize your well-being. Derived from a natural and potent source, this remarkable supplement is your key to optimal health, cellular protection, and enhanced vitality.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02269"
+  },
+  {
+   "label": "UPC",
+   "value": "898220022694"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.1 x 5.1 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "L-Ergothioneine",
+   "5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "L-Ergothioneine",
+   "href": "/c/l-ergothioneine?sr=2"
+  },
+  {
+   "rank": "#13 in",
+   "category": "Mushrooms",
+   "href": "/c/mushrooms?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿613.14",
+  "฿613.14",
+  "฿6.81/‏serving",
+  "{0}% off code: {1}",
+  "฿613.14",
+  "Save 25% in cart",
+  "฿6.81/‏serving",
+  "฿459.85",
+  "(25% off)",
+  "฿613.14",
+  "฿5.11/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/s/15.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02269/s/26.jpg"
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "pid": "104332",
+ "slug": "renew-life-women-s-care-ultimate-flora-probiotic-25-billion-cfu-30-del",
+ "scrapedAt": "2026-08-25T17:34:38.285Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/renew-life-women-s-care-ultimate-flora-probiotic-25-billion-cfu-30-del.jpg",
+  "/products/iherb/renew-life-women-s-care-ultimate-flora-probiotic-25-billion-cfu-30-del-2.jpg",
+  "/products/iherb/renew-life-women-s-care-ultimate-flora-probiotic-25-billion-cfu-30-del-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/renew-life-women-s-care-ultimate-flora-probiotic-25-billion-cfu-30-delayed-release-vegan-capsules/104332",
+ "pageTitle": "Renew Life, Women's Care, Ultimate Flora™ Probiotic, 25 Billion CFU, 30 Delayed Release Vegan Capsules",
+ "h1": "Renew Life, Women's Care, Ultimate Flora™ Probiotic, 25 Billion CFU, 30 Delayed Release Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104332",
+  "name": "Renew Life, Women's Care, Ultimate Flora™ Probiotic, 25 Billion CFU, 30 Delayed Release Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/g/68.jpg",
+  "mpn": "REN-15863",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1386
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Renew Life",
+   "url": "http://www.renewlife.com/",
+   "identifier": "REN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.39",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "868.81",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "25 Billion CFU¹ 12 Probiotic Strains #1 Most Studied Strains▵ Probiotic Supplement Non GMO Project Verified 30 Years Experience Free of Gluten, Dairy, Soy The Ultimate Flora™ Probiotic Difference Delayed Release Capsule Targeted delivery. Stomach acid can destroy probiotics. Ultimate Flora™ delayed release capsules ensure more friendly probiotics reach your intestinal tract. No Delayed Release - Capsule does not resist stomach acid. Ultimate Flora™ Delayed Release - Capsule is designed to resist stomach acid. Microbiome Optimal Balance Bifidobacteria, naturally found in milk, kefir, sauerkraut, kimchi and other fermented foods, declines as we age. Ultimate Flora™ is specially formulated to be high in Bifidobacteria to support a balanced microbiome. Multi Strain Benefits Ultimate Flora™ contains 12 different strains of beneficial probiotics (Bifidobacteria, Lactobacilli, and Lactococci). Some other brands contain only Bifido or only Lacto. Since you have many different strains of probiotics in your intestinal tract, more strains (B's and L's) may be better. Good for your Gut! Our Ultimate Flora™ Targeted Care Probiotics target your body's unique needs so you always feel your best - no matter where life takes you. Probiotic Pioneers for 30 Years We have pioneered superior-quality 30 digestive care supplements based on our 30 years of experience, helping people achieve optimal health from the inside out. Targeted Care Probiotic for a Woman's Unique Needs Ultimate Flora™ 25 Billion Women's Care Probiotic is formulated with 12 specially selected Bifidobacterium, Lactobacillus, and Lactococcus strains to support digestive and vaginal health. Quality, purity and potency guaranteed through expiration.¹ ▵Based on the number of scientific and clinical studies of Lactobacillus rhamnosus GG for a range of benefits as of January 2022. ¹At Expiration Date under recommended storage conditions.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "REN-15863",
+  "gtin12": "631257158635",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/g/68.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "25 Billion CFU¹",
+    "12 Probiotic Strains",
+    "#1 Most Studied Strains▵",
+    "Probiotic Supplement",
+    "Non GMO Project Verified",
+    "30 Years Experience",
+    "Free of Gluten, Dairy, Soy"
+   ],
+   "paragraphs": [
+    "The Ultimate Flora™ Probiotic Difference",
+    "Delayed Release Capsule",
+    "Targeted delivery. Stomach acid can destroy probiotics. Ultimate Flora™ delayed release capsules ensure more friendly probiotics reach your intestinal tract.",
+    "No Delayed Release - Capsule does not resist stomach acid.",
+    "Ultimate Flora™ Delayed Release - Capsule is designed to resist stomach acid.",
+    "Microbiome Optimal Balance",
+    "Bifidobacteria, naturally found in milk, kefir, sauerkraut, kimchi and other fermented foods, declines as we age. Ultimate Flora™ is specially formulated to be high in Bifidobacteria to support a balanced microbiome.",
+    "Multi Strain Benefits",
+    "Ultimate Flora™ contains 12 different strains of beneficial probiotics (Bifidobacteria, Lactobacilli, and Lactococci). Some other brands contain only Bifido or only Lacto. Since you have many different strains of probiotics in your intestinal tract, more strains (B's and L's) may be better.",
+    "Good for your Gut!",
+    "Our Ultimate Flora™ Targeted Care Probiotics target your body's unique needs so you always feel your best - no matter where life takes you.",
+    "Probiotic Pioneers for 30 Years",
+    "We have pioneered superior-quality 30 digestive care supplements based on our 30 years of experience, helping people achieve optimal health from the inside out.",
+    "Targeted Care Probiotic for a Woman's Unique Needs",
+    "Ultimate Flora™ 25 Billion Women's Care Probiotic is formulated with 12 specially selected Bifidobacterium, Lactobacillus, and Lactococcus strains to support digestive and vaginal health.",
+    "Quality, purity and potency guaranteed through expiration.¹",
+    "▵Based on the number of scientific and clinical studies of Lactobacillus rhamnosus GG for a range of benefits as of January 2022.",
+    "¹At Expiration Date under recommended storage conditions."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For best results, take one delayed release vegan capsule daily, with or without food.",
+    "Refrigeration not required."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose (plant origin), vegetarian capsule (delayed release) (cellulose, gellan gum), MCT."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place.",
+    "Keep out of reach of children.",
+    "Tamper Evident: Do not use if safety seal under cap is broken or missing.",
+    "Consult your physician prior to taking this or any product if you are pregnant, nursing, taking any medication or have a medical condition."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "REN-15863"
+  },
+  {
+   "label": "UPC",
+   "value": "631257158635"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 6.6 x 6.5 cm, 0.17 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Delayed Release Vegan Capsule"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Ultimate Flora™ Women's Care 25 Billion Blend",
+   "147 mg",
+   "***"
+  ],
+  [
+   "Bifidobacterium lactis (1)",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium lactis (2)",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium infantis",
+   "",
+   ""
+  ],
+  [
+   "Total Bifido Probiotic Cultures",
+   "13 Billion CFU",
+   ""
+  ],
+  [
+   "Lactobacillus reuteri",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus (1)",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus plantarum",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus GG",
+   "",
+   ""
+  ],
+  [
+   "Lactococcus lactis",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus casei",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus paracasei",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus acidophilus",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus brevis",
+   "",
+   ""
+  ],
+  [
+   "Total Lacto Probiotic Cultures",
+   "12 Billion CFU",
+   ""
+  ],
+  [
+   "Total Bifido/Lacto Probiotic Cultres",
+   "25 Billion CFU¹",
+   ""
+  ],
+  [
+   "***Daily Value not established.¹At Expiration Date under recommended storage."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "***Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegan capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Non-gmo",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿868.81",
+  "฿868.81",
+  "฿28.96/‏serving",
+  "{0}% off code: {1}",
+  "฿868.81",
+  "Save 0% in cart",
+  "฿28.96/‏serving",
+  "฿868.81",
+  "(0% off)",
+  "฿868.81",
+  "฿28.96/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/g/68.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/k/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/g/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15863/s/60.jpg"
+ ]
+}

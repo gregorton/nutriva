@@ -1,0 +1,254 @@
+{
+ "pid": "125989",
+ "slug": "pink-sleep-melatonin-gummies-natural-mixed-berry-70-gummies",
+ "scrapedAt": "2026-08-25T17:23:45.867Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/pink-sleep-melatonin-gummies-natural-mixed-berry-70-gummies.jpg",
+  "/products/iherb/pink-sleep-melatonin-gummies-natural-mixed-berry-70-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/pink-sleep-melatonin-gummies-natural-mixed-berry-70-gummies/125989",
+ "pageTitle": "Pink, Sleep Melatonin Gummies, Natural Mixed Berry, 70 Gummies",
+ "h1": "Pink, Sleep Melatonin Gummies, Natural Mixed Berry, 70 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125989",
+  "name": "Pink, Sleep Melatonin Gummies, Natural Mixed Berry, 70 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/g/40.jpg",
+  "mpn": "PWK-11404",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 155
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Pink",
+   "url": "https://pinkproducts.com/",
+   "identifier": "PWK"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.44",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "387.82",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "By Women, For Women Beauty Rest Clinically Studied Dietary Supplement U.S. Lab Tested Gluten Free Non-GMO Vegan No Artificial Flavors Get the restful slumber you so rightly deserve with these amazing tasting gummies. Carefully designed to help with occasional sleeplessness, these gummies are a perfect prelude to the beauty rest that lies ahead.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "PWK-11404",
+  "gtin12": "840093114044",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "By Women, For Women",
+    "Beauty Rest",
+    "Clinically Studied",
+    "Dietary Supplement",
+    "U.S. Lab Tested",
+    "Gluten Free",
+    "Non-GMO",
+    "Vegan",
+    "No Artificial Flavors"
+   ],
+   "paragraphs": [
+    "Get the restful slumber you so rightly deserve with these amazing tasting gummies. Carefully designed to help with occasional sleeplessness, these gummies are a perfect prelude to the beauty rest that lies ahead."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take two (2) gummies 30 minutes before bedtime as Melatonin may cause drowsiness. This product is intended for short term, occasional use only. Do not exceed recommended dosage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, pectin, citric acid, sodium citrate, sunflower seed oil, natural flavors, black carrot juice concentrate color, natural palm leaf glaze, palm oil, annatto color.",
+    "To ensure quality through expiration, this product was manufactured with higher ingredient levels than the indicated amount per serving."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for use by pregnant or nursing women or persons under the age of 18. If you are taking any medications or have any medical condition, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. Consumption above recommended dosage may impair ability to drive a motor vehicle or operate heavy equipment. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place. Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PWK-11404"
+  },
+  {
+   "label": "UPC",
+   "value": "840093114044"
+  },
+  {
+   "label": "Package quantity",
+   "value": "70 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.3 x 6.7 x 6.7 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 35"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%**"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "*"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%**"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "Melatonin",
+   "10 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established.**Percent Daily Values are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established.",
+  "**Percent Daily Values are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "35"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿387.82",
+  "฿387.82",
+  "฿11.08/‏serving",
+  "{0}% off code: {1}",
+  "฿387.82",
+  "Save 0% in cart",
+  "฿11.08/‏serving",
+  "฿387.82",
+  "(0% off)",
+  "฿387.82",
+  "฿11.08/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pwk/pwk11404/s/45.jpg"
+ ]
+}

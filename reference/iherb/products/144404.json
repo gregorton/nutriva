@@ -1,0 +1,253 @@
+{
+ "pid": "144404",
+ "slug": "nutri-organic-turmeric-curcumin-90-organic-capsules",
+ "scrapedAt": "2026-08-25T17:14:12.944Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutri-organic-turmeric-curcumin-90-organic-capsules.jpg",
+  "/products/iherb/nutri-organic-turmeric-curcumin-90-organic-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutri-organic-turmeric-curcumin-90-organic-capsules/144404",
+ "pageTitle": "Nutri, Organic Turmeric Curcumin+, 90 Organic Capsules",
+ "h1": "Nutri, Organic Turmeric Curcumin+, 90 Organic Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "144404",
+  "name": "Nutri, Organic Turmeric Curcumin+, 90 Organic Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/g/40.jpg",
+  "mpn": "NFU-74264",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 79
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nutri",
+   "url": "https://www.naturesfusions.com/",
+   "identifier": "NUI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.23",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1232.63",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Doctor Recommended USDA Organic 40x More Bioavailable** 1,350 mg Curcuminoids Per Serving Inflammation Healthy Aging Ginger | Piperine | Turmeric Oil GMP - Good Manufacturing Practice Dietary Supplement Made In A FDA Registered Facility Vegetarian 3rd Party Lab Tested & Verified Science-Backed Solutions Certified Organic by CCOF Why Turmeric? Turmeric has been shown to support Joint Health, Antioxidant Levels, and Digestion. Our organic formula utilizes turmeric oil and piperine, ingredients that maximize the bioavailabiltiy of turmeric's curcuminoids. Take this supplement daily to boost Cognition, Cardiovascular Health, Healthy Inflammation Levels, and Healthy Aging. Why Nutri? At Nutri we believe in making the highest quality and most effective products on the market, so that you can be confident that you're getting the best of the best. **40x more bioavailable than regular curcuminoids.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.45x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NFU-74264",
+  "gtin12": "810102742643",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Doctor Recommended",
+    "USDA Organic",
+    "40x More Bioavailable**",
+    "1,350 mg Curcuminoids Per Serving",
+    "Inflammation",
+    "Healthy Aging",
+    "Ginger | Piperine | Turmeric Oil",
+    "GMP - Good Manufacturing Practice",
+    "Dietary Supplement",
+    "Made In A FDA Registered Facility",
+    "Vegetarian",
+    "3rd Party Lab Tested & Verified",
+    "Science-Backed Solutions",
+    "Certified Organic by CCOF"
+   ],
+   "paragraphs": [
+    "Why Turmeric?",
+    "Turmeric has been shown to support Joint Health, Antioxidant Levels, and Digestion. Our organic formula utilizes turmeric oil and piperine, ingredients that maximize the bioavailabiltiy of turmeric's curcuminoids. Take this supplement daily to boost Cognition, Cardiovascular Health, Healthy Inflammation Levels, and Healthy Aging.",
+    "Why Nutri?",
+    "At Nutri we believe in making the highest quality and most effective products on the market, so that you can be confident that you're getting the best of the best.",
+    "**40x more bioavailable than regular curcuminoids."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take three capsules daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic pullulan (capsule), organic rice extract blend (organic rice flour, organic rice bran extract, organic rice hulls, organic gum arabic, organic sunflower oil)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.34 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NFU-74264"
+  },
+  {
+   "label": "UPC",
+   "value": "810102742643"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "24.1 x 11.3 x 6.4 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Organic Turmeric (Curuma longa, std. to 95% curcuminoids)",
+   "1425 mg",
+   "†"
+  ],
+  [
+   "Organic Ginger Root Extract (std. to 5% gingerols)",
+   "150 mg",
+   "†"
+  ],
+  [
+   "Organic Turmeric Oil",
+   "75 mg",
+   "†"
+  ],
+  [
+   "Organic Black Pepper Extract (std. to 95% Piperine)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegetarian"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,232.63",
+  "฿1,232.63",
+  "฿41.09/‏serving",
+  "{0}% off code: {1}",
+  "฿1,232.63",
+  "Save 0% in cart",
+  "฿41.09/‏serving",
+  "฿1,232.63",
+  "(0% off)",
+  "฿1,232.63",
+  "฿41.09/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74264/s/45.jpg"
+ ]
+}

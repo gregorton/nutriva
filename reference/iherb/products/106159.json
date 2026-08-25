@@ -1,0 +1,279 @@
+{
+ "pid": "106159",
+ "slug": "california-gold-nutrition-hydrolyzed-marine-collagen-peptides-with-coc",
+ "scrapedAt": "2026-08-25T17:37:03.620Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "500+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-with-coc.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-with-coc-2.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-with-coc-3.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-with-coc-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-with-cocoa-7-3-oz-206-g/106159",
+ "pageTitle": "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides with Cocoa, 7.3 oz (206 g)",
+ "h1": "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides with Cocoa, 7.3 oz (206 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "106159",
+  "name": "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides with Cocoa, 7.3 oz (206 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/g/60.jpg",
+  "mpn": "SLM-02019",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3501
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.49",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "456.27",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Healthy Hair, Skin, and Nails* Made with Organic Cocoa for a Delicious Chocolate Flavor California Gold Nutrition® Hydrolyzed Marine Collagen Peptides with Cocoa can be mixed with water or the liquid of your choice to create a tasty drink that is a convenient source of collagen peptides. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.35x3.25"
+  },
+  "isRelatedTo": null,
+  "sku": "SLM-02019",
+  "gtin12": "898220020195",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/g/60.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Healthy Hair, Skin, and Nails*",
+    "Made with Organic Cocoa for a Delicious Chocolate Flavor"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Hydrolyzed Marine Collagen Peptides with Cocoa can be mixed with water or the liquid of your choice to create a tasty drink that is a convenient source of collagen peptides.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 2 scoops daily with 6-8 ounces of water or the beverage of your choice. Best when taken as directed by a qualified healthcare professional.",
+    "Note: 14 grams per 2 scoops is an average. Individual scooping technique may yield slightly less than or slightly more than 14 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult your healthcare practitioner before using this product, especially if you are pregnant, nursing, have existing medical conditions or are taking prescription medications.",
+    "Sealed for your protection. Do not use if seal is missing or broken. This product is packaged and sold by weight, not by volume.",
+    "Store in a cool, dry place.",
+    "NOTICE: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SLM-02019"
+  },
+  {
+   "label": "UPC",
+   "value": "898220020195"
+  },
+  {
+   "label": "Package quantity",
+   "value": "206 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.5 x 11 x 8.3 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 scoops (14 g)"
+  ],
+  [
+   "Servings Per Container: About 15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%*"
+  ],
+  [
+   "Total Carbohydrate",
+   "7 g",
+   "3%*"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "7%*"
+  ],
+  [
+   "Protein",
+   "6 g",
+   "<1%*"
+  ],
+  [
+   "Vitamin C (as Calcium Ascorbate)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Iron",
+   "0.7 mg",
+   "4%"
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "1%"
+  ],
+  [
+   "Hydrolyzed Marine Collagen Peptides",
+   "5 g",
+   "†"
+  ],
+  [
+   "Organic Cacao Powder (Theobroma cacao) (bean)",
+   "5 g",
+   "†"
+  ],
+  [
+   "Hyaluronic Acid (as Sodium Hyaluronate)",
+   "60 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "15"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿456.27",
+  "฿456.27",
+  "฿30.42/‏serving",
+  "{0}% off code: {1}",
+  "฿456.27",
+  "Save 0% in cart",
+  "฿30.42/‏serving",
+  "฿456.27",
+  "(0% off)",
+  "฿456.27",
+  "฿30.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/g/60.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/k/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/g/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/s/99.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/slm/slm02019/s/39.jpg"
+ ]
+}

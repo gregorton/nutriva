@@ -1,0 +1,234 @@
+{
+ "pid": "72373",
+ "slug": "nutramedix-vitamin-c-1-000-mg-120-vegetable-capsules",
+ "scrapedAt": "2026-08-25T17:38:38.619Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/nutramedix-vitamin-c-1-000-mg-120-vegetable-capsules.jpg",
+  "/products/iherb/nutramedix-vitamin-c-1-000-mg-120-vegetable-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutramedix-vitamin-c-1-000-mg-120-vegetable-capsules/72373",
+ "pageTitle": "NutraMedix, Vitamin C, 1,000 mg, 120 Vegetable Capsules",
+ "h1": "NutraMedix, Vitamin C, 1,000 mg, 120 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "72373",
+  "name": "NutraMedix, Vitamin C, 1,000 mg, 120 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/g/12.jpg",
+  "mpn": "NDX-09333",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 15
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NutraMedix",
+   "url": "http://www.nutramedix.com/",
+   "identifier": "NDX"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.39",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "676.71",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "902.28",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Non-GMO & Corn Free Immune and Antioxidant Support Dietary Supplement Gluten Free Soy Free Dairy Free For decades, Vitamin C benefits have been widely recognized and this popular vitamin has become a must in many households. Vitamin C benefits are numerous and it is not only an antioxidant that supports immune system function and helps neutralize free radicals, it also produces collagen and provides cardiovascular support. With just the right dosage, Vitamin C 1000mg capsules provide your body with immune and antioxidant support throughout the day.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "NDX-09333",
+  "gtin12": "728650093332",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/g/12.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Non-GMO & Corn Free",
+    "Immune and Antioxidant Support",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Soy Free",
+    "Dairy Free"
+   ],
+   "paragraphs": [
+    "For decades, Vitamin C benefits have been widely recognized and this popular vitamin has become a must in many households.",
+    "Vitamin C benefits are numerous and it is not only an antioxidant that supports immune system function and helps neutralize free radicals, it also produces collagen and provides cardiovascular support.",
+    "With just the right dosage, Vitamin C 1000mg capsules provide your body with immune and antioxidant support throughout the day."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one to two capsules daily after a meal or as directed by your physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable capsule, magnesium stearate from vegetable source."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Keep tightly closed in a dry place at room temperature (50-86°F or 15-30°C).",
+    "Do not use if pregnant or nursing. Stop use if adverse reactions develop."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NDX-09333"
+  },
+  {
+   "label": "UPC",
+   "value": "728650093332"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.2 x 6.1 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Serving Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Ascorbic acid (from tapioca)",
+   "2,000 mg",
+   "2,222%"
+  ]
+ ],
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿902.28",
+  "฿902.28",
+  "฿15.04/‏serving",
+  "{0}% off code: {1}",
+  "฿902.28",
+  "Save 25% in cart",
+  "฿15.04/‏serving",
+  "฿676.71",
+  "(25% off)",
+  "฿902.28",
+  "฿11.28/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/g/12.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/k/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/g/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ndx/ndx09333/s/17.jpg"
+ ]
+}

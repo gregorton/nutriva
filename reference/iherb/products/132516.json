@@ -1,0 +1,216 @@
+{
+ "pid": "132516",
+ "slug": "the-friendly-patch-snoozzze-melatonin-sleep-patch-28-patches",
+ "scrapedAt": "2026-08-25T17:09:21.071Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-friendly-patch-snoozzze-melatonin-sleep-patch-28-patches.jpg",
+  "/products/iherb/the-friendly-patch-snoozzze-melatonin-sleep-patch-28-patches-2.jpg",
+  "/products/iherb/the-friendly-patch-snoozzze-melatonin-sleep-patch-28-patches-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-friendly-patch-snoozzze-melatonin-sleep-patch-28-patches/132516",
+ "pageTitle": "The Friendly Patch, Snoozzze, Melatonin Sleep Patch, 28 Patches",
+ "h1": "The Friendly Patch, Snoozzze, Melatonin Sleep Patch, 28 Patches",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "132516",
+  "name": "The Friendly Patch, Snoozzze, Melatonin Sleep Patch, 28 Patches",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/g/9.jpg",
+  "mpn": "TFP-08102",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.2,
+   "reviewCount": 622
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Friendly Patch",
+   "url": "https://thefriendlypatch.com/",
+   "identifier": "TFP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.06",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1181.17",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100% Gluten-Free 100% Natural 100% Lactose-Free 100% Latex-Free GMP Certified - Good Manufacturing Practice Get into Bed and let snoozzze do the rest! Melatonin, Valerian Root, and more to lull you into a restful snoozzzze. Whether you have a busy week, travel ahead, or just need a snoozzze. The Snoozzze patch is an excellent alternative to counting sheep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "6.1x0.45"
+  },
+  "isRelatedTo": null,
+  "sku": "TFP-08102",
+  "gtin12": "850031081024",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100% Gluten-Free",
+    "100% Natural",
+    "100% Lactose-Free",
+    "100% Latex-Free",
+    "GMP Certified - Good Manufacturing Practice"
+   ],
+   "paragraphs": [
+    "Get into Bed and let snoozzze do the rest! Melatonin, Valerian Root, and more to lull you into a restful snoozzzze.",
+    "Whether you have a busy week, travel ahead, or just need a snoozzze. The Snoozzze patch is an excellent alternative to counting sheep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply patch to any clean, dry, non-hairy area. Lasts up to 12 hours. Discard when done. Moisture resistant."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "(1 Patch)* Melatonin (7 mg), magnesium beta hydroxybutyrate (5 mg), valerian root powder (5 mg), ashwagandha root extract (4 mg), l-tryptophan (3 mg), lavender oil (1 mg), coq10 (.5 mg), adhesive.",
+    "*mg target by batch formulation & may vary by patch."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. If skin irritation occurs, remove patch immediately. Do not use if you're pregnant or breastfeeding without first consulting your doctor."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "TFP-08102"
+  },
+  {
+   "label": "UPC",
+   "value": "850031081024"
+  },
+  {
+   "label": "Package quantity",
+   "value": "28 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.4 x 15.5 x 1.1 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Total servings",
+     "value": "28"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Lactose-free",
+    "All-natural"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "8 count",
+   "pid": "132508",
+   "url": "https://th.iherb.com/pr/the-friendly-patch-snoozzze-melatonin-sleep-patch-8-patches/132508",
+   "price": "฿590.58",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "28 count",
+   "pid": "132516",
+   "url": "https://th.iherb.com/pr/the-friendly-patch-snoozzze-melatonin-sleep-patch-28-patches/132516",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,181.17",
+  "฿1,181.17",
+  "฿42.18/‏serving",
+  "{0}% off code: {1}",
+  "฿1,181.17",
+  "Save 0% in cart",
+  "฿42.18/‏serving",
+  "฿1,181.17",
+  "(0% off)",
+  "฿1,181.17",
+  "฿42.18/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/s/11.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tfp/tfp08102/s/10.jpg"
+ ]
+}

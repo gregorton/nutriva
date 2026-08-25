@@ -1,0 +1,311 @@
+{
+ "pid": "77294",
+ "slug": "california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tabl",
+ "scrapedAt": "2026-08-25T17:45:03.245Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tabl.jpg",
+  "/products/iherb/california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tabl-2.jpg",
+  "/products/iherb/california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tabl-3.jpg",
+  "/products/iherb/california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tabl-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tablet/77294",
+ "pageTitle": "California Gold Nutrition, Organic Spirulina, 60 Tablets (500 mg per Tablet)",
+ "h1": "California Gold Nutrition, Organic Spirulina, 60 Tablets (500 mg per Tablet)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "77294",
+  "name": "California Gold Nutrition, Organic Spirulina, 60 Tablets (500 mg per Tablet)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/g/192.jpg",
+  "mpn": "CGN-01175",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 62723
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.11",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "174.10",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "232.13",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Organic Spirulina USDA Organic Green Superfood Sourced from Blue-Green Algae (Arthrospira platensis) Antioxidant Support* Suitable for Vegetarians and Vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Spirulina is a type of blue-green algae (Arthrospira platensis) that contains numerous beneficial compounds. California Gold Nutrition ® Organic Spirulina features a USDA organic form of this green superfood to provide antioxidant support.* Spirulina Benefits Blue-green algae is considered a green superfood because it contains many supportive nutrients. One of these nutrients is a powerful plant-based protein called phycocyanin, which is the pigment that gives spirulina its blue-green color. Phycocyanin may have antioxidant properties and may also enhance immune function.* Spirulina also contains chlorophyll, which may help promote red blood cell production and help protect the body from toxins.* California Gold Nutrition ® Organic Spirulina contains organic Arthrospira platensis in tablets. The USP verified spirulina in this supplement is sourced from Parry Nutraceuticals, a leader in the blue-green algae industry. It meets or exceeds all qualitative and quantitative quality control specifications. When taken as directed, this provides 20 daily servings. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01175",
+  "gtin12": "898220011759",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/g/192.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Greens & Superfoods",
+  "Algae",
+  "Spirulina"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Organic Spirulina",
+    "USDA Organic Green Superfood",
+    "Sourced from Blue-Green Algae (Arthrospira platensis)",
+    "Antioxidant Support*",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Spirulina is a type of blue-green algae (Arthrospira platensis) that contains numerous beneficial compounds. California Gold Nutrition® Organic Spirulina features a USDA organic form of this green superfood to provide antioxidant support.*",
+    "Spirulina BenefitsBlue-green algae is considered a green superfood because it contains many supportive nutrients. One of these nutrients is a powerful plant-based protein called phycocyanin, which is the pigment that gives spirulina its blue-green color. Phycocyanin may have antioxidant properties and may also enhance immune function.* Spirulina also contains chlorophyll, which may help promote red blood cell production and help protect the body from toxins.*",
+    "California Gold Nutrition® Organic Spirulina contains organic Arthrospira platensis in tablets. The USP verified spirulina in this supplement is sourced from Parry Nutraceuticals, a leader in the blue-green algae industry. It meets or exceeds all qualitative and quantitative quality control specifications. When taken as directed, this provides 20 daily servings.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 tablets daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool dry place. Protect from heat, light, and moisture.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01175"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011759"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.8 x 5 x 5 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Tablets"
+  ],
+  [
+   "Servings Per Container: 20"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Protein",
+   "<1 g",
+   ""
+  ],
+  [
+   "Iron",
+   "0.7 mg",
+   "4%"
+  ],
+  [
+   "Sodium",
+   "15 mg",
+   "1%"
+  ],
+  [
+   "Organic Spirulina (Arthrospira platensis)",
+   "1.5 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "20"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "77294",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-organic-spirulina-60-tablets-500-mg-per-tablet/77294",
+   "price": "฿174.10",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "91036",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-organic-spirulina-240-tablets-500-mg-per-tablet/91036",
+   "price": "฿430.63",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "720 count",
+   "pid": "77295",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-organic-spirulina-720-tablets/77295",
+   "price": "฿1,114.52",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Spirulina",
+   "href": "/c/spirulina?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Algae",
+   "href": "/c/algae?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Chlorophyll",
+   "href": "/c/chlorophyll?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿232.13",
+  "฿232.13",
+  "฿11.61/‏serving",
+  "{0}% off code: {1}",
+  "฿232.13",
+  "Save 25% in cart",
+  "฿11.61/‏serving",
+  "฿174.10",
+  "(25% off)",
+  "฿232.13",
+  "฿8.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/g/192.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/k/192.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/g/192.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/s/192.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/s/197.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/s/200.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/s/201.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/s/164.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01175/s/182.jpg"
+ ]
+}

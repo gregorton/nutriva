@@ -1,0 +1,314 @@
+{
+ "pid": "24182",
+ "slug": "bob-s-red-mill-whey-protein-powder-12-oz-340-g",
+ "scrapedAt": "2026-08-25T17:13:10.036Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/bob-s-red-mill-whey-protein-powder-12-oz-340-g.jpg",
+  "/products/iherb/bob-s-red-mill-whey-protein-powder-12-oz-340-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/bob-s-red-mill-whey-protein-powder-12-oz-340-g/24182",
+ "pageTitle": "Bob's Red Mill, Whey Protein Powder, 12 oz (340 g)",
+ "h1": "Bob's Red Mill, Whey Protein Powder, 12 oz (340 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "24182",
+  "name": "Bob's Red Mill, Whey Protein Powder, 12 oz (340 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/g/37.jpg",
+  "mpn": "BRM-00218",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 1355
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Bob's Red Mill",
+   "url": "http://www.bobsredmill.com/",
+   "identifier": "BRM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.84",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "767.77",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Contains 8 Essential Amino Acids To Your Good Health® - Bob Moore Premium Quality 14 g Protein Per Serving 2 Simple Ingredients No Added Flavors, Colors or Sweeteners Not a Low Calorie Food Kosher Dairy An Employee Owned Company Dear Friends, Protein is more than an essential nutrient: it's the building block of life! Each part of your body is made up of protein—are you nourishing them with the right ingredients? Our Whey Protein Powder is a high-quality protein with 8 essential amino acids, finely ground into a mild-tasting powder that dissolves instantly into smoothies, baked goods and more. It's the nutrition you need, without the artificial additives you don't. Use it to fuel your busy day! To your good health, Bob Moore",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.5x7.2"
+  },
+  "isRelatedTo": null,
+  "sku": "BRM-00218",
+  "gtin12": "039978002181",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/g/37.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Concentrate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Contains 8 Essential Amino Acids",
+    "To Your Good Health® - Bob Moore",
+    "Premium Quality",
+    "14 g Protein Per Serving",
+    "2 Simple Ingredients",
+    "No Added Flavors, Colors or Sweeteners",
+    "Not a Low Calorie Food",
+    "Kosher Dairy",
+    "An Employee Owned Company"
+   ],
+   "paragraphs": [
+    "Dear Friends,",
+    "Protein is more than an essential nutrient: it's the building block of life! Each part of your body is made up of protein—are you nourishing them with the right ingredients? Our Whey Protein Powder is a high-quality protein with 8 essential amino acids, finely ground into a mild-tasting powder that dissolves instantly into smoothies, baked goods and more. It's the nutrition you need, without the artificial additives you don't. Use it to fuel your busy day!",
+    "To your good health, Bob Moore"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Shakes and Smoothies",
+    "For a quick and easy protein shake, add 1/4 cup Whey Protein Powder to a glass of juice or milk. Mix and enjoy.",
+    "To make a delicious smoothie, blend 1/4 cup Whey Protein Powder with 1 cup fresh or frozen fruit, 1/2 cup milk or water, sweetener if desired, and a handful of ice (about 1/2 cup). Makes about 2 cups.",
+    "Mix It Up!",
+    "These are a few of our favorite shakes and smoothies: just combine all the ingredients in a blender. Fruit can be fresh or frozen!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Whey protein concentrate, sunflower lecithin.",
+    "Contains: Milk."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2010"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.38 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BRM-00218"
+  },
+  {
+   "label": "UPC",
+   "value": "039978002181"
+  },
+  {
+   "label": "Package quantity",
+   "value": "340 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "5.8 x 8.9 x 18.3 cm, 0.38 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1/4 cup (19 g)"
+  ],
+  [
+   "Serving Per Container: About 18"
+  ],
+  [
+   "",
+   "Amount Per Serving:",
+   "% Daily Value*"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "3%"
+  ],
+  [
+   "Sodium",
+   "45 mg",
+   "2%"
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "14 g",
+   "28%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "64 mg",
+   "4%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "136 mg",
+   "2%"
+  ],
+  [
+   "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving:\t% Daily Value*",
+  "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "19 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "18"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Whey Protein Concentrate",
+   "href": "/c/whey-protein-concentrate?sr=2"
+  },
+  {
+   "rank": "#20 in",
+   "category": "Whey Protein",
+   "href": "/c/whey-protein?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿767.77",
+  "฿767.77",
+  "฿42.65/‏serving",
+  "{0}% off code: {1}",
+  "฿767.77",
+  "Save 0% in cart",
+  "฿42.65/‏serving",
+  "฿767.77",
+  "(0% off)",
+  "฿767.77",
+  "฿42.65/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/g/37.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/k/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/g/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brm/brm00218/b/37.jpg"
+ ]
+}

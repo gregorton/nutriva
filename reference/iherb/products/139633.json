@@ -1,0 +1,256 @@
+{
+ "pid": "139633",
+ "slug": "nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:20:06.126Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule.jpg",
+  "/products/iherb/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule-2.jpg",
+  "/products/iherb/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule-3.jpg",
+  "/products/iherb/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule/139633",
+ "pageTitle": "Nature's Craft, Magnesium Glycinate, 240 Capsules (100 mg per Capsule)",
+ "h1": "Nature's Craft, Magnesium Glycinate, 240 Capsules (100 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139633",
+  "name": "Nature's Craft, Magnesium Glycinate, 240 Capsules (100 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/g/30.jpg",
+  "mpn": "NCA-63941",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 930
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.57",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1106.29",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Rooted in Nature. Backed by Science Sleep Support Bone & Joint Health Daily Minerals Dietary Supplement Sourced From a GMP Compliant Facility ISO 17025 Lab Tested Vegan Magnesium is an essential mineral and magnesium bisglycinate is a highly absorbable form which can improve your overall well-being in no time. Whether you’re looking for better sleep, stronger bones, muscle recovery, sugar balance, or even just better mood, magnesium glycinate can help. Give our magnesium supplement a try today and feel the difference this essential mineral can make in your life.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.05x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-63941",
+  "gtin12": "850050639411",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/g/30.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Rooted in Nature. Backed by Science",
+    "Sleep Support",
+    "Bone & Joint Health",
+    "Daily Minerals",
+    "Dietary Supplement",
+    "Sourced From a GMP Compliant Facility",
+    "ISO 17025 Lab Tested",
+    "Vegan"
+   ],
+   "paragraphs": [
+    "Magnesium is an essential mineral and magnesium bisglycinate is a highly absorbable form which can improve your overall well-being in no time. Whether you’re looking for better sleep, stronger bones, muscle recovery, sugar balance, or even just better mood, magnesium glycinate can help. Give our magnesium supplement a try today and feel the difference this essential mineral can make in your life."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 capsules before a meal. For Sleep Support, take 4 capsules 30-45 minutes before bedtime."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsule), magnesium stearate, silicon dioxide, microcrystalline cellulose.",
+    "Made in USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Not intended for pregnant or nursing mothers or children under the age of 18. Individuals taking blood thinners, any other medications, or have any known medical conditions should consult a physician before using any herbal supplements. Discontinue use and consult your doctor if any adverse reactions occur. Not intended to treat obesity; consult a physician before beginning any weight loss program.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.26 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-63941"
+  },
+  {
+   "label": "UPC",
+   "value": "850050639411"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.9 x 7.7 x 7.7 cm, 0.26 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium [as Magnesium Glycinate (Buffered)]",
+   "400 mg",
+   "95%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "133377",
+   "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-120-capsules-100-mg-per-capsule/133377",
+   "price": "฿604.36",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "134495",
+   "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-180-capsules-100-mg-per-capsule/134495",
+   "price": "฿889.16",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "139633",
+   "url": "https://th.iherb.com/pr/nature-s-craft-magnesium-glycinate-240-capsules-100-mg-per-capsule/139633",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,106.29",
+  "฿1,106.29",
+  "฿18.44/‏serving",
+  "{0}% off code: {1}",
+  "฿1,106.29",
+  "Save 0% in cart",
+  "฿18.44/‏serving",
+  "฿1,106.29",
+  "(0% off)",
+  "฿1,106.29",
+  "฿18.44/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/g/30.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/k/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/g/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63941/s/18.jpg"
+ ]
+}

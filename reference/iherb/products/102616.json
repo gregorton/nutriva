@@ -1,0 +1,246 @@
+{
+ "pid": "102616",
+ "slug": "havasu-nutrition-vitamin-c-gummies-daily-immune-orange-60-gummies",
+ "scrapedAt": "2026-08-25T17:10:18.135Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/havasu-nutrition-vitamin-c-gummies-daily-immune-orange-60-gummies.jpg",
+  "/products/iherb/havasu-nutrition-vitamin-c-gummies-daily-immune-orange-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/havasu-nutrition-vitamin-c-gummies-daily-immune-orange-60-gummies/102616",
+ "pageTitle": "Havasu Nutrition, Vitamin C Gummies, Daily Immune+, Orange, 60 Gummies",
+ "h1": "Havasu Nutrition, Vitamin C Gummies, Daily Immune+, Orange, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102616",
+  "name": "Havasu Nutrition, Vitamin C Gummies, Daily Immune+, Orange, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/g/40.jpg",
+  "mpn": "HAV-46435",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 5680
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Havasu Nutrition",
+   "url": "https://havasunutrition.com/",
+   "identifier": "HAV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "301.85",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "High Potency Vitamin C Dietary Supplement Delicious Gummy Potent Vitamin C +The body requires vitamin C for normal physiological functions. As an antioxidant, it helps support a healthy immune system and overall well-being.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "HAV-46435",
+  "gtin12": "850008464355",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "High Potency Vitamin C",
+    "Dietary Supplement",
+    "Delicious Gummy",
+    "Potent Vitamin C"
+   ],
+   "paragraphs": [
+    "+The body requires vitamin C for normal physiological functions. As an antioxidant, it helps support a healthy immune system and overall well-being."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take two gummies, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, trisodium citrate, natural orange flavor, paprika extract (color)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult your healthcare provider before use if you are contemplating pregnancy, pregnant, nursing, have any medical condition, or use any medications. For adult use only.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "HAV-46435"
+  },
+  {
+   "label": "UPC",
+   "value": "850008464355"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "5 g",
+   "2%**"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "†"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "8%**"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid, Sodium Ascorbate)",
+   "250 mg",
+   "278%"
+  ],
+  [
+   "Sodium",
+   "15 mg",
+   "1%"
+  ],
+  [
+   "**Percent Daily Values (DV) are based on a 2,000 calorie diet.†Daily Value (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "**Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿301.85",
+  "฿301.85",
+  "฿10.06/‏serving",
+  "{0}% off code: {1}",
+  "฿301.85",
+  "Save 0% in cart",
+  "฿10.06/‏serving",
+  "฿301.85",
+  "(0% off)",
+  "฿301.85",
+  "฿10.06/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46435/s/45.jpg"
+ ]
+}

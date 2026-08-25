@@ -1,0 +1,270 @@
+{
+ "pid": "22445",
+ "slug": "nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels",
+ "scrapedAt": "2026-08-25T17:30:13.070Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels.jpg",
+  "/products/iherb/nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels-2.jpg",
+  "/products/iherb/nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels-3.jpg",
+  "/products/iherb/nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels/22445",
+ "pageTitle": "Nature's Way, Pearls®, Women's Probiotic , 1 Billion CFU, 30 Softgels",
+ "h1": "Nature's Way, Pearls®, Women's Probiotic , 1 Billion CFU, 30 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "22445",
+  "name": "Nature's Way, Pearls®, Women's Probiotic , 1 Billion CFU, 30 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/g/76.jpg",
+  "mpn": "EMT-04213",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 7822
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "578.77",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Designed to Survive Stomach Acid Once Daily Small & Easy To Swallow Supports Vaginal & Digestive Health 1 Billion Active Cultures For Healthy Vaginal Flora Probiotic Supplement Supports Immune and Urinary Tract Health Gluten Free Howaru ® Fortifies Women's Digestive Tract and Vaginal Flora Advanced triple-layer softgel survives stomach acid. Protects against occasional bloating, constipation, and digestive discomfort. Active Lactobacilli cultures to benefit intestinal and vaginal flora.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.75x1.15"
+  },
+  "isRelatedTo": null,
+  "sku": "EMT-04213",
+  "gtin12": "763948042135",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/g/76.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Designed to Survive Stomach Acid",
+    "Once Daily",
+    "Small & Easy To Swallow",
+    "Supports Vaginal & Digestive Health",
+    "1 Billion Active Cultures",
+    "For Healthy Vaginal Flora",
+    "Probiotic Supplement",
+    "Supports Immune and Urinary Tract Health",
+    "Gluten Free",
+    "Howaru®",
+    "Advanced triple-layer softgel survives stomach acid.",
+    "Protects against occasional bloating, constipation, and digestive discomfort.",
+    "Active Lactobacilli cultures to benefit intestinal and vaginal flora."
+   ],
+   "paragraphs": [
+    "Fortifies Women's Digestive Tract and Vaginal Flora"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults swallow 1 softgel daily. May be taken with or without food. Do not chew or crush. If you are pregnant, nursing, or taking any medications, consult a healthcare professional before use.",
+    "No refrigeration required."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Palm oil, fish gelatin, glycerin, sunflower lecithin, pectin.",
+    "Contains fish (tilapia).",
+    "No salt, wheat, soy, dairy, or artificial colors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. This product has a tamper-evident foil pouch. Do not use if foil or plastic is punctured. Store at room temperature. Avoid excessive heat and direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2010"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "EMT-04213"
+  },
+  {
+   "label": "UPC",
+   "value": "763948042135"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 9.5 x 2.9 cm, 0.02 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV**"
+  ],
+  [
+   "Proprietary Probiotic BlendProviding 1 Billion CFU:Howaru® Lactobacillus acidophilus NCFM®Lactobacillus rhamnosus Lr-32®Lactobacillus plantarum Lp-115®",
+   "17 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Salt-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "22445",
+   "url": "https://th.iherb.com/pr/nature-s-way-pearls-women-s-probiotic-1-billion-cfu-30-softgels/22445",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "116149",
+   "url": "https://th.iherb.com/pr/nature-s-way-pearls-women-s-probiotic-90-softgels/116149",
+   "price": "฿1,522.39",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#14 in",
+   "category": "Women's Probiotics",
+   "href": "/c/womens-probiotics?sr=2"
+  },
+  {
+   "rank": "#22 in",
+   "category": "Lactobacillus",
+   "href": "/c/lactobacillus?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿578.77",
+  "฿578.77",
+  "฿19.29/‏serving",
+  "{0}% off code: {1}",
+  "฿578.77",
+  "Save 0% in cart",
+  "฿19.29/‏serving",
+  "฿578.77",
+  "(0% off)",
+  "฿578.77",
+  "฿19.29/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/g/76.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/k/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/g/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/emt/emt04213/s/92.jpg"
+ ]
+}

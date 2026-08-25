@@ -1,0 +1,261 @@
+{
+ "pid": "122443",
+ "slug": "terry-naturally-melatonin-ep120-10-mg-60-tablets",
+ "scrapedAt": "2026-08-25T17:28:34.203Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/terry-naturally-melatonin-ep120-10-mg-60-tablets.jpg",
+  "/products/iherb/terry-naturally-melatonin-ep120-10-mg-60-tablets-2.jpg",
+  "/products/iherb/terry-naturally-melatonin-ep120-10-mg-60-tablets-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/terry-naturally-melatonin-ep120-10-mg-60-tablets/122443",
+ "pageTitle": "Terry Naturally, Melatonin EP120™, 10 mg, 60 Tablets",
+ "h1": "Terry Naturally, Melatonin EP120™, 10 mg, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "122443",
+  "name": "Terry Naturally, Melatonin EP120™, 10 mg, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/g/44.jpg",
+  "mpn": "EUR-11946",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 58
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Terry Naturally",
+   "url": "http://www.europharmausa.com/",
+   "identifier": "EUR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "472.47",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Sustained Release Healthy Immune Function Healthy Inflammation Response^ Deep, Sound Sleep†† Dietary Supplement Vegan Non GMO Lab Tested For Purity & Quality Manufactured by a cGMP Compliant Facility For So Much More Than Sleep†† Melatonin is best known for healthy sleep and circadian rhythms, but it supports much more.†† As one of the most researched nutrients in the world, melatonin is the subject of over 27,000 published studies and growing! Melatonin is intricately involved with supporting: Healthy immune function Protection against oxidative stress Vision health Healthy aging Gastrointestinal health Healthy blood sugar balance† Healthy inflammation response^ Deep, sound sleep†† Experience the many health benefits of Melatonin EP120. What Lowers Your Melatonin Production? Age Artificial Lighting Screen Time Carrying Extra Pounds Shift Work Change in Schedule Why Melatonin EP120™? Deep, Sound Sleep: Start your day rested.†† Non-Habit Forming: Melatonin is already produced by your body, but over time levels can decrease. This supplement supports the balance in your favor. Sustained Release: Means that you can count on a consistent level of melatonin throughout the night, every night. †Supports healthy levels already within normal range ††For relief of occasional sleeplessness ^Occasional Inflammation due to exercise or overuse",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "EUR-11946",
+  "gtin12": "367703119461",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Sustained Release",
+    "Healthy Immune Function",
+    "Healthy Inflammation Response^",
+    "Deep, Sound Sleep††",
+    "Dietary Supplement",
+    "Vegan",
+    "Non GMO",
+    "Lab Tested For Purity & Quality",
+    "Manufactured by a cGMP Compliant Facility",
+    "Healthy immune function",
+    "Protection against oxidative stress",
+    "Vision health",
+    "Healthy aging",
+    "Gastrointestinal health",
+    "Healthy blood sugar balance†",
+    "Healthy inflammation response^",
+    "Deep, sound sleep††",
+    "Age",
+    "Artificial Lighting",
+    "Screen Time",
+    "Carrying Extra Pounds",
+    "Shift Work",
+    "Change in Schedule",
+    "Deep, Sound Sleep: Start your day rested.††",
+    "Non-Habit Forming: Melatonin is already produced by your body, but over time levels can decrease. This supplement supports the balance in your favor.",
+    "Sustained Release: Means that you can count on a consistent level of melatonin throughout the night, every night."
+   ],
+   "paragraphs": [
+    "For So Much More Than Sleep††",
+    "Melatonin is best known for healthy sleep and circadian rhythms, but it supports much more.†† As one of the most researched nutrients in the world, melatonin is the subject of over 27,000 published studies and growing!",
+    "Melatonin is intricately involved with supporting:",
+    "Experience the many health benefits of Melatonin EP120.",
+    "What Lowers Your Melatonin Production?",
+    "Why Melatonin EP120™?",
+    "†Supports healthy levels already within normal range",
+    "††For relief of occasional sleeplessness",
+    "^Occasional Inflammation due to exercise or overuse"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "1 tablet, one to two hours before bedtime"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sucrose, microcrystalline cellulose, hydroxypropyl methylcellulose, vegetable source stearic acid, maltodextrin, silica, vegetable source magnesium stearate.",
+    "No salt, yeast, wheat, gluten, soy, dairy products, artificial coloring, artificial flavoring, or artificial preservatives.",
+    "Terry Naturally brand products contain natural and other premium ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If pregnant or nursing, consult a healthcare practitioner before use. May cause drowsiness. Do not take when operating machinery or driving a vehicle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "EUR-11946"
+  },
+  {
+   "label": "UPC",
+   "value": "367703119461"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.7 x 5.6 x 5.6 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per 1 Tablet",
+   "%Daily Value"
+  ],
+  [
+   "Melatonin (EP120™)",
+   "10 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per 1 Tablet\t%Daily Value",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿472.47",
+  "฿472.47",
+  "฿7.87/‏serving",
+  "{0}% off code: {1}",
+  "฿472.47",
+  "Save 0% in cart",
+  "฿7.87/‏serving",
+  "฿472.47",
+  "(0% off)",
+  "฿472.47",
+  "฿7.87/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/eur/eur11946/s/36.jpg"
+ ]
+}

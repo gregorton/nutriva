@@ -1,0 +1,257 @@
+{
+ "pid": "126609",
+ "slug": "vitamatic-kids-magnesium-calm-gummies-natural-raspberry-60-gummies",
+ "scrapedAt": "2026-08-25T17:32:21.642Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-kids-magnesium-calm-gummies-natural-raspberry-60-gummies.jpg",
+  "/products/iherb/vitamatic-kids-magnesium-calm-gummies-natural-raspberry-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-kids-magnesium-calm-gummies-natural-raspberry-60-gummies/126609",
+ "pageTitle": "Vitamatic, Kids, Magnesium Calm Gummies, Natural Raspberry, 60 Gummies",
+ "h1": "Vitamatic, Kids, Magnesium Calm Gummies, Natural Raspberry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126609",
+  "name": "Vitamatic, Kids, Magnesium Calm Gummies, Natural Raspberry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/g/38.jpg",
+  "mpn": "VMC-47299",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1540
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "493.52",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Gluten Free Made With Non GMO Ingredients GMP - Certified Good Manufacturing Practice Plant Based Most bioavailable magnesium gummy - Our magnesium gummies promote healthy muscle cramps, nervous system, & healthy relaxation.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47299",
+  "gtin12": "810078472995",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/g/38.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Minerals",
+  "Children's Magnesium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Gluten Free",
+    "Made With Non GMO Ingredients",
+    "GMP - Certified Good Manufacturing Practice",
+    "Plant Based"
+   ],
+   "paragraphs": [
+    "Most bioavailable magnesium gummy - Our magnesium gummies promote healthy muscle cramps, nervous system, & healthy relaxation."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement for children ages 4 and older, chew 1 gummy daily. For us by children under age 4, seek the advice of a pediatrician. Instruct the child to chew gummies thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, citric acid, black carrot concentrate, trisodium citrate, natural raspberry flavor.",
+    "No preservatives, soy free, no artificial colors, flavors, or sweeteners."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Do not use if the safety seal is broken or missing. If you are taking any medications, consult a healthcare professional before use. Discontinue use immediately and consult your healthcare provider if you experience any adverse effects. Do not exceed the recommended dose. Store at room temperature."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47299"
+  },
+  {
+   "label": "UPC",
+   "value": "810078472995"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*"
+  ],
+  [
+   "Sugars",
+   "2 g",
+   "**"
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "4%"
+  ],
+  [
+   "Magnesium (from 300 mg of Magnesium Citrate)",
+   "35 mg",
+   "9%"
+  ],
+  [
+   "Sodium",
+   "<2.5 mg",
+   "1%"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿493.52",
+  "฿493.52",
+  "฿8.23/‏serving",
+  "{0}% off code: {1}",
+  "฿493.52",
+  "Save 0% in cart",
+  "฿8.23/‏serving",
+  "฿493.52",
+  "(0% off)",
+  "฿493.52",
+  "฿8.23/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/g/38.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/k/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/g/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47299/s/44.jpg"
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "pid": "139263",
+ "slug": "california-gold-nutrition-l-glutamine-l-leucine-120-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:47:21.202Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-120-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-120-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-120-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-l-glutamine-l-leucine-120-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-l-glutamine-l-leucine-120-veggie-capsules/139263",
+ "pageTitle": "California Gold Nutrition, L-Glutamine + L-Leucine, 120 Veggie Capsules",
+ "h1": "California Gold Nutrition, L-Glutamine + L-Leucine, 120 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139263",
+  "name": "California Gold Nutrition, L-Glutamine + L-Leucine, 120 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/g/36.jpg",
+  "mpn": "SPN-02480",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 512
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.27",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "274.95",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "343.69",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "500 mg of L-Glutamine and 500mg of L-Leucine Per Serving Featuring AjiPure® L-Glutamine & L-Leucine Suitable for Vegetarians or Vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility iTested Quality California Gold Nutrition® L-Glutamine + L-Leucine, 1,000 mg combines AjiPure® Quality L-Glutamine and L-Leucine, in a 1:1 ratio, ideal for individuals looking to support muscle performance, recovery, and strength.* These premium L-form amino acids support muscle endurance, muscle protein synthesis, and overall muscle health.* L-Glutamine is a conditionally essential amino acid and the most abundant in human muscle tissue, aiding in muscle repair and boosting immune function.* L-Leucine, an essential Branched Chain Amino Acid (BCAA) , stimulates the mTOR pathway to promote muscle protein synthesis and enhance strength performance.* Together, these amino acids are ideal for improving muscle endurance, building lean muscle mass, and accelerating recovery after exercise.* L-Glutamine & L-Leucine are sourced exclusively from AjiPure® and are produced through a patented Ferment-AjiPure® Technology, ensuring pharmaceutical-grade purity without any animal products, making it suitable for vegetarians and vegans. iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02480",
+  "gtin12": "898220024803",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/g/36.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Glutathione"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "500 mg of L-Glutamine and 500mg of L-Leucine Per Serving",
+    "Featuring AjiPure® L-Glutamine & L-Leucine",
+    "Suitable for Vegetarians or Vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "iTested Quality"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® L-Glutamine + L-Leucine, 1,000 mg combines AjiPure® Quality L-Glutamine and L-Leucine, in a 1:1 ratio, ideal for individuals looking to support muscle performance, recovery, and strength.* These premium L-form amino acids support muscle endurance, muscle protein synthesis, and overall muscle health.*",
+    "L-Glutamine is a conditionally essential amino acid and the most abundant in human muscle tissue, aiding in muscle repair and boosting immune function.* L-Leucine, an essential Branched Chain Amino Acid (BCAA) , stimulates the mTOR pathway to promote muscle protein synthesis and enhance strength performance.* Together, these amino acids are ideal for improving muscle endurance, building lean muscle mass, and accelerating recovery after exercise.*",
+    "L-Glutamine & L-Leucine are sourced exclusively from AjiPure® and are produced through a patented Ferment-AjiPure® Technology, ensuring pharmaceutical-grade purity without any animal products, making it suitable for vegetarians and vegans.",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02480"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024803"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.4 x 6.4 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "L-Glutamine",
+   "500 mg",
+   "†"
+  ],
+  [
+   "L-Leucine",
+   "500 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿343.69",
+  "฿343.69",
+  "฿5.73/‏serving",
+  "{0}% off code: {1}",
+  "฿343.69",
+  "Save 20% in cart",
+  "฿5.73/‏serving",
+  "฿274.95",
+  "(20% off)",
+  "฿343.69",
+  "฿4.58/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/g/36.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/k/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/g/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02480/s/19.jpg"
+ ]
+}

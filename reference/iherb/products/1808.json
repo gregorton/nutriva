@@ -1,0 +1,263 @@
+{
+ "pid": "1808",
+ "slug": "nature-s-way-vitamin-c-with-bioflavonoids-250-capsules",
+ "scrapedAt": "2026-08-25T17:36:47.161Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-vitamin-c-with-bioflavonoids-250-capsules.jpg",
+  "/products/iherb/nature-s-way-vitamin-c-with-bioflavonoids-250-capsules-2.jpg",
+  "/products/iherb/nature-s-way-vitamin-c-with-bioflavonoids-250-capsules-3.jpg",
+  "/products/iherb/nature-s-way-vitamin-c-with-bioflavonoids-250-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-vitamin-c-with-bioflavonoids-250-capsules/1808",
+ "pageTitle": "Nature's Way, Vitamin C With Bioflavonoids, 250 Capsules",
+ "h1": "Nature's Way, Vitamin C With Bioflavonoids, 250 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "1808",
+  "name": "Nature's Way, Vitamin C With Bioflavonoids, 250 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/g/75.jpg",
+  "mpn": "NWY-40331",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1078
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.66",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "838.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Since 1969 Supports Immune Health 1,000 mg Vitamin C Per 2-Capsule Serving Dietary Supplement Gluten Free Trust the Leaf® Supports Immune Function Provides powerful antioxidant support from vitamin C High potency vitamin C per 2-capsule serving Promotes collagen to support healthy skin With bioflavonoids from citrus fruits",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "NWY-40331",
+  "gtin12": "033674403310",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/g/75.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Since 1969",
+    "Supports Immune Health",
+    "1,000 mg Vitamin C Per 2-Capsule Serving",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Trust the Leaf®",
+    "Provides powerful antioxidant support from vitamin C",
+    "High potency vitamin C per 2-capsule serving",
+    "Promotes collagen to support healthy skin",
+    "With bioflavonoids from citrus fruits"
+   ],
+   "paragraphs": [
+    "Supports Immune Function"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 2 capsules daily with food. Not formulated for children. Do not exceed recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin (capsule), magnesium stearate, cellulose.",
+    "No wheat, soy, dairy, or artificial colors or flavors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, or taking any medications, consult a healthcare professional before use.",
+    "Keep out of reach of children. Safety sealed with inner seal. Do not use if seal is broken or missing. Keep tightly closed. Store at room temperature. Avoid excessive heat and direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NWY-40331"
+  },
+  {
+   "label": "UPC",
+   "value": "033674403310"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.8 x 7.2 x 7.1 cm, 0.3 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 125"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV**"
+  ],
+  [
+   "Vitamin C (ascorbic acid)",
+   "1,000 mg",
+   "1,111%"
+  ],
+  [
+   "Citrus Bioflavonoid Complex(from orange, grapefruit, lemon, lime, tangerine)",
+   "600 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "125"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "139756",
+   "url": "https://th.iherb.com/pr/nature-s-way-vitamin-c-with-bioflavonoids-100-capsules/139756",
+   "price": "฿429.16",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "250 count",
+   "pid": "1808",
+   "url": "https://th.iherb.com/pr/nature-s-way-vitamin-c-with-bioflavonoids-250-capsules/1808",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿838.12",
+  "฿838.12",
+  "฿6.70/‏serving",
+  "{0}% off code: {1}",
+  "฿838.12",
+  "Save 0% in cart",
+  "฿6.70/‏serving",
+  "฿838.12",
+  "(0% off)",
+  "฿838.12",
+  "฿6.70/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/g/75.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/k/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/g/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40331/s/94.jpg"
+ ]
+}

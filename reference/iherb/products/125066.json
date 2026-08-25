@@ -1,0 +1,243 @@
+{
+ "pid": "125066",
+ "slug": "best-naturals-turmeric-curcumin-with-bioperine-180-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:27:51.289Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/best-naturals-turmeric-curcumin-with-bioperine-180-vegetarian-capsules.jpg",
+  "/products/iherb/best-naturals-turmeric-curcumin-with-bioperine-180-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/best-naturals-turmeric-curcumin-with-bioperine-180-vegetarian-capsules/125066",
+ "pageTitle": "Best Naturals, Turmeric Curcumin With BioPerine®, 180 Vegetarian Capsules",
+ "h1": "Best Naturals, Turmeric Curcumin With BioPerine®, 180 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125066",
+  "name": "Best Naturals, Turmeric Curcumin With BioPerine®, 180 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/g/24.jpg",
+  "mpn": "BNR-01790",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 489
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Best Naturals",
+   "url": "https://www.shopbestnaturals.com/",
+   "identifier": "BNR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "574.18",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Premium Formula GMP - Good Manufacturing Practice Product Dietary Supplement Curcumin is the principle bioactive component of Turmeric (Curcuma longa). Although it has been used for centuries by Ayurvedic herbalists, modern scientific research has demonstrated curcumin's potent free radical scavenging properties, as well as its ability to support the body's proper response to biological stress.f Certain research publications indicate that Curcumin may help support the following: Supports healthy cardiovascular system. Supports healthy joints, vision & immune function.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "BNR-01790",
+  "gtin12": "817716017907",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Premium Formula",
+    "GMP - Good Manufacturing Practice Product",
+    "Dietary Supplement",
+    "Supports healthy cardiovascular system.",
+    "Supports healthy joints, vision & immune function."
+   ],
+   "paragraphs": [
+    "Curcumin is the principle bioactive component of Turmeric (Curcuma longa). Although it has been used for centuries by Ayurvedic herbalists, modern scientific research has demonstrated curcumin's potent free radical scavenging properties, as well as its ability to support the body's proper response to biological stress.f Certain research publications indicate that Curcumin may help support the following:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) vegetarian capsules daily, preferably with meals or as directed by your qualified health care professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Magnesium stearate (vegetable source), silicon dioxide, capsule (vegetable cellulose).",
+    "No artificial color, flavor or sweetener, no preservatives, no sugar, no starch, no milk, no corn, no soy, no egg, no lactose, no gluten, no wheat, no yeast, no fish. Sodium free."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only, if you are pregnant, nursing, taking any medications or have any medical condition, consult your doctor before use. Discontinue use and consult your doctor if any adverse reactions occur.",
+    "Keep out of the reach of children.",
+    "Do not use if safety seal is broken or missing.",
+    "Keep in cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BNR-01790"
+  },
+  {
+   "label": "UPC",
+   "value": "817716017907"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.1 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Vegetarian Capsules"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Powder (Curcuma longa)(root)",
+   "1,400 mg",
+   "*"
+  ],
+  [
+   "Turmeric Extract 99% Curcumin",
+   "100 mg",
+   "*"
+  ],
+  [
+   "BioPerine® Black Pepper Extract(Piper nigrum) (fruit)",
+   "10 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 vegetarian capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿574.18",
+  "฿574.18",
+  "฿6.38/‏serving",
+  "{0}% off code: {1}",
+  "฿574.18",
+  "Save 0% in cart",
+  "฿6.38/‏serving",
+  "฿574.18",
+  "(0% off)",
+  "฿574.18",
+  "฿6.38/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bnr/bnr01790/s/30.jpg"
+ ]
+}

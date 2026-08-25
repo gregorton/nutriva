@@ -1,0 +1,238 @@
+{
+ "pid": "113547",
+ "slug": "viva-naturals-vitamin-c-1-000-mg-250-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:27:49.712Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/viva-naturals-vitamin-c-1-000-mg-250-veggie-capsules.jpg",
+  "/products/iherb/viva-naturals-vitamin-c-1-000-mg-250-veggie-capsules-2.jpg",
+  "/products/iherb/viva-naturals-vitamin-c-1-000-mg-250-veggie-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/viva-naturals-vitamin-c-1-000-mg-250-veggie-capsules/113547",
+ "pageTitle": "Viva Naturals, Vitamin C, 1,000 mg, 250 Veggie Capsules",
+ "h1": "Viva Naturals, Vitamin C, 1,000 mg, 250 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "113547",
+  "name": "Viva Naturals, Vitamin C, 1,000 mg, 250 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/g/116.jpg",
+  "mpn": "VVA-19377",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 415
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Viva Naturals",
+   "url": "https://vivanaturals.com/",
+   "identifier": "VVA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.89",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1024.80",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Immune Health + Antioxidant Protection Third-Party Tested for Purity & Potency Dietary Supplement Specially Formulated Manufactured in GMP Certified Facilities Non GMO Gluten Free Dairy Free Veggie Friendly Quali®-C A Wealth Of Wellness™ We make wellness possible.™ A Bit About Us We believe wellness is living a life of balance. It's a lifestyle that benefits your mind, body and soul. We want to ensure everyone has what they need to live a healthy, happy and more balanced life. Good for: Your daily dose of immunity-supporting vitamin C and antioxidant protection. Made With: A vitamin C botanical blend including citrus bioflavonoids & rose hips.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.4x3.35"
+  },
+  "isRelatedTo": null,
+  "sku": "VVA-19377",
+  "gtin12": "705105193779",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/g/116.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Immune Health + Antioxidant Protection",
+    "Third-Party Tested for Purity & Potency",
+    "Dietary Supplement",
+    "Specially Formulated",
+    "Manufactured in GMP Certified Facilities",
+    "Non GMO",
+    "Gluten Free",
+    "Dairy Free",
+    "Veggie Friendly",
+    "Quali®-C",
+    "A Wealth Of Wellness™",
+    "We make wellness possible.™"
+   ],
+   "paragraphs": [
+    "A Bit About Us",
+    "We believe wellness is living a life of balance. It's a lifestyle that benefits your mind, body and soul. We want to ensure everyone has what they need to live a healthy, happy and more balanced life.",
+    "Good for: Your daily dose of immunity-supporting vitamin C and antioxidant protection.",
+    "Made With: A vitamin C botanical blend including citrus bioflavonoids & rose hips."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily with a meal or as recommended by your healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetarian capsule), vegetable stearate.",
+    "Manufactured without gluten, dairy or GMOs.",
+    "Manufactured in the USA with domestic and imported ingredients.",
+    "Made with: A vitamin C botanical blend including citrus bioflavonoids & rose hips."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Storage Information: Store in a cool, dry place protected from heat and light.",
+    "As with any dietary supplement, consult your healthcare practitioner before using this or any product if you are pregnant, nursing, trying to conceive, taking medication or have a medical condition. Keep out of reach of children. Do not use if safety seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.4 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VVA-19377"
+  },
+  {
+   "label": "UPC",
+   "value": "705105193779"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.9 x 8.6 x 8.5 cm, 0.4 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetarian Capsule"
+  ],
+  [
+   "Servings Per Container: 250"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C(Proprietary Blend of L-Ascorbic acid, Citrus Bioflavonoids [Citrus sinensis, peel], Rose Hips [Rosa canina, fruit])",
+   "1,000 mg",
+   "1,111%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "250"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 6 left",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,024.80",
+  "฿1,024.80",
+  "฿4.10/‏serving",
+  "{0}% off code: {1}",
+  "฿1,024.80",
+  "Save 0% in cart",
+  "฿4.10/‏serving",
+  "฿1,024.80",
+  "(0% off)",
+  "฿1,024.80",
+  "฿4.10/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/g/116.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/k/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/g/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/s/117.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vva/vva19377/s/108.jpg"
+ ]
+}

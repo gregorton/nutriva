@@ -1,0 +1,265 @@
+{
+ "pid": "9158",
+ "slug": "bluebonnet-nutrition-omega-3-fish-oil-lemon-120-softgels",
+ "scrapedAt": "2026-08-25T17:32:38.738Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/bluebonnet-nutrition-omega-3-fish-oil-lemon-120-softgels.jpg",
+  "/products/iherb/bluebonnet-nutrition-omega-3-fish-oil-lemon-120-softgels-2.jpg",
+  "/products/iherb/bluebonnet-nutrition-omega-3-fish-oil-lemon-120-softgels-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/bluebonnet-nutrition-omega-3-fish-oil-lemon-120-softgels/9158",
+ "pageTitle": "Bluebonnet Nutrition, Omega-3 Fish Oil, Lemon, 120 Softgels",
+ "h1": "Bluebonnet Nutrition, Omega-3 Fish Oil, Lemon, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "9158",
+  "name": "Bluebonnet Nutrition, Omega-3 Fish Oil, Lemon, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/g/65.jpg",
+  "mpn": "BLB-00945",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 206
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Bluebonnet Nutrition",
+   "url": "http://www.bluebonnetnutrition.com/",
+   "identifier": "BLB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.95",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1716.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "2,000 mg/Serving Omega-3 with 1,000 mg DHA Per 2 Softgels Brain Health Superior Triglyceride Form Dietary Supplement Soy Free Gluten Free Cognitive Function Mood Support Sustainably Harvested Molecularly Distilled 3rd Party Tested Quality Assured No Unpleasant Odor/Aftertaste Igen Non-GMO Tested Bluebonnet's Omega-3 Fish Oil Brain Health Softgels are formulated with a specific ratio of DHA and EPA to help support brain function, mood, and focus by utilizing ultra-refined omega-3s from wild-caught fish. Every batch is tested for environmental toxins, including heavy metals. All fish oils are in the triglyceride form and surpass the strictest international standards for purity and freshness.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.9x5.5"
+  },
+  "isRelatedTo": null,
+  "sku": "BLB-00945",
+  "gtin12": "743715009455",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/g/65.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "2,000 mg/Serving Omega-3 with 1,000 mg DHA Per 2 Softgels",
+    "Brain Health",
+    "Superior Triglyceride Form",
+    "Dietary Supplement",
+    "Soy Free",
+    "Gluten Free",
+    "Cognitive Function",
+    "Mood Support",
+    "Sustainably Harvested",
+    "Molecularly Distilled",
+    "3rd Party Tested Quality Assured",
+    "No Unpleasant Odor/Aftertaste",
+    "Igen Non-GMO Tested"
+   ],
+   "paragraphs": [
+    "Bluebonnet's Omega-3 Fish Oil Brain Health Softgels are formulated with a specific ratio of DHA and EPA to help support brain function, mood, and focus by utilizing ultra-refined omega-3s from wild-caught fish.",
+    "Every batch is tested for environmental toxins, including heavy metals. All fish oils are in the triglyceride form and surpass the strictest international standards for purity and freshness."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two softgels once daily, preferably with a meal or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin (fish), glycerin, purified water, lemon oil, mixed tocopherols (preservative).",
+    "Contains: Fish (anchovies, sardines, mackerel, tilapia).",
+    "Free of milk, egg, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame.",
+    "Also free of corn, gluten, barley, rice, sodium and sugar.",
+    "Made in USA from imported ingredients",
+    "This product does not contain common GE genes or proteins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking mediation, or have a medical condition. Do not use this supplement two weeks before, after surgery, or with blood-thinning medication.",
+    "Keep out of reach of children.",
+    "Store tightly closed in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2008"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.43 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BLB-00945"
+  },
+  {
+   "label": "UPC",
+   "value": "743715009455"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.4 x 7.4 x 14 cm, 0.43 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Serving Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%**"
+  ],
+  [
+   "Omega-3 Fish Oil Concentrate",
+   "2,000 mg",
+   "*"
+  ],
+  [
+   "DHA (docosahexaenoic acid)",
+   "1,000 mg",
+   "*"
+  ],
+  [
+   "EPA (eicosapentaenoic acid)",
+   "210 mg",
+   "*"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.* Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "* Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Sugar-free",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,716.12",
+  "฿1,716.12",
+  "฿28.60/‏serving",
+  "{0}% off code: {1}",
+  "฿1,716.12",
+  "Save 0% in cart",
+  "฿28.60/‏serving",
+  "฿1,716.12",
+  "(0% off)",
+  "฿1,716.12",
+  "฿28.60/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/g/65.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/k/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/g/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/blb/blb00945/s/57.jpg"
+ ]
+}

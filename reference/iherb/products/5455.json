@@ -1,0 +1,246 @@
+{
+ "pid": "5455",
+ "slug": "source-naturals-vitamin-k2-d3-60-tablets",
+ "scrapedAt": "2026-08-25T17:32:20.489Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/source-naturals-vitamin-k2-d3-60-tablets.jpg",
+  "/products/iherb/source-naturals-vitamin-k2-d3-60-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/source-naturals-vitamin-k2-d3-60-tablets/5455",
+ "pageTitle": "Source Naturals, Vitamin K2 + D3, 60 Tablets",
+ "h1": "Source Naturals, Vitamin K2 + D3, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "5455",
+  "name": "Source Naturals, Vitamin K2 + D3, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/g/46.jpg",
+  "mpn": "SNS-01922",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1262
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Source Naturals",
+   "url": "https://shopsourcenaturals.com/",
+   "identifier": "SNS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "524.96",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "120 mcg of natto MK-7™ Vitamin K2: Menaquinone-7 Bone and Heart Health Support Dietary Supplement Source Naturals® Vitamin K2+D3 combines two important nutrients that support bone and heart health. The Natto MK-7™ vitamin K2 in this product lasts up to 12 times longer in the body than other forms of vitamin K.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "SNS-01922",
+  "gtin12": "021078019220",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "120 mcg of natto MK-7™ Vitamin K2: Menaquinone-7",
+    "Bone and Heart Health Support",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Source Naturals® Vitamin K2+D3 combines two important nutrients that support bone and heart health. The Natto MK-7™ vitamin K2 in this product lasts up to 12 times longer in the body than other forms of vitamin K."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "1 tablet daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Dibasic calcium phosphate, sorbitol, microcrystalline cellulose, stearic acid, silica, magnesium stearate, and modified cellulose gum.",
+    "Contains soy.",
+    "Contains no yeast, dairy, egg, gluten, soy, or wheat. Contains no preservatives, or artificial color, flavor or fragrance."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, may become pregnant, breastfeeding, or if you are taking anticoagulant drugs such as warfarin (Coumadin®), consult a healthcare practitioner before using. Vitamin K2 may counteract the effects of anticoagulation therapy, and therefore is not recommended for patients on blood-thinning medications.",
+    "Do not use if either tamper-evident seal is broken or missing. Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SNS-01922"
+  },
+  {
+   "label": "UPC",
+   "value": "021078019220"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.1 x 5.1 x 5 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount per Serving",
+   "%DV"
+  ],
+  [
+   "Vitamin D-3 (as cholecalciferol)",
+   "25 mcg (1,000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin K (as menaquinone-7) [NattoMK-7™]",
+   "120 mcg",
+   "100%"
+  ],
+  [
+   "Calcium (as dibasic calcium phosphate)",
+   "106 mg",
+   "8%"
+  ]
+ ],
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "144247",
+   "url": "https://th.iherb.com/pr/source-naturals-vitamin-k2-d3-30-tablets/144247",
+   "price": "฿280.86",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "5455",
+   "url": "https://th.iherb.com/pr/source-naturals-vitamin-k2-d3-60-tablets/5455",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿524.96",
+  "฿524.96",
+  "฿8.75/‏serving",
+  "{0}% off code: {1}",
+  "฿524.96",
+  "Save 0% in cart",
+  "฿8.75/‏serving",
+  "฿524.96",
+  "(0% off)",
+  "฿524.96",
+  "฿8.75/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns01922/s/49.jpg"
+ ]
+}

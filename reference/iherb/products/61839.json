@@ -1,0 +1,268 @@
+{
+ "pid": "61839",
+ "slug": "california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg",
+ "scrapedAt": "2026-08-25T17:44:30.740Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg.jpg",
+  "/products/iherb/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg-2.jpg",
+  "/products/iherb/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg-3.jpg",
+  "/products/iherb/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg-90-veggie-caps/61839",
+ "pageTitle": "California Gold Nutrition, Bee Propolis 2X, Concentrated Extract, 500 mg, 90 Veggie Caps",
+ "h1": "California Gold Nutrition, Bee Propolis 2X, Concentrated Extract, 500 mg, 90 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "61839",
+  "name": "California Gold Nutrition, Bee Propolis 2X, Concentrated Extract, 500 mg, 90 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/g/141.jpg",
+  "mpn": "CGN-00945",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 31729
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "257.77",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "343.69",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Immune Health and Vitality* Suitable for Vegetarians Formulated without Gluten, GMOs, or Soy California Gold Nutrition® Bee Propolis 2X contains bee propolis resin extract in veggie capsules that is equivalent to 1,000 mg of bee propolis. Our concentrated bee propolis undergoes extensive filtering and extraction processes in order to concentrate the naturally-occurring compounds found in raw bee propolis resin. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.25x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-00945",
+  "gtin12": "898220009459",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/g/141.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bee Products",
+  "Propolis"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Immune Health and Vitality*",
+    "Suitable for Vegetarians",
+    "Formulated without Gluten, GMOs, or Soy"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Bee Propolis 2X contains bee propolis resin extract in veggie capsules that is equivalent to 1,000 mg of bee propolis. Our concentrated bee propolis undergoes extensive filtering and extraction processes in order to concentrate the naturally-occurring compounds found in raw bee propolis resin.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Note: Bee-derived products may cause an allergic reaction in some people.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2014"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-00945"
+  },
+  {
+   "label": "UPC",
+   "value": "898220009459"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 5.7 x 5.7 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Bee Propolis Resin Extract Powder (2:1)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "61839",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg-90-veggie-caps/61839",
+   "price": "฿257.77",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "61840",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-bee-propolis-2x-concentrated-extract-500-mg-240-veggie-capsules/61840",
+   "price": "฿828.46",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Bee Products",
+   "href": "/c/bee-products?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Propolis",
+   "href": "/c/propolis?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿343.69",
+  "฿343.69",
+  "฿3.82/‏serving",
+  "{0}% off code: {1}",
+  "฿343.69",
+  "Save 25% in cart",
+  "฿3.82/‏serving",
+  "฿257.77",
+  "(25% off)",
+  "฿343.69",
+  "฿2.86/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/g/141.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/k/141.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/g/141.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/s/141.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/s/146.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/s/150.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/s/153.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/s/152.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00945/s/151.jpg"
+ ]
+}

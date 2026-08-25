@@ -1,0 +1,332 @@
+{
+ "pid": "149191",
+ "slug": "lifeable-kids-multivitamin-with-iron-gummies-raspberry-60-gummies",
+ "scrapedAt": "2026-08-25T17:13:20.805Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-kids-multivitamin-with-iron-gummies-raspberry-60-gummies.jpg",
+  "/products/iherb/lifeable-kids-multivitamin-with-iron-gummies-raspberry-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-kids-multivitamin-with-iron-gummies-raspberry-60-gummies/149191",
+ "pageTitle": "Lifeable, Kids, Multivitamin With Iron Gummies, Raspberry, 60 Gummies",
+ "h1": "Lifeable, Kids, Multivitamin With Iron Gummies, Raspberry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "149191",
+  "name": "Lifeable, Kids, Multivitamin With Iron Gummies, Raspberry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/g/8.jpg",
+  "mpn": "LFB-73142",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 75
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.49",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "622.08",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Whole Body Health Kosher Vegetarian Gluten Free Nut Free These delicious multivitamins are the perfect way to ensure your children get the vitamins they need to help them grow up strong and healthy. each multivitamin is packed with essential vitamins and minerals such as vitamins a, b, c, d, e, zinc and more!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73142",
+  "gtin12": "810102731425",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Whole Body Health",
+    "Kosher",
+    "Vegetarian",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "These delicious multivitamins are the perfect way to ensure your children get the vitamins they need to help them grow up strong and healthy. each multivitamin is packed with essential vitamins and minerals such as vitamins a, b, c, d, e, zinc and more!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Suggested use for children 4 yrs and up: As a dietary supplement, children 4-8 ears old take one (1) gummy per day, children 9 years old and up take two (2) gummies per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, natural flavor, black carrot concentrate and sodium copper chlorophyllin (colors), trisodium citrate, citric acid, carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish, Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using. Not for children under 2 years of age due to risk of choking.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose call a doctor or poison control center immediately.",
+    "Do not use this product if the safety seal under cap is torn or missing.",
+    "Store at room temperature. Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73142"
+  },
+  {
+   "label": "UPC",
+   "value": "810102731425"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy (4 to 8 years),2 Gummies (9 years and older)"
+  ],
+  [
+   "Servings Per Container: 60, 30"
+  ],
+  [
+   "",
+   "Amount Per Gummy",
+   "% Daily Value Per 1 Gummy†",
+   "% Daily Value Per 2 Gummies†"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "3 g",
+   "1%",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%",
+   "4%"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "325 mcg",
+   "36%",
+   "72%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "25 mg",
+   "28%",
+   "56%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "10 mcg (400 IU)",
+   "50%",
+   "100%"
+  ],
+  [
+   "Vitamin E (as DL-alpha tocopheryl acetate)",
+   "9.5 mg",
+   "63%",
+   "127%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "9 mg",
+   "56%",
+   "113%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCI)",
+   "1 mg",
+   "59%",
+   "118%"
+  ],
+  [
+   "Folate",
+   "306 mcg DFE (180 mcg Folic Acid)",
+   "77%",
+   "153%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "1.4 mcg",
+   "58%",
+   "117%"
+  ],
+  [
+   "Biotin (as D-biotin)",
+   "17.5 mcg",
+   "58%",
+   "117%"
+  ],
+  [
+   "Choline (as choline bitartrate)",
+   "26.5 mg",
+   "5%",
+   "10%"
+  ],
+  [
+   "Iron (as ferric saccharate)",
+   "6 mg",
+   "33%",
+   "67%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "110 mcg",
+   "73%",
+   "147%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "1.9 mg",
+   "17%",
+   "35%"
+  ],
+  [
+   "* Percent Daily Values are based on a 2,000 calorie diet.** Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per  Gummy\t% Daily Value Per 1 Gummy†\t% Daily Value Per 2 Gummies†",
+  "* Percent Daily Values are based on a 2,000 calorie diet.",
+  "** Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿622.08",
+  "฿622.08",
+  "฿10.37/‏serving",
+  "{0}% off code: {1}",
+  "฿622.08",
+  "Save 0% in cart",
+  "฿10.37/‏serving",
+  "฿622.08",
+  "(0% off)",
+  "฿622.08",
+  "฿10.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73142/s/13.jpg"
+ ]
+}

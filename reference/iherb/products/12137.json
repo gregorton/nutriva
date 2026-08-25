@@ -1,0 +1,246 @@
+{
+ "pid": "12137",
+ "slug": "doctor-s-best-high-absorption-curcumin-120-tablets",
+ "scrapedAt": "2026-08-25T17:29:29.529Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-high-absorption-curcumin-120-tablets.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-curcumin-120-tablets-2.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-curcumin-120-tablets-3.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-curcumin-120-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-curcumin-120-tablets/12137",
+ "pageTitle": "Doctor's Best, High Absorption Curcumin, 120 Tablets",
+ "h1": "Doctor's Best, High Absorption Curcumin, 120 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "12137",
+  "name": "Doctor's Best, High Absorption Curcumin, 120 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/g/92.jpg",
+  "mpn": "DRB-00195",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 4120
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2382.68",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition ™ From Turmeric Root Supports Joint Health Curcumin C3 Complex ® BioPerine ® Dietary Supplement Vegan ​ Non-GMO / Gluten Free / Soy Free At Doctor's Best, we believe in elevating well-being with a golden touch. Our specialized formula features Curcumin C3 Complex®, a powerhouse renowned for its diverse health benefits, including support for joints and overall antioxidant well-being. Helps support cellular integrity & liver health Supports connective tissues by inhibiting destructive enzymes BioPerine® helps promote absorption of nutrients in the GI tract",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x5"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00195",
+  "gtin12": "753950001954",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/g/92.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "From Turmeric Root",
+    "Supports Joint Health",
+    "Curcumin C3 Complex®",
+    "BioPerine®",
+    "Dietary Supplement",
+    "Vegan​",
+    "Non-GMO / Gluten Free / Soy Free",
+    "Helps support cellular integrity & liver health",
+    "Supports connective tissues by inhibiting destructive enzymes",
+    "BioPerine® helps promote absorption of nutrients in the GI tract"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we believe in elevating well-being with a golden touch. Our specialized formula features Curcumin C3 Complex®, a powerhouse renowned for its diverse health benefits, including support for joints and overall antioxidant well-being."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 tablet daily with food, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, sodium starch glycolate, magnesium stearate (vegetable source), silicon dioxide, hypromellose (coating)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your physician before using this product if you are pregnant, lactating, or taking anticoagulants.",
+    "Keep out of reach of children.",
+    "This product contains natural ingredients that may vary in color.",
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2008"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00195"
+  },
+  {
+   "label": "UPC",
+   "value": "753950001954"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "6.4 x 6.4 x 12.7 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Serving Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Curcumin C3 Complex®Turmeric extract (Curcuma longa) (root), standardized to contain 95% Curcuminoids, Including:Bisdemethoxycurcumin (2.2-6.5%)Demethoxycurcumin (15-19%)Curcumin (75-81%)",
+   "1000 mg",
+   "†"
+  ],
+  [
+   "Black Pepper Ext. (Piper nigrum) (fruit)(standardized to contain 95% Piperine) (BioPerine®)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,382.68",
+  "฿2,382.68",
+  "฿19.86/‏serving",
+  "{0}% off code: {1}",
+  "฿2,382.68",
+  "Save 0% in cart",
+  "฿19.86/‏serving",
+  "฿2,382.68",
+  "(0% off)",
+  "฿2,382.68",
+  "฿19.86/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/g/92.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/k/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/g/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/101.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/102.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/103.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/104.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00195/s/105.jpg"
+ ]
+}

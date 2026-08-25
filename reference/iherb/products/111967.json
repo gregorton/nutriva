@@ -1,0 +1,219 @@
+{
+ "pid": "111967",
+ "slug": "mild-by-nature-nourishing-body-wash-coconut-bergamot-16-fl-oz-473-ml",
+ "scrapedAt": "2026-08-25T17:47:07.369Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-nourishing-body-wash-coconut-bergamot-16-fl-oz-473-ml.jpg",
+  "/products/iherb/mild-by-nature-nourishing-body-wash-coconut-bergamot-16-fl-oz-473-ml-2.jpg",
+  "/products/iherb/mild-by-nature-nourishing-body-wash-coconut-bergamot-16-fl-oz-473-ml-3.jpg",
+  "/products/iherb/mild-by-nature-nourishing-body-wash-coconut-bergamot-16-fl-oz-473-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-nourishing-body-wash-coconut-bergamot-16-fl-oz-473-ml/111967",
+ "pageTitle": "Mild By Nature, Nourishing Body Wash, Coconut Bergamot, 16 fl oz (473 ml)",
+ "h1": "Mild By Nature, Nourishing Body Wash, Coconut Bergamot, 16 fl oz (473 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "111967",
+  "name": "Mild By Nature, Nourishing Body Wash, Coconut Bergamot, 16 fl oz (473 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/g/77.jpg",
+  "mpn": "MBN-02154",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 3617
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.19",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "232.40",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "304.86",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild By Nature Nourishing Body Wash, Coconut Bergamot Shea Butter, Coconut, and Sweet Almond Oils Chamomile, Grape Seed, and Olive Leaf Extracts pH Balanced and Cruelty-Free For Silky Soft, Healthier-Looking Skin Formulated Without Sulfates, Parabens or Phthalates Made in the USA with Globally Sourced Materials Cleanse and nourish the skin with one simple step. Mild By Nature Nourishing Body Wash helps your skin feel clean and smooth with moisturizing ingredients like shea butter, as well as nourishing vitamin E to help protect the skin. This unique formula also features chamomile, grape seed, and olive leaf extracts to help you achieve silky, soft, healthier-looking skin. Our Coconut Bergamot body wash is infused with coconut and sweet almond oils for a light, refreshing scent that awakens the senses and helps soothe dry skin. Help your skin stay clean and moisturized by using this nourishing body wash daily.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.25x2.1"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02154",
+  "gtin12": "898220021543",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/g/77.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Baby & Kids Bath, Skin & Hair",
+  "Baby & Kids Body Wash & Soap"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild By Nature Nourishing Body Wash, Coconut Bergamot",
+    "Shea Butter, Coconut, and Sweet Almond Oils",
+    "Chamomile, Grape Seed, and Olive Leaf Extracts",
+    "pH Balanced and Cruelty-Free",
+    "For Silky Soft, Healthier-Looking Skin",
+    "Formulated Without Sulfates, Parabens or Phthalates",
+    "Made in the USA with Globally Sourced Materials"
+   ],
+   "paragraphs": [
+    "Cleanse and nourish the skin with one simple step. Mild By Nature Nourishing Body Wash helps your skin feel clean and smooth with moisturizing ingredients like shea butter, as well as nourishing vitamin E to help protect the skin. This unique formula also features chamomile, grape seed, and olive leaf extracts to help you achieve silky, soft, healthier-looking skin.",
+    "Our Coconut Bergamot body wash is infused with coconut and sweet almond oils for a light, refreshing scent that awakens the senses and helps soothe dry skin. Help your skin stay clean and moisturized by using this nourishing body wash daily."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply a generous amount onto a wet pouf, washcloth or hands. Lather. Rinse thoroughly."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Cocamidopropyl Hydroxysultaine, Sodium C14-16 Olefin Sulfonate, Glycerin, Cocamide DIPA, Sodium Chloride, Lauryl Glucoside, Cocos Nucifera (Coconut) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Butyrospermum Parkii (Shea) Nut Butter, Chamomilla Recutita (Matricaria) Flower Extract *, Olea Europaea (Olive) Leaf Extract, Vitis Vinifera (Grape) Seed Extract, Aloe Barbadensis (Aloe Vera) Leaf Juice *, Tocopheryl Acetate (Vitamin E), Citrus Paradisi (Grapefruit) Fruit Extract, Echinacea Angustifolia Extract, Lavandula Angustifolia (Lavender) Flower Extract, Laminaria Digitata (Sea Kelp) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Ficus Carica (Fig) Fruit Extract, Citrus Limon (Lemon) Peel Oil, Citrus Aurantium (Bitter Orange) Peel Oil, Phenoxyethanol, Potassium Sorbate, Citric Acid, Polyquaternium-7, Sodium Phytate, Limonene, Fragrance (Parfum)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid contact with eyes. Keep out of reach of children.",
+    "Discontinue use if irritation occurs."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02154"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021543"
+  },
+  {
+   "label": "Package quantity",
+   "value": "473 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "19.4 x 8.3 x 5.3 cm, 0.54 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "473 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Cruelty-free",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿304.86",
+  "฿304.86",
+  "฿0.64/‏ml",
+  "{0}% off code: {1}",
+  "฿304.86",
+  "Save 24% in cart",
+  "฿0.64/‏ml",
+  "฿232.40",
+  "(24% off)",
+  "฿304.86",
+  "฿0.49/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/g/77.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/k/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/g/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/s/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02154/b/77.jpg"
+ ]
+}

@@ -1,0 +1,272 @@
+{
+ "pid": "411",
+ "slug": "now-foods-l-arginine-1-000-mg-120-tablets",
+ "scrapedAt": "2026-08-25T17:20:48.904Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-l-arginine-1-000-mg-120-tablets.jpg",
+  "/products/iherb/now-foods-l-arginine-1-000-mg-120-tablets-2.jpg",
+  "/products/iherb/now-foods-l-arginine-1-000-mg-120-tablets-3.jpg",
+  "/products/iherb/now-foods-l-arginine-1-000-mg-120-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-l-arginine-1-000-mg-120-tablets/411",
+ "pageTitle": "NOW Foods, L-Arginine, 1,000 mg, 120 Tablets",
+ "h1": "NOW Foods, L-Arginine, 1,000 mg, 120 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "411",
+  "name": "NOW Foods, L-Arginine, 1,000 mg, 120 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/g/32.jpg",
+  "mpn": "NOW-00035",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 27762
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.57",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "727.32",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Amino Acids Conditionally Essential Amino Acid Nitric Oxide Precursor Non-GMO A Dietary Supplement Double Strength Vegetarian/Vegan Kosher Family Owned Since 1968 GMP Quality Assured Arginine is a conditionally essential basic amino acid involved primarily in urea metabolism and excretion, as well as in DNA synthesis and protein production. It is an important precursor of nitric oxide (NO) and thus plays a role in the dilation of blood vessels.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00035",
+  "gtin12": "733739000354",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Amino Acids",
+  "L-Arginine"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Amino Acids",
+    "Conditionally Essential Amino Acid",
+    "Nitric Oxide Precursor",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Double Strength",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Family Owned Since 1968",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Arginine is a conditionally essential basic amino acid involved primarily in urea metabolism and excretion, as well as in DNA synthesis and protein production. It is an important precursor of nitric oxide (NO) and thus plays a role in the dilation of blood vessels."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet twice daily as needed. Take between meals or at bedtime with at least 8 oz. of water or juice to facilitate absorption."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hydroxypropyl cellulose, microcrystalline cellulose, stearic acid (vegetable source), croscarmellose sodium, silicon dioxide and vegetarian coating.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish or tree nut ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "This product has twice the L-Arginine (1,000 mg per tablet) as in our regular strength product (500 mg per capsule).",
+    "The L-Arginine used in this product is pharmaceutical grade."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place after opening.",
+    "Take this product with at least 8 oz. of water or juice. For adults only. Not for pregnant or nursing women. Consult physician if taking medication (especially antihypertensives, anticoagulants, and antidiabetic drugs), have a medical condition (especially asthma or renal disease) or are planning to have surgery. This product should be avoided by persons with glaucoma or herpes simplex unless otherwise prescribed by a physician.",
+    "Do not use if you have a myocardial infarction or have established coronary artery disease. Keep out of reach of children.",
+    "Natural color variation may occur in this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.26 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00035"
+  },
+  {
+   "label": "UPC",
+   "value": "733739000354"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.9 x 6.9 x 6.9 cm, 0.26 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "L-Arginine (from 1,250 mg L-Arginine HCl)",
+   "1 g (1,000 mg)",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "116193",
+   "url": "https://th.iherb.com/pr/now-foods-sports-l-arginine-1-000-mg-60-tablets/116193",
+   "price": "฿412.75",
+   "outOfStock": true,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "411",
+   "url": "https://th.iherb.com/pr/now-foods-l-arginine-1-000-mg-120-tablets/411",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "L-Arginine",
+   "href": "/c/l-arginine?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Nitric Oxide Supplements",
+   "href": "/c/nitric-oxide-supplements?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Muscle Recovery Supplements",
+   "href": "/c/muscle-recovery-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿727.32",
+  "฿727.32",
+  "฿6.06/‏serving",
+  "{0}% off code: {1}",
+  "฿727.32",
+  "Save 0% in cart",
+  "฿6.06/‏serving",
+  "฿727.32",
+  "(0% off)",
+  "฿727.32",
+  "฿6.06/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00035/s/50.jpg"
+ ]
+}

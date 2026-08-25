@@ -1,0 +1,288 @@
+{
+ "pid": "157227",
+ "slug": "qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gum",
+ "scrapedAt": "2026-08-25T17:09:54.620Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gum.jpg",
+  "/products/iherb/qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gum-2.jpg",
+  "/products/iherb/qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gum-3.jpg",
+  "/products/iherb/qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gum-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gummy/157227",
+ "pageTitle": "Qunol, Magnesium Glycinate Gummies, Mixed Berry, 90 Gummies (60 mg per Gummy)",
+ "h1": "Qunol, Magnesium Glycinate Gummies, Mixed Berry, 90 Gummies (60 mg per Gummy)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "157227",
+  "name": "Qunol, Magnesium Glycinate Gummies, Mixed Berry, 90 Gummies (60 mg per Gummy)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/g/8.jpg",
+  "mpn": "QNL-59354",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 21
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Qunol",
+   "url": "http://www.qunol.com/",
+   "identifier": "QNL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1279.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "High Absorption§ Promotes Nerve, Bone & Muscle Health With Other Natural Flavors Dietary Supplement Manufactured in a cGMP Compliant Facility Gluten-Free Vegetarian No Synthetic Dyes Why is Qunol® the better magnesium? Magnesium promotes nerve, bone & muscle health. Qunol® Magnesium gummies are formulated for high absorption§ and have a delicious mixed berry flavor. §Compared to magnesium oxide.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.45x3.4"
+  },
+  "isRelatedTo": null,
+  "sku": "QNL-59354",
+  "gtin12": "850052593544",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "High Absorption§",
+    "Promotes Nerve, Bone & Muscle Health",
+    "With Other Natural Flavors",
+    "Dietary Supplement",
+    "Manufactured in a cGMP Compliant Facility",
+    "Gluten-Free",
+    "Vegetarian",
+    "No Synthetic Dyes"
+   ],
+   "paragraphs": [
+    "Why is Qunol® the better magnesium?",
+    "Magnesium promotes nerve, bone & muscle health. Qunol® Magnesium gummies are formulated for high absorption§ and have a delicious mixed berry flavor.",
+    "§Compared to magnesium oxide."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults, chew two (2) gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sugar, maltitol syrup, citric acid, sodium citrate, pectin; less than 2% of: natural flavors, organic maqui berry juice concentrate (color)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Consult your physician or a healthcare professional before starting or stopping any dietary supplement, especially if you are pregnant or nursing or taking any medications. To preserve quality and freshness, keep bottle tightly closed. Store in a cool, dry place.",
+    "Tamper resistant: Do not use if safety seal over cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.52 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "QNL-59354"
+  },
+  {
+   "label": "UPC",
+   "value": "850052593544"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.8 x 8.8 x 8.6 cm, 0.52 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "30",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "6 g",
+   "2%*"
+  ],
+  [
+   "Total Sugars",
+   "4 g",
+   "**"
+  ],
+  [
+   "Includes 4 g Added Sugars",
+   "",
+   "8%*"
+  ],
+  [
+   "Magnesium (as Chelated Magnesium Glycinate)",
+   "120 mg",
+   "29%"
+  ],
+  [
+   "Sodium",
+   "115 mg",
+   "5%"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "161042",
+   "url": "https://th.iherb.com/pr/qunol-magnesium-glycinate-gummies-mixed-berry-60-gummies-75-mg-per-gummy/161042",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "157227",
+   "url": "https://th.iherb.com/pr/qunol-magnesium-glycinate-gummies-mixed-berry-90-gummies-60-mg-per-gummy/157227",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,279.12",
+  "฿1,279.12",
+  "฿28.42/‏serving",
+  "{0}% off code: {1}",
+  "฿1,279.12",
+  "Save 0% in cart",
+  "฿28.42/‏serving",
+  "฿1,279.12",
+  "(0% off)",
+  "฿1,279.12",
+  "฿28.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/23.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl59354/s/25.jpg"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "pid": "133053",
+ "slug": "ancient-nutrition-women-s-50-once-daily-probiotics-25-billion-cfu-30-c",
+ "scrapedAt": "2026-08-25T17:14:59.535Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/ancient-nutrition-women-s-50-once-daily-probiotics-25-billion-cfu-30-c.jpg",
+  "/products/iherb/ancient-nutrition-women-s-50-once-daily-probiotics-25-billion-cfu-30-c-2.jpg",
+  "/products/iherb/ancient-nutrition-women-s-50-once-daily-probiotics-25-billion-cfu-30-c-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/ancient-nutrition-women-s-50-once-daily-probiotics-25-billion-cfu-30-capsules/133053",
+ "pageTitle": "Ancient Nutrition, Women's 50+ Once Daily Probiotics, 25 Billion CFU, 30 Capsules",
+ "h1": "Ancient Nutrition, Women's 50+ Once Daily Probiotics, 25 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "133053",
+  "name": "Ancient Nutrition, Women's 50+ Once Daily Probiotics, 25 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/g/44.jpg",
+  "mpn": "ATN-02066",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 43
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Ancient Nutrition",
+   "url": "http://ancientnutrition.com/",
+   "identifier": "ATN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1179.85",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Regenerative Organic Certified® 25 Billion CFU 1 SBO Probiotics USDA Organic Bronze Whole Food Dietary Supplement 95% Ancient Farmed* Certified Organic by CCOF Certified Carbon Neutral® Product Certified B Corporation® CCOF Certified Organic® Non-GMO & More Benefit Supports healthy digestion and the ability to adapt to stress. Key Ingredients Clinically studied probiotics including resilient SBOs (Soil Based Organisms) that survive and thrive in the harsh conditions of the gut. Also featuring prebiotics (fuel for probiotics) and postbiotics (beneficial byproducts). Formulated With: 30 Probiotic strains including proprietary Bacillus subtilis AB22. 1At Expiration Date under recommended storage conditions. *Excludes capsule and ProBiotic cultures.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "ATN-02066",
+  "gtin12": "816421020660",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Women's Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Regenerative Organic Certified®",
+    "25 Billion CFU1 SBO Probiotics",
+    "USDA Organic",
+    "Bronze",
+    "Whole Food Dietary Supplement",
+    "95% Ancient Farmed*",
+    "Certified Organic by CCOF",
+    "Certified Carbon Neutral® Product",
+    "Certified B Corporation®",
+    "CCOF Certified Organic®",
+    "Non-GMO & More"
+   ],
+   "paragraphs": [
+    "Benefit",
+    "Supports healthy digestion and the ability to adapt to stress.",
+    "Key Ingredients",
+    "Clinically studied probiotics including resilient SBOs (Soil Based Organisms) that survive and thrive in the harsh conditions of the gut. Also featuring prebiotics (fuel for probiotics) and postbiotics (beneficial byproducts).",
+    "Formulated With: 30 Probiotic strains including proprietary Bacillus subtilis AB22.",
+    "1At Expiration Date under recommended storage conditions.",
+    "*Excludes capsule and ProBiotic cultures."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 capsule per day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic pullulan, organic apple cider vinegar.",
+    "Produced on equipment that also processes peanuts, tree nuts, milk, soybean, wheat, sesame, shellfish, egg, fish.",
+    "Made without gluten, dairy, soy."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, allergic, have a medical condition, or taking any medications, consult a doctor before using this or any other dietary supplement. Do not use if inner safety seal is broken or missing. Keep out of reach of children. Color and odor may vary from lot to lot. Store in a cool, dry place. Best if refrigerated. Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ATN-02066"
+  },
+  {
+   "label": "UPC",
+   "value": "816421020660"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.4 x 6.1 x 6.1 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol from Organic Saccharomyces cerevisiae)",
+   "10 mcg (400 IU)",
+   "50%"
+  ],
+  [
+   "Superfood Blend:Regenerative Organic Certified® Reishi Mushroom Mycelium, Regenerative Organic Certified® Chaga (Inonotus obliquus) Mycelium, Organic Fermented Black Cohosh Root.",
+   "785 mg",
+   "+"
+  ],
+  [
+   "Probiotic Blend:Bacillus subtilis AB22, Bacillus coagulans, Saccharomyces boulardii, Lactobacillus acidophilus, Lactobacillus plantarum, Lactobacillus casei, Lactobacillus paracasei, Lactobacillus rhamnosus, Lactobacillus crispatus, Lactobacillus bulgaricus, Lactobacillus reuteri, Lactobacillus fermentum, Lactobacillus salivarius, Lactobacillus helveticus, Lactobacillus gasseri, Lactobacillus brevis, Lactobacillus sakei, Lactobacillus johnsonii, Lactobacillus genseni, Lactobacillus amylovorus, Bifidobacterium lactis, Bifidobacterium bifidum, Bifidobacterium breve, Bifidobacterium longum, Bifidobacterium infantis, Bifidobacterium animalis, Bifidobacterium adolescentis, Streptococcus thermophilus, Streptococcus salivarius, Lactococcus lactis subsp. lactis.",
+   "32 mg (25 Billion CFU)",
+   "+"
+  ],
+  [
+   "+Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "+Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,179.85",
+  "฿1,179.85",
+  "฿39.33/‏serving",
+  "{0}% off code: {1}",
+  "฿1,179.85",
+  "Save 0% in cart",
+  "฿39.33/‏serving",
+  "฿1,179.85",
+  "(0% off)",
+  "฿1,179.85",
+  "฿39.33/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/atn/atn02066/s/36.jpg"
+ ]
+}

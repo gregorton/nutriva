@@ -1,0 +1,279 @@
+{
+ "pid": "52949",
+ "slug": "megafood-turmeric-curcumin-60-tablets",
+ "scrapedAt": "2026-08-25T17:35:41.792Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/megafood-turmeric-curcumin-60-tablets.jpg",
+  "/products/iherb/megafood-turmeric-curcumin-60-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/megafood-turmeric-curcumin-60-tablets/52949",
+ "pageTitle": "MegaFood, Turmeric Curcumin, 60 Tablets",
+ "h1": "MegaFood, Turmeric Curcumin, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "52949",
+  "name": "MegaFood, Turmeric Curcumin, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/g/88.jpg",
+  "mpn": "MGF-10006",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1183
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MegaFood",
+   "url": "http://www.megafood.com/",
+   "identifier": "MGF"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.52",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "693.30",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "924.40",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "475 mg Curcuminoids Per Serving Since 1973 Whole Body Provides Antioxidant Benefits With BioPerine® Black Pepper Non GMO Project Verified Dietary Supplement Tested For 150+ Pesticides Gluten Free Certified Vegan Kosher Certified B Corporation MegaFood Turmeric Curcumin Whole Body with 475 mg curcuminoids to provide antioxidant benefits. Includes BioPerine®, a patented black pepper extract and a blend of berries.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x2.35"
+  },
+  "isRelatedTo": null,
+  "sku": "MGF-10006",
+  "gtin12": "051494100066",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/g/88.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "475 mg Curcuminoids Per Serving",
+    "Since 1973",
+    "Whole Body",
+    "Provides Antioxidant Benefits With BioPerine® Black Pepper",
+    "Non GMO Project Verified",
+    "Dietary Supplement",
+    "Tested For 150+ Pesticides",
+    "Gluten Free",
+    "Certified Vegan",
+    "Kosher",
+    "Certified B Corporation"
+   ],
+   "paragraphs": [
+    "MegaFood Turmeric Curcumin Whole Body with 475 mg curcuminoids to provide antioxidant benefits. Includes BioPerine®, a patented black pepper extract and a blend of berries."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 2 tablets daily with a beverage. May be taken any time of day, even on an empty stomach."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, silicon dioxide, stearic acid, rice protein, maltodextrin, hypromellose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not take if you are pregnant, nursing, or have a history of liver or gallbladder problems. If you are taking medications or have any medical condition, consult your physician before use. Stop use and see your physician if you develop symptoms of liver problems, such as jaundice.",
+    "Keep out of reach of children. Store tightly sealed in a cool place and avoid exposure to moisture. Once open, consume within three months. Do not use if seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2013"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MGF-10006"
+  },
+  {
+   "label": "UPC",
+   "value": "051494100066"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.1 x 6 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "120 mg",
+   "133%"
+  ],
+  [
+   "Turmeric Strength Blend (475 mg curcuminoids)500 mg Turmeric root extract (95% curcuminoids) (curcuma longa), 200 mg turmeric root (Curcuma longa)",
+   "700 mg",
+   "**"
+  ],
+  [
+   "Food BlendOrganic orange, tart cherry, wild blueberry, black raspberry fruit extract (Rubus occidentalis), cranberry seed extract, organic brown rice, organic cranberry",
+   "523 mg",
+   "**"
+  ],
+  [
+   "Holy basil leaf extract (Ocimum sanctum)",
+   "200 mg",
+   "**"
+  ],
+  [
+   "BioPerine® black pepper fruit extract (95% piperine) (Piper nigrum)",
+   "3 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "52949",
+   "url": "https://th.iherb.com/pr/megafood-turmeric-curcumin-60-tablets/52949",
+   "price": "฿693.30",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "52950",
+   "url": "https://th.iherb.com/pr/megafood-turmeric-curcumin-whole-body-120-tablets/52950",
+   "price": "฿1,719.34",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿924.40",
+  "฿924.40",
+  "฿30.81/‏serving",
+  "{0}% off code: {1}",
+  "฿924.40",
+  "Save 25% in cart",
+  "฿30.81/‏serving",
+  "฿693.30",
+  "(25% off)",
+  "฿924.40",
+  "฿23.11/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/g/88.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/k/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/g/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10006/s/91.jpg"
+ ]
+}

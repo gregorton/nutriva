@@ -1,0 +1,234 @@
+{
+ "pid": "153026",
+ "slug": "podium-nutrition-whey-protein-powder-coffee-ice-cream-1-87-lb-850-g",
+ "scrapedAt": "2026-08-25T17:40:40.909Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/podium-nutrition-whey-protein-powder-coffee-ice-cream-1-87-lb-850-g.jpg",
+  "/products/iherb/podium-nutrition-whey-protein-powder-coffee-ice-cream-1-87-lb-850-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/podium-nutrition-whey-protein-powder-coffee-ice-cream-1-87-lb-850-g/153026",
+ "pageTitle": "Podium Nutrition, Whey Protein Powder, Coffee Ice Cream, 1.87 lb (850 g)",
+ "h1": "Podium Nutrition, Whey Protein Powder, Coffee Ice Cream, 1.87 lb (850 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "153026",
+  "name": "Podium Nutrition, Whey Protein Powder, Coffee Ice Cream, 1.87 lb (850 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/g/8.jpg",
+  "mpn": "PDI-60210",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 2
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Podium Nutrition",
+   "url": "https://www.321podium.com/",
+   "identifier": "PDI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.27",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2006.02",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Easy Digesting 100% Whey No Artificial Colors No Sugar Added Naturally & Artificially Flavored NSF ® Certified Sport 25 g Protein 120 Calories Gluten Free Soy Free DigeZyme™ Multi Enzyme Complex Podium Whey helps you fuel and recover. It is formulated with high quality protein and all natural digestive enzymes.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.9x5.9"
+  },
+  "isRelatedTo": null,
+  "sku": "PDI-60210",
+  "gtin12": "810117602109",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PDI-60210"
+  },
+  {
+   "label": "UPC",
+   "value": "810117602109"
+  },
+  {
+   "label": "Package quantity",
+   "value": "850 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.3 x 15 x 15 cm, 1.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (34 g)"
+  ],
+  [
+   "Servings Per Container: 25"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "40 mg",
+   "13%"
+  ],
+  [
+   "Sodium",
+   "150 mg",
+   "7%"
+  ],
+  [
+   "Total Carbohydrates",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0 g of added sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   ""
+  ],
+  [
+   "Calcium",
+   "70 mg",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "180 mg",
+   "4%"
+  ],
+  [
+   "*Percent Daily Values are based on a 2000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: 1 Scoop (34 g)Servings Per Container: 25 Amount Per Serving%Daily Value*Calories120Total Fat1.5 g2%Saturated Fat1 g5%Trans Fat0 g†Cholesterol40 mg13%Sodium150 mg7%Total Carbohydrates3 g1%Total Sugars1 gIncludes 0 g of added sugars0%Protein25 gCalcium70 mg6%Potassium180 mg4%*Percent Daily Values are based on a 2000 calorie diet.†Daily Value not established.Protein BreakdownOverall Protein Content25 g ProteinWhey Protein Isolate 87%15.7 Bulk* Supplying 13.5 g ProteinWhey Protein Concentrated 77%15.1 Bulk* Supplying 11.5 g Protein(*3% Overage Included)"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "25"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP",
+    "NSF Sport"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Optimum Nutrition, Gold Standard® 100% Whey, Mocha Cappuccino, 5 lb (2.27 kg)",
+  "3,586",
+  "฿4,524.17"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60210/b/8.jpg"
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "pid": "106685",
+ "slug": "gummiking-multi-vitamin-mineral-for-kids-grape-lemon-orange-strawberry",
+ "scrapedAt": "2026-08-25T17:17:08.383Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/gummiking-multi-vitamin-mineral-for-kids-grape-lemon-orange-strawberry.jpg",
+  "/products/iherb/gummiking-multi-vitamin-mineral-for-kids-grape-lemon-orange-strawberry-2.jpg",
+  "/products/iherb/gummiking-multi-vitamin-mineral-for-kids-grape-lemon-orange-strawberry-3.jpg",
+  "/products/iherb/gummiking-multi-vitamin-mineral-for-kids-grape-lemon-orange-strawberry-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/gummiking-multi-vitamin-mineral-for-kids-grape-lemon-orange-strawberry-and-cherry-60-gummies/106685",
+ "pageTitle": "GummiKing, Multi Vitamin + Mineral For Kids, Grape, Lemon, Orange, Strawberry And Cherry, 60 Gummies",
+ "h1": "GummiKing, Multi Vitamin + Mineral For Kids, Grape, Lemon, Orange, Strawberry And Cherry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "106685",
+  "name": "GummiKing, Multi Vitamin + Mineral For Kids, Grape, Lemon, Orange, Strawberry And Cherry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/g/24.jpg",
+  "mpn": "GUM-00108",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 5891
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "GummiKing",
+   "url": "http://www.gummiking.com/",
+   "identifier": "GUM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.41",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "335.98",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vegetarian Gelatin Free Natural Flavors Gluten Free Dietary Supplement Natural and Delicious Flavors",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "GUM-00108",
+  "gtin12": "835776001087",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vegetarian",
+    "Gelatin Free",
+    "Natural Flavors",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Natural and Delicious Flavors"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults and children 2 years of age and over chew two Gummi King gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectic, citric acid, sodium citrate, natural flavors, annatto (color), turmeric (color), elderberry juice (color), coconut oil, carnauba wax and choline bitartrate.",
+    "Free of: Gelatin, wheat (gluten), milk, eggs, soy, tree nuts, peanuts, artificial flavors, animal derivatives and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your doctor before use if you have, or have had, any health condition or if you are taking any medications or remedies, including OTC medications, or are planning any medical procedure. Discontinue use and consult your doctor if any adverse reaction occurs. Not recommended for children under two years of age due to choking. Do not use if the inner seal is broken or missing. Store in a cool, dry place. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "GUM-00108"
+  },
+  {
+   "label": "UPC",
+   "value": "835776001087"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.8 x 6.4 x 6.2 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummi King Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV for Children 2 through 3 Years",
+   "% DV for Adults and Children 4 or more Years"
+  ],
+  [
+   "Calories",
+   "15",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "3%**",
+   "1%*"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "†",
+   "†"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "12%**",
+   "6%*"
+  ],
+  [
+   "Vitamin A (as vitamin A palmitate)",
+   "630 mcg RAE",
+   "210%",
+   "70%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "20 mg",
+   "133%",
+   "22%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "10 mcg",
+   "67%",
+   "50%"
+  ],
+  [
+   "Vitamin E (dl-Alpha tocopheryl acetate)",
+   "7.43 mg",
+   "124%",
+   "50%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine hydrochloride)",
+   "2 mg",
+   "400%",
+   "118%"
+  ],
+  [
+   "Folate",
+   "442 mcg DFE (260 mcg folic acid)",
+   "295%",
+   "111%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "6 mcg",
+   "667%",
+   "250%"
+  ],
+  [
+   "Biotin",
+   "60 mcg",
+   "750%",
+   "200%"
+  ],
+  [
+   "Pantothenic Acid (as calcium d-pantothenate)",
+   "5.2 mg",
+   "260%",
+   "104%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "42 mcg",
+   "47%",
+   "28%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "2.7 mg",
+   "90%",
+   "25%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "1%",
+   "<1%"
+  ],
+  [
+   "Inositol (as inositol niacinate)",
+   "40 mcg",
+   "†",
+   "†"
+  ],
+  [
+   "* Percent Daily Value (DV) are based on a 2000 calorie diet**Percent Daily Values (DV) are based on a 1000 calorie diet†Daily Values (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "†",
+  "* Percent Daily Value (DV) are based on a 2000 calorie diet",
+  "**Percent Daily Values (DV) are based on a 1000 calorie diet",
+  "†Daily Values (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummi king gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial flavors",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿335.98",
+  "฿335.98",
+  "฿11.20/‏serving",
+  "{0}% off code: {1}",
+  "฿335.98",
+  "Save 0% in cart",
+  "฿11.20/‏serving",
+  "฿335.98",
+  "(0% off)",
+  "฿335.98",
+  "฿11.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gum/gum00108/s/34.jpg"
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "pid": "143161",
+ "slug": "live-conscious-collagen-peptides-unflavored-16-oz-454-g",
+ "scrapedAt": "2026-08-25T17:20:33.747Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/live-conscious-collagen-peptides-unflavored-16-oz-454-g.jpg",
+  "/products/iherb/live-conscious-collagen-peptides-unflavored-16-oz-454-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/live-conscious-collagen-peptides-unflavored-16-oz-454-g/143161",
+ "pageTitle": "Live Conscious, Collagen Peptides, Unflavored, 16 oz (454 g)",
+ "h1": "Live Conscious, Collagen Peptides, Unflavored, 16 oz (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143161",
+  "name": "Live Conscious, Collagen Peptides, Unflavored, 16 oz (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/g/2.jpg",
+  "mpn": "LVS-27399",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 396
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Live Conscious",
+   "url": "https://weliveconscious.com/",
+   "identifier": "LVS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1472.98",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Eco-Friendly Packaging Grass-Fed & Pasture-Raised Pure Hydrolyzed Peptides Hair, Skin, Nail & Joint Support Dissolves Easily 19 Amino Acids Dietary Supplement Gluten Free Dairy Free Non-GMO Soy-Free Peanut-Free Shellfish Free Feel Good Inside & Out Featuring 19 naturally occurring amino acids. Live Conscious® hydrolyzed types I & III Collagen Peptides support strong hair and nails, joint health, and skin elasticity .* Our non-GMO, easily digestible collagen is sourced from grass-fed, pasture-raised, Grade A bovine and is free of all dairy, gluten, soy, hormones, and preservatives. Nailed it.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.5x4.25"
+  },
+  "isRelatedTo": null,
+  "sku": "LVS-27399",
+  "gtin12": "850008273995",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Eco-Friendly Packaging",
+    "Grass-Fed & Pasture-Raised",
+    "Pure Hydrolyzed Peptides",
+    "Hair, Skin, Nail & Joint Support",
+    "Dissolves Easily",
+    "19 Amino Acids",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Dairy Free",
+    "Non-GMO",
+    "Soy-Free",
+    "Peanut-Free",
+    "Shellfish Free"
+   ],
+   "paragraphs": [
+    "Feel Good Inside & Out",
+    "Featuring 19 naturally occurring amino acids. Live Conscious® hydrolyzed types I & III Collagen Peptides support strong hair and nails, joint health, and skin elasticity .* Our non-GMO, easily digestible collagen is sourced from grass-fed, pasture-raised, Grade A bovine and is free of all dairy, gluten, soy, hormones, and preservatives. Nailed it."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, mix (1) scoop (15 g) with 8-12 fl oz of your favorite beverage once (Ix) daily. For best results, add collagen while stirring the beverage to prevent clumping. For an 11 g serving size, fill to the line on the scoop provided."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Manufactured in the USA from globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "Collagen is not a complete protein. Do not use to replace dietary protein.",
+    "Read entire label prior to use. Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place.",
+    "Consult a healthcare practitioner if you are pregnant or nursing, have a serious medical condition, or use any medications. This product is sold by weight not volume, some settling of contents may occur during shipping.",
+    "Packet enclosed to keep product fresh. Do not eat packet."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.64 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LVS-27399"
+  },
+  {
+   "label": "UPC",
+   "value": "850008273995"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "21.3 x 14 x 10.8 cm, 0.51 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 11 g (1 Line-Fill Scoop); 15 g (1 Full Scoop)"
+  ],
+  [
+   "Servings Per Container: 41; 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   "",
+   "50",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   "",
+   "13 g",
+   ""
+  ],
+  [
+   "Sodium",
+   "40 mg",
+   "2%**",
+   "55 mg",
+   "2%**"
+  ],
+  [
+   "Hydrolyzed Bovine Collagen",
+   "11 g",
+   "†",
+   "15 g",
+   "†"
+  ],
+  [
+   "**Percent Daily Values (DV) are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "%Daily Value",
+  "**Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established.",
+  "‡Essential Amino Acids"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "11 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "41"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "Shellfish-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "220 g",
+   "pid": "121778",
+   "url": "https://th.iherb.com/pr/live-conscious-collagen-peptides-unflavored-7-8-oz-220-g/121778",
+   "price": "฿1,035.16",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "454 g",
+   "pid": "143161",
+   "url": "https://th.iherb.com/pr/live-conscious-collagen-peptides-unflavored-16-oz-454-g/143161",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,472.98",
+  "฿1,472.98",
+  "฿35.93/‏serving",
+  "{0}% off code: {1}",
+  "฿1,472.98",
+  "Save 0% in cart",
+  "฿35.93/‏serving",
+  "฿1,472.98",
+  "(0% off)",
+  "฿1,472.98",
+  "฿35.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27399/s/3.jpg"
+ ]
+}

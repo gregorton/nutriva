@@ -1,0 +1,326 @@
+import raw from "./catalog.generated.json";
+
+/*
+  Catalog data layer — the single boundary between the storefront and its product data.
+
+  The data is harvested from th.iherb.com by the three-stage pipeline in `reference/iherb/`
+  (discover -> harvest -> build): real titles, prices in THB, ratings, review counts, label
+  copy, supplement-facts tables and product photography. Nothing in this file invents a value.
+  Everything is either read straight from the harvest or computed from two harvested numbers
+  (per-serving cost from price and servings, discount from price and list price).
+
+  A field iHerb does not state comes through as null or an empty array, and the component that
+  would have shown it renders nothing. That rule is what keeps the page honest: no guessed
+  %DV, no guessed certifications, no guessed best-by dates.
+*/
+
+export type CategorySlug =
+  | "vitamins"
+  | "minerals"
+  | "omega"
+  | "gut"
+  | "sleep"
+  | "immunity"
+  | "herbs"
+  | "sports"
+  | "beauty"
+  | "kids";
+
+/** One row of a supplement-facts panel, as printed on the label. */
+export type FactsRow = { name: string; amount: string; dailyValue: string | null };
+
+export type SupplementFacts = {
+  servingSize: string | null;
+  servingsPerContainer: string | null;
+  rows: FactsRow[];
+  footnotes: string[];
+};
+
+export type Product = {
+  slug: string;
+  brand: string;
+  /** Full title as the label reads it, brand included. */
+  name: string;
+  /** Title with the brand prefix removed — what cards and headings print. */
+  title: string;
+  category: CategorySlug;
+  /** The page this product's data came from. */
+  source: string;
+  image: string;
+  /** Main shot first, then alternate views. */
+  images: string[];
+
+  price: number;
+  listPrice: number | null;
+  /** Percent off, present only when listPrice is set. */
+  discount: number | null;
+  inStock: boolean;
+  sold30d: number | null;
+  rating: number;
+  reviews: number;
+
+  // ---- label data ----
+  /** Manufacturer part number, e.g. NOW-01289. */
+  productCode: string | null;
+  upc: string | null;
+  /** The pack as the label sizes it: "180 count", "16 oz (454 g)". */
+  packQuantity: string | null;
+  /** Units in the pack — 180 of "180 Tablets". */
+  units: number | null;
+  /** Dosage form: Tablets, Veggie Capsules, Gummies. */
+  form: string | null;
+  /** What one serving is: "2 tablets", "1 scoop (31 g)". */
+  servingSize: string | null;
+  /** Servings per container — not the same as `units` when a serving is two tablets. */
+  servings: number | null;
+  perServing: number | null;
+  /** Amount of the single labelled active, where there is exactly one. */
+  dose: string | null;
+  shippingWeight: string | null;
+  dimensions: string | null;
+  /** MM/YYYY the product first shipped. */
+  firstAvailable: string | null;
+  /** MM/YYYY on the batch currently held. */
+  bestBy: string | null;
+
+  certifications: string[];
+  qualityStandards: string[];
+
+  // ---- label copy ----
+  /** Front-of-pack claim lines. */
+  highlights: string[];
+  overview: string[];
+  suggestedUse: string[];
+  otherIngredients: string[];
+  warnings: string[];
+  storage: string[];
+  supplementFacts: SupplementFacts | null;
+};
+
+export type Category = {
+  slug: CategorySlug;
+  name: string;
+  /** shown under the category heading on a listing page */
+  blurb: string;
+  /** groups shown as subcategory chips on the listing page */
+  chips: string[];
+};
+
+export const CATEGORIES: Category[] = [
+  {
+    slug: "vitamins",
+    name: "Vitamins",
+    blurb: "Single vitamins and daily multis, dosed for adults.",
+    chips: ["Vitamin D", "Vitamin C", "B-complex", "Multivitamins", "Vitamin K2", "Folate"],
+  },
+  {
+    slug: "minerals",
+    name: "Minerals",
+    blurb: "Magnesium, zinc, iron and trace minerals in absorbable forms.",
+    chips: ["Magnesium", "Zinc", "Iron", "Calcium", "Selenium", "Trace minerals"],
+  },
+  {
+    slug: "omega",
+    name: "Omega & fish oil",
+    blurb: "EPA and DHA from fish, krill and algae, tested for oxidation.",
+    chips: ["Fish oil", "Krill oil", "Algae omega", "Cod liver", "High EPA", "High DHA"],
+  },
+  {
+    slug: "gut",
+    name: "Gut & digestion",
+    blurb: "Live cultures, fibre and enzymes for everyday digestion.",
+    chips: ["Probiotics", "Prebiotic fibre", "Enzymes", "Shelf-stable", "50B+ CFU", "Kids"],
+  },
+  {
+    slug: "sleep",
+    name: "Sleep & stress",
+    blurb: "Wind-down formulas, adaptogens and magnesium for rest.",
+    chips: ["Melatonin", "Magnesium", "Ashwagandha", "L-theanine", "Valerian", "Non-habit"],
+  },
+  {
+    slug: "immunity",
+    name: "Immunity",
+    blurb: "Daily immune support and short-course formulas.",
+    chips: ["Vitamin C", "Zinc", "Elderberry", "Quercetin", "Mushrooms", "Echinacea"],
+  },
+  {
+    slug: "herbs",
+    name: "Herbs",
+    blurb: "Standardised botanical extracts with stated actives.",
+    chips: ["Turmeric", "Ginseng", "Ginkgo", "Milk thistle", "Berberine", "Ashwagandha"],
+  },
+  {
+    slug: "sports",
+    name: "Sport & protein",
+    blurb: "Protein, creatine and electrolytes for training days.",
+    chips: ["Whey protein", "Plant protein", "Creatine", "Electrolytes", "Amino acids", "Recovery"],
+  },
+  {
+    slug: "beauty",
+    name: "Skin, hair & nails",
+    blurb: "Collagen, biotin and topicals for skin and hair.",
+    chips: ["Collagen", "Biotin", "Hyaluronic acid", "Vitamin C serum", "Hair", "Nails"],
+  },
+  {
+    slug: "kids",
+    name: "Kids & family",
+    blurb: "Gummies, drops and chewables sized for children.",
+    chips: ["Kids multi", "Kids omega", "Kids probiotic", "Gummies", "Drops", "Prenatal"],
+  },
+];
+
+export const CATEGORY_BY_SLUG = new Map(CATEGORIES.map((c) => [c.slug, c]));
+
+/**
+ * Condition-led entry points. Supplement shoppers arrive with a goal ("sleep better"),
+ * not a taxonomy node, so these sit alongside the category nav rather than under it.
+ */
+export const GOALS: { slug: string; label: string; category: CategorySlug; note: string }[] = [
+  { slug: "sleep-better", label: "Sleep better", category: "sleep", note: "Magnesium, melatonin, adaptogens" },
+  { slug: "everyday-immunity", label: "Everyday immunity", category: "immunity", note: "Vitamin C, zinc, elderberry" },
+  { slug: "train-recover", label: "Train & recover", category: "sports", note: "Protein, creatine, electrolytes" },
+  { slug: "gut-reset", label: "Gut reset", category: "gut", note: "Live cultures and fibre" },
+  { slug: "skin-hair", label: "Skin & hair", category: "beauty", note: "Collagen, biotin, vitamin C" },
+  { slug: "energy-focus", label: "Energy & focus", category: "vitamins", note: "B-complex, iron, D3" },
+];
+
+/** Stable hash, for the one ordering the data cannot supply (see `newArrivals`). */
+function hash(input: string): number {
+  let h = 2166136261;
+  for (let i = 0; i < input.length; i++) h = ((h ^ input.charCodeAt(i)) * 16777619) >>> 0;
+  return h;
+}
+
+/*
+  The generated file carries a few fields the storefront doesn't read: the source product id, the
+  discount badge as iHerb worded it, iHerb's own category rankings, and its pack tiles. They stay
+  in the JSON as provenance. Declaring them here rather than casting through `unknown` means the
+  cast is checked: if `reference/iherb/build.mjs` stops emitting a field the UI needs, this line
+  fails to compile instead of failing at runtime.
+*/
+type RawItem = Omit<Product, "discount" | "category"> & {
+  category: string;
+  pid: string;
+  discountLabel: string | null;
+  rankings: { rank: string; category: string }[];
+  packVariants: { label: string; pid: string; price: number | null; outOfStock: boolean }[];
+};
+
+export const products: Product[] = (raw.items as RawItem[]).map((item) => ({
+  ...item,
+  category: item.category as CategorySlug,
+  discount: item.listPrice ? Math.round(((item.listPrice - item.price) / item.listPrice) * 100) : null,
+}));
+
+export const productBySlug = new Map(products.map((p) => [p.slug, p]));
+
+export function getProduct(slug: string): Product | undefined {
+  return productBySlug.get(slug);
+}
+
+export function byCategory(slug: CategorySlug): Product[] {
+  return products.filter((p) => p.category === slug);
+}
+
+export function categoryCount(slug: CategorySlug): number {
+  return byCategory(slug).length;
+}
+
+/** Highest 30-day volume first, then review count — both figures come from the source listing. */
+export function bestSellers(limit = 12, category?: CategorySlug): Product[] {
+  return [...(category ? byCategory(category) : products)]
+    .sort((a, b) => (b.sold30d ?? 0) - (a.sold30d ?? 0) || b.reviews - a.reviews)
+    .slice(0, limit);
+}
+
+/**
+ * Marked-down stock, deepest discount first, but spread so one brand's sale cannot fill the rail.
+ * The specials pages a markdown comes from tend to be brand-wide, so a straight sort by discount
+ * returns five of the same label — true, and useless as a shop front. Round-robin by brand keeps
+ * the ordering honest (still deepest-first within each brand) and the rail readable.
+ */
+export function deals(limit = 12): Product[] {
+  const byBrand = new Map<string, Product[]>();
+  for (const product of products.filter((p) => p.discount).sort((a, b) => (b.discount ?? 0) - (a.discount ?? 0))) {
+    if (!byBrand.has(product.brand)) byBrand.set(product.brand, []);
+    byBrand.get(product.brand)!.push(product);
+  }
+  const lists = [...byBrand.values()];
+  const out: Product[] = [];
+  for (let round = 0; out.length < limit; round++) {
+    const before = out.length;
+    for (const list of lists) {
+      if (round < list.length) out.push(list[round]);
+      if (out.length >= limit) break;
+    }
+    if (out.length === before) break; // every list exhausted
+  }
+  return out;
+}
+
+/** How many products carry a markdown at all — the figure the "all N deals" link needs. */
+export function dealCount(): number {
+  return products.filter((p) => p.discount).length;
+}
+
+/** MM/YYYY -> sortable YYYYMM. Products with no stated date sort last. */
+function firstAvailableKey(product: Product): number {
+  const match = product.firstAvailable?.match(/(\d{1,2})\/(\d{4})/);
+  return match ? Number(match[2]) * 100 + Number(match[1]) : 0;
+}
+
+/** Newest first by the date the label says it first shipped. */
+export function newArrivals(limit = 12): Product[] {
+  return [...products]
+    .sort((a, b) => firstAvailableKey(b) - firstAvailableKey(a) || hash(a.slug) - hash(b.slug))
+    .slice(0, limit);
+}
+
+export function topRated(limit = 12): Product[] {
+  return [...products].sort((a, b) => b.rating - a.rating || b.reviews - a.reviews).slice(0, limit);
+}
+
+/** Same category first, then anything sharing the brand. */
+export function related(product: Product, limit = 6): Product[] {
+  const sameCategory = byCategory(product.category).filter((p) => p.slug !== product.slug);
+  const sameBrand = products.filter((p) => p.brand === product.brand && p.slug !== product.slug);
+  const seen = new Set<string>();
+  return [...sameCategory, ...sameBrand]
+    .filter((p) => (seen.has(p.slug) ? false : (seen.add(p.slug), true)))
+    .slice(0, limit);
+}
+
+export function search(query: string): Product[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  const terms = q.split(/\s+/);
+  return products
+    .map((p) => {
+      const haystack = `${p.name} ${p.category} ${p.form ?? ""} ${p.highlights.join(" ")}`.toLowerCase();
+      const score = terms.reduce((total, term) => total + (haystack.includes(term) ? 1 : 0), 0);
+      return { p, score };
+    })
+    .filter(({ score }) => score === terms.length)
+    .sort((a, b) => (b.p.sold30d ?? 0) - (a.p.sold30d ?? 0))
+    .map(({ p }) => p);
+}
+
+export function brandsIn(items: Product[]): { name: string; count: number }[] {
+  const counts = new Map<string, number>();
+  for (const p of items) counts.set(p.brand, (counts.get(p.brand) ?? 0) + 1);
+  return [...counts.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+}
+
+export function formsIn(items: Product[]): { name: string; count: number }[] {
+  const counts = new Map<string, number>();
+  for (const p of items) {
+    if (!p.form) continue;
+    const normalised = p.form.replace(/^(Veggie|Veg|Vegetarian|Vegan|Vegetable|Plant-Based|Liquid|Soft|Fish|Enteric) /i, "");
+    counts.set(normalised, (counts.get(normalised) ?? 0) + 1);
+  }
+  return [...counts.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count);
+}

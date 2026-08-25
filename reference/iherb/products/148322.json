@@ -1,0 +1,244 @@
+{
+ "pid": "148322",
+ "slug": "mild-by-nature-sierra-bees-cuticle-care-balm-geranium-orange-lemongras",
+ "scrapedAt": "2026-08-25T17:48:31.198Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-sierra-bees-cuticle-care-balm-geranium-orange-lemongras.jpg",
+  "/products/iherb/mild-by-nature-sierra-bees-cuticle-care-balm-geranium-orange-lemongras-2.jpg",
+  "/products/iherb/mild-by-nature-sierra-bees-cuticle-care-balm-geranium-orange-lemongras-3.jpg",
+  "/products/iherb/mild-by-nature-sierra-bees-cuticle-care-balm-geranium-orange-lemongras-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-sierra-bees-cuticle-care-balm-geranium-orange-lemongrass-0-6-oz-17-g/148322",
+ "pageTitle": "Mild By Nature, Sierra Bees™, Cuticle Care Balm, Geranium, Orange & Lemongrass, 0.6 oz (17 g)",
+ "h1": "Mild By Nature, Sierra Bees™, Cuticle Care Balm, Geranium, Orange & Lemongrass, 0.6 oz (17 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148322",
+  "name": "Mild By Nature, Sierra Bees™, Cuticle Care Balm, Geranium, Orange & Lemongrass, 0.6 oz (17 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/g/17.jpg",
+  "mpn": "MBN-02574",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 11098
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.08",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "122.42",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "163.23",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild by Nature , Sierra Bees , Cuticle Balm \"Show Your Cuticles A Little Love\" Featuring Geranium, Orange & Lemongrass Oils USDA Organic & Certified by Oregon Tilth No Gluten or GMOs No Sulfates, Preservatives or Phthalates Cruelty-Free & No Animal Testing Key Ingredients Organic Beeswax Organic Olive & Organic Castor Oils plus Organic Shea Butter Organic Geranium Oil & Organic Ginger Extract Organic Orange & Organic Lemongrass Oils We’re excited to share that Sierra Bees is now a part of the Mild by Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products. Arid weather conditions, frequent hand washing, and other factors can leave your cuticles and fingers dry and cracked. Not only is this uncomfortable, but it can also leave your nails and skin vulnerable to harmful bacteria, as damaged cuticles and skin may allow dirt and other contagions in. Mild by Nature, Sierra Bees, Cuticle Balm Stick is a convenient way to deliver moisture directly to this area to help keep the cuticles and skin healthier. Formulated with soothing ingredients, like beeswax, shea butter, and botanical oils, this balm can help revive and replenish dry and cracked cuticles. It can also be applied to the entire hand to soothe dry, chapped skin.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.7x0.9"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02574",
+  "gtin12": "898220025749",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/g/17.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Makeup",
+  "Nails",
+  "Nail Care"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild by Nature, Sierra Bees, Cuticle Balm",
+    "\"Show Your Cuticles A Little Love\"",
+    "Featuring Geranium, Orange & Lemongrass Oils",
+    "USDA Organic & Certified by Oregon Tilth",
+    "No Gluten or GMOs",
+    "No Sulfates, Preservatives or Phthalates",
+    "Cruelty-Free & No Animal Testing",
+    "Organic Beeswax",
+    "Organic Olive & Organic Castor Oils plus Organic Shea Butter",
+    "Organic Geranium Oil & Organic Ginger Extract",
+    "Organic Orange & Organic Lemongrass Oils"
+   ],
+   "paragraphs": [
+    "Key Ingredients",
+    "We’re excited to share that Sierra Bees is now a part of the Mild by Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products.",
+    "Arid weather conditions, frequent hand washing, and other factors can leave your cuticles and fingers dry and cracked. Not only is this uncomfortable, but it can also leave your nails and skin vulnerable to harmful bacteria, as damaged cuticles and skin may allow dirt and other contagions in.",
+    "Mild by Nature, Sierra Bees, Cuticle Balm Stick is a convenient way to deliver moisture directly to this area to help keep the cuticles and skin healthier. Formulated with soothing ingredients, like beeswax, shea butter, and botanical oils, this balm can help revive and replenish dry and cracked cuticles. It can also be applied to the entire hand to soothe dry, chapped skin."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "​​​​​Apply Cuticle Balm on to cuticle and fingernail area and gently massage. May be applied all over hands for dry, chapped skin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Keep out of reach of children.",
+    "For external use only.",
+    "When using this product, avoid contact with eyes.",
+    "Discontinue use if you experience skin sensitivity.",
+    "Store in a cool, dry place (Room Temperature is best)."
+   ],
+   "paragraphs": []
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02574"
+  },
+  {
+   "label": "UPC",
+   "value": "898220025749"
+  },
+  {
+   "label": "Package quantity",
+   "value": "17 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.7 x 9.4 x 2.3 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "17 g"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Cruelty-free",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#4 in",
+   "category": "Nails",
+   "href": "/c/nail?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Nail Care",
+   "href": "/c/nail-care?sr=2"
+  },
+  {
+   "rank": "#30 in",
+   "category": "Makeup",
+   "href": "/c/makeup?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿163.23",
+  "฿163.23",
+  "฿9.60/‏g",
+  "{0}% off code: {1}",
+  "฿163.23",
+  "Save 25% in cart",
+  "฿9.60/‏g",
+  "฿122.42",
+  "(25% off)",
+  "฿163.23",
+  "฿7.20/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/g/17.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/k/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/g/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/15.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02574/b/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco,c_fit,w_200,h_200/images/mbn/mbn02574/l/17.jpg"
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "pid": "148250",
+ "slug": "rise-bar-whey-protein-powder-mint-chocolate-2-4-lb-1-1-kg",
+ "scrapedAt": "2026-08-25T17:28:46.052Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/rise-bar-whey-protein-powder-mint-chocolate-2-4-lb-1-1-kg.jpg",
+  "/products/iherb/rise-bar-whey-protein-powder-mint-chocolate-2-4-lb-1-1-kg-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/rise-bar-whey-protein-powder-mint-chocolate-2-4-lb-1-1-kg/148250",
+ "pageTitle": "Rise Bar, Whey Protein Powder, Mint Chocolate, 2.4 lb (1.1 kg)",
+ "h1": "Rise Bar, Whey Protein Powder, Mint Chocolate, 2.4 lb (1.1 kg)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148250",
+  "name": "Rise Bar, Whey Protein Powder, Mint Chocolate, 2.4 lb (1.1 kg)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/g/2.jpg",
+  "mpn": "RBA-55238",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 21
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Rise Bar",
+   "url": "https://www.risebar.com/",
+   "identifier": "RBA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.46",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2120.90",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Real Ingredients, Nothing Artificial Naturally Flavored 25 g Protein Per Serving Grass Fed, Pasture Raised No Artificial Flavors No Artificial Colors No Artificial Preservatives No Added Sugars Gluten Free No Soy Kosher Dairy A Deliciously Simple Way to Fuel Your Go. Cut through life's chaos with Rise, your body's fuel for a straightforward, clean boost. Power up with 100% real, simple ingredients packed with protein-no fillers, nothing artificial, ever. Fuel your body's journey with Rise, featuring the added benefit of whey protein sourced from the milk of grass-fed cows. It's a great choice for your active lifestyle before or after exercise, between meals, or any time of day when you need extra protein. Let's rise together.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.7x6.55"
+  },
+  "isRelatedTo": null,
+  "sku": "RBA-55238",
+  "gtin12": "690819552380",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Concentrate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Real Ingredients, Nothing Artificial",
+    "Naturally Flavored",
+    "25 g Protein Per Serving",
+    "Grass Fed, Pasture Raised",
+    "No Artificial Flavors",
+    "No Artificial Colors",
+    "No Artificial Preservatives",
+    "No Added Sugars",
+    "Gluten Free",
+    "No Soy",
+    "Kosher Dairy"
+   ],
+   "paragraphs": [
+    "A Deliciously Simple Way to Fuel Your Go.",
+    "Cut through life's chaos with Rise, your body's fuel for a straightforward, clean boost. Power up with 100% real, simple ingredients packed with protein-no fillers, nothing artificial, ever. Fuel your body's journey with Rise, featuring the added benefit of whey protein sourced from the milk of grass-fed cows. It's a great choice for your active lifestyle before or after exercise, between meals, or any time of day when you need extra protein. Let's rise together."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix two level scoops with 8 oz of cold water or your favorite milk into a shaker bottle. Shake until protein powder becomes fully dissolved & enjoy!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Whey protein concentrate, organic cocoa, organic coconut milk powder, sunflower lecithin, natural flavors, sea salt, almond butter, organic monk fruit extract.",
+    "Contains: Milk, tree nuts (coconut, almond).",
+    "Produced on equipment that also processes eggs, wheat and soy."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place. Keep out of direct sunlight. Texture may vary due to natural ingredients.",
+    "​Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "RBA-55238"
+  },
+  {
+   "label": "UPC",
+   "value": "690819552380"
+  },
+  {
+   "label": "Package quantity",
+   "value": "1,088 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "22.6 x 19.6 x 16.6 cm, 1.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 2 scoops (36 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "150",
+   ""
+  ],
+  [
+   "Total Fat",
+   "3.5 g",
+   "4%"
+  ],
+  [
+   "Saturated Fat",
+   "2 g",
+   "10%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "65 mg",
+   "22%"
+  ],
+  [
+   "Sodium",
+   "240 mg",
+   "10%"
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   "50%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "225 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "1043 g",
+   "pid": "148251",
+   "url": "https://th.iherb.com/pr/rise-bar-whey-protein-powder-vanilla-2-3-lb-1-kg/148251",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "1088 g",
+   "pid": "148250",
+   "url": "https://th.iherb.com/pr/rise-bar-whey-protein-powder-mint-chocolate-2-4-lb-1-1-kg/148250",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#27 in",
+   "category": "Whey Protein Concentrate",
+   "href": "/c/whey-protein-concentrate?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In Stock - Only 9 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,120.90",
+  "฿2,120.90",
+  "฿70.70/‏serving",
+  "{0}% off code: {1}",
+  "฿2,120.90",
+  "Save 0% in cart",
+  "฿70.70/‏serving",
+  "฿2,120.90",
+  "(0% off)",
+  "฿2,120.90",
+  "฿70.70/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rba/rba55238/b/2.jpg"
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "pid": "152553",
+ "slug": "legion-athletics-whey-concentrate-whey-protein-powder-french-vanilla-1",
+ "scrapedAt": "2026-08-25T17:33:01.809Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/legion-athletics-whey-concentrate-whey-protein-powder-french-vanilla-1.jpg",
+  "/products/iherb/legion-athletics-whey-concentrate-whey-protein-powder-french-vanilla-1-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/legion-athletics-whey-concentrate-whey-protein-powder-french-vanilla-1-9-lbs-861-g/152553",
+ "pageTitle": "Legion Athletics, Whey Concentrate, Whey Protein Powder, French Vanilla, 1.9 lbs (861 g)",
+ "h1": "Legion Athletics, Whey Concentrate, Whey Protein Powder, French Vanilla, 1.9 lbs (861 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "152553",
+  "name": "Legion Athletics, Whey Concentrate, Whey Protein Powder, French Vanilla, 1.9 lbs (861 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/g/2.jpg",
+  "mpn": "LGA-35737",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 15
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Legion Athletics",
+   "url": "https://legionathletics.com",
+   "identifier": "LGA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.97",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1894.88",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Naturally Sweetened & Flavored 20 Grams of Protein and 9 Grams of Essential Amino Acids Per Serving No Artificial Sweeteners, Flavors, Food Dyes, or Other Unnecessary Junk No Soy, Added Sugars, or Gluten Dietary Supplement Clinically Effective Ingredients 3rd-Party Lab Tested Hormone- & Antibiotic-Free No Added Sugars Soy-Free Whey protein concentrate is a form of whey protein made from fresh dairy whey, which is the liquid part of milk remaining after cheese has been made. It undergoes special filtration to remove excess fat and lactose while preserving the protein content and quality.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "8.9x4.95"
+  },
+  "isRelatedTo": null,
+  "sku": "LGA-35737",
+  "gtin12": "850065357379",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Concentrate"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.41 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LGA-35737"
+  },
+  {
+   "label": "UPC",
+   "value": "850065357379"
+  },
+  {
+   "label": "Package quantity",
+   "value": "861 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.1 x 22.6 x 12.6 cm, 0.89 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: Approximately 1 Scoop (28 g)"
+  ],
+  [
+   "Servings Per Container: ~ 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "3 g",
+   "4%"
+  ],
+  [
+   "Saturated Fat",
+   "2 g",
+   "10%"
+  ],
+  [
+   "Cholesterol",
+   "70 mg",
+   "23%"
+  ],
+  [
+   "Total Carbohydrates",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "<1 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "†"
+  ],
+  [
+   "Includes 0 g of Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "20 g",
+   "40%"
+  ],
+  [
+   "Calcium",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "Magnesium",
+   "15 mg",
+   "4%"
+  ],
+  [
+   "Sodium",
+   "170 mg",
+   "7%"
+  ],
+  [
+   "Potassium",
+   "120 mg",
+   "2%"
+  ],
+  [
+   "Non-GMO Whey Protein Concentrate",
+   "25 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size:  Approximately 1 Scoop (28 g)Servings Per Container: ~ 30 Amount Per Serving%Daily Value*Calories120Total Fat3 g4%Saturated Fat2 g10%Cholesterol70 mg23%Total Carbohydrates3 g1%Dietary Fiber<1 g2%Total Sugars1 g†Includes 0 g of Added Sugars0%Protein20 g40%Calcium110 mg8%Magnesium15 mg4%Sodium170 mg7%Potassium120 mg2%Non-GMO Whey Protein Concentrate25 g†*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Nutricost, Whey Protein Concentrate, Milk Chocolate, 5 lb (2,268 g)",
+  "435",
+  "฿3,607.26"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35737/b/2.jpg"
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "pid": "101718",
+ "slug": "california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl",
+ "scrapedAt": "2026-08-25T17:26:26.233Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "2K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl-2.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl-3.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unflavored-1-01-lb-460-g/101718",
+ "pageTitle": "California Gold Nutrition, Hydrolyzed Collagen Peptides, Type I & III, Unflavored, 1.01 lb (460 g)",
+ "h1": "California Gold Nutrition, Hydrolyzed Collagen Peptides, Type I & III, Unflavored, 1.01 lb (460 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "101718",
+  "name": "California Gold Nutrition, Hydrolyzed Collagen Peptides, Type I & III, Unflavored, 1.01 lb (460 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/g/187.jpg",
+  "mpn": "LKN-01858",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 17687
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.06",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "687.65",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Hydrolyzed Collagen Peptides Type I and Type III Collagen Peptides Unflavored Supplement Powder Support for Hair, Skin, Nails, and Joints* Formulated without Gluten, GMOs, or Soy Produced in a GMP Facility Contains bovine-derived ingredients Collagen is a protein that is a major component of many tissues in the body. California Gold Nutrition® Hydrolyzed Collagen Peptides contains type I and type III collagen, which can help support healthy hair, skin, nails, and joints.* Simply add the unflavored powder to the drink of your choice for an added boost of collagen. Hydrolyzed Collagen Benefits There are 16 different types of collagen found in the body, each with its own unique job. This supplement contains type I and type III collagen. Type I is used to build skin and connective tissues and may help to support healthier joints and improve skin health and appearance.* Type III helps to create muscles and blood vessels.* This supplement contains hydrolyzed collagen, meaning it has been broken down and will be easier for your body to absorb and use as needed.* California Gold Nutrition® Hydrolyzed Collagen Peptides contains collagen from bovine sources. The powder supplement provides a convenient way to add more collagen to your diet. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.3x4.1"
+  },
+  "isRelatedTo": null,
+  "sku": "LKN-01858",
+  "gtin12": "898220018581",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/g/187.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Hydrolyzed Collagen Peptides",
+    "Type I and Type III Collagen Peptides",
+    "Unflavored Supplement Powder",
+    "Support for Hair, Skin, Nails, and Joints*",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a GMP Facility",
+    "Contains bovine-derived ingredients"
+   ],
+   "paragraphs": [
+    "Collagen is a protein that is a major component of many tissues in the body. California Gold Nutrition® Hydrolyzed Collagen Peptides contains type I and type III collagen, which can help support healthy hair, skin, nails, and joints.* Simply add the unflavored powder to the drink of your choice for an added boost of collagen.",
+    "Hydrolyzed Collagen BenefitsThere are 16 different types of collagen found in the body, each with its own unique job. This supplement contains type I and type III collagen. Type I is used to build skin and connective tissues and may help to support healthier joints and improve skin health and appearance.* Type III helps to create muscles and blood vessels.* This supplement contains hydrolyzed collagen, meaning it has been broken down and will be easier for your body to absorb and use as needed.*",
+    "California Gold Nutrition® Hydrolyzed Collagen Peptides contains collagen from bovine sources. The powder supplement provides a convenient way to add more collagen to your diet.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 2 scoops daily with 6-12 ounces of water or the beverage of your choice. Best when taken as directed by a qualified healthcare professional.",
+    "Note: 10 grams per 2 scoops is an average. Individual scooping technique may yield slightly less than or slightly more than 10 grams.",
+    "Collagen peptides may clump in cold liquids, so it is recommended to mix into room temperature, warm, or hot liquids and then add ice if a cold beverage is your preference.",
+    "Our Collagen Peptides can be added to hot coffee or tea, juice, water, soup, oatmeal, yogurts, and smoothies."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.59 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LKN-01858"
+  },
+  {
+   "label": "UPC",
+   "value": "898220018581"
+  },
+  {
+   "label": "Package quantity",
+   "value": "460 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "21.5 x 13.5 x 10.4 cm, 0.48 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 scoops (10 g)"
+  ],
+  [
+   "Servings Per Container: 46"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "35",
+   ""
+  ],
+  [
+   "Protein",
+   "9 g",
+   ""
+  ],
+  [
+   "Sodium",
+   "60 mg",
+   "2%"
+  ],
+  [
+   "Hydrolyzed Bovine Collagen",
+   "10 g",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "46"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "200 g",
+   "pid": "102078",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unflavored-7-05-oz-200-g/102078",
+   "price": "฿311.35",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "460 g",
+   "pid": "101718",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unflavored-1-01-lb-460-g/101718",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#20 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿687.65",
+  "฿687.65",
+  "฿14.95/‏serving",
+  "{0}% off code: {1}",
+  "฿687.65",
+  "Save 0% in cart",
+  "฿14.95/‏serving",
+  "฿687.65",
+  "(0% off)",
+  "฿687.65",
+  "฿14.95/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/g/187.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/k/187.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/g/187.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/s/187.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/s/188.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/s/186.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/s/133.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01858/s/97.jpg"
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "pid": "53508",
+ "slug": "airborne-immune-support-very-berry-64-chewable-tablets",
+ "scrapedAt": "2026-08-25T17:21:16.711Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/airborne-immune-support-very-berry-64-chewable-tablets.jpg",
+  "/products/iherb/airborne-immune-support-very-berry-64-chewable-tablets-2.jpg",
+  "/products/iherb/airborne-immune-support-very-berry-64-chewable-tablets-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/airborne-immune-support-very-berry-64-chewable-tablets/53508",
+ "pageTitle": "AirBorne, Immune Support, Very Berry, 64 Chewable Tablets",
+ "h1": "AirBorne, Immune Support, Very Berry, 64 Chewable Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "53508",
+  "name": "AirBorne, Immune Support, Very Berry, 64 Chewable Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/g/97.jpg",
+  "mpn": "AIB-18630",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 428
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "AirBorne",
+   "url": "http://airbornehealth.com/",
+   "identifier": "AIB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.29",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "645.05",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Flavor More Immune Support Ingredients‡ 7 Key Nutrients For Immune Support Dietary Supplement No Water Needed 4 Chewable Tablets = 7 Immune Supporting Ingredients 1,000 mg of Vitamin C Now With 38 mcg (1500 IU) of Vitamin D Now With 100% Daily Value of Zinc Excellent Source of Vitamin A, Vitamin E, Selenium & Manganese Original Herbal Blend Including Echinacea & Ginger Gluten Free Our Story Developed by a former school teacher, Airborne® products are a specially crafted blend of vitamins, minerals, & herbs designed to support your immune system. ‡Now includes Vitamin D and more Zinc than our Original Formula",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "AIB-18630",
+  "gtin12": "647865186304",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/g/97.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural Flavor",
+    "More Immune Support Ingredients‡",
+    "7 Key Nutrients For Immune Support",
+    "Dietary Supplement",
+    "No Water Needed",
+    "1,000 mg of Vitamin C",
+    "Now With 38 mcg (1500 IU) of Vitamin D",
+    "Now With 100% Daily Value of Zinc",
+    "Excellent Source of Vitamin A, Vitamin E, Selenium & Manganese",
+    "Original Herbal Blend Including Echinacea & Ginger",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "4 Chewable Tablets = 7 Immune Supporting Ingredients",
+    "Our Story",
+    "Developed by a former school teacher, Airborne® products are a specially crafted blend of vitamins, minerals, & herbs designed to support your immune system.",
+    "‡Now includes Vitamin D and more Zinc than our Original Formula"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults and children 14 years of age and older: Chew four (4) tablets daily.",
+    "Children 4 years of age and older: Chew two (2) tablets daily. Not for younger children."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Dextrose, beet juice color, magnesium stearate, sucralose, natural flavor, microcrystalline cellulose, silicon dioxide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not take if pregnant, breastfeeding, on medication, or with a known medical condition unless you have consulted a physician. Always consult your pediatrician before giving your child dietary supplements.",
+    "Keep out of reach of children.",
+    "Protected with a tamper evident seal. Do not use if seal under cap is broken or missing.",
+    "Store in a cool, dry place with lid tightly closed."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2013"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AIB-18630"
+  },
+  {
+   "label": "UPC",
+   "value": "647865186304"
+  },
+  {
+   "label": "Package quantity",
+   "value": "64 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.8 x 7.2 x 6.9 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 tablets (4 years of age and older)/4 tablets (14 years of age and older)"
+  ],
+  [
+   "Servings Per Container: 32 (2 tablets)/16 (4 tablets)"
+  ],
+  [
+   "",
+   "4 years of age and older (2 tablets) Amount/Serving",
+   "%DV",
+   "14 years of age and older (4 tablets) Amount/Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "5",
+   "",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*",
+   "3 g",
+   "1%*"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "†",
+   "3 g",
+   "†"
+  ],
+  [
+   "Includes Added Sugars",
+   "2 g",
+   "4%*",
+   "3 g",
+   "6%*"
+  ],
+  [
+   "Vitamin A (as retinyl acetate)",
+   "90 mcg",
+   "10%",
+   "180 mcg",
+   "20%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid and sodium ascorbate)",
+   "500 mg",
+   "556%",
+   "1000 mg",
+   "1111%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "19 mcg",
+   "95%",
+   "38 mcg",
+   "190%"
+  ],
+  [
+   "Vitamin E (as dl-alpha tocopheryl acetate)",
+   "1.5 mg",
+   "10%",
+   "3 mg",
+   "20%"
+  ],
+  [
+   "Zinc (as zinc sulfate)",
+   "5.5 mg",
+   "50%",
+   "11 mg",
+   "100%"
+  ],
+  [
+   "Selenium (as selenium amino acid chelate)",
+   "5.5 mcg",
+   "10%",
+   "11 mcg",
+   "20%"
+  ],
+  [
+   "Manganese (as manganese gluconate)",
+   "0.23 mg",
+   "10%",
+   "0.46 mg",
+   "20%"
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "1%",
+   "40 mg",
+   "2%"
+  ],
+  [
+   "Proprietary Herbal BlendLonicera japonica (flower), Forsythia suspensa (fruit), Schizonepeta tenuifolia (aerial), Ginger (Zingiber officinale [root]), Vitex trifolia (fruit), Isatis tinctoria (root), Echinacea purpurea (aerial)",
+   "17.75 mg",
+   "†",
+   "35.5 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "32"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "64 count",
+   "pid": "53508",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-very-berry-64-chewable-tablets/53508",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "96 count",
+   "pid": "106123",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-citrus-96-chewable-tablets/106123",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 9 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿645.05",
+  "฿645.05",
+  "฿20.16/‏serving",
+  "{0}% off code: {1}",
+  "฿645.05",
+  "Save 0% in cart",
+  "฿20.16/‏serving",
+  "฿645.05",
+  "(0% off)",
+  "฿645.05",
+  "฿20.16/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/g/97.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/k/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/g/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/s/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/s/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib18630/b/97.jpg"
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "pid": "83358",
+ "slug": "sunwarrior-classic-protein-vanilla-1-65-lb-750-g",
+ "scrapedAt": "2026-08-25T17:20:33.422Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sunwarrior-classic-protein-vanilla-1-65-lb-750-g.jpg",
+  "/products/iherb/sunwarrior-classic-protein-vanilla-1-65-lb-750-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sunwarrior-classic-protein-vanilla-1-65-lb-750-g/83358",
+ "pageTitle": "Sunwarrior, Classic Protein, Vanilla, 1.65 lb (750 g)",
+ "h1": "Sunwarrior, Classic Protein, Vanilla, 1.65 lb (750 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "83358",
+  "name": "Sunwarrior, Classic Protein, Vanilla, 1.65 lb (750 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/g/34.jpg",
+  "mpn": "SUW-02592",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.3,
+   "reviewCount": 100
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sunwarrior",
+   "url": "http://www.sunwarrior.com/",
+   "identifier": "SUW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.00",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1612.51",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Plant Based Clean & Simple 20 g Protein - Muscle Fermented - Digestion 5 Ingredients - Allergen Friendly USDA Organic Dietary Supplement Certified Organic by CCOF Kosher Soy Free 0 g Added Sugars Gluten Free Dairy Free Non-GMO 100% Vegan Easy Absorption Classic Protein relies on the simple power of whole-grain brown rice, including the endosperm and bran, to create a gentle protein that is easy to digest and assimilate. Our mission to guide individuals on their path to self-actualization inspires everything we do from sourcing the finest ingredients to recycled & recyclable packaging. Simplified Nutrition Organic Whole Grain Brown Rice Classic Protein is made from one renewable protein source, which is gentle on the digestive system, allergen-friendly, and eco-friendly. Simple CLEAN Ingredients 5 Total Ingredients Support Heart Health with 0 mg Cholesterol Easy to Mix Low Glycemic Index 100 Calories 2 g Carbs Muscle Maintenance Essential Amino Acids 20 g Organic Plant-Based Protein Easy on Digestion Fewer Allergens Than Whey Allergen-Friendly Bio-Available Easy Absorption",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.85x4.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SUW-02592",
+  "gtin12": "814784025926",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/g/34.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Plant Based Protein",
+  "Rice Protein"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Plant Based",
+    "Clean & Simple",
+    "20 g Protein - Muscle",
+    "Fermented - Digestion",
+    "5 Ingredients - Allergen Friendly",
+    "USDA Organic",
+    "Dietary Supplement",
+    "Certified Organic by CCOF",
+    "Kosher",
+    "Soy Free",
+    "0 g Added Sugars",
+    "Gluten Free",
+    "Dairy Free",
+    "Non-GMO",
+    "100% Vegan",
+    "5 Total Ingredients",
+    "Support Heart Health with 0 mg Cholesterol",
+    "Easy to Mix",
+    "100 Calories",
+    "2 g Carbs",
+    "Essential Amino Acids",
+    "20 g Organic Plant-Based Protein",
+    "Fewer Allergens Than Whey",
+    "Allergen-Friendly",
+    "Bio-Available",
+    "Easy Absorption"
+   ],
+   "paragraphs": [
+    "Easy Absorption",
+    "Classic Protein relies on the simple power of whole-grain brown rice, including the endosperm and bran, to create a gentle protein that is easy to digest and assimilate.",
+    "Our mission to guide individuals on their path to self-actualization inspires everything we do from sourcing the finest ingredients to recycled & recyclable packaging.",
+    "Simplified Nutrition",
+    "Organic Whole Grain Brown Rice",
+    "Classic Protein is made from one renewable protein source, which is gentle on the digestive system, allergen-friendly, and eco-friendly.",
+    "Simple CLEAN Ingredients",
+    "Low Glycemic Index",
+    "Muscle Maintenance",
+    "Easy on Digestion"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix, shake or blend 1 scoop with 10 oz of your favorite beverage. Refrigerate and use prepared product same day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic fermented brown rice protein, organic vanilla flavor, organic guar gum, sea salt, organic stevia extract (steviol glycosides).",
+    "Allergen notice: This product is manufactured in a facility that may also manufacture products containing peanuts or tree nuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep package out of direct light and away from heat.",
+    "Amount inside is measured by weight, not volume.",
+    "Color texture, flavor, and other traits may vary.",
+    "Consult your physician before beginning a dietary regimen containing this product. Keep out of the reach of children. If you are nursing, pregnant, or considering pregnancy, consult your healthcare professional prior to using this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.91 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SUW-02592"
+  },
+  {
+   "label": "UPC",
+   "value": "814784025926"
+  },
+  {
+   "label": "Package quantity",
+   "value": "750 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "21.8 x 12.3 x 12.2 cm, 0.91 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (25 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "100",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%*"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "2%*"
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%*"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "3%*"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "‡"
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%*"
+  ],
+  [
+   "Protein",
+   "20 g",
+   "16%*"
+  ],
+  [
+   "Iron",
+   "1.2 mg",
+   "6%"
+  ],
+  [
+   "Sodium",
+   "150 mg",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "90 mg",
+   "2%"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.‡Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "‡Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "375 g",
+   "pid": "83359",
+   "url": "https://th.iherb.com/pr/sunwarrior-classic-protein-vanilla-13-2-oz-375-g/83359",
+   "price": "฿960.41",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "750 g",
+   "pid": "83358",
+   "url": "https://th.iherb.com/pr/sunwarrior-classic-protein-vanilla-1-65-lb-750-g/83358",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,612.51",
+  "฿1,612.51",
+  "฿53.75/‏serving",
+  "{0}% off code: {1}",
+  "฿1,612.51",
+  "Save 0% in cart",
+  "฿53.75/‏serving",
+  "฿1,612.51",
+  "(0% off)",
+  "฿1,612.51",
+  "฿53.75/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/g/34.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/k/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/g/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/suw/suw02592/b/34.jpg"
+ ]
+}

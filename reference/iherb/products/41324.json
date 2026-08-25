@@ -1,0 +1,268 @@
+{
+ "pid": "41324",
+ "slug": "21st-century-fish-oil-1-200-mg-90-enteric-coated-softgels",
+ "scrapedAt": "2026-08-25T17:14:50.414Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-fish-oil-1-200-mg-90-enteric-coated-softgels.jpg",
+  "/products/iherb/21st-century-fish-oil-1-200-mg-90-enteric-coated-softgels-2.jpg",
+  "/products/iherb/21st-century-fish-oil-1-200-mg-90-enteric-coated-softgels-3.jpg",
+  "/products/iherb/21st-century-fish-oil-1-200-mg-90-enteric-coated-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-fish-oil-1-200-mg-90-enteric-coated-softgels/41324",
+ "pageTitle": "21st Century, Fish Oil, 1,200 mg, 90 Enteric Coated Softgels",
+ "h1": "21st Century, Fish Oil, 1,200 mg, 90 Enteric Coated Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "41324",
+  "name": "21st Century, Fish Oil, 1,200 mg, 90 Enteric Coated Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/g/44.jpg",
+  "mpn": "CEN-27369",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 181
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "360.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Reflux Free Omega-3 | 360 mg Heart Health Support Dietary Supplement Gluten Free Non-GMO Guaranteed Quality Laboratory Tested Trusted Quality For Over 30 Years Enteric Coated to Avoid Upset Stomach, Aftertaste & Reflux! Purified to Eliminate Mercury. EPA and DHA are important Omega-3 fatty acids that support cardiovascular health as well as being important components of the cells in the body. 21 st Century Fish Oil contains high quality molecularly distilled fish oil concentrate.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x1.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-27369",
+  "gtin12": "740985273692",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Reflux Free",
+    "Omega-3 | 360 mg",
+    "Heart Health Support",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Non-GMO",
+    "Guaranteed Quality Laboratory Tested",
+    "Trusted Quality For Over 30 Years"
+   ],
+   "paragraphs": [
+    "Enteric Coated to Avoid Upset Stomach, Aftertaste & Reflux!",
+    "Purified to Eliminate Mercury.",
+    "EPA and DHA are important Omega-3 fatty acids that support cardiovascular health as well as being important components of the cells in the body. 21st Century Fish Oil contains high quality molecularly distilled fish oil concentrate."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take one (1) softgel with any meal, up to three (3) times daily or as directed by a healthcare provider. Do not exceed recommended dosage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, vegetable glycerin, purified water, mixed tocopherols. Coating (sodium alginate, stearic acid, ethylcellulose, medium chain triglycerides, ammonium hydroxide, oleic acid, vanillin).",
+    "Contains soy and fish (anchovy, cod, herring, mackerel, salmon, sardine and sprat).",
+    "No added sugar, salt, yeast, artificial flavors or colors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Individual results may vary.",
+    "Consult a healthcare provider prior to use if pregnant, nursing, taking medications, including blood thinners, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.",
+    "Keep out of reach of children.",
+    "Do not use if product appears to be tampered with or seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-27369"
+  },
+  {
+   "label": "UPC",
+   "value": "740985273692"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.9 x 6.2 x 4.7 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%†"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "0.5 g",
+   "**"
+  ],
+  [
+   "Monounsaturated Fat",
+   "0 g",
+   "**"
+  ],
+  [
+   "Cholesterol",
+   "5 mg",
+   "2%"
+  ],
+  [
+   "Fish Oil ConcentrateProvides 360 mg of Total Omega-3Fatty Acid compromising of:EPA (Eicosapentaenoic Acid)DHA (Docosahexaenoic Acid)",
+   "1,200 mg",
+   "******"
+  ],
+  [
+   "†Percent Daily Value based on a 2,000 calorie diet.**Daily Values not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "**",
+  "**",
+  "**",
+  "†Percent Daily Value based on a 2,000 calorie diet.",
+  "**Daily Values not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿360.91",
+  "฿360.91",
+  "฿4.01/‏serving",
+  "{0}% off code: {1}",
+  "฿360.91",
+  "Save 0% in cart",
+  "฿4.01/‏serving",
+  "฿360.91",
+  "(0% off)",
+  "฿360.91",
+  "฿4.01/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27369/s/61.jpg"
+ ]
+}

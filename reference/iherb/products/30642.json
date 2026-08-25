@@ -1,0 +1,248 @@
+{
+ "pid": "30642",
+ "slug": "nature-s-answer-liquid-magnesium-malate-and-glycinate-16-fl-oz-480-ml",
+ "scrapedAt": "2026-08-25T17:10:46.288Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-answer-liquid-magnesium-malate-and-glycinate-16-fl-oz-480-ml.jpg",
+  "/products/iherb/nature-s-answer-liquid-magnesium-malate-and-glycinate-16-fl-oz-480-ml-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-answer-liquid-magnesium-malate-and-glycinate-16-fl-oz-480-ml/30642",
+ "pageTitle": "Nature's Answer, Liquid Magnesium Malate and Glycinate, 16 fl oz (480 ml)",
+ "h1": "Nature's Answer, Liquid Magnesium Malate and Glycinate, 16 fl oz (480 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "30642",
+  "name": "Nature's Answer, Liquid Magnesium Malate and Glycinate, 16 fl oz (480 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/g/49.jpg",
+  "mpn": "NTA-26173",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 12631
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Answer",
+   "url": "http://www.naturesanswer.com/",
+   "identifier": "NTA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.89",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "618.94",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Since 1972 Dietary Supplement Supports Bone and Muscle Health Non GMO Project Verified Albion Minerals Magnesium promotes energy, supports healthy skeletal and cardiovascular systems. Foods that supply magnesium include dark green leafy vegetables, beans, nuts, and whole refined grains. However due to soil depletion and poor eating habits, many people do not get enough magnesium. Magnesium Malate and Magnesium Glycinate are \"gentle\" forms of magnesium that are amino acid chelates.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4x3"
+  },
+  "isRelatedTo": null,
+  "sku": "NTA-26173",
+  "gtin12": "083000261732",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/g/49.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Malate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Since 1972",
+    "Dietary Supplement",
+    "Supports Bone and Muscle Health",
+    "Non GMO Project Verified",
+    "Albion Minerals"
+   ],
+   "paragraphs": [
+    "Magnesium promotes energy, supports healthy skeletal and cardiovascular systems. Foods that supply magnesium include dark green leafy vegetables, beans, nuts, and whole refined grains. However due to soil depletion and poor eating habits, many people do not get enough magnesium.",
+    "Magnesium Malate and Magnesium Glycinate are \"gentle\" forms of magnesium that are amino acid chelates."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) tablespoons (30 ml) once daily, preferably with a meal.",
+    "Shake well before use.",
+    "Refrigerate after opening.",
+    "Slight crystallization is normal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Purified water, organic agave nectar syrup, citric acid, potassium sorbate, xanthan gum, natural tangerine flavor."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. If you are pregnant, nursing taking any medications, planning any medical procedure or have a medical condition, consult with your healthcare practitioner before use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.86 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTA-26173"
+  },
+  {
+   "label": "UPC",
+   "value": "083000261732"
+  },
+  {
+   "label": "Package quantity",
+   "value": "480 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "18.3 x 10.2 x 7.6 cm, 0.86 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 tablespoons (30 ml)"
+  ],
+  [
+   "Servings Per Container: 16"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "30",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "7 g",
+   "2%*"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   "†"
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%"
+  ],
+  [
+   "Magnesium (as Albion® Di-Magnesium Malate and TRAACS® Magnesium Bisglycinate Chelate Buffered)",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablespoons"
+    },
+    {
+     "label": "Total servings",
+     "value": "16"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿618.94",
+  "฿618.94",
+  "฿38.68/‏serving",
+  "{0}% off code: {1}",
+  "฿618.94",
+  "Save 0% in cart",
+  "฿38.68/‏serving",
+  "฿618.94",
+  "(0% off)",
+  "฿618.94",
+  "฿38.68/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/g/49.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/k/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/g/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nta/nta26173/s/52.jpg"
+ ]
+}

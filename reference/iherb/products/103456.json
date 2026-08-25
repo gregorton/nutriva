@@ -1,0 +1,331 @@
+{
+ "pid": "103456",
+ "slug": "naturesplus-collagen-peptides-1-3-lbs-588-g",
+ "scrapedAt": "2026-08-25T17:18:00.926Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturesplus-collagen-peptides-1-3-lbs-588-g.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-1-3-lbs-588-g-2.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-1-3-lbs-588-g-3.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-1-3-lbs-588-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-1-3-lbs-588-g/103456",
+ "pageTitle": "NaturesPlus, Collagen Peptides, 1.3 lbs (588 g)",
+ "h1": "NaturesPlus, Collagen Peptides, 1.3 lbs (588 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103456",
+  "name": "NaturesPlus, Collagen Peptides, 1.3 lbs (588 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/g/42.jpg",
+  "mpn": "NAP-45962",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 4793
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NaturesPlus",
+   "url": "https://naturesplus.com/",
+   "identifier": "NAP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.53",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1735.59",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass Fed Sustainably Caught Cage-Free Chicken Eggshell Membrane I, II, III, IV, V, X Types of Natural Collagen Dietary Supplement Soft Skin Strong Nails Hair Growth Gut Health Joint Relief Clean Ingredients, Clean Taste Certified Non-GMO Environmentally Responsible Gluten Free GMP Certified Facility Clean, Pure, Optimized Don't Settle for Non-Hydrolyzed Collagen! Look and feel your best with NaturesPlus Collagen Peptides. Boost the health of your hair, skin, nails, joints, immune system and much more with the power of collagen protein peptides. NaturesPlus Collagen Peptides provides the highest quality Collagen available: Sourced from Grass-Fed Beef, Wild-Caught Cod, Cage-Free Chicken and Eggshell Membrane. Clean, sustainable ingredients are the best choice of collagen sources. These 6 major Collagen Types (I, II, III, IV, V & X) provide a complete & powerful profile delivering exceptional whole body benefits. Maximized Absorption Superior Source Hydrolyzed Collagen with Collagen Digesting Enzymes to maximize absorption. Full Spectrum Collagen provides whole body results: Type I - Skin Elasticity Type II - Joints and Immune System Type III - Skin, Blood Vessels, Vital Organs Type IV - Cell Health and Growth Type V - Skin, Tendons and Immune System Type X - Joints, Bones, Muscles and Hair",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.95x4.9"
+  },
+  "isRelatedTo": null,
+  "sku": "NAP-45962",
+  "gtin12": "097467459625",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/g/42.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass Fed",
+    "Sustainably Caught",
+    "Cage-Free Chicken",
+    "Eggshell Membrane",
+    "I, II, III, IV, V, X Types of Natural Collagen",
+    "Dietary Supplement",
+    "Soft Skin",
+    "Strong Nails",
+    "Hair Growth",
+    "Gut Health",
+    "Joint Relief",
+    "Clean Ingredients, Clean Taste",
+    "Certified Non-GMO",
+    "Environmentally Responsible",
+    "Gluten Free",
+    "GMP Certified Facility",
+    "Clean, Pure, Optimized",
+    "Don't Settle for Non-Hydrolyzed Collagen!",
+    "Sourced from Grass-Fed Beef, Wild-Caught Cod, Cage-Free Chicken and Eggshell Membrane. Clean, sustainable ingredients are the best choice of collagen sources.",
+    "These 6 major Collagen Types (I, II, III, IV, V & X) provide a complete & powerful profile delivering exceptional whole body benefits.",
+    "Type I - Skin Elasticity",
+    "Type II - Joints and Immune System",
+    "Type III - Skin, Blood Vessels, Vital Organs",
+    "Type IV - Cell Health and Growth",
+    "Type V - Skin, Tendons and Immune System",
+    "Type X - Joints, Bones, Muscles and Hair"
+   ],
+   "paragraphs": [
+    "Look and feel your best with NaturesPlus Collagen Peptides. Boost the health of your hair, skin, nails, joints, immune system and much more with the power of collagen protein peptides.",
+    "NaturesPlus Collagen Peptides provides the highest quality Collagen available:",
+    "Maximized Absorption",
+    "Superior Source Hydrolyzed Collagen with Collagen Digesting Enzymes to maximize absorption.",
+    "Full Spectrum Collagen provides whole body results:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Add 10.5 g (approx 1 scoop) or 21 g (approx 2 scoops ) of Collagen Peptides powder to 8 fl oz of any liquid or recipe of your choice.",
+    "NaturesPlus' superior collagen forms mix quickly and easily. No blender required!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Contains egg and fish. Free from synthetic: colors, preservatives.",
+    "Does not contain milk, crustacean shellfish, tree nuts, peanuts, wheat, soy or sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep tightly closed in a cool, dry place. Keep out of reach of children.",
+    "Not to be used as the sole source of dietary calories or protein.",
+    "This product is sold by weight, not volume. Settling of contents may occur during shipping and handling."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.69 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAP-45962"
+  },
+  {
+   "label": "UPC",
+   "value": "097467459625"
+  },
+  {
+   "label": "Package quantity",
+   "value": "588 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "18 x 12.6 x 12.4 cm, 0.7 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: Approx. 1 Scoop (10.5 g) or Approx. 2 Scoops (21 g)"
+  ],
+  [
+   "Serving Per Container: 56 or 28"
+  ],
+  [
+   "Amount Per Serving",
+   "1 Scoop",
+   "%Daily Value",
+   "2 Scoops",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   "",
+   "80",
+   ""
+  ],
+  [
+   "Calories from Fat",
+   "0",
+   "",
+   "0",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   "‡",
+   "20 g",
+   "‡"
+  ],
+  [
+   "Hydrolyzed Grass-Fed Beef Collagen, Fish Collagen, Chicken Collagen and Eggshell Membrane Collagen Concentrate (include Types I, II, III, IV, V, X)",
+   "10 g",
+   "†",
+   "20 g",
+   "†"
+  ],
+  [
+   "Collagen Boosting Enzyme (Protease)",
+   "15 mg",
+   "†",
+   "30 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established.‡High-quality collagen protein is naturally free from the essential amino acid tryptophan and therefore has no % Daily Value"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving \t1 Scoop\t%Daily Value\t2 Scoops\t%Daily Value",
+  "†Daily Value not established.",
+  "‡High-quality collagen protein is naturally free from the essential amino acid tryptophan and therefore has no % Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "56"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Shellfish-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "294 g",
+   "pid": "88971",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-0-65-lb-294-g/88971",
+   "price": "฿968.78",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "364 g",
+   "pid": "115915",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-vanilla-0-8-lb-364-g/115915",
+   "price": "฿983.81",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "378 g",
+   "pid": "115920",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-chocolate-0-83-lb-378-g/115920",
+   "price": "฿984.84",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "588 g",
+   "pid": "103456",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-1-3-lbs-588-g/103456",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,735.59",
+  "฿1,735.59",
+  "฿30.99/‏serving",
+  "{0}% off code: {1}",
+  "฿1,735.59",
+  "Save 0% in cart",
+  "฿30.99/‏serving",
+  "฿1,735.59",
+  "(0% off)",
+  "฿1,735.59",
+  "฿30.99/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/g/42.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/k/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/g/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45962/s/54.jpg"
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "pid": "64474",
+ "slug": "renew-life-extra-care-go-pack-ultimate-flora-probiotic-50-billion-cfu",
+ "scrapedAt": "2026-08-25T17:38:20.765Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/renew-life-extra-care-go-pack-ultimate-flora-probiotic-50-billion-cfu.jpg",
+  "/products/iherb/renew-life-extra-care-go-pack-ultimate-flora-probiotic-50-billion-cfu-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/renew-life-extra-care-go-pack-ultimate-flora-probiotic-50-billion-cfu-30-delayed-release-vegan-capsules/64474",
+ "pageTitle": "Renew Life, Extra Care Go-Pack, Ultimate Flora™ Probiotic, 50 Billion CFU, 30 Delayed Release Vegan Capsules",
+ "h1": "Renew Life, Extra Care Go-Pack, Ultimate Flora™ Probiotic, 50 Billion CFU, 30 Delayed Release Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "64474",
+  "name": "Renew Life, Extra Care Go-Pack, Ultimate Flora™ Probiotic, 50 Billion CFU, 30 Delayed Release Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/g/77.jpg",
+  "mpn": "REN-15809",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 171
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Renew Life",
+   "url": "http://www.renewlife.com/",
+   "identifier": "REN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "1505.33",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-10-19T00:00:00"
+  },
+  "description": "#1 Most Studied Strain^ Non GMO Project Verified 50 Billion CFU Probiotic Supplement Free of Gluten, Dairy, Soy 30 Years Experience Good For Your Gut! Our Ultimate Flora™ Extra Care probiotics provide powerful digestive support to maintain your body's good, natural flora. Probiotic Pioneers for 30 Years We have pioneered superior- quality digestive care supplements based on our 30 years of experience, helping people achieve optimal health from the inside out. Extra Care Probiotic for Digestive Discomfort Ultimate Flora™ Extra Care is specifically designed to reestablish digestive balance for those who experience occasional discomfort. The Ultimate Flora Probiotic Difference Delayed Release Capsule Targeted delivery. Stomach acid can destroy probiotics. Ultimate Flora™ delayed release capsules ensure more friendly probiotics reach your intestinal tract. No Delayed Release Capsule does not resist stomach acid. Ultimate Flora™ Delayed Release Capsule is designed to resist stomach acid. Microbiome Optimal Balance Bifidobacteria, naturally found in milk, kefir, sauerkraut, kimchi and other fermented foods, declines as we age. Ultimate Flora™ is specially formulated to be high in Bifidobacteria to support a balanced microbiome. Multi Strain Benefits Ultimate Flora™ contains 12 different strains of beneficial probiotics (Bifidobacteria, Lactobacilli, and Lactococci). Some other brands contain only Bifido or only Lacto. Since you have many different strains of probiotics in your intestinal tract, more strains (B's and L's) may be better. Quality purity and potency guaranteed through expiration.¹ ^Based on the number of scientific and clinical studies of Lactobacillus rhamnosus GG for a range of benefits as of January 2022. ¹At Expiration Date under recommended storage conditions. Store in a cool, dry place. Refrigeration not required.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.65x3.35"
+  },
+  "isRelatedTo": null,
+  "sku": "REN-15809",
+  "gtin12": "631257158093",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/g/77.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2015"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "REN-15809"
+  },
+  {
+   "label": "UPC",
+   "value": "631257158093"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "4.4 x 14.4 x 8.5 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Delayed Release Vegan Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Ultimate Flora™ Extra Care 50 Billion BlendBifidobacterium lactis (strain 1)Bifidobacterium lactis (strain 2)Bifidobacterium lactis (strain 3)Bifidobacterium infantis",
+   "152 mg",
+   "**"
+  ],
+  [
+   "Total Bifido Probiotic CulturesLactobacillus plantarumLactobacillus rhamnosus GGLactococcus acidophilus (strain 1)Lactococcus lactisLactobacillus caseiLactobacillus paracaseiLactobacillus acidophilus (strain 2)Lactobacillus brevis",
+   "28 Billion CFU",
+   ""
+  ],
+  [
+   "Total Lacto Probiotic Cultures",
+   "22 Billion CFU",
+   ""
+  ],
+  [
+   "Total Bifido/Lacto Probiotic Cultures",
+   "50 Billion CFU1",
+   ""
+  ],
+  [
+   "** Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 Delayed Release Vegan CapsuleServings Per Container: 30 Amount Per Serving% Daily ValueUltimate Flora™ Extra Care 50 Billion BlendBifidobacterium lactis (strain 1)Bifidobacterium lactis (strain 2)Bifidobacterium lactis (strain 3)Bifidobacterium infantis152 mg**Total Bifido Probiotic CulturesLactobacillus plantarumLactobacillus rhamnosus GGLactococcus acidophilus (strain 1)Lactococcus lactisLactobacillus caseiLactobacillus paracaseiLactobacillus acidophilus (strain 2)Lactobacillus brevis28 Billion CFUTotal Lacto Probiotic Cultures22 Billion CFUTotal Bifido/Lacto Probiotic Cultures50 Billion CFU1** Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegan capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Non-gmo",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Renew Life, Extra Care Ultimate Flora™ Probiotic , 30 Billion CFU, 30 Delayed Release Vegan Capsules",
+  "547",
+  "฿868.81"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/g/77.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/k/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/g/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ren/ren15809/s/78.jpg"
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "pid": "122113",
+ "slug": "california-gold-nutrition-liquid-multi-vitamin-mineral-with-calcium-vi",
+ "scrapedAt": "2026-08-25T17:48:46.920Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-liquid-multi-vitamin-mineral-with-calcium-vi.jpg",
+  "/products/iherb/california-gold-nutrition-liquid-multi-vitamin-mineral-with-calcium-vi-2.jpg",
+  "/products/iherb/california-gold-nutrition-liquid-multi-vitamin-mineral-with-calcium-vi-3.jpg",
+  "/products/iherb/california-gold-nutrition-liquid-multi-vitamin-mineral-with-calcium-vi-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-liquid-multi-vitamin-mineral-with-calcium-vitamin-b12-vitamins-c-d3-for-children-no-alcohol-natural-orange-mango-8-fl-oz-237-ml/122113",
+ "pageTitle": "California Gold Nutrition, Liquid Multi-Vitamin & Mineral with Calcium, Vitamin B12, Vitamins C & D3 for Children, No Alcohol, Natural Orange Mango, 8 fl oz (237 ml)",
+ "h1": "California Gold Nutrition, Liquid Multi-Vitamin & Mineral with Calcium, Vitamin B12, Vitamins C & D3 for Children, No Alcohol, Natural Orange Mango, 8 fl oz (237 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "122113",
+  "name": "California Gold Nutrition, Liquid Multi-Vitamin & Mineral with Calcium, Vitamin B12, Vitamins C & D3 for Children, No Alcohol, Natural Orange Mango, 8 fl oz (237 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/g/100.jpg",
+  "mpn": "CGN-02297",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2644
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.68",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "430.63",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "574.18",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Orange Mango Flavor Alcohol-Free No Artificial Flavors, Colors or Sweeteners California Gold Nutrition® KIDS Liquids Multivitamin & Mineral features a unique blend of 20 key vitamins and minerals including calcium, vitamin B12, vitamin C, vitamin D3, and magnesium to help promote normal growth and development and support a healthy immune system.* iTested Verified ​",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02297",
+  "gtin12": "898220022977",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/g/100.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Orange Mango Flavor",
+    "Alcohol-Free",
+    "No Artificial Flavors, Colors or Sweeteners"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® KIDS Liquids Multivitamin & Mineral features a unique blend of 20 key vitamins and minerals including calcium, vitamin B12, vitamin C, vitamin D3, and magnesium to help promote normal growth and development and support a healthy immune system.*",
+    "iTested Verified ​"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 4 years and older take 2 teaspoons daily, with or without food. Best when taken as directed by a qualified healthcare professional. Shake well before use. Give directly or mix with your child's favorite drink."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Purified Water, Fructose, Vegetable Glycerin, Natural Flavors, Citric Acid, Potassium Sorbate (as Preservative), Potassium Citrate, Xanthan Gum, and Polysorbate 80 (as Emulsifier).",
+    "Contains: Soy",
+    "Not manufactured with milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, soy, sesame, or gluten. Produced in a third-party, audited and registered cGMP compliant facility that may process other products that contain these allergens or ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture. After opening, keep bottle tightly closed."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.31 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02297"
+  },
+  {
+   "label": "UPC",
+   "value": "898220022977"
+  },
+  {
+   "label": "Package quantity",
+   "value": "237 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.7 x 5.8 x 5.7 cm, 0.31 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 teaspoons (10 mL)"
+  ],
+  [
+   "Servings Per Container: About 24"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value for Children 4 years & up"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "†"
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "4%*"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate and Beta-Carotene)",
+   "510 mcg",
+   "57%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "135 mg",
+   "150%"
+  ],
+  [
+   "Vitamin D (as D3, Cholecalciferol)",
+   "6.8 mcg",
+   "34%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopheryl Acetate)",
+   "13.4 mg",
+   "89%"
+  ],
+  [
+   "Thiamin (as Thiamine HCl)",
+   "2 mg",
+   "167%"
+  ],
+  [
+   "Riboflavin (as Riboflavin-5-Phosphate Sodium)",
+   "2 mg",
+   "154%"
+  ],
+  [
+   "Niacin (as Niacinamide)",
+   "10 mg",
+   "63%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCl)",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Folate",
+   "230 mcg DFE (135 mcg Folic Acid)",
+   "57%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "6 mcg",
+   "250%"
+  ],
+  [
+   "Biotin",
+   "65 mcg",
+   "217%"
+  ],
+  [
+   "Pantothenic Acid (as d-Panthenol)",
+   "7 mg",
+   "140%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "20 mg",
+   "4%"
+  ],
+  [
+   "Calcium (as Calcium L-Lactate Pentahydrate)",
+   "55 mg",
+   "4%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "50 mcg",
+   "33%"
+  ],
+  [
+   "Magnesium (as Magnesium Lactate)",
+   "15 mg",
+   "4%"
+  ],
+  [
+   "Zinc (as Zinc Gluconate)",
+   "5 mg",
+   "45%"
+  ],
+  [
+   "Selenium (Selenomethionine Yeast)",
+   "35 mcg",
+   "64%"
+  ],
+  [
+   "Manganese (as Manganese Gluconate Dihydrate)",
+   "1.5 mg",
+   "65%"
+  ],
+  [
+   "Chromium (as Chromium Polynicotinate)",
+   "7 mcg",
+   "20%"
+  ],
+  [
+   "Inositol",
+   "20 mg",
+   "†"
+  ],
+  [
+   "Grapefruit Extract (Citrus paradisi) (seed)",
+   "1 mg",
+   "†"
+  ],
+  [
+   "* Percent Daily Values are based on a 2,000 calorie diet. † Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value for Children 4 years & up",
+  "* Percent Daily Values are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 teaspoons"
+    },
+    {
+     "label": "Total servings",
+     "value": "24"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿574.18",
+  "฿574.18",
+  "฿23.92/‏serving",
+  "{0}% off code: {1}",
+  "฿574.18",
+  "Save 25% in cart",
+  "฿23.92/‏serving",
+  "฿430.63",
+  "(25% off)",
+  "฿574.18",
+  "฿17.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/g/100.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/k/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/g/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/s/102.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02297/s/19.jpg"
+ ]
+}

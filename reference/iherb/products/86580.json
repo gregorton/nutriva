@@ -1,0 +1,254 @@
+{
+ "pid": "86580",
+ "slug": "evlution-nutrition-omega-3-fish-oil-1-000-mg-120-softgels",
+ "scrapedAt": "2026-08-25T17:35:27.102Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/evlution-nutrition-omega-3-fish-oil-1-000-mg-120-softgels.jpg",
+  "/products/iherb/evlution-nutrition-omega-3-fish-oil-1-000-mg-120-softgels-2.jpg",
+  "/products/iherb/evlution-nutrition-omega-3-fish-oil-1-000-mg-120-softgels-3.jpg",
+  "/products/iherb/evlution-nutrition-omega-3-fish-oil-1-000-mg-120-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/evlution-nutrition-omega-3-fish-oil-1-000-mg-120-softgels/86580",
+ "pageTitle": "EVLution Nutrition, Omega-3 Fish Oil, 1,000 mg, 120 Softgels",
+ "h1": "EVLution Nutrition, Omega-3 Fish Oil, 1,000 mg, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "86580",
+  "name": "EVLution Nutrition, Omega-3 Fish Oil, 1,000 mg, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/g/93.jpg",
+  "mpn": "EVL-02026",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 3216
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "EVLution Nutrition",
+   "url": "http://evlnutrition.com/",
+   "identifier": "EVL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.57",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "727.98",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Brain Cardiovascular Function High EPA/DHA Fish Oil Formula Supports Cell Production Supports Joint Health Dietary Supplement 180 mg EPA/ 120 mg DHA Omega-3 Fish Oil sets the quality standard, with ultrafiltered nordic sourced fish oil that is designed to support: Cardiovascular Function Brain Function Joint Health Cell Production",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "EVL-02026",
+  "gtin12": "818901020269",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/g/93.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Brain Cardiovascular Function",
+    "High EPA/DHA Fish Oil Formula",
+    "Supports Cell Production",
+    "Supports Joint Health",
+    "Dietary Supplement",
+    "180 mg EPA/ 120 mg DHA",
+    "Cardiovascular Function",
+    "Brain Function",
+    "Joint Health",
+    "Cell Production"
+   ],
+   "paragraphs": [
+    "Omega-3 Fish Oil sets the quality standard, with ultrafiltered nordic sourced fish oil that is designed to support:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, consume 1 softgel twice daily or use as directed by a physician or licensed nutritionist."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, glycerin, and purified water.",
+    "Contains: Fish (anchovy).",
+    "This product is made in the USA, has been distributed and manufactured by a (GMP) registered facility and contains ingredients of domestic and international origin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not for use by those with pre-existing medical conditions; those taking any medications; those under the age of 18, or women that are contemplating pregnancy, pregnant or nursing. Discontinue use 2 weeks prior to surgery. Keep out of reach of children and pets."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.26 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "EVL-02026"
+  },
+  {
+   "label": "UPC",
+   "value": "818901020269"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.2 x 7.2 x 7.2 cm, 0.26 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Fish Oil",
+   "1,000 mg",
+   "†"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA)",
+   "180 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA)",
+   "120 mg",
+   "†"
+  ],
+  [
+   "Percent Daily Values are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿727.98",
+  "฿727.98",
+  "฿6.07/‏serving",
+  "{0}% off code: {1}",
+  "฿727.98",
+  "Save 0% in cart",
+  "฿6.07/‏serving",
+  "฿727.98",
+  "(0% off)",
+  "฿727.98",
+  "฿6.07/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/g/93.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/k/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/g/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/s/99.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/s/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/evl/evl02026/s/84.jpg"
+ ]
+}

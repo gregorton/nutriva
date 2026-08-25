@@ -1,0 +1,260 @@
+{
+ "pid": "142752",
+ "slug": "micro-ingredients-vitamin-d3-k2-300-softgels",
+ "scrapedAt": "2026-08-25T17:09:52.948Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-vitamin-d3-k2-300-softgels.jpg",
+  "/products/iherb/micro-ingredients-vitamin-d3-k2-300-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-300-softgels/142752",
+ "pageTitle": "Micro Ingredients, Vitamin D3 + K2, 300 Softgels",
+ "h1": "Micro Ingredients, Vitamin D3 + K2, 300 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142752",
+  "name": "Micro Ingredients, Vitamin D3 + K2, 300 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/g/6.jpg",
+  "mpn": "MII-61602",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 2155
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "984.31",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "2-In-1 Formula 5,000 IU D3 + 100 mcg K2 Per Serving GMO Free Gluten Free Soy Free Dietary Supplement No GMO Stay Healthy Love Nature Quality Assured Why Micro Ingredients vitamin D3 + K2? Elevate your wellness with our 2 in 1 softgels, a potent blend of essential vitamins D3 and K2, known for their synergistic effects on optimal health. Crafted with the bioavailable forms of D3 (cholecalciferol) and K2 (MK7), and fortified with sunflower seed oil for enhanced absorption, these softgels offer comprehensive health benefits. Our premium-grade ingredients undergo rigorous testing in our state-of-the-art facility to meet the highest standards. The inclusion of sunflower oil makes this product suitable even for those with soy allergies, ensuring optimal vitality for all.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.1x1.5"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-61602",
+  "gtin12": "850015616020",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/g/6.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "2-In-1 Formula",
+    "5,000 IU D3 + 100 mcg K2 Per Serving",
+    "GMO Free",
+    "Gluten Free",
+    "Soy Free",
+    "Dietary Supplement",
+    "No GMO",
+    "Stay Healthy",
+    "Love Nature",
+    "Quality Assured"
+   ],
+   "paragraphs": [
+    "Why Micro Ingredients vitamin D3 + K2?",
+    "Elevate your wellness with our 2 in 1 softgels, a potent blend of essential vitamins D3 and K2, known for their synergistic effects on optimal health. Crafted with the bioavailable forms of D3 (cholecalciferol) and K2 (MK7), and fortified with sunflower seed oil for enhanced absorption, these softgels offer comprehensive health benefits. Our premium-grade ingredients undergo rigorous testing in our state-of-the-art facility to meet the highest standards. The inclusion of sunflower oil makes this product suitable even for those with soy allergies, ensuring optimal vitality for all."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 1 softgel daily. For best results, please consult your physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sunflower seed oil, softgel (gelatin, glycerin, purified water).",
+    "Free of: Soy, dairy, gluten & tree nuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Keep in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-61602"
+  },
+  {
+   "label": "UPC",
+   "value": "850015616020"
+  },
+  {
+   "label": "Package quantity",
+   "value": "300 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.3 x 13 x 3.8 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 300"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "5,000 IU",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (as Menaquinone)(MK-7)",
+   "100 mcg",
+   "83%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "300"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "180 count",
+   "pid": "156615",
+   "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-180-softgels/156615",
+   "price": "฿721.82",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "152159",
+   "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-240-softgels/152159",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "300 count",
+   "pid": "142752",
+   "url": "https://th.iherb.com/pr/micro-ingredients-vitamin-d3-k2-300-softgels/142752",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿984.31",
+  "฿984.31",
+  "฿3.28/‏serving",
+  "{0}% off code: {1}",
+  "฿984.31",
+  "Save 0% in cart",
+  "฿3.28/‏serving",
+  "฿984.31",
+  "(0% off)",
+  "฿984.31",
+  "฿3.28/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/g/6.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/k/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/g/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/s/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii61602/s/7.jpg"
+ ]
+}

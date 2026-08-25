@@ -1,0 +1,240 @@
+{
+ "pid": "145057",
+ "slug": "21st-century-chelated-magnesium-glycinate-90-capsules-100-mg-per-capsu",
+ "scrapedAt": "2026-08-25T17:25:55.034Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-chelated-magnesium-glycinate-90-capsules-100-mg-per-capsu.jpg",
+  "/products/iherb/21st-century-chelated-magnesium-glycinate-90-capsules-100-mg-per-capsu-2.jpg",
+  "/products/iherb/21st-century-chelated-magnesium-glycinate-90-capsules-100-mg-per-capsu-3.jpg",
+  "/products/iherb/21st-century-chelated-magnesium-glycinate-90-capsules-100-mg-per-capsu-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-chelated-magnesium-glycinate-90-capsules-100-mg-per-capsule/145057",
+ "pageTitle": "21st Century, Chelated Magnesium Glycinate, 90 Capsules, (100 mg per Capsule)",
+ "h1": "21st Century, Chelated Magnesium Glycinate, 90 Capsules, (100 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "145057",
+  "name": "21st Century, Chelated Magnesium Glycinate, 90 Capsules, (100 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/g/24.jpg",
+  "mpn": "CEN-28064",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1433
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.24",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "360.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "200 mg† Per Serving High Absorption Bone, Muscle, Heart & Nerve Support Mineral Support Gluten Free Non-GMO Guarantee Quality Laboratory Tested Trusted Quality For Over 30 Years Magnesium Glycinate is a chelated form of magnesium making it highly absorbable and gentle on your stomach. As an essential mineral, magnesium supports bone, muscle, heart and nerve health. †200 mg of elemental Magnesium from Magnesium Glycinate.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x1.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-28064",
+  "gtin12": "740985280645",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "200 mg† Per Serving",
+    "High Absorption",
+    "Bone, Muscle, Heart & Nerve Support",
+    "Mineral Support",
+    "Gluten Free",
+    "Non-GMO",
+    "Guarantee Quality Laboratory Tested",
+    "Trusted Quality For Over 30 Years"
+   ],
+   "paragraphs": [
+    "Magnesium Glycinate is a chelated form of magnesium making it highly absorbable and gentle on your stomach. As an essential mineral, magnesium supports bone, muscle, heart and nerve health.",
+    "†200 mg of elemental Magnesium from Magnesium Glycinate."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a mineral supplement, adults take two (2) capsules daily with any meal or as directed by a healthcare provider. Do not exceed recommended dosage. Individual results may vary."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose, gelatin, stearic acid, magnesium silicate, magnesium stearate.",
+    "No artificial flavors, artificial sweeteners, milk, lactose, salt, soy, sugar, preservatives, wheat or yeast."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare provider prior to use if pregnant, nursing, on medications, have a medical condition, including kidney disease, or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.",
+    "Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-28064"
+  },
+  {
+   "label": "UPC",
+   "value": "740985280645"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 6.1 x 4.7 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium(as Magnesium Bisglycinate)",
+   "200 mg",
+   "48%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿360.91",
+  "฿360.91",
+  "฿8.02/‏serving",
+  "{0}% off code: {1}",
+  "฿360.91",
+  "Save 0% in cart",
+  "฿8.02/‏serving",
+  "฿360.91",
+  "(0% off)",
+  "฿360.91",
+  "฿8.02/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/43.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28064/s/49.jpg"
+ ]
+}

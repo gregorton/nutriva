@@ -1,0 +1,262 @@
+{
+ "pid": "101717",
+ "slug": "california-gold-nutrition-spirulina-organic-astablue-complex-blend-60",
+ "scrapedAt": "2026-08-25T17:46:03.572Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-spirulina-organic-astablue-complex-blend-60.jpg",
+  "/products/iherb/california-gold-nutrition-spirulina-organic-astablue-complex-blend-60-2.jpg",
+  "/products/iherb/california-gold-nutrition-spirulina-organic-astablue-complex-blend-60-3.jpg",
+  "/products/iherb/california-gold-nutrition-spirulina-organic-astablue-complex-blend-60-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-spirulina-organic-astablue-complex-blend-60-tablets/101717",
+ "pageTitle": "California Gold Nutrition, Spirulina, Organic AstaBlue Complex Blend, 60 Tablets",
+ "h1": "California Gold Nutrition, Spirulina, Organic AstaBlue Complex Blend, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "101717",
+  "name": "California Gold Nutrition, Spirulina, Organic AstaBlue Complex Blend, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/g/167.jpg",
+  "mpn": "CGN-01857",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 9793
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "242.38",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "323.18",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Spirulina Featuring Spirulina AstaBlue Complex Sourced from Blue-Green Algae Contains the Antioxidants Phycocyanin, Chlorophyll, and Astaxanthin Helps to Repair Free Radical Damage and Support Detoxification* Suitable for Vegetarians and vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Spirulina is a type of blue-green algae with powerful antioxidant properties. California Gold Nutrition® Spirulina combines beneficial effects of spirulina ( Arthrospira platensis ) with astaxanthin (from Heamatococcus pluvialis ) and phycocyanin ( from Arthrospira platensis ) to help promote antioxidant activity in the body, which may provide numerous health benefits.* California Gold Nutrition® Spirulina features AstaBlue Complex that contains organic forms of spirulina, phycocyanin, and astaxanthin sourced from Parry Nutraceuticals, a leader in the blue-green algae industry. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01857",
+  "gtin12": "898220018574",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/g/167.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Greens & Superfoods",
+  "Algae",
+  "Spirulina"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Spirulina",
+    "Featuring Spirulina AstaBlue Complex Sourced from Blue-Green Algae",
+    "Contains the Antioxidants Phycocyanin, Chlorophyll, and Astaxanthin",
+    "Helps to Repair Free Radical Damage and Support Detoxification*",
+    "Suitable for Vegetarians and vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Spirulina is a type of blue-green algae with powerful antioxidant properties. California Gold Nutrition® Spirulina combines beneficial effects of spirulina (Arthrospira platensis) with astaxanthin (from Heamatococcus pluvialis) and phycocyanin (from Arthrospira platensis) to help promote antioxidant activity in the body, which may provide numerous health benefits.*",
+    "California Gold Nutrition® Spirulina features AstaBlue Complex that contains organic forms of spirulina, phycocyanin, and astaxanthin sourced from Parry Nutraceuticals, a leader in the blue-green algae industry.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 tablets daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01857"
+  },
+  {
+   "label": "UPC",
+   "value": "898220018574"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 5.1 x 5.1 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Spirulina AstaBlue Complex BlendOrganic Spirulina (Arthrospira platensis) (microalgae), Phycocyanin [from Arthrospira platensis Extract (microalgae), Astaxanthin [from Haematococcus pluvialis Extract (cracked cell)]",
+   "1 g",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#8 in",
+   "category": "Spirulina",
+   "href": "/c/spirulina?sr=2"
+  },
+  {
+   "rank": "#13 in",
+   "category": "Algae",
+   "href": "/c/algae?sr=2"
+  },
+  {
+   "rank": "#16 in",
+   "category": "Astaxanthin",
+   "href": "/c/astaxanthin?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿323.18",
+  "฿323.18",
+  "฿10.77/‏serving",
+  "{0}% off code: {1}",
+  "฿323.18",
+  "Save 25% in cart",
+  "฿10.77/‏serving",
+  "฿242.38",
+  "(25% off)",
+  "฿323.18",
+  "฿8.08/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/g/167.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/k/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/g/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/s/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/s/172.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/s/86.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01857/s/87.jpg"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "pid": "81884",
+ "slug": "doctor-s-best-purified-clear-omega-3-fish-oil-120-marine-softgels-1-00",
+ "scrapedAt": "2026-08-25T17:19:22.201Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-purified-clear-omega-3-fish-oil-120-marine-softgels-1-00.jpg",
+  "/products/iherb/doctor-s-best-purified-clear-omega-3-fish-oil-120-marine-softgels-1-00-2.jpg",
+  "/products/iherb/doctor-s-best-purified-clear-omega-3-fish-oil-120-marine-softgels-1-00-3.jpg",
+  "/products/iherb/doctor-s-best-purified-clear-omega-3-fish-oil-120-marine-softgels-1-00-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-purified-clear-omega-3-fish-oil-120-marine-softgels-1-000-mg-per-softgel/81884",
+ "pageTitle": "Doctor's Best, Purified & Clear Omega 3 Fish Oil, 120 Marine Softgels (1,000 mg per Softgel)",
+ "h1": "Doctor's Best, Purified & Clear Omega 3 Fish Oil, 120 Marine Softgels (1,000 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "81884",
+  "name": "Doctor's Best, Purified & Clear Omega 3 Fish Oil, 120 Marine Softgels (1,000 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/g/106.jpg",
+  "mpn": "DRB-00478",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 4639
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.49",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "979.06",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Supports Heart, Eye, Brain & Joint Health Dietary Supplement Non-GMO Gluten Free At Doctor's Best, our Purified & Clear Omega-3 Fish Oil delivers a sea of health benefits. Certified as pure Southern Pacific Anchovy oil, and tailored to support eye, brain, cardiovascular, and joint health, our fish oil is sourced with care by Golden Omega using a patented, state-of-the-art filtration process, sustainable wild-caught practices and is certified by IFOS (International Fish Oil Standards) for superior quality and purity. Features Golden Omega Plays a key role in promoting eye and brain health Supports cardiovascular health Provides essential support for joints",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00478",
+  "gtin12": "753950004788",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/g/106.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Supports Heart, Eye, Brain & Joint Health",
+    "Dietary Supplement",
+    "Non-GMO",
+    "Gluten Free",
+    "Features Golden Omega",
+    "Plays a key role in promoting eye and brain health",
+    "Supports cardiovascular health",
+    "Provides essential support for joints"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, our Purified & Clear Omega-3 Fish Oil delivers a sea of health benefits. Certified as pure Southern Pacific Anchovy oil, and tailored to support eye, brain, cardiovascular, and joint health, our fish oil is sourced with care by Golden Omega using a patented, state-of-the-art filtration process, sustainable wild-caught practices and is certified by IFOS (International Fish Oil Standards) for superior quality and purity."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 2 softgels daily with food or as recommended by a nutritionally-informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel capsule (fish gelatin, glycerin, purified water), mixed tocopherols (antioxidant).",
+    "Contains fish (oil: anchovy, jack mackerel, mackerel, sardine, or a combination thereof; gelatin in shell: tilapia/carp)"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your physician before using any health supplement if you are pregnant, lactating, or taking anticoagulants.",
+    "Store in a cool dry place, away from light and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00478"
+  },
+  {
+   "label": "UPC",
+   "value": "753950004788"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.8 x 7.2 x 7.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Marine Softgels"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%**"
+  ],
+  [
+   "Fish Oil ConcentrateTotal Omega-3 Fatty Acids as Ethyl EstersEPA (EicosaPentaenoic Acid), min.DHA (DocosaHexaenoic Acid), min.",
+   "2000 mg1400 mg800 mg400 mg",
+   "††††"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†",
+  "†",
+  "†",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 marine softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿979.06",
+  "฿979.06",
+  "฿16.32/‏serving",
+  "{0}% off code: {1}",
+  "฿979.06",
+  "Save 0% in cart",
+  "฿16.32/‏serving",
+  "฿979.06",
+  "(0% off)",
+  "฿979.06",
+  "฿16.32/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/g/106.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/k/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/g/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/112.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/117.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/118.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00478/s/120.jpg"
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "pid": "161990",
+ "slug": "naturelo-vegan-zinc-with-vitamin-c-120-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:32:50.955Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": "New"
+ },
+ "images": [
+  "/products/iherb/naturelo-vegan-zinc-with-vitamin-c-120-vegetarian-capsules.jpg",
+  "/products/iherb/naturelo-vegan-zinc-with-vitamin-c-120-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturelo-vegan-zinc-with-vitamin-c-120-vegetarian-capsules/161990",
+ "pageTitle": "NATURELO, Vegan Zinc with Vitamin C, 120 Vegetarian Capsules",
+ "h1": "NATURELO, Vegan Zinc with Vitamin C, 120 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "161990",
+  "name": "NATURELO, Vegan Zinc with Vitamin C, 120 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/g/8.jpg",
+  "mpn": "NAU-40217",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 180
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NATURELO",
+   "url": "https://www.naturelo.com/",
+   "identifier": "NAU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.23",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "864.22",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "From Nature With Love® Whole Food Complex Dietary Supplement Formulated to Support Immune Function & Skin Health No GMOs No Soy No Gluten Vegan Friendly No Coloring, Preservatives or Flavoring Good Manufacturing Practice Consistent Quality Zinc Whole Food Complex: Our plant-powered formula combines 35 mg zinc as zinc citrate with vitamin C from organic acerola cherry extract plus an organic vegetable blend with whole foods like asparagus, beets, green peas, broccoli, and spinach that typically contain naturally-occurring zinc. Immune Support Duo: Zinc plus vitamin C makes a powerful daily immune support supplement for adults to help support your natural defenses during any season. Both zinc and vitamin C are essential nutrients that we may not be getting enough of from our diets. Healthy Skin, Hair & Nails: The mineral zinc and antioxidant vitamin C support healthy skin, hair, and nails, making this an excellent beauty supplement for men, women, and teens who are looking to support beauty from within.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.25x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "NAU-40217",
+  "gtin12": "840284402172",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Zinc",
+  "Zinc Citrate"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAU-40217"
+  },
+  {
+   "label": "UPC",
+   "value": "840284402172"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 5.7 x 5.7 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C [from Acerola Cherry Extract (Fruit)]",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "35 mg",
+   "318%"
+  ],
+  [
+   "Whole Foods with Naturally-Occurring Zinc",
+   "",
+   ""
+  ],
+  [
+   "Organic Asparagus (Aerial Parts) Powder",
+   "10 mg",
+   "**"
+  ],
+  [
+   "Organic Beet (Root) Powder",
+   "10 mg",
+   "**"
+  ],
+  [
+   "Organic Broccoli (Stem & Floret) Powder",
+   "10 mg",
+   "**"
+  ],
+  [
+   "Organic Green Peas (Seeds) Powder",
+   "10 mg",
+   "**"
+  ],
+  [
+   "Organic Spinach (Leaf & Stalk) Powder",
+   "10 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 2 CapsulesServings Per Container: 60 Amount Per Serving%Daily ValueVitamin C [from Acerola Cherry Extract (Fruit)]90 mg100%Zinc (as Zinc Citrate)35 mg318%Whole Foods with Naturally-Occurring ZincOrganic Asparagus (Aerial Parts) Powder10 mg**Organic Beet (Root) Powder10 mg**Organic Broccoli (Stem & Floret) Powder10 mg**Organic Green Peas (Seeds) Powder10 mg**Organic Spinach (Leaf & Stalk) Powder10 mg****Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Viva Naturals, Vitamin C + Zinc, 250 Veggie Capsules",
+  "83",
+  "฿1,111.13"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau40217/s/13.jpg"
+ ]
+}

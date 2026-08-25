@@ -1,0 +1,307 @@
+{
+ "pid": "152552",
+ "slug": "legion-athletics-whey-concentrate-whey-protein-powder-dutch-chocolate",
+ "scrapedAt": "2026-08-25T17:32:05.017Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/legion-athletics-whey-concentrate-whey-protein-powder-dutch-chocolate.jpg",
+  "/products/iherb/legion-athletics-whey-concentrate-whey-protein-powder-dutch-chocolate-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/legion-athletics-whey-concentrate-whey-protein-powder-dutch-chocolate-2-02-lbs-915-g/152552",
+ "pageTitle": "Legion Athletics, Whey Concentrate, Whey Protein Powder, Dutch Chocolate, 2.02 lbs (915 g)",
+ "h1": "Legion Athletics, Whey Concentrate, Whey Protein Powder, Dutch Chocolate, 2.02 lbs (915 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "152552",
+  "name": "Legion Athletics, Whey Concentrate, Whey Protein Powder, Dutch Chocolate, 2.02 lbs (915 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/g/2.jpg",
+  "mpn": "LGA-35736",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 7
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Legion Athletics",
+   "url": "https://legionathletics.com",
+   "identifier": "LGA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1838.99",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Naturally Sweetened & Flavored 20 Grams of Protein and 9 Grams of Essential Amino Acids Per Serving No Artificial Sweeteners, Flavors, Food Dyes, or Other Unnecessary Junk No Soy, Added Sugars, or Gluten Dietary Supplement Clinically Effective Ingredients 3rd-Party Lab Tested Hormone- & Antibiotic-Free No Added Sugars Soy-Free Whey protein concentrate is a form of whey protein made from fresh dairy whey, which is the liquid part of milk remaining after cheese has been made. It undergoes special filtration to remove excess fat and lactose while preserving the protein content and quality.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "9x3.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LGA-35736",
+  "gtin12": "850065357362",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Concentrate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Naturally Sweetened & Flavored",
+    "20 Grams of Protein and 9 Grams of Essential Amino Acids Per Serving",
+    "No Artificial Sweeteners, Flavors, Food Dyes, or Other Unnecessary Junk",
+    "No Soy, Added Sugars, or Gluten",
+    "Dietary Supplement",
+    "Clinically Effective Ingredients",
+    "3rd-Party Lab Tested",
+    "Hormone- & Antibiotic-Free",
+    "No Added Sugars",
+    "Soy-Free"
+   ],
+   "paragraphs": [
+    "Whey protein concentrate is a form of whey protein made from fresh dairy whey, which is the liquid part of milk remaining after cheese has been made. It undergoes special filtration to remove excess fat and lactose while preserving the protein content and quality."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, mix 1 serving with 8 to 10 ounces of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Alkalized cocoa powder, medium chain triglyceride powders (as goMCT®), natural flavor, cocoa butter buds, sea salt, xanthan gum, stevia leaf extract, steviol glycosides (rebaudioside M).",
+    "Contains: milk.",
+    "This product was produced in a facility that may also process ingredients containing soy, wheat, egg, peanuts, tree nuts, sesame, fish, and crustacean shellfish.",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use this product as a food supplement only. Do not use for weight reduction.",
+    "Notice to California consumers: Consuming this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. Prop 65.",
+    "Not intended for persons under the age of 18. Do not use if pregnant or nursing. Consult a health can professional prior to consumption if you have any pre-existing medical conditions or are taking any prescription medication. Improper use of this product will not improve results and is potentially hazard to a person's health. Use only as directed. Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.04 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LGA-35736"
+  },
+  {
+   "label": "UPC",
+   "value": "850065357362"
+  },
+  {
+   "label": "Package quantity",
+   "value": "915 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "26.3 x 22.9 x 8.8 cm, 0.95 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (30 g)"
+  ],
+  [
+   "Servings Per Container: ~ 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2.5 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "2 g",
+   "10%"
+  ],
+  [
+   "Cholesterol",
+   "70 mg",
+   "23%"
+  ],
+  [
+   "Total Carbohydrates",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "†"
+  ],
+  [
+   "Includes 0 g of Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "20 g",
+   "40%"
+  ],
+  [
+   "Calcium",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "0.6 mg",
+   "4%"
+  ],
+  [
+   "Magnesium",
+   "15 mg",
+   "4%"
+  ],
+  [
+   "Sodium",
+   "175 mg",
+   "8%"
+  ],
+  [
+   "Potassium",
+   "210 mg",
+   "4%"
+  ],
+  [
+   "Non-GMO Whey Protein Concentrate",
+   "25 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,838.99",
+  "฿1,838.99",
+  "฿61.30/‏serving",
+  "{0}% off code: {1}",
+  "฿1,838.99",
+  "Save 0% in cart",
+  "฿61.30/‏serving",
+  "฿1,838.99",
+  "(0% off)",
+  "฿1,838.99",
+  "฿61.30/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga35736/b/2.jpg"
+ ]
+}

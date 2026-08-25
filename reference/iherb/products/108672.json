@@ -1,0 +1,203 @@
+{
+ "pid": "108672",
+ "slug": "nature-s-truth-c-zinc-immune-support-gummies-natural-lemon-60-vegan-gu",
+ "scrapedAt": "2026-08-25T17:14:11.477Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-truth-c-zinc-immune-support-gummies-natural-lemon-60-vegan-gu.jpg",
+  "/products/iherb/nature-s-truth-c-zinc-immune-support-gummies-natural-lemon-60-vegan-gu-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-truth-c-zinc-immune-support-gummies-natural-lemon-60-vegan-gummies/108672",
+ "pageTitle": "Nature's Truth, C + Zinc, Immune Support Gummies, Natural Lemon, 60 Vegan Gummies",
+ "h1": "Nature's Truth, C + Zinc, Immune Support Gummies, Natural Lemon, 60 Vegan Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "108672",
+  "name": "Nature's Truth, C + Zinc, Immune Support Gummies, Natural Lemon, 60 Vegan Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/g/72.jpg",
+  "mpn": "NTH-11467",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 254
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Truth",
+   "url": "http://www.naturestruthproducts.com/",
+   "identifier": "NTH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.54",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "595.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dynamic Duo Vitamins Delicious! Gluten Free Non GMO Dietary Supplement 100% Quality Vegan Formula Enjoy great-tasting immune support from Vitamin C and Zinc with these irresistible natural lemon flavored gummies.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "NTH-11467",
+  "gtin12": "840093114679",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/g/72.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTH-11467"
+  },
+  {
+   "label": "UPC",
+   "value": "840093114679"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.2 x 6.6 x 6.5 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Vegan Gummies"
+  ],
+  [
+   "Servings Per Container: 20"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "35",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "8 g",
+   "3%**"
+  ],
+  [
+   "Total Sugars",
+   "6 g",
+   "*"
+  ],
+  [
+   "Includes 6 g Added Sugars",
+   "",
+   "12%**"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid and Sodium Ascorbate)",
+   "250 mg",
+   "278%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "11 mg",
+   "100%"
+  ],
+  [
+   "*Daily Value not established.**Percent Daily Values are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 3 Vegan GummiesServings Per Container: 20Amount Per Serving%Daily ValueCalories35 Total Carbohydrate8 g3%**Total Sugars6 g*Includes 6 g Added Sugars 12%**Vitamin C (as Ascorbic Acid and Sodium Ascorbate)250 mg278%Zinc (as Zinc Citrate)11 mg100%*Daily Value not established.**Percent Daily Values are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 vegan gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "20"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial flavors",
+    "Milk-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Nature's Truth, Sambucus Black Elderberry Immune Complex Plus Vitamin C & Zinc, Natural Mixed Berry, 60 Chewable Tablets",
+  "598",
+  "฿371.41"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/g/72.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/k/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/g/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11467/s/77.jpg"
+ ]
+}

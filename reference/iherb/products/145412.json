@@ -1,0 +1,314 @@
+{
+ "pid": "145412",
+ "slug": "nature-s-craft-teen-multivitamin-gummies-sugar-free-raspberry-60-gummi",
+ "scrapedAt": "2026-08-25T17:19:04.721Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-teen-multivitamin-gummies-sugar-free-raspberry-60-gummi.jpg",
+  "/products/iherb/nature-s-craft-teen-multivitamin-gummies-sugar-free-raspberry-60-gummi-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-teen-multivitamin-gummies-sugar-free-raspberry-60-gummies/145412",
+ "pageTitle": "Nature's Craft, Teen Multivitamin Gummies, Sugar Free, Raspberry , 60 Gummies",
+ "h1": "Nature's Craft, Teen Multivitamin Gummies, Sugar Free, Raspberry , 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "145412",
+  "name": "Nature's Craft, Teen Multivitamin Gummies, Sugar Free, Raspberry , 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/g/8.jpg",
+  "mpn": "NCA-29457",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 127
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "568.93",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Rooted in Nature Backed by Science Supports Skin, Mood, Energy & Immunity With Zinc & Magnesium Naturally Sourced Colors & Flavors Daily Vitamins Dietary Supplement GMO Free Vegetarian Gelatin Free Peanut Free Naturally Sourced Colors & Flavors Support your body through this period of change and growth with essential vitamins and minerals in our teen vitamins for girls 12-17 gummies. Our teen multivitamin for boys 12-17 has all the rights nutrients to support developing into a young man all packed into yummy teenage kids multivitamin gummies. Try our vegetarian Sugar Free multivitamin gummies carefully crafted with the important minerals and vitamins for teen boys and girls made without GMOs or Artificial flavors & colors.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-29457",
+  "gtin12": "850054294579",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Rooted in Nature Backed by Science",
+    "Supports Skin, Mood, Energy & Immunity",
+    "With Zinc & Magnesium",
+    "Naturally Sourced Colors & Flavors",
+    "Daily Vitamins",
+    "Dietary Supplement",
+    "GMO Free",
+    "Vegetarian",
+    "Gelatin Free",
+    "Peanut Free",
+    "Naturally Sourced Colors & Flavors"
+   ],
+   "paragraphs": [
+    "Support your body through this period of change and growth with essential vitamins and minerals in our teen vitamins for girls 12-17 gummies.",
+    "Our teen multivitamin for boys 12-17 has all the rights nutrients to support developing into a young man all packed into yummy teenage kids multivitamin gummies.",
+    "Try our vegetarian Sugar Free multivitamin gummies carefully crafted with the important minerals and vitamins for teen boys and girls made without GMOs or Artificial flavors & colors."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) gummies per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Fructooligosaccharides (beet), water; less than 2% of: pectin, ascorbic acid, citric acid, trisodium citrate, coconut oil, black carrot concentrate, natural flavors, carnauba wax.",
+    "This product is manufactured and packaged in a facility which may also process milk, soy, wheat, egg, peanuts, tree nuts, fish and crustacean shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Take only as directed. Do not exceed suggested dosage. Pregnant or nursing mothers, children under 18 or individuals with a known medical condition should consult a physician before using this or any dietary supplement. This product may settle during shipping. Natural colors will darken over time. This does not alter the potency of the product.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-29457"
+  },
+  {
+   "label": "UPC",
+   "value": "850054294579"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV**"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "3 g",
+   "11%"
+  ],
+  [
+   "Vitamin A (as Retinol Acetate)",
+   "720 mcg",
+   "80%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "36 mg",
+   "40%"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "25 mcg (1000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin E (as D-Alpha Tocopherol Acetate)",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Thiamin (as Thiamine Mononitrate)",
+   "1.2 mg",
+   "100%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCL)",
+   "4.3 mg",
+   "253%"
+  ],
+  [
+   "Folate",
+   "400 mcg DFE(240 mcg Folic Acid)",
+   "100%"
+  ],
+  [
+   "Vitamin B12 (as Cyanocobalamin)",
+   "7.2 mcg",
+   "300%"
+  ],
+  [
+   "Biotin",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D-Pantothenate)",
+   "2.5 mg",
+   "50%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "38 mcg",
+   "25%"
+  ],
+  [
+   "Magnesium (as Magnesium Citrate)",
+   "42 mg",
+   "10%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "5 mg",
+   "45%"
+  ],
+  [
+   "Chromium (as Chromium Picolinate)",
+   "123 mcg",
+   "351%"
+  ],
+  [
+   "**Percent Daily Values (% DV) are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Percent Daily Values (% DV) are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Sugar-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿568.93",
+  "฿568.93",
+  "฿18.96/‏serving",
+  "{0}% off code: {1}",
+  "฿568.93",
+  "Save 0% in cart",
+  "฿18.96/‏serving",
+  "฿568.93",
+  "(0% off)",
+  "฿568.93",
+  "฿18.96/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca29457/s/13.jpg"
+ ]
+}

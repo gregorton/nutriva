@@ -1,0 +1,226 @@
+{
+ "pid": "148174",
+ "slug": "micro-ingredients-magnesium-glycinate-240-capsules-166-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:23:33.097Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/micro-ingredients-magnesium-glycinate-240-capsules-166-mg-per-capsule.jpg",
+  "/products/iherb/micro-ingredients-magnesium-glycinate-240-capsules-166-mg-per-capsule-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/micro-ingredients-magnesium-glycinate-240-capsules-166-mg-per-capsule/148174",
+ "pageTitle": "Micro Ingredients, Magnesium Glycinate, 240 Capsules (166 mg per Capsule)",
+ "h1": "Micro Ingredients, Magnesium Glycinate, 240 Capsules (166 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148174",
+  "name": "Micro Ingredients, Magnesium Glycinate, 240 Capsules (166 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/g/28.jpg",
+  "mpn": "MII-16792",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1022
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Micro Ingredients",
+   "url": "https://www.microingredients.com/",
+   "identifier": "MII"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "982.99",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "500 mg of Magnesium per Serving Dietary Supplement Lab Tested 3rd Party Certified for Purity & Potency GMO Free Gluten Free A high-absorption, gentle magnesium supplement crafted for optimal bioavailability. Made in the USA, each serving delivers 500mg of elemental magnesium glycinate, one of the most effective form available, supporting whole-body wellness from sleep to muscle recovery. Magnesium is essential for nearly every cell in the body and can only be obtained through diet or supplements.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MII-16792",
+  "gtin12": "850056167925",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "500 mg of Magnesium per Serving",
+    "Dietary Supplement",
+    "Lab Tested 3rd Party Certified for Purity & Potency",
+    "GMO Free",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "A high-absorption, gentle magnesium supplement crafted for optimal bioavailability. Made in the USA, each serving delivers 500mg of elemental magnesium glycinate, one of the most effective form available, supporting whole-body wellness from sleep to muscle recovery. Magnesium is essential for nearly every cell in the body and can only be obtained through diet or supplements."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, adults take three (3) capsules daily. Preferably with meals or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, magnesium stearate, silicon dioxide, gelatin (capsule).",
+    "Free of: Gluten, soy, dairy, fish/shellfish, peanuts & tree nuts.",
+    "Made in USA with global ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Store in a cool, dry place. Do not use if safety seal is damaged or missing. Not intended for individuals under the age of 18. If you are nursing, pregnant, taking medication or have a medical condition, you should consult your healthcare practitioner prior to using this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MII-16792"
+  },
+  {
+   "label": "UPC",
+   "value": "850056167925"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.1 x 7.2 x 7.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 80"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (as magnesium glycinate)",
+   "500 mg",
+   "119%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "80"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Shellfish-free",
+    "Peanut-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿982.99",
+  "฿982.99",
+  "฿12.29/‏serving",
+  "{0}% off code: {1}",
+  "฿982.99",
+  "Save 0% in cart",
+  "฿12.29/‏serving",
+  "฿982.99",
+  "(0% off)",
+  "฿982.99",
+  "฿12.29/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mii/mii16792/s/34.jpg"
+ ]
+}

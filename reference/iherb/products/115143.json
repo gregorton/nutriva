@@ -1,0 +1,262 @@
+{
+ "pid": "115143",
+ "slug": "healths-harmony-vitamin-c-immune-support-60-capsules",
+ "scrapedAt": "2026-08-25T17:01:20.082Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/healths-harmony-vitamin-c-immune-support-60-capsules.jpg",
+  "/products/iherb/healths-harmony-vitamin-c-immune-support-60-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/healths-harmony-vitamin-c-immune-support-60-capsules/115143",
+ "pageTitle": "Healths Harmony, Vitamin C Immune Support, 60 Capsules",
+ "h1": "Healths Harmony, Vitamin C Immune Support, 60 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "115143",
+  "name": "Healths Harmony, Vitamin C Immune Support, 60 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/g/24.jpg",
+  "mpn": "HRM-50020",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 65
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Healths Harmony",
+   "url": "https://healthsharmony.com/",
+   "identifier": "HRM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "260.89",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "460.00",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vitamin D - Zinc - Magnesium Elderberry Extract Echinacea Extract Cordyceps Extract Non GMO Product Dietary Supplement Sourced from a GMP Registered Facility Comprehensive Immune Defense Combining essential vitamins and minerals like vitamin C, D3, chelated zinc, and magnesium with our specialized immune boost blend, this formula offers a science-backed approach to fortify and support your body's natural defense mechanisms. Unique Immune Boost Blend Harness the power of sambucus black elderberry, echinacea, and cordyceps extracts. These natural components not only bolster the immune system but also provide an array of antioxidants, enzymes, and other phytonutrients to holistically enhance your wellbeing.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "HRM-50020",
+  "gtin12": "850006500208",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vitamin D - Zinc - Magnesium",
+    "Elderberry Extract",
+    "Echinacea Extract",
+    "Cordyceps Extract",
+    "Non GMO Product",
+    "Dietary Supplement",
+    "Sourced from a GMP Registered Facility"
+   ],
+   "paragraphs": [
+    "Comprehensive Immune Defense",
+    "Combining essential vitamins and minerals like vitamin C, D3, chelated zinc, and magnesium with our specialized immune boost blend, this formula offers a science-backed approach to fortify and support your body's natural defense mechanisms.",
+    "Unique Immune Boost Blend",
+    "Harness the power of sambucus black elderberry, echinacea, and cordyceps extracts. These natural components not only bolster the immune system but also provide an array of antioxidants, enzymes, and other phytonutrients to holistically enhance your wellbeing."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules daily with food or as recommended by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegan capsule), microcrystalline cellulose (plant fiber), vegetable magnesium stearate (vegetable source) and silicon dioxide.",
+    "Made in the USA with domestic & international ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Discontinue use if side effects appear.",
+    "Do not exceed recommended dose. This product is not intended for pregnant or nursing mothers or children under 18. If you have a known medical condition, take any medications, are contemplating pregnancy, or have questions about the advisability of taking this product, consult a physician before using this or any dietary supplement.",
+    "Keep out of the reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "HRM-50020"
+  },
+  {
+   "label": "UPC",
+   "value": "850006500208"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 5.3 x 5.2 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Vegan Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "500 mg",
+   "556%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "10 mcg",
+   "50%"
+  ],
+  [
+   "Magnesium (as Magnesium Chelate)",
+   "20 mg",
+   "5%"
+  ],
+  [
+   "Zinc (as Zinc Chelate)",
+   "15 mg",
+   "136%"
+  ],
+  [
+   "Immunity Boost BlendCordyceps Extract (fruiting body), Echinacea purpurea Extract (whole plant), Elderberry Extract (Sambucus nigra)",
+   "325 mg",
+   "*"
+  ],
+  [
+   "* %Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "* %Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 vegan capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 6 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿460.00",
+  "฿460.00",
+  "฿15.33/‏serving",
+  "{0}% off code: {1}",
+  "฿460.00",
+  "Save 43% in cart",
+  "฿15.33/‏serving",
+  "฿260.89",
+  "(43% off)",
+  "฿460.00",
+  "฿8.70/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hrm/hrm50020/s/30.jpg"
+ ]
+}

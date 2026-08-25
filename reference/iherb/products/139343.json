@@ -1,0 +1,352 @@
+{
+ "pid": "139343",
+ "slug": "phytoral-kids-multivitamin-gummies-strawberry-raspberry-orange-90-gumm",
+ "scrapedAt": "2026-08-25T17:10:33.229Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/phytoral-kids-multivitamin-gummies-strawberry-raspberry-orange-90-gumm.jpg",
+  "/products/iherb/phytoral-kids-multivitamin-gummies-strawberry-raspberry-orange-90-gumm-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/phytoral-kids-multivitamin-gummies-strawberry-raspberry-orange-90-gummies/139343",
+ "pageTitle": "Phytoral, Kids, Multivitamin Gummies, Strawberry, Raspberry & Orange, 90 Gummies",
+ "h1": "Phytoral, Kids, Multivitamin Gummies, Strawberry, Raspberry & Orange, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139343",
+  "name": "Phytoral, Kids, Multivitamin Gummies, Strawberry, Raspberry & Orange, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/g/24.jpg",
+  "mpn": "PHT-77033",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 226
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Phytoral",
+   "url": "https://phytoral.com/",
+   "identifier": "PHT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.73",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "723.82",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Immune System Health Dietary Supplement Sourced from a GMP Certified Facility 3rd Party Lab Verified Gluten Free Kosher Kids multivitamins are essential for development and our childrens multivitamins gummies offer immune support with energy vitamins plus brain support for kids. Kids love our immune support for kids gummy vitamin with kids vitamin C immune support vitamins to keep their defenses up and operating at their best naturally. We wanted our kids multivitamin gummies to be suitable as vitamins for kids of ages 2+ so we carefully formulated our kids chewable vitamin with the finest ingredients.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "PHT-77033",
+  "gtin12": "850019770339",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Immune System Health",
+    "Dietary Supplement",
+    "Sourced from a GMP Certified Facility",
+    "3rd Party Lab Verified",
+    "Gluten Free",
+    "Kosher"
+   ],
+   "paragraphs": [
+    "Kids multivitamins are essential for development and our childrens multivitamins gummies offer immune support with energy vitamins plus brain support for kids.",
+    "Kids love our immune support for kids gummy vitamin with kids vitamin C immune support vitamins to keep their defenses up and operating at their best naturally.",
+    "We wanted our kids multivitamin gummies to be suitable as vitamins for kids of ages 2+ so we carefully formulated our kids chewable vitamin with the finest ingredients."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 2 to 3 years of age fully chew one (1) gummy daily.",
+    "Children 4 years of age and up fully chew two (2) gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, colors (black carrot concentrate, sodium copper chlorophyllin, curcumin and paprika extract), trisodium citrate, natural flavors, sodium ascorbate, carnauba wax, choline tartrate.",
+    "This product is manufactured and packaged in a facility which may also process milk, soy, wheat, egg, peanuts, tree nuts, fish and crustacean shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Take only as directed. Do not exceed suggested dosage. Pregnant or nursing mothers or individuals with a known medical condition or taking medication should consult a physician before using this or any dietary supplement. This product may settle during shipping. Natural colors will darken over time. This does not alter the potency of the product.",
+    "This product is not recommended for children under 2 years of age due to risk of choking. Product should be fully chewed under adult supervision.",
+    "Keep out of the reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.33 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PHT-77033"
+  },
+  {
+   "label": "UPC",
+   "value": "850019770339"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.3 x 6.9 x 6.9 cm, 0.33 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy (2 & 3 years); 2 Gummies (4 years & older)"
+  ],
+  [
+   "Servings Per Container: 90; 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value For Children 2-3 Years of Age+",
+   "Amount Per Serving",
+   "%Daily Value Adults & Children 4 Years of Age and Older††"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%",
+   "5 g",
+   "<2%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugars",
+   "1 g",
+   "4%",
+   "3 g",
+   "6%"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "200 mcg",
+   "67%",
+   "400 mcg",
+   "44%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "40 mg",
+   "267%",
+   "80 mg",
+   "89%"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "10 mcg (400 IU)",
+   "67%",
+   "20 mcg (800 IU)",
+   "100%"
+  ],
+  [
+   "Vitamin E (as Dl-alpha tocopheryl acetate)",
+   "7.5 mg",
+   "125%",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "4 mg",
+   "67%",
+   "8 mg",
+   "50%"
+  ],
+  [
+   "Vitamin B-6 (as pyridoxine HCl)",
+   "0.9 mg",
+   "180%",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate",
+   "220 mcg DFE (130 mcg folic acid)",
+   "147%",
+   "442 mcg DFE (260 mcg folic acid)",
+   "111%"
+  ],
+  [
+   "Vitamin B-12 (as cyanocobalamin)",
+   "1.2 mcg",
+   "133%",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "15 mcg",
+   "188%",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as calcium d-pantothenate)",
+   "2.5 mg",
+   "125%",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "75 mcg",
+   "83%",
+   "150 mcg",
+   "100%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "1 mg",
+   "33%",
+   "2 mg",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "2.5 mg",
+   "<1%",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "†Percent Daily Values are based on a 1,000 calorie diet.††Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value For Children 2-3 Years of Age+",
+  "%Daily Value Adults & Children 4 Years of Age and Older††",
+  "†Percent Daily Values are based on a 1,000 calorie diet.",
+  "††Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿723.82",
+  "฿723.82",
+  "฿8.04/‏serving",
+  "{0}% off code: {1}",
+  "฿723.82",
+  "Save 0% in cart",
+  "฿8.04/‏serving",
+  "฿723.82",
+  "(0% off)",
+  "฿723.82",
+  "฿8.04/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht77033/s/30.jpg"
+ ]
+}

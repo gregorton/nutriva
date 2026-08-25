@@ -1,0 +1,227 @@
+{
+ "pid": "116527",
+ "slug": "mild-by-nature-nature-s-gate-tea-tree-sea-buckthorn-shampoo-for-oily-h",
+ "scrapedAt": "2026-08-25T17:50:32.096Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-nature-s-gate-tea-tree-sea-buckthorn-shampoo-for-oily-h.jpg",
+  "/products/iherb/mild-by-nature-nature-s-gate-tea-tree-sea-buckthorn-shampoo-for-oily-h-2.jpg",
+  "/products/iherb/mild-by-nature-nature-s-gate-tea-tree-sea-buckthorn-shampoo-for-oily-h-3.jpg",
+  "/products/iherb/mild-by-nature-nature-s-gate-tea-tree-sea-buckthorn-shampoo-for-oily-h-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-nature-s-gate-tea-tree-sea-buckthorn-shampoo-for-oily-hair-16-fl-oz-473-ml/116527",
+ "pageTitle": "Mild By Nature, (Nature's Gate), Tea Tree & Sea Buckthorn Shampoo for Oily Hair, 16 fl oz (473 ml)",
+ "h1": "Mild By Nature, (Nature's Gate), Tea Tree & Sea Buckthorn Shampoo for Oily Hair, 16 fl oz (473 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "116527",
+  "name": "Mild By Nature, (Nature's Gate), Tea Tree & Sea Buckthorn Shampoo for Oily Hair, 16 fl oz (473 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/g/62.jpg",
+  "mpn": "MBN-02260",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 3783
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "322.97",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "430.63",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild by Nature Nature’s Gate Shampoo for Oily Hair Formulated Specifically to Gently Clean Hair and Remove Excess Oil Featuring Tea Tree and Sea Buckthorn With Clean, Natural Ingredients – No Artificial Colors Vegan and Cruelty Free No Nasties – Paraben Free • Gluten Free • Soy Free • Phthalate Free Formulated with Mild Ingredients for the Comfort of the Entire Family We’re excited to share that Nature’s Gate is now a part of the Mild by Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products. Excess oil can leave your hair flat and lifeless. Mild by Nature Nature’s Gate Shampoo for Oily Hair helps restore life and movement back into your locks with a unique blend of herbal extracts. Our advanced formula is designed to remove oil buildup, while also refreshing and nourishing hair. Featuring tea tree oil and sea buckthorn, this revitalizing shampoo uses ingredients from nature to gently cleanse hair and help reduce excess oil. Plus, nourishing botanicals like jojoba, rosemary, and watercress help to refresh the scalp and add balanced moisture to oily hair. Pair with our Conditioner for Oily Hair for a complete healthy hair care routine that renews oily hair with clean, natural ingredients.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02260",
+  "gtin12": "898220022601",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Hair Care",
+  "Shampoo"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild by Nature Nature’s Gate Shampoo for Oily Hair",
+    "Formulated Specifically to Gently Clean Hair and Remove Excess Oil",
+    "Featuring Tea Tree and Sea Buckthorn",
+    "With Clean, Natural Ingredients – No Artificial Colors",
+    "Vegan and Cruelty Free",
+    "No Nasties – Paraben Free • Gluten Free • Soy Free • Phthalate Free",
+    "Formulated with Mild Ingredients for the Comfort of the Entire Family"
+   ],
+   "paragraphs": [
+    "We’re excited to share that Nature’s Gate is now a part of the Mild by Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products.",
+    "Excess oil can leave your hair flat and lifeless. Mild by Nature Nature’s Gate Shampoo for Oily Hair helps restore life and movement back into your locks with a unique blend of herbal extracts. Our advanced formula is designed to remove oil buildup, while also refreshing and nourishing hair.",
+    "Featuring tea tree oil and sea buckthorn, this revitalizing shampoo uses ingredients from nature to gently cleanse hair and help reduce excess oil. Plus, nourishing botanicals like jojoba, rosemary, and watercress help to refresh the scalp and add balanced moisture to oily hair.",
+    "Pair with our Conditioner for Oily Hair for a complete healthy hair care routine that renews oily hair with clean, natural ingredients."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Massage a generous amount of shampoo gently into wet hair and scalp. Work into rich lather. Rinse thoroughly.",
+    "For best results, follow with Nature’s Gate Tea Tree & Sea Buckthorn Conditioner. May be used daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Cocamidopropyl Hydroxysultaine, Disodium Cocoamphodiacetate, Sodium Cocoyl Isethionate, Glycerin, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Panthenol, Simmondsia Chinensis (Jojoba) Seed Oil, Borago Officinalis (Borage) Seed Oil, Tocopherol, Ascorbic Acid, Chamomilla Recutita (Matricaria) Flower Extract, Hamamelis Virginiana (Witch Hazel) Bark Extract, Humulus Lupulus (Hops) Extract, Hippophae Rhamnoides (Sea Buckthorn) Fruit Extract, Melissa Officinalis (Balm Mint) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Urtica Dioica (Nettle) Extract, Nasturtium Officinale (Watercress) Flower/Leaf Extract, Quillaja Saponaria (Soapbark) Bark Extract, Ascorbyl Palmitate, Guar Hydroxypropyltrimonium Chloride, Leuconostoc/Radish Root Ferment Filtrate, Polysorbate 20, Hydroxypropyl Methylcellulose, Sodium Hydroxide, Glyceryl Undecylenate, Phenoxyethanol, Citric Acid, Fragrance *, Mentha Piperita (Peppermint) Oil, Benzyl Benzoate.",
+    "* Phthalate Free",
+    "Vegan • Paraben Free • Gluten Free • Soy Free • Cruelty Free",
+    "NO – Sodium Lauryl/Laureth/Coco Sulfates, Phthalates, Butylene Glycol, Artificial Colors"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid direct contact with eyes."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02260"
+  },
+  {
+   "label": "UPC",
+   "value": "898220022601"
+  },
+  {
+   "label": "Package quantity",
+   "value": "473 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.1 x 6.2 x 6.2 cm, 0.54 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "473 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    },
+    {
+     "label": "Hair concern",
+     "value": "Oil control"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Halal",
+    "Gluten-free",
+    "Cruelty-free",
+    "Soy-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿430.63",
+  "฿430.63",
+  "฿0.91/‏ml",
+  "{0}% off code: {1}",
+  "฿430.63",
+  "Save 25% in cart",
+  "฿0.91/‏ml",
+  "฿322.97",
+  "(25% off)",
+  "฿430.63",
+  "฿0.68/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02260/b/62.jpg"
+ ]
+}

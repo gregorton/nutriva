@@ -1,0 +1,217 @@
+{
+ "pid": "151586",
+ "slug": "dove-plant-milk-cleansing-bar-soap-turmeric-milk-lemon-drop-5-oz",
+ "scrapedAt": "2026-08-25T17:46:34.269Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/dove-plant-milk-cleansing-bar-soap-turmeric-milk-lemon-drop-5-oz.jpg",
+  "/products/iherb/dove-plant-milk-cleansing-bar-soap-turmeric-milk-lemon-drop-5-oz-2.jpg",
+  "/products/iherb/dove-plant-milk-cleansing-bar-soap-turmeric-milk-lemon-drop-5-oz-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dove-plant-milk-cleansing-bar-soap-turmeric-milk-lemon-drop-5-oz/151586",
+ "pageTitle": "Dove, Plant Milk Cleansing Bar Soap, Turmeric Milk & Lemon Drop, 5 oz",
+ "h1": "Dove, Plant Milk Cleansing Bar Soap, Turmeric Milk & Lemon Drop, 5 oz",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "151586",
+  "name": "Dove, Plant Milk Cleansing Bar Soap, Turmeric Milk & Lemon Drop, 5 oz",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/g/18.jpg",
+  "mpn": "DVE-04994",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 373
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dove",
+   "url": "https://www.dove.com/us/en/home.html",
+   "identifier": "DVE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.32",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "161.92",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "215.89",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Made With The Good Stuff A Glow Booster No Sulfate, Cleansers, Parabens pH Balanced 100% Gentle Cleansers Skin-Natural Nutrients 98% Biodegradable Formula* PETA Approved; Cruelty-Free; Global Animal Test Policy #1 Dermatologist Recommended Transform your shower with the fresh delicious scents of sweet lemon & orange blossom. Enriched with plant milk, this creamy bar provides ultra nourishing goodies, for all day soft skin. *98% of ingredients break down into carbon dioxide, water & minerals (OECD test methods 301, 302 and/or 310)",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.55x1.45"
+  },
+  "isRelatedTo": null,
+  "sku": "DVE-04994",
+  "gtin12": "011111049949",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/g/18.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Bath & Shower",
+  "Bar Soap"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Made With The Good Stuff",
+    "A Glow Booster",
+    "No Sulfate, Cleansers, Parabens",
+    "pH Balanced",
+    "100% Gentle Cleansers",
+    "Skin-Natural Nutrients",
+    "98% Biodegradable Formula*",
+    "PETA Approved; Cruelty-Free; Global Animal Test Policy",
+    "#1 Dermatologist Recommended"
+   ],
+   "paragraphs": [
+    "Transform your shower with the fresh delicious scents of sweet lemon & orange blossom.",
+    "Enriched with plant milk, this creamy bar provides ultra nourishing goodies, for all day soft skin.",
+    "*98% of ingredients break down into carbon dioxide, water & minerals (OECD test methods 301, 302 and/or 310)"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Lather, lather more. Take in the moment. Rinse for that clean skin feeling."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sodium lauroyl isethionate, stearic acid, sodium oleate, sodium stearate, water (aqua), sodium isethionate, lauric acid, sodium c14-16 olefin sulfonate, sodium laurate, fragrance (parfum), curcuma aromatica root oil, caramel, dipropylene glycol, tetrasodium etidronate, tetrasodium edta, sodium chloride, benzyl salicylate, citral, geraniol, limonene, linalool, titanium dioxide (ci 77891), yellow 6 (ci 15985), yellow 5 (ci 19140), green 5 (ci 61570)."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DVE-04994"
+  },
+  {
+   "label": "UPC",
+   "value": "011111049949"
+  },
+  {
+   "label": "Package quantity",
+   "value": "1 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.4 x 6.5 x 3.7 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "1 count"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Cruelty-free",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#21 in",
+   "category": "Bar Soap",
+   "href": "/c/bar-soap?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿215.89",
+  "฿215.89",
+  "฿215.89/‏count",
+  "{0}% off code: {1}",
+  "฿215.89",
+  "Save 25% in cart",
+  "฿215.89/‏count",
+  "฿161.92",
+  "(25% off)",
+  "฿215.89",
+  "฿161.92/‏count",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/g/18.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/k/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/g/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dve/dve04994/b/18.jpg"
+ ]
+}

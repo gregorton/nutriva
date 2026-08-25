@@ -1,0 +1,240 @@
+{
+ "pid": "127158",
+ "slug": "sundance-vitamins-melatonin-45-tablets",
+ "scrapedAt": "2026-08-25T17:04:04.480Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sundance-vitamins-melatonin-45-tablets.jpg",
+  "/products/iherb/sundance-vitamins-melatonin-45-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sundance-vitamins-melatonin-45-tablets/127158",
+ "pageTitle": "Sundance Vitamins, Melatonin, 45 Tablets",
+ "h1": "Sundance Vitamins, Melatonin, 45 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "127158",
+  "name": "Sundance Vitamins, Melatonin, 45 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/g/24.jpg",
+  "mpn": "SDE-10380",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 304
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sundance Vitamins",
+   "url": "https://www.sundancevitamins.com/",
+   "identifier": "SDE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "211.95",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Gluten Free Non-GMO Sleep 1 Per Day Dietary Supplement Extra Strength 100% Drug Free Vegetarian Formula Quality Guarantee Laboratory Tested Let Your Health Shine™ Nothing beats feeling your healthy best. That's why we create top-quality wellness products at an incredible value. You deserve to enjoy the best of health and happiness, always! -The Sundance Family",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.9x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "SDE-10380",
+  "gtin12": "840093103802",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Gluten Free",
+    "Non-GMO",
+    "Sleep",
+    "1 Per Day",
+    "Dietary Supplement",
+    "Extra Strength",
+    "100% Drug Free",
+    "Vegetarian Formula",
+    "Quality Guarantee",
+    "Laboratory Tested",
+    "Let Your Health Shine™"
+   ],
+   "paragraphs": [
+    "Nothing beats feeling your healthy best. That's why we create top-quality wellness products at an incredible value. You deserve to enjoy the best of health and happiness, always!",
+    "-The Sundance Family"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take one (1) tablet 30 minutes before bedtime as Melatonin may produce drowsiness. This product is intended for short term, occasional use only. Do not exceed recommended dosage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Dicalcium phosphate, cellulose (plant origin), crospovidone, vegetable magnesium stearate, vegetable stearic acid, silica.",
+    "No gluten, wheat, yeast, milk, lactose, soy, artificial color, artificial flavor, artificial sweetener, preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for use by pregnant or nursing women or persons under the age of 18. If you are taking any medications or have any medical condition, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. Consumption above recommended dose may impair ability to drive a motor vehicle or operate heavy equipment. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SDE-10380"
+  },
+  {
+   "label": "UPC",
+   "value": "840093103802"
+  },
+  {
+   "label": "Package quantity",
+   "value": "45 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 4.8 x 4.8 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Melatonin",
+   "10 mg",
+   "*"
+  ],
+  [
+   "L-Theanine",
+   "5.5 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿211.95",
+  "฿211.95",
+  "฿4.71/‏serving",
+  "{0}% off code: {1}",
+  "฿211.95",
+  "Save 0% in cart",
+  "฿4.71/‏serving",
+  "฿211.95",
+  "(0% off)",
+  "฿211.95",
+  "฿4.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sde/sde10380/s/30.jpg"
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "pid": "71684",
+ "slug": "california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120",
+ "scrapedAt": "2026-08-25T17:14:37.234Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "California Gold Nutrition",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120.jpg",
+  "/products/iherb/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120-2.jpg",
+  "/products/iherb/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120-3.jpg",
+  "/products/iherb/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120-veggie-softgels/71684",
+ "pageTitle": "California Gold Nutrition, Astaxanthin, Astalif® Pure Icelandic, 12 mg, 120 Veggie Softgels",
+ "h1": "California Gold Nutrition, Astaxanthin, Astalif® Pure Icelandic, 12 mg, 120 Veggie Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "71684",
+  "name": "California Gold Nutrition, Astaxanthin, Astalif® Pure Icelandic, 12 mg, 120 Veggie Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/g/176.jpg",
+  "mpn": "CGN-01104",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 46711
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1592.66",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Powerful Antioxidant Sourced from Microalgae Haematococcus pluvialis Supports Brain, Eye, Skin, Heart, and Joint Health* Biologically Active 99% (3S,3’S)-Isomer* California Gold Nutrition® Astaxanthin, 12 mg features premium quality Astalif® Pure Icelandic algae that is extracted by a solvent-free supercritical CO2 technology. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01104",
+  "gtin12": "898220011049",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/g/176.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Astaxanthin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Powerful Antioxidant",
+    "Sourced from Microalgae Haematococcus pluvialis",
+    "Supports Brain, Eye, Skin, Heart, and Joint Health*",
+    "Biologically Active 99% (3S,3’S)-Isomer*"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Astaxanthin, 12 mg features premium quality Astalif® Pure Icelandic algae that is extracted by a solvent-free supercritical CO2 technology.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily, with a fat-containing meal. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01104"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011049"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 5.5 x 5.5 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Astaxanthin (from Haematococcus pluvialis Extract)",
+   "12 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "71683",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-30-veggie-softgels/71683",
+   "price": "฿426.53",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "71684",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-astaxanthin-astalif-pure-icelandic-12-mg-120-veggie-softgels/71684",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Astaxanthin",
+   "href": "/c/astaxanthin?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Antioxidants",
+   "href": "/c/antioxidants?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,592.66",
+  "฿1,592.66",
+  "฿13.27/‏serving",
+  "{0}% off code: {1}",
+  "฿1,592.66",
+  "Save 0% in cart",
+  "฿13.27/‏serving",
+  "฿1,592.66",
+  "(0% off)",
+  "฿1,592.66",
+  "฿13.27/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/g/176.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/k/176.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/g/176.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/176.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/182.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/184.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/186.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/187.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/188.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/294.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/151.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01104/s/185.jpg"
+ ]
+}

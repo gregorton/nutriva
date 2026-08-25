@@ -1,0 +1,262 @@
+{
+ "pid": "138418",
+ "slug": "sports-research-alaskan-omega-3-fish-oil-mini-gels-120-softgels",
+ "scrapedAt": "2026-08-25T17:31:35.973Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sports-research-alaskan-omega-3-fish-oil-mini-gels-120-softgels.jpg",
+  "/products/iherb/sports-research-alaskan-omega-3-fish-oil-mini-gels-120-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-alaskan-omega-3-fish-oil-mini-gels-120-softgels/138418",
+ "pageTitle": "Sports Research, Alaskan Omega-3 Fish Oil, Mini Gels, 120 Softgels",
+ "h1": "Sports Research, Alaskan Omega-3 Fish Oil, Mini Gels, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138418",
+  "name": "Sports Research, Alaskan Omega-3 Fish Oil, Mini Gels, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/g/28.jpg",
+  "mpn": "SRE-09167",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 1537
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1065.02",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "625 mg Fish Oil 520 mg Omega-3 Single-Source Alaska Pollock Gluten Free Non GMO Wild Caught Dietary Supplement MSC Igen Non-GMO Tested IFOS™ Third Party Tested cGMP Compliant Seafood certified to MSC's environmental standard for fishing.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-09167",
+  "gtin12": "023249091677",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Sports Supplements",
+  "Sports Fish Oil & Omegas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "625 mg Fish Oil",
+    "520 mg Omega-3",
+    "Single-Source Alaska Pollock",
+    "Gluten Free",
+    "Non GMO",
+    "Wild Caught",
+    "Dietary Supplement",
+    "MSC",
+    "Igen Non-GMO Tested",
+    "IFOS™",
+    "Third Party Tested",
+    "cGMP Compliant"
+   ],
+   "paragraphs": [
+    "Seafood certified to MSC's environmental standard for fishing."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 softgel 1 - 2 times daily with food, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel capsule (fish gelatin [tilapia- sourced], vegetable glycerin, purified water), tocopherols.",
+    "Contains: Fish (alaska pollock).",
+    "Fish oil sourced from Alaska. Proudly manufactured in the USA with carefully selected ingredients of domestic and international origins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children and pets. Consult with a qualified healthcare professional prior to using this product, especially if you are pregnant, nursing, have a diagnosed medical condition, are taking a prescription medication (e.g ., blood thinners), or are planning a surgical procedure. Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Store at room temperature, in a dry place. Protect product from excessive heat, freezing, humidity and light.",
+    "Note: Omega-3 Fish Oil in Triglyceride Form (TG as rTG)."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-09167"
+  },
+  {
+   "label": "UPC",
+   "value": "023249091677"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.6 x 6.5 cm, 0.14 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0.5 g",
+   "1%**"
+  ],
+  [
+   "Wild Alaska Pollock Fish Oil Concentrate",
+   "625 mg",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids as TG",
+   "520 mg",
+   "†"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "345 mg",
+   "†"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "130 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Bpa-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,065.02",
+  "฿1,065.02",
+  "฿8.88/‏serving",
+  "{0}% off code: {1}",
+  "฿1,065.02",
+  "Save 0% in cart",
+  "฿8.88/‏serving",
+  "฿1,065.02",
+  "(0% off)",
+  "฿1,065.02",
+  "฿8.88/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09167/s/33.jpg"
+ ]
+}

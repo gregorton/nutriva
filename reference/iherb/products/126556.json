@@ -1,0 +1,235 @@
+{
+ "pid": "126556",
+ "slug": "vitamatic-vitamin-d3-1-250-mcg-50-000-iu-60-vegetable-capsules",
+ "scrapedAt": "2026-08-25T17:29:56.799Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-vitamin-d3-1-250-mcg-50-000-iu-60-vegetable-capsules.jpg",
+  "/products/iherb/vitamatic-vitamin-d3-1-250-mcg-50-000-iu-60-vegetable-capsules-2.jpg",
+  "/products/iherb/vitamatic-vitamin-d3-1-250-mcg-50-000-iu-60-vegetable-capsules-3.jpg",
+  "/products/iherb/vitamatic-vitamin-d3-1-250-mcg-50-000-iu-60-vegetable-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-vitamin-d3-1-250-mcg-50-000-iu-60-vegetable-capsules/126556",
+ "pageTitle": "Vitamatic, Vitamin D3, 1,250 mcg (50,000 IU), 60 Vegetable Capsules",
+ "h1": "Vitamatic, Vitamin D3, 1,250 mcg (50,000 IU), 60 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126556",
+  "name": "Vitamatic, Vitamin D3, 1,250 mcg (50,000 IU), 60 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/g/24.jpg",
+  "mpn": "VMC-80030",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 4014
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "328.10",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Once Weekly Cholecalciferol Formulated by Healthcare Professional GMP Quality Assured Dietary Supplement Non GMO Vitamatic Vitamin D3 is a very important nutrient for overall healthy muscle function, increases calcium absorption for stronger bones, teeth, and immune support. The vast majority of individuals are deficient in Vitamin D, a life-sustaining vitamin. All the benefits of vitamin D without the risk of unprotected exposure to UVB rays. Safe and natural way to get this much-needed vitamin.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-80030",
+  "gtin12": "602343800301",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Once Weekly",
+    "Cholecalciferol",
+    "Formulated by Healthcare Professional",
+    "GMP Quality Assured",
+    "Dietary Supplement",
+    "Non GMO"
+   ],
+   "paragraphs": [
+    "Vitamatic Vitamin D3 is a very important nutrient for overall healthy muscle function, increases calcium absorption for stronger bones, teeth, and immune support.",
+    "The vast majority of individuals are deficient in Vitamin D, a life-sustaining vitamin.",
+    "All the benefits of vitamin D without the risk of unprotected exposure to UVB rays. Safe and natural way to get this much-needed vitamin."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 1 capsule once a week with 8 to 12 oz of water or as directed by your healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose (vegetable capsule), rice flour, magnesium stearate, silicon dioxide.",
+    "Free of sugar, yeast, wheat, egg, artificial colors, flavors. and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Stop use immediately and consult your healthcare provider if you experience any adverse effects. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-80030"
+  },
+  {
+   "label": "UPC",
+   "value": "602343800301"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.3 x 5.2 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetable Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (50,000 IU)(as cholecalciferol)",
+   "1,250 mcg",
+   "6,250%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetable capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿328.10",
+  "฿328.10",
+  "฿5.47/‏serving",
+  "{0}% off code: {1}",
+  "฿328.10",
+  "Save 0% in cart",
+  "฿5.47/‏serving",
+  "฿328.10",
+  "(0% off)",
+  "฿328.10",
+  "฿5.47/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc80030/s/37.jpg"
+ ]
+}

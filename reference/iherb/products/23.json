@@ -1,0 +1,299 @@
+{
+ "pid": "23",
+ "slug": "doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-caps",
+ "scrapedAt": "2026-08-25T17:33:16.726Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-caps.jpg",
+  "/products/iherb/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-caps-2.jpg",
+  "/products/iherb/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-caps-3.jpg",
+  "/products/iherb/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-capsules/23",
+ "pageTitle": "Doctor's Best, Glucosamine Chondroitin MSM with OptiMSM®, 240 Veggie Capsules",
+ "h1": "Doctor's Best, Glucosamine Chondroitin MSM with OptiMSM®, 240 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "23",
+  "name": "Doctor's Best, Glucosamine Chondroitin MSM with OptiMSM®, 240 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/g/121.jpg",
+  "mpn": "DRB-00081",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 94200
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.74",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1207.81",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Healthy Hair, Skin, Nails, & Joint Support Dietary Supplement Non-GMO · Gluten Free · Soy Free At Doctor's Best, we cherish beauty and flexibility. Our formula combines Glucosamine, Chondroitin, and MSM, offering comprehensive support for joint health and beauty for hair, skin, and nails. Glucosamine supports joint mobility Chondroitin works to enhance joint comfort MSM supports joint health and benefits hair, skin, and nails",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.1x3.1"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00081",
+  "gtin12": "753950000810",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/g/121.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Glucosamine Chondroitin Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Healthy Hair, Skin, Nails, & Joint Support",
+    "Dietary Supplement",
+    "Non-GMO · Gluten Free · Soy Free",
+    "Glucosamine supports joint mobility",
+    "Chondroitin works to enhance joint comfort",
+    "MSM supports joint health and benefits hair, skin, and nails"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we cherish beauty and flexibility. Our formula combines Glucosamine, Chondroitin, and MSM, offering comprehensive support for joint health and beauty for hair, skin, and nails."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult use: Take 4 capsules daily with food, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetarian capsule), magnesium stearate (vegetable source), silicon dioxide, microcrystalline cellulose.",
+    "Contains Shellfish (crab and shrimp shells)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your physician before using any health supplement if you are pregnant, lactating, have a medical condition, taking medications for diabetes, glaucoma, or anticoagulants. Not for use by individuals under the age of 18 years.",
+    "Keep out of reach of children.",
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.34 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00081"
+  },
+  {
+   "label": "UPC",
+   "value": "753950000810"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.5 x 7.9 x 7.9 cm, 0.34 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Veggie Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Chloride (from glucosamine hydrochloride potassium sulfate)",
+   "170 mg",
+   "7%"
+  ],
+  [
+   "Sodium (from chondroitin sulfate sodium)",
+   "120 mg",
+   "5%"
+  ],
+  [
+   "Potassium (from glucosamine hydrochloride potassium sulfate)",
+   "190 mg",
+   "4%"
+  ],
+  [
+   "Glucosamine Hydrochloride Potassium Sulfate",
+   "1500 mg",
+   "†"
+  ],
+  [
+   "Chondroitin Sulfate Sodium",
+   "1200 mg",
+   "†"
+  ],
+  [
+   "MSM (Methylsulfonylmethane)(OptiMSM®)",
+   "1000 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 veggie capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "22",
+   "url": "https://th.iherb.com/pr/doctor-s-best-glucosamine-chondroitin-msm-120-veggie-capsules/22",
+   "price": "฿693.61",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "23",
+   "url": "https://th.iherb.com/pr/doctor-s-best-glucosamine-chondroitin-msm-with-optimsm-240-veggie-capsules/23",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "360 count",
+   "pid": "57474",
+   "url": "https://th.iherb.com/pr/doctor-s-best-glucosamine-chondroitin-msm-360-veggie-capsules/57474",
+   "price": "฿1,766.80",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#4 in",
+   "category": "Glucosamine Chondroitin Formulas",
+   "href": "/c/glucosamine-chondroitin-formulas?sr=2"
+  },
+  {
+   "rank": "#22 in",
+   "category": "Bone, Joint & Cartilage",
+   "href": "/c/bone-joint-cartilage?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,207.81",
+  "฿1,207.81",
+  "฿20.13/‏serving",
+  "{0}% off code: {1}",
+  "฿1,207.81",
+  "Save 0% in cart",
+  "฿20.13/‏serving",
+  "฿1,207.81",
+  "(0% off)",
+  "฿1,207.81",
+  "฿20.13/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/g/121.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/k/121.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/g/121.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/121.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/129.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/130.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/131.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/132.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/133.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/134.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/135.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/136.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00081/s/137.jpg"
+ ]
+}

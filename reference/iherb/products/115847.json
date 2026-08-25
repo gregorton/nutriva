@@ -1,0 +1,232 @@
+{
+ "pid": "115847",
+ "slug": "youtheory-k2d3-essential-daily-vitamins-60-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:37:21.226Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/youtheory-k2d3-essential-daily-vitamins-60-vegetarian-capsules.jpg",
+  "/products/iherb/youtheory-k2d3-essential-daily-vitamins-60-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/youtheory-k2d3-essential-daily-vitamins-60-vegetarian-capsules/115847",
+ "pageTitle": "Youtheory, K2D3 Essential Daily Vitamins, 60 Vegetarian Capsules",
+ "h1": "Youtheory, K2D3 Essential Daily Vitamins, 60 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "115847",
+  "name": "Youtheory, K2D3 Essential Daily Vitamins, 60 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/g/44.jpg",
+  "mpn": "YOU-92035",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 633
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Youtheory",
+   "url": "http://www.youtheory.com/",
+   "identifier": "YOU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "412.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Helps Support Cardiovascular Function Promotes Bone Health Dietary Supplement Promotes Calcium Absorption Dairy Free Soy Free No Gluten Ingredients Vegetarian Friendly Youtheory® K2D3 provides essential nutrients that enable the body to properly use calcium for a variety of functions in normal metabolism. Vitamin K has well-established roles in promoting normal bone mineralization and cardiovascular function. Vitamin D is responsible for ensuring absorption and retention of calcium.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.1x3.6"
+  },
+  "isRelatedTo": null,
+  "sku": "YOU-92035",
+  "gtin12": "850021920357",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Helps Support Cardiovascular Function",
+    "Promotes Bone Health",
+    "Dietary Supplement",
+    "Promotes Calcium Absorption",
+    "Dairy Free",
+    "Soy Free",
+    "No Gluten Ingredients",
+    "Vegetarian Friendly"
+   ],
+   "paragraphs": [
+    "Youtheory® K2D3 provides essential nutrients that enable the body to properly use calcium for a variety of functions in normal metabolism.",
+    "Vitamin K has well-established roles in promoting normal bone mineralization and cardiovascular function. Vitamin D is responsible for ensuring absorption and retention of calcium."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "(Adults) Take one (1) capsule per day, with a glass of water.†",
+    "†The recommended dosage is one capsule per day. For more personalized results, start with one capsule per day and add one additional capsule per day as needed. Use daily for optimal results."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetarian capsule (hypromellose), microcrystalline cellulose, vegetable magnesium stearate, silicon dioxide.",
+    "This product is manufactured in a facility that processes fish extracts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Check with your doctor before using this product if you are taking medication or have any medical conditions. Do not use if you are pregnant or nursing. Do not exceed the recommended daily intake without checking with your doctor. Not intended for persons under 18. Keep out of reach of children. Store in a cool and dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "YOU-92035"
+  },
+  {
+   "label": "UPC",
+   "value": "850021920357"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.7 x 7.9 x 9.1 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (Menaquinone-7 as K2VITAL®)",
+   "100 mcg",
+   "83%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿412.75",
+  "฿412.75",
+  "฿6.88/‏serving",
+  "{0}% off code: {1}",
+  "฿412.75",
+  "Save 0% in cart",
+  "฿6.88/‏serving",
+  "฿412.75",
+  "(0% off)",
+  "฿412.75",
+  "฿6.88/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/you/you92035/s/45.jpg"
+ ]
+}

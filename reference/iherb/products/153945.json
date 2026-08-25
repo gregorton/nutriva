@@ -1,0 +1,239 @@
+{
+ "pid": "153945",
+ "slug": "vitamatic-colostrum-collagen-powder-unflavored-16-oz-454-g",
+ "scrapedAt": "2026-08-25T17:29:42.610Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-colostrum-collagen-powder-unflavored-16-oz-454-g.jpg",
+  "/products/iherb/vitamatic-colostrum-collagen-powder-unflavored-16-oz-454-g-2.jpg",
+  "/products/iherb/vitamatic-colostrum-collagen-powder-unflavored-16-oz-454-g-3.jpg",
+  "/products/iherb/vitamatic-colostrum-collagen-powder-unflavored-16-oz-454-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-colostrum-collagen-powder-unflavored-16-oz-454-g/153945",
+ "pageTitle": "Vitamatic, Colostrum + Collagen Powder, Unflavored, 16 oz (454 g)",
+ "h1": "Vitamatic, Colostrum + Collagen Powder, Unflavored, 16 oz (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "153945",
+  "name": "Vitamatic, Colostrum + Collagen Powder, Unflavored, 16 oz (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/g/2.jpg",
+  "mpn": "VMC-47557",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 16
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.04",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1561.14",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass-Fed & Pasture-Raised Dissolve Easily 18 Amino Acids Dietary Supplement 30% IgG Colostrum is the first food of life and is collected from the first milking of Grade A pasture raised cows that are not augmented with rBST or antibiotics. It's nutrient dense and high in antibodies and antioxidants to maximize the stronger immune system.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "6.65x5.25"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47557",
+  "gtin12": "810078475576",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Colostrum"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass-Fed & Pasture-Raised",
+    "Dissolve Easily",
+    "18 Amino Acids",
+    "Dietary Supplement",
+    "30% IgG"
+   ],
+   "paragraphs": [
+    "Colostrum is the first food of life and is collected from the first milking of Grade A pasture raised cows that are not augmented with rBST or antibiotics. It's nutrient dense and high in antibodies and antioxidants to maximize the stronger immune system."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Add 1 scoop to 8 fl oz of water, smoothies, or your favorite beverage and mix well. For optimal results, drink immediately after mixing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "Contains: Milk.",
+    "Free of sugar, yeast, wheat, egg, artificial colors, flavors, and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Stop use immediately and consult your healthcare provider if you experience any adverse effects. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.78 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47557"
+  },
+  {
+   "label": "UPC",
+   "value": "810078475576"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.7 x 16.9 x 13.3 cm, 0.47 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (4 Gram)"
+  ],
+  [
+   "Servings Per Container: 113"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value+"
+  ],
+  [
+   "Bovine Collagen",
+   "3 g",
+   "+"
+  ],
+  [
+   "Bovine Colostrum (lgG 30%)",
+   "1 g",
+   "+"
+  ],
+  [
+   "+Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value+",
+  "+Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "113"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,561.14",
+  "฿1,561.14",
+  "฿13.82/‏serving",
+  "{0}% off code: {1}",
+  "฿1,561.14",
+  "Save 0% in cart",
+  "฿13.82/‏serving",
+  "฿1,561.14",
+  "(0% off)",
+  "฿1,561.14",
+  "฿13.82/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/5.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/7.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47557/s/9.jpg"
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "pid": "85180",
+ "slug": "california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg",
+ "scrapedAt": "2026-08-25T17:16:29.208Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "30K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg.jpg",
+  "/products/iherb/california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg-2.jpg",
+  "/products/iherb/california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg-3.jpg",
+  "/products/iherb/california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg-per-softgel/85180",
+ "pageTitle": "California Gold Nutrition, Omega 800, 90 Fish Gelatin Softgels (1,000 mg per Softgel)",
+ "h1": "California Gold Nutrition, Omega 800, 90 Fish Gelatin Softgels (1,000 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "85180",
+  "name": "California Gold Nutrition, Omega 800, 90 Fish Gelatin Softgels (1,000 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/g/346.jpg",
+  "mpn": "CGN-01266",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 137021
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.34",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "918.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Omega 800 Ultra-Concentrated Omega-3 Fish Oil Featuring KD-Pür® Concentrated Fish Oil Processed in Germany Preferred Triglyceride Form with 480 mg EPA and 320 mg DHA EPA and DHA contribute to the normal function of the heart* DHA contributes to the maintenance of normal brain function and normal vision* Formulated without Gluten or GMOs Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Fish oil is a popular daily supplement due to its high level of omega-3 fatty acids, which are considered good fats that can contribute to the normal function of the heart. California Gold Nutrition Omega 800 Ultra-Concentrated Omega-3 Fish Oil is a convenient daily supplement that makes it easy to add more omega-3s to your diet, as it is specifically designed for individuals looking for an ultra-concentrated, once-daily softgel. Fish Oil and Heart Health EPA and DHA are two omega-3 fatty acids found in fish oil. Our Omega 800 is an ultra-concentrated fish oil providing no less than 80% EPA/DHA in the triglyceride form. EPA and DHA contribute to the normal function of the heart.* DHA contributes to the maintenance of normal brain function and normal vision.* California Gold Nutrition Omega 800 Ultra-Concentrated Omega-3 Fish Oil features KD-PÜR® IFOS™ quality fish oil that is purified and processed in Germany to the highest industry standards. This premium fish oil is contained within fish gelatin softgels that are manufactured in California, USA. *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself. iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01266",
+  "gtin12": "898220012664",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/g/346.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Omega 800 Ultra-Concentrated Omega-3 Fish Oil",
+    "Featuring KD-Pür® Concentrated Fish Oil Processed in Germany",
+    "Preferred Triglyceride Form with 480 mg EPA and 320 mg DHA",
+    "EPA and DHA contribute to the normal function of the heart*",
+    "DHA contributes to the maintenance of normal brain function and normal vision*",
+    "Formulated without Gluten or GMOs",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Fish oil is a popular daily supplement due to its high level of omega-3 fatty acids, which are considered good fats that can contribute to the normal function of the heart. California Gold Nutrition Omega 800 Ultra-Concentrated Omega-3 Fish Oil is a convenient daily supplement that makes it easy to add more omega-3s to your diet, as it is specifically designed for individuals looking for an ultra-concentrated, once-daily softgel.",
+    "Fish Oil and Heart Health",
+    "EPA and DHA are two omega-3 fatty acids found in fish oil. Our Omega 800 is an ultra-concentrated fish oil providing no less than 80% EPA/DHA in the triglyceride form. EPA and DHA contribute to the normal function of the heart.* DHA contributes to the maintenance of normal brain function and normal vision.*",
+    "California Gold Nutrition Omega 800 Ultra-Concentrated Omega-3 Fish Oil features KD-PÜR® IFOS™ quality fish oil that is purified and processed in Germany to the highest industry standards. This premium fish oil is contained within fish gelatin softgels that are manufactured in California, USA.",
+    "Third-Party Tested",
+    "Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 softgel daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01266"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012664"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.4 x 6.4 x 6.2 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%*"
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "3%"
+  ],
+  [
+   "Omega-3 Fish Oil Concentrate",
+   "1 g (1,000 mg)",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids",
+   "840 mg",
+   "†"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA as TG)",
+   "480 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA as TG)",
+   "320 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "82845",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-800-30-fish-gelatin-softgels-1-000-mg-per-softgel/82845",
+   "price": "฿354.42",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "85180",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-800-90-fish-gelatin-softgels-1-000-mg-per-softgel/85180",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "kd-pur® Omegas",
+   "href": "/c/kd-pur-omegas?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Omegas & Fish Oils (EPA DHA)",
+   "href": "/c/omegas-fish-oils-epa-dha?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Omega-3 Fish Oil",
+   "href": "/c/omega-3-fish-oil?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "30,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿918.00",
+  "฿918.00",
+  "฿10.20/‏serving",
+  "{0}% off code: {1}",
+  "฿918.00",
+  "Save 0% in cart",
+  "฿10.20/‏serving",
+  "฿918.00",
+  "(0% off)",
+  "฿918.00",
+  "฿10.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/g/346.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/k/346.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/g/346.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/346.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/351.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/125.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/159.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/160.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/360.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01266/s/267.jpg"
+ ]
+}

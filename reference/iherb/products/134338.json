@@ -1,0 +1,422 @@
+{
+ "pid": "134338",
+ "slug": "california-gold-nutrition-simply-one-prenatal-multivitamin-with-super",
+ "scrapedAt": "2026-08-25T17:49:16.932Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-simply-one-prenatal-multivitamin-with-super.jpg",
+  "/products/iherb/california-gold-nutrition-simply-one-prenatal-multivitamin-with-super-2.jpg",
+  "/products/iherb/california-gold-nutrition-simply-one-prenatal-multivitamin-with-super-3.jpg",
+  "/products/iherb/california-gold-nutrition-simply-one-prenatal-multivitamin-with-super-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-simply-one-prenatal-multivitamin-with-super-greens-spices-vitamin-a-and-folate-90-tablets/134338",
+ "pageTitle": "California Gold Nutrition, Simply One®, Prenatal Multivitamin with Super Greens, Spices, Vitamin A, and Folate, 90 Tablets",
+ "h1": "California Gold Nutrition, Simply One®, Prenatal Multivitamin with Super Greens, Spices, Vitamin A, and Folate, 90 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "134338",
+  "name": "California Gold Nutrition, Simply One®, Prenatal Multivitamin with Super Greens, Spices, Vitamin A, and Folate, 90 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/g/67.jpg",
+  "mpn": "SPN-02405",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 1330
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "248.52",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "693.94",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Formulated with bioactive Folate as 5-Methyltetrahydrofolate (5-MTHF) Contains essential vitamins and minerals plus Choline & DHA With Blue Greens and Spices Complexes Suitable for Vegetarians Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility iTested Quality California Gold Nutrition® Simply One, Prenatal Multivitamin with Super Greens & Spices is specially formulated for expecting mothers. It can be challenging to get all the necessary nutrients from diet alone during pregnancy, but a high-quality multivitamin helps fill those gaps. This once-daily tablet helps deliver essential vitamins, minerals and includes Super BlueGreen and Spice complexes to support overall wellness during pregnancy.* This multivitamin helps ensure expecting mothers receive key nutrients for a healthy pregnancy. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02405",
+  "gtin12": "898220024056",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/g/67.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Moms & Maternity",
+  "Prenatal Supplements",
+  "Prenatal Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Formulated with bioactive Folate as 5-Methyltetrahydrofolate (5-MTHF)",
+    "Contains essential vitamins and minerals plus Choline & DHA",
+    "With Blue Greens and Spices Complexes",
+    "Suitable for Vegetarians",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "iTested Quality"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Simply One, Prenatal Multivitamin with Super Greens & Spices is specially formulated for expecting mothers. It can be challenging to get all the necessary nutrients from diet alone during pregnancy, but a high-quality multivitamin helps fill those gaps. This once-daily tablet helps deliver essential vitamins, minerals and includes Super BlueGreen and Spice complexes to support overall wellness during pregnancy.* This multivitamin helps ensure expecting mothers receive key nutrients for a healthy pregnancy.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02405"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024056"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.2 x 6.2 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV for Pregnant & Lactating Women"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate and 17% as Beta-Carotene)",
+   "1,300 mcg",
+   "100%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "120 mg",
+   "100%"
+  ],
+  [
+   "Vitamin D (as D3, Cholecalciferol)",
+   "30 mcg",
+   "200%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopheryl Succinate from Sunflower)",
+   "38 mg",
+   "200%"
+  ],
+  [
+   "Vitamin K (as K1, Phytonadione)",
+   "45 mcg",
+   "50%"
+  ],
+  [
+   "Thiamin (as Thiamin HCl)",
+   "2.8 mg",
+   "200%"
+  ],
+  [
+   "Riboflavin",
+   "3.2 mg",
+   "200%"
+  ],
+  [
+   "Niacin (as Nicotinic Acid and Niacinamide)",
+   "36 mg",
+   "200%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxal-5-Phosphate)",
+   "4 mg",
+   "200%"
+  ],
+  [
+   "Folate (as 5-MTHF, L-5-Methyltetrahydrofolate)",
+   "1,200 mcg DFE",
+   "200%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "5.6 mcg",
+   "200%"
+  ],
+  [
+   "Biotin (as d-Biotin)",
+   "70 mcg",
+   "200%"
+  ],
+  [
+   "Pantothenic Acid (as d-Calcium Pantothenate)",
+   "14 mg",
+   "200%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "55 mg",
+   "10%"
+  ],
+  [
+   "Calcium (as Calcium Carbonate and Calcium Citrate)",
+   "130 mg",
+   "10%"
+  ],
+  [
+   "Iron (as Ferronyl Iron)",
+   "27 mg",
+   "100%"
+  ],
+  [
+   "Iodine (from Kelp)",
+   "290 mcg",
+   "100%"
+  ],
+  [
+   "Magnesium (as Magnesium Oxide and Magnesium Glycinate)",
+   "40 mg",
+   "10%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "13 mg",
+   "100%"
+  ],
+  [
+   "Selenium (as Sodium Selenite)",
+   "70 mcg",
+   "100%"
+  ],
+  [
+   "Copper (as Copper Glycinate)",
+   "1.3 mg",
+   "100%"
+  ],
+  [
+   "Manganese (as Manganese Sulfate)",
+   "2.6 mg",
+   "100%"
+  ],
+  [
+   "Chromium (as Chromium Picolinate)",
+   "90 mcg",
+   "200%"
+  ],
+  [
+   "Molybdenum (as Molybdenum Amino Acid Chelate)",
+   "50 mcg",
+   "100%"
+  ],
+  [
+   "Super BlueGreen Complex (Organic Alfalfa Grass, Organic Blueberry (fruit), Organic Broccoli (floret), Organic Chlorella, Organic Kale (leaf), Organic Spirulina, Organic Wheat Grass)",
+   "35 mg",
+   "†"
+  ],
+  [
+   "Super Spice Complex (Organic Cayenne Pepper (fruit), Organic Ginger Extract (root), Organic Turmeric Extract (root))",
+   "30 mg",
+   "†"
+  ],
+  [
+   "Betaine (as Betaine HCl)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids (from Lemon Fruit)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "DHA (from Algal Oil Powder)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Inositol",
+   "15 mg",
+   "†"
+  ],
+  [
+   "Glutamic Acid (as Glutamic Acid HCl)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Hesperidin (from Citrus)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Rutin",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Boron (from Boron Citrate)",
+   "2 mg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#4 in",
+   "category": "Prenatal Multivitamins",
+   "href": "/c/prenatal-multivitamins?sr=2"
+  },
+  {
+   "rank": "#7 in",
+   "category": "Super Greens",
+   "href": "/c/super-greens?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Prenatal Supplements",
+   "href": "/c/prenatal-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿693.94",
+  "฿693.94",
+  "฿7.71/‏serving",
+  "{0}% off code: {1}",
+  "฿693.94",
+  "Save 64% in cart",
+  "฿7.71/‏serving",
+  "฿248.52",
+  "(64% off)",
+  "฿693.94",
+  "฿2.76/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/g/67.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/k/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/g/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02405/s/23.jpg"
+ ]
+}

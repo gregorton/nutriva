@@ -1,0 +1,271 @@
+{
+ "pid": "21224",
+ "slug": "spectrum-essentials-fish-oil-omega-3-250-softgels-500-mg-per-softgel",
+ "scrapedAt": "2026-08-25T17:21:57.137Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/spectrum-essentials-fish-oil-omega-3-250-softgels-500-mg-per-softgel.jpg",
+  "/products/iherb/spectrum-essentials-fish-oil-omega-3-250-softgels-500-mg-per-softgel-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/spectrum-essentials-fish-oil-omega-3-250-softgels-500-mg-per-softgel/21224",
+ "pageTitle": "Spectrum Essentials, Fish Oil, Omega-3, 250 Softgels (500 mg per Softgel)",
+ "h1": "Spectrum Essentials, Fish Oil, Omega-3, 250 Softgels (500 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "21224",
+  "name": "Spectrum Essentials, Fish Oil, Omega-3, 250 Softgels (500 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/g/35.jpg",
+  "mpn": "SPE-51625",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 341
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Spectrum Essentials",
+   "url": "http://www.spectrumorganics.com/",
+   "identifier": "SPE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.85",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1509.62",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "3rd Party Purity Tested Fish Oil EPA and DHA for Brain, Vision and Heart Health From Sustainably Harvested Fish Dietary Supplement A Serving Has: 320 mg EPA / 200 mg DHA Hain Celestial The Benefits of Omega-3 Fatty Acids Spectrum Essentials ® Fish Oil contains the Omega-3 essential fatty acids EPA and DHA. These vital nutrients help maintain cardiovascular function while supporting the normal development of the brain, eyes and nervous system. Sustainability and Purity Spectrum Essentials ® Fish Oil comes from non-threatened species of wild-caught fish harvested through sustainable fishing practices. Our fish oil conforms to GOED Omega-3's stringent purity standards and is also tested by independent laboratories to meet California Prop 65 and European Union defined limits for contaminants.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SPE-51625",
+  "gtin12": "022506516250",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/g/35.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "3rd Party Purity Tested Fish Oil",
+    "EPA and DHA for Brain, Vision and Heart Health",
+    "From Sustainably Harvested Fish",
+    "Dietary Supplement",
+    "A Serving Has: 320 mg EPA / 200 mg DHA",
+    "Hain Celestial"
+   ],
+   "paragraphs": [
+    "The Benefits of Omega-3 Fatty Acids",
+    "Spectrum Essentials® Fish Oil contains the Omega-3 essential fatty acids EPA and DHA. These vital nutrients help maintain cardiovascular function while supporting the normal development of the brain, eyes and nervous system.",
+    "Sustainability and Purity",
+    "Spectrum Essentials® Fish Oil comes from non-threatened species of wild-caught fish harvested through sustainable fishing practices. Our fish oil conforms to GOED Omega-3's stringent purity standards and is also tested by independent laboratories to meet California Prop 65 and European Union defined limits for contaminants."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Refrigerate after opening.",
+    "2 softgels daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, glycerin, purified water, mixed natural tocopherols.",
+    "Contains: Fish (anchovies, sardines, mackerel)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place.",
+    "Consult a healthcare practitioner for your individual needs."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2009"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPE-51625"
+  },
+  {
+   "label": "UPC",
+   "value": "022506516250"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.6 x 8 x 7.7 cm, 0.39 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings per Container: 125"
+  ],
+  [
+   "",
+   "Amount per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%*"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%*"
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "4%*"
+  ],
+  [
+   "Fish Oil",
+   "2,000 mg",
+   "†"
+  ],
+  [
+   "Total Omega-3 Fatty Acids**",
+   "600 mg",
+   "†"
+  ],
+  [
+   "EPA (eicosapentaenoic acid)",
+   "320 mg",
+   "†"
+  ],
+  [
+   "DHA (docosahexaenoic acid)",
+   "200 mg",
+   "†"
+  ],
+  [
+   "Other Omega-3 Fatty Acids",
+   "80 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.†Daily Value not established.**as triglycerides"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount per Serving\t% Daily Value",
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "†Daily Value not established.",
+  "**as triglycerides"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "125"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,509.62",
+  "฿1,509.62",
+  "฿12.08/‏serving",
+  "{0}% off code: {1}",
+  "฿1,509.62",
+  "Save 0% in cart",
+  "฿12.08/‏serving",
+  "฿1,509.62",
+  "(0% off)",
+  "฿1,509.62",
+  "฿12.08/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/g/35.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/k/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/g/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spe/spe51625/s/40.jpg"
+ ]
+}

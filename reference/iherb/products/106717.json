@@ -1,0 +1,252 @@
+{
+ "pid": "106717",
+ "slug": "naturelo-immune-support-with-elderberry-vitamin-c-zinc-plus-echinacea",
+ "scrapedAt": "2026-08-25T17:04:19.005Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturelo-immune-support-with-elderberry-vitamin-c-zinc-plus-echinacea.jpg",
+  "/products/iherb/naturelo-immune-support-with-elderberry-vitamin-c-zinc-plus-echinacea-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturelo-immune-support-with-elderberry-vitamin-c-zinc-plus-echinacea-60-vegetarian-capsules/106717",
+ "pageTitle": "NATURELO, Immune Support with Elderberry, Vitamin C & Zinc plus Echinacea, 60 Vegetarian Capsules",
+ "h1": "NATURELO, Immune Support with Elderberry, Vitamin C & Zinc plus Echinacea, 60 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "106717",
+  "name": "NATURELO, Immune Support with Elderberry, Vitamin C & Zinc plus Echinacea, 60 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/g/27.jpg",
+  "mpn": "NAU-62856",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 227
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NATURELO",
+   "url": "https://www.naturelo.com/",
+   "identifier": "NAU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "864.22",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "From Nature With Love® Dietary Supplement Formulated to Support Healthy Immune System Function No GMOs No Soy No Gluten Vegan Friendly GMP Good Manufacturing Practice Consist Quality No Flavoring, Preservatives or Synthetic Colors Vitamin Angels® Proud Supporter Immune Defense Combo: Balanced blend of premium vitamins, minerals, and botanicals to support your natural immune defenses during any season. Sambucus Black Elderberry: Includes 350 mg of Black Elderberry Extract (Sambucus nigra). Full spectrum extract with the richest source of anthocyanins. Essential Immune Support: Time-tested ingredients like Vitamin C, Zinc, and Echinacea have been used for centuries to support a healthy immune response. Plant-based Formula: Made with botanicals extracts like elderberry and echinacea, plus plant-based vitamin C from acerola cherry extract.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.25"
+  },
+  "isRelatedTo": null,
+  "sku": "NAU-62856",
+  "gtin12": "628110628565",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/g/27.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Elderberry Sambucus"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "From Nature With Love®",
+    "Dietary Supplement",
+    "Formulated to Support Healthy Immune System Function",
+    "No GMOs",
+    "No Soy",
+    "No Gluten",
+    "Vegan Friendly",
+    "GMP Good Manufacturing Practice Consist Quality",
+    "No Flavoring, Preservatives or Synthetic Colors",
+    "Vitamin Angels® Proud Supporter"
+   ],
+   "paragraphs": [
+    "Immune Defense Combo: Balanced blend of premium vitamins, minerals, and botanicals to support your natural immune defenses during any season.",
+    "Sambucus Black Elderberry: Includes 350 mg of Black Elderberry Extract (Sambucus nigra). Full spectrum extract with the richest source of anthocyanins.",
+    "Essential Immune Support: Time-tested ingredients like Vitamin C, Zinc, and Echinacea have been used for centuries to support a healthy immune response.",
+    "Plant-based Formula: Made with botanicals extracts like elderberry and echinacea, plus plant-based vitamin C from acerola cherry extract."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one (1) capsule with food and a full glass of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetarian capsule, maltodextrin, blueberry extract, rice hull concentrate, acacia gum, sunflower oil.",
+    "Does not contain GMOs, soy, gluten, milk, eggs, fish, shellfish, tree nuts, peanuts, or preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. As with any dietary supplement, if you are pregnant, nursing or taking medication, consult your doctor before using this product. Store in a cool, dry place. Do not use if safety seal under the lid is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAU-62856"
+  },
+  {
+   "label": "UPC",
+   "value": "628110628565"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 5.8 x 5.7 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (from L-Ascorbate and Acerola Cherry Extract)",
+   "250 mg",
+   "278%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "15 mg",
+   "136%"
+  ],
+  [
+   "Black Elderberry Powder (Sambucus nigra) (Fruit)",
+   "350 mg",
+   "**"
+  ],
+  [
+   "Echinacea Powder (Echinacea purpurea) (Root)",
+   "100 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿864.22",
+  "฿864.22",
+  "฿14.40/‏serving",
+  "{0}% off code: {1}",
+  "฿864.22",
+  "Save 0% in cart",
+  "฿14.40/‏serving",
+  "฿864.22",
+  "(0% off)",
+  "฿864.22",
+  "฿14.40/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/g/27.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/k/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/g/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62856/s/33.jpg"
+ ]
+}

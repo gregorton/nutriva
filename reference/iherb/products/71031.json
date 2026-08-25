@@ -1,0 +1,348 @@
+{
+ "pid": "71031",
+ "slug": "california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-4",
+ "scrapedAt": "2026-08-25T17:01:53.050Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-4.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-4-2.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-4-3.jpg",
+  "/products/iherb/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-4-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-454-g/71031",
+ "pageTitle": "California Gold Nutrition, Sport, Whey Protein Isolate, Unflavored, 1 lb (454 g)",
+ "h1": "California Gold Nutrition, Sport, Whey Protein Isolate, Unflavored, 1 lb (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "71031",
+  "name": "California Gold Nutrition, Sport, Whey Protein Isolate, Unflavored, 1 lb (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/g/134.jpg",
+  "mpn": "CGN-01064",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 41418
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "956.96",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Unflavored No rbST▣ 0 g Carbohydrates California Gold Nutrition ® Sport Whey Protein Isolate features 27 grams of protein and 6.1 grams of Branched Chain Amino Acids (BCAAs) and 4.6 g of Glutamic Acid per serving. It contains low lactose and is manufactured by a multi-stage cold micro-filtration isolation process using state-of-the-art membrane technology. ▣No rbST (From cows not supplemented with rbST. No significant difference has been shown between milk derived from rbST supplemented and non-rbST supplemented cows). iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5x5"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01064",
+  "gtin12": "898220010646",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/g/134.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Isolate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Unflavored",
+    "No rbST▣",
+    "0 g Carbohydrates"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Sport Whey Protein Isolate features 27 grams of protein and 6.1 grams of Branched Chain Amino Acids (BCAAs) and 4.6 g of Glutamic Acid per serving. It contains low lactose and is manufactured by a multi-stage cold micro-filtration isolation process using state-of-the-art membrane technology.",
+    "▣No rbST (From cows not supplemented with rbST. No significant difference has been shown between milk derived from rbST supplemented and non-rbST supplemented cows).",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 slightly rounded scoop daily with 6-12 ounces of cold water or the beverage of your choice. May be minimally sweetened if desired. For best results, add liquid in a blender-type bottle, shaker cup, or electric blender first, then add the powder. Our Whey Protein Isolate can be blended with a spoon if necessary.",
+    "Note: 31 grams per 1 slightly rounded scoop is an average. Individual scooping technique may yield slightly less than or slightly more than 31 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Aroma, color, consistency, and taste may vary slightly from batch to batch.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.59 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01064"
+  },
+  {
+   "label": "UPC",
+   "value": "898220010646"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "18 x 12.7 x 12.7 cm, 0.59 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (31 g)"
+  ],
+  [
+   "Servings Per Container: About 15"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "15 mg",
+   "5%"
+  ],
+  [
+   "Sodium",
+   "55 mg",
+   "2%"
+  ],
+  [
+   "Total Carbohydrate",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "27 g",
+   "55%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "120 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "130 mg",
+   "2%"
+  ],
+  [
+   "*The %Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The %Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "15"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "454 g",
+   "pid": "71031",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-unflavored-1-lb-454-g/71031",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "907 g",
+   "pid": "82689",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-with-organic-cane-sugar-with-sunflower-lecithin-very-vanilla-2-lb-907-g/82689",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "2267 g",
+   "pid": "76479",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-whey-protein-isolate-unflavored-5-lb-2-27-kg/76479",
+   "price": "฿3,588.61",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Whey Protein",
+   "href": "/c/whey-protein?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Whey Protein Isolate",
+   "href": "/c/whey-protein-isolate?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Protein",
+   "href": "/c/protein?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿956.96",
+  "฿956.96",
+  "฿63.80/‏serving",
+  "{0}% off code: {1}",
+  "฿956.96",
+  "Save 0% in cart",
+  "฿63.80/‏serving",
+  "฿956.96",
+  "(0% off)",
+  "฿956.96",
+  "฿63.80/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/g/134.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/k/134.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/g/134.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/134.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/139.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/122.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/143.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/144.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/145.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/251.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/125.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/s/142.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01064/b/134.jpg"
+ ]
+}

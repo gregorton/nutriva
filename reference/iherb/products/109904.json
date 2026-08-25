@@ -1,0 +1,342 @@
+{
+ "pid": "109904",
+ "slug": "dr-mcdougall-s-vegan-spring-onion-noodle-soup-1-9-oz-53-g",
+ "scrapedAt": "2026-08-25T17:51:10.609Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/dr-mcdougall-s-vegan-spring-onion-noodle-soup-1-9-oz-53-g.jpg",
+  "/products/iherb/dr-mcdougall-s-vegan-spring-onion-noodle-soup-1-9-oz-53-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dr-mcdougall-s-vegan-spring-onion-noodle-soup-1-9-oz-53-g/109904",
+ "pageTitle": "Dr. McDougall's, Vegan Spring Onion Noodle Soup, 1.9 oz (53 g)",
+ "h1": "Dr. McDougall's, Vegan Spring Onion Noodle Soup, 1.9 oz (53 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "109904",
+  "name": "Dr. McDougall's, Vegan Spring Onion Noodle Soup, 1.9 oz (53 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/g/44.jpg",
+  "mpn": "MCD-01113",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.1,
+   "reviewCount": 496
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dr. McDougall's",
+   "url": "http://www.rightfoods.com/",
+   "identifier": "MCD"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "98.04",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "108.93",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Right Foods Packet Inside Sustainable Forestry Initiative - Certified Sourcing Dr. McDougall's Right Foods® are always delicious and vegan. This tasty soup is made with rice noodles that are steamed, not fried for your delicious wellness.® Nourishing your well-being while helping to sustain the earth is our recipe for happiness. Sustaining the Earth Sustaining You®",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.85x3.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MCD-01113",
+  "gtin12": "767335011131",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Packaged & Prepared Foods",
+  "Ready-to-Eat Meals",
+  "Noodle Meals"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Right Foods",
+    "Packet Inside",
+    "Sustainable Forestry Initiative - Certified Sourcing"
+   ],
+   "paragraphs": [
+    "Dr. McDougall's Right Foods® are always delicious and vegan. This tasty soup is made with rice noodles that are steamed, not fried for your delicious wellness.®",
+    "Nourishing your well-being while helping to sustain the earth is our recipe for happiness.",
+    "Sustaining the Earth Sustaining You®"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Microwave Cooking Instructions (1100W)",
+    "Boiling Water Instructions",
+    "Follow instructions above except add boiling water to fill line and do not microwave."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice noodles (rice, starch), natural flavors, organic sugar, yeast extracts, onion*, garlic*, tapioca maltodextrin, sea salt, green onion*, sesame, spices, paprika, turmeric* (color).",
+    "*Dried"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Cup and food may be hot. Please handle with care. Do not leave microwave unattended."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MCD-01113"
+  },
+  {
+   "label": "UPC",
+   "value": "767335011131"
+  },
+  {
+   "label": "Package quantity",
+   "value": "53 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 9.8 x 9.8 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 53 g"
+  ],
+  [
+   "Servings Per Container: 1"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "180",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "620 mg",
+   "27%"
+  ],
+  [
+   "Total Carbohydrate",
+   "41 g",
+   "15%"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   ""
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Protein",
+   "4 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Iron",
+   "0.7 mg",
+   "4%"
+  ],
+  [
+   "Calcium",
+   "25 mg",
+   "2%"
+  ],
+  [
+   "Potassium",
+   "280 mg",
+   "6%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "53 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "1"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "53 g",
+   "pid": "109904",
+   "url": "https://th.iherb.com/pr/dr-mcdougall-s-vegan-spring-onion-noodle-soup-1-9-oz-53-g/109904",
+   "price": "฿98.04",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "95 g",
+   "pid": "32590",
+   "url": "https://th.iherb.com/pr/dr-mcdougall-s-gluten-free-black-bean-lime-soup-3-4-oz-95-g/32590",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#10 in",
+   "category": "Soup Cups",
+   "href": "/c/soup-cups?sr=2"
+  },
+  {
+   "rank": "#11 in",
+   "category": "Noodle Meals",
+   "href": "/c/noodle-meals?sr=2"
+  },
+  {
+   "rank": "#17 in",
+   "category": "Ready-to-Eat Meals",
+   "href": "/c/ready-to-eat-meals?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿108.93",
+  "฿108.93",
+  "฿108.93/‏serving",
+  "{0}% off code: {1}",
+  "฿108.93",
+  "Save 10% in cart",
+  "฿108.93/‏serving",
+  "฿98.04",
+  "(10% off)",
+  "฿108.93",
+  "฿98.04/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcd/mcd01113/b/44.jpg"
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "pid": "154024",
+ "slug": "vitamatic-magnesium-aspartate-with-b6-90-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:30:49.169Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-magnesium-aspartate-with-b6-90-vegetarian-capsules.jpg",
+  "/products/iherb/vitamatic-magnesium-aspartate-with-b6-90-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-magnesium-aspartate-with-b6-90-vegetarian-capsules/154024",
+ "pageTitle": "Vitamatic, Magnesium Aspartate with B6, 90 Vegetarian Capsules",
+ "h1": "Vitamatic, Magnesium Aspartate with B6, 90 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "154024",
+  "name": "Vitamatic, Magnesium Aspartate with B6, 90 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/g/8.jpg",
+  "mpn": "VMC-47400",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 30
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.27",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "360.26",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "400 mg Elemental mg Per Serving An Essential Mineral GMP Certified Dietary Supplement Non GMO Supports Muscle, joint, heart health & enzyme function.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47400",
+  "gtin12": "810078474005",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "400 mg Elemental mg Per Serving",
+    "An Essential Mineral",
+    "GMP Certified",
+    "Dietary Supplement",
+    "Non GMO"
+   ],
+   "paragraphs": [
+    "Supports Muscle, joint, heart health & enzyme function."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 2 capsules daily with 8 to 12 oz of water or as directed by your healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsules), rice flour, vegetable magnesium stearate.",
+    "Free of sugar, starch, sodium, yeast, soy, corn, wheat, egg, artificial colors, flavors & preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47400"
+  },
+  {
+   "label": "UPC",
+   "value": "810078474005"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 5.6 x 5.6 cm, 0.12 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin B6",
+   "5 mg",
+   "294 %"
+  ],
+  [
+   "Magnesium (From Magnesium Aspartate)",
+   "400 mg",
+   "95%"
+  ],
+  [
+   "Magnesium Aspartate",
+   "1335 mg",
+   "+"
+  ],
+  [
+   "+Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "+Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 8 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿360.26",
+  "฿360.26",
+  "฿8.01/‏serving",
+  "{0}% off code: {1}",
+  "฿360.26",
+  "Save 0% in cart",
+  "฿8.01/‏serving",
+  "฿360.26",
+  "(0% off)",
+  "฿360.26",
+  "฿8.01/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47400/s/14.jpg"
+ ]
+}

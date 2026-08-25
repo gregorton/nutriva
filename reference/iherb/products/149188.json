@@ -1,0 +1,252 @@
+{
+ "pid": "149188",
+ "slug": "lifeable-kids-vitamin-b6-gummies-strawberry-50-mg-60-gummies",
+ "scrapedAt": "2026-08-25T17:16:14.936Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-kids-vitamin-b6-gummies-strawberry-50-mg-60-gummies.jpg",
+  "/products/iherb/lifeable-kids-vitamin-b6-gummies-strawberry-50-mg-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-kids-vitamin-b6-gummies-strawberry-50-mg-60-gummies/149188",
+ "pageTitle": "Lifeable, Kids Vitamin B6 Gummies, Strawberry, 50 mg, 60 Gummies",
+ "h1": "Lifeable, Kids Vitamin B6 Gummies, Strawberry, 50 mg, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "149188",
+  "name": "Lifeable, Kids Vitamin B6 Gummies, Strawberry, 50 mg, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/g/9.jpg",
+  "mpn": "LFB-73106",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 51
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "492.15",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Nerve Function Kosher Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.45x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73106",
+  "gtin12": "810102731067",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins "
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Nerve Function",
+    "Kosher"
+   ],
+   "paragraphs": [
+    "Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "9 years and up: As a dietary supplement, take one (1) gummy per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, black carrot concentrate (color), citric acid, trisodium citrate, natural flavor, carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish.",
+    "Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using.",
+    "Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature. Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73106"
+  },
+  {
+   "label": "UPC",
+   "value": "810102731067"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.2 x 6.2 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value Adults & Children 9 Years of Age and Older‡"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%"
+  ],
+  [
+   "Vitamin B6 (Pyridoxine HCl)",
+   "50 mg",
+   "2,941%"
+  ],
+  [
+   "‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value Adults & Children 9 Years of Age and Older‡",
+  "‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿492.15",
+  "฿492.15",
+  "฿8.20/‏serving",
+  "{0}% off code: {1}",
+  "฿492.15",
+  "Save 0% in cart",
+  "฿8.20/‏serving",
+  "฿492.15",
+  "(0% off)",
+  "฿492.15",
+  "฿8.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73106/s/12.jpg"
+ ]
+}

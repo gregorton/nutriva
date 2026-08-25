@@ -1,0 +1,300 @@
+{
+ "pid": "133650",
+ "slug": "xyloburst-xylitol-gum-green-tea-24-pieces-1-27-oz-36-g",
+ "scrapedAt": "2026-08-25T17:48:29.959Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/xyloburst-xylitol-gum-green-tea-24-pieces-1-27-oz-36-g.jpg",
+  "/products/iherb/xyloburst-xylitol-gum-green-tea-24-pieces-1-27-oz-36-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/xyloburst-xylitol-gum-green-tea-24-pieces-1-27-oz-36-g/133650",
+ "pageTitle": "Xyloburst, Xylitol Gum, Green Tea, 24 Pieces, 1.27 oz (36 g)",
+ "h1": "Xyloburst, Xylitol Gum, Green Tea, 24 Pieces, 1.27 oz (36 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "133650",
+  "name": "Xyloburst, Xylitol Gum, Green Tea, 24 Pieces, 1.27 oz (36 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/g/24.jpg",
+  "mpn": "XLB-00258",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 3550
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Xyloburst",
+   "url": "http://focusnutrition.com/",
+   "identifier": "XLB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "69.39",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "92.52",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Sugar Free Aspartame Free Non-GMO & Gluten-free Dentist/Hygienist-recommended Ideal for Low-Carb and Sugar- Controlled Diets Sweetened With 100% xylitol The Chewing Gum That Cleans Your Teeth Sweet and refreshing yet sugar-free, XyloBurst xylitol chewing gum will leave your mouth feeling fresh and clean. Sweetened exclusively with 100% xylitol and recommended by dentists worldwide, XyloBurst xylitol chewing gum has positive oral health benefits. Each piece has over 1 gram of xylitol. So remember, 6 to 8 grams a day may help improve oral health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.6x0.95"
+  },
+  "isRelatedTo": null,
+  "sku": "XLB-00258",
+  "gtin12": "892327002580",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Chocolate & Candy",
+  "Gum & Mints",
+  "Xylitol Gum & Mints"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Sugar Free",
+    "Aspartame Free",
+    "Non-GMO & Gluten-free",
+    "Dentist/Hygienist-recommended",
+    "Ideal for Low-Carb and Sugar- Controlled Diets",
+    "Sweetened With 100% xylitol",
+    "The Chewing Gum That Cleans Your Teeth"
+   ],
+   "paragraphs": [
+    "Sweet and refreshing yet sugar-free, XyloBurst xylitol chewing gum will leave your mouth feeling fresh and clean. Sweetened exclusively with 100% xylitol and recommended by dentists worldwide, XyloBurst xylitol chewing gum has positive oral health benefits. Each piece has over 1 gram of xylitol. So remember, 6 to 8 grams a day may help improve oral health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Chew XyloBurst gum after each meal"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Xylitol, gum base, natural flavors (green tea), vegetable glycerin, gum arabic. sunflower lecithin (non-gmo), calcium carbonate carnauba wax.",
+    "Packaged in the USA with raw materials from China and the USA"
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "XLB-00258"
+  },
+  {
+   "label": "UPC",
+   "value": "892327002580"
+  },
+  {
+   "label": "Package quantity",
+   "value": "25 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.7 x 4.1 x 2.4 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 piece (1.5g)"
+  ],
+  [
+   "Servings Per Container: 24"
+  ],
+  [
+   "",
+   "Amount per serving",
+   "%DV*"
+  ],
+  [
+   "Calories",
+   "2.4",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Carbohydrates",
+   "1 g",
+   "less than 1%"
+  ],
+  [
+   "Xylitol",
+   "1 g",
+   "less than 1%"
+  ],
+  [
+   "Sodium",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Protein",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Not a significant source of other nutrients.*Percent Daily Values(DV) are based on a 2000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values(DV) are based on a 2000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 piece"
+    },
+    {
+     "label": "Total servings",
+     "value": "24"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "12 count",
+   "pid": "133644",
+   "url": "https://th.iherb.com/pr/xyloburst-xylitol-gum-green-tea-12-pieces/133644",
+   "price": "฿68.35",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "25 count",
+   "pid": "133650",
+   "url": "https://th.iherb.com/pr/xyloburst-xylitol-gum-green-tea-24-pieces-1-27-oz-36-g/133650",
+   "price": "฿69.39",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "100 count",
+   "pid": "86356",
+   "url": "https://th.iherb.com/pr/xyloburst-xylitol-gum-green-tea-100-pieces-5-29-oz-150-g/86356",
+   "price": "฿294.64",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#12 in",
+   "category": "Xylitol Gum & Mints",
+   "href": "/c/xylitol-gum-mints?sr=2"
+  },
+  {
+   "rank": "#23 in",
+   "category": "Gum & Mints",
+   "href": "/c/gum-mints?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿92.52",
+  "฿92.52",
+  "฿3.86/‏serving",
+  "{0}% off code: {1}",
+  "฿92.52",
+  "Save 25% in cart",
+  "฿3.86/‏serving",
+  "฿69.39",
+  "(25% off)",
+  "฿92.52",
+  "฿2.89/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/xlb/xlb00258/b/24.jpg"
+ ]
+}

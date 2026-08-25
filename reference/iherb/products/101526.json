@@ -1,0 +1,244 @@
+{
+ "pid": "101526",
+ "slug": "sports-research-daily-probiotics-60-billion-cfu-30-delayed-release-cap",
+ "scrapedAt": "2026-08-25T17:16:42.820Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sports-research-daily-probiotics-60-billion-cfu-30-delayed-release-cap.jpg",
+  "/products/iherb/sports-research-daily-probiotics-60-billion-cfu-30-delayed-release-cap-2.jpg",
+  "/products/iherb/sports-research-daily-probiotics-60-billion-cfu-30-delayed-release-cap-3.jpg",
+  "/products/iherb/sports-research-daily-probiotics-60-billion-cfu-30-delayed-release-cap-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-daily-probiotics-60-billion-cfu-30-delayed-release-capsules/101526",
+ "pageTitle": "Sports Research, Daily Probiotics, 60 Billion CFU, 30 Delayed Release Capsules",
+ "h1": "Sports Research, Daily Probiotics, 60 Billion CFU, 30 Delayed Release Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "101526",
+  "name": "Sports Research, Daily Probiotics, 60 Billion CFU, 30 Delayed Release Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/g/70.jpg",
+  "mpn": "SRE-09009",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3193
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1065.02",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "12 Lacto & Bifido Bacteria Strains Supports Gut Health Vegan Gluten Free Non GMO Project Verified Dietary Supplement Igen Non GMO Tested Certified Vegan Gluten & Soy Free Third Party Tested cGMP Compliant Quality Matters Say goodbye to digestive discomfort! Probiotics encompass live bacteria that is helpful for gut replenishing and restoring. Our Daily Probiotics are specially formulated to help replenish good bacteria in the gut. Encapsulated in delayed release veggie capsules, you just need one a day to gain this enhanced gut health support. Put digestion concerns in the past— we're here to promote good bacteria and support your daily gut balance, from the inside out.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-09009",
+  "gtin12": "023249090090",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/g/70.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "12 Lacto & Bifido Bacteria Strains",
+    "Supports Gut Health",
+    "Vegan",
+    "Gluten Free",
+    "Non GMO Project Verified",
+    "Dietary Supplement",
+    "Igen Non GMO Tested",
+    "Certified Vegan",
+    "Gluten & Soy Free",
+    "Third Party Tested",
+    "cGMP Compliant",
+    "Quality Matters"
+   ],
+   "paragraphs": [
+    "Say goodbye to digestive discomfort! Probiotics encompass live bacteria that is helpful for gut replenishing and restoring. Our Daily Probiotics are specially formulated to help replenish good bacteria in the gut. Encapsulated in delayed release veggie capsules, you just need one a day to gain this enhanced gut health support. Put digestion concerns in the past— we're here to promote good bacteria and support your daily gut balance, from the inside out."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 delayed release veggie capsule daily with food, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Potato starch, delayed release veggie capsule (hypromellose, gellan gum, purified water), L-leucine, pectin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children and pets. Consult with a qualified healthcare professional prior to using this product. Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Store at room temperature, in a dry place. Refrigeration is not required, but highly recommended. Protect product from excessive heat, freezing, humidity and light."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-09009"
+  },
+  {
+   "label": "UPC",
+   "value": "023249090090"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.3 x 5.2 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Daily Probiotic BlendLactobacillus plantarum, Lactococcus lactis subsp. lactis, Bifidobacterium animalis subsp. lactis, Lactobacillus acidophilus, Lactobacillus fermentum, Lactobacillus rhamnosus GG, Lactobacillus casei, Lactobacillus paracasei, Bifidobacterium bifidum, Bifidobacterium breve, Bifidobacterium longum subsp. infantis, Bifidobacterium longum subsp. longum",
+   "285 mg (60 Billion CFU)",
+   "*"
+  ],
+  [
+   "Fiber Inulin BlendOrganic Acacia Senegal Gum, Organic Apple Fiber (Mallus pumila) Pomace, Organic Inulin (from Jerusalem Artichoke [tuber] and Agave).",
+   "60 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "*",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,065.02",
+  "฿1,065.02",
+  "฿35.50/‏serving",
+  "{0}% off code: {1}",
+  "฿1,065.02",
+  "Save 0% in cart",
+  "฿35.50/‏serving",
+  "฿1,065.02",
+  "(0% off)",
+  "฿1,065.02",
+  "฿35.50/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/g/70.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/k/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/g/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/s/79.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/s/80.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09009/s/81.jpg"
+ ]
+}

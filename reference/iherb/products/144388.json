@@ -1,0 +1,240 @@
+{
+ "pid": "144388",
+ "slug": "nutri-magnesium-glycinate-high-absorption-3-600-mg-120-vegan-capsules",
+ "scrapedAt": "2026-08-25T17:31:35.648Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutri-magnesium-glycinate-high-absorption-3-600-mg-120-vegan-capsules.jpg",
+  "/products/iherb/nutri-magnesium-glycinate-high-absorption-3-600-mg-120-vegan-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutri-magnesium-glycinate-high-absorption-3-600-mg-120-vegan-capsules/144388",
+ "pageTitle": "Nutri, Magnesium Glycinate, High Absorption, 3,600 mg, 120 Vegan Capsules",
+ "h1": "Nutri, Magnesium Glycinate, High Absorption, 3,600 mg, 120 Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "144388",
+  "name": "Nutri, Magnesium Glycinate, High Absorption, 3,600 mg, 120 Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/g/56.jpg",
+  "mpn": "NFU-74284",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 282
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nutri",
+   "url": "https://www.naturesfusions.com/",
+   "identifier": "NUI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "796.63",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Doctor Recommended 100% Chelated 480 mg Magnesium Per Serving Sleep | Muscle Health | Healthy Aging Dietary Supplement GMP Certified - Good Manufacturing Practice Made in a FDA Registered Facility Vegetarian 3rd Party Lab Tested & Verified Nutri Elevate Your Health Why Magnesium? Find the best balance of magnesium to improve your day to day with Magnesium Glycinate. Use our potent high absorption formula to support Healthy Sleep, Aging, and Muscle Function. Why Nutri? At Nutri we believe in making the highest quality and most effective products on the market, so that you can be confident that you're getting the best of the best.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NFU-74284",
+  "gtin12": "810102742841",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/g/56.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Doctor Recommended",
+    "100% Chelated",
+    "480 mg Magnesium Per Serving",
+    "Sleep | Muscle Health | Healthy Aging",
+    "Dietary Supplement",
+    "GMP Certified - Good Manufacturing Practice",
+    "Made in a FDA Registered Facility",
+    "Vegetarian",
+    "3rd Party Lab Tested & Verified",
+    "Nutri Elevate Your Health"
+   ],
+   "paragraphs": [
+    "Why Magnesium?",
+    "Find the best balance of magnesium to improve your day to day with Magnesium Glycinate. Use our potent high absorption formula to support Healthy Sleep, Aging, and Muscle Function.",
+    "Why Nutri?",
+    "At Nutri we believe in making the highest quality and most effective products on the market, so that you can be confident that you're getting the best of the best."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take four capsules daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose (capsule), rice extract blend (rice bran extract, rice hulls, gum arabic, sunflower oil)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NFU-74284"
+  },
+  {
+   "label": "UPC",
+   "value": "810102742841"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6.4 x 6.4 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium(from Magnesium Glycinate)",
+   "480 mg",
+   "†"
+  ],
+  [
+   "Magnesium Glycinate (∼13% Mg)",
+   "3600 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿796.63",
+  "฿796.63",
+  "฿26.55/‏serving",
+  "{0}% off code: {1}",
+  "฿796.63",
+  "Save 0% in cart",
+  "฿26.55/‏serving",
+  "฿796.63",
+  "(0% off)",
+  "฿796.63",
+  "฿26.55/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/g/56.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/k/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/g/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nfu/nfu74284/s/61.jpg"
+ ]
+}

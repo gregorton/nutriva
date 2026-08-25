@@ -1,0 +1,237 @@
+{
+ "pid": "141684",
+ "slug": "nutricost-turmeric-120-capsules",
+ "scrapedAt": "2026-08-25T17:40:36.075Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutricost-turmeric-120-capsules.jpg",
+  "/products/iherb/nutricost-turmeric-120-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutricost-turmeric-120-capsules/141684",
+ "pageTitle": "Nutricost, Turmeric, 120 Capsules",
+ "h1": "Nutricost, Turmeric, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "141684",
+  "name": "Nutricost, Turmeric, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/g/8.jpg",
+  "mpn": "NCS-67520",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 391
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nutricost",
+   "url": "https://nutricost.com/",
+   "identifier": "NCS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.32",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "756.60",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Nutricost® Quality Guaranteed Vegan - Animal-Free Product GMP Compliant Facility Non-GMO Product Third Party Tested Gluten-Free",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "NCS-67520",
+  "gtin12": "810014675206",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Nutricost® Quality Guaranteed",
+    "Vegan - Animal-Free Product",
+    "GMP Compliant Facility",
+    "Non-GMO Product",
+    "Third Party Tested",
+    "Gluten-Free"
+   ],
+   "paragraphs": []
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 3 capsules daily with 8-12 oz of water or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose) capsule, magnesium stearate (vegetable source).",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For healthy individuals 18 years and older. Consult a healthcare professional prior to use if you are pregnant or nursing, taking medication, or have a medical condition. Keep out of reach of children. Do not use if safety seal is broken or missing.",
+    "Notice: Store in a cool, dry place.",
+    "Warning: Reproductive Harm. Prop 65."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCS-67520"
+  },
+  {
+   "label": "UPC",
+   "value": "810014675206"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.14 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Organic Turmeric Powder(Curcuma longa)(rhizome)",
+   "2150 mg",
+   "*"
+  ],
+  [
+   "Turmeric Extract(Curcuma longa)(rhizome)(95% Curcuminoids)(25:1, equivalent to 3,750mg of turmeric)",
+   "150 mg",
+   "*"
+  ],
+  [
+   "BioPerine® Black Pepper Extract(Piper nigrum)(fruit)(min. 95% piperine)",
+   "15 mg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿756.60",
+  "฿756.60",
+  "฿18.92/‏serving",
+  "{0}% off code: {1}",
+  "฿756.60",
+  "Save 0% in cart",
+  "฿18.92/‏serving",
+  "฿756.60",
+  "(0% off)",
+  "฿756.60",
+  "฿18.92/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs67520/s/11.jpg"
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "pid": "152379",
+ "slug": "force-factor-ultimate-magnesium-glycinate-drink-mix-raspberry-lemon-4",
+ "scrapedAt": "2026-08-25T17:19:17.012Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "100+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-ultimate-magnesium-glycinate-drink-mix-raspberry-lemon-4.jpg",
+  "/products/iherb/force-factor-ultimate-magnesium-glycinate-drink-mix-raspberry-lemon-4-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-ultimate-magnesium-glycinate-drink-mix-raspberry-lemon-4-36-oz-123-6-g/152379",
+ "pageTitle": "Force Factor, Ultimate Magnesium® Glycinate Drink Mix, Raspberry Lemon, 4.36 oz (123.6 g)",
+ "h1": "Force Factor, Ultimate Magnesium® Glycinate Drink Mix, Raspberry Lemon, 4.36 oz (123.6 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "152379",
+  "name": "Force Factor, Ultimate Magnesium® Glycinate Drink Mix, Raspberry Lemon, 4.36 oz (123.6 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/g/8.jpg",
+  "mpn": "FOA-66216",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 183
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "854.09",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "300 mg Magnesium Glycinate Chelated for Superior Absorption Easy on the Stomach Sugar Free Relaxation & Sleep Support Stress Relief & Mood Balance Heart, Nerve & Bone Health Flavor With Other Natural Flavors Dietary Supplement Relax, Rest & Recharge Ultimate Magnesium® offers a highly absorbable form that's gentle on your stomach while delivering maximum benefits. Every serving provides 300mg of magnesium glycinate, the gold-standard form to support relaxation and sleep, stress relief, and mood balance. It's also a great way to strengthen your heart, nerves, and bone health. Refreshing and sugar free, adding Ultimate Magnesium to your daily ritual is a delicious and convenient way to help you relax, rest, and recharge after a long day. We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it. Let Force Factor help Unleash Your Potential®.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.65"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-66216",
+  "gtin12": "810126662163",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "300 mg Magnesium Glycinate",
+    "Chelated for Superior Absorption",
+    "Easy on the Stomach",
+    "Sugar Free",
+    "Relaxation & Sleep Support",
+    "Stress Relief & Mood Balance",
+    "Heart, Nerve & Bone Health",
+    "Flavor With Other Natural Flavors",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Relax, Rest & Recharge",
+    "Ultimate Magnesium® offers a highly absorbable form that's gentle on your stomach while delivering maximum benefits. Every serving provides 300mg of magnesium glycinate, the gold-standard form to support relaxation and sleep, stress relief, and mood balance. It's also a great way to strengthen your heart, nerves, and bone health. Refreshing and sugar free, adding Ultimate Magnesium to your daily ritual is a delicious and convenient way to help you relax, rest, and recharge after a long day.",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it. Let Force Factor help Unleash Your Potential®."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 scoop into at least 8 oz. of water. Enjoy once daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Citric acid, natural flavor, silicon dioxide, calcium silicate, steviol glycosides (reb a), malic acid, steviol glycosides (reb m).",
+    "Allergen Warning: Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the US from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Precautions: Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-66216"
+  },
+  {
+   "label": "UPC",
+   "value": "810126662163"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 9.3 x 9.3 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (4.1 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (as Magnesium Glycinate)",
+   "300 mg",
+   "71%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿854.09",
+  "฿854.09",
+  "฿28.47/‏serving",
+  "{0}% off code: {1}",
+  "฿854.09",
+  "Save 0% in cart",
+  "฿28.47/‏serving",
+  "฿854.09",
+  "(0% off)",
+  "฿854.09",
+  "฿28.47/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66216/s/14.jpg"
+ ]
+}

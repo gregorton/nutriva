@@ -1,0 +1,224 @@
+{
+ "pid": "154023",
+ "slug": "vitamatic-magnesium-aspartate-powder-8-8-oz-250-g",
+ "scrapedAt": "2026-08-25T17:40:15.913Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitamatic-magnesium-aspartate-powder-8-8-oz-250-g.jpg",
+  "/products/iherb/vitamatic-magnesium-aspartate-powder-8-8-oz-250-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-magnesium-aspartate-powder-8-8-oz-250-g/154023",
+ "pageTitle": "Vitamatic, Magnesium Aspartate Powder, 8.8 oz (250 g)",
+ "h1": "Vitamatic, Magnesium Aspartate Powder, 8.8 oz (250 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "154023",
+  "name": "Vitamatic, Magnesium Aspartate Powder, 8.8 oz (250 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/g/2.jpg",
+  "mpn": "VMC-47499",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 10
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.58",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "580.36",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Most Bioavailable Form GMP Quality Assured 1,000 mg Per Serving Dietary Supplement Extra strength magnesium supplement (magnesium aspartate 1000 mg per serving providing 300mg of elemental magnesium).",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.45x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47499",
+  "gtin12": "810078474999",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Most Bioavailable Form",
+    "GMP Quality Assured",
+    "1,000 mg Per Serving",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Extra strength magnesium supplement (magnesium aspartate 1000 mg per serving providing 300mg of elemental magnesium)."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 1000 mg with 8 oz glass of water. Recommended on empty stomach or 1-2 hour before or after a meal or as directed by your qualified healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "Free of sugar, starch, yeast, soy, wheat, egg, artificial colors, flavors, and preservative."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.26 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47499"
+  },
+  {
+   "label": "UPC",
+   "value": "810078474999"
+  },
+  {
+   "label": "Package quantity",
+   "value": "250 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.2 x 11.3 x 6.1 cm, 0.26 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (1,000 mg)"
+  ],
+  [
+   "Servings Per Container: 250"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (from 1,000 mg of Magnesium Aspartate)",
+   "300 mg",
+   "70%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "250"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿580.36",
+  "฿580.36",
+  "฿2.32/‏serving",
+  "{0}% off code: {1}",
+  "฿580.36",
+  "Save 0% in cart",
+  "฿2.32/‏serving",
+  "฿580.36",
+  "(0% off)",
+  "฿580.36",
+  "฿2.32/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47499/s/3.jpg"
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "pid": "142432",
+ "slug": "nature-s-craft-kids-vitamin-d3-k2-organic-drops-60-ml",
+ "scrapedAt": "2026-08-25T17:19:06.623Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-kids-vitamin-d3-k2-organic-drops-60-ml.jpg",
+  "/products/iherb/nature-s-craft-kids-vitamin-d3-k2-organic-drops-60-ml-2.jpg",
+  "/products/iherb/nature-s-craft-kids-vitamin-d3-k2-organic-drops-60-ml-3.jpg",
+  "/products/iherb/nature-s-craft-kids-vitamin-d3-k2-organic-drops-60-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-kids-vitamin-d3-k2-organic-drops-60-ml/142432",
+ "pageTitle": "Nature's Craft, Kids Vitamin D3 + K2 Organic Drops, 60 ml",
+ "h1": "Nature's Craft, Kids Vitamin D3 + K2 Organic Drops, 60 ml",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142432",
+  "name": "Nature's Craft, Kids Vitamin D3 + K2 Organic Drops, 60 ml",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/g/36.jpg",
+  "mpn": "NCA-63928",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 449
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.28",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "639.80",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "USDA Organic Immune Support Daily Vitamins Dietary Supplement USDA Organic Sourced From A GMP Certified Facility 3rd Party Lab Verified Vegan Gluten Free Halal Certified Organic by Organic Certifiers Finding the right supplements that won’t upset little tummies but still give them the vitamins they need can be tough. We’ve made it easier than ever to give your kids the best start in life with our liquid vit d3 drops. These vitamin d supplements can be administered in specific doses and are perfect for kids of all ages, from 0 to 4+ years. Similarly, these infant vitamin d drops are flavorless and can be diluted in juice to make taking them a fuss-free experience. The importance of vitamin d for kids and k2 vitamin supplement mk-7 lies in improving your little one’s ability to absorb calcium and ensuring it reaches the bone mass. The result is a healthier and stronger heart and bones. Adding baby vitamin d to your kids daily vitamin intake offers them a world of benefits that allow them to grow up big and strong.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.7x1.65"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-63928",
+  "gtin12": "850050639282",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/g/36.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "USDA Organic",
+    "Immune Support",
+    "Daily Vitamins",
+    "Dietary Supplement",
+    "USDA Organic",
+    "Sourced From A GMP Certified Facility",
+    "3rd Party Lab Verified",
+    "Vegan",
+    "Gluten Free",
+    "Halal",
+    "Certified Organic by Organic Certifiers"
+   ],
+   "paragraphs": [
+    "Finding the right supplements that won’t upset little tummies but still give them the vitamins they need can be tough. We’ve made it easier than ever to give your kids the best start in life with our liquid vit d3 drops. These vitamin d supplements can be administered in specific doses and are perfect for kids of all ages, from 0 to 4+ years. Similarly, these infant vitamin d drops are flavorless and can be diluted in juice to make taking them a fuss-free experience. The importance of vitamin d for kids and k2 vitamin supplement mk-7 lies in improving your little one’s ability to absorb calcium and ensuring it reaches the bone mass. The result is a healthier and stronger heart and bones. Adding baby vitamin d to your kids daily vitamin intake offers them a world of benefits that allow them to grow up big and strong."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 17 drops (quarter of a dropper) once daily, as needed, or as directed by a healthcare professional. Can be taken directly or added to juice."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic mct oil and mixed tocopherols."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Not intended for pregnant or nursing mothers. Individuals taking blood thinners, any other medications, or have any known medical conditions should consult a physician before using any herbal supplements. Discontinue use and consult your doctor if any adverse reactions occur. Not intended to treat obesity; consult a physician before beginning any weight loss program.",
+    "Keep out of reach of children. Do not use if safety out of seal is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-63928"
+  },
+  {
+   "label": "UPC",
+   "value": "850050639282"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.7 x 4.3 x 4.2 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 0.5mL (Approx. 17 drops)"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving 0.2 mL (about 6 drops)",
+   "%Daily Value 0-12 mo",
+   "Amount Per Serving 0.3 mL (about 10 drops)",
+   "%Daily Value 1-3yrs",
+   "Amount Per Serving 0.5 mL (about 17 drops)",
+   "%Daily Value 4+ yrs"
+  ],
+  [
+   "Vitamin D (from Lichen)",
+   "10 mcg",
+   "100%",
+   "15 mcg",
+   "100%",
+   "25 mcg",
+   "125%"
+  ],
+  [
+   "Vitamin K2 (as MK-7 from Natto)",
+   "8 mcg",
+   "**",
+   "12 mcg",
+   "**",
+   "20 mcg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) is not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving 0.2 mL (about 6 drops)\t%Daily Value",
+  "0-12 mo\tAmount Per Serving 0.3 mL (about 10 drops)\t%Daily Value",
+  "1-3yrs\tAmount Per Serving 0.5 mL (about 17 drops)\t%Daily Value",
+  "**Daily Value (DV) is not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "17 drops"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Halal",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿639.80",
+  "฿639.80",
+  "฿5.33/‏serving",
+  "{0}% off code: {1}",
+  "฿639.80",
+  "Save 0% in cart",
+  "฿5.33/‏serving",
+  "฿639.80",
+  "(0% off)",
+  "฿639.80",
+  "฿5.33/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/g/36.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/k/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/g/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca63928/s/49.jpg"
+ ]
+}

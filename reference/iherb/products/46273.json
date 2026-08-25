@@ -1,0 +1,382 @@
+{
+ "pid": "46273",
+ "slug": "nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemo",
+ "scrapedAt": "2026-08-25T17:38:56.119Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemo.jpg",
+  "/products/iherb/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemo-2.jpg",
+  "/products/iherb/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemo-3.jpg",
+  "/products/iherb/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemo-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemon-200-gummy-berries/46273",
+ "pageTitle": "Nordic Naturals, Nordic Berries, Multivitamin Gummies, Ages 3+, Orange Lemon, 200 Gummy Berries",
+ "h1": "Nordic Naturals, Nordic Berries, Multivitamin Gummies, Ages 3+, Orange Lemon, 200 Gummy Berries",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "46273",
+  "name": "Nordic Naturals, Nordic Berries, Multivitamin Gummies, Ages 3+, Orange Lemon, 200 Gummy Berries",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/g/67.jpg",
+  "mpn": "NOR-30124",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 896
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nordic Naturals",
+   "url": "http://www.nordicnaturals.com/",
+   "identifier": "NOR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.55",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1442.64",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Certified Vegetarian 3rd Party Purity Tested Igen™ Non-GMO Tested Nordic Berries Getting children to eat a healthy, well-balanced diet-or even take a daily multi-can be a challenge for many parents. That's why we've developed a line of gummy vitamins for kids that help make simple acts of nutrition a little easier (and tastier). Rich in 10 vitamins and 2 minerals, including antioxidants vitamin C and beta-carotene, these delicious sweet-and-sour citrus multivitamin gummies support good nutrition and wellness as part of a healthy diet. Each serving of these tasty gummy berries provides children with an excellent source of twelve essential vitamins and minerals, including zinc and vitamins A, C, D3 and E, to help meet the increased nutrient demands of development during the early years. Ideal companion to any of our children's omega-3 products Nutrition your kids will love!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.75x3.75"
+  },
+  "isRelatedTo": null,
+  "sku": "NOR-30124",
+  "gtin12": "768990301247",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/g/67.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Certified Vegetarian",
+    "3rd Party Purity Tested",
+    "Igen™ Non-GMO Tested",
+    "Ideal companion to any of our children's omega-3 products",
+    "Nutrition your kids will love!"
+   ],
+   "paragraphs": [
+    "Nordic Berries",
+    "Getting children to eat a healthy, well-balanced diet-or even take a daily multi-can be a challenge for many parents. That's why we've developed a line of gummy vitamins for kids that help make simple acts of nutrition a little easier (and tastier).",
+    "Rich in 10 vitamins and 2 minerals, including antioxidants vitamin C and beta-carotene, these delicious sweet-and-sour citrus multivitamin gummies support good nutrition and wellness as part of a healthy diet. Each serving of these tasty gummy berries provides children with an excellent source of twelve essential vitamins and minerals, including zinc and vitamins A, C, D3 and E, to help meet the increased nutrient demands of development during the early years."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For 3+ years, four gummy berries daily, with. food, or as directed by your health care professional. Please ensure child chews each gummy berry thoroughly."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic cane sugar, organic tapioca syrup, purified water, pectin, natural flavor, citric acid, fumaric acid, and sodium citrate.",
+    "No gluten, milk derivatives, or synthetic dyes.",
+    "This product and its ingredients do not contain common GE genes or proteins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place, away from sunlight. Do not take if tamper-evident seal is broken or missing. Keep out of reach of children.",
+    "Consult with your physician before taking this product if your child has a known medical condition, or is taking medications"
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2012"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.7 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOR-30124"
+  },
+  {
+   "label": "UPC",
+   "value": "768990301247"
+  },
+  {
+   "label": "Package quantity",
+   "value": "200 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.7 x 9.5 x 9.5 cm, 0.7 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Nordic Berries"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving:",
+   "%Daily Value 3 yrs*¹",
+   "%Daily Value 4+yrs**²"
+  ],
+  [
+   "Calories",
+   "40",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "10 g",
+   "6%",
+   "4%"
+  ],
+  [
+   "Total Sugars",
+   "8 g",
+   "†",
+   "†"
+  ],
+  [
+   "Includes Added Sugars",
+   "8 g",
+   "34%",
+   "17%"
+  ],
+  [
+   "Vitamin A (as beta-carotene)",
+   "300 mcg RAE",
+   "100%",
+   "33%"
+  ],
+  [
+   "Vitamin C (as L-ascorbic acid)",
+   "36 mg",
+   "240%",
+   "40%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "15 mcg (600 IU)",
+   "100%",
+   "75%"
+  ],
+  [
+   "Vitamin E (as RRR-alpha tocopheryl)",
+   "6 mg",
+   "100%",
+   "40%"
+  ],
+  [
+   "Thiamin (as thiamin mononitrate) (Vitamin B1)",
+   "0.6 mg",
+   "120%",
+   "50%"
+  ],
+  [
+   "Riboflavin (Vitamin B2)",
+   "0.85 mg",
+   "170%",
+   "65%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "0.5 mg",
+   "100%",
+   "29%"
+  ],
+  [
+   "Folic acid",
+   "100 mcg DFE",
+   "67%",
+   "25%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "0.9 mcg",
+   "100%",
+   "38%"
+  ],
+  [
+   "Biotin",
+   "8 mcg",
+   "100%",
+   "27%"
+  ],
+  [
+   "Pantothenic acid (as calcium D-pantothenate)",
+   "0.5 mg",
+   "25%",
+   "10%"
+  ],
+  [
+   "Choline (as choline bitartrate)",
+   "10 mg",
+   "5%",
+   "2%"
+  ],
+  [
+   "Calcium (as calcium citrate)",
+   "15 mg",
+   "2%",
+   "1%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "45 mcg",
+   "50%",
+   "30%"
+  ],
+  [
+   "Magnesium (as magnesium citrate)",
+   "3 mg",
+   "4%",
+   "<1%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "3 mg",
+   "100%",
+   "27%"
+  ],
+  [
+   "Sodium",
+   "15 mg",
+   "1%",
+   "<1%"
+  ],
+  [
+   "Inositol",
+   "10 mcg",
+   "†",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 1,000 calorie diet. ¹Daily Value (DV) for children 3 years of age.**Percent Daily Values are based on a 2,000 calorie diet. ²Daily Value (DV) for children 4+ years.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving:\t%Daily Value 3 yrs*¹\t%Daily Value 4+yrs**²",
+  "*Percent Daily Values are based on a 1,000 calorie diet. ¹Daily Value (DV) for children 3 years of age.",
+  "**Percent Daily Values are based on a 2,000 calorie diet. ²Daily Value (DV) for children 4+ years.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "12881",
+   "url": "https://th.iherb.com/pr/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemon-120-gummy-berries/12881",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "200 count",
+   "pid": "46273",
+   "url": "https://th.iherb.com/pr/nordic-naturals-nordic-berries-multivitamin-gummies-ages-3-orange-lemon-200-gummy-berries/46273",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,442.64",
+  "฿1,442.64",
+  "฿28.85/‏serving",
+  "{0}% off code: {1}",
+  "฿1,442.64",
+  "Save 0% in cart",
+  "฿28.85/‏serving",
+  "฿1,442.64",
+  "(0% off)",
+  "฿1,442.64",
+  "฿28.85/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/g/67.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/k/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/g/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/s/75.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor30124/b/67.jpg"
+ ]
+}

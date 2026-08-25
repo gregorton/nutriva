@@ -1,0 +1,245 @@
+{
+ "pid": "48458",
+ "slug": "california-gold-nutrition-sport-tribulus-1-000-mg-60-tablets",
+ "scrapedAt": "2026-08-25T17:45:20.339Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-sport-tribulus-1-000-mg-60-tablets.jpg",
+  "/products/iherb/california-gold-nutrition-sport-tribulus-1-000-mg-60-tablets-2.jpg",
+  "/products/iherb/california-gold-nutrition-sport-tribulus-1-000-mg-60-tablets-3.jpg",
+  "/products/iherb/california-gold-nutrition-sport-tribulus-1-000-mg-60-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-sport-tribulus-1-000-mg-60-tablets/48458",
+ "pageTitle": "California Gold Nutrition, Sport, Tribulus, 1,000 mg, 60 Tablets",
+ "h1": "California Gold Nutrition, Sport, Tribulus, 1,000 mg, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "48458",
+  "name": "California Gold Nutrition, Sport, Tribulus, 1,000 mg, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/g/128.jpg",
+  "mpn": "CGN-00663",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 2961
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "245.46",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "327.28",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Sport Tribulus Standardized Tribulus terrestris Extract, Minimum 45% Saponins Supports Healthy Hormonal Balance and Fertility* Supports Athletic and Sexual Performance* Suitable for Vegetarians and Vegans Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee For many years Tribulus terrestris , a plant commonly known as the puncture vine, has been used in traditional medicine of various cultures, as it is thought to provide benefits to both men and women. California Gold Nutrition Sport Tribulus contains an extract from this plant, which may help support healthy hormonal balance and fertility.* Tribulus Benefits When taken as a daily supplement, tribulus is thought to provide numerous potential benefits. It may help support healthy levels of hormones, including testosterone, DHEA, and estrogen.* This balance of hormones may further support fertility and sexual function in both men and women.* Tribulus is also a popular supplement for athletes, as it is thought to support athletic performance.* California Gold Nutrition Sport Tribulus contains a standardized Tribulus terrestris extract, with minimum 45% saponins. When taken as directed, this provides a 2-month supply. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-00663",
+  "gtin12": "898220006632",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/g/128.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Tribulus"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Sport Tribulus",
+    "Standardized Tribulus terrestris Extract, Minimum 45% Saponins",
+    "Supports Healthy Hormonal Balance and Fertility*",
+    "Supports Athletic and Sexual Performance*",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "For many years Tribulus terrestris, a plant commonly known as the puncture vine, has been used in traditional medicine of various cultures, as it is thought to provide benefits to both men and women. California Gold Nutrition Sport Tribulus contains an extract from this plant, which may help support healthy hormonal balance and fertility.*",
+    "Tribulus BenefitsWhen taken as a daily supplement, tribulus is thought to provide numerous potential benefits. It may help support healthy levels of hormones, including testosterone, DHEA, and estrogen.* This balance of hormones may further support fertility and sexual function in both men and women.* Tribulus is also a popular supplement for athletes, as it is thought to support athletic performance.*",
+    "California Gold Nutrition Sport Tribulus contains a standardized Tribulus terrestris extract, with minimum 45% saponins. When taken as directed, this provides a 2-month supply.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2013"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-00663"
+  },
+  {
+   "label": "UPC",
+   "value": "898220006632"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.2 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Tribulus Extract (Tribulus terrestris) (whole herb/fruit) (std. to 45% Saponins)",
+   "1,000 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿327.28",
+  "฿327.28",
+  "฿5.45/‏serving",
+  "{0}% off code: {1}",
+  "฿327.28",
+  "Save 25% in cart",
+  "฿5.45/‏serving",
+  "฿245.46",
+  "(25% off)",
+  "฿327.28",
+  "฿4.09/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/g/128.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/k/128.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/g/128.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/s/128.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/s/133.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/s/136.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/s/158.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/s/138.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00663/s/139.jpg"
+ ]
+}

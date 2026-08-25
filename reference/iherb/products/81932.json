@@ -1,0 +1,264 @@
+{
+ "pid": "81932",
+ "slug": "orgain-collagen-peptides-unflavored-1-lb-454-g",
+ "scrapedAt": "2026-08-25T17:37:51.036Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/orgain-collagen-peptides-unflavored-1-lb-454-g.jpg",
+  "/products/iherb/orgain-collagen-peptides-unflavored-1-lb-454-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/orgain-collagen-peptides-unflavored-1-lb-454-g/81932",
+ "pageTitle": "Orgain, Collagen Peptides, Unflavored, 1 lb (454 g)",
+ "h1": "Orgain, Collagen Peptides, Unflavored, 1 lb (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "81932",
+  "name": "Orgain, Collagen Peptides, Unflavored, 1 lb (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/g/50.jpg",
+  "mpn": "OGA-00727",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 374
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Orgain",
+   "url": "http://shop.orgain.com/",
+   "identifier": "OGA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1290.23",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass-Fed & Pasture-Raised Hair, Skin, Nail & Joint Support 20 g Collagen Peptides* Dietary Supplement Certified B Corporation® Igen™ Non-GMO Tested Good, Clean Nutrition™ Our Commitment To Clean Nutrition Organ's relentless pursuit of better nutrition that doesn't compromise on taste is based on my belief that real foods can make a real difference. That passion fuels our mission to help people live vibrant lives through good, clean nutrition. In Good Health, Andrew Abraham, M.D., Founder, Cancer Survivor & Food Entrepreneur Cleaner Ingredients Powders Made From Type I & III Grass-Fed & Pasture-Raised Collagen Peptides Higher Standards No Dairy Ingredients No Soy Ingredients Gluten Free No Artificial Preservatives, Flavors, or Colors Lookin' Good. Feelin' Good. When it comes to goodness, collagen delivers. These magical grass-fed collagen peptides support strong nails, healthy joints, and radiant skin an hair. Plus, with no artificial preservatives, additives, allergens, gluten, dairy, wheat, or eggs, you can bet it's clean. Put some pep in your step with our good, clean collagen peptides. The scoop: 20 g grass-fed collagen peptides* that dissolve easily. *Per serving",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.95x4.95"
+  },
+  "isRelatedTo": null,
+  "sku": "OGA-00727",
+  "gtin12": "851770007276",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/g/50.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass-Fed & Pasture-Raised",
+    "Hair, Skin, Nail & Joint Support",
+    "20 g Collagen Peptides*",
+    "Dietary Supplement",
+    "Certified B Corporation®",
+    "Igen™ Non-GMO Tested",
+    "Good, Clean Nutrition™",
+    "Type I & III",
+    "Grass-Fed & Pasture-Raised Collagen Peptides",
+    "No Dairy Ingredients",
+    "No Soy Ingredients",
+    "Gluten Free",
+    "No Artificial Preservatives, Flavors, or Colors"
+   ],
+   "paragraphs": [
+    "Our Commitment To Clean Nutrition",
+    "Organ's relentless pursuit of better nutrition that doesn't compromise on taste is based on my belief that real foods can make a real difference. That passion fuels our mission to help people live vibrant lives through good, clean nutrition.",
+    "In Good Health,",
+    "Andrew Abraham, M.D., Founder, Cancer Survivor & Food Entrepreneur",
+    "Cleaner Ingredients",
+    "Powders Made From",
+    "Higher Standards",
+    "Lookin' Good. Feelin' Good.",
+    "When it comes to goodness, collagen delivers. These magical grass-fed collagen peptides support strong nails, healthy joints, and radiant skin an hair. Plus, with no artificial preservatives, additives, allergens, gluten, dairy, wheat, or eggs, you can bet it's clean. Put some pep in your step with our good, clean collagen peptides.",
+    "The scoop: 20 g grass-fed collagen peptides* that dissolve easily.",
+    "*Per serving"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Combine 1-2 scoops with any 8-10oz beverage - hot or cold (water, coffee, oat, milk, smoothie). Stir or blend well. Enjoy mixed into foods or baked goods too!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Collagen peptides (bovine).",
+    "This product does not contain common GE genes or proteins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in cool, dry place.",
+    "If you are pregnant, nursing or have a medical condition, consult your physician before use.",
+    "Contents sold by weight not volume. Settling will occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.57 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "OGA-00727"
+  },
+  {
+   "label": "UPC",
+   "value": "851770007276"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.3 x 12.6 x 12.6 cm, 0.57 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Scoop (20 g)"
+  ],
+  [
+   "Servings Per Container: About 22"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Sodium",
+   "100 mg",
+   "4%*"
+  ],
+  [
+   "Protein",
+   "18 g",
+   ""
+  ],
+  [
+   "Collagen Peptides",
+   "20 g",
+   "+"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.+Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "+Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "22"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,290.23",
+  "฿1,290.23",
+  "฿58.65/‏serving",
+  "{0}% off code: {1}",
+  "฿1,290.23",
+  "Save 0% in cart",
+  "฿58.65/‏serving",
+  "฿1,290.23",
+  "(0% off)",
+  "฿1,290.23",
+  "฿58.65/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/g/50.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/k/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/g/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/oga/oga00727/s/56.jpg"
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "pid": "124289",
+ "slug": "idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-6",
+ "scrapedAt": "2026-08-25T17:47:55.673Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-6.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-6-2.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-6-3.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-6-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-68-fl-oz-20-ml-each/124289",
+ "pageTitle": "Idealove, Superfood Skin Savior, Lime All Yours, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+ "h1": "Idealove, Superfood Skin Savior, Lime All Yours, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124289",
+  "name": "Idealove, Superfood Skin Savior, Lime All Yours, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/g/46.jpg",
+  "mpn": "IDE-02314",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 7928
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Idealove",
+   "url": "https://www.iherb.com/c/idealove?rank=0",
+   "identifier": "IDE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.32",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "108.34",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "273.42",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Idealove ® Superfood Skin Savior, Lime All Yours Purifying Lime Clearing Tea Tree Oil, Ginger, Licorice, and Grapefruit Lyocell Sheet Material to Maximize Adhesion and Delivery of Essence Made in Korea Korean skincare designed to bring out the light in you!... Idealove ® . Treat yourself to an at-home spa day with Idealove® Superfood Skin Savior, Lime All Yours . This superfood-inspired sheet mask features a refreshing lime essence for a revitalizing self-care experience. Made with silky-smooth pulp fabric, it offers a luxurious feel and allows the essence to envelop your skin, leaving it with a radiant finish. This Superfood Skin Savior mask is infused with lime extract and brings a zesty, uplifting touch to your skincare ritual. Enjoy the fresh scent and soothing texture as part of your glow-getting routine.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.2x0.9"
+  },
+  "isRelatedTo": null,
+  "sku": "IDE-02314",
+  "gtin12": "898220023141",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Beauty Face Masks",
+  "Sheet Masks"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Idealove® Superfood Skin Savior, Lime All Yours",
+    "Purifying Lime",
+    "Clearing Tea Tree Oil, Ginger, Licorice, and Grapefruit",
+    "Lyocell Sheet Material to Maximize Adhesion and Delivery of Essence",
+    "Made in Korea"
+   ],
+   "paragraphs": [
+    "Korean skincare designed to bring out the light in you!...Idealove®.",
+    "Treat yourself to an at-home spa day with Idealove® Superfood Skin Savior, Lime All Yours. This superfood-inspired sheet mask features a refreshing lime essence for a revitalizing self-care experience. Made with silky-smooth pulp fabric, it offers a luxurious feel and allows the essence to envelop your skin, leaving it with a radiant finish.",
+    "This Superfood Skin Savior mask is infused with lime extract and brings a zesty, uplifting touch to your skincare ritual. Enjoy the fresh scent and soothing texture as part of your glow-getting routine."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "How to Use:"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water, Glycerin, Dipropylene Glycol, Butylene Glycol, 1,2-Hexanediol, Hydroxyethylcellulose, PEG-60 Hydrogenated Castor Oil, Chlorphenesin, Trehalose, Arginine, Carbomer, Allantoin, Coptis Chinensis Root Extract, Camellia Sinensis Leaf Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schisandra Chinensis Fruit Extract, Zingiber Officinale (Ginger) Root Extract, Citrus Grandis (Grapefruit) Seed Extract, Disodium EDTA, Citrus Limon (Lemon) Peel Oil, Dipotassium Glycyrrhizate, Panthenol, Acorus Calamus Root Extract, Citrus Paradisi (Grapefruit) Peel Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Pelargonium Graveolens Flower Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Caprylyl Glycol, Sodium Hyaluronate, Perilla Ocymoides Leaf Extract, Citrus Aurantifolia (Lime) Fruit Extract, Polysorbate 60, Disodium Phosphate, Sodium Phosphate, Limonene."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid contact with eyes. Keep out of reach of children. Discontinue use if irritation occurs.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "IDE-02314"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023141"
+  },
+  {
+   "label": "Package quantity",
+   "value": "5 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.9 x 10.7 x 2.3 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "5 count"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Brightening & dark spots"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "5 count",
+   "pid": "124289",
+   "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-lime-all-yours-5-beauty-sheet-masks-0-68-fl-oz-20-ml-each/124289",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "7 count",
+   "pid": "124288",
+   "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-beauty-masks-variety-pack-7-sheets-0-68-fl-oz-20-ml-each/124288",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#14 in",
+   "category": "K-Beauty Sheet Masks",
+   "href": "/c/k-beauty-sheet-masks?sr=2"
+  },
+  {
+   "rank": "#16 in",
+   "category": "Sheet Masks",
+   "href": "/c/sheet-masks1?sr=2"
+  },
+  {
+   "rank": "#29 in",
+   "category": "Beauty Face Masks",
+   "href": "/c/beauty-face-masks?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿273.42",
+  "฿273.42",
+  "฿54.68/‏count",
+  "{0}% off code: {1}",
+  "฿273.42",
+  "Save 60% in cart",
+  "฿54.68/‏count",
+  "฿108.34",
+  "(60% off)",
+  "฿273.42",
+  "฿21.67/‏count",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/s/4.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02314/b/46.jpg"
+ ]
+}

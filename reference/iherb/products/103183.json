@@ -1,0 +1,288 @@
+{
+ "pid": "103183",
+ "slug": "force-factor-somnapure-drug-free-sleep-aid-60-tablets",
+ "scrapedAt": "2026-08-25T17:19:31.394Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "200+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-somnapure-drug-free-sleep-aid-60-tablets.jpg",
+  "/products/iherb/force-factor-somnapure-drug-free-sleep-aid-60-tablets-2.jpg",
+  "/products/iherb/force-factor-somnapure-drug-free-sleep-aid-60-tablets-3.jpg",
+  "/products/iherb/force-factor-somnapure-drug-free-sleep-aid-60-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-somnapure-drug-free-sleep-aid-60-tablets/103183",
+ "pageTitle": "Force Factor, Somnapure®, Drug-Free Sleep Aid, 60 Tablets",
+ "h1": "Force Factor, Somnapure®, Drug-Free Sleep Aid, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103183",
+  "name": "Force Factor, Somnapure®, Drug-Free Sleep Aid, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/g/61.jpg",
+  "mpn": "FOA-00265",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 1076
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "524.96",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Melatonin + Natural Botanicals Fall Asleep Faster Stay Asleep Longer Wake Up Feeling Refreshed 3 mg Melatonin 100% Drug-Free Non-Habit-Forming Dietary Supplement Trouble Sleeping? Many of us struggle to get the quality sleep we deserve. Somnapure® is the safe and effective solution, trusted by countless men and women for more than a decade. This premium formula contains only non-habit-forming ingredients that won't leave you feeling groggy in the morning. Let Somnapure remind you how it feels to experience a full, rejuvenating night's sleep so you can fully Unleash Your Potential® Ingredients You Can Trust : No Artificial Colors No Artificial Flavors No Gelatin No Sugar No Artificial Sweeteners No Preservatives",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-00265",
+  "gtin12": "852496002651",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/g/61.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Melatonin + Natural Botanicals",
+    "Fall Asleep Faster",
+    "Stay Asleep Longer",
+    "Wake Up Feeling Refreshed",
+    "3 mg Melatonin",
+    "100% Drug-Free",
+    "Non-Habit-Forming",
+    "Dietary Supplement",
+    "No Artificial Colors",
+    "No Artificial Flavors",
+    "No Gelatin",
+    "No Sugar",
+    "No Artificial Sweeteners",
+    "No Preservatives"
+   ],
+   "paragraphs": [
+    "Trouble Sleeping?",
+    "Many of us struggle to get the quality sleep we deserve. Somnapure® is the safe and effective solution, trusted by countless men and women for more than a decade. This premium formula contains only non-habit-forming ingredients that won't leave you feeling groggy in the morning.",
+    "Let Somnapure remind you how it feels to experience a full, rejuvenating night's sleep so you can fully Unleash Your Potential®",
+    "Ingredients You Can Trust:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 tablets 30-60 minutes before bed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, croscarmellose sodium, stearic acid, vegetable magnesium stearate, silicon dioxide, hypromellose, glycerin.",
+    "Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adult use only.",
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Do not exceed two tablets in any 24-hour period. Do not drive, operate machinery, or consume alcohol while using Somnapure®."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-00265"
+  },
+  {
+   "label": "UPC",
+   "value": "852496002651"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.4 x 5.1 x 5.1 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calcium (as Dicalcium Phosphate)",
+   "88 mg",
+   "7%"
+  ],
+  [
+   "Phosphorus (as Dicalcium Phosphate)",
+   "68 mg",
+   "5%"
+  ],
+  [
+   "Valerian (Valeriana officinalis) Extract (root)",
+   "500 mg",
+   "*"
+  ],
+  [
+   "Lemon Balm (Melissa officinalis) Extract (leaf)",
+   "300 mg",
+   "*"
+  ],
+  [
+   "L-Theanine",
+   "200 mg",
+   "*"
+  ],
+  [
+   "Hops (humulus lupulus) Extract (aerial parts)",
+   "120 mg",
+   "*"
+  ],
+  [
+   "Chamomile (Matricaria chamomilla) Extract (aerial parts)",
+   "50 mg",
+   "*"
+  ],
+  [
+   "Passion Flower (Passiflora incarnata) Extract (aerial parts)",
+   "50 mg",
+   "*"
+  ],
+  [
+   "Melatonin",
+   "3 mg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿524.96",
+  "฿524.96",
+  "฿17.50/‏serving",
+  "{0}% off code: {1}",
+  "฿524.96",
+  "Save 0% in cart",
+  "฿17.50/‏serving",
+  "฿524.96",
+  "(0% off)",
+  "฿524.96",
+  "฿17.50/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/g/61.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/k/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/g/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa00265/s/50.jpg"
+ ]
+}

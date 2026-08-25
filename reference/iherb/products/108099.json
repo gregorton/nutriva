@@ -1,0 +1,312 @@
+{
+ "pid": "108099",
+ "slug": "airborne-immune-support-supplement-very-berry-3-tubes-10-effervescent",
+ "scrapedAt": "2026-08-25T17:26:13.003Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/airborne-immune-support-supplement-very-berry-3-tubes-10-effervescent.jpg",
+  "/products/iherb/airborne-immune-support-supplement-very-berry-3-tubes-10-effervescent-2.jpg",
+  "/products/iherb/airborne-immune-support-supplement-very-berry-3-tubes-10-effervescent-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-very-berry-3-tubes-10-effervescent-tablets-each/108099",
+ "pageTitle": "AirBorne, Immune Support Supplement, Very Berry, 3 Tubes, 10 Effervescent Tablets Each",
+ "h1": "AirBorne, Immune Support Supplement, Very Berry, 3 Tubes, 10 Effervescent Tablets Each",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "108099",
+  "name": "AirBorne, Immune Support Supplement, Very Berry, 3 Tubes, 10 Effervescent Tablets Each",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/g/63.jpg",
+  "mpn": "AIB-96379",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 708
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "AirBorne",
+   "url": "http://airbornehealth.com/",
+   "identifier": "AIB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.39",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "897.03",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Artificial Flavor More Immune Support Ingredients‡ 7 Key Nutrients for Immune Support Dietary Supplement Original Herbal Blend Including Echinacea & Ginger Gluten Free 1 Effervescent Tablet = 7 Immune Supporting Ingredients 1,000 mg of Vitamin C Now With 38 mcg (1,500 IU) of Vitamin D Now With 100% Daily Value of Zinc Excellent Source of Vitamin A, Vitamin E, Selenium & Manganese ‡Now includes Vitamin D and more Zinc than our Original formula",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.9x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "AIB-96379",
+  "gtin12": "647865963790",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/g/63.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Artificial Flavor",
+    "More Immune Support Ingredients‡",
+    "7 Key Nutrients for Immune Support",
+    "Dietary Supplement",
+    "Original Herbal Blend Including Echinacea & Ginger",
+    "Gluten Free",
+    "1,000 mg of Vitamin C",
+    "Now With 38 mcg (1,500 IU) of Vitamin D",
+    "Now With 100% Daily Value of Zinc",
+    "Excellent Source of Vitamin A, Vitamin E, Selenium & Manganese"
+   ],
+   "paragraphs": [
+    "1 Effervescent Tablet = 7 Immune Supporting Ingredients",
+    "‡Now includes Vitamin D and more Zinc than our Original formula"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults and Children 9 years of age and older: Drop one (1) tablet in 4-6 oz of water, let dissolve and drink. Not for younger children."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sodium bicarbonate, sorbitol, citric acid, potassium bicarbonate, artificial flavor, polyethylene glycol, beet juice concentrate, silicon dioxide, acesulfame potassium, sucralose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not take if pregnant, breastfeeding, on medication, or with a known medical condition unless you have consulted a physician. Always consult your pediatrician before giving your child dietary supplements.",
+    "Keep out of reach of children. Sealed with a tamper evident cap for your protection.",
+    "Do not use if cap is broken or missing. Store in a cool, dry place. Color may darken over time. This does not alter the potency of the product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AIB-96379"
+  },
+  {
+   "label": "UPC",
+   "value": "647865963790"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.4 x 9.9 x 4.8 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*"
+  ],
+  [
+   "Vitamin A (as retinyl acetate)",
+   "180 mcg",
+   "20%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "1000 mg",
+   "1111%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "38 mcg (1,500 IU)",
+   "190%"
+  ],
+  [
+   "Vitamin E (as dl-alpha tocopheryl acetate)",
+   "3 mg",
+   "20%"
+  ],
+  [
+   "Zinc (as zinc sulfate)",
+   "11 mg",
+   "100%"
+  ],
+  [
+   "Selenium (as selenium amino acid chelate)",
+   "11 mcg",
+   "20%"
+  ],
+  [
+   "Manganese (as manganese gluconate)",
+   "0.46 mg",
+   "20%"
+  ],
+  [
+   "Sodium",
+   "230 mg",
+   "10%"
+  ],
+  [
+   "Potassium",
+   "85 mg",
+   "2%"
+  ],
+  [
+   "Proprietary Herbal BlendLonicera japonica (flower), Forsythia suspensa (fruit), Schizonepeta tenuifolia (aerial), Ginger (Zingiber officinale [root]), Vitex trifolia (fruit), Isatis tinctoria (root), Echinacea purpurea (aerial)",
+   "35.5 mg",
+   "†"
+  ],
+  [
+   "* Percent Daily Values are based on a 2,000 calorie diet.† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "* Percent Daily Values are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "10 count",
+   "pid": "22229",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-very-berry-10-effervescent-tablets/22229",
+   "price": "฿347.13",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "20 count",
+   "pid": "108082",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-zesty-orange-2-tubes-10-effervescent-tablets-each/108082",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "30 count",
+   "pid": "108099",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-very-berry-3-tubes-10-effervescent-tablets-each/108099",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 8 left",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿897.03",
+  "฿897.03",
+  "฿29.90/‏serving",
+  "{0}% off code: {1}",
+  "฿897.03",
+  "Save 0% in cart",
+  "฿29.90/‏serving",
+  "฿897.03",
+  "(0% off)",
+  "฿897.03",
+  "฿29.90/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/g/63.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/k/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/g/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib96379/b/63.jpg"
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "pid": "148669",
+ "slug": "vitauthority-active-vita-whey-protein-powder-vanilla-2-13-lb-969-6-g",
+ "scrapedAt": "2026-08-25T17:11:12.969Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vitauthority-active-vita-whey-protein-powder-vanilla-2-13-lb-969-6-g.jpg",
+  "/products/iherb/vitauthority-active-vita-whey-protein-powder-vanilla-2-13-lb-969-6-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitauthority-active-vita-whey-protein-powder-vanilla-2-13-lb-969-6-g/148669",
+ "pageTitle": "Vitauthority, Active, Vita Whey Protein Powder, Vanilla, 2.13 lb (969.6 g)",
+ "h1": "Vitauthority, Active, Vita Whey Protein Powder, Vanilla, 2.13 lb (969.6 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148669",
+  "name": "Vitauthority, Active, Vita Whey Protein Powder, Vanilla, 2.13 lb (969.6 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/g/8.jpg",
+  "mpn": "VAU-00813",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 13
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitauthority",
+   "url": "https://vitauthority.com/",
+   "identifier": "VAU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.44",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2080.93",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Drink Mix With Probiotics & Enzymes 1 Billion CFUs ∧ 23 g Protein ∧ 2 g Added Sugar ∧ 4 g Carbs ∧ No Artificial Sweeteners Flavor with Other Natural Flavors Non-GMO No Artificial Colors MCT Oil Powder Third Party Tested Pre-Workout or Anytime Energy Helps Build & Maintain Muscle† Muscle Support & Repair† Post-Workout Muscle Recovery† Mix. Shake. Blend. or Get Creative DE111® Probiotic Why do we add Probiotics & Enzymes? So you can trust your gut! Probiotics may help relieve gas and bloating while enzymes aid in breaking down nutrients so that the body can more easily absorb and use those nutrients, ensuring better digestion and overall well-being. ∧ Per Serving †Not a low calorie food. See nutrition facts panel for sugar and calorie information. When used over time in combination with regular resistance exercise.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.8x5.8"
+  },
+  "isRelatedTo": null,
+  "sku": "VAU-00813",
+  "gtin12": "856360008138",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Blends"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VAU-00813"
+  },
+  {
+   "label": "UPC",
+   "value": "856360008138"
+  },
+  {
+   "label": "Package quantity",
+   "value": "969.6 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.8 x 14.7 x 14.7 cm, 1.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: about 1 Scoop (32 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "30 mg",
+   "10%"
+  ],
+  [
+   "Sodium",
+   "50 mg",
+   "2%"
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   ""
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "4%"
+  ],
+  [
+   "Protein",
+   "23 g",
+   "46%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "0.6 mg",
+   "4%"
+  ],
+  [
+   "Potassium",
+   "60 mg",
+   "2%"
+  ],
+  [
+   "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: about 1 Scoop (32 g)Servings Per Container: 30 Amount Per Serving%Daily Value*Calories120Total Fat1.5 g2%Saturated Fat1 g5%Trans Fat0 gCholesterol30 mg10%Sodium50 mg2%Total Carbohydrate4 g1%Dietary Fiber0 g0%Total Sugars3 gIncludes 2 g Added Sugars4%Protein23 g46%Vitamin D0 mcg0%Calcium100 mg8%Iron0.6 mg4%Potassium60 mg2%*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "No artificial colors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "969.6 g",
+   "pid": "148669",
+   "url": "https://th.iherb.com/pr/vitauthority-active-vita-whey-protein-powder-vanilla-2-13-lb-969-6-g/148669",
+   "price": null,
+   "outOfStock": true,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "MusclePharm, Combat® Protein Powder, Chocolate Milk, 6.2 lbs (2.8 kg)",
+  "6,895",
+  "฿4,261.50"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vau/vau00813/b/8.jpg"
+ ]
+}

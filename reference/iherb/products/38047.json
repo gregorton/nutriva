@@ -1,0 +1,253 @@
+{
+ "pid": "38047",
+ "slug": "doctor-s-best-vitamin-c-500-mg-120-veggie-caps",
+ "scrapedAt": "2026-08-25T17:29:29.171Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-vitamin-c-500-mg-120-veggie-caps.jpg",
+  "/products/iherb/doctor-s-best-vitamin-c-500-mg-120-veggie-caps-2.jpg",
+  "/products/iherb/doctor-s-best-vitamin-c-500-mg-120-veggie-caps-3.jpg",
+  "/products/iherb/doctor-s-best-vitamin-c-500-mg-120-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-c-500-mg-120-veggie-caps/38047",
+ "pageTitle": "Doctor's Best, Vitamin C , 500 mg, 120 Veggie Caps",
+ "h1": "Doctor's Best, Vitamin C , 500 mg, 120 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "38047",
+  "name": "Doctor's Best, Vitamin C , 500 mg, 120 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/g/137.jpg",
+  "mpn": "DRB-00256",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 4242
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.24",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "496.09",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Immune Support Q®-C Dietary Supplement Non-GMO Gluten Free Soy Free Vegan At Doctor's Best, we pursue excellence. Our formula, featuring Q®-C is produced in Scotland and renowned for its quality and dependability. Extensive clinical research confirms the crucial role of Vitamin C in supporting the immune system, brain, eyes, heart, circulation, and overall organ health. Helps support the body with antioxidants. Essential cofactor for important enzyme systems. Essential for joints and other connective tissues.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.6"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00256",
+  "gtin12": "753950002562",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/g/137.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Immune Support",
+    "Q®-C",
+    "Dietary Supplement",
+    "Non-GMO",
+    "Gluten Free",
+    "Soy Free",
+    "Vegan",
+    "Helps support the body with antioxidants.",
+    "Essential cofactor for important enzyme systems.",
+    "Essential for joints and other connective tissues."
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we pursue excellence. Our formula, featuring Q®-C is produced in Scotland and renowned for its quality and dependability. Extensive clinical research confirms the crucial role of Vitamin C in supporting the immune system, brain, eyes, heart, circulation, and overall organ health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 capsule twice daily, preferably without food, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetarian capsule)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00256"
+  },
+  {
+   "label": "UPC",
+   "value": "753950002562"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.2 x 6.6 x 6.6 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as Q®-C ascorbic acid)",
+   "500 mg",
+   "556%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "38047",
+   "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-c-500-mg-120-veggie-caps/38047",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "360 count",
+   "pid": "55589",
+   "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-c-1-000-mg-360-veggie-caps/55589",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿496.09",
+  "฿496.09",
+  "฿4.13/‏serving",
+  "{0}% off code: {1}",
+  "฿496.09",
+  "Save 0% in cart",
+  "฿4.13/‏serving",
+  "฿496.09",
+  "(0% off)",
+  "฿496.09",
+  "฿4.13/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/g/137.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/k/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/g/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/142.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/145.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/146.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/147.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/148.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/149.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/150.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00256/s/151.jpg"
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "pid": "103763",
+ "slug": "lovebug-probiotics-advanced-strength-daily-probiotic-50-billion-cfu-30",
+ "scrapedAt": "2026-08-25T17:21:02.119Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lovebug-probiotics-advanced-strength-daily-probiotic-50-billion-cfu-30.jpg",
+  "/products/iherb/lovebug-probiotics-advanced-strength-daily-probiotic-50-billion-cfu-30-2.jpg",
+  "/products/iherb/lovebug-probiotics-advanced-strength-daily-probiotic-50-billion-cfu-30-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lovebug-probiotics-advanced-strength-daily-probiotic-50-billion-cfu-30-capsules/103763",
+ "pageTitle": "LoveBug Probiotics, Advanced Strength Daily Probiotic, 50 Billion CFU, 30 Capsules",
+ "h1": "LoveBug Probiotics, Advanced Strength Daily Probiotic, 50 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103763",
+  "name": "LoveBug Probiotics, Advanced Strength Daily Probiotic, 50 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/g/44.jpg",
+  "mpn": "LVB-71632",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 362
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "LoveBug Probiotics",
+   "url": "https://www.lovebugprobiotics.com",
+   "identifier": "LVB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "956.74",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Enhance Your Immune and Digestive Health No Guts No Glory ® High-Potency Immune + Digestive Health Probiotic + Prebiotic Duo 50 Billion CFU‡ Dietary Supplement Non-GMO, No Artificial Colors or Flavors Award-Winning Probiotics For the Whole Family™ What Makes Our Probiotic Better? Guaranteed Potency ‡ Immune & Digestive Health Support Did you know? Over 400 strains of probiotics live in our bodies. A strong probiotic with prebiotic to support your immune and digestive health. Women Owned: We're proud to be a women-owned and women run company! The Lovebug Story Ashley Harris, mom and Founder couldn't find an effective and all natural probiotic to ease her son's colic and digestive issues. Ashley had tested positive for Group B strep when she was pregnant and was given broad spectrum antibiotics as a preventive measure during labor. Those antibiotics killed off the Group B strep, but also the good bacteria that she was meant to pass on to her baby to keep him healthy. Probiotics transformed her son's and family's health. Passionate about providing other families with that knowledge and a superior probiotic, she jumped into serious research and LoveBug Probiotics was born! ‡At time of manufacture.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.6"
+  },
+  "isRelatedTo": null,
+  "sku": "LVB-71632",
+  "gtin12": "850002716320",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Enhance Your Immune and Digestive Health",
+    "No Guts No Glory®",
+    "High-Potency",
+    "Immune + Digestive Health",
+    "Probiotic + Prebiotic Duo",
+    "50 Billion CFU‡",
+    "Dietary Supplement",
+    "Non-GMO, No Artificial Colors or Flavors",
+    "Award-Winning Probiotics For the Whole Family™",
+    "Guaranteed Potency‡",
+    "Immune & Digestive Health Support"
+   ],
+   "paragraphs": [
+    "What Makes Our Probiotic Better?",
+    "Did you know? Over 400 strains of probiotics live in our bodies.",
+    "A strong probiotic with prebiotic to support your immune and digestive health.",
+    "Women Owned: We're proud to be a women-owned and women run company!",
+    "The Lovebug Story",
+    "Ashley Harris, mom and Founder couldn't find an effective and all natural probiotic to ease her son's colic and digestive issues. Ashley had tested positive for Group B strep when she was pregnant and was given broad spectrum antibiotics as a preventive measure during labor. Those antibiotics killed off the Group B strep, but also the good bacteria that she was meant to pass on to her baby to keep him healthy. Probiotics transformed her son's and family's health. Passionate about providing other families with that knowledge and a superior probiotic, she jumped into serious research and LoveBug Probiotics was born!",
+    "‡At time of manufacture."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Daily maintenance: Take 1 delayed release capsule daily before food.",
+    "No refrigeration required."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Capsule (hypromellose, gellan gum), microcrystalline cellulose, L-leucine, silica."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place away from direct sunlight.",
+    "Note: As with any dietary supplement, consult a physician if taking prescription medications or if you have a medical condition. Keep out of reach of children. Do not use if seal is missing or broken."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LVB-71632"
+  },
+  {
+   "label": "UPC",
+   "value": "850002716320"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.6 x 6.6 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "High Potency Probiotics Blend:Lactobacillus paracaseiLactobacillus caseiLactobacillus rhamnosusLactobacillus acidophilusLactobacillus salivariusLactobacillus gasseriStreptococcus thermophilusBifidobacterium bifidumBifidobacterium longum Bifidobacterium lactis",
+   "140 mg(50 Billion CFU‡)",
+   "†"
+  ],
+  [
+   "PrebioticChicory root fructo-oligosaccharides (FOS)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established‡At time of manufacture"
+  ]
+ ],
+ "factsFootnotes": [
+  "†Daily Value (DV) not established",
+  "‡At time of manufacture"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿956.74",
+  "฿956.74",
+  "฿31.89/‏serving",
+  "{0}% off code: {1}",
+  "฿956.74",
+  "Save 0% in cart",
+  "฿31.89/‏serving",
+  "฿956.74",
+  "(0% off)",
+  "฿956.74",
+  "฿31.89/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvb/lvb71632/s/36.jpg"
+ ]
+}

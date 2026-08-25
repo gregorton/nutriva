@@ -1,0 +1,262 @@
+{
+ "pid": "139757",
+ "slug": "nature-s-way-vitamin-c-with-rose-hips-100-capsules",
+ "scrapedAt": "2026-08-25T17:35:43.350Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-vitamin-c-with-rose-hips-100-capsules.jpg",
+  "/products/iherb/nature-s-way-vitamin-c-with-rose-hips-100-capsules-2.jpg",
+  "/products/iherb/nature-s-way-vitamin-c-with-rose-hips-100-capsules-3.jpg",
+  "/products/iherb/nature-s-way-vitamin-c-with-rose-hips-100-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-vitamin-c-with-rose-hips-100-capsules/139757",
+ "pageTitle": "Nature's Way, Vitamin C with Rose Hips, 100 Capsules",
+ "h1": "Nature's Way, Vitamin C with Rose Hips, 100 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139757",
+  "name": "Nature's Way, Vitamin C with Rose Hips, 100 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/g/24.jpg",
+  "mpn": "NWY-40310",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2206
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.23",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "311.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Since 1969 Supports Immune Health 1,000 mg Vitamin C Per 2-Capsule Serving Dietary Supplement Gluten Free Trust The Leaf Highlights Provides powerful antioxidant support from vitamin C High potency vitamin C per 2-capsule serving Promotes collagen production to support healthy skin With 200 mg rose hips per 2-capsule serving",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NWY-40310",
+  "gtin12": "033674403105",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Since 1969",
+    "Supports Immune Health",
+    "1,000 mg Vitamin C Per 2-Capsule Serving",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Trust The Leaf",
+    "Provides powerful antioxidant support from vitamin C",
+    "High potency vitamin C per 2-capsule serving",
+    "Promotes collagen production to support healthy skin",
+    "With 200 mg rose hips per 2-capsule serving"
+   ],
+   "paragraphs": [
+    "Highlights"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 2 capsules as needed, preferably with food. If you are pregnant, nursing, or taking any medications, consult a healthcare professional before use."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin (capsule), cellulose, magnesium stearate, silica.",
+    "No wheat, soy, dairy, or artificial colors or flavors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Safety sealed with inner seal. Do not use if seal is broken or missing. Keep tightly closed. Store at room temperature. Avoid excessive heat and direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NWY-40310"
+  },
+  {
+   "label": "UPC",
+   "value": "033674403105"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5.1 x 5 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (ascorbic acid)",
+   "1,000 mg",
+   "1,111%"
+  ],
+  [
+   "Rose Hips (Rosa canina) (fruit)",
+   "200 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "139757",
+   "url": "https://th.iherb.com/pr/nature-s-way-vitamin-c-with-rose-hips-100-capsules/139757",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "250 count",
+   "pid": "1806",
+   "url": "https://th.iherb.com/pr/nature-s-way-vitamin-c-with-rose-hips-250-capsules/1806",
+   "price": "฿709.60",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿311.04",
+  "฿311.04",
+  "฿6.22/‏serving",
+  "{0}% off code: {1}",
+  "฿311.04",
+  "Save 0% in cart",
+  "฿6.22/‏serving",
+  "฿311.04",
+  "(0% off)",
+  "฿311.04",
+  "฿6.22/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy40310/s/37.jpg"
+ ]
+}

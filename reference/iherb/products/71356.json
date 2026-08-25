@@ -1,0 +1,354 @@
+{
+ "pid": "71356",
+ "slug": "vital-proteins-collagen-peptides-unflavored-20-oz-567-g",
+ "scrapedAt": "2026-08-25T17:05:12.699Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/vital-proteins-collagen-peptides-unflavored-20-oz-567-g.jpg",
+  "/products/iherb/vital-proteins-collagen-peptides-unflavored-20-oz-567-g-2.jpg",
+  "/products/iherb/vital-proteins-collagen-peptides-unflavored-20-oz-567-g-3.jpg",
+  "/products/iherb/vital-proteins-collagen-peptides-unflavored-20-oz-567-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-oz-567-g/71356",
+ "pageTitle": "Vital Proteins, Collagen Peptides, Unflavored, 20 oz (567 g)",
+ "h1": "Vital Proteins, Collagen Peptides, Unflavored, 20 oz (567 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "71356",
+  "name": "Vital Proteins, Collagen Peptides, Unflavored, 20 oz (567 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/g/105.jpg",
+  "mpn": "VTP-00508",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 38478
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vital Proteins",
+   "url": "http://www.vitalproteins.com",
+   "identifier": "VTP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.41",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1946.87",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "20 g Collagen Peptides Per Serving Skin, Hair, Nail + Joint Support ∧ Grass Fed + Pasture Raised Dietary Supplement Kosher NSF Certified Sport Igen™ Non-GMO Tested Look, Feel & Move Your Best^ Hello. This is our unflavored collagen peptides. One simple ingredient with lots of benefits - support for supple skin, healthy hair, nails, and joints.^ Just mix it with your daily coffee, tea, smoothie or whatever you're into. And yes, our packaging is a little different. It's part of our commitment to be a more responsible company. 0 g Sugar per Serving Non-GMO Tested Made without Dairy & Gluten No Artificial Sweeteners, Colors or Flavors ∧ Results may vary. Various studies have suggested benefits following daily consumption of collagen peptides for several months.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.9x4.9"
+  },
+  "isRelatedTo": null,
+  "sku": "VTP-00508",
+  "gtin12": "850232005089",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/g/105.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "20 g Collagen Peptides Per Serving",
+    "Skin, Hair, Nail + Joint Support∧",
+    "Grass Fed + Pasture Raised",
+    "Dietary Supplement",
+    "Kosher",
+    "NSF Certified Sport",
+    "Igen™ Non-GMO Tested",
+    "0 g Sugar per Serving",
+    "Non-GMO Tested",
+    "Made without Dairy & Gluten",
+    "No Artificial Sweeteners, Colors or Flavors"
+   ],
+   "paragraphs": [
+    "Look, Feel & Move Your Best^",
+    "Hello. This is our unflavored collagen peptides. One simple ingredient with lots of benefits - support for supple skin, healthy hair, nails, and joints.^ Just mix it with your daily coffee, tea, smoothie or whatever you're into. And yes, our packaging is a little different. It's part of our commitment to be a more responsible company.",
+    "∧ Results may vary. Various studies have suggested benefits following daily consumption of collagen peptides for several months."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Use a total of 4 level tbsp either all at once, or throughout the day. Mix thoroughly with your favorite food or beverage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "This product is manufactured in a facility that processes milk, fish and tree nuts.",
+    "This product does not contain common GE genes or proteins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use this product as a food supplement only. Do not use for weight reduction.",
+    "Collagen is not a complete protein. Do not use to replace dietary protein.†",
+    "If you are pregnant, nursing or have a medical condition, consult your physician before use.",
+    "Storage Information: Store in a cool, dry place Do not use if safety seal is broken.",
+    "Contents sold by weight not volume. Settling will occur.",
+    "†Collagen peptides are an incomplete protein because they do not provide all the essential amino acids your body needs. Use supplement a balanced diet."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.64 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VTP-00508"
+  },
+  {
+   "label": "UPC",
+   "value": "850232005089"
+  },
+  {
+   "label": "Package quantity",
+   "value": "567 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.4 x 12.4 x 12.4 cm, 0.64 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Tbsp (20 g)"
+  ],
+  [
+   "Servings Per Container: About 28"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "**"
+  ],
+  [
+   "Protein",
+   "18 g",
+   "0%*"
+  ],
+  [
+   "Sodium",
+   "110 mg",
+   "5%"
+  ],
+  [
+   "Collagen peptides (from bovine)",
+   "20 g",
+   "**"
+  ],
+  [
+   "*Percent Daily Values (DV) based on a 2,000 calorie diet.**Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values (DV) based on a 2,000 calorie diet.",
+  "**Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 tbsp"
+    },
+    {
+     "label": "Total servings",
+     "value": "28"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "NSF Sport"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "284 g",
+   "pid": "71355",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-10-oz-284-g/71355",
+   "price": "฿1,112.40",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "299 g",
+   "pid": "155735",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-pumpkin-spice-10-5-oz-299-g/155735",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "313 g",
+   "pid": "114450",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-lemon-11-oz-313-g/114450",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "383 g",
+   "pid": "112322",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-chocolate-13-5-oz-383-g/112322",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "567 g",
+   "pid": "71356",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-oz-567-g/71356",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "757 g",
+   "pid": "112323",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-chocolate-26-8-oz-761-g/112323",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "20 count",
+   "pid": "71367",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-unflavored-20-packets-0-35-oz-10-g-each/71367",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "360 count",
+   "pid": "78213",
+   "url": "https://th.iherb.com/pr/vital-proteins-collagen-peptides-360-capsules-550-mg-per-capsule/78213",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Bone, Joint & Cartilage",
+   "href": "/c/bone-joint-cartilage?sr=2"
+  },
+  {
+   "rank": "#7 in",
+   "category": "Hair, Skin & Nails",
+   "href": "/c/hair-skin-nails?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,946.87",
+  "฿1,946.87",
+  "฿69.53/‏serving",
+  "{0}% off code: {1}",
+  "฿1,946.87",
+  "Save 0% in cart",
+  "฿69.53/‏serving",
+  "฿1,946.87",
+  "(0% off)",
+  "฿1,946.87",
+  "฿69.53/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/g/105.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/k/105.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/g/105.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/105.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/111.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/117.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/118.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vtp/vtp00508/b/105.jpg"
+ ]
+}

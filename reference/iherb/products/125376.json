@@ -1,0 +1,227 @@
+{
+ "pid": "125376",
+ "slug": "metagenics-ultraflora-biomepro-probiotics-105-billion-cfu-30-capsules",
+ "scrapedAt": "2026-08-25T17:15:44.759Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/metagenics-ultraflora-biomepro-probiotics-105-billion-cfu-30-capsules.jpg",
+  "/products/iherb/metagenics-ultraflora-biomepro-probiotics-105-billion-cfu-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/metagenics-ultraflora-biomepro-probiotics-105-billion-cfu-30-capsules/125376",
+ "pageTitle": "Metagenics, UltraFlora® BiomePro® Probiotics, 105 Billion CFU, 30 Capsules",
+ "h1": "Metagenics, UltraFlora® BiomePro® Probiotics, 105 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125376",
+  "name": "Metagenics, UltraFlora® BiomePro® Probiotics, 105 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/g/24.jpg",
+  "mpn": "MTG-95497",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 79
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Metagenics",
+   "url": "http://www.metagenics.com/",
+   "identifier": "MTG"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.11",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2629.94",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Practitioner Recommended Clinically Studied Formula Gut Health Supports Gut, Immune, Respiratory Health Provides 24 Hour Gut Support Probiotic Supplement This Product is Non-GMO, Gluten-Free, and Vegetarian UltraFlora® BiomePro® Probiotic supports healthy immune system and respiratory health and provides relief of occasional loose stools and GI discomfort. This multidimensional formula features 105 billion CFU, guaranteed until expiration. No refrigeration needed for this shelf-stable package.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.8"
+  },
+  "isRelatedTo": null,
+  "sku": "MTG-95497",
+  "gtin12": "755571954978",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Practitioner Recommended",
+    "Clinically Studied Formula",
+    "Gut Health",
+    "Supports Gut, Immune, Respiratory Health",
+    "Provides 24 Hour Gut Support",
+    "Probiotic Supplement",
+    "This Product is Non-GMO, Gluten-Free, and Vegetarian"
+   ],
+   "paragraphs": [
+    "UltraFlora® BiomePro® Probiotic supports healthy immune system and respiratory health and provides relief of occasional loose stools and GI discomfort. This multidimensional formula features 105 billion CFU, guaranteed until expiration. No refrigeration needed for this shelf-stable package."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one capsule daily or as directed by your healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, capsule (hydroxypropylmethylcellulose), magnesium stearate (vegetable), and silica."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Tamper Evident: Do not use if safety seal is missing or broken.",
+    "Storage: No refrigeration required. Store below 75ºF."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MTG-95497"
+  },
+  {
+   "label": "UPC",
+   "value": "755571954978"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.1 x 4.6 x 4.6 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule†"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "A Multistrain Probiotic Blend of:Lactobacillus acidophilus NCFMLactobacillus rhamnosus GGLactobacillus plantarum Lp-115Bifidobacterium lactis BI-04Bifidobacterium lactis Bi-07Lactobacillus paracasei Lpc-37Lactobacillus rhamnosus HN001Bifidobacterium lactis HN019",
+   "453.67 mg (105 billion CFU)††",
+   "*"
+  ],
+  [
+   "*Daily Value not established.†Vegetarian capsule.††At date of expiration."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established.",
+  "†Vegetarian capsule.",
+  "††At date of expiration."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,629.94",
+  "฿2,629.94",
+  "฿87.66/‏serving",
+  "{0}% off code: {1}",
+  "฿2,629.94",
+  "Save 0% in cart",
+  "฿87.66/‏serving",
+  "฿2,629.94",
+  "(0% off)",
+  "฿2,629.94",
+  "฿87.66/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg95497/s/32.jpg"
+ ]
+}

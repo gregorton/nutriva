@@ -1,0 +1,260 @@
+{
+ "pid": "75751",
+ "slug": "country-life-chelated-magnesium-glycinate-180-tablets-133-mg-per-table",
+ "scrapedAt": "2026-08-25T17:32:35.025Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/country-life-chelated-magnesium-glycinate-180-tablets-133-mg-per-table.jpg",
+  "/products/iherb/country-life-chelated-magnesium-glycinate-180-tablets-133-mg-per-table-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/country-life-chelated-magnesium-glycinate-180-tablets-133-mg-per-tablet/75751",
+ "pageTitle": "Country Life, Chelated Magnesium Glycinate, 180 Tablets (133 mg per Tablet)",
+ "h1": "Country Life, Chelated Magnesium Glycinate, 180 Tablets (133 mg per Tablet)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "75751",
+  "name": "Country Life, Chelated Magnesium Glycinate, 180 Tablets (133 mg per Tablet)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/g/60.jpg",
+  "mpn": "CLF-02681",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 10360
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Country Life",
+   "url": "http://www.countrylifevitamins.com/",
+   "identifier": "CLF"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1057.82",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Established 1971 Certified Gluten-Free Supports Heart Health Promotes Healthy Bone and Muscle Function Bioavailable Formula Non GMO Project Verified Dietary Supplement Certified B Corporation Kosher Parve — Our Pledge of Integrity — Authenticity Cleanliness Freshness Consistency Accuracy Country Life Magnesium Glycinate is a chelated form of magnesium bound with amino acid glycine. It offers a bioavailable source of magnesium to the body. Magnesium is needed for more than 300 biochemical reactions in the body and it helps to relax muscles. It can also support energy production, cardiovascular function, immune health and strong bones. YES Certified Gluten-Free by GFCO.org NO Yeast, Corn or Wheat YES Certified Vegan by the AVA NO Soy, Milk or Salt YES Recyclable Packaging NO Sugar or Preservatives YES Manufacturing Supports Wind Power NO Artificial Colors, Flavors or Sweeteners YES Kosher Parve NO Magnesium Stearate",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.2x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "CLF-02681",
+  "gtin12": "015794026815",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/g/60.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Established 1971",
+    "Certified Gluten-Free",
+    "Supports Heart Health",
+    "Promotes Healthy Bone and Muscle Function",
+    "Bioavailable Formula",
+    "Non GMO Project Verified",
+    "Dietary Supplement",
+    "Certified B Corporation",
+    "Kosher Parve",
+    "Authenticity",
+    "Cleanliness",
+    "Freshness",
+    "Consistency",
+    "Accuracy"
+   ],
+   "paragraphs": [
+    "— Our Pledge of Integrity —",
+    "Country Life Magnesium Glycinate is a chelated form of magnesium bound with amino acid glycine. It offers a bioavailable source of magnesium to the body. Magnesium is needed for more than 300 biochemical reactions in the body and it helps to relax muscles. It can also support energy production, cardiovascular function, immune health and strong bones."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take three (3) tablets daily with a meal. Do not exceed recommended dose. As a reminder, discuss the supplements and medications that you take with your health care providers."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose, stearic acid, organic coating (tapioca maltodextrin, sunflower lecithin, sustainable palm and/or sunflower oil, guar gum), silica.",
+    "This product has been manufactured at a GMP Registered facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, or taking medication, have a medical condition or planning surgery, consult a doctor before using this product. Stop using and consult a doctor if any adverse reactions occur.",
+    "Do not accept if seal is broken. Store in a dry place between 59º- 86ºF.",
+    "Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.59 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CLF-02681"
+  },
+  {
+   "label": "UPC",
+   "value": "015794026815"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.9 x 8.1 x 8 cm, 0.59 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 tablets"
+  ],
+  [
+   "Serving Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (as magnesium bisglycinate†)",
+   "400 mg",
+   "95%"
+  ],
+  [
+   "†Country Life always labels minerals in elemental weight."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Country Life always labels minerals in elemental weight."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Non-gmo",
+    "Soy-free",
+    "Wheat-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "75750",
+   "url": "https://th.iherb.com/pr/country-life-chelated-magnesium-glycinate-90-tablets-133-mg-per-tablet/75750",
+   "price": "฿654.39",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "75751",
+   "url": "https://th.iherb.com/pr/country-life-chelated-magnesium-glycinate-180-tablets-133-mg-per-tablet/75751",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,057.82",
+  "฿1,057.82",
+  "฿17.63/‏serving",
+  "{0}% off code: {1}",
+  "฿1,057.82",
+  "Save 0% in cart",
+  "฿17.63/‏serving",
+  "฿1,057.82",
+  "(0% off)",
+  "฿1,057.82",
+  "฿17.63/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/g/60.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/k/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/g/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/clf/clf02681/s/66.jpg"
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "pid": "82851",
+ "slug": "california-gold-nutrition-superfoods-cococeps-organic-cocoa-cordyceps",
+ "scrapedAt": "2026-08-25T17:48:31.586Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-superfoods-cococeps-organic-cocoa-cordyceps.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-cococeps-organic-cocoa-cordyceps-2.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-cococeps-organic-cocoa-cordyceps-3.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-cococeps-organic-cocoa-cordyceps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-superfoods-cococeps-organic-cocoa-cordyceps-reishi-7-93-oz-225-g/82851",
+ "pageTitle": "California Gold Nutrition, Superfoods, CocoCeps, Organic Cocoa, Cordyceps & Reishi, 7.93 oz (225 g)",
+ "h1": "California Gold Nutrition, Superfoods, CocoCeps, Organic Cocoa, Cordyceps & Reishi, 7.93 oz (225 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "82851",
+  "name": "California Gold Nutrition, Superfoods, CocoCeps, Organic Cocoa, Cordyceps & Reishi, 7.93 oz (225 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/g/124.jpg",
+  "mpn": "CGN-01263",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3920
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.66",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "569.31",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "759.08",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Instant Organic Dark Cocoa Beverage Contains Certified Organic Cocoa, Cordyceps & Reishi Certified USDA Organic No Added Colors, Sugars or Sweeteners California Gold Nutrition® Superfoods CocoCeps® is a premium, certified organic (non-alkalized) Dark Cocoa beverage, containing Cordyceps and Reishi mushrooms. This naturally energizing blend is perfect for drinking or baking and makes a great addition to a healthy diet and active lifestyle! iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.7x3.65"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01263",
+  "gtin12": "898220012633",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/g/124.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Tea & Beverages",
+  "Cocoa Powder & Hot Chocolate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Instant Organic Dark Cocoa Beverage",
+    "Contains Certified Organic Cocoa, Cordyceps & Reishi",
+    "Certified USDA Organic",
+    "No Added Colors, Sugars or Sweeteners"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Superfoods CocoCeps® is a premium, certified organic (non-alkalized) Dark Cocoa beverage, containing Cordyceps and Reishi mushrooms. This naturally energizing blend is perfect for drinking or baking and makes a great addition to a healthy diet and active lifestyle!",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 scoop daily with 4-8 ounces of warm/hot liquid (preferably purified water) and stir, sweetening if desired. Please note that this product is quite bitter due to its naturally occurring polyphenol compounds, and may be used unsweetened if desired.",
+    "Note: 8 grams per scoop is an average. Individual scooping technique may yield slightly less than or slightly more than 8 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Due to the naturally derived ingredients in this product, taste, color, and consistency may vary. This whole-food based beverage blend was not formulated to be 100% soluble in liquids. Naturally occurring sediment is normal.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01263"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012633"
+  },
+  {
+   "label": "Package quantity",
+   "value": "225 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.7 x 9.4 x 9.3 cm, 0.3 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 scoop (8 g)"
+  ],
+  [
+   "Servings per Container: About 28"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value*"
+  ],
+  [
+   "Calories",
+   "35",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Total Carbohydrate",
+   "5 g",
+   "2%"
+  ],
+  [
+   "Dietary Fiber",
+   "3 g",
+   "11%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes Added Sugars",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Protein",
+   "2 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Iron",
+   "3 mg",
+   "15%"
+  ],
+  [
+   "Potassium",
+   "150 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contribute to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contribute to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "28"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Herbal & Mushroom Coffee",
+   "href": "/c/herbal-mushroom-coffee?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Mushroom Blends",
+   "href": "/c/mushroom-blends?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Coffee",
+   "href": "/c/coffee?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿759.08",
+  "฿759.08",
+  "฿27.11/‏serving",
+  "{0}% off code: {1}",
+  "฿759.08",
+  "Save 25% in cart",
+  "฿27.11/‏serving",
+  "฿569.31",
+  "(25% off)",
+  "฿759.08",
+  "฿20.33/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/g/124.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/k/124.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/g/124.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/s/124.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/s/129.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/s/133.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01263/s/114.jpg"
+ ]
+}

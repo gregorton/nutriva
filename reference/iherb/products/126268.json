@@ -1,0 +1,285 @@
+{
+ "pid": "126268",
+ "slug": "qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-cap",
+ "scrapedAt": "2026-08-25T17:20:32.584Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-cap.jpg",
+  "/products/iherb/qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-cap-2.jpg",
+  "/products/iherb/qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-cap-3.jpg",
+  "/products/iherb/qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-cap-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-capsule/126268",
+ "pageTitle": "Qunol, Turmeric, Curcumin Complex, 120 Vegetarian Capsules (500 mg per Capsule)",
+ "h1": "Qunol, Turmeric, Curcumin Complex, 120 Vegetarian Capsules (500 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126268",
+  "name": "Qunol, Turmeric, Curcumin Complex, 120 Vegetarian Capsules (500 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/g/26.jpg",
+  "mpn": "QNL-00843",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 72
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Qunol",
+   "url": "http://www.qunol.com/",
+   "identifier": "QNL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1410.84",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "#1 Doctor Recommended Form † of Turmeric Curcumin ‡ Ultra High Absorption§ With Hydro-Soluble Technology Dietary Supplement Extra Strength > Non-GMO Gluten Free The Power of Curcuminoids Qunol Extra Strength Turmeric Curcumin Complex provides one of nature’s best-kept secrets, curcuminoids, a group of antioxidants that support healthy inflammation response associated with physical overexertion. Curcumin can also play a major role in supporting joint health. Ultra High Absorption Qunol Extra Strength Turmeric Curcumin complex has a patented hydro-soluble technology delivering Ultra High Absorption when compared to regular turmeric which doesn't dissolve in water, dissolves poorly in fat, and absorbs poorly > Compared to Qunol turmeric gummies 500 mg †Form refers to water and fat-soluble turmeric curcumin vs. water soluble only ‡IQVIA ProVoice Survey §Compared to regular▵turmeric ▵Regular turmeric defined as standardized unformulated curcumin extract",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "QNL-00843",
+  "gtin12": "850184008435",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/g/26.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "#1 Doctor Recommended Form† of Turmeric Curcumin‡",
+    "Ultra High Absorption§",
+    "With Hydro-Soluble Technology",
+    "Dietary Supplement",
+    "Extra Strength>",
+    "Non-GMO",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "The Power of Curcuminoids",
+    "Qunol Extra Strength Turmeric Curcumin Complex provides one of nature’s best-kept secrets, curcuminoids, a group of antioxidants that support healthy inflammation response associated with physical overexertion. Curcumin can also play a major role in supporting joint health.",
+    "Ultra High Absorption",
+    "Qunol Extra Strength Turmeric Curcumin complex has a patented hydro-soluble technology delivering Ultra High Absorption when compared to regular turmeric which doesn't dissolve in water, dissolves poorly in fat, and absorbs poorly",
+    "> Compared to Qunol turmeric gummies 500 mg",
+    "†Form refers to water and fat-soluble turmeric curcumin vs. water soluble only",
+    "‡IQVIA ProVoice Survey",
+    "§Compared to regular▵turmeric",
+    "▵Regular turmeric defined as standardized unformulated curcumin extract"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take two (2) vegetarian capsules daily with or after a meal, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable hypromellose, magnesium stearate and silicon dioxide.",
+    "Manufactured in a cGMP compliant facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Consult your physician or a healthcare professional before starting or stopping any dietary supplement, especially if you are pregnant or nursing or taking any medications. To preserve quality and freshness, keep bottle tightly closed. Store in a cool, dry place.",
+    "Tamper Resistant: Do not use if safety seal over cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "QNL-00843"
+  },
+  {
+   "label": "UPC",
+   "value": "850184008435"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Vegetarian Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Bioenhanced Turmeric Complex (20% curcuminoids) Gamma-cyclodextrin (for absorption), Turmeric Extract (Curcuma longa) (rhizome)",
+   "1,000 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 vegetarian capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "157205",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-30-vegetarian-capsules-500-mg-per-capsule/157205",
+   "price": "฿639.80",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "157206",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-60-vegetarian-capsule-500-mg-per-capsule/157206",
+   "price": "฿738.23",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "161038",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-90-vegetarian-capsules-500-mg-per-capsule/161038",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "126268",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-120-vegetarian-capsules-500-mg-per-capsule/126268",
+   "price": "฿1,410.84",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "157207",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-240-vegetarian-capsules-500-mg-per-capsule/157207",
+   "price": "฿2,329.52",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,410.84",
+  "฿1,410.84",
+  "฿23.51/serving",
+  "{0}% off code: {1}",
+  "฿1,410.84",
+  "Save 0% in cart",
+  "฿23.51/serving",
+  "฿1,410.84",
+  "(0% off)",
+  "฿1,410.84",
+  "฿23.51/serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/g/26.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/k/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/g/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00843/s/38.jpg"
+ ]
+}

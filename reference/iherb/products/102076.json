@@ -1,0 +1,266 @@
+{
+ "pid": "102076",
+ "slug": "california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavor",
+ "scrapedAt": "2026-08-25T17:16:10.981Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "3K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavor.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavor-2.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavor-3.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavor-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavored-7-05-oz-200-g/102076",
+ "pageTitle": "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides, Unflavored, 7.05 oz (200 g)",
+ "h1": "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides, Unflavored, 7.05 oz (200 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102076",
+  "name": "California Gold Nutrition, Hydrolyzed Marine Collagen Peptides, Unflavored,  7.05 oz (200 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/g/286.jpg",
+  "mpn": "CGN-01863",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 25292
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "609.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Enzymatically Hydrolyzed Collagen for Better Absorption and Bioavailability Support for Healthy Hair, Skin, Nails, Joints, and Bones* Contains Wild-Caught Marine Collagen California Gold Nutrition® Hydrolyzed Marine Collagen Peptides provides a convenient way to add collagen to your diet, which can help support the health of these connective tissues.* Simply add the unflavored powder to your favorite drink and enjoy the benefits.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.75x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01863",
+  "gtin12": "898220018635",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/g/286.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Enzymatically Hydrolyzed Collagen for Better Absorption and Bioavailability",
+    "Support for Healthy Hair, Skin, Nails, Joints, and Bones*",
+    "Contains Wild-Caught Marine Collagen"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Hydrolyzed Marine Collagen Peptides provides a convenient way to add collagen to your diet, which can help support the health of these connective tissues.* Simply add the unflavored powder to your favorite drink and enjoy the benefits."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 scoop daily in 6-8 ounces of room temperature water or juice and mix well (for best results, mix in a blender bottle). Drink on an empty stomach at least 1 hour before or 2 hours after meals. Best when taken as directed by a qualified healthcare professional.",
+    "Note: 5 grams per scoop is an average. Individual scooping technique may yield slightly less than or slightly more than 5 grams."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Aroma, color, consistency, and taste may vary.",
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if pouch is punctured or seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "CONTAINS A FOOD-GRADE MOISTURE ABSORBER TO MAINTAIN FRESHNESS. DO NOT EAT.",
+    "NOTICE: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.26 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01863"
+  },
+  {
+   "label": "UPC",
+   "value": "898220018635"
+  },
+  {
+   "label": "Package quantity",
+   "value": "200 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.3 x 12.1 x 6.9 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (5 g)"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Protein",
+   "4 g",
+   "<1%*"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "Hydrolyzed Marine Collagen Peptides",
+   "5 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "200 g",
+   "pid": "102076",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavored-7-05-oz-200-g/102076",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "500 g",
+   "pid": "102077",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-marine-collagen-peptides-unflavored-1-1-lb-500-g/102077",
+   "price": "฿1,468.26",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#16 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿609.04",
+  "฿609.04",
+  "฿15.23/‏serving",
+  "{0}% off code: {1}",
+  "฿609.04",
+  "Save 0% in cart",
+  "฿15.23/‏serving",
+  "฿609.04",
+  "(0% off)",
+  "฿609.04",
+  "฿15.23/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/g/286.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/k/286.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/g/286.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/s/286.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/s/287.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/s/277.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/s/159.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01863/s/233.jpg"
+ ]
+}

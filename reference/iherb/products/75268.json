@@ -1,0 +1,345 @@
+{
+ "pid": "75268",
+ "slug": "probulin-colon-support-probiotic-20-billion-cfu-30-capsules",
+ "scrapedAt": "2026-08-25T17:12:44.337Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/probulin-colon-support-probiotic-20-billion-cfu-30-capsules.jpg",
+  "/products/iherb/probulin-colon-support-probiotic-20-billion-cfu-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/probulin-colon-support-probiotic-20-billion-cfu-30-capsules/75268",
+ "pageTitle": "Probulin, Colon Support Probiotic, 20 Billion CFU, 30 Capsules",
+ "h1": "Probulin, Colon Support Probiotic, 20 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "75268",
+  "name": "Probulin, Colon Support Probiotic, 20 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/g/42.jpg",
+  "mpn": "PBL-00360",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 599
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Probulin",
+   "url": "https://probulin.com/",
+   "identifier": "PBL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1131.95",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "The Next Generation of Probiotics™ 20 Billion CFU† Non-GMOs No Gluten No Wheat No Dairy No Magnesium Stearate No Soy Halal Dietary Supplement Doctor Formulated§ to Support the Colon's Unique Microbiome 12 Scientifically-Studied Strains + Prebiotics MAKTrek® 3-D for Better Probiotic Survival May Help with Occasional Gas & Bloating Supports Immune Health The Next Generation of Probiotics™ No Refrigeration Required Probulin® Colon Support is a targeted once daily probiotic + prebiotic highly concentrated in beneficial bifidobacteria that: Features: 20 Billion cfu per capsule 12 key probiotic strains Prebiotic Inulin - food for the probiotic survival Shelf stable Employs the MAKTrek® 3-D Probiotic Delivery System Benefits: Supports Colon Health Supports Digestive Health Supports Digestive Balance Probulin® goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut. Our scientifically-validated MAKTrek® 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work. Probulin's Colon Support Probiotic is specifically formulated to restore and support the colon's unique microbiome.+ Highly concentrated in beneficial bifidobacteria, it may offer support with occasional gas and bloating. Formulated by: Jason Mitchell, N.D., Founder & CEO §Board-certified Naturopathic Doctor specializing in research & development. ‡CFU (colony forming units) amount at the time of BEST by date, as long as recommended storage conditions are maintained.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.3x1.7"
+  },
+  "isRelatedTo": null,
+  "sku": "PBL-00360",
+  "gtin12": "855757003602",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/g/42.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "The Next Generation of Probiotics™",
+    "20 Billion CFU†",
+    "Non-GMOs",
+    "No Gluten",
+    "No Wheat",
+    "No Dairy",
+    "No Magnesium Stearate",
+    "No Soy",
+    "Halal",
+    "Dietary Supplement",
+    "Doctor Formulated§ to Support the Colon's Unique Microbiome",
+    "12 Scientifically-Studied Strains + Prebiotics",
+    "MAKTrek® 3-D for Better Probiotic Survival",
+    "May Help with Occasional Gas & Bloating",
+    "Supports Immune Health",
+    "The Next Generation of Probiotics™",
+    "No Refrigeration Required",
+    "20 Billion cfu per capsule",
+    "12 key probiotic strains",
+    "Prebiotic Inulin - food for the probiotic survival",
+    "Shelf stable",
+    "Employs the MAKTrek® 3-D Probiotic Delivery System",
+    "Supports Colon Health",
+    "Supports Digestive Health",
+    "Supports Digestive Balance"
+   ],
+   "paragraphs": [
+    "Probulin® Colon Support is a targeted once daily probiotic + prebiotic highly concentrated in beneficial bifidobacteria that:",
+    "Features:",
+    "Benefits:",
+    "Probulin® goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut.",
+    "Our scientifically-validated MAKTrek® 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work.",
+    "Probulin's Colon Support Probiotic is specifically formulated to restore and support the colon's unique microbiome.+ Highly concentrated in beneficial bifidobacteria, it may offer support with occasional gas and bloating.",
+    "Formulated by: Jason Mitchell, N.D., Founder & CEO",
+    "§Board-certified Naturopathic Doctor specializing in research & development.",
+    "‡CFU (colony forming units) amount at the time of BEST by date, as long as recommended storage conditions are maintained."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one (1) capsule daily with or without food. For best results, take at bedtime. As a reminder, discuss the supplements and medications that you take with your health care providers.",
+    "Refrigeration is not required but may help to extend shelf life."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Complex marine polysaccharides (brown seaweed [lessonia nigrescens]), vegetable cellulose (capsule shell), cellulose, non-GMO rice extract, tricalcium phosphate, sodium chloride, potassium chloride.",
+    "No: GMO’s wheat, gluten, dairy, eggs, magnesium stearate, soy, artificial flavors, artificial colors, artificial sweeteners or shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended serving. Pregnant or nursing mothers, children under 18, and individuals with a known medical condition should consult a physician before using this or any dietary supplement.",
+    "Do not accept if seal is broken. Keep out of the reach of children.",
+    "Store in a cool dry place at 72ºF (22℃) or below."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PBL-00360"
+  },
+  {
+   "label": "UPC",
+   "value": "855757003602"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.7 x 8.4 x 4.3 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value**"
+  ],
+  [
+   "Sodium",
+   "11 mg",
+   "<1%"
+  ],
+  [
+   "Colon support probiotic blend (20 billion cfu†)",
+   "375 mg",
+   ""
+  ],
+  [
+   "Bifidobacterium Blend (18 billion cfu†)",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacteria lactis MAK16B42L",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria infantis MAK22B04I",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria longum MAK34B12L",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria breve MAK40B22B",
+   "",
+   "*"
+  ],
+  [
+   "Bifidobacteria bifidum MAK53B66B",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus Blend (1.5 billion cfu†)",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus MAK79L08R",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus plantarum MAK45L23P",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus casei MAK20L30C",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus acidophilus MAK32L61A",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus bulgaricus MAK55L88B",
+   "",
+   "*"
+  ],
+  [
+   "Lactobacillus helveticus MAK18L62H",
+   "",
+   "*"
+  ],
+  [
+   "Total Other Probiotics (500 Million cfu†)",
+   "",
+   ""
+  ],
+  [
+   "Streptococcus thermophilus MAK34S24T",
+   "",
+   "*"
+  ],
+  [
+   "Inulin [from chicory]",
+   "100 mg",
+   ""
+  ],
+  [
+   "*Daily Value not established.**Percent Daily Values based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value**",
+  "*",
+  "*Daily Value not established.",
+  "**Percent Daily Values based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,131.95",
+  "฿1,131.95",
+  "฿37.73/‏serving",
+  "{0}% off code: {1}",
+  "฿1,131.95",
+  "Save 0% in cart",
+  "฿37.73/‏serving",
+  "฿1,131.95",
+  "(0% off)",
+  "฿1,131.95",
+  "฿37.73/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/g/42.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/k/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/g/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00360/s/43.jpg"
+ ]
+}

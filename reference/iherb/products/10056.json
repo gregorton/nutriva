@@ -1,0 +1,274 @@
+{
+ "pid": "10056",
+ "slug": "now-foods-vitamin-d3-k2-120-capsules",
+ "scrapedAt": "2026-08-25T17:03:00.557Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "60K+",
+  "flag": "Best seller"
+ },
+ "images": [
+  "/products/iherb/now-foods-vitamin-d3-k2-120-capsules.jpg",
+  "/products/iherb/now-foods-vitamin-d3-k2-120-capsules-2.jpg",
+  "/products/iherb/now-foods-vitamin-d3-k2-120-capsules-3.jpg",
+  "/products/iherb/now-foods-vitamin-d3-k2-120-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-vitamin-d3-k2-120-capsules/10056",
+ "pageTitle": "NOW Foods, Vitamin D3 & K2, 120 Capsules",
+ "h1": "NOW Foods, Vitamin D3 & K2, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "10056",
+  "name": "NOW Foods, Vitamin D3 & K2, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/g/132.jpg",
+  "mpn": "NOW-00369",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 79593
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "343.85",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vitamin D3 1,000 IU / Vitamin K2 45 mcg Supports Bone Health Plus Cardiovascular Support Non-GMO A Dietary Supplement Kosher Family Owned Since 1968 GMP Quality Assured Halal NOW combines two nutrients extensively researched for their contribution to the health of bones, teeth and the cardiovascular system. Vitamin D3 promotes calcium transport and absorption. Recent studies indicate that vitamin D3 may play a role in proper insulin action and glucose metabolism and has an important function within the immune system. Vitamin K is critical for the formation of a healthy, strong bone matrix. Vitamin K's role in arterial health revolves around its ability to support proper calcium metabolism in vascular structures. Vitamin K2 is a readily active and biologically available form of vitamin K.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00369",
+  "gtin12": "733739003690",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/g/132.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vitamin D3 1,000 IU / Vitamin K2 45 mcg",
+    "Supports Bone Health",
+    "Plus Cardiovascular Support",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Kosher",
+    "Family Owned Since 1968",
+    "GMP Quality Assured",
+    "Halal"
+   ],
+   "paragraphs": [
+    "NOW combines two nutrients extensively researched for their contribution to the health of bones, teeth and the cardiovascular system. Vitamin D3 promotes calcium transport and absorption. Recent studies indicate that vitamin D3 may play a role in proper insulin action and glucose metabolism and has an important function within the immune system. Vitamin K is critical for the formation of a healthy, strong bone matrix. Vitamin K's role in arterial health revolves around its ability to support proper calcium metabolism in vascular structures. Vitamin K2 is a readily active and biologically available form of vitamin K."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule 1 to 2 times daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour, hypromellose (cellulose capsule), ascorbyl palmitate and silicon dioxide.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening.",
+    "For adults only. Consult physician if pregnant/nursing, taking any anti-coagulant (such as warfarin, coumadin, heparin) or other medication, or have a medical condition. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2008"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00369"
+  },
+  {
+   "label": "UPC",
+   "value": "733739003690"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 5.1 x 5.1 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D(as D3 Cholecalciferol) (from Lanolin)",
+   "25 mcg (1,000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin K2(as Menaquinone-4) (MK-4)",
+   "45 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "10056",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d3-k2-120-capsules/10056",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "157000",
+   "url": "https://th.iherb.com/pr/now-foods-vitamin-d3-k2-240-capsules/157000",
+   "price": "฿642.42",
+   "outOfStock": true,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Vitamin D3 & K2",
+   "href": "/c/vitamin-d3-k2?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Vitamins",
+   "href": "/c/vitamins?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Supplements",
+   "href": "/c/supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "60,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿343.85",
+  "฿343.85",
+  "฿2.87/‏serving",
+  "{0}% off code: {1}",
+  "฿343.85",
+  "Save 0% in cart",
+  "฿2.87/‏serving",
+  "฿343.85",
+  "(0% off)",
+  "฿343.85",
+  "฿2.87/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/g/132.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/k/132.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/g/132.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/s/132.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/s/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/s/142.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/s/143.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/s/144.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00369/s/145.jpg"
+ ]
+}

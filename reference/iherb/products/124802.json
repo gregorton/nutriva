@@ -1,0 +1,258 @@
+{
+ "pid": "124802",
+ "slug": "lifeable-kids-vitamin-d3-gummies-sugar-free-strawberry-25-mcg-1-000-iu",
+ "scrapedAt": "2026-08-25T17:34:21.545Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-kids-vitamin-d3-gummies-sugar-free-strawberry-25-mcg-1-000-iu.jpg",
+  "/products/iherb/lifeable-kids-vitamin-d3-gummies-sugar-free-strawberry-25-mcg-1-000-iu-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-kids-vitamin-d3-gummies-sugar-free-strawberry-25-mcg-1-000-iu-60-gummies/124802",
+ "pageTitle": "Lifeable, Kids Vitamin D3 Gummies, Sugar Free, Strawberry , 25 mcg (1,000 IU), 60 Gummies",
+ "h1": "Lifeable, Kids Vitamin D3 Gummies, Sugar Free, Strawberry , 25 mcg (1,000 IU), 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124802",
+  "name": "Lifeable, Kids Vitamin D3 Gummies, Sugar Free, Strawberry , 25 mcg (1,000 IU), 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/g/32.jpg",
+  "mpn": "LFB-73117",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 185
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.52",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "478.35",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Immunity Kosher Vegetarian Gluten Free Nut Free Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73117",
+  "gtin12": "810102731173",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Immunity",
+    "Kosher",
+    "Vegetarian",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one (1) gummy per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Maltitol syrup, water, pectin, natural flavor, citric acid, black carrot concentrate (color), trisodium citrate, carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish.",
+    "Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using.",
+    "Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature.",
+    "Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73117"
+  },
+  {
+   "label": "UPC",
+   "value": "810102731173"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value For Children 2-3 Years of Age‡",
+   "%Daily Value Adults & Children 4 Years of Age and Older‡‡"
+  ],
+  [
+   "Calories",
+   "5",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "2 g",
+   "<2%",
+   "<1%"
+  ],
+  [
+   "Sugar Alcohol",
+   "2 g",
+   "**",
+   "**"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "25 mcg (1,000 IU)",
+   "167%",
+   "125%"
+  ],
+  [
+   "‡Percent Daily Values are based on a 1,000 calorie diet.‡‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value For Children 2-3 Years of Age‡\t%Daily Value Adults & Children 4 Years of Age and Older‡‡",
+  "‡Percent Daily Values are based on a 1,000 calorie diet.",
+  "‡‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿478.35",
+  "฿478.35",
+  "฿7.97/‏serving",
+  "{0}% off code: {1}",
+  "฿478.35",
+  "Save 0% in cart",
+  "฿7.97/‏serving",
+  "฿478.35",
+  "(0% off)",
+  "฿478.35",
+  "฿7.97/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73117/s/37.jpg"
+ ]
+}

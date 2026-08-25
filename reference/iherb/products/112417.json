@@ -1,0 +1,215 @@
+{
+ "pid": "112417",
+ "slug": "mild-by-nature-peppermint-shea-foot-cream-with-argan-marula-oils-2-5-o",
+ "scrapedAt": "2026-08-25T17:46:07.009Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-peppermint-shea-foot-cream-with-argan-marula-oils-2-5-o.jpg",
+  "/products/iherb/mild-by-nature-peppermint-shea-foot-cream-with-argan-marula-oils-2-5-o-2.jpg",
+  "/products/iherb/mild-by-nature-peppermint-shea-foot-cream-with-argan-marula-oils-2-5-o-3.jpg",
+  "/products/iherb/mild-by-nature-peppermint-shea-foot-cream-with-argan-marula-oils-2-5-o-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-peppermint-shea-foot-cream-with-argan-marula-oils-2-5-oz-71-g/112417",
+ "pageTitle": "Mild By Nature, Peppermint & Shea Foot Cream with Argan & Marula Oils, 2.5 oz (71 g)",
+ "h1": "Mild By Nature, Peppermint & Shea Foot Cream with Argan & Marula Oils, 2.5 oz (71 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "112417",
+  "name": "Mild By Nature, Peppermint & Shea Foot Cream with Argan & Marula Oils, 2.5 oz (71 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/g/63.jpg",
+  "mpn": "MBN-02187",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 3956
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "183.53",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "244.71",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild by Nature® Peppermint & Shea Foot Cream Argan and Marula Oils with Aloe Vera, and Vitamin E Premium Oils from Rosehip, Avocado, Coconut, Jojoba, and Olive pH Balanced and Cruelty-Free For Soft, Smooth, Healthier-Looking Skin Formulated Without Parabens, Phthalates or Dyes No Fragrance Added Made in the USA with Globally Sourced Materials Everyday life can take quite a toll on your feet, leaving them feeling tired and the skin dry and uncomfortable. Mild by Nature® Peppermint & Shea Foot Cream is the perfect way to pamper your feet after a long day. This concentrated, moisture-rich cream helps to soothe and heal rough, cracked feet and heels. Our Foot Cream features hydrating shea butter and is infused with peppermint, argan and marula oils that lend a soothing scent to help calm the senses and the skin. The formula is completed with a premium blend of select oils, including avocado and coconut oil, that are rich in essential fatty acids, helping to refresh, nourish and moisturize your skin for softer, healthier feet.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.65"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02187",
+  "gtin12": "898220021871",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/g/63.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Body Care",
+  "Foot Care",
+  "Foot Cream & Treatments"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild by Nature® Peppermint & Shea Foot Cream",
+    "Argan and Marula Oils with Aloe Vera, and Vitamin E",
+    "Premium Oils from Rosehip, Avocado, Coconut, Jojoba, and Olive",
+    "pH Balanced and Cruelty-Free",
+    "For Soft, Smooth, Healthier-Looking Skin",
+    "Formulated Without Parabens, Phthalates or Dyes",
+    "No Fragrance Added",
+    "Made in the USA with Globally Sourced Materials"
+   ],
+   "paragraphs": [
+    "Everyday life can take quite a toll on your feet, leaving them feeling tired and the skin dry and uncomfortable. Mild by Nature® Peppermint & Shea Foot Cream is the perfect way to pamper your feet after a long day. This concentrated, moisture-rich cream helps to soothe and heal rough, cracked feet and heels.",
+    "Our Foot Cream features hydrating shea butter and is infused with peppermint, argan and marula oils that lend a soothing scent to help calm the senses and the skin. The formula is completed with a premium blend of select oils, including avocado and coconut oil, that are rich in essential fatty acids, helping to refresh, nourish and moisturize your skin for softer, healthier feet."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply liberally as often as needed. Massage from ankle to toes."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02187"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021871"
+  },
+  {
+   "label": "Package quantity",
+   "value": "71 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 4.6 x 4.2 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "71 g"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Cruelty-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#12 in",
+   "category": "Foot Care",
+   "href": "/c/foot-care?sr=2"
+  },
+  {
+   "rank": "#12 in",
+   "category": "Foot Cream & Treatments",
+   "href": "/c/foot-cream-treatments?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿244.71",
+  "฿244.71",
+  "฿3.45/‏g",
+  "{0}% off code: {1}",
+  "฿244.71",
+  "Save 25% in cart",
+  "฿3.45/‏g",
+  "฿183.53",
+  "(25% off)",
+  "฿244.71",
+  "฿2.58/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/g/63.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/k/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/g/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02187/s/34.jpg"
+ ]
+}

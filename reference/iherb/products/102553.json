@@ -1,0 +1,245 @@
+{
+ "pid": "102553",
+ "slug": "california-gold-nutrition-total-c-complex-with-ascorbic-acid-amla-extr",
+ "scrapedAt": "2026-08-25T17:45:20.617Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-total-c-complex-with-ascorbic-acid-amla-extr.jpg",
+  "/products/iherb/california-gold-nutrition-total-c-complex-with-ascorbic-acid-amla-extr-2.jpg",
+  "/products/iherb/california-gold-nutrition-total-c-complex-with-ascorbic-acid-amla-extr-3.jpg",
+  "/products/iherb/california-gold-nutrition-total-c-complex-with-ascorbic-acid-amla-extr-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-total-c-complex-with-ascorbic-acid-amla-extract-citrus-bioflavonoids-rose-hip-extract-500-mg-60-veggie-capsules/102553",
+ "pageTitle": "California Gold Nutrition, Total C Complex with Ascorbic Acid, Amla Extract, Citrus Bioflavonoids & Rose Hip Extract, 500 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, Total C Complex with Ascorbic Acid, Amla Extract, Citrus Bioflavonoids & Rose Hip Extract, 500 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102553",
+  "name": "California Gold Nutrition, Total C Complex with Ascorbic Acid, Amla Extract, Citrus Bioflavonoids & Rose Hip Extract, 500 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/g/29.jpg",
+  "mpn": "CGN-01883",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 5278
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "171.64",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "228.85",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "500 mg Vitamin C with Capros® Antioxidant & Immune System Support* California Gold Nutrition® Total C Complex features a Citrus Bioflavonoid PhytoComplex that includes Capros®, a premium Amla Extract, Citrus Bioflavonoids and Rose Hips. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01883",
+  "gtin12": "898220018833",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/g/29.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "500 mg Vitamin C with Capros®",
+    "Antioxidant & Immune System Support*"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Total C Complex features a Citrus Bioflavonoid PhytoComplex that includes Capros®, a premium Amla Extract, Citrus Bioflavonoids and Rose Hips.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01883"
+  },
+  {
+   "label": "UPC",
+   "value": "898220018833"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.2 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "500 mg",
+   "556%"
+  ],
+  [
+   "Total C PhytoComplexAmla Extract (Phyllanthus emblica) (fruit), Citrus Bioflavonoid Complex (from Citrus limon, sinensis, aurantifolia, reticulata, paradisi) (whole fruit), Rose Hips Extract (Rosa canina) (fruit)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿228.85",
+  "฿228.85",
+  "฿3.81/‏serving",
+  "{0}% off code: {1}",
+  "฿228.85",
+  "Save 25% in cart",
+  "฿3.81/‏serving",
+  "฿171.64",
+  "(25% off)",
+  "฿228.85",
+  "฿2.86/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/g/29.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/k/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/g/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01883/s/41.jpg"
+ ]
+}

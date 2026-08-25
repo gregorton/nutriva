@@ -1,0 +1,242 @@
+{
+ "pid": "153952",
+ "slug": "vitamatic-magnesium-gluconate-1-000-mg-180-tablets",
+ "scrapedAt": "2026-08-25T17:35:26.231Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/vitamatic-magnesium-gluconate-1-000-mg-180-tablets.jpg",
+  "/products/iherb/vitamatic-magnesium-gluconate-1-000-mg-180-tablets-2.jpg",
+  "/products/iherb/vitamatic-magnesium-gluconate-1-000-mg-180-tablets-3.jpg",
+  "/products/iherb/vitamatic-magnesium-gluconate-1-000-mg-180-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/vitamatic-magnesium-gluconate-1-000-mg-180-tablets/153952",
+ "pageTitle": "Vitamatic, Magnesium Gluconate, 1,000 mg, 180 Tablets",
+ "h1": "Vitamatic, Magnesium Gluconate, 1,000 mg, 180 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "153952",
+  "name": "Vitamatic, Magnesium Gluconate, 1,000 mg, 180 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/g/8.jpg",
+  "mpn": "VMC-47617",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 25
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Vitamatic",
+   "url": "https://vitamaticusa.com/",
+   "identifier": "VMC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.60",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "436.55",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "582.07",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Formulated by Healthcare Professional GMP Quality Assured Dietary Supplement Non GMO Supports muscle, nerve, heart health & enzyme function.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "VMC-47617",
+  "gtin12": "810078476177",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Formulated by Healthcare Professional",
+    "GMP Quality Assured",
+    "Dietary Supplement",
+    "Non GMO"
+   ],
+   "paragraphs": [
+    "Supports muscle, nerve, heart health & enzyme function."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 1 tablet daily with 8 to 12 oz of water or as directed by your healthcare provider."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, croscarmellose sodium, stearic acid, silicon dioxide, magnesium stearate.",
+    "Free of sugar, yeast, wheat, egg, artificial colors, flavors, and preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult with your healthcare provider if you are pregnant, nursing, taking any medications, or planning any medical procedures. Stop use immediately and consult your healthcare provider if you experience any adverse effects. Do not use it if the safety seal is broken or missing. Keep out of the reach of children. Store in a cool and dry place. Do not exceed the recommended dose. Food supplements should not be used as a substitute for a varied and balanced diet and healthy lifestyle."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VMC-47617"
+  },
+  {
+   "label": "UPC",
+   "value": "810078476177"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.7 x 7.2 x 7.1 cm, 0.27 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (from 1000 mg magnesium gluconate)",
+   "50 mg",
+   "12%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 7 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿582.07",
+  "฿582.07",
+  "฿3.23/‏serving",
+  "{0}% off code: {1}",
+  "฿582.07",
+  "Save 25% in cart",
+  "฿3.23/‏serving",
+  "฿436.55",
+  "(25% off)",
+  "฿582.07",
+  "฿2.43/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vmc/vmc47617/s/21.jpg"
+ ]
+}

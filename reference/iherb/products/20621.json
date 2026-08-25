@@ -1,0 +1,252 @@
+{
+ "pid": "20621",
+ "slug": "metagenics-magnesium-glycinate-100-mg-240-tablets",
+ "scrapedAt": "2026-08-25T17:33:30.899Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/metagenics-magnesium-glycinate-100-mg-240-tablets.jpg",
+  "/products/iherb/metagenics-magnesium-glycinate-100-mg-240-tablets-2.jpg",
+  "/products/iherb/metagenics-magnesium-glycinate-100-mg-240-tablets-3.jpg",
+  "/products/iherb/metagenics-magnesium-glycinate-100-mg-240-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/metagenics-magnesium-glycinate-100-mg-240-tablets/20621",
+ "pageTitle": "Metagenics, Magnesium Glycinate, 100 mg, 240 Tablets",
+ "h1": "Metagenics, Magnesium Glycinate, 100 mg, 240 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "20621",
+  "name": "Metagenics, Magnesium Glycinate, 100 mg, 240 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/g/25.jpg",
+  "mpn": "MTG-91020",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 629
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Metagenics",
+   "url": "http://www.metagenics.com/",
+   "identifier": "MTG"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.31",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2010.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Practitioner Recommended Scientifically Designed Muscle Health Supports Muscle And Nervous System Health Highly Absorbable Dietary Supplement This Product is Non-GMO Vegetarian Certified Gluten Free Certified B Corporation Magnesium Glycinate contains a magnesium amino acid chelate (bis-glycinate) for better absorption and intestinal tolerance. Magnesium Glycinate: Magnesium is essential for metabolic functions, muscle relaxation, and nervous system wellbeing. Doesn't rely on stomach acidity for absorption. Supports magnesium tolerance for improved bowel health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.2x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "MTG-91020",
+  "gtin12": "755571910202",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/g/25.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Practitioner Recommended",
+    "Scientifically Designed",
+    "Muscle Health",
+    "Supports Muscle And Nervous System Health",
+    "Highly Absorbable",
+    "Dietary Supplement",
+    "This Product is Non-GMO",
+    "Vegetarian",
+    "Certified Gluten Free",
+    "Certified B Corporation",
+    "Magnesium is essential for metabolic functions, muscle relaxation, and nervous system wellbeing.",
+    "Doesn't rely on stomach acidity for absorption.",
+    "Supports magnesium tolerance for improved bowel health."
+   ],
+   "paragraphs": [
+    "Magnesium Glycinate contains a magnesium amino acid chelate (bis-glycinate) for better absorption and intestinal tolerance.",
+    "Magnesium Glycinate:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one tablet three times daily or as directed by your healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, stearic acid (vegetable), croscarmellose sodium, and silica."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children.",
+    "Tamper evident: Do not use if safety seal is missing or broken.",
+    "Storage: Keep tightly closed in a cool, dry place. Do not refrigerate."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.59 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MTG-91020"
+  },
+  {
+   "label": "UPC",
+   "value": "755571910202"
+  },
+  {
+   "label": "Package quantity",
+   "value": "240 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.9 x 8.1 x 8 cm, 0.6 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 240"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Magnesium (as magnesium bis-glycinate)",
+   "100 mg",
+   "24%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "240"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "125361",
+   "url": "https://th.iherb.com/pr/metagenics-magnesium-glycinate-100-mg-120-tablets/125361",
+   "price": "฿1,181.60",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "240 count",
+   "pid": "20621",
+   "url": "https://th.iherb.com/pr/metagenics-magnesium-glycinate-100-mg-240-tablets/20621",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,010.00",
+  "฿2,010.00",
+  "฿8.38/‏serving",
+  "{0}% off code: {1}",
+  "฿2,010.00",
+  "Save 0% in cart",
+  "฿8.38/‏serving",
+  "฿2,010.00",
+  "(0% off)",
+  "฿2,010.00",
+  "฿8.38/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/g/25.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/k/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/g/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mtg/mtg91020/s/34.jpg"
+ ]
+}

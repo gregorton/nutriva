@@ -1,0 +1,351 @@
+{
+ "pid": "148648",
+ "slug": "catalo-kids-growth-multi-vitamins-plant-based-gummies-age-2-orange-str",
+ "scrapedAt": "2026-08-25T17:26:27.429Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/catalo-kids-growth-multi-vitamins-plant-based-gummies-age-2-orange-str.jpg",
+  "/products/iherb/catalo-kids-growth-multi-vitamins-plant-based-gummies-age-2-orange-str-2.jpg",
+  "/products/iherb/catalo-kids-growth-multi-vitamins-plant-based-gummies-age-2-orange-str-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/catalo-kids-growth-multi-vitamins-plant-based-gummies-age-2-orange-strawberry-cherry-60-vegetarian-gummies/148648",
+ "pageTitle": "CATALO, Kids Growth Multi-Vitamins, Plant Based Gummies, Age 2+, Orange, Strawberry & Cherry, 60 Vegetarian Gummies",
+ "h1": "CATALO, Kids Growth Multi-Vitamins, Plant Based Gummies, Age 2+, Orange, Strawberry & Cherry, 60 Vegetarian Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148648",
+  "name": "CATALO, Kids Growth Multi-Vitamins, Plant Based Gummies, Age 2+, Orange, Strawberry & Cherry, 60 Vegetarian Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/g/32.jpg",
+  "mpn": "CAT-02644",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 56
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "CATALO",
+   "url": "https://www.catalo.com/en",
+   "identifier": "CAT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.46",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "853.06",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Complete Daily Nutrition Needs for Growth or Development 12 Nutrients Zero Preservatives Zero Artificial Flavors Zero Artificial Colors Boost Immunity Support Brain Development Pectin-Based Easy Chewing Immune Support Brain Development Natural Wholesome Potency, Quality, Efficacy cGMP - Current Good Manufacturing Practices Packed with 12 nutrients, it supports children's growth and development. Made with natural pectin, it's soft and easy to chew, making it a smart choice for daily nutrition. 12 Essential Nutrients Vitamin B12, Inositol & Iodine - Nervous System Vitamin C - Immunity Vitamin B6 - Concentration & Mood Zinc - Growth & Development Biotin & Pantothenic Acid - Metabolism Folic Acid - Red Blood Cells Vitamin A & E - Vision Vitamin D - Teeth & Bones Health and Beauty from within CAre, viTAlity, Longevity. This is what CATALO stands for. It is our philosophy that true health and beauty radiate from within. We are committed to understanding your health needs and enhancing health through superior natural supplements that nourish your body. It all begins with care - a healthy body is vital for a happy life - By embracing all of natures goodness, we are proud to offer this wholesomeness directly to you and your family. When it comes to our products, we make no compromises. We are committed to delivering premium products that contain natural, high efficacy, high potency and safe ingredients, which provide the maximum health benefits benefits to our customers. We care because we treat your health as if it was our own.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.8x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "CAT-02644",
+  "gtin12": "810399026440",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Complete Daily Nutrition Needs for Growth or Development",
+    "12 Nutrients",
+    "Zero Preservatives",
+    "Zero Artificial Flavors",
+    "Zero Artificial Colors",
+    "Boost Immunity",
+    "Support Brain Development",
+    "Pectin-Based",
+    "Easy Chewing",
+    "Immune Support",
+    "Brain Development",
+    "Natural",
+    "Wholesome",
+    "Potency, Quality, Efficacy",
+    "cGMP - Current Good Manufacturing Practices",
+    "Vitamin B12, Inositol & Iodine - Nervous System",
+    "Vitamin C - Immunity",
+    "Vitamin B6 - Concentration & Mood",
+    "Zinc - Growth & Development",
+    "Biotin & Pantothenic Acid - Metabolism",
+    "Folic Acid - Red Blood Cells",
+    "Vitamin A & E - Vision",
+    "Vitamin D - Teeth & Bones"
+   ],
+   "paragraphs": [
+    "Packed with 12 nutrients, it supports children's growth and development. Made with natural pectin, it's soft and easy to chew, making it a smart choice for daily nutrition.",
+    "12 Essential Nutrients",
+    "Health and Beauty from within",
+    "CAre, viTAlity, Longevity. This is what CATALO stands for. It is our philosophy that true health and beauty radiate from within. We are committed to understanding your health needs and enhancing health through superior natural supplements that nourish your body.",
+    "It all begins with care - a healthy body is vital for a happy life - By embracing all of natures goodness, we are proud to offer this wholesomeness directly to you and your family.",
+    "When it comes to our products, we make no compromises. We are committed to delivering premium products that contain natural, high efficacy, high potency and safe ingredients, which provide the maximum health benefits benefits to our customers. We care because we treat your health as if it was our own."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For age 2 or above, take 2 gummies daily. Product should be fully chewed under adult supervision. Do not swallow directly."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, fruit and vegetable juice concentrate (color), pectin, sodium citrate, citric acid, flavors (orange, strawberry and cherry), coconut oil, carnauba wax, beta-carotene (color), choline bitartrate.",
+    "This product is manufactured and packaged in a facility which may also process egg, peanuts, gluten, milk, fish, crustacea, soy, tree nuts, nuts and their products.",
+    "Allergen Warning: Contains tree nuts (coconut).",
+    "Manufactured by a cGMP certified facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Gummies may stick together during storage, it is a normal phenomenon.",
+    "Take as serving directions. Do not exceed the recommended dosage. For children, advise to take with adult supervision.",
+    "Store in cool, dry place. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CAT-02644"
+  },
+  {
+   "label": "UPC",
+   "value": "810399026440"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.1 x 7.1 x 6.9 cm, 0.21 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV 1-3 yrs",
+   "%DV 4 yrs & up"
+  ],
+  [
+   "Calories",
+   "20",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "5 g",
+   "3%**",
+   "2%*"
+  ],
+  [
+   "Total Sugars",
+   "4 g",
+   "†",
+   "†"
+  ],
+  [
+   "Includes 4 g Added Sugars",
+   "",
+   "16%**",
+   "8%*"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "400 mcg",
+   "133%",
+   "44%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "20 mg",
+   "133%",
+   "22%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "10 mcg",
+   "67%",
+   "50%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha Tocopheryl Acetate)",
+   "7.4 mg",
+   "123%",
+   "49%"
+  ],
+  [
+   "Vitamin B-6 (as Pyridoxine HCL)",
+   "2 mg",
+   "400%",
+   "118%"
+  ],
+  [
+   "Folate",
+   "200 mcg DFE (118 mcg Folic Acid)",
+   "133%",
+   "50%"
+  ],
+  [
+   "Vitamin B-12 (as Cyanocobalamin)",
+   "2.4 mcg",
+   "267%",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "60 mcg",
+   "750%",
+   "200%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D-Pantothenate)",
+   "3 mg",
+   "150%",
+   "60%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "42 mcg",
+   "47%",
+   "28%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "2.7 mg",
+   "90%",
+   "25%"
+  ],
+  [
+   "Inositol",
+   "40 mcg",
+   "†",
+   "†"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.**Percent Daily Values (DV) are based on a 1,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†",
+  "†",
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Percent Daily Values (DV) are based on a 1,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 5 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿853.06",
+  "฿853.06",
+  "฿28.44/‏serving",
+  "{0}% off code: {1}",
+  "฿853.06",
+  "Save 0% in cart",
+  "฿28.44/‏serving",
+  "฿853.06",
+  "(0% off)",
+  "฿853.06",
+  "฿28.44/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cat/cat02644/s/24.jpg"
+ ]
+}

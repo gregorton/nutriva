@@ -1,0 +1,275 @@
+{
+ "pid": "62297",
+ "slug": "california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps",
+ "scrapedAt": "2026-08-25T17:45:35.047Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps.jpg",
+  "/products/iherb/california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps-2.jpg",
+  "/products/iherb/california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps-3.jpg",
+  "/products/iherb/california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps/62297",
+ "pageTitle": "California Gold Nutrition, Royal Jelly, 500 mg, 30 Veggie Caps",
+ "h1": "California Gold Nutrition, Royal Jelly, 500 mg, 30 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "62297",
+  "name": "California Gold Nutrition, Royal Jelly, 500 mg, 30 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/g/239.jpg",
+  "mpn": "CGN-00953",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 9255
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.07",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "182.10",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "242.80",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Royal Jelly Featuring Concentrated and Freeze-Dried Royal Jelly Equivalent to 1500 mg of Fresh Royal Jelly Helps Support Vitality* Suitable for Vegetarians Formulated without Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Royal jelly is a secretion that worker honey bees produce to nurture the Queen Bee. Because it contains a number of nutrients, royal jelly is thought to have beneficial effects when taken as a dietary supplement. California Gold Nutrition Royal Jelly contains a freeze-dried royal jelly concentrate, which can help support vitality.* Royal Jelly Benefits As a natural source of many nutrients, royal jelly can help provide the body with many beneficial compounds. This bee product contains many proteins, vitamins, amino acids, and a beneficial bioactive compound called 10-HDA. Research suggests that 10-HDA helps to support overall health and vitality.* California Gold Nutrition Royal Jelly features a 3:1 freeze dried royal jelly concentrate in veggie capsules. It is equivalent to 1500 mg of fresh royal jelly and contains a minimum of 6% 10-HDA. When taken as directed, this provides approximately a 4-month supply. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.75x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-00953",
+  "gtin12": "898220009534",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/g/239.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bee Products",
+  "Royal Jelly"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Royal Jelly",
+    "Featuring Concentrated and Freeze-Dried Royal Jelly",
+    "Equivalent to 1500 mg of Fresh Royal Jelly",
+    "Helps Support Vitality*",
+    "Suitable for Vegetarians",
+    "Formulated without Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Royal jelly is a secretion that worker honey bees produce to nurture the Queen Bee. Because it contains a number of nutrients, royal jelly is thought to have beneficial effects when taken as a dietary supplement. California Gold Nutrition Royal Jelly contains a freeze-dried royal jelly concentrate, which can help support vitality.*",
+    "Royal Jelly BenefitsAs a natural source of many nutrients, royal jelly can help provide the body with many beneficial compounds. This bee product contains many proteins, vitamins, amino acids, and a beneficial bioactive compound called 10-HDA. Research suggests that 10-HDA helps to support overall health and vitality.*",
+    "California Gold Nutrition Royal Jelly features a 3:1 freeze dried royal jelly concentrate in veggie capsules. It is equivalent to 1500 mg of fresh royal jelly and contains a minimum of 6% 10-HDA. When taken as directed, this provides approximately a 4-month supply.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Note: Bee-derived products may cause an allergic reaction in some people.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2014"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-00953"
+  },
+  {
+   "label": "UPC",
+   "value": "898220009534"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.4 x 4.4 x 4.4 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Royal Jelly (Freeze-Dried 3x)(Standardized to min. 6% 10-HDA)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "62297",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-royal-jelly-500-mg-30-veggie-caps/62297",
+   "price": "฿182.10",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "62298",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-royal-jelly-500-mg-120-veggie-capsules/62298",
+   "price": "฿840.76",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Royal Jelly",
+   "href": "/c/royal-jelly?sr=2"
+  },
+  {
+   "rank": "#6 in",
+   "category": "Bee Products",
+   "href": "/c/bee-products?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿242.80",
+  "฿242.80",
+  "฿8.09/‏serving",
+  "{0}% off code: {1}",
+  "฿242.80",
+  "Save 25% in cart",
+  "฿8.09/‏serving",
+  "฿182.10",
+  "(25% off)",
+  "฿242.80",
+  "฿6.07/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/g/239.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/k/239.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/g/239.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/s/239.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/s/244.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/s/247.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/s/160.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/s/159.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00953/s/158.jpg"
+ ]
+}

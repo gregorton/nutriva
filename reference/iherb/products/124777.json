@@ -1,0 +1,335 @@
+{
+ "pid": "124777",
+ "slug": "lifeable-kids-multivitamin-gummies-fruit-60-gummies",
+ "scrapedAt": "2026-08-25T17:20:45.543Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-kids-multivitamin-gummies-fruit-60-gummies.jpg",
+  "/products/iherb/lifeable-kids-multivitamin-gummies-fruit-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-kids-multivitamin-gummies-fruit-60-gummies/124777",
+ "pageTitle": "Lifeable, Kids Multivitamin Gummies, Fruit, 60 Gummies",
+ "h1": "Lifeable, Kids Multivitamin Gummies, Fruit, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124777",
+  "name": "Lifeable, Kids Multivitamin Gummies, Fruit, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/g/32.jpg",
+  "mpn": "LFB-73110",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 470
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "418.06",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Whole Body Health Kosher Vegetarian Gluten Free Nut Free Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73110",
+  "gtin12": "810102731104",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Whole Body Health",
+    "Kosher",
+    "Vegetarian",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, children 2-3 years old take one (1) gummy per day, children 4 years old and up take two [2] gummies per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, colors (black carrot concentrate, sodium copper chlorophyllin, curcumin and paprika extract), trisodium citrate, natural flavors, sodium ascorbate, carnauba wax, choline tartrate.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy, or shellfish. Produced in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using.",
+    "Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature.",
+    "Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73110"
+  },
+  {
+   "label": "UPC",
+   "value": "810102731104"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy (2 & 3 years); 2 Gummies (4 years and older)"
+  ],
+  [
+   "Servings Per Container: 60; 30"
+  ],
+  [
+   "",
+   "Amount Per Gummy",
+   "%Daily Value For Children 2-3 Years of Age (1 Gummy)†",
+   "%Daily Value For Adults and Children 4 Years of Age and Older (2 Gummies)††"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "2 g",
+   "1%",
+   "<2%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "4%",
+   "6%"
+  ],
+  [
+   "Vitamin A (as retinyl acetate)",
+   "200 mcg",
+   "67%",
+   "44%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "40 mg",
+   "267%",
+   "89%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "10 mcg (400 IU)",
+   "67%",
+   "50%"
+  ],
+  [
+   "Vitamin E (as DI-alpha tocopheryl acetate)",
+   "7.5 mg",
+   "125%",
+   "100%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "4 mg",
+   "67%",
+   "50%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "0.9 mg",
+   "180%",
+   "100%"
+  ],
+  [
+   "Folate",
+   "220 mg DFE (130 mcg folic acid)",
+   "147%",
+   "111%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "1.2 mcg",
+   "133%",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "15 mcg",
+   "188%",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as calcium d-pantothenate)",
+   "2.5 mg",
+   "125%",
+   "100%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "75 mcg",
+   "83%",
+   "100%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "1 mg",
+   "33%",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "2.5 mg",
+   "<1%",
+   "<1%"
+  ],
+  [
+   "†Percent Daily Values are based on a 1,000 calorie diet.††Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Gummy\t%Daily Value For Children 2-3 Years of Age (1 Gummy)†\t%Daily Value For Adults and Children 4 Years of Age and Older (2 Gummies)††",
+  "†Percent Daily Values are based on a 1,000 calorie diet.",
+  "††Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿418.06",
+  "฿418.06",
+  "฿6.97/‏serving",
+  "{0}% off code: {1}",
+  "฿418.06",
+  "Save 0% in cart",
+  "฿6.97/‏serving",
+  "฿418.06",
+  "(0% off)",
+  "฿418.06",
+  "฿6.97/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73110/s/37.jpg"
+ ]
+}

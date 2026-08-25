@@ -1,0 +1,343 @@
+{
+ "pid": "142102",
+ "slug": "legion-athletics-whey-whey-protein-powder-chocolate-peanut-butter-2-13",
+ "scrapedAt": "2026-08-25T17:18:47.698Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/legion-athletics-whey-whey-protein-powder-chocolate-peanut-butter-2-13.jpg",
+  "/products/iherb/legion-athletics-whey-whey-protein-powder-chocolate-peanut-butter-2-13-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-chocolate-peanut-butter-2-13-lbs-966-g/142102",
+ "pageTitle": "Legion Athletics, Whey+, Whey Protein Powder, Chocolate Peanut Butter, 2.13 lbs (966 g)",
+ "h1": "Legion Athletics, Whey+, Whey Protein Powder, Chocolate Peanut Butter, 2.13 lbs (966 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142102",
+  "name": "Legion Athletics, Whey+, Whey Protein Powder, Chocolate Peanut Butter, 2.13 lbs (966 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/g/2.jpg",
+  "mpn": "LGA-67381",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 39
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Legion Athletics",
+   "url": "https://legionathletics.com",
+   "identifier": "LGA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.26",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2608.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass-Fed Whey Protein Isolate Naturally Sweetened & Flavored No Added Sugars Whey Protein 23 g Per Serving Dietary Supplement Natural Ingredients Gluten-Free Third-Party Tested Hormone & Antibiotic Free Non-GMO Whey+ is a 100% natural whey isolate protein powder made with exceptionally high-quality milk from small, sustainable dairy farms in Ireland. It's also naturally sweetened and flavored and contains no artificial food dyes, fillers, or other unnecessary junk. So, if you want a clean, all-natural, delicious whey protein isolate powder with no chemical junk and cheap fillers, Whey+ is for you.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.7x5.1"
+  },
+  "isRelatedTo": null,
+  "sku": "LGA-67381",
+  "gtin12": "653341673817",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/g/2.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Isolate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass-Fed Whey Protein Isolate",
+    "Naturally Sweetened & Flavored",
+    "No Added Sugars",
+    "Whey Protein 23 g Per Serving",
+    "Dietary Supplement",
+    "Natural Ingredients",
+    "Gluten-Free",
+    "Third-Party Tested",
+    "Hormone & Antibiotic Free",
+    "Non-GMO"
+   ],
+   "paragraphs": [
+    "Whey+ is a 100% natural whey isolate protein powder made with exceptionally high-quality milk from small, sustainable dairy farms in Ireland.",
+    "It's also naturally sweetened and flavored and contains no artificial food dyes, fillers, or other unnecessary junk.",
+    "So, if you want a clean, all-natural, delicious whey protein isolate powder with no chemical junk and cheap fillers, Whey+ is for you."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, mix 1 serving with 8 to 10 ounces of water, milk, or your favorite beverage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Peanut flour, cocoa powder (processed with alkali), natural flavors, salt, sunflower lecithin, xanthan gum, stevia leaf extract, silica.",
+    "Contains Milk, Peanuts.",
+    "Allergen Warning: This product is manufactured in a facility which may also process milk, soy, wheat, egg, peanuts, tree nuts, fish and shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consuming this product can expose you to chemicals including lead which is know to the State of California to cause cancer and birth defects or other reproductive harm. Prop 65.",
+    "Not intended for persons under the age of 18. Do not use if pregnant or nursing. Consult a health care professional prior to consumption if you have any pre-existing medical conditions or are taking any prescription medication. Improper use of this product will not improve results and is potentially hazardous to a person's health. Use only as directed. Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LGA-67381"
+  },
+  {
+   "label": "UPC",
+   "value": "653341673817"
+  },
+  {
+   "label": "Package quantity",
+   "value": "966 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "24 x 19.6 x 13 cm, 1.03 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (32.2 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "115",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "2%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "230 mg",
+   "10%"
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "†"
+  ],
+  [
+   "Includes 0g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "23 g",
+   "47%"
+  ],
+  [
+   "Calcium",
+   "110 mg",
+   "9%"
+  ],
+  [
+   "Iron",
+   "0.5 mg",
+   "3%"
+  ],
+  [
+   "Magnesium",
+   "30 mg",
+   "7%"
+  ],
+  [
+   "Potassium",
+   "150 mg",
+   "3%"
+  ],
+  [
+   "Non-GMO Whey Protein Isolate",
+   "25 g",
+   "†"
+  ],
+  [
+   "Non-GMO Maltodextrin",
+   "1 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Value Based on a 2,000 Calorie Diet†Daily Value Not Established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Value Based on a 2,000 Calorie Diet",
+  "†Daily Value Not Established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "All-natural"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "816 g",
+   "pid": "142101",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-french-vanilla-1-8-lbs-816-g/142101",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "867 g",
+   "pid": "142100",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-dutch-chocolate-1-91-lbs-867-g/142100",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "879 g",
+   "pid": "142107",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-cookies-cream-1-94-lbs-879-g/142107",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "966 g",
+   "pid": "142102",
+   "url": "https://th.iherb.com/pr/legion-athletics-whey-whey-protein-powder-chocolate-peanut-butter-2-13-lbs-966-g/142102",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,608.00",
+  "฿2,608.00",
+  "฿86.93/‏serving",
+  "{0}% off code: {1}",
+  "฿2,608.00",
+  "Save 0% in cart",
+  "฿86.93/‏serving",
+  "฿2,608.00",
+  "(0% off)",
+  "฿2,608.00",
+  "฿86.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/g/2.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/k/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/g/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/s/2.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/s/3.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lga/lga67381/b/2.jpg"
+ ]
+}

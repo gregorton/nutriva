@@ -1,0 +1,363 @@
+{
+ "pid": "99568",
+ "slug": "21st-century-zoo-friends-multi-gummies-plus-extra-c-great-tasting-frui",
+ "scrapedAt": "2026-08-25T17:05:29.108Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-plus-extra-c-great-tasting-frui.jpg",
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-plus-extra-c-great-tasting-frui-2.jpg",
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-plus-extra-c-great-tasting-frui-3.jpg",
+  "/products/iherb/21st-century-zoo-friends-multi-gummies-plus-extra-c-great-tasting-frui-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-zoo-friends-multi-gummies-plus-extra-c-great-tasting-fruit-60-gummies/99568",
+ "pageTitle": "21st Century, Zoo Friends® Multi Gummies, Plus Extra C, Great Tasting Fruit, 60 Gummies",
+ "h1": "21st Century, Zoo Friends® Multi Gummies, Plus Extra C, Great Tasting Fruit, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "99568",
+  "name": "21st Century, Zoo Friends® Multi Gummies, Plus Extra C, Great Tasting Fruit, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/g/39.jpg",
+  "mpn": "CEN-27685",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 20778
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.46",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "236.23",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Great Tasting Fruit Flavors Children's Multivitamin Supplement Multi + Immune Health Naturally Sourced Color & Flavors Gluten Free Non-GMO Vegetarian Friendly Guaranteed Quality Laboratory Tested Trusted Quality For Over 30 Years 21st Century® Zoo Friends® Multi Gummies Plus Extra C are great tasting, bear shaped gummies with naturally sourced fruit flavors! Parents, you can be sure that your children are receiving quality nutritional support with each daily serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-27685",
+  "gtin12": "740985276853",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/g/39.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Great Tasting Fruit Flavors",
+    "Children's Multivitamin Supplement",
+    "Multi + Immune Health",
+    "Naturally Sourced Color & Flavors",
+    "Gluten Free",
+    "Non-GMO",
+    "Vegetarian Friendly",
+    "Guaranteed Quality",
+    "Laboratory Tested",
+    "Trusted Quality For Over 30 Years"
+   ],
+   "paragraphs": [
+    "21st Century® Zoo Friends® Multi Gummies Plus Extra C are great tasting, bear shaped gummies with naturally sourced fruit flavors! Parents, you can be sure that your children are receiving quality nutritional support with each daily serving."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, children 2 to 3 years of age chew one (1) gummy daily; children 4 years of age and older and adults, chew one (1) gummy twice daily with any meal or as directed by a healthcare provider. Do not exceed recommended dosage. Individual results may vary."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, cane sugar, water, pectin. Contains <2% of: Carnauba wax, citric acid, colors (vegetable and fruit juice), gellan gum, natural flavors, sodium citrate, sunflower oil.",
+    "No artificial flavors, artificial sweeteners, milk, soy, wheat or yeast."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare provider prior to use if pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.",
+    "Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature.",
+    "Gummy color will darken over time. This does not alter the potency of the product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-27685"
+  },
+  {
+   "label": "UPC",
+   "value": "740985276853"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.4 x 6.4 x 6.4 cm, 0.21 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value 2-3 Yrs.",
+   "%Daily Value 4 & Up"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%††",
+   "1%†"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "**",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "4%††",
+   "2%†"
+  ],
+  [
+   "Vitamin A (as Retinyl Palmitate)",
+   "315 mcg",
+   "105%",
+   "35%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "40 mg",
+   "267%",
+   "44%"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "5 mcg (200 IU)",
+   "33%",
+   "25%"
+  ],
+  [
+   "Vitamin E (dl-Alpha Tocopheryl Acetate)",
+   "3.7 mg",
+   "62%",
+   "25%"
+  ],
+  [
+   "Vitamin B-6 (as Pyridoxine HCl)",
+   "1 mg",
+   "200%",
+   "59%"
+  ],
+  [
+   "Folate",
+   "217 mcg DFE(130 mcg Folic Acid)",
+   "144%",
+   "54%"
+  ],
+  [
+   "Vitamin B-12 (as Cyanocobalamin)",
+   "3 mcg",
+   "333%",
+   "125%"
+  ],
+  [
+   "Biotin",
+   "30 mcg",
+   "375%",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as d-Calcium Pantothenate)",
+   "2.6 mg",
+   "130%",
+   "52%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "20 mcg",
+   "<1%",
+   "<1%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "21 mcg",
+   "23%",
+   "14%"
+  ],
+  [
+   "Zinc (as Zinc Sulfate)",
+   "1.35 mg",
+   "45%",
+   "12%"
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "1%",
+   "<1%"
+  ],
+  [
+   "Inositol",
+   "20 mcg",
+   "**",
+   "**"
+  ],
+  [
+   "†Percent Daily Value based on a 2,000 calorie diet.††Percent Daily Value based on a 1,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value 2-3 Yrs.\t%Daily Value 4 & Up",
+  "†Percent Daily Value based on a 2,000 calorie diet.",
+  "††Percent Daily Value based on a 1,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial flavors",
+    "Milk-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#5 in",
+   "category": "Children's Multivitamins",
+   "href": "/c/childrens-multivitamins?sr=2"
+  },
+  {
+   "rank": "#9 in",
+   "category": "Children's Vitamins",
+   "href": "/c/childrens-vitamins?sr=2"
+  },
+  {
+   "rank": "#21 in",
+   "category": "Multivitamins",
+   "href": "/c/multivitamins?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿236.23",
+  "฿236.23",
+  "฿3.94/‏serving",
+  "{0}% off code: {1}",
+  "฿236.23",
+  "Save 0% in cart",
+  "฿3.94/‏serving",
+  "฿236.23",
+  "(0% off)",
+  "฿236.23",
+  "฿3.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/g/39.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/k/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/g/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/42.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27685/s/54.jpg"
+ ]
+}

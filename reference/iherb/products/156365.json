@@ -1,0 +1,256 @@
+{
+ "pid": "156365",
+ "slug": "sports-research-sleep-complex-with-melatonin-60-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:31:49.025Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/sports-research-sleep-complex-with-melatonin-60-veggie-capsules.jpg",
+  "/products/iherb/sports-research-sleep-complex-with-melatonin-60-veggie-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/sports-research-sleep-complex-with-melatonin-60-veggie-capsules/156365",
+ "pageTitle": "Sports Research, Sleep Complex with Melatonin, 60 Veggie Capsules",
+ "h1": "Sports Research, Sleep Complex with Melatonin, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "156365",
+  "name": "Sports Research, Sleep Complex with Melatonin, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/g/8.jpg",
+  "mpn": "SRE-09374",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.2,
+   "reviewCount": 8
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Sports Research",
+   "url": "http://www.sportsresearch.com/",
+   "identifier": "SRE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1147.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-30T00:00:00"
+  },
+  "description": "5 mg Melatonin 200 mg Valerian Root With L-Theanine, GABA & 5-HTP Dietary Supplement Gluten Free Third Party Tested cGMP Compliant Igen Non-GMO Tested Certified Vegan - American Vegetarian Association Non BPA Rest easy with 5 active ingredients that work together to provide comprehensive sleep care which help you fall asleep faster and stay asleep longer. Each serving delivers 3 types of magnesium– Aquamin Magnesium Hydroxide from seawater, Magnesium Glycinate, and Magnesium Citrate– as well as a standardized form of Valerian Root to ensure you receive high-quality, consistent, and well-rounded support you can trust.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SRE-09374",
+  "gtin12": "023249093749",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "5 mg Melatonin",
+    "200 mg Valerian Root",
+    "With L-Theanine, GABA & 5-HTP",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Third Party Tested",
+    "cGMP Compliant",
+    "Igen Non-GMO Tested",
+    "Certified Vegan - American Vegetarian Association",
+    "Non BPA"
+   ],
+   "paragraphs": [
+    "Rest easy with 5 active ingredients that work together to provide comprehensive sleep care which help you fall asleep faster and stay asleep longer. Each serving delivers 3 types of magnesium– Aquamin Magnesium Hydroxide from seawater, Magnesium Glycinate, and Magnesium Citrate– as well as a standardized form of Valerian Root to ensure you receive high-quality, consistent, and well-rounded support you can trust."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 2 veggie capsules 30 to 45 minutes before bedtime with a light snack, or as recommended by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Veggie capsule (hypromellose), ascorbyl palmitate, rice hulls, bamboo (Phyllostachys viridis) leaf extract.",
+    "Proudly manufactured in the USA with carefully selected ingredients of domestic and international origins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Keep out of reach of children and pets. Do not drive, operate heavy machinery, or consume alcohol when taking this product. Not recommended for pregnant or nursing women. May cause drowsiness. Consult with a qualified healthcare professional prior to using this product, especially if you have a diagnosed medical condition (e.g. kidney disease) or are taking a prescription medication (e.g. antidepressants). May cause digestive discomfort if taken on an empty stomach. Do not exceed recommended daily intake. Do not use if safety seal is damaged or missing. Store at room temperature, in a dry place. Protect from excessive heat, freezing, humidity and light."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SRE-09374"
+  },
+  {
+   "label": "UPC",
+   "value": "023249093749"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.3 x 5.2 x 5.2 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veggie Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (as hydroxide, glycinate, citrate)",
+   "140 mg",
+   "33%"
+  ],
+  [
+   "Valerian Root Extract (Sleeproot)",
+   "200 mg",
+   "†"
+  ],
+  [
+   "L-Theanine",
+   "200 mg",
+   "†"
+  ],
+  [
+   "GABA (gamma-aminobutyric acid)(PharmaGABA ®)",
+   "125 mg",
+   "†"
+  ],
+  [
+   "5-HTP (5-Hydroxytryptophan) (fromGriffonia simplicifolia extract) (seed)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Melatonin",
+   "5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veggie capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Bpa-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock - Only 2 left, more to come"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,147.04",
+  "฿1,147.04",
+  "฿38.23/‏serving",
+  "{0}% off code: {1}",
+  "฿1,147.04",
+  "Save 0% in cart",
+  "฿38.23/‏serving",
+  "฿1,147.04",
+  "(0% off)",
+  "฿1,147.04",
+  "฿38.23/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sre/sre09374/s/13.jpg"
+ ]
+}

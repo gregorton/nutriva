@@ -1,0 +1,259 @@
+{
+ "pid": "37505",
+ "slug": "now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsu",
+ "scrapedAt": "2026-08-25T17:40:22.661Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "3K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsu.jpg",
+  "/products/iherb/now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsu-2.jpg",
+  "/products/iherb/now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsu-3.jpg",
+  "/products/iherb/now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsu-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsules/37505",
+ "pageTitle": "NOW Foods, Saccharomyces Boulardii, Probiotic , 5 Billion CFU, 60 Veg Capsules",
+ "h1": "NOW Foods, Saccharomyces Boulardii, Probiotic , 5 Billion CFU, 60 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "37505",
+  "name": "NOW Foods, Saccharomyces Boulardii, Probiotic , 5 Billion CFU, 60 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/g/51.jpg",
+  "mpn": "NOW-02934",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 15245
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "504.62",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "For Occasional Diarrhea Supports a Healthy Balance of Intestinal Flora Useful When Traveling / Gluten-Free Non-GMO A Dietary Supplement Vegetarian/Vegan Kosher Digestive Family Owned Since 1968 GMP Quality Assured Halal Saccharomyces boulardii is a probiotic yeast that survives stomach acid and colonizes the intestinal tract. It promotes the health of the intestinal tract, helps to encourage a healthy gut flora balance, and supports a balanced intestinal response to normal internal and environmental stressors. Saccharomyces boulardii has also been shown to support proper gastrointestinal function during temporary disruptions to the normal balance of gut flora.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-02934",
+  "gtin12": "733739029348",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/g/51.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics",
+  "Saccharomyces Boulardii"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "For Occasional Diarrhea",
+    "Supports a Healthy Balance of Intestinal Flora",
+    "Useful When Traveling / Gluten-Free",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Digestive",
+    "Family Owned Since 1968",
+    "GMP Quality Assured",
+    "Halal"
+   ],
+   "paragraphs": [
+    "Saccharomyces boulardii is a probiotic yeast that survives stomach acid and colonizes the intestinal tract. It promotes the health of the intestinal tract, helps to encourage a healthy gut flora balance, and supports a balanced intestinal response to normal internal and environmental stressors. Saccharomyces boulardii has also been shown to support proper gastrointestinal function during temporary disruptions to the normal balance of gut flora."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1-2 capsules 2 to 3 times daily between meals as needed."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), organic inulin (fos) (fructooligosaccharides) and guar gum.",
+    "Not manufactured with wheat, gluten, soy, corn, milk, egg, fish, shellfish or tree nut ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult physician if pregnant/nursing, taking medication (especially immune-suppressing drugs), or have a medical condition (especially if immune system is compromised). Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-02934"
+  },
+  {
+   "label": "UPC",
+   "value": "733739029348"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5 x 5 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veg Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Saccharomyces boulardii (10 Billion CFU)(Saccharomyces cerevisiae var. boulardii I-3799)",
+   "1,000 mg",
+   "**"
+  ],
+  [
+   "** Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "** Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veg capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "37505",
+   "url": "https://th.iherb.com/pr/now-foods-saccharomyces-boulardii-probiotic-5-billion-cfu-60-veg-capsules/37505",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "96628",
+   "url": "https://th.iherb.com/pr/now-foods-saccharomyces-boulardii-5-billion-cfu-120-veg-capsules/96628",
+   "price": "฿918.03",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿504.62",
+  "฿504.62",
+  "฿16.82/‏serving",
+  "{0}% off code: {1}",
+  "฿504.62",
+  "Save 0% in cart",
+  "฿16.82/‏serving",
+  "฿504.62",
+  "(0% off)",
+  "฿504.62",
+  "฿16.82/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/g/51.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/k/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/g/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now02934/s/62.jpg"
+ ]
+}

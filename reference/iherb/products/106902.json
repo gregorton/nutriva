@@ -1,0 +1,205 @@
+{
+ "pid": "106902",
+ "slug": "california-gold-nutrition-foods-organic-oregano-0-8-oz-22-6-g",
+ "scrapedAt": "2026-08-25T17:51:01.557Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-foods-organic-oregano-0-8-oz-22-6-g.jpg",
+  "/products/iherb/california-gold-nutrition-foods-organic-oregano-0-8-oz-22-6-g-2.jpg",
+  "/products/iherb/california-gold-nutrition-foods-organic-oregano-0-8-oz-22-6-g-3.jpg",
+  "/products/iherb/california-gold-nutrition-foods-organic-oregano-0-8-oz-22-6-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-foods-organic-oregano-0-8-oz-22-6-g/106902",
+ "pageTitle": "California Gold Nutrition, Foods, Organic Oregano, 0.8 oz (22.6 g)",
+ "h1": "California Gold Nutrition, Foods, Organic Oregano, 0.8 oz (22.6 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "106902",
+  "name": "California Gold Nutrition, Foods, Organic Oregano, 0.8 oz (22.6 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/g/66.jpg",
+  "mpn": "CGN-02037",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3292
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.11",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "109.71",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "146.28",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Organic Oregano Certified Organic Oregano Perfect for Adding Flavor to Chicken, Pork, Vegetables, Pasta, Tomato Sauces, and More Suitable for Vegetarians and Vegans Non-Irradiated, Non-ETO Contains No Gluten, No GMOs, and No Soy 100% Gold Guarantee Cooking is all about finding the perfect balance of seasonings to enhance the natural flavors of food. California Gold Nutrition Organic Oregano can help you liven up your savory dishes with a hint of sweet and earthy flavors. Meal Inspiration This dried herb is a perfect complement for many tomato-based recipes, like pasta and pizza sauces. However, it can also blend well with other herbs and spices to create tasty dry rubs and marinades for chicken, pork, lamb, and vegetables. California Gold Nutrition Organic Oregano is made with certified organic oregano and contains no gluten or GMOs.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.85x1.8"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02037",
+  "gtin12": "898220020379",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/g/66.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Herbs & Spices",
+  "Oregano Spices"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Organic Oregano",
+    "Certified Organic Oregano",
+    "Perfect for Adding Flavor to Chicken, Pork, Vegetables, Pasta, Tomato Sauces, and More",
+    "Suitable for Vegetarians and Vegans",
+    "Non-Irradiated, Non-ETO",
+    "Contains No Gluten, No GMOs, and No Soy",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Cooking is all about finding the perfect balance of seasonings to enhance the natural flavors of food. California Gold Nutrition Organic Oregano can help you liven up your savory dishes with a hint of sweet and earthy flavors.",
+    "Meal Inspiration",
+    "This dried herb is a perfect complement for many tomato-based recipes, like pasta and pizza sauces. However, it can also blend well with other herbs and spices to create tasty dry rubs and marinades for chicken, pork, lamb, and vegetables.",
+    "California Gold Nutrition Organic Oregano is made with certified organic oregano and contains no gluten or GMOs."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02037"
+  },
+  {
+   "label": "UPC",
+   "value": "898220020379"
+  },
+  {
+   "label": "Package quantity",
+   "value": "22.6 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 4.7 x 4.6 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "22.6 g"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Kosher",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿146.28",
+  "฿146.28",
+  "฿6.47/‏g",
+  "{0}% off code: {1}",
+  "฿146.28",
+  "Save 25% in cart",
+  "฿6.47/‏g",
+  "฿109.71",
+  "(25% off)",
+  "฿146.28",
+  "฿4.85/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/g/66.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/k/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/g/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02037/b/66.jpg"
+ ]
+}

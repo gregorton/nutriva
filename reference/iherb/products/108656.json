@@ -1,0 +1,247 @@
+{
+ "pid": "108656",
+ "slug": "nature-s-truth-turmeric-curcumin-plus-ginger-astragalus-black-pepper-e",
+ "scrapedAt": "2026-08-25T17:28:43.946Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-truth-turmeric-curcumin-plus-ginger-astragalus-black-pepper-e.jpg",
+  "/products/iherb/nature-s-truth-turmeric-curcumin-plus-ginger-astragalus-black-pepper-e-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-truth-turmeric-curcumin-plus-ginger-astragalus-black-pepper-extract-60-rapid-release-liquid-softgels/108656",
+ "pageTitle": "Nature's Truth, Turmeric Curcumin plus Ginger, Astragalus & Black Pepper Extract, 60 Rapid Release Liquid Softgels",
+ "h1": "Nature's Truth, Turmeric Curcumin plus Ginger, Astragalus & Black Pepper Extract, 60 Rapid Release Liquid Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "108656",
+  "name": "Nature's Truth, Turmeric Curcumin plus Ginger, Astragalus & Black Pepper Extract, 60 Rapid Release Liquid Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/g/56.jpg",
+  "mpn": "NTH-11235",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 363
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Truth",
+   "url": "http://www.naturestruthproducts.com/",
+   "identifier": "NTH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "632.58",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Rapid Release 1,600 mg Equivalent** Per Serving Non GMO Gluten Free Herbal Supplement Traditionally Herbal Support 100% Quality Spice up your wellness routine with Turmeric! More than just a spice, Turmeric has been a staple in folk and Ayurvedic wellness traditions for centuries. Known for giving curry its signature golden hue, Turmeric is supportive of your wellness goals. Our unique formula uses advanced technology to combine Turmeric with Ginger and Astragalus in a rapid release softgel that delivers you with the support you want when you want it most. Enhanced with a standardized Black Pepper Extract for added support, this synergistic blend of Ayurvedic herbs provides you with 1,600 mg of Turmeric Curcumin, 200 mg of Astragalus, and 200 mg of Ginger per serving. At Nature’s Truth®, we know how important a clean wellness experience is for you and your family. That is why our Rapid Release Turmeric Curcumin Softgels are Non-GMO, gluten free, and created without any artificial flavors, artificial sweeteners, or preservatives so you can feel good about adding it to your wellness routine. **Equivalent from a proprietary blend of Turmeric 10:1 Extract and Turmeric Standardized Extract per serving.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NTH-11235",
+  "gtin12": "840093112354",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/g/56.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Ginger Root Supplements",
+  "Turmeric Ginger Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Rapid Release",
+    "1,600 mg Equivalent** Per Serving",
+    "Non GMO",
+    "Gluten Free",
+    "Herbal Supplement",
+    "Traditionally Herbal Support",
+    "100% Quality"
+   ],
+   "paragraphs": [
+    "Spice up your wellness routine with Turmeric! More than just a spice, Turmeric has been a staple in folk and Ayurvedic wellness traditions for centuries. Known for giving curry its signature golden hue, Turmeric is supportive of your wellness goals. Our unique formula uses advanced technology to combine Turmeric with Ginger and Astragalus in a rapid release softgel that delivers you with the support you want when you want it most. Enhanced with a standardized Black Pepper Extract for added support, this synergistic blend of Ayurvedic herbs provides you with 1,600 mg of Turmeric Curcumin, 200 mg of Astragalus, and 200 mg of Ginger per serving. At Nature’s Truth®, we know how important a clean wellness experience is for you and your family. That is why our Rapid Release Turmeric Curcumin Softgels are Non-GMO, gluten free, and created without any artificial flavors, artificial sweeteners, or preservatives so you can feel good about adding it to your wellness routine.",
+    "**Equivalent from a proprietary blend of Turmeric 10:1 Extract and Turmeric Standardized Extract per serving."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take two (2) rapid release liquid softgels daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sunflower oil and/or rice bran oil, gelatin, vegetable glycerin, sunflower lecithin and/or soy lecithin, yellow beeswax, calcium carbonate, yellow iron oxide (color).",
+    "Contains soy ingredients.",
+    "Free of gluten, wheat, yeast, milk, lactose, artificial flavor, artificial sweetener, preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for use by persons under the age of 18. If you are pregnant, nursing, taking any medications or have any medical condition, including gallbladder or bile duct conditions, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTH-11235"
+  },
+  {
+   "label": "UPC",
+   "value": "840093112354"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 5 x 5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Rapid Release Liquid Softgels"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Curcumin Complex:Turmeric (Curcuma longa) (root) (from 10:1 extract)Turmeric Extract (Curcuma longa) (root) (standardized to contain 95% curcuminoids)",
+   "1,600 mg (1.6 g)",
+   "*"
+  ],
+  [
+   "Astragalus(Astragalus membranaceus) (root) (from 50 mg of 4:1 extract)",
+   "200 mg",
+   "*"
+  ],
+  [
+   "Ginger (Zingiber officinale) (root) (from 50 mg of 4:1 extract)",
+   "200 mg",
+   "*"
+  ],
+  [
+   "Black Pepper Extract(Piper nigrum) (fruit) (standardized to contain 95% piperine)",
+   "1 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 rapid release liquid softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial flavors",
+    "Milk-free",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿632.58",
+  "฿632.58",
+  "฿21.09/‏serving",
+  "{0}% off code: {1}",
+  "฿632.58",
+  "Save 0% in cart",
+  "฿21.09/‏serving",
+  "฿632.58",
+  "(0% off)",
+  "฿632.58",
+  "฿21.09/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/g/56.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/k/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/g/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth11235/s/61.jpg"
+ ]
+}

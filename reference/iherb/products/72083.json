@@ -1,0 +1,258 @@
+{
+ "pid": "72083",
+ "slug": "california-gold-nutrition-euroherbs-panax-ginseng-extract-euromed-qual",
+ "scrapedAt": "2026-08-25T17:46:29.971Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-euroherbs-panax-ginseng-extract-euromed-qual.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-panax-ginseng-extract-euromed-qual-2.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-panax-ginseng-extract-euromed-qual-3.jpg",
+  "/products/iherb/california-gold-nutrition-euroherbs-panax-ginseng-extract-euromed-qual-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-euroherbs-panax-ginseng-extract-euromed-quality-250-mg-60-veggie-capsules/72083",
+ "pageTitle": "California Gold Nutrition, EuroHerbs®, Panax Ginseng Extract, Euromed Quality, 250 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, EuroHerbs®, Panax Ginseng Extract, Euromed Quality, 250 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "72083",
+  "name": "California Gold Nutrition, EuroHerbs®, Panax Ginseng Extract, Euromed Quality, 250 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/g/189.jpg",
+  "mpn": "CGN-01114",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 1856
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "351.28",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "468.37",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® EuroHerbs® Panax Ginseng Phyto-Proof® EuroMed Quality Supports Energy & Well Being* Standardized to 4% Ginsenosides Panax Ginseng Origin Korea / Processed in Germany Green Veggie Capsules Made with Chlorophyll Formulated to contain: No GMOs, No Gluten, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Ginseng has been revered for centuries in Traditional Asian Medicine as an adaptogen and an overall wellness tonic. Modern research suggests that it is the Ginsenosides within Ginseng that may account for its ability to help support energy and overall well being.* California Gold Nutrition® EuroHerbs® Panax Ginseng contains a premium grade extract standardized to 4% Ginsenosides. The naturally colored green veggie capsules are made with Chlorophyll sourced from Alfalfa and Mulberry leaves. Euromed is one of the world's leading European manufacturers of standardized \"Pharmacopoeia Grade\" herbal extracts. The Phyto-Proof® seal confirms the use of elite seed cultivars for seed to finished extract quality control. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01114",
+  "gtin12": "898220011148",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/g/189.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Herbs",
+  "Ginseng",
+  "Asian Ginseng"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® EuroHerbs® Panax Ginseng",
+    "Phyto-Proof® EuroMed Quality",
+    "Supports Energy & Well Being*",
+    "Standardized to 4% Ginsenosides",
+    "Panax Ginseng Origin Korea / Processed in Germany",
+    "Green Veggie Capsules Made with Chlorophyll",
+    "Formulated to contain: No GMOs, No Gluten, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Ginseng has been revered for centuries in Traditional Asian Medicine as an adaptogen and an overall wellness tonic. Modern research suggests that it is the Ginsenosides within Ginseng that may account for its ability to help support energy and overall well being.*California Gold Nutrition® EuroHerbs® Panax Ginseng contains a premium grade extract standardized to 4% Ginsenosides. The naturally colored green veggie capsules are made with Chlorophyll sourced from Alfalfa and Mulberry leaves.",
+    "Euromed is one of the world's leading European manufacturers of standardized \"Pharmacopoeia Grade\" herbal extracts. The Phyto-Proof® seal confirms the use of elite seed cultivars for seed to finished extract quality control.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01114"
+  },
+  {
+   "label": "UPC",
+   "value": "898220011148"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 5.2 x 5.1 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Asian Ginseng Extract (Panax ginseng) (root) (Standardized to 4% Ginsenosides)",
+   "250 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Asian Ginseng",
+   "href": "/c/asian-ginseng?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Ginseng",
+   "href": "/c/ginseng?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿468.37",
+  "฿468.37",
+  "฿7.81/‏serving",
+  "{0}% off code: {1}",
+  "฿468.37",
+  "Save 25% in cart",
+  "฿7.81/‏serving",
+  "฿351.28",
+  "(25% off)",
+  "฿468.37",
+  "฿5.85/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/g/189.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/k/189.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/g/189.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/s/189.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/s/194.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/s/198.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/s/110.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/s/108.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01114/s/109.jpg"
+ ]
+}

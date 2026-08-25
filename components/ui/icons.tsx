@@ -1,0 +1,238 @@
+/*
+  Hand-rolled icon set — a handful of 1.5px-stroke glyphs is cheaper than a dependency
+  and keeps the line weight consistent with the hairline rules used across the UI.
+*/
+type IconProps = { className?: string };
+
+const base = "h-4 w-4";
+
+export function SearchIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <circle cx="8.5" cy="8.5" r="5.25" />
+      <path d="m12.5 12.5 4 4" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function CartIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="M2.5 3h1.8l1.9 9.4h9.3" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M6.2 10.2h9.6l1.2-5.2H5.2" strokeLinejoin="round" />
+      <circle cx="7.6" cy="16.2" r="1.3" />
+      <circle cx="14.4" cy="16.2" r="1.3" />
+    </svg>
+  );
+}
+
+export function UserIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <circle cx="10" cy="7" r="3.2" />
+      <path d="M4 16.5c1.2-2.6 3.3-3.9 6-3.9s4.8 1.3 6 3.9" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function ChevronIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="m6 8 4 4 4-4" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function ArrowIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="M4 10h11m-4-4 4 4-4 4" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function CheckIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" className={className} aria-hidden>
+      <path d="m4.5 10.5 3.5 3.5 7.5-8" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function ShieldIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M10 2.5 16 4.6v5c0 3.6-2.4 6.4-6 7.9-3.6-1.5-6-4.3-6-7.9v-5L10 2.5Z" strokeLinejoin="round" />
+      <path d="m7.4 9.8 2 2 3.4-3.6" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function FlaskIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M8 2.5h4v4.2l3.6 7.3a2 2 0 0 1-1.8 2.9H6.2a2 2 0 0 1-1.8-2.9L8 6.7V2.5Z" strokeLinejoin="round" />
+      <path d="M6.3 11.5h7.4" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function TruckIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M2.5 5.5h8v8h-8z" strokeLinejoin="round" />
+      <path d="M10.5 8.5h3.2l2.8 2.6v2.4h-6z" strokeLinejoin="round" />
+      <circle cx="6" cy="15.4" r="1.4" />
+      <circle cx="13.6" cy="15.4" r="1.4" />
+    </svg>
+  );
+}
+
+export function LeafIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M16.5 3.5c0 6.5-3.9 10.4-9.4 10.4H4.6c0-6.1 4-10.4 11.9-10.4Z" strokeLinejoin="round" />
+      <path d="M4 17c1.6-4.3 4.6-7.4 8.6-9.2" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function CloseIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="m5.5 5.5 9 9m0-9-9 9" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function MenuIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="M3 6h14M3 10h14M3 14h14" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function ChevronRightIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="m8 6 4 4-4 4" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+/* The tooltip mark the reference site puts beside anything a shopper might query. */
+export function InfoIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <circle cx="10" cy="10" r="7.25" />
+      <path d="M10 9v4.5" strokeLinecap="round" />
+      <path d="M10 6.4v.6" strokeLinecap="round" strokeWidth="1.8" />
+    </svg>
+  );
+}
+
+export function MinusIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" className={className} aria-hidden>
+      <path d="M5 10h10" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function PlusIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" className={className} aria-hidden>
+      <path d="M10 5v10M5 10h10" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+/* Filled, unlike the rest of the set: at PDP size a five-star row has to read as a rating. */
+export function StarIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="currentColor" className={className} aria-hidden>
+      <path d="M10 1.9l2.47 5.01 5.53.8-4 3.9.94 5.49L10 14.51l-4.94 2.59.94-5.49-4-3.9 5.53-.8L10 1.9Z" />
+    </svg>
+  );
+}
+
+/* Sales momentum, mirroring the reference's up-and-right spark beside "sold in 30 days". */
+export function TrendIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="M2.5 13.5l4.2-4.2 3 3L16 6.5" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M12.4 6.5H16v3.6" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+/*
+  Diet and standards marks. Geometric rather than pictorial for the certification badges —
+  a shape plus its label carries the claim without borrowing a certifier's device.
+*/
+export function SproutIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M10 17.5v-6.4" strokeLinecap="round" />
+      <path d="M10 11.1C10 8.4 8.1 6.6 5 6.6c0 2.7 1.9 4.5 5 4.5Z" strokeLinejoin="round" />
+      <path d="M10 11.1c0-2.7 1.9-4.5 5-4.5 0 2.7-1.9 4.5-5 4.5Z" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function CircleSlashIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <circle cx="10" cy="10" r="7.25" />
+      <path d="m5.4 14.6 9.2-9.2" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function SunIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <circle cx="10" cy="10" r="3.6" />
+      <path d="M10 2.6v1.7M10 15.7v1.7M2.6 10h1.7M15.7 10h1.7M4.8 4.8l1.2 1.2M14 14l1.2 1.2M15.2 4.8 14 6M6 14l-1.2 1.2" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function GrainIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M10 17.4V6.2" strokeLinecap="round" />
+      <path d="M10 6.2c1.6-1.1 2.6-2.4 2.6-3.7-1.6 0-2.6 1.2-2.6 3.7Zm0 0C8.4 5.1 7.4 3.8 7.4 2.5c1.6 0 2.6 1.2 2.6 3.7Z" strokeLinejoin="round" />
+      <path d="M10 10.5c1.7 0 3-1.1 3-2.8-1.7 0-3 1.1-3 2.8Zm0 0c-1.7 0-3-1.1-3-2.8 1.7 0 3 1.1 3 2.8Z" strokeLinejoin="round" />
+      <path d="M10 14.6c1.7 0 3-1.1 3-2.8-1.7 0-3 1.1-3 2.8Zm0 0c-1.7 0-3-1.1-3-2.8 1.7 0 3 1.1 3 2.8Z" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function HexBadgeIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M10 2.4 16.3 6v8L10 17.6 3.7 14V6L10 2.4Z" strokeLinejoin="round" />
+      <path d="m7.5 12.6 2-2.6 2 2.6M9.5 10 7.6 7.4h3.8L9.5 10" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function OctagonBadgeIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M7.2 2.6h5.6l4.6 4.6v5.6l-4.6 4.6H7.2l-4.6-4.6V7.2l4.6-4.6Z" strokeLinejoin="round" />
+      <path d="m7.2 10.2 2 2 3.6-4" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function ThermometerIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M11.6 11.3V4.4a1.9 1.9 0 1 0-3.8 0v6.9a3.4 3.4 0 1 0 3.8 0Z" strokeLinejoin="round" />
+      <path d="M9.7 8.2v5.2" strokeLinecap="round" />
+    </svg>
+  );
+}

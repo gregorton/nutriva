@@ -1,0 +1,232 @@
+{
+ "pid": "97244",
+ "slug": "eclectic-herb-turmeric-pepper-supports-joint-musculoskeletal-system-90",
+ "scrapedAt": "2026-08-25T17:31:09.569Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/eclectic-herb-turmeric-pepper-supports-joint-musculoskeletal-system-90.jpg",
+  "/products/iherb/eclectic-herb-turmeric-pepper-supports-joint-musculoskeletal-system-90-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/eclectic-herb-turmeric-pepper-supports-joint-musculoskeletal-system-90-veg-caps/97244",
+ "pageTitle": "Eclectic Herb, Turmeric & Pepper, Supports Joint & Musculoskeletal System, 90 Veg Caps",
+ "h1": "Eclectic Herb, Turmeric & Pepper, Supports Joint & Musculoskeletal System, 90 Veg Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "97244",
+  "name": "Eclectic Herb, Turmeric & Pepper, Supports Joint & Musculoskeletal System, 90 Veg Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/g/88.jpg",
+  "mpn": "ECL-31911",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 218
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Eclectic Herb",
+   "url": "http://www.eclecticherb.com/",
+   "identifier": "ECL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "961.99",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Joint & Musculoskeletal System Dietary Supplement Small Batch Freeze Dried Freeze Dried for Peak Plant Power No Fillers Non GMO Gluten Free Whole Herb Raw Food Vegan Naturally Concentrated 100% Kosher Freeze-drying keeps the plants nutrients in the same balance as found in nature by gently removing only the water. From farm to bottle, we use naturopathic wisdom and innovative processes to create exceptional products.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "ECL-31911",
+  "gtin12": "023363319114",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/g/88.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Joint & Musculoskeletal System",
+    "Dietary Supplement",
+    "Small Batch Freeze Dried",
+    "Freeze Dried for Peak Plant Power",
+    "No Fillers",
+    "Non GMO",
+    "Gluten Free",
+    "Whole Herb",
+    "Raw Food",
+    "Vegan",
+    "Naturally Concentrated",
+    "100% Kosher"
+   ],
+   "paragraphs": [
+    "Freeze-drying keeps the plants nutrients in the same balance as found in nature by gently removing only the water. From farm to bottle, we use naturopathic wisdom and innovative processes to create exceptional products."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 - 3 capsules per day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetarian capsule)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep away from children. Consult your doctor about herbs with pregnancy, infants or prescription drugs."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ECL-31911"
+  },
+  {
+   "label": "UPC",
+   "value": "023363319114"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 5.2 x 5.2 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Cap"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Organic freeze-dried turmeric (Curcuma longa) rhizome/root",
+   "409 mg",
+   "†"
+  ],
+  [
+   "Freeze-dried green peppercorns (Piper nigrum) fruit",
+   "21 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿961.99",
+  "฿961.99",
+  "฿10.69/‏serving",
+  "{0}% off code: {1}",
+  "฿961.99",
+  "Save 0% in cart",
+  "฿10.69/‏serving",
+  "฿961.99",
+  "(0% off)",
+  "฿961.99",
+  "฿10.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/g/88.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/k/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/g/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ecl/ecl31911/s/93.jpg"
+ ]
+}

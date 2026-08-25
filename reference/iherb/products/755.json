@@ -1,0 +1,299 @@
+{
+ "pid": "755",
+ "slug": "now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel",
+ "scrapedAt": "2026-08-25T17:17:15.178Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel.jpg",
+  "/products/iherb/now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel-2.jpg",
+  "/products/iherb/now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel-3.jpg",
+  "/products/iherb/now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel/755",
+ "pageTitle": "NOW Foods, Pumpkin Seed Oil, 100 Softgels (1,000 mg per Softgel)",
+ "h1": "NOW Foods, Pumpkin Seed Oil, 100 Softgels (1,000 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "755",
+  "name": "NOW Foods, Pumpkin Seed Oil, 100 Softgels (1,000 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/g/62.jpg",
+  "mpn": "NOW-01840",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 19041
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "458.69",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Nutritional Oil Essential Fatty Acids and Phytosterols Cold Pressed Non-GMO A Dietary Supplement Kosher - Contains Gelatin Family Owned Since 1968 Halal GMP Quality Assured Pumpkin Seed Oil is a nutritional oil with essential fatty acids (EFAs) and phytosterols. NOW ® Pumpkin Seed Oil is cold pressed without the use of solvents, and derived only from the highest quality non-GMO pumpkin seeds.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x4.8"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01840",
+  "gtin12": "733739018403",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Pumpkin Seed Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Nutritional Oil",
+    "Essential Fatty Acids and Phytosterols",
+    "Cold Pressed",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Kosher - Contains Gelatin",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Pumpkin Seed Oil is a nutritional oil with essential fatty acids (EFAs) and phytosterols. NOW® Pumpkin Seed Oil is cold pressed without the use of solvents, and derived only from the highest quality non-GMO pumpkin seeds."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 softgels 1 to 2 times daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel capsule [bovine gelatin (BSE-free), glycerin, water].",
+    "Made and quality tested in the USA with globally sourced ingredients.",
+    "Not manufactured with yeast, wheat, gluten, soy, milk, egg, fish, shellfish or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening.",
+    "Naturally occurring dark particulates may be visible in the pumpkin seed oil but do not effect the quality of the product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01840"
+  },
+  {
+   "label": "UPC",
+   "value": "733739018403"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "6.9 x 6.9 x 12.2 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%*"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%*"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "1 g",
+   "†"
+  ],
+  [
+   "Monounsaturated Fat",
+   "0.5 g",
+   "†"
+  ],
+  [
+   "Pumpkin Seed Oil (Cucurbita pepo)",
+   "2 g (2,000 mg)",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "755",
+   "url": "https://th.iherb.com/pr/now-foods-pumpkin-seed-oil-100-softgels-1-000-mg-per-softgel/755",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "200 count",
+   "pid": "100204",
+   "url": "https://th.iherb.com/pr/now-foods-pumpkin-seed-oil-1-000-mg-200-softgels/100204",
+   "price": "฿903.13",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Greens & Superfoods",
+   "href": "/c/greens-superfoods?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Pumpkin Seed Oil",
+   "href": "/c/pumpkin-seed-oil?sr=2"
+  },
+  {
+   "rank": "#9 in",
+   "category": "Omegas & Fish Oils (EPA DHA)",
+   "href": "/c/omegas-fish-oils-epa-dha?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿458.69",
+  "฿458.69",
+  "฿9.17/‏serving",
+  "{0}% off code: {1}",
+  "฿458.69",
+  "Save 0% in cart",
+  "฿9.17/‏serving",
+  "฿458.69",
+  "(0% off)",
+  "฿458.69",
+  "฿9.17/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01840/s/73.jpg"
+ ]
+}

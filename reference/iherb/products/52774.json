@@ -1,0 +1,306 @@
+{
+ "pid": "52774",
+ "slug": "great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16",
+ "scrapedAt": "2026-08-25T17:39:57.112Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16.jpg",
+  "/products/iherb/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16-2.jpg",
+  "/products/iherb/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16-3.jpg",
+  "/products/iherb/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16-oz-454-g/52774",
+ "pageTitle": "Great Lakes Wellness, Grass-Fed Bovine Collagen Peptides, Unflavored, 16 oz (454 g)",
+ "h1": "Great Lakes Wellness, Grass-Fed Bovine Collagen Peptides, Unflavored, 16 oz (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "52774",
+  "name": "Great Lakes Wellness, Grass-Fed Bovine Collagen Peptides, Unflavored, 16 oz (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/g/106.jpg",
+  "mpn": "GLK-00212",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3804
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Great Lakes Wellness",
+   "url": "https://greatlakeswellness.com",
+   "identifier": "GLK"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.28",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1552.14",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports 5 Signs of Aging Well Dissolves 2x Faster vs. Leading Brands Skin Hair Nails Joints Digestion 20 g Collagen Per Serving Dietary Supplement Glyphosate Free, Gluten Free and No Preservatives Kosher This Product is Keto Certified This Product is Certified Paleo Friendly Igen™ Clump free, complete dissolve collagen for an easy wellness boost. We've been at it since 1922, so we know a thing or two about premium, high quality collagen. You won't taste or smell it, but you'll feel the glowing benefits.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.35x4.35"
+  },
+  "isRelatedTo": null,
+  "sku": "GLK-00212",
+  "gtin12": "322654002125",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/g/106.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports 5 Signs of Aging Well",
+    "Dissolves 2x Faster vs. Leading Brands",
+    "Skin",
+    "Hair",
+    "Nails",
+    "Joints",
+    "Digestion",
+    "20 g Collagen Per Serving",
+    "Dietary Supplement",
+    "Glyphosate Free, Gluten Free and No Preservatives",
+    "Kosher",
+    "This Product is Keto Certified",
+    "This Product is Certified Paleo Friendly",
+    "Igen™"
+   ],
+   "paragraphs": [
+    "Clump free, complete dissolve collagen for an easy wellness boost.",
+    "We've been at it since 1922, so we know a thing or two about premium, high quality collagen. You won't taste or smell it, but you'll feel the glowing benefits."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Add 2 scoops to your favorite beverage or recipe. For best results use daily. Just mix in and enjoy!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Bovine collagen peptides.",
+    "This product does not contain common GE genes."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Do not use if top seal is torn or punctured.",
+    "If you are pregnant, nursing or have a medical condition, consult your physician before use.",
+    "Variations in color, odor, taste and solubility may occur.",
+    "Use this product as a food supplement only. Do not use for weight reduction."
+   ],
+   "paragraphs": [
+    "Store dry & do not refrigerate.",
+    "Packaged by weight, not volume. Settling may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2013"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.58 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "GLK-00212"
+  },
+  {
+   "label": "UPC",
+   "value": "322654002125"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17.9 x 11 x 11 cm, 0.58 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 scoops (20 g)"
+  ],
+  [
+   "Servings Per Container: 22"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "70",
+   ""
+  ],
+  [
+   "Protein",
+   "18 g",
+   "0%*"
+  ],
+  [
+   "Sodium",
+   "100 mg",
+   "4%*"
+  ],
+  [
+   "Collagen Peptides (from bovine)",
+   "20 g",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "22"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Kosher",
+    "Paleo",
+    "Gluten-free",
+    "Preservative-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "284 g",
+   "pid": "142790",
+   "url": "https://th.iherb.com/pr/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-10-oz-284-g/142790",
+   "price": "฿1,152.83",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "454 g",
+   "pid": "52774",
+   "url": "https://th.iherb.com/pr/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-16-oz-454-g/52774",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "907 g",
+   "pid": "151657",
+   "url": "https://th.iherb.com/pr/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-32-oz-907-g/151657",
+   "price": "฿2,777.55",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "1814 g",
+   "pid": "148907",
+   "url": "https://th.iherb.com/pr/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-64-oz-1-8-kg/148907",
+   "price": "฿5,420.18",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "20 count",
+   "pid": "141531",
+   "url": "https://th.iherb.com/pr/great-lakes-wellness-grass-fed-bovine-collagen-peptides-unflavored-20-packs-0-42-oz-12-g-each/141531",
+   "price": "฿1,384.99",
+   "outOfStock": true,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,552.14",
+  "฿1,552.14",
+  "฿70.55/‏serving",
+  "{0}% off code: {1}",
+  "฿1,552.14",
+  "Save 0% in cart",
+  "฿70.55/‏serving",
+  "฿1,552.14",
+  "(0% off)",
+  "฿1,552.14",
+  "฿70.55/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/g/106.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/k/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/g/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/s/112.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/s/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/glk/glk00212/b/106.jpg"
+ ]
+}

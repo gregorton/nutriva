@@ -1,0 +1,306 @@
+{
+ "pid": "109450",
+ "slug": "natrol-kids-sleep-calm-gummies-age-4-strawberry-60-gummies",
+ "scrapedAt": "2026-08-25T17:35:44.123Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/natrol-kids-sleep-calm-gummies-age-4-strawberry-60-gummies.jpg",
+  "/products/iherb/natrol-kids-sleep-calm-gummies-age-4-strawberry-60-gummies-2.jpg",
+  "/products/iherb/natrol-kids-sleep-calm-gummies-age-4-strawberry-60-gummies-3.jpg",
+  "/products/iherb/natrol-kids-sleep-calm-gummies-age-4-strawberry-60-gummies-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/natrol-kids-sleep-calm-gummies-age-4-strawberry-60-gummies/109450",
+ "pageTitle": "Natrol, Kids, Sleep +® Calm Gummies, Age 4+, Strawberry, 60 Gummies",
+ "h1": "Natrol, Kids, Sleep +® Calm Gummies, Age 4+, Strawberry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "109450",
+  "name": "Natrol, Kids, Sleep +® Calm Gummies, Age 4+, Strawberry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/g/48.jpg",
+  "mpn": "NTL-07778",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1015
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Natrol",
+   "url": "http://www.natrol.com/",
+   "identifier": "NTL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.46",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "668.67",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Melatonin + L-Theanine, Botanical Blend Helps Calms an Active Mind and Body and Ease Your Child to Sleep Safe & Effective for Kids 4+ Strawberry with Other Natural Flavors Dietary Supplement 100% Drug Free #1 Drug-Free Sleep Aid Brand^ Natrol ® Kids Sleep + ® Calm Helps calm an active mind and body to ease you to sleep. Melatonin to help your kids sleep better L-Theanine helps calm the mind when used with melatonin Botanical Blend Chamomile, lavender, lemon balm This product is helpful for occasional sleeplessness. Quality ingredients you can trust Non-Habit Forming No Artificial Flavors No Artificial Sweeteners No Synthetic Dyes Non-GMO Vegetarian & Gelatin-Free ∧Nielsen, xAOC, 52 Weeks Ending 12/28/24, Sleep Aid Supplements",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3x2.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NTL-07778",
+  "gtin12": "047469077785",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Melatonin + L-Theanine, Botanical Blend",
+    "Helps Calms an Active Mind and Body and Ease Your Child to Sleep",
+    "Safe & Effective for Kids 4+",
+    "Strawberry with Other Natural Flavors",
+    "Dietary Supplement",
+    "100% Drug Free",
+    "#1 Drug-Free Sleep Aid Brand^",
+    "Melatonin to help your kids sleep better",
+    "L-Theanine helps calm the mind when used with melatonin",
+    "Botanical Blend Chamomile, lavender, lemon balm",
+    "Non-Habit Forming",
+    "No Artificial Flavors",
+    "No Artificial Sweeteners",
+    "No Synthetic Dyes",
+    "Non-GMO",
+    "Vegetarian & Gelatin-Free"
+   ],
+   "paragraphs": [
+    "Natrol® Kids Sleep +® Calm Helps calm an active mind and body to ease you to sleep.",
+    "This product is helpful for occasional sleeplessness.",
+    "Quality ingredients you can trust",
+    "∧Nielsen, xAOC, 52 Weeks Ending 12/28/24, Sleep Aid Supplements"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For children ages 4 and up, take 1 or 2 gummies 30 minutes before bedtime. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Tapioca syrup, cane sugar, water, pectin, contains 2 percent or less of (carnauba wax, citric acid, coconut oil, fruit and vegetable juice (color), natural flavors, sodium citrate).",
+    "Formulated without milk, egg, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans, sesame ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended to treat insomnia or other sleep disorders. Consult a health care professional before using this product, including if you or your child is taking medication, have any medical condition, are pregnant or lactating, or have an autoimmune condition or depressive disorder. For ages 4 years and older. Melatonin may cause drowsiness; do not take when driving, operating machinery, or consuming alcohol. If adverse reactions occur, discontinue use. For occasional short-term use only. Use as directed and do not exceed suggested use. This product should never substitute healthy sleep practices. To ensure labeled potency and quality through the expiration date in accordance with federal regulations, this product is manufactured with higher dietary ingredient levels than the indicated Amount Per Serving.",
+    "Keep out of reach of children.",
+    "Store in a cool, dry place.",
+    "Individual results may vary.",
+    "Do not use if safety seal is damaged or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTL-07778"
+  },
+  {
+   "label": "UPC",
+   "value": "047469077785"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.2 x 7.6 x 7.5 cm, 0.21 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 or 2 Gummies"
+  ],
+  [
+   "Serving Per Container: 60 or 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV(1 Gummy)",
+   "Amount Per Serving",
+   "%DV(2 Gummies)"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*",
+   "4 g",
+   "1%*"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "**",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugars",
+   "2 g",
+   "4%*",
+   "3 g",
+   "6%*"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%",
+   "20 mg",
+   "<1%"
+  ],
+  [
+   "L-Theanine",
+   "25 mg",
+   "**",
+   "50 mg",
+   "**"
+  ],
+  [
+   "Proprietary Botanical BlendChamomile Extract (Matricaria recutita) (flower), Lemon Balm Extract (Melissa officinalis) (aerial parts), Lavender Extract (Lavandula angustifolia) (aerial parts)",
+   "12.5 mg",
+   "**",
+   "25 mg",
+   "**"
+  ],
+  [
+   "Melatonin",
+   "0.5 mg",
+   "**",
+   "1 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial flavors",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿668.67",
+  "฿668.67",
+  "฿11.14/‏serving",
+  "{0}% off code: {1}",
+  "฿668.67",
+  "Save 0% in cart",
+  "฿11.14/‏serving",
+  "฿668.67",
+  "(0% off)",
+  "฿668.67",
+  "฿11.14/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntl/ntl07778/s/60.jpg"
+ ]
+}

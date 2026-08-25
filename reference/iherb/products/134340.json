@@ -1,0 +1,437 @@
+{
+ "pid": "134340",
+ "slug": "super-nutrition-simply-one-50-women-multivitamin-with-super-complexes",
+ "scrapedAt": "2026-08-25T17:50:29.012Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/super-nutrition-simply-one-50-women-multivitamin-with-super-complexes.jpg",
+  "/products/iherb/super-nutrition-simply-one-50-women-multivitamin-with-super-complexes-2.jpg",
+  "/products/iherb/super-nutrition-simply-one-50-women-multivitamin-with-super-complexes-3.jpg",
+  "/products/iherb/super-nutrition-simply-one-50-women-multivitamin-with-super-complexes-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/super-nutrition-simply-one-50-women-multivitamin-with-super-complexes-90-tablets/134340",
+ "pageTitle": "Super Nutrition, Simply One®, 50+ Women Multivitamin with Super Complexes, 90 Tablets",
+ "h1": "Super Nutrition, Simply One®, 50+ Women Multivitamin with Super Complexes, 90 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "134340",
+  "name": "Super Nutrition, Simply One®, 50+ Women Multivitamin with Super Complexes, 90 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/g/9.jpg",
+  "mpn": "SPN-02407",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 161
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Super Nutrition",
+   "url": "https://www.iherb.com/c/super-nutrition?rank=0",
+   "identifier": "SPN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "225.89",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "604.53",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Super Nutrition® SimplyOne 50+ Women Multivitamin + Super Complexes A Blend of High Potency Vitamins and Minerals, Botanicals, and Super Nutrients Formulated with Bioactive Vitamin Methyl B12 and Active Folate as 5-MTHF Formulated Without: Gluten, GMOs, or Soy Super Nutrition® SimplyOne 50+ Women Multivitamin + Super Complexes can help fill in the gaps of your diet with a blend of vitamins, minerals, and botanicals chosen specifically for women ages 50 and up. This unique formula contains many of the essential vitamins and minerals you need daily, including vitamins A, C, Folate, and B12 as well as minerals like calcium and zinc. In addition, we’ve added beneficial botanicals and super nutrients chosen specifically for their support of women’s health needs. This once-daily multivitamin is a great addition to your routine to help support energy production, the immune system, and overall health and nutrition.* iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02407",
+  "gtin12": "898220024070",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/g/9.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Multivitamins",
+  "Senior Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Super Nutrition® SimplyOne 50+ Women Multivitamin + Super Complexes",
+    "A Blend of High Potency Vitamins and Minerals, Botanicals, and Super Nutrients",
+    "Formulated with Bioactive Vitamin Methyl B12 and Active Folate as 5-MTHF",
+    "Formulated Without: Gluten, GMOs, or Soy"
+   ],
+   "paragraphs": [
+    "Super Nutrition® SimplyOne 50+ Women Multivitamin + Super Complexes can help fill in the gaps of your diet with a blend of vitamins, minerals, and botanicals chosen specifically for women ages 50 and up. This unique formula contains many of the essential vitamins and minerals you need daily, including vitamins A, C, Folate, and B12 as well as minerals like calcium and zinc. In addition, we’ve added beneficial botanicals and super nutrients chosen specifically for their support of women’s health needs. This once-daily multivitamin is a great addition to your routine to help support energy production, the immune system, and overall health and nutrition.*",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet daily with food."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02407"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024070"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin A (83% as Retinyl Palmitate and 17% as Beta-Carotene)",
+   "1,800 mcg",
+   "200%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "180 mg",
+   "200%"
+  ],
+  [
+   "Vitamin D (as D3, Cholecalciferol)",
+   "40 mcg",
+   "200%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopheryl Succinate from Sunflower)",
+   "30 mg",
+   "200%"
+  ],
+  [
+   "Vitamin K (as K1, Phytonadione)",
+   "120 mcg",
+   "100%"
+  ],
+  [
+   "Thiamin (as Thiamin HCI)",
+   "12 mg",
+   "1000%"
+  ],
+  [
+   "Riboflavin",
+   "13 mg",
+   "1000%"
+  ],
+  [
+   "Niacin (as Nicotinic Acid and Niacinamide)",
+   "48 mg",
+   "300%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxal-5-Phosphate)",
+   "17 mg",
+   "1000%"
+  ],
+  [
+   "Folate (as 5-MTHF, L-5-Methyltetrahydrofolate)",
+   "1,600 mcg DFE",
+   "400%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "24 mcg",
+   "1000%"
+  ],
+  [
+   "Biotin (as d-Biotin)",
+   "300 mcg",
+   "1000%"
+  ],
+  [
+   "Pantothenic Acid (as d-Calcium Pantothenate)",
+   "50 mg",
+   "1000%"
+  ],
+  [
+   "Choline (as Choline Bitartrate)",
+   "20 mg",
+   "4%"
+  ],
+  [
+   "Calcium (as Calcium Carbonate and Calcium Citrate)",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "Iron (as Ferronyl Iron)",
+   "9 mg",
+   "50%"
+  ],
+  [
+   "Iodine (from Kelp)",
+   "150 mcg",
+   "100%"
+  ],
+  [
+   "Magnesium (as Magnesium Oxide and Magnesium Glycinate)",
+   "42 mg",
+   "10%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "22 mg",
+   "200%"
+  ],
+  [
+   "Selenium (as Sodium Selenite)",
+   "110 mcg",
+   "200%"
+  ],
+  [
+   "Copper (as Copper Glycinate)",
+   "1.8 mg",
+   "200%"
+  ],
+  [
+   "Manganese (as Manganese Sulfate)",
+   "4.6 mg",
+   "200%"
+  ],
+  [
+   "Chromium (as Chromium Picolinate)",
+   "175 mcg",
+   "500%"
+  ],
+  [
+   "Molybdenum (as Molybdenum Amino Acid Chelate)",
+   "90 mcg",
+   "200%"
+  ],
+  [
+   "Super BlueGreen Complex​Organic Alfalfa Grass, Organic Blueberry (fruit), Organic Broccoli (floret), Organic Chlorella, Organic Kale (leaf), Organic Watercress (leaf), Organic Spirulina, Organic Wheat Grass",
+   "80 mg",
+   "†"
+  ],
+  [
+   "Super Adaptogen ComplexWild Yam (root), Organic Ashwagandha (root), Organic Maca (root), Asian Ginseng (root), Rosemary (leaf)",
+   "60 mg",
+   "†"
+  ],
+  [
+   "Super Spice Complex​Organic Cayenne Pepper (fruit), Organic Ginger Extract (root), Organic Turmeric Extract (root)",
+   "60 mg",
+   "†"
+  ],
+  [
+   "Super Antioxidant Complex​Alpha-Lipoic Acid, Coenzyme Q10 (Ubiquinone), DMAE (as Dimethylaminoethanol Bitartrate), L-Glutathione, Grape Seed Extract, Green Tea Leaf Extract, Hawthorn Berry Extract, Pine Bark Extract, Quercetin",
+   "45 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids (from Lemon Fruit)",
+   "35 mg",
+   "†"
+  ],
+  [
+   "Bilberry (Vaccinium myrtillus) (fruit",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Ginkgo Extract (Ginkgo biloba) (leaf)",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Inositol",
+   "20 mg",
+   "†"
+  ],
+  [
+   "Betaine (as Betaine HCI)",
+   "10 mg",
+   "†"
+  ],
+  [
+   "L-Tyrosine",
+   "10 mg",
+   "†"
+  ],
+  [
+   "Black Pepper (Piper nigrum) (fruit)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Glutamic Acid (as Glutamic Acid HCl)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Hesperidin (from Citrus)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Rutin",
+   "5 mg",
+   "†"
+  ],
+  [
+   "Boron (from Boron Citrate)",
+   "2mg",
+   "†"
+  ],
+  [
+   "Lutein",
+   "775 mcg",
+   "†"
+  ],
+  [
+   "Lycopene",
+   "775 mcg",
+   "†"
+  ],
+  [
+   "† Daily Value (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿604.53",
+  "฿604.53",
+  "฿6.72/‏serving",
+  "{0}% off code: {1}",
+  "฿604.53",
+  "Save 63% in cart",
+  "฿6.72/‏serving",
+  "฿225.89",
+  "(63% off)",
+  "฿604.53",
+  "฿2.51/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/g/9.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/k/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/g/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02407/s/19.jpg"
+ ]
+}

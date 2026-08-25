@@ -1,0 +1,280 @@
+{
+ "pid": "3319",
+ "slug": "now-foods-biotin-5-000-mcg-120-veg-capsules",
+ "scrapedAt": "2026-08-25T17:21:44.115Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-biotin-5-000-mcg-120-veg-capsules.jpg",
+  "/products/iherb/now-foods-biotin-5-000-mcg-120-veg-capsules-2.jpg",
+  "/products/iherb/now-foods-biotin-5-000-mcg-120-veg-capsules-3.jpg",
+  "/products/iherb/now-foods-biotin-5-000-mcg-120-veg-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-biotin-5-000-mcg-120-veg-capsules/3319",
+ "pageTitle": "NOW Foods, Biotin, 5,000 mcg, 120 Veg Capsules",
+ "h1": "NOW Foods, Biotin, 5,000 mcg, 120 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "3319",
+  "name": "NOW Foods, Biotin, 5,000 mcg, 120 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/g/68.jpg",
+  "mpn": "NOW-00474",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 72855
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "353.69",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Energy Production Supports Amino Acid Metabolism Promotes Normal Immune Function Non-GMO Dietary Supplement Vegetarian/Vegan Kosher Vitamins Family Owned Since 1968 GMP Quality Assured Halal Biotin is a water-soluble vitamin necessary for normal growth and body function. Biotin functions as a key regulatory element in gluconeogenesis, fatty acid synthesis, and in the metabolism of some amino acids. Alongside its role in energy production, biotin enhances the synthesis of certain proteins. In addition, biotin promotes healthy immune system function and plays a critical role in skin health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00474",
+  "gtin12": "733739004741",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/g/68.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Hair, Skin & Nails",
+  "Vitamin B7 (Biotin)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Energy Production",
+    "Supports Amino Acid Metabolism",
+    "Promotes Normal Immune Function",
+    "Non-GMO",
+    "Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Vitamins",
+    "Family Owned Since 1968",
+    "GMP Quality Assured",
+    "Halal"
+   ],
+   "paragraphs": [
+    "Biotin is a water-soluble vitamin necessary for normal growth and body function. Biotin functions as a key regulatory element in gluconeogenesis, fatty acid synthesis, and in the metabolism of some amino acids. Alongside its role in energy production, biotin enhances the synthesis of certain proteins. In addition, biotin promotes healthy immune system function and plays a critical role in skin health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose (cellulose capsule), stearic acid (vegetable source) and silicon dioxide.",
+    "Made and quality tested in the USA with globally sourced ingredients.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients.",
+    "Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children. This product contains Biotin which may interfere with some blood test results.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00474"
+  },
+  {
+   "label": "UPC",
+   "value": "733739004741"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 5.8 x 5.8 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Biotin",
+   "5 mg (5,000 mcg)",
+   "16,667%"
+  ],
+  []
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veg capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "447",
+   "url": "https://th.iherb.com/pr/now-foods-biotin-5-000-mcg-60-veg-capsules/447",
+   "price": "฿229.02",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "445",
+   "url": "https://th.iherb.com/pr/now-foods-biotin-1-000-mcg-100-veg-capsules/445",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "3319",
+   "url": "https://th.iherb.com/pr/now-foods-biotin-5-000-mcg-120-veg-capsules/3319",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Vitamin B7 (Biotin)",
+   "href": "/c/vitamin-b7-biotin?sr=2"
+  },
+  {
+   "rank": "#4 in",
+   "category": "Hair, Skin & Nails",
+   "href": "/c/hair-skin-nails?sr=2"
+  },
+  {
+   "rank": "#8 in",
+   "category": "Vitamin B",
+   "href": "/c/vitamin-b?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿353.69",
+  "฿353.69",
+  "฿2.95/‏serving",
+  "{0}% off code: {1}",
+  "฿353.69",
+  "Save 0% in cart",
+  "฿2.95/‏serving",
+  "฿353.69",
+  "(0% off)",
+  "฿353.69",
+  "฿2.95/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/g/68.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/k/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/g/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00474/s/58.jpg"
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "pid": "133382",
+ "slug": "nature-s-craft-turmeric-curcumin-with-bioperine-180-capsules",
+ "scrapedAt": "2026-08-25T17:34:52.666Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-craft-turmeric-curcumin-with-bioperine-180-capsules.jpg",
+  "/products/iherb/nature-s-craft-turmeric-curcumin-with-bioperine-180-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-craft-turmeric-curcumin-with-bioperine-180-capsules/133382",
+ "pageTitle": "Nature's Craft, Turmeric Curcumin with BioPerine®, 180 Capsules",
+ "h1": "Nature's Craft, Turmeric Curcumin with BioPerine®, 180 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "133382",
+  "name": "Nature's Craft, Turmeric Curcumin with BioPerine®, 180 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/g/24.jpg",
+  "mpn": "NCA-38653",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 204
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Craft",
+   "url": "https://shopnaturescraft.com/",
+   "identifier": "NCA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.41",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "673.92",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Rooted in Nature Backed by Science Enhanced Absorption With Standardized Extract Vegan & Gluten Free Bone & Joint 60-Day Supply Dietary Supplement Sourced From a GMP Certified Facility 3rd Party Lab Verified Gelatin Free No Artificial Flavors Turmeric and Bioperine create a unique nutrient-rich combination that provides the body with major vitamin, mineral, and antioxidant benefits. Turmeric is rich in micro-nutrients manganese, iron, copper, fiber, and Vitamin B6 which all work to help balance the internal systems from head to toe! Sometimes nature has all the answers to your body’s need and turmeric curcumin is one of those natural ingredients which can do wonders for your body and overall health no matter your age. Turmeric supplements are particularly helpful for those looking to boost their brainpower and retain a more youthful mind. This includes helping with focus, memory, and general cognitive abilities. These brain pills should not be overlooked by anyone looking for an easy, harmless and natural way to help their thinking process stay young and sharp. As an antioxidant supplement turmeric pills can boost both how you look and how you feel. The health and beauty benefits of turmeric with Bioperine begin with helping fight against oxidative stress. As a result, the anti aging supplement can help users maintain a more youthful complexion by removing free radicals from the body and can preserve your youth for longer. Plus, the immune support offered by these added antioxidants can help keep your body functioning at its best, which is something everyone can benefit from. Although turmeric curcumin offers many health and beauty benefits, it is not easily absorbed by the body which is why we’ve added black pepper (BioPerine) which can boost the body’s absorption of turmeric by up to 2,000%. However, users may benefit even more by taking these supplements with a fatty meal for even better absorption rates. Remember: At Nature Bound, we use only the purest, most potent and high-quality ingredients available in our all-natural dietary supplements. We do this because we want our products to work for you time and again. We want you to be a customer for life!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "NCA-38653",
+  "gtin12": "850034386539",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Rooted in Nature Backed by Science",
+    "Enhanced Absorption",
+    "With Standardized Extract",
+    "Vegan & Gluten Free",
+    "Bone & Joint",
+    "60-Day Supply",
+    "Dietary Supplement",
+    "Sourced From a GMP Certified Facility",
+    "3rd Party Lab Verified",
+    "Gelatin Free",
+    "No Artificial Flavors"
+   ],
+   "paragraphs": [
+    "Turmeric and Bioperine create a unique nutrient-rich combination that provides the body with major vitamin, mineral, and antioxidant benefits. Turmeric is rich in micro-nutrients manganese, iron, copper, fiber, and Vitamin B6 which all work to help balance the internal systems from head to toe! Sometimes nature has all the answers to your body’s need and turmeric curcumin is one of those natural ingredients which can do wonders for your body and overall health no matter your age. Turmeric supplements are particularly helpful for those looking to boost their brainpower and retain a more youthful mind. This includes helping with focus, memory, and general cognitive abilities. These brain pills should not be overlooked by anyone looking for an easy, harmless and natural way to help their thinking process stay young and sharp. As an antioxidant supplement turmeric pills can boost both how you look and how you feel. The health and beauty benefits of turmeric with Bioperine begin with helping fight against oxidative stress. As a result, the anti aging supplement can help users maintain a more youthful complexion by removing free radicals from the body and can preserve your youth for longer. Plus, the immune support offered by these added antioxidants can help keep your body functioning at its best, which is something everyone can benefit from. Although turmeric curcumin offers many health and beauty benefits, it is not easily absorbed by the body which is why we’ve added black pepper (BioPerine) which can boost the body’s absorption of turmeric by up to 2,000%. However, users may benefit even more by taking these supplements with a fatty meal for even better absorption rates. Remember: At Nature Bound, we use only the purest, most potent and high-quality ingredients available in our all-natural dietary supplements. We do this because we want our products to work for you time and again. We want you to be a customer for life!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take three (3) capsules once a day. For best results, take 20-30 min before a meal with an 8 oz glass of water, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose (vegetable capsule), organic rice hull.",
+    "Manufactured in a facility which processes milk, egg, fish, shellfish, tree nut, peanut, wheat, soy, and sesame.",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Not intended for pregnant or nursing mothers or children under the age of 18. Individuals taking blood thinners, any other medications, or have any known medical conditions should consult a physician before using any herbal supplements. Discontinue use and consult your doctor if any adverse reactions occur. Not intended to treat obesity, consult a physician before beginning any weight loss program.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Keep bottle closed tightly and store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCA-38653"
+  },
+  {
+   "label": "UPC",
+   "value": "850034386539"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13 x 7.2 x 7.2 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Veggie Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Organic Turmeric Powder (Curcuma longa)(root)",
+   "1,800 mg",
+   "**"
+  ],
+  [
+   "Turmeric Extract 95% Curcuminoids (Curcuma longa)(root)",
+   "150 mg",
+   "**"
+  ],
+  [
+   "Bioperine® Black Pepper Extract (Piper nigrum)(fruit)",
+   "15 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 veggie capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "180 count",
+   "pid": "133382",
+   "url": "https://th.iherb.com/pr/nature-s-craft-turmeric-curcumin-with-bioperine-180-capsules/133382",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 9 left",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿673.92",
+  "฿673.92",
+  "฿11.23/‏serving",
+  "{0}% off code: {1}",
+  "฿673.92",
+  "Save 0% in cart",
+  "฿11.23/‏serving",
+  "฿673.92",
+  "(0% off)",
+  "฿673.92",
+  "฿11.23/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nca/nca38653/s/30.jpg"
+ ]
+}

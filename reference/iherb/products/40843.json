@@ -1,0 +1,236 @@
+{
+ "pid": "40843",
+ "slug": "naturesplus-vitamin-d3-k2-90-capsules",
+ "scrapedAt": "2026-08-25T17:30:42.156Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturesplus-vitamin-d3-k2-90-capsules.jpg",
+  "/products/iherb/naturesplus-vitamin-d3-k2-90-capsules-2.jpg",
+  "/products/iherb/naturesplus-vitamin-d3-k2-90-capsules-3.jpg",
+  "/products/iherb/naturesplus-vitamin-d3-k2-90-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturesplus-vitamin-d3-k2-90-capsules/40843",
+ "pageTitle": "NaturesPlus, Vitamin D3 & K2, 90 Capsules",
+ "h1": "NaturesPlus, Vitamin D3 & K2, 90 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "40843",
+  "name": "NaturesPlus, Vitamin D3 & K2, 90 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/g/116.jpg",
+  "mpn": "NAP-01043",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1640
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NaturesPlus",
+   "url": "https://naturesplus.com/",
+   "identifier": "NAP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "749.38",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "1000 IU (25 mcg) / 100 mcg Bone Support Dietary Supplement Gluten Free Vegetarian Extensive studies regarding the roles of Vitamins D3 and K2 in calcium metabolism indicate that these two vitamins have a synergistic relationship, especially in supporting bone strength and cardiovascular health. Vitamin D3 is recognized for its role in immune health as well as calcium absorption and metabolism, while vitamin K2 is known to help direct calcium to bones rather than arteries and joint spaces.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "NAP-01043",
+  "gtin12": "097467010437",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/g/116.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "1000 IU (25 mcg) / 100 mcg",
+    "Bone Support",
+    "Dietary Supplement",
+    "Gluten Free",
+    "Vegetarian"
+   ],
+   "paragraphs": [
+    "Extensive studies regarding the roles of Vitamins D3 and K2 in calcium metabolism indicate that these two vitamins have a synergistic relationship, especially in supporting bone strength and cardiovascular health. Vitamin D3 is recognized for its role in immune health as well as calcium absorption and metabolism, while vitamin K2 is known to help direct calcium to bones rather than arteries and joint spaces."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "One capsule daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, vegetable cellulose, silica and magnesium stearate.",
+    "Free from synthetic: colors, preservatives. Free from milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy and sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep tightly closed in a cool, dry place.",
+    "Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2012"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAP-01043"
+  },
+  {
+   "label": "UPC",
+   "value": "097467010437"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.2 x 5.5 x 5.5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Vitamin D (as cholecalciferol [D3])",
+   "25 mcg (1000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin K (as menaquinone-7 [K2])",
+   "100 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿749.38",
+  "฿749.38",
+  "฿8.33/‏serving",
+  "{0}% off code: {1}",
+  "฿749.38",
+  "Save 0% in cart",
+  "฿8.33/‏serving",
+  "฿749.38",
+  "(0% off)",
+  "฿749.38",
+  "฿8.33/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/g/116.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/k/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/g/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/s/116.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/s/121.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/s/105.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap01043/s/107.jpg"
+ ]
+}

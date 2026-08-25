@@ -1,0 +1,243 @@
+{
+ "pid": "161437",
+ "slug": "new-chapter-plant-melatonin-tart-cherry-ashwagandha-30-vegan-tablets",
+ "scrapedAt": "2026-08-25T17:36:30.396Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": "New"
+ },
+ "images": [
+  "/products/iherb/new-chapter-plant-melatonin-tart-cherry-ashwagandha-30-vegan-tablets.jpg",
+  "/products/iherb/new-chapter-plant-melatonin-tart-cherry-ashwagandha-30-vegan-tablets-2.jpg",
+  "/products/iherb/new-chapter-plant-melatonin-tart-cherry-ashwagandha-30-vegan-tablets-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/new-chapter-plant-melatonin-tart-cherry-ashwagandha-30-vegan-tablets/161437",
+ "pageTitle": "New Chapter, Plant Melatonin + Tart Cherry & Ashwagandha, 30 Vegan Tablets",
+ "h1": "New Chapter, Plant Melatonin + Tart Cherry & Ashwagandha, 30 Vegan Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "161437",
+  "name": "New Chapter, Plant Melatonin + Tart Cherry & Ashwagandha, 30 Vegan Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/g/20.jpg",
+  "mpn": "NCR-90461",
+  "aggregateRating": null,
+  "brand": {
+   "@type": "Brand",
+   "name": "New Chapter",
+   "url": "http://www.newchapter.com/",
+   "identifier": "NCR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.33",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "709.25",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Est. 1982 No Next-Day Grogginess Non GMO Project Verified Certified Gluten Free by NSF Kosher Dietary Supplement Certified B Corporation 100% Vegan No Artificial Flavors Nutrition Crafted For: Falling asleep naturally. The Magic Inside: Tomato-derived melatonin helps you drift off naturally and stay asleep, plus our signature Evening Botanical Blend Sleep Well on Night One Finally, Restful Sleep Drift off with the power of melatonin that helps regulate your natural sleep cycle so you fall asleep, stay asleep, and wake up feeling refreshed. No Next-Day Grogginess Our carefully calibrated 2 mg dose of drug-free and non - habit-forming melatonin works naturally in harmony with your body so you can get a good night's sleep without morning fog. Melatonin From Tomatoes This high-quality sleep aid is crafted with Somato,® a phyto melatonin (plant-based melatonin) that's 100% from whole-food tomatoes. Nature's Effective Sleep Aid ​ Melatonin: your body produces small amounts of this natural sleep hormone. But melatonin production can be affected by things like screen time, room lighting, and normal aging. So set yourself up for a great night's sleep with an effective melatonin supplement: high quality, science backed, and 100% vegan. Fall Asleep Naturally Stay Asleep Wake up Refreshed No Next-Day Grogginess",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.25x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "NCR-90461",
+  "gtin12": "727783904614",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/g/20.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Est. 1982",
+    "No Next-Day Grogginess",
+    "Non GMO Project Verified",
+    "Certified Gluten Free by NSF",
+    "Kosher",
+    "Dietary Supplement",
+    "Certified B Corporation",
+    "100% Vegan",
+    "No Artificial Flavors",
+    "Fall Asleep Naturally",
+    "Stay Asleep",
+    "Wake up Refreshed",
+    "No Next-Day Grogginess"
+   ],
+   "paragraphs": [
+    "Nutrition Crafted For: Falling asleep naturally.",
+    "The Magic Inside: Tomato-derived melatonin helps you drift off naturally and stay asleep, plus our signature Evening Botanical Blend",
+    "Sleep Well on Night One",
+    "Finally, Restful Sleep",
+    "Drift off with the power of melatonin that helps regulate your natural sleep cycle so you fall asleep, stay asleep, and wake up feeling refreshed.",
+    "No Next-Day Grogginess",
+    "Our carefully calibrated 2 mg dose of drug-free and non - habit-forming melatonin works naturally in harmony with your body so you can get a good night's sleep without morning fog.",
+    "Melatonin From Tomatoes",
+    "This high-quality sleep aid is crafted with Somato,® a phyto melatonin (plant-based melatonin) that's 100% from whole-food tomatoes.",
+    "Nature's Effective Sleep Aid",
+    "​Melatonin: your body produces small amounts of this natural sleep hormone. But melatonin production can be affected by things like screen time, room lighting, and normal aging. So set yourself up for a great night's sleep with an effective melatonin supplement: high quality, science backed, and 100% vegan."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults, take 1 tablet nightly within an hour before bedtime. For best results, allow for at least 6 hours of sleep."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, organic gum acacia, tapioca dextrin, croscarmellose sodium, hydroxypropyl cellulose, silica; Less than 2% of: hydroxypropyl methylcellulose, sodium acetate anhydrous, magnesium stearate, stearic acid.",
+    "Manufactured in the US from globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any dietary supplement, you should advise your healthcare professional of the use of this product if you have a medical condition or are taking medication. If you are nursing, pregnant, or considering pregnancy, consult your healthcare professional prior to using this product. If you are experiencing long-term sleep difficulties, or if you are taking sedatives, tranquilizers or any other sleep aid, consult your healthcare professional prior to using this product. Discontinue use and contact your healthcare professional if you experience a side effect or an allergic reaction. Do not drive, operate machinery or drink alcohol when taking this product. Do not exceed suggested use. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCR-90461"
+  },
+  {
+   "label": "UPC",
+   "value": "727783904614"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5.7 x 5.6 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Melatonin (from SOMATO® Tomato Fruit Extract)",
+   "2 mg",
+   "*"
+  ],
+  [
+   "Evening Botanical BlendTart Cherry (Prunus cerasus) (fruit) extract,Organic Ashwagandha (Withania somnifera)(root and aerial parts) extract, Chamomile(Matricaria recutita) (flower) extract",
+   "30 mg",
+   "*"
+  ],
+  [
+   "*Daily Value (DV) not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "*Daily Value (DV) not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Kosher",
+    "Gluten-free",
+    "Non-gmo",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿709.25",
+  "฿709.25",
+  "฿23.64/‏serving",
+  "{0}% off code: {1}",
+  "฿709.25",
+  "Save 0% in cart",
+  "฿23.64/‏serving",
+  "฿709.25",
+  "(0% off)",
+  "฿709.25",
+  "฿23.64/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/g/20.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/k/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/g/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/s/23.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncr/ncr90461/s/12.jpg"
+ ]
+}

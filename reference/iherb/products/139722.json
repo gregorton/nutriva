@@ -1,0 +1,229 @@
+{
+ "pid": "139722",
+ "slug": "force-factor-magnesium-glycinate-180-vegetable-capsules-70-mg-per-caps",
+ "scrapedAt": "2026-08-25T17:13:46.454Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "500+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/force-factor-magnesium-glycinate-180-vegetable-capsules-70-mg-per-caps.jpg",
+  "/products/iherb/force-factor-magnesium-glycinate-180-vegetable-capsules-70-mg-per-caps-2.jpg",
+  "/products/iherb/force-factor-magnesium-glycinate-180-vegetable-capsules-70-mg-per-caps-3.jpg",
+  "/products/iherb/force-factor-magnesium-glycinate-180-vegetable-capsules-70-mg-per-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/force-factor-magnesium-glycinate-180-vegetable-capsules-70-mg-per-capsule/139722",
+ "pageTitle": "Force Factor, Magnesium Glycinate, 180 Vegetable Capsules (70 mg per Capsule)",
+ "h1": "Force Factor, Magnesium Glycinate, 180 Vegetable Capsules (70 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139722",
+  "name": "Force Factor, Magnesium Glycinate, 180 Vegetable Capsules (70 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/g/29.jpg",
+  "mpn": "FOA-66127",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1730
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Force Factor",
+   "url": "http://www.forcefactor.com/",
+   "identifier": "FOA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "771.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Sleep, Muscle Relaxation, & Mood Easy on the Stomach Vegan No Gelatin Non-GMO Dietary Supplement Unleash Your Potential We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.8x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "FOA-66127",
+  "gtin12": "810126661272",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/g/29.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Sleep, Muscle Relaxation, & Mood",
+    "Easy on the Stomach",
+    "Vegan",
+    "No Gelatin",
+    "Non-GMO",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Unleash Your Potential",
+    "We know that great nutrition changes lives. Whether you want to improve your mind, body or performance, we have the formula to help you do it."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules up to twice daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, hypromellose, vegetable magnesium stearate, mineral oil.",
+    "Allergen Warning: Manufactured by equipment which may process products containing milk, eggs, soy, wheat, shellfish, fish, tree nuts, peanuts, and sesame.",
+    "Proudly manufactured in the U.S from imported and domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult a healthcare professional before use if you are pregnant or nursing, have a medical condition, or use prescription medications. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Keep out of reach of children. For adult use only."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FOA-66127"
+  },
+  {
+   "label": "UPC",
+   "value": "810126661272"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.3 x 7.1 x 7.1 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Vegetable Capsules"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Magnesium (as Magnesium Bisglycinate Chelate)",
+   "140 mg",
+   "33%"
+  ]
+ ],
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 vegetable capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿771.04",
+  "฿771.04",
+  "฿8.57/‏serving",
+  "{0}% off code: {1}",
+  "฿771.04",
+  "Save 0% in cart",
+  "฿8.57/‏serving",
+  "฿771.04",
+  "(0% off)",
+  "฿771.04",
+  "฿8.57/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/g/29.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/k/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/g/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/foa/foa66127/s/20.jpg"
+ ]
+}

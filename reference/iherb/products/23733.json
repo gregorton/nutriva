@@ -1,0 +1,232 @@
+{
+ "pid": "23733",
+ "slug": "michael-s-health-d3-with-vitamin-k2-apricot-90-vegetarian-chewable-tab",
+ "scrapedAt": "2026-08-25T17:27:24.387Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/michael-s-health-d3-with-vitamin-k2-apricot-90-vegetarian-chewable-tab.jpg",
+  "/products/iherb/michael-s-health-d3-with-vitamin-k2-apricot-90-vegetarian-chewable-tab-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/michael-s-health-d3-with-vitamin-k2-apricot-90-vegetarian-chewable-tablets/23733",
+ "pageTitle": "Michael's Health, D3 with Vitamin K2, Apricot, 90 Vegetarian Chewable Tablets",
+ "h1": "Michael's Health, D3 with Vitamin K2, Apricot, 90 Vegetarian Chewable Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "23733",
+  "name": "Michael's Health, D3 with Vitamin K2, Apricot, 90 Vegetarian Chewable Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/g/119.jpg",
+  "mpn": "MHN-10403",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 11418
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Michael's Health",
+   "url": "http://www.michaelshealth.com/",
+   "identifier": "MHN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "735.60",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Michael's Health Naturopathic Programs Since 1984® 5,000 IU No Added Sugar Vitamin Supplement Certified Kosher Parve Family Owned and Operated Support for the skeletal system & the immune system.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "MHN-10403",
+  "gtin12": "755929104031",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/g/119.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Michael's Health Naturopathic Programs Since 1984®",
+    "5,000 IU",
+    "No Added Sugar",
+    "Vitamin Supplement",
+    "Certified Kosher Parve",
+    "Family Owned and Operated"
+   ],
+   "paragraphs": [
+    "Support for the skeletal system & the immune system."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, chew one (1) tablet daily. Dosage may be increased as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Xylitol, sorbitol, vegetable magnesium stearate, microcrystalline cellulose, dicalcium phosphate, silicon dioxide, natural peach flavor and natural apricot flavor.",
+    "Made in a GMP facility that processes egg, fish, milk, peanut, sesame, shellfish, soy, tree nut and wheat products."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Double-sealed for your protection.",
+    "Do not use if outer seal is broken or missing.",
+    "Keep out of reach of children.",
+    "Not to be taken by pregnant or lactating women."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2010"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MHN-10403"
+  },
+  {
+   "label": "UPC",
+   "value": "755929104031"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: One (1) Chewable Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol†)",
+   "125 mcg (5000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (Menaquinone 7, MK-7††)",
+   "90 mcg",
+   "75%"
+  ],
+  [
+   "†From Lanolin.††From Geraniol (Pine)."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†From Lanolin.",
+  "††From Geraniol (Pine)."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 chewable tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿735.60",
+  "฿735.60",
+  "฿8.17/‏serving",
+  "{0}% off code: {1}",
+  "฿735.60",
+  "Save 0% in cart",
+  "฿8.17/‏serving",
+  "฿735.60",
+  "(0% off)",
+  "฿735.60",
+  "฿8.17/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/g/119.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/k/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/g/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/s/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mhn/mhn10403/s/124.jpg"
+ ]
+}

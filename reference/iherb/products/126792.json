@@ -1,0 +1,293 @@
+{
+ "pid": "126792",
+ "slug": "forest-leaf-collagen-peptides-unflavored-16-oz-454-g",
+ "scrapedAt": "2026-08-25T17:14:23.711Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/forest-leaf-collagen-peptides-unflavored-16-oz-454-g.jpg",
+  "/products/iherb/forest-leaf-collagen-peptides-unflavored-16-oz-454-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/forest-leaf-collagen-peptides-unflavored-16-oz-454-g/126792",
+ "pageTitle": "Forest Leaf, Collagen Peptides, Unflavored, 16 oz (454 g)",
+ "h1": "Forest Leaf, Collagen Peptides, Unflavored, 16 oz (454 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126792",
+  "name": "Forest Leaf, Collagen Peptides, Unflavored, 16 oz (454 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/g/24.jpg",
+  "mpn": "FRL-87576",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 440
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Forest Leaf",
+   "url": "https://forestleaf.com/",
+   "identifier": "FRL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1132.09",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Advanced Type I - II - III Hydrolyzed Collagen Hair, Skin, Nails, & Joint Support Dietary Supplement Collagen 22 g Per 2 Scoops Pasteur Raised Grass Fed Tested For Absorption Made With Non GMO Ingredients GMP Compliant Lab Verified With Globally Sourced Ingredients - Made in USA Advanced Collagen Peptides Hormone free No preservatives or additives At ForestLeaf, our mission is to provide high-quality supplements that support health and wellness. We believe that nature provides us with everything we need to thrive. At ForestLeaf, we are committed to helping you live your best life. Health Focused. Quality Committed. Research Driven. Allergen free: Sugar-free Dairy free Gluten-free Egg-free Nut free Soy free Fish free",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.95x4.95"
+  },
+  "isRelatedTo": null,
+  "sku": "FRL-87576",
+  "gtin12": "645080875768",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Advanced Type I - II - III",
+    "Hydrolyzed Collagen",
+    "Hair, Skin, Nails, & Joint Support",
+    "Dietary Supplement",
+    "Collagen 22 g Per 2 Scoops",
+    "Pasteur Raised Grass Fed",
+    "Tested For Absorption",
+    "Made With Non GMO Ingredients",
+    "GMP Compliant",
+    "Lab Verified",
+    "With Globally Sourced Ingredients - Made in USA",
+    "Advanced Collagen Peptides",
+    "Hormone free",
+    "No preservatives or additives",
+    "Sugar-free",
+    "Dairy free",
+    "Gluten-free",
+    "Egg-free",
+    "Nut free",
+    "Soy free",
+    "Fish free"
+   ],
+   "paragraphs": [
+    "At ForestLeaf, our mission is to provide high-quality supplements that support health and wellness. We believe that nature provides us with everything we need to thrive. At ForestLeaf, we are committed to helping you live your best life.",
+    "Health Focused. Quality Committed. Research Driven.",
+    "Allergen free:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Easy to Use:",
+    "Just add collagen peptides to your coffee, smoothie, baked goods cooked food, water & more.",
+    "Add 1-2 scoops into your beverage or meal of choice daily. Mix thoroughly. Powder may Clump in cold water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "Made in USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. If you are pregnant, nursing, or taking any prescription medicine, consult your physician before taking this product.",
+    "This product is packaged by weight, not volume. Settling of content may occur over time. Store tightly sealed at room temperature (< 77°F)."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.57 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FRL-87576"
+  },
+  {
+   "label": "UPC",
+   "value": "645080875768"
+  },
+  {
+   "label": "Package quantity",
+   "value": "454 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.1 x 12.6 x 12.6 cm, 0.57 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (Approx. 11 g)"
+  ],
+  [
+   "Servings Per Container: About 41"
+  ],
+  [
+   "",
+   "Amount Per Serving1 Scoop",
+   "%DV∧",
+   "Amount Per Serving2 Scoops",
+   "%DV∧"
+  ],
+  [
+   "Calories",
+   "40",
+   "",
+   "80",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   "",
+   "20 g",
+   ""
+  ],
+  [
+   "Sodium",
+   "20 mg",
+   "<1%",
+   "40 mg",
+   "2%"
+  ],
+  [
+   "Advanced Collagen Type I, II, III ComplexHydrolyzed Bovine Collagen Peptides, Hydrolyzed Chicken Collagen",
+   "11 g",
+   "**",
+   "22 g",
+   "**"
+  ],
+  [
+   "∧Percent Daily Values are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "∧Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established.",
+  "*Essential Amino Acids"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "41"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "454 g",
+   "pid": "126792",
+   "url": "https://th.iherb.com/pr/forest-leaf-collagen-peptides-unflavored-16-oz-454-g/126792",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "908 g",
+   "pid": "126791",
+   "url": "https://th.iherb.com/pr/forest-leaf-collagen-peptides-unflavored-32-oz-908-g/126791",
+   "price": "฿1,932.52",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,132.09",
+  "฿1,132.09",
+  "฿27.61/‏serving",
+  "{0}% off code: {1}",
+  "฿1,132.09",
+  "Save 0% in cart",
+  "฿27.61/‏serving",
+  "฿1,132.09",
+  "(0% off)",
+  "฿1,132.09",
+  "฿27.61/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/frl/frl87576/s/29.jpg"
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "pid": "129677",
+ "slug": "california-gold-nutrition-quercetin-plus-with-quercetin-vitamin-c-citr",
+ "scrapedAt": "2026-08-25T17:49:59.051Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-quercetin-plus-with-quercetin-vitamin-c-citr.jpg",
+  "/products/iherb/california-gold-nutrition-quercetin-plus-with-quercetin-vitamin-c-citr-2.jpg",
+  "/products/iherb/california-gold-nutrition-quercetin-plus-with-quercetin-vitamin-c-citr-3.jpg",
+  "/products/iherb/california-gold-nutrition-quercetin-plus-with-quercetin-vitamin-c-citr-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-quercetin-plus-with-quercetin-vitamin-c-citrus-bioflavonoids-bromelain-and-turmeric-100-tablets/129677",
+ "pageTitle": "California Gold Nutrition, Quercetin Plus with Quercetin, Vitamin C, Citrus Bioflavonoids, Bromelain, and Turmeric, 100 Tablets",
+ "h1": "California Gold Nutrition, Quercetin Plus with Quercetin, Vitamin C, Citrus Bioflavonoids, Bromelain, and Turmeric, 100 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "129677",
+  "name": "California Gold Nutrition, Quercetin Plus with Quercetin, Vitamin C, Citrus Bioflavonoids, Bromelain, and Turmeric, 100 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/g/137.jpg",
+  "mpn": "SPN-02352",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 514
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.38",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "906.87",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1133.59",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "500 mg Quercetin per Serving Helps Support the Body's Natural Response to Environmental Factors California Gold Nutrition® Quercetin Plus includes Vitamin C, bromelain, turmeric, citrus bioflavonoids, and manganese to work synergistically to enhance Quercetin's properties. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02352",
+  "gtin12": "898220023523",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/g/137.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Quercetin",
+  "Quercetin & Bromelain"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "500 mg Quercetin per Serving",
+    "Helps Support the Body's Natural Response to Environmental Factors"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Quercetin Plus includes Vitamin C, bromelain, turmeric, citrus bioflavonoids, and manganese to work synergistically to enhance Quercetin's properties.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet twice daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02352"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023523"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5.8 x 5.8 cm, 0.17 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Servings Per Container: 100"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "250 mg",
+   "278%"
+  ],
+  [
+   "Manganese (as amino acid chelate)",
+   "10 mg",
+   "435%"
+  ],
+  [
+   "Quercetin",
+   "500 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Bromelain (1,800 GDU/g) (from Pineapple)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Turmeric Extract (Curcuma longa) (rhizome) (Standardized to 95% Curcuminoids)",
+   "50 mg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 5 left",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,133.59",
+  "฿1,133.59",
+  "฿11.34/‏serving",
+  "{0}% off code: {1}",
+  "฿1,133.59",
+  "Save 20% in cart",
+  "฿11.34/‏serving",
+  "฿906.87",
+  "(20% off)",
+  "฿1,133.59",
+  "฿9.07/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/g/137.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/k/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/g/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/s/137.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/s/142.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/s/146.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/s/145.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02352/s/38.jpg"
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "pid": "125305",
+ "slug": "emergen-c-kidz-daily-immune-support-gummies-fruit-fiesta-44-gummies",
+ "scrapedAt": "2026-08-25T17:19:35.339Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/emergen-c-kidz-daily-immune-support-gummies-fruit-fiesta-44-gummies.jpg",
+  "/products/iherb/emergen-c-kidz-daily-immune-support-gummies-fruit-fiesta-44-gummies-2.jpg",
+  "/products/iherb/emergen-c-kidz-daily-immune-support-gummies-fruit-fiesta-44-gummies-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/emergen-c-kidz-daily-immune-support-gummies-fruit-fiesta-44-gummies/125305",
+ "pageTitle": "Emergen-C, Kidz, Daily Immune Support Gummies, Fruit Fiesta, 44 Gummies",
+ "h1": "Emergen-C, Kidz, Daily Immune Support Gummies, Fruit Fiesta, 44 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125305",
+  "name": "Emergen-C, Kidz, Daily Immune Support Gummies, Fruit Fiesta, 44 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/g/24.jpg",
+  "mpn": "ALA-60844",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 76
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Emergen-C",
+   "url": "http://www.emergenc.com/",
+   "identifier": "ALA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.70",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "722.43",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Flavor with Other Natural Flavors 250 mg Vitamin C Per Gummy Dietary Supplement A delicious way to naturally support your immune system and energy. 250 mg High Potency Vitamin C Per Gummy Enhance Energy with B Vitamins Gluten-Free, Vegetarian & Caffeine-Free",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "ALA-60844",
+  "gtin12": "076314608447",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural Flavor with Other Natural Flavors",
+    "250 mg Vitamin C Per Gummy",
+    "Dietary Supplement",
+    "250 mg High Potency Vitamin C Per Gummy",
+    "Enhance Energy with B Vitamins",
+    "Gluten-Free, Vegetarian & Caffeine-Free"
+   ],
+   "paragraphs": [
+    "A delicious way to naturally support your immune system and energy."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Ages 4 to 8: One (1) gummy per day; Ages 9 to 13: Two (2) gummies per day. Not formulated for use in children less than 4 years of age. Do not exceed suggested use."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sugar, glucose syrup, water. Contains <2%: Annatto seed extract (color), citric acid, natural flavors, pectin, purple carrot juice concentrate (color), sodium citrate, turmeric (color)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If your child is taking medication, consult your pediatrician before use.",
+    "Instruct your child to chew each gummy until fully dissolved before swallowing.",
+    "If taking other supplements, read label, since supplements may contain the same ingredients.",
+    "Keep out of reach of children. Not to be administered without the supervision of an adult.",
+    "Store at room temperature. Keep bottle tightly closed. Protect from moisture. Due to use of plant-based colors, gummy appearance may change over time. This does not alter the product potency.",
+    "Bottle sealed with printed foil under cap. Do Not Use if foil is torn."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ALA-60844"
+  },
+  {
+   "label": "UPC",
+   "value": "076314608447"
+  },
+  {
+   "label": "Package quantity",
+   "value": "44 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.7 x 7.2 x 7.2 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 gummy (4-8 years of age)/2 gummies (9-13 years of age)"
+  ],
+  [
+   "Servings Per Container: 44/22"
+  ],
+  [
+   "",
+   "Amount Per Serving 4-8 years ( 1 gummy)",
+   "%DV",
+   "Amount Per Serving 9-13 years ( 2 gummies)",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "15",
+   "",
+   "30",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%†",
+   "7 g",
+   "3%†"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "*",
+   "5 g",
+   "*"
+  ],
+  [
+   "Includes Added Sugars",
+   "3 g",
+   "6%†",
+   "5 g",
+   "10%†"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "250 mg",
+   "278%",
+   "500 mg",
+   "556%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine hydrochloride)",
+   "0.5 mg",
+   "29%",
+   "1 mg",
+   "59%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "1.4 mcg",
+   "58%",
+   "2.7 mcg",
+   "113%"
+  ],
+  [
+   "Biotin",
+   "12 mcg",
+   "40%",
+   "24 mcg",
+   "80%"
+  ],
+  [
+   "Zinc (as zinc sulfate)",
+   "0.5 mg",
+   "5%",
+   "1 mg",
+   "9%"
+  ],
+  [
+   "Manganese (as manganese gluconate)",
+   "0.13 mg",
+   "6%",
+   "0.25 mg",
+   "11%"
+  ],
+  [
+   "Sodium",
+   "15 mg",
+   "<1%",
+   "25 mg",
+   "1%"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 2,000 calorie diet.*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "44"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 1 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿722.43",
+  "฿722.43",
+  "฿16.42/‏serving",
+  "{0}% off code: {1}",
+  "฿722.43",
+  "Save 0% in cart",
+  "฿16.42/‏serving",
+  "฿722.43",
+  "(0% off)",
+  "฿722.43",
+  "฿16.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ala/ala60844/b/24.jpg"
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "pid": "152279",
+ "slug": "bioemblem-omega-3-fish-oil-120-soft-gels",
+ "scrapedAt": "2026-08-25T17:18:15.694Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/bioemblem-omega-3-fish-oil-120-soft-gels.jpg",
+  "/products/iherb/bioemblem-omega-3-fish-oil-120-soft-gels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/bioemblem-omega-3-fish-oil-120-soft-gels/152279",
+ "pageTitle": "BioEmblem, Omega-3 Fish Oil, 120 Soft Gels",
+ "h1": "BioEmblem, Omega-3 Fish Oil, 120 Soft Gels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "152279",
+  "name": "BioEmblem, Omega-3 Fish Oil, 120 Soft Gels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/g/8.jpg",
+  "mpn": "BIM-82017",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 20
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "BioEmblem",
+   "url": "https://www.bioemblem.com/",
+   "identifier": "BIM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.24",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "984.31",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Non GMO Triglyceride Form 2000 mg 1400 mg Omega-3 800 mg EPA 600 mg DHA 800 IU Vitamin D3 Dietary Supplement Lab Tested cGMP Certified Facility Gluten Free Helps Support Heart Health Joint Health Cognitive Function Inflammation Response Vascular Health Immune Health The BioEmblem Mantra Nature's best ingredients in mindfully crafted formulas for a more radiant life.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.25x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "BIM-82017",
+  "gtin12": "810163820175",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Non GMO",
+    "Triglyceride Form",
+    "2000 mg",
+    "1400 mg Omega-3",
+    "800 mg EPA",
+    "600 mg DHA",
+    "800 IU Vitamin D3",
+    "Dietary Supplement",
+    "Lab Tested",
+    "cGMP Certified Facility",
+    "Gluten Free",
+    "Heart Health",
+    "Joint Health",
+    "Cognitive Function",
+    "Inflammation Response",
+    "Vascular Health",
+    "Immune Health"
+   ],
+   "paragraphs": [
+    "Helps Support",
+    "The BioEmblem Mantra",
+    "Nature's best ingredients in mindfully crafted formulas for a more radiant life."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 softgels once daily with food or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, non-gmo vegetable glycerin, purified water, mixed tocopherols.",
+    "Contains: Fish (anchovy).",
+    "Made in the USA with U.S. & globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of the reach of children. Store in a cool, dry place. Do not use if safety seal is damaged or missing.",
+    "Consult a physician before using this product if you are pregnant, nursing, taking medications, or have any medical condition. Discontinue use if any adverse reactions occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BIM-82017"
+  },
+  {
+   "label": "UPC",
+   "value": "810163820175"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.5 x 5.7 x 5.6 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Softgels"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%†"
+  ],
+  [
+   "Vitamin D3(as Cholecalciferol)",
+   "20 mcg (800 IU)",
+   "100%†"
+  ],
+  [
+   "Fish Oil",
+   "2000 mg",
+   "††"
+  ],
+  [
+   "Total Omega-3 Fatty Acids",
+   "1400 mg",
+   "††"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "800 mg",
+   "††"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "600 mg",
+   "††"
+  ],
+  [
+   "†Percent Daily Values based on a 2,000 calorie diet.††Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Percent Daily Values based on a 2,000 calorie diet.",
+  "††Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿984.31",
+  "฿984.31",
+  "฿32.81/‏serving",
+  "{0}% off code: {1}",
+  "฿984.31",
+  "Save 0% in cart",
+  "฿32.81/‏serving",
+  "฿984.31",
+  "(0% off)",
+  "฿984.31",
+  "฿32.81/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bim/bim82017/s/14.jpg"
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "pid": "36580",
+ "slug": "doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels",
+ "scrapedAt": "2026-08-25T17:32:23.547Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "5K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels.jpg",
+  "/products/iherb/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels-2.jpg",
+  "/products/iherb/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels-3.jpg",
+  "/products/iherb/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels/36580",
+ "pageTitle": "Doctor's Best, Vitamin D3, 125 mcg (5,000 IU), 360 Softgels",
+ "h1": "Doctor's Best, Vitamin D3, 125 mcg (5,000 IU), 360 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "36580",
+  "name": "Doctor's Best, Vitamin D3, 125 mcg (5,000 IU), 360 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/g/114.jpg",
+  "mpn": "DRB-00250",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 79452
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.28",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "398.32",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition ™ Supports Heart, Bones, & Immunity Dietary Supplement Non-GMO Gluten Free Soy Free At Doctor's Best, we strive to deliver a sunny vitality boost. Our Vitamin D3 formula provides this essential sunshine nutrient, promoting overall health when dietary intake and sun exposure are limited. Cholecalciferol, known as Vitamin D3, plays a key role in supporting a healthy immune system, heart function, and maintaining strong bones. Supports healthy immune system Regulates calcium and phosphorus for strong bones Supports heart health",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.35x2.35"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00250",
+  "gtin12": "753950002500",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/g/114.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Supports Heart, Bones, & Immunity",
+    "Dietary Supplement",
+    "Non-GMO",
+    "Gluten Free",
+    "Soy Free",
+    "Supports healthy immune system",
+    "Regulates calcium and phosphorus for strong bones",
+    "Supports heart health"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we strive to deliver a sunny vitality boost. Our Vitamin D3 formula provides this essential sunshine nutrient, promoting overall health when dietary intake and sun exposure are limited. Cholecalciferol, known as Vitamin D3, plays a key role in supporting a healthy immune system, heart function, and maintaining strong bones."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult use: Take 1 softgel daily with food, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Extra virgin olive oil, softgel capsule (gelatin, glycerin, purified water)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00250"
+  },
+  {
+   "label": "UPC",
+   "value": "753950002500"
+  },
+  {
+   "label": "Package quantity",
+   "value": "360 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.3 x 6 x 6 cm, 0.13 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 softgel"
+  ],
+  [
+   "Servings Per Container: 360"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "125 mcg (5000 IU)",
+   "625%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "360"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "180 count",
+   "pid": "21367",
+   "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-180-softgels/21367",
+   "price": "฿238.86",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "360 count",
+   "pid": "36580",
+   "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-360-softgels/36580",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "720 count",
+   "pid": "56653",
+   "url": "https://th.iherb.com/pr/doctor-s-best-vitamin-d3-125-mcg-5-000-iu-720-softgels/56653",
+   "price": "฿747.42",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "5,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿398.32",
+  "฿398.32",
+  "฿1.11/‏serving",
+  "{0}% off code: {1}",
+  "฿398.32",
+  "Save 0% in cart",
+  "฿1.11/‏serving",
+  "฿398.32",
+  "(0% off)",
+  "฿398.32",
+  "฿1.11/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/g/114.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/k/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/g/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/114.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/119.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/122.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/123.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/124.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/125.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/126.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/127.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00250/s/128.jpg"
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "pid": "110917",
+ "slug": "natural-vitality-maxcalm-relaxing-drink-mix-unflavored-8-oz-227-g",
+ "scrapedAt": "2026-08-25T17:50:00.117Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/natural-vitality-maxcalm-relaxing-drink-mix-unflavored-8-oz-227-g.jpg",
+  "/products/iherb/natural-vitality-maxcalm-relaxing-drink-mix-unflavored-8-oz-227-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/natural-vitality-maxcalm-relaxing-drink-mix-unflavored-8-oz-227-g/110917",
+ "pageTitle": "Natural Vitality, MaxCalm®, Relaxing Drink Mix, Unflavored, 8 oz (227 g)",
+ "h1": "Natural Vitality, MaxCalm®, Relaxing Drink Mix, Unflavored, 8 oz (227 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "110917",
+  "name": "Natural Vitality, MaxCalm®, Relaxing Drink Mix, Unflavored, 8 oz (227 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/g/88.jpg",
+  "mpn": "PTG-04349",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 4516
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Natural Vitality",
+   "url": "http://naturalvitality.com/",
+   "identifier": "PTG"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.67",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "565.87",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "754.50",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Orginal Vegan Certified RAW™ Certified Clean™ Magnesium Citrate + Glycinate^ Dietary Supplement Non GMO Project Verified 0 g Sugar Enjoy Highly Absorbable Ionic Magnesium Citrate + Magnesium Glycinate!¹ MAXCALM® - The Next Level of Calm Life comes at you fast. You've got a life to live and sometimes, stress happens. MAXCALM® helps you move through it all with ease. Our advanced duo of Magnesium Citrate + Magnesium Glycinate helps replenish magnesium, which is important because occasional stress is correlated with low magnesium levels. Now, you can sit back and relax, move smoother, and find balance from within. Mix, sip, and go - MAXCALM® made better. ¹Magnesium citrate and magnesium glycinate are better absorbed than magnesium oxide ^Created from citric acid and magnesium carbonate",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.65"
+  },
+  "isRelatedTo": null,
+  "sku": "PTG-04349",
+  "gtin12": "183405043497",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/g/88.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Citrate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Orginal",
+    "Vegan",
+    "Certified RAW™",
+    "Certified Clean™",
+    "Magnesium Citrate + Glycinate^",
+    "Dietary Supplement",
+    "Non GMO Project Verified",
+    "0 g Sugar"
+   ],
+   "paragraphs": [
+    "Enjoy Highly Absorbable Ionic Magnesium Citrate + Magnesium Glycinate!¹",
+    "MAXCALM® - The Next Level of Calm",
+    "Life comes at you fast. You've got a life to live and sometimes, stress happens. MAXCALM® helps you move through it all with ease. Our advanced duo of Magnesium Citrate + Magnesium Glycinate helps replenish magnesium, which is important because occasional stress is correlated with low magnesium levels. Now, you can sit back and relax, move smoother, and find balance from within. Mix, sip, and go - MAXCALM® made better.",
+    "¹Magnesium citrate and magnesium glycinate are better absorbed than magnesium oxide",
+    "^Created from citric acid and magnesium carbonate"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "Pour",
+    "Fizz",
+    "Mix",
+    "Drink"
+   ],
+   "paragraphs": [
+    "Scoop. Fizz. Sip. For fastest prep, pour approximately 2 teaspoons (4 g) of powder into your favorite glass or mug, add 2-3 oz of hot water, and let it do its fizzy thing. Stir until dissolved, then top off with warm or cold water. Prefer it quick? Just add MAXCALM® to a bottle of cold water and shake it up on the go."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Natural vitality MAXCALM® is a highly absorbable proprietary formulation of ph-balanced magnesium citrate (created from citric acid and magnesium carbonate) and magnesium glycinate in ionic form.",
+    "Free of gluten, sugar, artificial color."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "For adults only. Consult your doctor before using this product if you are pregnant, lactating, if you have any medical condition, including kidney disease, or if you are currently on medication. May cause gastrointestinal discomfort. Discontinue use if any adverse reactions occur.",
+    "Tamper Evident: Do not use if safety seal is broken or missing. Store in a cool, dry place.",
+    "Household measure indicated in directions is an approximation. It is advised to weigh the household measure before use to obtain a more precise serving size.",
+    "Amount of product in bottle is based on weight. Some settling may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PTG-04349"
+  },
+  {
+   "label": "UPC",
+   "value": "183405043497"
+  },
+  {
+   "label": "Package quantity",
+   "value": "227 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.4 x 9.3 x 9.3 cm, 0.3 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: Approx. 2 Teaspoons (4 g)"
+  ],
+  [
+   "Servings Per Container: About 57"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium(as Ionic Magnesium Citrate, Ionic Magnesium Glycinate [when mixed with water])",
+   "350 mg",
+   "83%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 teaspoons"
+    },
+    {
+     "label": "Total servings",
+     "value": "57"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo",
+    "No artificial colors",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "226 g",
+   "pid": "110918",
+   "url": "https://th.iherb.com/pr/natural-vitality-maxcalm-relaxing-drink-mix-raspberry-lemon-8-oz-227-g/110918",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "170 g",
+   "pid": "72465",
+   "url": "https://th.iherb.com/pr/natural-vitality-maxcalm-sleep-drink-mix-wildberry-6-oz-170-g/72465",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "227 g",
+   "pid": "110917",
+   "url": "https://th.iherb.com/pr/natural-vitality-maxcalm-relaxing-drink-mix-unflavored-8-oz-227-g/110917",
+   "price": "฿565.87",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "453 g",
+   "pid": "5121",
+   "url": "https://th.iherb.com/pr/natural-vitality-maxcalm-relaxing-drink-mix-unflavored-16-oz-453-g/5121",
+   "price": "฿1,215.82",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "30 count",
+   "pid": "139191",
+   "url": "https://th.iherb.com/pr/natural-vitality-calm-magnesium-supplement-drink-mix-raspberry-lemon-30-packets-0-12-oz-3-3-g-each/139191",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿754.50",
+  "฿754.50",
+  "฿13.24/‏serving",
+  "{0}% off code: {1}",
+  "฿754.50",
+  "Save 25% in cart",
+  "฿13.24/‏serving",
+  "฿565.87",
+  "(25% off)",
+  "฿754.50",
+  "฿9.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/g/88.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/k/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/g/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/s/94.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg04349/b/88.jpg"
+ ]
+}

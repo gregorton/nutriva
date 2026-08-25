@@ -1,0 +1,231 @@
+{
+ "pid": "885",
+ "slug": "now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g",
+ "scrapedAt": "2026-08-25T17:15:32.495Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "20K+",
+  "flag": "Best seller"
+ },
+ "images": [
+  "/products/iherb/now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g.jpg",
+  "/products/iherb/now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g-2.jpg",
+  "/products/iherb/now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g-3.jpg",
+  "/products/iherb/now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g/885",
+ "pageTitle": "NOW Foods, Solutions, XyliWhite™, Toothpaste Gel, Refreshmint, 6.4 oz (181 g)",
+ "h1": "NOW Foods, Solutions, XyliWhite™, Toothpaste Gel, Refreshmint, 6.4 oz (181 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "885",
+  "name": "NOW Foods, Solutions, XyliWhite™, Toothpaste Gel, Refreshmint, 6.4 oz (181 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/g/53.jpg",
+  "mpn": "NOW-08090",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 104611
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "192.27",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Fluoride Free SLS-Free Gluten-Free Paraben-Free Reduces Plaque Whitens Fresh Taste The XyliWhite™ Advantage XyliWhite™ is a remarkable fluoride-free toothpaste gel that uses natural Xylitol as its main ingredient. Formulated with the purest ingredients Free of SLS (sodium lauryl sulfate) Uses vegetarian/vegan ingredients Cool, minty, refreshing taste Whiter, stronger teeth Contains 25% Xylitol, one of the highest contents available! For adults and children",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.9x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-08090",
+  "gtin12": "733739080905",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/g/53.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Oral Care",
+  "Toothpaste",
+  "Xylitol Toothpaste"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Fluoride Free",
+    "SLS-Free",
+    "Gluten-Free",
+    "Paraben-Free",
+    "Reduces Plaque",
+    "Whitens",
+    "Fresh Taste",
+    "Formulated with the purest ingredients",
+    "Free of SLS (sodium lauryl sulfate)",
+    "Uses vegetarian/vegan ingredients",
+    "Cool, minty, refreshing taste",
+    "Whiter, stronger teeth",
+    "Contains 25% Xylitol, one of the highest contents available!",
+    "For adults and children"
+   ],
+   "paragraphs": [
+    "The XyliWhite™ Advantage",
+    "XyliWhite™ is a remarkable fluoride-free toothpaste gel that uses natural Xylitol as its main ingredient."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults and children 2 years and older: Apply XyliWhite™ toothpaste gel on to a soft bristle toothbrush. Brush thoroughly after meals, at least twice a day, or as directed by your dentist."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-08090"
+  },
+  {
+   "label": "UPC",
+   "value": "733739080905"
+  },
+  {
+   "label": "Package quantity",
+   "value": "181 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.3 x 4.8 x 4.8 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "181 g"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "28 g",
+   "pid": "80846",
+   "url": "https://th.iherb.com/pr/now-foods-solutions-xyliwhite-toothpaste-gel-coconut-oil-mint-1-oz-28-g/80846",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "181 g",
+   "pid": "885",
+   "url": "https://th.iherb.com/pr/now-foods-solutions-xyliwhite-toothpaste-gel-refreshmint-6-4-oz-181-g/885",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Toothpaste",
+   "href": "/c/toothpaste?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Whitening Toothpaste",
+   "href": "/c/whitening-toothpaste?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Bath & Personal Care",
+   "href": "/c/bath-personal-care?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "20,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿192.27",
+  "฿192.27",
+  "฿1.06/‏g",
+  "{0}% off code: {1}",
+  "฿192.27",
+  "Save 0% in cart",
+  "฿1.06/‏g",
+  "฿192.27",
+  "(0% off)",
+  "฿192.27",
+  "฿1.06/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/g/53.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/k/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/g/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now08090/b/53.jpg"
+ ]
+}

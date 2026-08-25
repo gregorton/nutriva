@@ -1,0 +1,248 @@
+{
+ "pid": "124286",
+ "slug": "idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet",
+ "scrapedAt": "2026-08-25T17:47:40.062Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet-2.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet-3.jpg",
+  "/products/iherb/idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet-masks-0-68-fl-oz-20-ml-each/124286",
+ "pageTitle": "Idealove, Superfood Skin Savior, Acai You Checking Me Out, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+ "h1": "Idealove, Superfood Skin Savior, Acai You Checking Me Out, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124286",
+  "name": "Idealove, Superfood Skin Savior, Acai You Checking Me Out, 5 Beauty Sheet Masks, 0.68 fl oz (20 ml) Each",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/g/46.jpg",
+  "mpn": "IDE-02311",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 8875
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Idealove",
+   "url": "https://www.iherb.com/c/idealove?rank=0",
+   "identifier": "IDE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.32",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "108.34",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "273.42",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Idealove ™ Superfood Skin Savior, Acai You Checking Me Out Revitalizing Acai Berry Renewing Panthenol, Magnolia, Ginger, and Green Tea Lyocell Sheet Material to Maximize Adhesion and Delivery of Essence Made in Korea Korean skincare designed to bring out the light in you!... Idealove ™. Treat yourself to an at-home spa day with Idealove ™ Superfood Skin Savior, Acai You Checking Me Out . This superfood-infused sheet mask renews the appearance of dull and aging skin with the power of antioxidant-rich acai berry. Made with silky-smooth pulp fabric, the mask helps to maximize essence absorption for a super(food) radiant complexion! This Superfood Skin Savior mask is infused with acai berries, which are a brilliant anti-aging agent due to the high content of powerful antioxidants. These antioxidants can help improve skin health for a bright, plump, and smooth appearance.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.15x0.9"
+  },
+  "isRelatedTo": null,
+  "sku": "IDE-02311",
+  "gtin12": "898220023110",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Beauty Face Masks",
+  "Sheet Masks"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Idealove™ Superfood Skin Savior, Acai You Checking Me Out",
+    "Revitalizing Acai Berry",
+    "Renewing Panthenol, Magnolia, Ginger, and Green Tea",
+    "Lyocell Sheet Material to Maximize Adhesion and Delivery of Essence",
+    "Made in Korea"
+   ],
+   "paragraphs": [
+    "Korean skincare designed to bring out the light in you!...Idealove™.",
+    "Treat yourself to an at-home spa day with Idealove™ Superfood Skin Savior, Acai You Checking Me Out. This superfood-infused sheet mask renews the appearance of dull and aging skin with the power of antioxidant-rich acai berry. Made with silky-smooth pulp fabric, the mask helps to maximize essence absorption for a super(food) radiant complexion!",
+    "This Superfood Skin Savior mask is infused with acai berries, which are a brilliant anti-aging agent due to the high content of powerful antioxidants. These antioxidants can help improve skin health for a bright, plump, and smooth appearance."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "How to Use:"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Glycerin, Dipropylene Glycol, Butylene Glycol, 1,2-Hexanediol, Hydroxyethylcellulose, PEG-60 Hydrogenated Castor Oil, Chlorphenesin, Trehalose, Arginine, Carbomer, Allantoin, Coptis Chinensis Root Extract, Camellia Sinensis Leaf Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schisandra Chinensis (Magnolia Berry) Fruit Extract, Zingiber Officinale (Ginger) Root Extract, Citrus Grandis (Grapefruit) Seed Extract, Disodium EDTA, Dipotassium Glycyrrhizate, Fragrance, Panthenol, Acorus Calamus Root Extract, Caprylyl Glycol, Sodium Hyaluronate, Perilla Ocymoides Leaf Extract, Euterpe Oleracea (Acai Berry) Fruit Extract, Polysorbate 60, Disodium Phosphate, Sodium Phosphate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Avoid contact with eyes. Keep out of reach of children. Discontinue use if irritation occurs.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "IDE-02311"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023110"
+  },
+  {
+   "label": "Package quantity",
+   "value": "5 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "17 x 10.5 x 2.3 cm, 0.15 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "5 count"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Aging & fine lines"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "5 count",
+   "pid": "124286",
+   "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-acai-you-checking-me-out-5-beauty-sheet-masks-0-68-fl-oz-20-ml-each/124286",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "7 count",
+   "pid": "124288",
+   "url": "https://th.iherb.com/pr/idealove-superfood-skin-savior-beauty-masks-variety-pack-7-sheets-0-68-fl-oz-20-ml-each/124288",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#11 in",
+   "category": "K-Beauty Sheet Masks",
+   "href": "/c/k-beauty-sheet-masks?sr=2"
+  },
+  {
+   "rank": "#13 in",
+   "category": "Sheet Masks",
+   "href": "/c/sheet-masks1?sr=2"
+  },
+  {
+   "rank": "#23 in",
+   "category": "Beauty Face Masks",
+   "href": "/c/beauty-face-masks?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿273.42",
+  "฿273.42",
+  "฿54.68/‏count",
+  "{0}% off code: {1}",
+  "฿273.42",
+  "Save 60% in cart",
+  "฿54.68/‏count",
+  "฿108.34",
+  "(60% off)",
+  "฿273.42",
+  "฿21.67/‏count",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/s/4.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ide/ide02311/b/46.jpg"
+ ]
+}

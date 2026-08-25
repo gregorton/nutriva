@@ -1,0 +1,261 @@
+{
+ "pid": "139858",
+ "slug": "the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable",
+ "scrapedAt": "2026-08-25T17:21:58.687Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable.jpg",
+  "/products/iherb/the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable-capsules/139858",
+ "pageTitle": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 100 Billion CFU, 30 Vegetable Capsules",
+ "h1": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 100 Billion CFU, 30 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139858",
+  "name": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 100 Billion CFU, 30 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/g/8.jpg",
+  "mpn": "VSI-04303",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.3,
+   "reviewCount": 22
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Vitamin Shoppe",
+   "url": "https://www.vitaminshoppe.com/",
+   "identifier": "VSI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1487.61",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Digestive Health Immune Support Respiratory Health Specialty Dietary Supplement Quality Promise; Tested & Trusted® Non-GMO Gluten-Free Dairy-Free Soy-Free A happy gut makes a healthy you. Formulated to promote digestive, respiratory, and immune health, The Vitamin Shoppe® brand Ultimate 10+ Probiotic capsules have 100 billion CFUs of 12 beneficial probiotic strains, plus fructo-oligosaccharides to keep the good bacteria in your digestive tract fed and flourishing. Exemplifying convenience and quality, these once-daily vegetable capsules are verified by independent 3rd party labs for potency and purity. What are CFUs? CFUs, or colony forming units, are units of measurement that express the potency of a probiotic. What are fructo-oligosaccharides? Fructo-oligosaccharides are prebiotic fiber that \"feed\" the probiotics present in your digestive tract.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "VSI-04303",
+  "gtin12": "766536043033",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Digestive Health",
+    "Immune Support",
+    "Respiratory Health",
+    "Specialty",
+    "Dietary Supplement",
+    "Quality Promise; Tested & Trusted®",
+    "Non-GMO",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Soy-Free"
+   ],
+   "paragraphs": [
+    "A happy gut makes a healthy you. Formulated to promote digestive, respiratory, and immune health, The Vitamin Shoppe® brand Ultimate 10+ Probiotic capsules have 100 billion CFUs of 12 beneficial probiotic strains, plus fructo-oligosaccharides to keep the good bacteria in your digestive tract fed and flourishing.",
+    "Exemplifying convenience and quality, these once-daily vegetable capsules are verified by independent 3rd party labs for potency and purity.",
+    "What are CFUs?",
+    "CFUs, or colony forming units, are units of measurement that express the potency of a probiotic.",
+    "What are fructo-oligosaccharides?",
+    "Fructo-oligosaccharides are prebiotic fiber that \"feed\" the probiotics present in your digestive tract."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one (1) vegetable capsule daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable capsule, potato maltodextrin, magnesium stearate, silicon dioxide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your healthcare provider prior to use if you are pregnant, nursing, taking any medication or have any medical conditions.",
+    "Store in a cool, dry place. Keep out of reach of children. Tamper evident. Do not use if outer seal is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VSI-04303"
+  },
+  {
+   "label": "UPC",
+   "value": "766536043033"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.6 x 5.5 x 5.5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetable Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Ultimate 10+ Probiotic Blend Lactobacillus casei, L rhamnosus, L. acidophilus, L plantarum, L bulgaricus, Bifidobacterium longum, B. breve, B. lactis, B. bifidum, L. gasseri, L. salivarius, Streptococcus thermophilus",
+   "100 Billion CFUs",
+   "*"
+  ],
+  [
+   "Fructooligosaccharides (FOS)",
+   "50 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetable capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2026"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "139858",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable-capsules/139858",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "60 count",
+   "pid": "139853",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-20-billion-cfu-60-vegetable-capsules/139853",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "139851",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable-capsules/139851",
+   "price": "฿848.47",
+   "outOfStock": true,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 1 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,487.61",
+  "฿1,487.61",
+  "฿49.59/‏serving",
+  "{0}% off code: {1}",
+  "฿1,487.61",
+  "Save 0% in cart",
+  "฿49.59/‏serving",
+  "฿1,487.61",
+  "(0% off)",
+  "฿1,487.61",
+  "฿49.59/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi04303/s/11.jpg"
+ ]
+}

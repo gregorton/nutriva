@@ -1,0 +1,297 @@
+{
+ "pid": "92967",
+ "slug": "bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-c",
+ "scrapedAt": "2026-08-25T17:12:04.396Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-c.jpg",
+  "/products/iherb/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-c-2.jpg",
+  "/products/iherb/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-c-3.jpg",
+  "/products/iherb/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-c-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-caps/92967",
+ "pageTitle": "BioSchwartz, Ultra Premium Turmeric Curcumin With Bioperine®, 90 Veggie Caps",
+ "h1": "BioSchwartz, Ultra Premium Turmeric Curcumin With Bioperine®, 90 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "92967",
+  "name": "BioSchwartz, Ultra Premium Turmeric Curcumin With Bioperine®, 90 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/g/153.jpg",
+  "mpn": "BTZ-75102",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 11154
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "BioSchwartz",
+   "url": "https://bioschwartz.com/",
+   "identifier": "BTZ"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.21",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "702.79",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Professional Grade Premium Quality Ultra Premium 1500 mg Per Serving Ultra High Absorption Accredited Third Party Tested Vegan & Non-GMO Ingredients Allergen-Free + Gluten Free Formulated by Professionals Supports Joint Health Non GMO Project Verified 3rd Party GMP Certified Highest Quality Dietary Supplement GMP - Good Manufacturing Practice Superior Standards Safety, Knowledge, Quality, Commitment, Integrity Formulated by Professionals Turmeric Curcumin is one of Nature's Best Kept Secrets What Makes Our Turmeric Better? Our premium supplements are produced from the finest raw materials and under stringent quality control standards to ensure the highest quality supplement is developed. Potent 1500 mg Turmeric Curcumin This powerful formula has 1500 mg of Turmeric Curcumin per serving. Superior Absorption with BioPerine® Our formulation includes 10 mg of BioPerine® (Black Pepper Extract) per serving for enhanced absorption and bioavailability. Formulated by Professionals Each one of our professional grade supplements is created by a team of highly experienced professionals to ensure the greatest benefits are achieved. Non-GMO Project Verified We adhere to North America's most trusted third-party verification requirements for non-GMO food and products. Our Commitment to Quality \"At BioSchwartz®, we create superior products through the perfect balance of the latest technologies, and the finest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag.\" We create superior products through the perfect balance of the latest technologies and the finest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag. In regard to life's normal stressors such as exercise or an occasional high-fat/high-calorie meal.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "BTZ-75102",
+  "gtin12": "737212751023",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/g/153.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Professional Grade",
+    "Premium Quality",
+    "Ultra Premium",
+    "1500 mg Per Serving",
+    "Ultra High Absorption",
+    "Accredited Third Party Tested",
+    "Vegan & Non-GMO Ingredients",
+    "Allergen-Free + Gluten Free",
+    "Formulated by Professionals",
+    "Supports Joint Health",
+    "Non GMO Project Verified",
+    "3rd Party GMP Certified Highest Quality",
+    "Dietary Supplement",
+    "GMP - Good Manufacturing Practice",
+    "Superior Standards",
+    "Safety, Knowledge, Quality, Commitment, Integrity",
+    "Formulated by Professionals"
+   ],
+   "paragraphs": [
+    "Turmeric Curcumin is one of Nature's Best Kept Secrets",
+    "What Makes Our Turmeric Better?",
+    "Our premium supplements are produced from the finest raw materials and under stringent quality control standards to ensure the highest quality supplement is developed.",
+    "Potent 1500 mg Turmeric Curcumin",
+    "This powerful formula has 1500 mg of Turmeric Curcumin per serving.",
+    "Superior Absorption with BioPerine®",
+    "Our formulation includes 10 mg of BioPerine® (Black Pepper Extract) per serving for enhanced absorption and bioavailability.",
+    "Formulated by Professionals",
+    "Each one of our professional grade supplements is created by a team of highly experienced professionals to ensure the greatest benefits are achieved.",
+    "Non-GMO Project Verified",
+    "We adhere to North America's most trusted third-party verification requirements for non-GMO food and products.",
+    "Our Commitment to Quality",
+    "\"At BioSchwartz®, we create superior products through the perfect balance of the latest technologies, and the finest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag.\"",
+    "We create superior products through the perfect balance of the latest technologies and the finest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag.",
+    "In regard to life's normal stressors such as exercise or an occasional high-fat/high-calorie meal."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 capsules, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (vegetable capsule).",
+    "Free of soy, gluten, milk, egg, wheat, peanuts, sweeteners, shellfish and added sugar.",
+    "No fillers, color additives, binders or preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult your healthcare provider before use if you are contemplating pregnancy, pregnant, nursing, have any medical condition, or use any medications. For adult use only.",
+    "Keep out of the reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BTZ-75102"
+  },
+  {
+   "label": "UPC",
+   "value": "737212751023"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 5.8 x 5.8 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Organic Turmeric Root Powder",
+   "1350 mg",
+   "*"
+  ],
+  [
+   "Turmeric Root Extract(95% Curcuminoids)",
+   "150 mg",
+   "*"
+  ],
+  [
+   "Black Pepper Fruit Extract (BioPerine®)",
+   "10 mg",
+   "*"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "45 count",
+   "pid": "138509",
+   "url": "https://th.iherb.com/pr/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-45-veggie-caps/138509",
+   "price": "฿422.60",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "92967",
+   "url": "https://th.iherb.com/pr/bioschwartz-ultra-premium-turmeric-curcumin-with-bioperine-90-veggie-caps/92967",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "138508",
+   "url": "https://th.iherb.com/pr/bioschwartz-premium-ultra-pure-turmeric-curcumin-with-bioperine-180-veggie-caps/138508",
+   "price": "฿1,239.57",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿702.79",
+  "฿702.79",
+  "฿23.43/‏serving",
+  "{0}% off code: {1}",
+  "฿702.79",
+  "Save 0% in cart",
+  "฿23.43/‏serving",
+  "฿702.79",
+  "(0% off)",
+  "฿702.79",
+  "฿23.43/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/g/153.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/k/153.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/g/153.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/s/153.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/s/156.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/s/145.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/s/157.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz75102/s/158.jpg"
+ ]
+}

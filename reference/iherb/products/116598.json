@@ -1,0 +1,264 @@
+{
+ "pid": "116598",
+ "slug": "now-foods-zinc-50-mg-100-tablets",
+ "scrapedAt": "2026-08-25T17:17:59.785Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-zinc-50-mg-100-tablets.jpg",
+  "/products/iherb/now-foods-zinc-50-mg-100-tablets-2.jpg",
+  "/products/iherb/now-foods-zinc-50-mg-100-tablets-3.jpg",
+  "/products/iherb/now-foods-zinc-50-mg-100-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-zinc-50-mg-100-tablets/116598",
+ "pageTitle": "NOW Foods, Zinc, 50 mg, 100 Tablets",
+ "h1": "NOW Foods, Zinc, 50 mg, 100 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "116598",
+  "name": "NOW Foods, Zinc, 50 mg, 100 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/g/30.jpg",
+  "mpn": "NOW-01520",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 81203
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "206.05",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune Support Promotes Healthy Skin Non-GMO A Dietary Supplement Vegetarian / Vegan Kosher Minerals Family Owned Since 1968 Halal GMP Quality Assured Zinc is essential to the normal function of many organs and systems within the body including the skeletal, immune, neurological, and endocrine systems. Zinc is a necessary mineral co-factor for hundreds of enzymatic reactions related to protein and carbohydrate metabolism, RNA/DNA synthesis, and intercellular signaling. It is also known to play a critical role in the body's free radical neutralizing activities and is especially helpful for maintenance of healthy aging.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.85x1.85"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01520",
+  "gtin12": "733739015204",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/g/30.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Zinc"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune Support",
+    "Promotes Healthy Skin",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian / Vegan",
+    "Kosher",
+    "Minerals",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Zinc is essential to the normal function of many organs and systems within the body including the skeletal, immune, neurological, and endocrine systems. Zinc is a necessary mineral co-factor for hundreds of enzymatic reactions related to protein and carbohydrate metabolism, RNA/DNA synthesis, and intercellular signaling. It is also known to play a critical role in the body's free radical neutralizing activities and is especially helpful for maintenance of healthy aging."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 tablet daily with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, vegetarian coating, magnesium stearate (vegetable source), and silicon dioxide.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, or tree nut or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. This product is not intended for long term use; use only as directed. Do not use if pregnant or nursing. Consult physician if taking medication or have a medical condition. Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01520"
+  },
+  {
+   "label": "UPC",
+   "value": "733739015204"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.8 x 4.7 x 4.7 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Zinc (elemental)(from 403 mg Zinc Gluconate)",
+   "50 mg",
+   "455%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2031"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "116598",
+   "url": "https://th.iherb.com/pr/now-foods-zinc-50-mg-100-tablets/116598",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "250 count",
+   "pid": "883",
+   "url": "https://th.iherb.com/pr/now-foods-zinc-50-mg-250-tablets/883",
+   "price": "฿412.75",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#3 in",
+   "category": "Zinc",
+   "href": "/c/zinc?sr=2"
+  },
+  {
+   "rank": "#14 in",
+   "category": "Minerals",
+   "href": "/c/minerals?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿206.05",
+  "฿206.05",
+  "฿2.06/‏serving",
+  "{0}% off code: {1}",
+  "฿206.05",
+  "Save 0% in cart",
+  "฿2.06/‏serving",
+  "฿206.05",
+  "(0% off)",
+  "฿206.05",
+  "฿2.06/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/g/30.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/k/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/g/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01520/s/42.jpg"
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "pid": "14627",
+ "slug": "now-foods-omega-3-fish-oil-lemon-16-9-fl-oz-500-ml",
+ "scrapedAt": "2026-08-25T17:39:26.087Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-omega-3-fish-oil-lemon-16-9-fl-oz-500-ml.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-lemon-16-9-fl-oz-500-ml-2.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-lemon-16-9-fl-oz-500-ml-3.jpg",
+  "/products/iherb/now-foods-omega-3-fish-oil-lemon-16-9-fl-oz-500-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-omega-3-fish-oil-lemon-16-9-fl-oz-500-ml/14627",
+ "pageTitle": "NOW Foods, Omega-3 Fish Oil, Lemon , 16.9 fl oz (500 ml)",
+ "h1": "NOW Foods, Omega-3 Fish Oil, Lemon , 16.9 fl oz (500 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "14627",
+  "name": "NOW Foods, Omega-3 Fish Oil, Lemon , 16.9 fl oz (500 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/g/48.jpg",
+  "mpn": "NOW-01660",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 4547
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.74",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1363.74",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Fish Oil Molecularly Distilled in a Pharmaceutical Facility Non-GMO Family Owned Since 1968 GMP Quality Assured This natural fish oil is molecularly distilled and manufactured in Norway under strict quality control standards. It is tested to be free of potentially harmful levels of contaminants such as PCB's, dioxins, mercury and other heavy metals. Those who experience nausea from other fish oil products should find this lemon flavored oil easier to tolerate.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.8x7.5"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01660",
+  "gtin12": "733739016607",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/g/48.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural Fish Oil",
+    "Molecularly Distilled in a Pharmaceutical Facility",
+    "Non-GMO",
+    "Family Owned Since 1968",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "This natural fish oil is molecularly distilled and manufactured in Norway under strict quality control standards. It is tested to be free of potentially harmful levels of contaminants such as PCB's, dioxins, mercury and other heavy metals.",
+    "Those who experience nausea from other fish oil products should find this lemon flavored oil easier to tolerate."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 teaspoon daily with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Highly refined omega-3 fish oil, natural lemon flavor, proprietary antioxidant blend [natural tocopherols (soy), rosemary extract, ascorbyl palmitate].",
+    "Contains fish (anchovies, sardines, mackerel).",
+    "Natural tocopherols from soy.",
+    "Not manufactured with yeast, wheat, gluten, milk, egg, shellfish or tree nut ingredients. Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Manufactured in a Pharmaceutically licensed facility."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.79 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01660"
+  },
+  {
+   "label": "UPC",
+   "value": "733739016607"
+  },
+  {
+   "label": "Package quantity",
+   "value": "500 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.1 x 7.1 x 19.1 cm, 0.79 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 tsp (5 ml)"
+  ],
+  [
+   "Servings Per Container: About 100"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Fat",
+   "4.5 g",
+   "6%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Cholesterol",
+   "25 mg",
+   "8%"
+  ],
+  [
+   "Sodium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Total Carbohydrate",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Protein",
+   "0 g",
+   ""
+  ],
+  [
+   "Not a significant source of trans fat, dietary fiber, total sugars, added sugars, vitamin D, calcium, iron and potassium."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "*Subject to natural variability.",
+  "†As triglyceride forms."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tsp"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,363.74",
+  "฿1,363.74",
+  "฿13.64/‏serving",
+  "{0}% off code: {1}",
+  "฿1,363.74",
+  "Save 0% in cart",
+  "฿13.64/‏serving",
+  "฿1,363.74",
+  "(0% off)",
+  "฿1,363.74",
+  "฿13.64/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/g/48.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/k/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/g/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01660/s/58.jpg"
+ ]
+}

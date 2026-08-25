@@ -1,0 +1,339 @@
+{
+ "pid": "101945",
+ "slug": "garden-of-life-kids-multivitamin-powder-2-11-oz-60-g",
+ "scrapedAt": "2026-08-25T17:27:18.001Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/garden-of-life-kids-multivitamin-powder-2-11-oz-60-g.jpg",
+  "/products/iherb/garden-of-life-kids-multivitamin-powder-2-11-oz-60-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/garden-of-life-kids-multivitamin-powder-2-11-oz-60-g/101945",
+ "pageTitle": "Garden of Life, Kids Multivitamin Powder, 2.11 oz (60 g)",
+ "h1": "Garden of Life, Kids Multivitamin Powder, 2.11 oz (60 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "101945",
+  "name": "Garden of Life, Kids Multivitamin Powder,  2.11 oz (60 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/g/62.jpg",
+  "mpn": "GOL-12525",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 673
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Garden of Life",
+   "url": "http://www.gardenoflife.com/",
+   "identifier": "GOL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "578.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Essential Vitamins for Toddlers & Kids USDA Organic Non GMO Project Verified Dietary Supplement Kosher NSF - Certified Gluten-Free Certified B Corporation Certified Organic by QCS Our kids multivitamin powder is an organic daily supplement that delivers 15 essential food-derived vitamins and minerals for optimal nutrition, healthy growth and bone development. Why parents love it: From certified organic real food 15 essential vitamins and minerals No artificial ingredients",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.8x2.35"
+  },
+  "isRelatedTo": null,
+  "sku": "GOL-12525",
+  "gtin12": "658010125253",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Essential Vitamins for Toddlers & Kids",
+    "USDA Organic",
+    "Non GMO Project Verified",
+    "Dietary Supplement",
+    "Kosher",
+    "NSF - Certified Gluten-Free",
+    "Certified B Corporation",
+    "Certified Organic by QCS",
+    "From certified organic real food",
+    "15 essential vitamins and minerals",
+    "No artificial ingredients"
+   ],
+   "paragraphs": [
+    "Our kids multivitamin powder is an organic daily supplement that delivers 15 essential food-derived vitamins and minerals for optimal nutrition, healthy growth and bone development.",
+    "Why parents love it:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Formulated for toddlers one year and older who are eating foods. Mix 1 level scoop daily into juice or food. Mix thoroughly to ensure powder dissolves fully to avoid potential choking hazard. All powders may clump, so full dissolution is important."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "No artificial colors, flavors, sweeteners or preservatives.",
+    "No gluten, dairy, soy, peanuts, tree nuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Always consult your pediatricians before using any children's products. Do not exceed suggested dosage.",
+    "Keep out of reach of children.",
+    "Store in a cool, dry place.",
+    "Do not use if safety seal is broken or missing.",
+    "Note: Contents settle and bottle may appear less than ½ full. Packaged by weight, not volume."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "GOL-12525"
+  },
+  {
+   "label": "UPC",
+   "value": "658010125253"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.2 x 7.1 x 6 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (2 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value for Children 1 through 3 Years of Age"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%¹"
+  ],
+  [
+   "Total Sugar",
+   "1 g",
+   "+"
+  ],
+  [
+   "Includes 0 g Added Sugar",
+   "",
+   "0%"
+  ],
+  [
+   "Vitamin A* (as Beta Carotene)",
+   "75 mcg",
+   "25%"
+  ],
+  [
+   "Vitamin C*",
+   "6 mg",
+   "40%"
+  ],
+  [
+   "Vitamin D (as D3)",
+   "10 mcg (400 IU)",
+   "67%"
+  ],
+  [
+   "Vitamin E*",
+   "2 mg",
+   "33%"
+  ],
+  [
+   "Thiamin*",
+   "0.15 mg",
+   "30%"
+  ],
+  [
+   "Riboflavin*",
+   "0.17 mg",
+   "34%"
+  ],
+  [
+   "Niacin*",
+   "2 mg",
+   "33%"
+  ],
+  [
+   "Vitamin B6*",
+   "1 mg",
+   "200%"
+  ],
+  [
+   "Folate*",
+   "40 mcg DFE",
+   "27%"
+  ],
+  [
+   "Biotin*",
+   "30 mcg",
+   "375%"
+  ],
+  [
+   "Pantothenic Acid*",
+   "1 mg",
+   "50%"
+  ],
+  [
+   "Zinc*",
+   "0.5 mg",
+   "17%"
+  ],
+  [
+   "Selenium*",
+   "7 mcg",
+   "35%"
+  ],
+  [
+   "Manganese*",
+   "0.1 mg",
+   "8%"
+  ],
+  [
+   "Chromium*",
+   "12 mcg",
+   "109%"
+  ],
+  [
+   "Organic Food BlendOrganic Apple (fruit), Organic Kale (leaf), Organic Broccoli (stalk & flower), Organic Carrot (root), Organic Spinach (leaf), Organic Beet (root), Organic Green Cabbage (leaf), Organic Parsley (leaf), Organic Sesbania grandiflora (leaf) extract, Organic Emblic (Amla, Phyllanthus emblica) (fruit) Extract, Organic Psidium guajava (Guava fruit & leaf), Organic Annatto (fruit & seed), Organic Ocimum sanctum (Holy Basil leaf), Organic Lemon (peel), Organic Moringa oleifera (Moringa leaf)",
+   "2 g",
+   "+"
+  ],
+  [
+   "¹Percent Daily Values based on a 1,000 calorie diet.+Daily Value not established.*From organic food blend."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value for Children 1 through 3 Years of Age",
+  "¹Percent Daily Values based on a 1,000 calorie diet.",
+  "+Daily Value not established.",
+  "*From organic food blend."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Kosher",
+    "Gluten-free",
+    "Dairy-free",
+    "Non-gmo",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "NSF"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿578.12",
+  "฿578.12",
+  "฿19.27/‏serving",
+  "{0}% off code: {1}",
+  "฿578.12",
+  "Save 0% in cart",
+  "฿19.27/‏serving",
+  "฿578.12",
+  "(0% off)",
+  "฿578.12",
+  "฿19.27/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/gol/gol12525/s/70.jpg"
+ ]
+}

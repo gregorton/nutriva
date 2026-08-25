@@ -1,0 +1,285 @@
+{
+ "pid": "126275",
+ "slug": "qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies",
+ "scrapedAt": "2026-08-25T17:15:16.309Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies.jpg",
+  "/products/iherb/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies-2.jpg",
+  "/products/iherb/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies-3.jpg",
+  "/products/iherb/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies/126275",
+ "pageTitle": "Qunol, Turmeric Curcumin Complex + Ginger, Rich Tangerine, 90 Gummies",
+ "h1": "Qunol, Turmeric Curcumin Complex + Ginger, Rich Tangerine, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126275",
+  "name": "Qunol, Turmeric Curcumin Complex + Ginger, Rich Tangerine, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/g/28.jpg",
+  "mpn": "QNL-00866",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 45
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Qunol",
+   "url": "http://www.qunol.com/",
+   "identifier": "QNL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.90",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1078.63",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Ultra High Absorption§ Curcumin Complex Dietary Supplement With Other Natural Flavors Manufactured in a cGMP Compliant Facility Gluten Free Vegan No Synthetic Dyes Why is Qunol® the better turmeric? Regular▵ turmeric is poorly absorbed by the body. Qunol® Turmeric + Ginger gummies have ultra high absorption§ so your body can get the full benefits of Turmeric. Qunol®, The Gold Standard in Turmeric! §Compared to regular ▵ turmeric ▵ Regular turmeric defined as standardized unformulated curcumin extract",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.05x3"
+  },
+  "isRelatedTo": null,
+  "sku": "QNL-00866",
+  "gtin12": "850184008664",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Ultra High Absorption§",
+    "Curcumin Complex",
+    "Dietary Supplement",
+    "With Other Natural Flavors",
+    "Manufactured in a cGMP Compliant Facility",
+    "Gluten Free",
+    "Vegan",
+    "No Synthetic Dyes"
+   ],
+   "paragraphs": [
+    "Why is Qunol® the better turmeric?",
+    "Regular▵ turmeric is poorly absorbed by the body. Qunol® Turmeric + Ginger gummies have ultra high absorption§ so your body can get the full benefits of Turmeric.",
+    "Qunol®, The Gold Standard in Turmeric!",
+    "§Compared to regular▵ turmeric",
+    "▵Regular turmeric defined as standardized unformulated curcumin extract"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults chew two (2) gummies daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Tapioca syrup, cane sugar, water, less than 2% of: citric acid, natural flavor, pectin, sodium citrate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Consult your physician or a healthcare professional before starting or stopping any dietary supplement, especially if you are pregnant or nursing or taking any medications. To preserve quality and freshness, keep bottle tightly closed. Store in a cool, dry place.",
+    "Tamper Resistant: Do not use if safety seal over cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "QNL-00866"
+  },
+  {
+   "label": "UPC",
+   "value": "850184008664"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.1 x 7.7 x 7.6 cm, 0.41 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "25",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "6 g",
+   "2%*"
+  ],
+  [
+   "Total Sugars",
+   "4 g",
+   "**"
+  ],
+  [
+   "Includes 4 g Added Sugars",
+   "",
+   "8%*"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "Bioenhanced Turmeric Complex (20% curcuminoids)Gamma-cyclodextrin (for absorption), Turmeric Extract (Curcuma longa) (rhizome)",
+   "500 mg",
+   "**"
+  ],
+  [
+   "Ginger Root (Zingiber officinale) (rhizomes)",
+   "50 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "157251",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-60-gummies/157251",
+   "price": "฿570.59",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "126275",
+   "url": "https://th.iherb.com/pr/qunol-turmeric-curcumin-complex-ginger-rich-tangerine-90-gummies/126275",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,078.63",
+  "฿1,078.63",
+  "฿23.97/‏serving",
+  "{0}% off code: {1}",
+  "฿1,078.63",
+  "Save 0% in cart",
+  "฿23.97/‏serving",
+  "฿1,078.63",
+  "(0% off)",
+  "฿1,078.63",
+  "฿23.97/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00866/s/39.jpg"
+ ]
+}

@@ -1,0 +1,298 @@
+{
+ "pid": "115589",
+ "slug": "premier-protein-100-whey-protein-powder-vanilla-milkshake-1-lb-7-oz-66",
+ "scrapedAt": "2026-08-25T17:38:51.625Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/premier-protein-100-whey-protein-powder-vanilla-milkshake-1-lb-7-oz-66.jpg",
+  "/products/iherb/premier-protein-100-whey-protein-powder-vanilla-milkshake-1-lb-7-oz-66-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/premier-protein-100-whey-protein-powder-vanilla-milkshake-1-lb-7-oz-663-g/115589",
+ "pageTitle": "Premier Protein, 100% Whey Protein Powder, Vanilla Milkshake, 1 lb 7 oz (663 g)",
+ "h1": "Premier Protein, 100% Whey Protein Powder, Vanilla Milkshake, 1 lb 7 oz (663 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "115589",
+  "name": "Premier Protein, 100% Whey Protein Powder, Vanilla Milkshake, 1 lb 7 oz (663 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/g/24.jpg",
+  "mpn": "RMT-71590",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 127
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Premier Protein",
+   "url": "https://www.premierprotein.com/",
+   "identifier": "RMT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.85",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1919.20",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Naturally & Artificial Flavored 30 g Protein 150 Calories 1 g Sugar Gluten Free Nutrition You Need, Indulgent Flavors You Want Enjoying something sweet and delicious shouldn't mean you've lost track of your health and fitness goals. Premier Protein® packs powerful nutrition and amazing flavor into each one of its protein powders.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.6x5.55"
+  },
+  "isRelatedTo": null,
+  "sku": "RMT-71590",
+  "gtin12": "643843715900",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Naturally & Artificial Flavored",
+    "30 g Protein",
+    "150 Calories",
+    "1 g Sugar",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "Nutrition You Need, Indulgent Flavors You Want",
+    "Enjoying something sweet and delicious shouldn't mean you've lost track of your health and fitness goals. Premier Protein® packs powerful nutrition and amazing flavor into each one of its protein powders."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Easy to Enjoy",
+    "Mix 2 scoops (provided) of powder into 6-8 oz of water or milk to easily make a delicious Premier ProteinⓇ Shake. Or blend with your favorite fruits for a delicious smoothie recipe!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Whey protein isolate, whey protein concentrate.",
+    "Contains 2% or less of soluble corn fiber, sunflower lecithin, natural and artificial flavors, acesulfame potassium, sucralose, xanthan gum, salt.",
+    "Contains milk."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use this product as a food supplement only. Do not use for weight reduction.",
+    "Store in a cool dry place. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "RMT-71590"
+  },
+  {
+   "label": "UPC",
+   "value": "643843715900"
+  },
+  {
+   "label": "Package quantity",
+   "value": "663 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "21.2 x 14.2 x 14.1 cm, 0.84 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Servings Per Container: About 17"
+  ],
+  [
+   "Serving Size: 2 Scoops (39 g)"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "150",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "55 mg",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "170 mg",
+   "7%"
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "30 g",
+   "60%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "160 mg",
+   "10%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "160 mg",
+   "4%"
+  ],
+  [
+   "* The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "* The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "17"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,919.20",
+  "฿1,919.20",
+  "฿112.89/‏serving",
+  "{0}% off code: {1}",
+  "฿1,919.20",
+  "Save 0% in cart",
+  "฿112.89/‏serving",
+  "฿1,919.20",
+  "(0% off)",
+  "฿1,919.20",
+  "฿112.89/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rmt/rmt71590/b/24.jpg"
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "pid": "153027",
+ "slug": "podium-nutrition-whey-protein-powder-maple-butter-pancake-1-76-lb-800",
+ "scrapedAt": "2026-08-25T17:29:32.857Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/podium-nutrition-whey-protein-powder-maple-butter-pancake-1-76-lb-800.jpg",
+  "/products/iherb/podium-nutrition-whey-protein-powder-maple-butter-pancake-1-76-lb-800-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/podium-nutrition-whey-protein-powder-maple-butter-pancake-1-76-lb-800-g/153027",
+ "pageTitle": "Podium Nutrition, Whey Protein Powder, Maple Butter Pancake, 1.76 lb (800 g)",
+ "h1": "Podium Nutrition, Whey Protein Powder, Maple Butter Pancake, 1.76 lb (800 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "153027",
+  "name": "Podium Nutrition, Whey Protein Powder, Maple Butter Pancake, 1.76 lb (800 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/g/8.jpg",
+  "mpn": "PDI-60209",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 5,
+   "reviewCount": 1
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Podium Nutrition",
+   "url": "https://www.321podium.com/",
+   "identifier": "PDI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2004.59",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Easy Digesting 100% Whey No Artificial Colors No Sugar Added Naturally & Artificially Flavored NSF ® Certified Sport 25 g Protein 120 Calories Gluten Free Soy Free DigeZyme™ Multi Enzyme Complex Podium Whey helps you fuel and recover. It is formulated with high quality protein and all natural digestive enzymes.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.9x5.85"
+  },
+  "isRelatedTo": null,
+  "sku": "PDI-60209",
+  "gtin12": "810117602093",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PDI-60209"
+  },
+  {
+   "label": "UPC",
+   "value": "810117602093"
+  },
+  {
+   "label": "Package quantity",
+   "value": "800 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.3 x 15 x 14.9 cm, 0.98 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (32 g)"
+  ],
+  [
+   "Servings Per Container: 25"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "40 mg",
+   "13%"
+  ],
+  [
+   "Sodium",
+   "135 mg",
+   "6%"
+  ],
+  [
+   "Total Carbohydrates",
+   "2 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0 g of added sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   ""
+  ],
+  [
+   "Calcium",
+   "60 mg",
+   "4%"
+  ],
+  [
+   "Potassium",
+   "140 mg",
+   "2%"
+  ],
+  [
+   "*Percent Daily Values are based on a 2000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: 1 Scoop (32 g)Servings Per Container: 25 Amount Per Serving%Daily Value*Calories120Total Fat1.5 g2%Saturated Fat1 g5%Trans Fat0 g†Cholesterol40 mg13%Sodium135 mg6%Total Carbohydrates2 g1%Total Sugars1 gIncludes 0 g of added sugars0%Protein25 gCalcium60 mg4%Potassium140 mg2%*Percent Daily Values are based on a 2000 calorie diet.†Daily Value not established.Protein BreakdownOverall Protein Content25 g ProteinWhey Protein Isolate 87%15.7 Bulk* Supplying 13.5 g ProteinWhey Protein Concentrated 77%15.1 Bulk* Supplying 11.5 g Protein(*3% Overage Included)"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "25"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP",
+    "NSF Sport"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Optimum Nutrition, Gold Standard® 100% Whey Protein, Delicious Strawberry, 5 lb (2.26 kg)",
+  "4,585",
+  "฿4,524.17"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60209/b/8.jpg"
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "pid": "86730",
+ "slug": "nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gumm",
+ "scrapedAt": "2026-08-25T17:11:25.633Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "5K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gumm.jpg",
+  "/products/iherb/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gumm-2.jpg",
+  "/products/iherb/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gumm-3.jpg",
+  "/products/iherb/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gumm-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gummies/86730",
+ "pageTitle": "Nature's Way, Alive! Kids, Gummy Multivitamin, Cherry, Orange & Grape , 60 Gummies",
+ "h1": "Nature's Way, Alive! Kids, Gummy Multivitamin, Cherry, Orange & Grape , 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "86730",
+  "name": "Nature's Way, Alive! Kids, Gummy Multivitamin, Cherry, Orange & Grape , 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/g/40.jpg",
+  "mpn": "NWY-15788",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 38925
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Way",
+   "url": "http://www.naturesway.com/",
+   "identifier": "NWY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.47",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "216.94",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "361.57",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Bone, Eye & Immune Health Orchard Fruits™ & Garden Veggies™ Powder Blend (100 mg Per 2 Gummies) With Plant-Based Pectin Multivitamin Supplement Vegetarian • Gelatin Free Balanced Support for Growth & Development Gelatin-free gummies with 15 vitamins and minerals Full B-vitamin complex helps convert food to fuel Excellent source of vitamins C and D3 per serving for immune support Excellent source of zinc per serving, an essential mineral for kids Yummy gummies suitable for ages 2+",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.9x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "NWY-15788",
+  "gtin12": "033674157886",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Bone, Eye & Immune Health",
+    "Orchard Fruits™ & Garden Veggies™ Powder Blend (100 mg Per 2 Gummies)",
+    "With Plant-Based Pectin",
+    "Multivitamin Supplement",
+    "Vegetarian • Gelatin Free",
+    "Full B-vitamin complex helps convert food to fuel",
+    "Excellent source of vitamins C and D3 per serving for immune support",
+    "Excellent source of zinc per serving, an essential mineral for kids",
+    "Yummy gummies suitable for ages 2+"
+   ],
+   "paragraphs": [
+    "Balanced Support for Growth & Development",
+    "Gelatin-free gummies with 15 vitamins and minerals"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 2-3 years of age, chew 1 gummy daily. Children 4 years of age and older, chew 2 gummies daily. Take preferably with food. Instruct child to chew gummies thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sucrose, purified water, pectin, citric acid, sodium citrate, natural flavors, vegetable and fruit juice colors.",
+    "Free from gluten, wheat, egg, peanut, dairy, and gelatin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not for children under 2 years of age due to choking hazard. If you are pregnant, nursing, or taking any medications, consult a healthcare professional before use.",
+    "Keep out of reach of children. Do not use if safety seal under child-resistant cap is broken or missing. Keep tightly closed. Store at room temperature. Avoid excessive heat and direct sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NWY-15788"
+  },
+  {
+   "label": "UPC",
+   "value": "033674157886"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.3 x 7.4 x 6.9 cm, 0.21 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy / 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 60 / 30"
+  ],
+  [
+   "",
+   "Amount Per Serving Ages 2-3 Yrs",
+   "%DV‡",
+   "Amount Per Serving 4+ Yrs",
+   "%DV†"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%‡",
+   "4 g",
+   "1%†"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugar",
+   "1 g",
+   "4%‡",
+   "3 g",
+   "6%‡"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate)",
+   "225 mcg",
+   "75%",
+   "450 mcg",
+   "50%"
+  ],
+  [
+   "Vitamin C (ascorbic acid)",
+   "30 mg",
+   "200%",
+   "60 mg",
+   "67%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "10 mcg",
+   "67%",
+   "20 mcg",
+   "100%"
+  ],
+  [
+   "Vitamin E (as dl-alpha tocopheryl acetate)",
+   "5 mg",
+   "83%",
+   "10 mg",
+   "67%"
+  ],
+  [
+   "Thiamin (as thiamin HCl)",
+   "0.15 mg",
+   "30%",
+   "0.3 mg",
+   "25%"
+  ],
+  [
+   "Riboflavin",
+   "0.16 mg",
+   "32%",
+   "0.32 mg",
+   "25%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "2 mg",
+   "33%",
+   "4 mg",
+   "25%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "0.85 mg",
+   "170%",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate",
+   "100 mcg DFE (60 mcg Folic Acid)",
+   "67%",
+   "200 mcg DFE(120 mcg Folic Acid)",
+   "50%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "1.2 mcg",
+   "133%",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "7.5 mcg",
+   "94%",
+   "15 mcg",
+   "50%"
+  ],
+  [
+   "Pantothenic Acid (as D-Calcium Pantothenate)",
+   "1.25 mg",
+   "63%",
+   "2.5 mg",
+   "50%"
+  ],
+  [
+   "Choline (as choline bitartrate)",
+   "5.5 mg",
+   "3%",
+   "11 mg",
+   "2%"
+  ],
+  [
+   "Iodine (as Potassium iodide)",
+   "37.5 mcg",
+   "42%",
+   "75 mcg",
+   "50%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "1.1 mg",
+   "37%",
+   "2.2 mg",
+   "20%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "Orchard Fruits™ & Garden Veggies™ Powder Blend:Orange, Blueberry, Carrot, Plum, Pomegranate, Strawberry, Pear, Apple, Beet, Raspberry, Pineapple, Pumpkin, Cherry, Cauliflower, Grape, Banana, Cabbage, Tomato, Acai, Asparagus, Brussels Sprout, Cranberry, Cucumber, Pea, Broccoli, Spinach",
+   "50 mg",
+   "**",
+   "100 mg",
+   "**"
+  ],
+  [
+   "Inositol",
+   "20 mcg",
+   "**",
+   "40 mcg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 2,000 calorie diet.‡Percent Daily Values (DV) are based on a 1,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "‡Percent Daily Values (DV) are based on a 1,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Dairy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "86730",
+   "url": "https://th.iherb.com/pr/nature-s-way-alive-kids-gummy-multivitamin-cherry-orange-grape-60-gummies/86730",
+   "price": "฿216.94",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "43067",
+   "url": "https://th.iherb.com/pr/nature-s-way-alive-kids-premium-gummy-multivitamin-cherry-grape-orange-90-gummies/43067",
+   "price": "฿597.75",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Children's Multivitamins",
+   "href": "/c/childrens-multivitamins?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Children's Vitamins",
+   "href": "/c/childrens-vitamins?sr=2"
+  },
+  {
+   "rank": "#9 in",
+   "category": "Children's Health",
+   "href": "/c/childrens-health?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "5,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿361.57",
+  "฿361.57",
+  "฿6.03/‏serving",
+  "{0}% off code: {1}",
+  "฿361.57",
+  "Save 40% in cart",
+  "฿6.03/‏serving",
+  "฿216.94",
+  "(40% off)",
+  "฿361.57",
+  "฿3.62/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/43.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nwy/nwy15788/s/52.jpg"
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "pid": "143301",
+ "slug": "the-smurfs-kids-gummy-multi-vitamin-ages-3-smurf-berry-100-gummies",
+ "scrapedAt": "2026-08-25T17:14:34.209Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "400+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-smurfs-kids-gummy-multi-vitamin-ages-3-smurf-berry-100-gummies.jpg",
+  "/products/iherb/the-smurfs-kids-gummy-multi-vitamin-ages-3-smurf-berry-100-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-smurfs-kids-gummy-multi-vitamin-ages-3-smurf-berry-100-gummies/143301",
+ "pageTitle": "The Smurfs, Kids Gummy, Multi-Vitamin, Ages 3+, Smurf Berry, 100 Gummies",
+ "h1": "The Smurfs, Kids Gummy, Multi-Vitamin, Ages 3+, Smurf Berry, 100 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143301",
+  "name": "The Smurfs, Kids Gummy, Multi-Vitamin, Ages 3+, Smurf Berry, 100 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/g/8.jpg",
+  "mpn": "SMF-64100",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 13944
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Smurfs",
+   "url": "",
+   "identifier": "SMF"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.91",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "651.79",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Made with Real Fruit Juice/Puree Doctor Developed 15 Daily Vitamins and Minerals Dietary Supplement Gluten/GMO Free Supports Daily Wellness Superior Formula: Smurfs Multivitamin for kids delivers 15 essential vitamins and minerals, including Vitamin D, Vitamin E, Vitamin B6, Vitamin B12 plus others at 100% daily value – more than other brands. These multivitamin for kids gummies are a fun and nutritious way to help your child make the most of every day.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "SMF-64100",
+  "gtin12": "850045641009",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Made with Real Fruit Juice/Puree",
+    "Doctor Developed",
+    "15 Daily Vitamins and Minerals",
+    "Dietary Supplement",
+    "Gluten/GMO Free",
+    "Supports Daily Wellness"
+   ],
+   "paragraphs": [
+    "Superior Formula: Smurfs Multivitamin for kids delivers 15 essential vitamins and minerals, including Vitamin D, Vitamin E, Vitamin B6, Vitamin B12 plus others at 100% daily value – more than other brands. These multivitamin for kids gummies are a fun and nutritious way to help your child make the most of every day."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children 3 years of age take 1 gummy, 4+ years of age take 2 gummies. Have child chew fully before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Tapioca syrup, fruit blend (pineapple juice concentrate, apple juice concentrate, pear puree, peach puree, orange juice concentrate, passionfruit juice), cane sugar, pectin, natural flavors, fruit juice (color), citric acid, sodium citrate, fractionated coconut oil, carnauba wax, stevia leaf extract.",
+    "No milk, soy, egg, nuts, fish, shellfish, gelatin, or synthetic colors/flavors.",
+    "Made in Australia in facility that also processes wheat."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for children under 3 years of age. Use only as directed with parental supervision.",
+    "Consult a healthcare provider before use if child has any medical condition or takes any medications.",
+    "Keep out of reach of children. Store tightly closed in cool, dry place. Do not use if safety seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SMF-64100"
+  },
+  {
+   "label": "UPC",
+   "value": "850045641009"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.9 x 8 x 8 cm, 0.41 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy, 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 100, 50"
+  ],
+  [
+   "",
+   "Amount Per Serving1 Gummy",
+   "%DV for Children 3 Years of Age",
+   "Amount Per Serving2 Gummies",
+   "%DV for Children 4+ Years of Age"
+  ],
+  [
+   "Calories",
+   "10",
+   "",
+   "25",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "2%†",
+   "6 g",
+   "2%‡"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "**",
+   "4 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugars",
+   "2 g",
+   "8%†",
+   "4 g",
+   "8%‡"
+  ],
+  [
+   "Vitamin A (as retinyl palmitate, beta carotene)",
+   "225 mcg RAE",
+   "75%",
+   "450 mcg RAE",
+   "50%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "23 mg",
+   "153%",
+   "45 mg",
+   "50%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "10 mcg",
+   "67%",
+   "20 mcg",
+   "100%"
+  ],
+  [
+   "Vitamin E (as d-alpha tocopheryl acetate)",
+   "7.5 mg",
+   "125%",
+   "15 mg",
+   "100%"
+  ],
+  [
+   "Thiamine (Vitamin B1) (as thiamine HCl)",
+   "0.15 mg",
+   "30%",
+   "0.3 mg",
+   "25%"
+  ],
+  [
+   "Riboflavin (Vitamin B2)",
+   "0.16 mg",
+   "32%",
+   "0.33 mg",
+   "25%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "0.85 mg",
+   "170%",
+   "1.7 mg",
+   "100%"
+  ],
+  [
+   "Folate (as folic acid)",
+   "200 mcg DFE",
+   "133%",
+   "400 mcg DFE",
+   "100%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "1.2 mcg",
+   "133%",
+   "2.4 mcg",
+   "100%"
+  ],
+  [
+   "Biotin (as d-biotin)",
+   "15 mcg",
+   "188%",
+   "30 mcg",
+   "100%"
+  ],
+  [
+   "Pantothenic Acid (as calcium d-pantothenate)",
+   "2.5 mg",
+   "125%",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "Choline (as choline bitartrate)",
+   "6 mg",
+   "3%",
+   "12 mg",
+   "2%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "75 mcg",
+   "83%",
+   "150 mcg",
+   "100%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "1.4 mg",
+   "47%",
+   "2.8 mg",
+   "25%"
+  ],
+  [
+   "Chromium (as chromium chloride)",
+   "1.8 mcg",
+   "16%",
+   "3.5 mcg",
+   "10%"
+  ],
+  [
+   "Sodium",
+   "15 mg",
+   "1%",
+   "25 mg",
+   "1%"
+  ],
+  [
+   "†Percent Daily Values (DV)are based on a 1,000 calorie diet.‡Percent Daily Values (DV)are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV)are based on a 1,000 calorie diet.",
+  "‡Percent Daily Values (DV)are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "116223",
+   "url": "https://th.iherb.com/pr/the-smurfs-kids-gummy-multi-vitamin-ages-3-smurf-berry-60-gummies/116223",
+   "price": "฿244.65",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "143301",
+   "url": "https://th.iherb.com/pr/the-smurfs-kids-gummy-multi-vitamin-ages-3-smurf-berry-100-gummies/143301",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "400+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿651.79",
+  "฿651.79",
+  "฿6.52/‏serving",
+  "{0}% off code: {1}",
+  "฿651.79",
+  "Save 0% in cart",
+  "฿6.52/‏serving",
+  "฿651.79",
+  "(0% off)",
+  "฿651.79",
+  "฿6.52/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smf/smf64100/s/11.jpg"
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "pid": "114722",
+ "slug": "futurebiotics-vitamin-k2-d3-extra-strength-120-capsules",
+ "scrapedAt": "2026-08-25T17:18:18.056Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/futurebiotics-vitamin-k2-d3-extra-strength-120-capsules.jpg",
+  "/products/iherb/futurebiotics-vitamin-k2-d3-extra-strength-120-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/futurebiotics-vitamin-k2-d3-extra-strength-120-capsules/114722",
+ "pageTitle": "Futurebiotics, Vitamin K2 + D3, Extra Strength, 120 Capsules",
+ "h1": "Futurebiotics, Vitamin K2 + D3, Extra Strength, 120 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "114722",
+  "name": "Futurebiotics, Vitamin K2 + D3, Extra Strength, 120 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/g/40.jpg",
+  "mpn": "FBS-50133",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 13619
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Futurebiotics",
+   "url": "http://www.futurebiotics.com/",
+   "identifier": "FBS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "557.77",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Extra Strength Vitamin K2 As MK-7 Bone & Heart Support 2 in 1 Formula Free of Gluten and Soy Dietary Supplement Lab Tested • GMO Free Futurebiotics® Vitamin K2 + D3 supplies the perfect match. While the benefits of Vitamin D are well known, many don't realize that Vitamin D needs Vitamin K2 to maximize its benefits. This formula helps the proper absorption of calcium with D3, while providing the correct distribution to your bones where you need it most. Futurebiotics® K2 + D3 are truly the perfect pair for healthy bone & heart support.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2.2"
+  },
+  "isRelatedTo": null,
+  "sku": "FBS-50133",
+  "gtin12": "049479501335",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Extra Strength",
+    "Vitamin K2 As MK-7",
+    "Bone & Heart Support",
+    "2 in 1 Formula",
+    "Free of Gluten and Soy",
+    "Dietary Supplement",
+    "Lab Tested • GMO Free"
+   ],
+   "paragraphs": [
+    "Futurebiotics® Vitamin K2 + D3 supplies the perfect match. While the benefits of Vitamin D are well known, many don't realize that Vitamin D needs Vitamin K2 to maximize its benefits. This formula helps the proper absorption of calcium with D3, while providing the correct distribution to your bones where you need it most. Futurebiotics® K2 + D3 are truly the perfect pair for healthy bone & heart support."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement for adults, take 1 capsule daily, preferably with a meal or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, modified cellulose capsule, magnesium stearate, silicon dioxide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not take this product if you are pregnant or nursing. Consult a physician before taking this product if you have a medical condition or are taking medication, especially anticoagulant drugs. Do not use if seal under cap is broken or missing. Keep out of reach of children. Protect from light."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FBS-50133"
+  },
+  {
+   "label": "UPC",
+   "value": "049479501335"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.6 x 5.6 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D3 (as Cholecalciferol)",
+   "250 mcg (10,000 IU)",
+   "1250%"
+  ],
+  [
+   "Vitamin K2 (as MK7 Menaquinone)",
+   "120 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "143357",
+   "url": "https://th.iherb.com/pr/futurebiotics-vitamin-k2-d3-extra-strength-60-capsules/143357",
+   "price": "฿278.89",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "114722",
+   "url": "https://th.iherb.com/pr/futurebiotics-vitamin-k2-d3-extra-strength-120-capsules/114722",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿557.77",
+  "฿557.77",
+  "฿4.65/‏serving",
+  "{0}% off code: {1}",
+  "฿557.77",
+  "Save 0% in cart",
+  "฿4.65/‏serving",
+  "฿557.77",
+  "(0% off)",
+  "฿557.77",
+  "฿4.65/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fbs/fbs50133/s/46.jpg"
+ ]
+}

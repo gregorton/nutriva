@@ -1,0 +1,273 @@
+{
+ "pid": "126271",
+ "slug": "qunol-ultra-omega-3-fish-oil-lemon-180-mini-softgels-500-mg-per-softge",
+ "scrapedAt": "2026-08-25T17:10:06.332Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/qunol-ultra-omega-3-fish-oil-lemon-180-mini-softgels-500-mg-per-softge.jpg",
+  "/products/iherb/qunol-ultra-omega-3-fish-oil-lemon-180-mini-softgels-500-mg-per-softge-2.jpg",
+  "/products/iherb/qunol-ultra-omega-3-fish-oil-lemon-180-mini-softgels-500-mg-per-softge-3.jpg",
+  "/products/iherb/qunol-ultra-omega-3-fish-oil-lemon-180-mini-softgels-500-mg-per-softge-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/qunol-ultra-omega-3-fish-oil-lemon-180-mini-softgels-500-mg-per-softgel/126271",
+ "pageTitle": "Qunol, Ultra Omega-3 Fish Oil, Lemon, 180 Mini Softgels (500 mg per Softgel)",
+ "h1": "Qunol, Ultra Omega-3 Fish Oil, Lemon, 180 Mini Softgels (500 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126271",
+  "name": "Qunol, Ultra Omega-3 Fish Oil, Lemon, 180 Mini Softgels (500 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/g/77.jpg",
+  "mpn": "QNL-00145",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 157
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Qunol",
+   "url": "http://www.qunol.com/",
+   "identifier": "QNL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.52",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1233.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Highly Refined Fish Oil 1,000 mg Omega-3 Per Two Softgels Supports Heart Health Dietary Supplement Manufactured in a cGMP Compliant Facility Lemon Flavor to Control Fishy Aftertaste Non-GMO No Synthetic Dyes Gluten-Free The Gold Standard in Fish Oil Why is Qunol® the better fish oil? When it comes to fish oil, it's not the amount of fish oil you take, it's the amount of Omega-3 in the fish oil that matters. Qunol's Omega-3 Fish Oil provides 1000 mg of Omega-3 fatty acids and contains fatty acids known as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). Qunol® Ultra Fish Oil Standard Fish Oil ∧ High Potency √ — Lemon Flavor √ — ∧ Fish oil in triglyceride form. Adding Qunol's Omega-3 Fish Oil to your daily regimen can help you achieve your health goals.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.65x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "QNL-00145",
+  "gtin12": "898440001455",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/g/77.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Highly Refined Fish Oil",
+    "1,000 mg Omega-3 Per Two Softgels",
+    "Supports Heart Health",
+    "Dietary Supplement",
+    "Manufactured in a cGMP Compliant Facility",
+    "Lemon Flavor to Control Fishy Aftertaste",
+    "Non-GMO",
+    "No Synthetic Dyes",
+    "Gluten-Free",
+    "The Gold Standard in Fish Oil"
+   ],
+   "paragraphs": [
+    "Why is Qunol® the better fish oil?",
+    "When it comes to fish oil, it's not the amount of fish oil you take, it's the amount of Omega-3 in the fish oil that matters.",
+    "Qunol's Omega-3 Fish Oil provides 1000 mg of Omega-3 fatty acids and contains fatty acids known as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA).",
+    "Adding Qunol's Omega-3 Fish Oil to your daily regimen can help you achieve your health goals."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take two (2) softgels daily with or after a meal, or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Fish oil (anchovies and/or sardines and/or mackerel and/or herring), gelatin, glycerin, water, natural lemon flavor, mixed natural tocopherols."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Consult your physician or a healthcare professional before starting or stopping any dietary supplement, especially if you are pregnant or nursing or taking any medications. To preserve quality and freshness, keep bottle tightly closed. Store in a cool, dry place.",
+    "Tamper Resistant: Do not use if safety seal over cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "QNL-00145"
+  },
+  {
+   "label": "UPC",
+   "value": "898440001455"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.9 x 9.3 x 7.7 cm, 0.24 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgel"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%*"
+  ],
+  [
+   "Cholesterol",
+   "5 mg",
+   "2%"
+  ],
+  [
+   "Total Omega-3 Fatty Acids (as Ethyl Esters)",
+   "1,000 mg",
+   "**"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "645 mg",
+   "**"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "310 mg",
+   "**"
+  ],
+  [
+   "Other Omega-3s",
+   "45 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,233.12",
+  "฿1,233.12",
+  "฿13.70/‏serving",
+  "{0}% off code: {1}",
+  "฿1,233.12",
+  "Save 0% in cart",
+  "฿13.70/‏serving",
+  "฿1,233.12",
+  "(0% off)",
+  "฿1,233.12",
+  "฿13.70/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/g/77.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/k/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/g/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/65.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qnl/qnl00145/s/32.jpg"
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "pid": "132131",
+ "slug": "typezero-clean-magnesium-glycinate-180-capsules-70-mg-per-capsule",
+ "scrapedAt": "2026-08-25T17:36:13.155Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/typezero-clean-magnesium-glycinate-180-capsules-70-mg-per-capsule.jpg",
+  "/products/iherb/typezero-clean-magnesium-glycinate-180-capsules-70-mg-per-capsule-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/typezero-clean-magnesium-glycinate-180-capsules-70-mg-per-capsule/132131",
+ "pageTitle": "TypeZero, Clean, Magnesium Glycinate, 180 Capsules (70 mg per Capsule)",
+ "h1": "TypeZero, Clean, Magnesium Glycinate, 180 Capsules (70 mg per Capsule)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "132131",
+  "name": "TypeZero, Clean, Magnesium Glycinate, 180 Capsules (70 mg per Capsule)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/g/24.jpg",
+  "mpn": "TZO-32102",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 313
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "TypeZero",
+   "url": "https://typezerohealth.com/",
+   "identifier": "TZO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "564.99",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Keto Friendly Non GMO 3rd-Party Tested Dietary Supplement Gluten Free TYPE ZERO was crafted for all of us who want high-quality performance enhancing supplements without sugars, without artificial sweeteners, without the B.S. As a diabetic, it was important to me to create a zero sugar product. I've put my heart and soul into making TYPE ZERO the best clean supplement on the market. If you don't love it, please contact me and I promise to make it right.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.8x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "TZO-32102",
+  "gtin12": "850047321022",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Keto Friendly",
+    "Non GMO",
+    "3rd-Party Tested",
+    "Dietary Supplement",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "TYPE ZERO was crafted for all of us who want high-quality performance enhancing supplements without sugars, without artificial sweeteners, without the B.S.",
+    "As a diabetic, it was important to me to create a zero sugar product. I've put my heart and soul into making TYPE ZERO the best clean supplement on the market.",
+    "If you don't love it, please contact me and I promise to make it right."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "3 Capsule",
+    "8-10 oz",
+    "1 x Daily"
+   ],
+   "paragraphs": [
+    "As a dietary supplement, take 3 capsules daily with 8-10 oz of water or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose) capsule, microcrystalline cellulose, stearic acid.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a qualified healthcare professional prior to using this product if you are pregnant, nursing, taking medication, or have a medical condition. Do not exceed recommended daily intake. Do not use if safety seal is missing or damaged.",
+    "Store at room temperature. Exposure to heat, light, or air can have negative effects related to product quality and flavor. Keep out of direct light or heat. Keep sealed when not in use."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "TZO-32102"
+  },
+  {
+   "label": "UPC",
+   "value": "850047321022"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.1 x 7.1 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Magnesium (as magnesium glycinate)",
+   "210 mg",
+   "50%"
+  ],
+  [
+   "*Percent Daily Value (DV) are based off a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*Percent Daily Value (DV) are based off a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Gluten-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿564.99",
+  "฿564.99",
+  "฿9.42/‏serving",
+  "{0}% off code: {1}",
+  "฿564.99",
+  "Save 0% in cart",
+  "฿9.42/‏serving",
+  "฿564.99",
+  "(0% off)",
+  "฿564.99",
+  "฿9.42/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tzo/tzo32102/s/27.jpg"
+ ]
+}

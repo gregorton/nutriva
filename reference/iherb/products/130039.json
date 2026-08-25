@@ -1,0 +1,228 @@
+{
+ "pid": "130039",
+ "slug": "quantum-health-sleep-melatonin-30-capsules",
+ "scrapedAt": "2026-08-25T17:15:00.803Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/quantum-health-sleep-melatonin-30-capsules.jpg",
+  "/products/iherb/quantum-health-sleep-melatonin-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/quantum-health-sleep-melatonin-30-capsules/130039",
+ "pageTitle": "Quantum Health, Sleep, Melatonin, 30 Capsules",
+ "h1": "Quantum Health, Sleep, Melatonin, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "130039",
+  "name": "Quantum Health, Sleep, Melatonin, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/g/24.jpg",
+  "mpn": "QUA-06062",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 14
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Quantum Health",
+   "url": "http://www.quantumhealth.com/",
+   "identifier": "QUA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "629.96",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Promotes Healthy Restful Sleep Melatonin 2 mg Valerian Root, Lemon Balm, L-Theanine Dietary Supplement Quantum Health’s sleep formulas were formulated to help you get the sleep you need to maintain overall health and to live the life that you deserve to live. Each easy to swallow capsule contains: Melatonin - naturally produced by the body, melatonin plays a key role in regulating the sleep-wake cycle, also known as the circadian rhythm. It can promote drowsiness when taken as a supplement. Valerian Root – an herb that has been used for centuries as a traditional sleep aid, it is thought to influence GABA (gamma-aminobutyric acid), a neurotransmitter in the brain that helps to promote relaxation and reduce feelings of occasional stress. Lemon Balm - also known as Melissa officinalis, Lemon Balm has been traditionally used to promote relaxation. L-Theanine - an amino acid found naturally in tea leaves, particularly in green tea, L-Theanine is known for its ability to promote relaxation.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.8"
+  },
+  "isRelatedTo": null,
+  "sku": "QUA-06062",
+  "gtin12": "046985060622",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Promotes Healthy Restful Sleep",
+    "Melatonin 2 mg",
+    "Valerian Root, Lemon Balm, L-Theanine",
+    "Dietary Supplement",
+    "Melatonin - naturally produced by the body, melatonin plays a key role in regulating the sleep-wake cycle, also known as the circadian rhythm. It can promote drowsiness when taken as a supplement.",
+    "Valerian Root – an herb that has been used for centuries as a traditional sleep aid, it is thought to influence GABA (gamma-aminobutyric acid), a neurotransmitter in the brain that helps to promote relaxation and reduce feelings of occasional stress.",
+    "Lemon Balm - also known as Melissa officinalis, Lemon Balm has been traditionally used to promote relaxation.",
+    "L-Theanine - an amino acid found naturally in tea leaves, particularly in green tea, L-Theanine is known for its ability to promote relaxation."
+   ],
+   "paragraphs": [
+    "Quantum Health’s sleep formulas were formulated to help you get the sleep you need to maintain overall health and to live the life that you deserve to live. Each easy to swallow capsule contains:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 capsule daily or as directed by a doctor."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsule), rice flour, magnesium stearate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare professional before use in children, if you are pregnant or nursing, have a medical condition, are taking any medication, or if you are experiencing long-term sleep difficulties. Do not drive or operate machinery when taking this product. Do not exceed 5 capsules per day.",
+    "Safety sealed for your protection."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "QUA-06062"
+  },
+  {
+   "label": "UPC",
+   "value": "046985060622"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 4.6 x 4.6 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Proprietary BlendL-Theanine, Valerian Root Powder, Lemon Balm Herb Powder",
+   "350 mg",
+   "†"
+  ],
+  [
+   "Melatonin",
+   "2 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 8 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿629.96",
+  "฿629.96",
+  "฿21.00/‏serving",
+  "{0}% off code: {1}",
+  "฿629.96",
+  "Save 0% in cart",
+  "฿21.00/‏serving",
+  "฿629.96",
+  "(0% off)",
+  "฿629.96",
+  "฿21.00/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/qua/qua06062/s/29.jpg"
+ ]
+}

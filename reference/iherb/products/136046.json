@@ -1,0 +1,240 @@
+{
+ "pid": "136046",
+ "slug": "21st-century-zoo-friends-sleep-children-s-chewable-melatonin-ages-4-ra",
+ "scrapedAt": "2026-08-25T17:11:05.147Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-zoo-friends-sleep-children-s-chewable-melatonin-ages-4-ra.jpg",
+  "/products/iherb/21st-century-zoo-friends-sleep-children-s-chewable-melatonin-ages-4-ra-2.jpg",
+  "/products/iherb/21st-century-zoo-friends-sleep-children-s-chewable-melatonin-ages-4-ra-3.jpg",
+  "/products/iherb/21st-century-zoo-friends-sleep-children-s-chewable-melatonin-ages-4-ra-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-zoo-friends-sleep-children-s-chewable-melatonin-ages-4-raspberry-60-chewable-tablets/136046",
+ "pageTitle": "21st Century, Zoo Friends Sleep, Children's Chewable Melatonin, Ages 4+, Raspberry, 60 Chewable Tablets",
+ "h1": "21st Century, Zoo Friends Sleep, Children's Chewable Melatonin, Ages 4+, Raspberry, 60 Chewable Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "136046",
+  "name": "21st Century, Zoo Friends Sleep, Children's Chewable Melatonin, Ages 4+, Raspberry, 60 Chewable Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/g/8.jpg",
+  "mpn": "CEN-28092",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 711
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "217.20",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural Flavor Occasional Sleep Support Gluten Free Non-GMO Dietary Supplement Laboratory Tested Trusted Quality For Over 30 Years No Added Artificial Flavors 21st Century® Zoo Friends® Sleep chewable tablets work in harmony with your child's natural sleep cycle and promotes relaxation and sleep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-28092",
+  "gtin12": "740985280928",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural Flavor",
+    "Occasional Sleep Support",
+    "Gluten Free",
+    "Non-GMO",
+    "Dietary Supplement",
+    "Laboratory Tested",
+    "Trusted Quality For Over 30 Years",
+    "No Added Artificial Flavors"
+   ],
+   "paragraphs": [
+    "21st Century® Zoo Friends® Sleep chewable tablets work in harmony with your child's natural sleep cycle and promotes relaxation and sleep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, children 4 to 5 years of age chew one (1) tablet 30 minutes before bedtime; children 6 to 12 years of age, chew one (1) to two (2) tablets 30 minutes before bedtime or as directed by a healthcare provider. Do not exceed recommended dosage. Individual results may vary."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sucrose, polyplasdone, maltodextrin, stearic acid.",
+    "Contains <2% of: Grape skin extract (color), magnesium stearate, natural flavors, silicon dioxide, sucralose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare provider prior to use if your child is taking any medications, has a medical condition or is planning a medical procedure. Stop use and contact a physician if adverse reactions occur. Consult a healthcare provider if your child experiences consistent sleep difficulties or for extended use. This product may cause drowsiness. Do not take or combine with other products containing melatonin or products that cause sedation or drowsiness. Do not use if your child is allergic to any of the ingredients. If your child weighs less than 31 lbs (14 Kg), this product is not recommended for use. Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-28092"
+  },
+  {
+   "label": "UPC",
+   "value": "740985280928"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.1 x 5 x 5 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 or 2 Chewable Tablets"
+  ],
+  [
+   "Servings Per Container: 60 or 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value 4-5 Yrs. (1 Tablet)",
+   "Amount Per Serving",
+   "%Daily Value 6-12 Yrs. (2 Tablets)"
+  ],
+  [
+   "Melatonin",
+   "1 mg",
+   "**",
+   "2 mg",
+   "**"
+  ],
+  [
+   "**Daily Values not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value 4-5 Yrs. (1 Tablet)",
+  "%Daily Value 6-12 Yrs. (2 Tablets)",
+  "**Daily Values not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 chewable tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿217.20",
+  "฿217.20",
+  "฿3.62/‏serving",
+  "{0}% off code: {1}",
+  "฿217.20",
+  "Save 0% in cart",
+  "฿3.62/‏serving",
+  "฿217.20",
+  "(0% off)",
+  "฿217.20",
+  "฿3.62/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen28092/s/23.jpg"
+ ]
+}

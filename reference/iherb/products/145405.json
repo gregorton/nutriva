@@ -1,0 +1,273 @@
+{
+ "pid": "145405",
+ "slug": "esterc-24-hour-immune-support-90-vegetarian-coated-tablets",
+ "scrapedAt": "2026-08-25T17:12:58.215Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/esterc-24-hour-immune-support-90-vegetarian-coated-tablets.jpg",
+  "/products/iherb/esterc-24-hour-immune-support-90-vegetarian-coated-tablets-2.jpg",
+  "/products/iherb/esterc-24-hour-immune-support-90-vegetarian-coated-tablets-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/esterc-24-hour-immune-support-90-vegetarian-coated-tablets/145405",
+ "pageTitle": "EsterC, 24 Hour Immune Support, 90 Vegetarian Coated Tablets",
+ "h1": "EsterC, 24 Hour Immune Support, 90 Vegetarian Coated Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "145405",
+  "name": "EsterC, 24 Hour Immune Support, 90 Vegetarian Coated Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/g/20.jpg",
+  "mpn": "ESC-16971",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 353
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "EsterC",
+   "url": "https://www.esterc.com/",
+   "identifier": "ESC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.31",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "460.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports Upper Respiratory Health The Better Vitamin C® 500 mg Non GMO Clinically Studied Vitamin C Stomach Friendly Dietary Supplement Suitable for Vegetarian Sodium Free Immune & Upper Respiratory Health Support Ester-C® is the unique immune health formula containing a proprietary, clinically studied Vitamin C that stays in your immune system for 24 hours†. Ester-C® Vitamin C is clinically shown to last longer than regular vitamin C. That's because Ester-C® Vitamin C is carefully formulated to contain vitamin C metabolites, the same metabolites that are naturally produced by your body and help enhance the retention of vitamin C by your white blood cells, a vital part of your immune system. So once you take your daily dose of Ester-C® Vitamin C, it gets into your white blood cells, and stays there - for up to 24 hours. Vitamin C also contributes to the health of your upper respiratory tract, plus, Ester-C® Vitamin C is manufactured without chemicals to neutralize pH, which means it's non-acidic and gentle on your stomach. Ester-C® is the kind of support you can count on 24/7! Ester-C® Vitamin C lasts longer than regular Vitamin C in White Blood Cells over 24 hours !*† Enjoy the benefits of Ester-C® Vitamin C every day! 24 Hour Immune Support Clinically studied to last longer than regular Vitamin C† Non-acidic and gentle on the stomach Supports upper respiratory health Potent antioxidant support Not all Vitamin C is created equal ... There is only One Unique Ester-C® formula †Ester-C® Vitamin C has been clinically studied to stay in your white blood cells for up to 24 hours, which is longer than regular Vitamin C. White blood cells are an important part of the immune system.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.9x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "ESC-16971",
+  "gtin12": "025077169719",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/g/20.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports Upper Respiratory Health",
+    "The Better Vitamin C®",
+    "500 mg",
+    "Non GMO",
+    "Clinically Studied Vitamin C",
+    "Stomach Friendly",
+    "Dietary Supplement",
+    "Suitable for Vegetarian",
+    "Sodium Free",
+    "24 Hour Immune Support",
+    "Clinically studied to last longer than regular Vitamin C†",
+    "Non-acidic and gentle on the stomach",
+    "Supports upper respiratory health",
+    "Potent antioxidant support"
+   ],
+   "paragraphs": [
+    "Immune & Upper Respiratory Health Support",
+    "Ester-C® is the unique immune health formula containing a proprietary, clinically studied Vitamin C that stays in your immune system for 24 hours†.",
+    "Ester-C® Vitamin C is clinically shown to last longer than regular vitamin C. That's because Ester-C® Vitamin C is carefully formulated to contain vitamin C metabolites, the same metabolites that are naturally produced by your body and help enhance the retention of vitamin C by your white blood cells, a vital part of your immune system. So once you take your daily dose of Ester-C® Vitamin C, it gets into your white blood cells, and stays there - for up to 24 hours. Vitamin C also contributes to the health of your upper respiratory tract, plus, Ester-C® Vitamin C is manufactured without chemicals to neutralize pH, which means it's non-acidic and gentle on your stomach. Ester-C® is the kind of support you can count on 24/7!",
+    "Ester-C® Vitamin C lasts longer than regular Vitamin C in White Blood Cells over 24 hours !*†",
+    "Enjoy the benefits of Ester-C® Vitamin C every day!",
+    "Not all Vitamin C is created equal ... There is only One Unique Ester-C® formula",
+    "†Ester-C® Vitamin C has been clinically studied to stay in your white blood cells for up to 24 hours, which is longer than regular Vitamin C. White blood cells are an important part of the immune system."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take two (2) tablets once daily, preferably with a meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose. contains <2% of: calcium silicate, maltodextrin, natural palm leaf glaze, triacetin, vegetable magnesium stearate, vegetable stearic acid.",
+    "No gluten, no wheat, no milk, no lactose, no artificial color, flavor or sweetener, no sugar, no starch, no soy, no yeast, no fish.",
+    "Made in the USA with select ingredients from around the world."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, taking any medications or have any medical condition, consult your doctor before use. Discontinue use and consult your doctor if any adverse reactions occur. Keep out of reach of children. Store at room temperature. Do not use if seal under cap is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ESC-16971"
+  },
+  {
+   "label": "UPC",
+   "value": "025077169719"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.3 x 7.4 x 7.2 cm, 0.14 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as Ester-C® Calcium Ascorbate)",
+   "1,000 mg",
+   "1,111%"
+  ],
+  [
+   "Calcium (as Ester-C® Calcium Ascorbate)",
+   "110 mg",
+   "8%"
+  ],
+  [
+   "C-Sorb™ Citrus Bioflavonoid ComplexCitrus Bioflavonoid Complex (Citrus spp.) (peel and fruit), Sweet Orange, Tangerine, Lime, Lemon, Acerola Extract, Rutin, Hesperidin Complex (Citrus spp.) (peel), Naturally Occurring Vitamin C Metabolites",
+   "204 mg",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "145406",
+   "url": "https://th.iherb.com/pr/esterc-24-hour-immune-support-1-000-mg-60-vegetarian-coated-tablets/145406",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "90 count",
+   "pid": "145405",
+   "url": "https://th.iherb.com/pr/esterc-24-hour-immune-support-90-vegetarian-coated-tablets/145405",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿460.00",
+  "฿460.00",
+  "฿10.22/‏serving",
+  "{0}% off code: {1}",
+  "฿460.00",
+  "Save 0% in cart",
+  "฿10.22/‏serving",
+  "฿460.00",
+  "(0% off)",
+  "฿460.00",
+  "฿10.22/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/g/20.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/k/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/g/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/esc/esc16971/s/12.jpg"
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "pid": "78124",
+ "slug": "naturewise-organic-turmeric-curcumin-90-vegan-capsules",
+ "scrapedAt": "2026-08-25T17:21:17.832Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "750+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturewise-organic-turmeric-curcumin-90-vegan-capsules.jpg",
+  "/products/iherb/naturewise-organic-turmeric-curcumin-90-vegan-capsules-2.jpg",
+  "/products/iherb/naturewise-organic-turmeric-curcumin-90-vegan-capsules-3.jpg",
+  "/products/iherb/naturewise-organic-turmeric-curcumin-90-vegan-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturewise-organic-turmeric-curcumin-90-vegan-capsules/78124",
+ "pageTitle": "NatureWise, Organic Turmeric Curcumin, 90 Vegan Capsules",
+ "h1": "NatureWise, Organic Turmeric Curcumin, 90 Vegan Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "78124",
+  "name": "NatureWise, Organic Turmeric Curcumin, 90 Vegan Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/g/44.jpg",
+  "mpn": "NTW-00619",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 18469
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NatureWise",
+   "url": "https://www.naturewise.com/",
+   "identifier": "NTW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "669.33",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Made with Organic Turmeric Curcumin Plus Organic Ginger Certified Organic by CCOF BioPerine® Dietary Supplement Vegan Gluten Free Soy Free NSF Contents Certified Manufactured in a cGMP Certified Facility Per 3 capsules serving: 2,250 mg of organic turmeric curcumin complex. 500 mg of curcuminoids to support heart health & promote strong joints. NatureWise Turmeric Curcumin uses organic turmeric extract that has been standardized to 95% curcuminoids, the good nutrients found in turmeric, to deliver the benefits of this root. Enhanced with BioPerine® black pepper extract, this turmeric curcumin formula has enhanced bioavailability for better absorption of curcumin. BioPerine®, a patented black pepper extract, has been tested by several clinical studies that produced results supporting its ability to aid nutrient absorption, particularly of curcuminoids. Every serving of this turmeric curcumin supplement delivers 500 mg of curcuminoids to support your joint health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "NTW-00619",
+  "gtin12": "858081006196",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/g/44.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Made with Organic Turmeric Curcumin",
+    "Plus Organic Ginger",
+    "Certified Organic by CCOF",
+    "BioPerine®",
+    "Dietary Supplement",
+    "Vegan",
+    "Gluten Free",
+    "Soy Free",
+    "NSF Contents Certified",
+    "Manufactured in a cGMP Certified Facility"
+   ],
+   "paragraphs": [
+    "Per 3 capsules serving: 2,250 mg of organic turmeric curcumin complex.",
+    "500 mg of curcuminoids to support heart health & promote strong joints.",
+    "NatureWise Turmeric Curcumin uses organic turmeric extract that has been standardized to 95% curcuminoids, the good nutrients found in turmeric, to deliver the benefits of this root. Enhanced with BioPerine® black pepper extract, this turmeric curcumin formula has enhanced bioavailability for better absorption of curcumin. BioPerine®, a patented black pepper extract, has been tested by several clinical studies that produced results supporting its ability to aid nutrient absorption, particularly of curcuminoids. Every serving of this turmeric curcumin supplement delivers 500 mg of curcuminoids to support your joint health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults, should take 3 capsules per day, divided into separate doses and taken with food and water, or as recommended by your healthcare provider.",
+    "NatureWise Turmeric Curcumin should always be taken in conjunction with a healthy diet and regular exercise program."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Pullulan capsule, rice hull, rice flour.",
+    "This product does not contain: Wheat, gluten, dairy, corn, soy, eggs, tree nuts, peanuts, fish, or shellfish.",
+    "Manufactured in the U.S.A of imported and/or domestic ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "As with any dietary supplement, you should consult your healthcare provider before use, especially if you are pregnant, nursing, have a medical condition, are taking medications, or have known adverse reactions or allergies.",
+    "Keep out of the reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTW-00619"
+  },
+  {
+   "label": "UPC",
+   "value": "858081006196"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 5.8 x 5.8 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Vegan Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Organic Curcumin Complex",
+   "2250 mg",
+   "†"
+  ],
+  [
+   "Organic Turmeric Root (Curcuma longa)",
+   "1750 mg",
+   "†"
+  ],
+  [
+   "Organic Turmeric Extract standardized to 95% curcuminoids (Curcuma longa) (root)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "Organic Ginger (Zingiber officinale) (root)",
+   "105 mg",
+   "†"
+  ],
+  [
+   "BioPerine™ Black Pepper Extract (Piper nigrum) (fruit) (standardized to contain 95% piperine)",
+   "15 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 vegan capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP",
+    "NSF"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "78124",
+   "url": "https://th.iherb.com/pr/naturewise-organic-turmeric-curcumin-90-vegan-capsules/78124",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "77858",
+   "url": "https://th.iherb.com/pr/naturewise-organic-turmeric-curcumin-180-vegan-capsules/77858",
+   "price": "฿918.69",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿669.33",
+  "฿669.33",
+  "฿22.31/‏serving",
+  "{0}% off code: {1}",
+  "฿669.33",
+  "Save 0% in cart",
+  "฿22.31/‏serving",
+  "฿669.33",
+  "(0% off)",
+  "฿669.33",
+  "฿22.31/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/g/44.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/k/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/g/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/44.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/60.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/61.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ntw/ntw00619/s/62.jpg"
+ ]
+}

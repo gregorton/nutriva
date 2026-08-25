@@ -1,0 +1,179 @@
+{
+ "pid": "14810",
+ "slug": "now-foods-melatonin-3-mg-60-veg-capsules",
+ "scrapedAt": "2026-08-25T17:26:27.049Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-melatonin-3-mg-60-veg-capsules.jpg",
+  "/products/iherb/now-foods-melatonin-3-mg-60-veg-capsules-2.jpg",
+  "/products/iherb/now-foods-melatonin-3-mg-60-veg-capsules-3.jpg",
+  "/products/iherb/now-foods-melatonin-3-mg-60-veg-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-melatonin-3-mg-60-veg-capsules/14810",
+ "pageTitle": "NOW Foods, Melatonin, 3 mg, 60 Veg Capsules",
+ "h1": "NOW Foods, Melatonin, 3 mg, 60 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "14810",
+  "name": "NOW Foods, Melatonin, 3 mg, 60 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/g/54.jpg",
+  "mpn": "NOW-03255",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 60690
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "160.11",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Healthy Sleep Cycle Free Radical Scavenger Gastrointestinal Support Non-GMO A Dietary Supplement Vegetarian/Vegan General Health Family Owned Since 1968 GMP Quality Assured Melatonin is a potent free radical scavenger naturally produced in the pineal gland and present in high amounts in the gastrointestinal tract. It is involved in many of the body, brain and glandular biological functions including regulation of normal sleep/wake cycles, regulation of the immune system and maintenance of a healthy gastrointestinal lining.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.9x1.9"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-03255",
+  "gtin12": "733739032553",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2008"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-03255"
+  },
+  {
+   "label": "UPC",
+   "value": "733739032553"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 4.8 x 4.8 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Melatonin",
+   "3 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 Veg Capsule Amount Per Serving% Daily ValueMelatonin3 mg**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veg capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Swanson Vitamins, Melatonin, 3 mg, 60 Vegan Capsules",
+  "14,016",
+  "฿85.10"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03255/s/73.jpg"
+ ]
+}

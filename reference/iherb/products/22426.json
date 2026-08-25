@@ -1,0 +1,258 @@
+{
+ "pid": "22426",
+ "slug": "solgar-omega-3-fish-oil-concentrate-120-softgels",
+ "scrapedAt": "2026-08-25T17:17:27.465Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/solgar-omega-3-fish-oil-concentrate-120-softgels.jpg",
+  "/products/iherb/solgar-omega-3-fish-oil-concentrate-120-softgels-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/solgar-omega-3-fish-oil-concentrate-120-softgels/22426",
+ "pageTitle": "Solgar, Omega 3 Fish Oil Concentrate, 120 Softgels",
+ "h1": "Solgar, Omega 3 Fish Oil Concentrate, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "22426",
+  "name": "Solgar, Omega 3 Fish Oil Concentrate, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/g/101.jpg",
+  "mpn": "SOL-01788",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 25264
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Solgar",
+   "url": "http://www.solgar.com/",
+   "identifier": "SOL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.01",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "584.18",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Since 1947 Purified to Remove Mercury Non-GMO Gluten, Wheat & Dairy Free Dietary Supplement This formulation provides a natural, concentrated source of Omega 3 fatty acids EPA and DHA from deep-sea, cold-water fish. EPA and DHA support cardiovascular, joint and metabolic health. The fish oil in this formulation is tested for optimum purity. It undergoes molecular distillation to remove mercury.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.15x3.15"
+  },
+  "isRelatedTo": null,
+  "sku": "SOL-01788",
+  "gtin12": "033984017887",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/g/101.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Since 1947",
+    "Purified to Remove Mercury",
+    "Non-GMO",
+    "Gluten, Wheat & Dairy Free",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "This formulation provides a natural, concentrated source of Omega 3 fatty acids EPA and DHA from deep-sea, cold-water fish. EPA and DHA support cardiovascular, joint and metabolic health. The fish oil in this formulation is tested for optimum purity. It undergoes molecular distillation to remove mercury."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement for adults, take two (2) softgels three times daily, preferably with meals or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, vegetable glycerin, natural mixed tocopherols.",
+    "Contains fish (anchovy, sardine).",
+    "Free of: gluten, wheat, dairy, yeast, sugar, sodium, artificial flavor, sweetener, and color."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, taking any medications, including blood thinners, planning any medical or surgical procedure or have any medical condition, please consult your healthcare practitioner before taking any dietary supplement. Discontinue use and consult your healthcare practitioner if any adverse reactions occur. Keep out of reach of children. Store at room temperature. Do not use if outer bottle seal is missing or damaged."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2010"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.46 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SOL-01788"
+  },
+  {
+   "label": "UPC",
+   "value": "033984017887"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.7 x 8 x 8 cm, 0.46 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%**"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%**"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "0.5 g",
+   "***"
+  ],
+  [
+   "Cholesterol",
+   "20 mg",
+   "7%"
+  ],
+  [
+   "Fish Oil Concentratecomprised of:Total Omega-3 Polyunsaturates†providing:EPA (eicosapentaenoic acid)DHA (docosahexaenoic acid)",
+   "2,000 mg600 mg320 mg200 mg",
+   "************"
+  ],
+  [
+   "** Percent Daily Values (DV) are based on a 2,000 calorie diet***Daily Value (DV) not established†As Triglycerides"
+  ]
+ ],
+ "factsFootnotes": [
+  "***",
+  "***",
+  "***",
+  "** Percent Daily Values (DV) are based on a 2,000 calorie diet",
+  "***Daily Value (DV) not established",
+  "†As Triglycerides"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿584.18",
+  "฿584.18",
+  "฿9.74/‏serving",
+  "{0}% off code: {1}",
+  "฿584.18",
+  "Save 0% in cart",
+  "฿9.74/‏serving",
+  "฿584.18",
+  "(0% off)",
+  "฿584.18",
+  "฿9.74/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/g/101.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/k/101.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/g/101.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/s/101.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01788/s/107.jpg"
+ ]
+}

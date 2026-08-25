@@ -1,0 +1,226 @@
+{
+ "pid": "23517",
+ "slug": "thorne-vitamin-d-k2-1-fl-oz-30-ml",
+ "scrapedAt": "2026-08-25T17:21:44.089Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "7K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/thorne-vitamin-d-k2-1-fl-oz-30-ml.jpg",
+  "/products/iherb/thorne-vitamin-d-k2-1-fl-oz-30-ml-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/thorne-vitamin-d-k2-1-fl-oz-30-ml/23517",
+ "pageTitle": "Thorne, Vitamin D + K2, 1 fl oz (30 ml)",
+ "h1": "Thorne, Vitamin D + K2, 1 fl oz (30 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "23517",
+  "name": "Thorne, Vitamin D + K2, 1 fl oz (30 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/g/107.jpg",
+  "mpn": "THR-50001",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 32336
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Thorne",
+   "url": "http://www.thorne.com/",
+   "identifier": "THR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.17",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1162.03",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Contents Certified NSF® A convenient combination of vitamin D and vitamin K for bone, cardiovascular, and immune support. Vitamin D + K2 Liquid promotes bone health, healthy immune function, and cardiovascular health. The combination of vitamin D3 and K2 provides greater benefits together than either does individually.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.3x1.3"
+  },
+  "isRelatedTo": null,
+  "sku": "THR-50001",
+  "gtin12": "693749500018",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/g/107.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Contents Certified NSF®"
+   ],
+   "paragraphs": [
+    "A convenient combination of vitamin D and vitamin K for bone, cardiovascular, and immune support.",
+    "Vitamin D + K2 Liquid promotes bone health, healthy immune function, and cardiovascular health. The combination of vitamin D3 and K2 provides greater benefits together than either does individually."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 drops one to three times daily or as recommended by your health-care practitioner. Invert bottle to dispense individual drops. May be added to food or mixed in beverages. Do not refrigerate."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Medium chain triglyceride oil, mixed tocopherols.",
+    "Manufactured in the USA using US & imported ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Tamper Evident: Use only if bottle is sealed. Store tightly sealed in a cool, dry place.",
+    "If pregnant, consult your health-care practitioner before using this product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2010"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "THR-50001"
+  },
+  {
+   "label": "UPC",
+   "value": "693749500018"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.7 x 3.3 x 3.3 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: Two Drops"
+  ],
+  [
+   "Servings Per Container: 600"
+  ],
+  [
+   "",
+   "Two Drops Contain:",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (as Vitamin D3) (1,000 IU)",
+   "25 mcg",
+   "125%"
+  ],
+  [
+   "Vitamin K (as Vitamin K2 (Menatetrenone))†",
+   "200 mcg",
+   "167%"
+  ],
+  [
+   "Daily Value (DV)†MK4"
+  ]
+ ],
+ "factsFootnotes": [
+  "Two Drops Contain:\t%Daily Value",
+  "Daily Value (DV)",
+  "†MK4"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 drops"
+    },
+    {
+     "label": "Total servings",
+     "value": "600"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "7,500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,162.03",
+  "฿1,162.03",
+  "฿1.94/‏serving",
+  "{0}% off code: {1}",
+  "฿1,162.03",
+  "Save 0% in cart",
+  "฿1.94/‏serving",
+  "฿1,162.03",
+  "(0% off)",
+  "฿1,162.03",
+  "฿1.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/g/107.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/k/107.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/g/107.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/s/107.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/thr/thr50001/s/112.jpg"
+ ]
+}

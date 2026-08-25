@@ -1,0 +1,10 @@
+
+1.update supplement and product info with downloaded real info. (DONE)
+2.move pairs well with section above product info in product pages. (DONE)
+3. add product images and videos (DONE)
+4. change review star colors to yellow and make stars a tad bit bigger. (DONE)
+5. remove cost per serving info from all products and product pages, and remove like made up lab tested labels in all product pages. Example (Lot NOWF-180 · test results published). (DONE)
+6. in homepage, replace review bars with actual product stars and highlight amount sold numbers in #659fd9. (DONE)
+7. targeted towards Gen z/teenagers page section.(REQUIRES SOME PLANNING) (DEFERRED — not started)
+8. make letters on the add to cart button white instead of black on product pages.' (DONE)
+9. redesign add to cart style to match this design ("C:\Users\sixth\Desktop\add to cart new design.txt") (DONE)

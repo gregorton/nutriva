@@ -1,0 +1,240 @@
+{
+ "pid": "137292",
+ "slug": "nature-s-truth-sleep-melatonin-plus-ashwagandha-60-quick-release-capsu",
+ "scrapedAt": "2026-08-25T17:26:55.938Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nature-s-truth-sleep-melatonin-plus-ashwagandha-60-quick-release-capsu.jpg",
+  "/products/iherb/nature-s-truth-sleep-melatonin-plus-ashwagandha-60-quick-release-capsu-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nature-s-truth-sleep-melatonin-plus-ashwagandha-60-quick-release-capsules/137292",
+ "pageTitle": "Nature's Truth, Sleep Melatonin Plus Ashwagandha, 60 Quick Release Capsules",
+ "h1": "Nature's Truth, Sleep Melatonin Plus Ashwagandha, 60 Quick Release Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "137292",
+  "name": "Nature's Truth, Sleep Melatonin Plus Ashwagandha, 60 Quick Release Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/g/24.jpg",
+  "mpn": "NTH-12349",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 100
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nature's Truth",
+   "url": "http://www.naturestruthproducts.com/",
+   "identifier": "NTH"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "452.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Non-GMO Gluten Free Dietary Supplement Wind Down for a Good Night's Rest 100% Quality Our Non-GMO Pledge What Is Melatonin? Melatonin is naturally produced by the body and works in harmony with your natural sleep cycle. The body’s ability to produce this naturally occurring hormone may begin to decline with age, so you can gain extra support with a trusted Melatonin supplement. Nature’s Truth Melatonin plus Ashwagandha Capsules Melatonin and Ashwagandha pair together in this formula to create a beautiful bedtime blend. Each serving of these quick release capsules delivers 10 mg of Melatonin, along with 750 mg equivalent of Ashwagandha. Ashwagandha is a traditional herb that is derived from the roots of the Withania somnifera plant and is known for its naturally occurring antioxidant properties. ​Nature’s Truth: Where Wellness Begins Our mission at Nature’s Truth is to meet your wellness needs with products that go above and beyond. Nature’s Truth provides supplements in various delivery forms, such as capsules, softgels, chewables, tablets, powders, liquids, and gummies to suit every preference.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "NTH-12349",
+  "gtin12": "840093123497",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Melatonin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Non-GMO",
+    "Gluten Free",
+    "Dietary Supplement",
+    "Wind Down for a Good Night's Rest",
+    "100% Quality",
+    "Our Non-GMO Pledge"
+   ],
+   "paragraphs": [
+    "What Is Melatonin?",
+    "Melatonin is naturally produced by the body and works in harmony with your natural sleep cycle. The body’s ability to produce this naturally occurring hormone may begin to decline with age, so you can gain extra support with a trusted Melatonin supplement.",
+    "Nature’s Truth Melatonin plus Ashwagandha Capsules",
+    "Melatonin and Ashwagandha pair together in this formula to create a beautiful bedtime blend. Each serving of these quick release capsules delivers 10 mg of Melatonin, along with 750 mg equivalent of Ashwagandha. Ashwagandha is a traditional herb that is derived from the roots of the Withania somnifera plant and is known for its naturally occurring antioxidant properties.",
+    "​Nature’s Truth: Where Wellness Begins",
+    "Our mission at Nature’s Truth is to meet your wellness needs with products that go above and beyond. Nature’s Truth provides supplements in various delivery forms, such as capsules, softgels, chewables, tablets, powders, liquids, and gummies to suit every preference."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults, take two (2) quick release capsules 30 minutes before bedtime as Melatonin may cause drowsiness. This product is intended for short term, occasional use only. Do not exceed recommended dosage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice powder, gelatin capsule, vegetable magnesium stearate, silica.",
+    "Free of gluten, wheat, yeast, milk, lactose, soy, artificial color, artificial flavor, artificial sweetener, preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not intended for use by pregnant or nursing women or persons under the age of 18. If you are taking any medications or have any medical condition, consult your doctor before use. If any adverse reactions occur, immediately stop using this product and consult your doctor. Consumption above recommended dosage may impair ability to drive a motor vehicle or operate heavy equipment. If seal under cap is damaged or missing, do not use. Keep out of reach of children. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NTH-12349"
+  },
+  {
+   "label": "UPC",
+   "value": "840093123497"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 5 x 5 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Quick Release Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Melatonin",
+   "10 mg",
+   "*"
+  ],
+  [
+   "Ashwagandha(Withania somnifera) (root)(from 50 mg of 15:1 extract)(Standardized to contain 2.5 mg Withanolides)",
+   "750 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*",
+  "*",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 5 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿452.12",
+  "฿452.12",
+  "฿15.07/‏serving",
+  "{0}% off code: {1}",
+  "฿452.12",
+  "Save 0% in cart",
+  "฿15.07/‏serving",
+  "฿452.12",
+  "(0% off)",
+  "฿452.12",
+  "฿15.07/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nth/nth12349/s/27.jpg"
+ ]
+}

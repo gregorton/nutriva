@@ -1,0 +1,297 @@
+{
+ "pid": "143069",
+ "slug": "universal-u-de-stress-sleep-30-pill-packs",
+ "scrapedAt": "2026-08-25T17:38:35.325Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/universal-u-de-stress-sleep-30-pill-packs.jpg",
+  "/products/iherb/universal-u-de-stress-sleep-30-pill-packs-2.jpg",
+  "/products/iherb/universal-u-de-stress-sleep-30-pill-packs-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/universal-u-de-stress-sleep-30-pill-packs/143069",
+ "pageTitle": "Universal U, De-Stress & Sleep, 30 Pill Packs",
+ "h1": "Universal U, De-Stress & Sleep, 30 Pill Packs",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143069",
+  "name": "Universal U, De-Stress & Sleep, 30 Pill Packs",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/g/28.jpg",
+  "mpn": "UNN-00191",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 13
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Universal U",
+   "url": "https://universalu.com/",
+   "identifier": "UNN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.38",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "928.63",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1422.67",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Preportioned Deep Sleep Support 10-in-1 Formula Supports Calm & Deep Sleep Promotes REM & Sleep Onset Dietary Supplement Third Party Lab Testes Good Manufacturing Practice ​Universal Is Made For U Expertly curated Solutions to remove guesswork from choosing what you need. Science-proven ingredients and synergistic formulas to promote optimal health and performance Adaptive nutrition that adjusts to you and your body's unique needs What's Inside De-stress & sleep 1. Calm & Stress Ashwagandha and L-Theanine to support calm, stress response, and sleep quality. 2. Foundational Sleep Magnesium, Zinc, and Vitamin B6 to promote the healthy production of hormones and neurotransmitters that aid sleep. 3. Deep Sleep I Valerian Root and Zylaria™ to promote better, deeper, more efficient sleep 4. Deep Sleep II Melatonin to promote REM sleep time and sleep quality, with Vitamin C to support leg relaxation and restfulness.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.1x3.65"
+  },
+  "isRelatedTo": null,
+  "sku": "UNN-00191",
+  "gtin12": "039442001917",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Preportioned Deep Sleep Support",
+    "10-in-1 Formula",
+    "Supports Calm & Deep Sleep",
+    "Promotes REM & Sleep Onset",
+    "Dietary Supplement",
+    "Third Party Lab Testes",
+    "Good Manufacturing Practice"
+   ],
+   "paragraphs": [
+    "​Universal Is Made For U",
+    "Expertly curated",
+    "Solutions to remove guesswork from choosing what you need.",
+    "Science-proven ingredients",
+    "and synergistic formulas to promote optimal health and performance",
+    "Adaptive nutrition",
+    "that adjusts to you and your body's unique needs",
+    "What's Inside",
+    "De-stress & sleep",
+    "1. Calm & Stress",
+    "Ashwagandha and L-Theanine to support calm, stress response, and sleep quality.",
+    "2. Foundational Sleep",
+    "Magnesium, Zinc, and Vitamin B6 to promote the healthy production of hormones and neurotransmitters that aid sleep.",
+    "3. Deep Sleep I",
+    "Valerian Root and Zylaria™ to promote better, deeper, more efficient sleep",
+    "4. Deep Sleep II",
+    "Melatonin to promote REM sleep time and sleep quality, with Vitamin C to support leg relaxation and restfulness."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As dietary supplement, take one pack daily with water, close to betime."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsules), microcrystalline cellulose, dicalcium phosphate, magnesium stearate, maltodextrin, turmeric root powder (for color).",
+    "Made in a cGMP and HACCP certified facility on equipment that processes milk, soy, egg, peanuts, tree nuts, fish, shellfish, wheat, and sesame.",
+    "Made in the United States with domestic & imported ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For occasional difficulty sleeping. Do not exceed recommended dose. Consult a healthcare professional before use in children, if you are pregnant or nursing, have a medical condition, are taking any medication, or if you are experiencing long-term sleep difficulties. This product may cause drowsiness. Do not drive or operate machinery when taking melatonin. Not for use by those under the age of 18. Keep out of reach of children. Do not take on empty stomach. Not to be used as a substitute for a varied diet and healthy lifestyle.",
+    "California Residents: Reproductive harm. Prop 65.",
+    "Store product in a cool, dry place, away from heat, moisture and sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.37 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "UNN-00191"
+  },
+  {
+   "label": "UPC",
+   "value": "039442001917"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.7 x 13 x 9.3 cm, 0.17 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Pack"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "200 mg",
+   "222%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine hydrochloride)",
+   "1.3 mg",
+   "76%"
+  ],
+  [
+   "Magnesium (as magnesium oxide)",
+   "300 mg",
+   "70%"
+  ],
+  [
+   "Zinc (as zinc oxide)",
+   "15mg",
+   "136%"
+  ],
+  [
+   "Calm & StressAshwagandha Extract (leaf and/or root)",
+   "300 mg",
+   "**"
+  ],
+  [
+   "L-Theanine",
+   "200 mg",
+   "**"
+  ],
+  [
+   "Deep Sleep IValerian Root Powder",
+   "150 mg",
+   "**"
+  ],
+  [
+   "Zylaria™MXylaria nigripes (mycelium)Cuscuta chinensis extract (seed)Panax notoginseng extract (root)",
+   "500 mg",
+   "**"
+  ],
+  [
+   "Deep Sleep IIMelatonin",
+   "3 mg",
+   "**"
+  ],
+  [
+   "** Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "** Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 pack"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 9 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,422.67",
+  "฿1,422.67",
+  "฿47.42/‏serving",
+  "{0}% off code: {1}",
+  "฿1,422.67",
+  "Save 35% in cart",
+  "฿47.42/‏serving",
+  "฿928.63",
+  "(35% off)",
+  "฿1,422.67",
+  "฿30.95/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn00191/s/30.jpg"
+ ]
+}

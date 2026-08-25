@@ -1,0 +1,269 @@
+{
+ "pid": "15658",
+ "slug": "doctor-s-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-c",
+ "scrapedAt": "2026-08-25T17:36:13.811Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-c.jpg",
+  "/products/iherb/doctor-s-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-c-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-caps/15658",
+ "pageTitle": "Doctor's Best, High Absorption CoQ10 with BioPerine®, 100 mg, 120 Veggie Caps",
+ "h1": "Doctor's Best, High Absorption CoQ10 with BioPerine®, 100 mg, 120 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "15658",
+  "name": "Doctor's Best, High Absorption CoQ10 with BioPerine®, 100 mg, 120 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/g/156.jpg",
+  "mpn": "DRB-00188",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 41368
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "710.01",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Heart & Energy Support Dietary Supplement Naturally fermented CoQ10 Non-GMO Gluten Free Soy Free Vegan At Doctor's Best, we are all about tackling stress, free radicals, statin medications ▵ , and aging, which can zap CoQ10 levels and affect stamina. Our specialized formula is geared towards boosting energy production, supporting muscle function, and enhancing overall vitality. Helps restore CoQ10 that may be depleted by aging and statin drugs ▵ . Formulated with BioPerine® black pepper extract to enhance absorption and bioavailability. ▵ CoQ10 is not intended to serve as a replacement for statin therapy, nor should you discontinue taking any prescribed medications while supplementing with CoQ10.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00188",
+  "gtin12": "753950001886",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/g/156.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Coenzyme Q10 (Ubiquinone)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Heart & Energy Support",
+    "Dietary Supplement",
+    "Naturally fermented CoQ10",
+    "Non-GMO",
+    "Gluten Free",
+    "Soy Free",
+    "Vegan",
+    "Helps restore CoQ10 that may be depleted by aging and statin drugs▵.",
+    "Formulated with BioPerine® black pepper extract to enhance absorption and bioavailability."
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we are all about tackling stress, free radicals, statin medications▵, and aging, which can zap CoQ10 levels and affect stamina. Our specialized formula is geared towards boosting energy production, supporting muscle function, and enhancing overall vitality.",
+    "▵CoQ10 is not intended to serve as a replacement for statin therapy, nor should you discontinue taking any prescribed medications while supplementing with CoQ10."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adult Use: Take 1 capsule daily, preferably with food for maximum absorption, or as recommended by a nutritionally informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice powder, hypromellose (vegetarian capsule), magnesium stearate (vegetable source), silicon dioxide.",
+    "USP verified, naturally fermented CoQ10."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2013"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00188"
+  },
+  {
+   "label": "UPC",
+   "value": "753950001886"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.7 x 6.4 x 6.4 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veggie Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Coenzyme Q10 (Ubiquinone)",
+   "100 mg",
+   "†"
+  ],
+  [
+   "Black Pepper Ext. (Piper nigrum) (fruit) (standardized to contain 95% Piperine) (BioPerine®)",
+   "5 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veggie capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "20",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-100-mg-60-veggie-caps/20",
+   "price": "฿437.69",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "15658",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-with-bioperine-100-mg-120-veggie-caps/15658",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "54865",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-200-mg-180-veggie-caps/54865",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "360 count",
+   "pid": "66422",
+   "url": "https://th.iherb.com/pr/doctor-s-best-high-absorption-coq10-100-mg-360-veggie-caps/66422",
+   "price": "฿1,783.03",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿710.01",
+  "฿710.01",
+  "฿5.92/‏serving",
+  "{0}% off code: {1}",
+  "฿710.01",
+  "Save 0% in cart",
+  "฿5.92/‏serving",
+  "฿710.01",
+  "(0% off)",
+  "฿710.01",
+  "฿5.92/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/g/156.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/k/156.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/g/156.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/s/156.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00188/s/161.jpg"
+ ]
+}

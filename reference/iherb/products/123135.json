@@ -1,0 +1,235 @@
+{
+ "pid": "123135",
+ "slug": "dr-mercola-complete-probiotics-100-billion-cfu-30-capsules",
+ "scrapedAt": "2026-08-25T17:00:46.509Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/dr-mercola-complete-probiotics-100-billion-cfu-30-capsules.jpg",
+  "/products/iherb/dr-mercola-complete-probiotics-100-billion-cfu-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dr-mercola-complete-probiotics-100-billion-cfu-30-capsules/123135",
+ "pageTitle": "Dr. Mercola, Complete Probiotics, 100 Billion CFU, 30 Capsules",
+ "h1": "Dr. Mercola, Complete Probiotics, 100 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "123135",
+  "name": "Dr. Mercola, Complete Probiotics, 100 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/g/8.jpg",
+  "mpn": "MCL-01715",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 101
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dr. Mercola",
+   "url": "https://www.mercolamarket.com/",
+   "identifier": "MCL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "2174.00",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Providing Quality Products Since 2001 Elevate your gut health with Complete Probiotics 100 Billion CFU, designed for those who seek enhanced digestive and immune support. This potent formula features 10 clinically studied strains, including L. acidophilus DDS®-1, known for its lasting benefits. Housed in patented, delayed-release capsules for maximum absorption and paired with FOS prebiotics, it supports a balanced microbiome without the need for refrigeration. Opt for the 100 Billion CFU formula when higher potency and comprehensive gut wellness is your goal.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "MCL-01715",
+  "gtin12": "813006017152",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MCL-01715"
+  },
+  {
+   "label": "UPC",
+   "value": "813006017152"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 5 x 5 cm, 0.14 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Dr. Mercola's Probiotic Blend",
+   "505 mg",
+   "*"
+  ],
+  [
+   "Lactobacillus acidophilus, DDS-1®",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium lactis, UABla-12®",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus plantarum, UALp-05™",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus casei, UALc-03™",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus, DSM 33560",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus brevis, UALbr-02™",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium longum, UABI-14™",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus salivarius, UALs-07™",
+   "",
+   ""
+  ],
+  [
+   "Streptococcus thermophilus, UASt-09™",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium bifidum, UABb-10™",
+   "",
+   ""
+  ],
+  [
+   "*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 CapsuleServings Per Container: 30 Amount Per Serving%Daily Value Dr. Mercola's Probiotic Blend505 mg* Lactobacillus acidophilus, DDS-1®    Bifidobacterium lactis, UABla-12®    Lactobacillus plantarum, UALp-05™    Lactobacillus casei, UALc-03™    Lactobacillus rhamnosus, DSM 33560   Lactobacillus brevis, UALbr-02™    Bifidobacterium longum, UABI-14™   Lactobacillus salivarius, UALs-07™   Streptococcus thermophilus, UASt-09™    Bifidobacterium bifidum, UABb-10™  *Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "123135",
+   "url": "https://th.iherb.com/pr/dr-mercola-complete-probiotics-100-billion-cfu-30-capsules/123135",
+   "price": "฿2,174.00",
+   "outOfStock": true,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "44294",
+   "url": "https://th.iherb.com/pr/dr-mercola-complete-probiotics-70-billion-cfu-90-capsules/44294",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Nature's Way, Primadophilus® Reuteri Probiotic, 5 Billion CFU, 30 Capsules",
+  "4,801",
+  "฿447.53"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mcl/mcl01715/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco,c_fit,w_200,h_200/images/mcl/mcl01715/l/8.jpg"
+ ]
+}

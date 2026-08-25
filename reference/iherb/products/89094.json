@@ -1,0 +1,337 @@
+{
+ "pid": "89094",
+ "slug": "california-gold-nutrition-foods-variety-pack-snack-bars-12-bars-1-4-oz",
+ "scrapedAt": "2026-08-25T17:45:18.412Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "2K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-foods-variety-pack-snack-bars-12-bars-1-4-oz.jpg",
+  "/products/iherb/california-gold-nutrition-foods-variety-pack-snack-bars-12-bars-1-4-oz-2.jpg",
+  "/products/iherb/california-gold-nutrition-foods-variety-pack-snack-bars-12-bars-1-4-oz-3.jpg",
+  "/products/iherb/california-gold-nutrition-foods-variety-pack-snack-bars-12-bars-1-4-oz-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-foods-variety-pack-snack-bars-12-bars-1-4-oz-40-g-each/89094",
+ "pageTitle": "California Gold Nutrition, Foods, Variety Pack Snack Bars, 12 Bars, 1.4 oz (40 g) Each",
+ "h1": "California Gold Nutrition, Foods, Variety Pack Snack Bars, 12 Bars, 1.4 oz (40 g) Each",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "89094",
+  "name": "California Gold Nutrition, Foods, Variety Pack Snack Bars, 12 Bars, 1.4 oz (40 g) Each",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/g/90.jpg",
+  "mpn": "CGN-01325",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 61702
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.29",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "483.07",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "731.80",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition Snack Bar Variety Pack Includes 6 Flavors: Wild Blueberry & Almond , Cranberry & Almond , Coconut Almond , Mocha Nut , Peanut & Dark Chocolate Chunk , Dark Chocolate, Nuts, & Sea Salt Made with Simple Ingredients: Roasted Almonds, Ancient Grains, Peanuts, Walnuts, Goji Berries, and Honey A Good Source of Plant Based Protein and Dietary Fiber Suitable for Vegetarians No Artificial Colors, Flavors, Sweeteners, or Preservatives Formulated without GMOs Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Finding satisfying healthy snacks is no easy task. The snacks that taste good are often packed with artificial ingredients and sugar, leaving you feeling defeated. Our snack bars offer the perfect balance between healthy and tasty, making them the gold standard for snacking. The next time you’re craving a bite, be sure to reach for one of these delicious bars. California Gold Nutrition Snack Bar Variety Pack contains a sample of our snack bar varieties. All 6 varieties are made with simple ingredients, like roasted almonds, ancient grains, goji berries, and peanuts to create a nutritious and satisfying treat with plenty of fiber and protein. Each bar is individually wrapped, making them perfect for on-the-go snacking anytime, anywhere.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "6.2x3.1"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01325",
+  "gtin12": "898220013258",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/g/90.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Bars",
+  "Snack Bars"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition Snack Bar Variety Pack",
+    "Includes 6 Flavors: Wild Blueberry & Almond, Cranberry & Almond, Coconut Almond, Mocha Nut, Peanut & Dark Chocolate Chunk, Dark Chocolate, Nuts, & Sea Salt",
+    "Made with Simple Ingredients: Roasted Almonds, Ancient Grains, Peanuts, Walnuts, Goji Berries, and Honey",
+    "A Good Source of Plant Based Protein and Dietary Fiber",
+    "Suitable for Vegetarians",
+    "No Artificial Colors, Flavors, Sweeteners, or Preservatives",
+    "Formulated without GMOs",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Finding satisfying healthy snacks is no easy task. The snacks that taste good are often packed with artificial ingredients and sugar, leaving you feeling defeated. Our snack bars offer the perfect balance between healthy and tasty, making them the gold standard for snacking. The next time you’re craving a bite, be sure to reach for one of these delicious bars.",
+    "California Gold Nutrition Snack Bar Variety Pack contains a sample of our snack bar varieties. All 6 varieties are made with simple ingredients, like roasted almonds, ancient grains, goji berries, and peanuts to create a nutritious and satisfying treat with plenty of fiber and protein. Each bar is individually wrapped, making them perfect for on-the-go snacking anytime, anywhere."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Sealed for your protection. Do not consume if wrapper is punctured or seal is open or damaged. Store at room temperature, in a dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.59 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01325"
+  },
+  {
+   "label": "UPC",
+   "value": "898220013258"
+  },
+  {
+   "label": "Package quantity",
+   "value": "12 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "18 x 15.7 x 7.9 cm, 0.59 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Wild Blueberry & Almond Chewy Granola Bar"
+  ],
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Bar (40 g)"
+  ],
+  [
+   "Servings Per Container: 2"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "190",
+   ""
+  ],
+  [
+   "Total Fat",
+   "13 g",
+   "17%"
+  ],
+  [
+   "Saturated Fat",
+   "1.5 g",
+   "8%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "140 mg",
+   "6%"
+  ],
+  [
+   "Total Carbohydrate",
+   "16 g",
+   "6%"
+  ],
+  [
+   "Dietary Fiber",
+   "6 g",
+   "21%"
+  ],
+  [
+   "Total Sugars",
+   "7 g",
+   ""
+  ],
+  [
+   "Includes 2 g of Added Sugars",
+   "",
+   "4%"
+  ],
+  [
+   "Protein",
+   "6 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "30 mg",
+   "2%"
+  ],
+  [
+   "Iron",
+   "1 mg",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "160 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 bar"
+    },
+    {
+     "label": "Total servings",
+     "value": "12"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "No artificial colors",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Snack Bars",
+   "href": "/c/snack-bars?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Bars",
+   "href": "/c/bars?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Plant Based Protein Bars",
+   "href": "/c/plant-based-protein-bars?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿731.80",
+  "฿731.80",
+  "฿60.98/‏serving",
+  "{0}% off code: {1}",
+  "฿731.80",
+  "Save 34% in cart",
+  "฿60.98/‏serving",
+  "฿483.07",
+  "(34% off)",
+  "Clearance sale",
+  "When products near the end of their shelf life with us, we can offer them to you at the steepest discount. Same quality, now at the lowest price.Discount reflects the \"Best by” date. This product is non-returnable.",
+  "฿731.80"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/g/90.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/k/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/g/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/90.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/64.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/s/105.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01325/b/90.jpg"
+ ]
+}

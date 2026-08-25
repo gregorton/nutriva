@@ -1,0 +1,250 @@
+{
+ "pid": "140375",
+ "slug": "california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:09:02.311Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "5K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules/140375",
+ "pageTitle": "California Gold Nutrition, Vitamin D3 + K2, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, Vitamin D3 + K2, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "140375",
+  "name": "California Gold Nutrition, Vitamin D3 + K2, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/g/55.jpg",
+  "mpn": "LKN-02512",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 6674
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.08",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "186.20",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Vitamin D3 + K2 Veggie Capsules Featuring a Blend of Vitamin D3 and K2 Suitable for Vegetarians Formulated Without: Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility California Gold Nutrition® Vitamin D3 + K2 combines Vitamin D3 and Vitamin K2 (as Menaquinone-4), essential nutrients needed for a healthy lifestyle, into an easy and convenient veggie capsule. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.8x1.75"
+  },
+  "isRelatedTo": null,
+  "sku": "LKN-02512",
+  "gtin12": "898220025121",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/g/55.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Vitamin D3 + K2 Veggie Capsules",
+    "Featuring a Blend of Vitamin D3 and K2",
+    "Suitable for Vegetarians",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Vitamin D3 + K2 combines Vitamin D3 and Vitamin K2 (as Menaquinone-4), essential nutrients needed for a healthy lifestyle, into an easy and convenient veggie capsule.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.04 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LKN-02512"
+  },
+  {
+   "label": "UPC",
+   "value": "898220025121"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.4 x 4.6 x 4.4 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (as D3, Cholecalciferol)",
+   "25 mcg (1,000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin K2 (as Menaquinone-4)",
+   "40 mcg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "140375",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-60-veggie-capsules/140375",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "140376",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-240-veggie-capsules/140376",
+   "price": "฿447.04",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "5,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿186.20",
+  "฿186.20",
+  "฿3.10/‏serving",
+  "{0}% off code: {1}",
+  "฿186.20",
+  "Save 0% in cart",
+  "฿3.10/‏serving",
+  "฿186.20",
+  "(0% off)",
+  "฿186.20",
+  "฿3.10/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/g/55.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/k/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/g/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/s/56.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn02512/s/57.jpg"
+ ]
+}

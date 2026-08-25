@@ -1,0 +1,233 @@
+{
+ "pid": "128921",
+ "slug": "nutricost-vitamin-k2-vitamin-d3-120-softgels",
+ "scrapedAt": "2026-08-25T17:17:16.645Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nutricost-vitamin-k2-vitamin-d3-120-softgels.jpg",
+  "/products/iherb/nutricost-vitamin-k2-vitamin-d3-120-softgels-2.jpg",
+  "/products/iherb/nutricost-vitamin-k2-vitamin-d3-120-softgels-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nutricost-vitamin-k2-vitamin-d3-120-softgels/128921",
+ "pageTitle": "Nutricost, Vitamin K2 + Vitamin D3, 120 Softgels",
+ "h1": "Nutricost, Vitamin K2 + Vitamin D3, 120 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "128921",
+  "name": "Nutricost, Vitamin K2 + Vitamin D3, 120 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/g/25.jpg",
+  "mpn": "NCS-00866",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 5155
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nutricost",
+   "url": "https://nutricost.com/",
+   "identifier": "NCS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "492.15",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100 mcg Vitamin K2 Per Serving 125 mcg Vitamin D3 Per Serving Dietary Supplement Nutricost® Quality Guaranteed Third Party Tested GMP Compliant Facility Non-GMO Product We believe supplements should be simple, transparent, and accessible. That’s why Nutricost focuses on quality ingredients, clear labeling, and prices that make sense — without unnecessary fillers or inflated costs.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "NCS-00866",
+  "gtin12": "857077008664",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/g/25.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100 mcg Vitamin K2 Per Serving",
+    "125 mcg Vitamin D3 Per Serving",
+    "Dietary Supplement",
+    "Nutricost® Quality Guaranteed",
+    "Third Party Tested",
+    "GMP Compliant Facility",
+    "Non-GMO Product"
+   ],
+   "paragraphs": [
+    "We believe supplements should be simple, transparent, and accessible. That’s why Nutricost focuses on quality ingredients, clear labeling, and prices that make sense — without unnecessary fillers or inflated costs."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 1 softgel daily with 8-12 oz of water or as directed by your healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sunflower oil, softgel (gelatin, glycerin, purified water, caramel color).",
+    "Packaged and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For healthy individuals 18 years and older. Consult a healthcare professional prior to use if you are pregnant or nursing, taking medication, or have a medical condition. Keep out of reach of children. Do not use if safety seal is broken or missing.",
+    "​Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NCS-00866"
+  },
+  {
+   "label": "UPC",
+   "value": "857077008664"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)",
+   "100 mcg",
+   "*"
+  ],
+  [
+   "*Daily Values (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Daily Values (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿492.15",
+  "฿492.15",
+  "฿4.10/‏serving",
+  "{0}% off code: {1}",
+  "฿492.15",
+  "Save 0% in cart",
+  "฿4.10/‏serving",
+  "฿492.15",
+  "(0% off)",
+  "฿492.15",
+  "฿4.10/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/g/25.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/k/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/g/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ncs/ncs00866/s/16.jpg"
+ ]
+}

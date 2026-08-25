@@ -1,0 +1,194 @@
+{
+ "pid": "103331",
+ "slug": "megafood-daily-immune-support-60-tablets",
+ "scrapedAt": "2026-08-25T17:09:20.901Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/megafood-daily-immune-support-60-tablets.jpg",
+  "/products/iherb/megafood-daily-immune-support-60-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/megafood-daily-immune-support-60-tablets/103331",
+ "pageTitle": "MegaFood, Daily Immune Support , 60 Tablets",
+ "h1": "MegaFood, Daily Immune Support , 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103331",
+  "name": "MegaFood, Daily Immune Support , 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/g/24.jpg",
+  "mpn": "MGF-10443",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 129
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MegaFood",
+   "url": "http://www.megafood.com/",
+   "identifier": "MGF"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "864.06",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "From Farm to Tablet* With Vitamins C & D3, Zinc & Astragalus Root Dietary Supplement Non GMO Project Verified Tested For 125+ Pesticides and Herbicides Made Without 9 Food Allergens Residue Free Glyphosate Gluten Free Vegetarian Certified B Corporation® Kosher MegaFood Daily Immune Support supports a healthy immune system. We combine immune-supportive vitamins C and D3, plus zinc and astragalus, an herb traditionally used to aid in immune support. We believe the most nutritious food comes from healthy soil. Our goal is to partner with farmers who share our commitment to regenerative agriculture, working to nourish the soil for quality ingredients that make for premium supplements.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.35x2.35"
+  },
+  "isRelatedTo": null,
+  "sku": "MGF-10443",
+  "gtin12": "051494104439",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MGF-10443"
+  },
+  {
+   "label": "UPC",
+   "value": "051494104439"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 6 x 6 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "Serving Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Vitamin C(as ascorbic acid)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Vitamin D3 (as fermented cholecalciferol)",
+   "15 mcg",
+   "75%"
+  ],
+  [
+   "Zinc (as fermented zinc bisglycinate)",
+   "6 mg",
+   "55%"
+  ],
+  [
+   "Organic Astragalus Root",
+   "500 mg",
+   "**"
+  ],
+  [
+   "*Food BlendOrganic orange, organic brown rice",
+   "134 mg",
+   "**"
+  ],
+  [
+   "**% Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 1 TabletServing Per Container: 60 Amount Per Serving%DVVitamin C(as ascorbic acid)90 mg100%Vitamin D3 (as fermented cholecalciferol)15 mcg75%Zinc (as fermented zinc bisglycinate)6 mg55%Organic Astragalus Root500 mg***Food BlendOrganic orange, organic brown rice134 mg****% Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "Non-gmo",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "AirBorne, Immune Support, Citrus, 64 Chewable Tablets",
+  "402",
+  "฿645.05"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mgf/mgf10443/s/29.jpg"
+ ]
+}

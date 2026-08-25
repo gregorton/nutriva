@@ -1,0 +1,274 @@
+{
+ "pid": "3954",
+ "slug": "kyolic-kyo-dophilus-multi-9-probiotic-6-billion-cfu-90-capsules",
+ "scrapedAt": "2026-08-25T17:31:50.417Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/kyolic-kyo-dophilus-multi-9-probiotic-6-billion-cfu-90-capsules.jpg",
+  "/products/iherb/kyolic-kyo-dophilus-multi-9-probiotic-6-billion-cfu-90-capsules-2.jpg",
+  "/products/iherb/kyolic-kyo-dophilus-multi-9-probiotic-6-billion-cfu-90-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/kyolic-kyo-dophilus-multi-9-probiotic-6-billion-cfu-90-capsules/3954",
+ "pageTitle": "Kyolic, Kyo-Dophilus®, Multi 9 Probiotic, 6 Billion CFU, 90 Capsules",
+ "h1": "Kyolic, Kyo-Dophilus®, Multi 9 Probiotic, 6 Billion CFU, 90 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "3954",
+  "name": "Kyolic, Kyo-Dophilus®, Multi 9 Probiotic, 6 Billion CFU, 90 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/g/57.jpg",
+  "mpn": "WAK-61049",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1192
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Kyolic",
+   "url": "https://kyolic.com/",
+   "identifier": "WAK"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "936.66",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Probiotics for You™ Strong Gut Health Balance and Support DNA Sequencing Verified†† 6 Billion CFC Guaranteed Live at Expiry Non GMO Gluten Free Diary Free 9 Strain Probiotic Supplement With The Friendly Trio® Clinically Studied Strains You Can Count on Kyo-Dophilus Probiotics GMP Certified A Probiotic You Can Count On Kyo-Dophilus® Probiotics are formulated to support healthy digestive and immune systems. Our probiotics deliver efficacy, quality and extended live cell viability without refrigeration. The Friendly Trio® is the core of our formulations. The Friendly Trio is a clinically studied proprietary blend of human strain Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2. L.gasseri has been shown to support your body's GI function and immune health B.bifidum may regulate healthy gut flora and enhance immunity by reducing inflammation B.longum is known to normalize bowel movements Finding the right probiotic means considering more than CFU††† counts. Choose a probiotic with strains that are diverse, compatible and able to survive stomach acid, to encourage implantation and rapid replication in your gut. We offer a variety of formulas and potencies made with clinically proven strains to help meet your specific health needs. Your gut microbiome is as unique as you are. Kyo-Dophilus® Multi 9 Probiotic contains a diverse community of nine beneficial bacteria that includes The Friendly Trio®, L. gasseri KS-13, B. bifidum G9-1, and B.longum MM-2, along with B.infantis, B.breve and L.rhamnosus and other compatible species. This multi-strain blend can help populate your microbiome with beneficial bacteria to promote strong GI health and help you maintain a balanced digestive and immune system. The Multi 9 Probiotic For You To maintain good colon health. Relieve occasional digestive discomfort. Promote healthy immune function. Take two capsule of Kyo-Dophilus Multi 9 Probiotic with a meal every day to balance your gut microbiome to support a healthy digestion and immune response for your general wellbeing. ††The probiotic strains in this product have been identity-verified using DNA sequencing. †††Colony forming units",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "WAK-61049",
+  "gtin12": "023542610490",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/g/57.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Probiotics for You™",
+    "Strong Gut Health Balance and Support",
+    "DNA Sequencing Verified††",
+    "6 Billion CFC Guaranteed Live at Expiry",
+    "Non GMO",
+    "Gluten Free",
+    "Diary Free",
+    "9 Strain Probiotic Supplement",
+    "With The Friendly Trio® Clinically Studied Strains",
+    "You Can Count on Kyo-Dophilus Probiotics",
+    "GMP Certified",
+    "L.gasseri has been shown to support your body's GI function and immune health",
+    "B.bifidum may regulate healthy gut flora and enhance immunity by reducing inflammation",
+    "B.longum is known to normalize bowel movements",
+    "To maintain good colon health.",
+    "Relieve occasional digestive discomfort.",
+    "Promote healthy immune function."
+   ],
+   "paragraphs": [
+    "A Probiotic You Can Count On",
+    "Kyo-Dophilus® Probiotics are formulated to support healthy digestive and immune systems. Our probiotics deliver efficacy, quality and extended live cell viability without refrigeration. The Friendly Trio® is the core of our formulations.",
+    "The Friendly Trio is a clinically studied proprietary blend of human strain Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2.",
+    "Finding the right probiotic means considering more than CFU††† counts. Choose a probiotic with strains that are diverse, compatible and able to survive stomach acid, to encourage implantation and rapid replication in your gut.",
+    "We offer a variety of formulas and potencies made with clinically proven strains to help meet your specific health needs.",
+    "Your gut microbiome is as unique as you are.",
+    "Kyo-Dophilus® Multi 9 Probiotic contains a diverse community of nine beneficial bacteria that includes The Friendly Trio®, L. gasseri KS-13, B. bifidum G9-1, and B.longum MM-2, along with B.infantis, B.breve and L.rhamnosus and other compatible species. This multi-strain blend can help populate your microbiome with beneficial bacteria to promote strong GI health and help you maintain a balanced digestive and immune system.",
+    "The Multi 9 Probiotic For You",
+    "Take two capsule of Kyo-Dophilus Multi 9 Probiotic with a meal every day to balance your gut microbiome to support a healthy digestion and immune response for your general wellbeing.",
+    "††The probiotic strains in this product have been identity-verified using DNA sequencing.",
+    "†††Colony forming units"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take two capsules with a meal daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Starch (potato, tapioca and corn), gelatin, silicon dioxide, calcium phosphate.",
+    "Free of: GMOs, soy, gluten, dairy, sodium, preservatives, artificial colors and flavors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult your healthcare professional before using this or any product if you are pregnant, nursing or under medical supervision.",
+    "Refrigeration not required. Store in a cool, dry place with cap tight. Keep out of reach of children.",
+    "Safety Sealed: Do not use if cap drop ring or printed inner seal is broken or missing. Glass bottle, handle with care."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "WAK-61049"
+  },
+  {
+   "label": "UPC",
+   "value": "023542610490"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.1 x 5.1 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 capsules"
+  ],
+  [
+   "Serving Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Proprietary BlendLactobacillus gasseri KS-13 Bifidobacterium bifidum G9-1, Bifidobacterium longum MM-2, Bifidobacterium lactis, Bifidobacterium longum BB536, Bifidobacterium breve M-16V, Bifidobacterium infantis M-63, Lactobacillus gasseri LAC-343, Lactobacillus rhamnosus LCS-742",
+   "6 billion live cells†",
+   "**"
+  ],
+  [
+   "†Prior to expiration date**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Prior to expiration date",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "3954",
+   "url": "https://th.iherb.com/pr/kyolic-kyo-dophilus-multi-9-probiotic-6-billion-cfu-90-capsules/3954",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "180 count",
+   "pid": "51892",
+   "url": "https://th.iherb.com/pr/kyolic-kyo-dophilus-multi-9-probiotic-180-capsules/51892",
+   "price": "฿1,717.42",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿936.66",
+  "฿936.66",
+  "฿20.81/‏serving",
+  "{0}% off code: {1}",
+  "฿936.66",
+  "Save 0% in cart",
+  "฿20.81/‏serving",
+  "฿936.66",
+  "(0% off)",
+  "฿936.66",
+  "฿20.81/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/g/57.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/k/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/g/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/wak/wak61049/s/49.jpg"
+ ]
+}

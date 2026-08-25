@@ -1,0 +1,223 @@
+{
+ "pid": "49179",
+ "slug": "cococare-repairs-and-conditions-dry-cracked-heels-5-oz-11-g",
+ "scrapedAt": "2026-08-25T17:44:11.727Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "7K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/cococare-repairs-and-conditions-dry-cracked-heels-5-oz-11-g.jpg",
+  "/products/iherb/cococare-repairs-and-conditions-dry-cracked-heels-5-oz-11-g-2.jpg",
+  "/products/iherb/cococare-repairs-and-conditions-dry-cracked-heels-5-oz-11-g-3.jpg",
+  "/products/iherb/cococare-repairs-and-conditions-dry-cracked-heels-5-oz-11-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/cococare-repairs-and-conditions-dry-cracked-heels-5-oz-11-g/49179",
+ "pageTitle": "Cococare, Repairs and Conditions Dry Cracked Heels, .5 oz (11 g)",
+ "h1": "Cococare, Repairs and Conditions Dry Cracked Heels, .5 oz (11 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "49179",
+  "name": "Cococare, Repairs and Conditions Dry Cracked Heels, .5 oz (11 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/g/51.jpg",
+  "mpn": "COC-03575",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 53487
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Cococare",
+   "url": "http://cococare.com/",
+   "identifier": "COC"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "82.37",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "131.24",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Helps Soften and Soothe Burning Feet Everyone deserves skincare products made from real nutrients. That really work. At a price they can really afford. That's what we call #RealDealSkincare - and it's the brand promise we have been delivering to our customers for over 50 years.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.85x1.8"
+  },
+  "isRelatedTo": null,
+  "sku": "COC-03575",
+  "gtin12": "075707035754",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/g/51.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Body Care",
+  "Foot Care",
+  "Foot Cream & Treatments"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Helps Soften and Soothe Burning Feet"
+   ],
+   "paragraphs": [
+    "Everyone deserves skincare products made from real nutrients. That really work. At a price they can really afford. That's what we call #RealDealSkincare - and it's the brand promise we have been delivering to our customers for over 50 years."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply twice daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Petrolatum, ozokerite wax (orokerite), theobroma cacao (cocoa) seed butter, lanolin, menthol, camphor, salicylic acid, fragrance, alum, (ammonium, potassium or sodium alum)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Keep out of children's reach."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2013"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "COC-03575"
+  },
+  {
+   "label": "UPC",
+   "value": "075707035754"
+  },
+  {
+   "label": "Package quantity",
+   "value": "11 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "5.8 x 4.7 x 4.6 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "11 g"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Foot Care",
+   "href": "/c/foot-care?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Dry Skin & Rash",
+   "href": "/c/dry-skin-rash?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Foot Cream & Treatments",
+   "href": "/c/foot-cream-treatments?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "7,500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿131.24",
+  "฿131.24",
+  "฿11.93/‏g",
+  "{0}% off code: {1}",
+  "฿131.24",
+  "Save 37% in cart",
+  "฿11.93/‏g",
+  "฿82.37",
+  "(37% off)",
+  "฿131.24",
+  "฿7.49/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/g/51.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/k/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/g/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/s/43.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/coc/coc03575/s/52.jpg"
+ ]
+}

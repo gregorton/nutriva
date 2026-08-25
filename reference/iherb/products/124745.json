@@ -1,0 +1,277 @@
+{
+ "pid": "124745",
+ "slug": "california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules",
+ "scrapedAt": "2026-08-25T17:00:00.577Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "50K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules-2.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules-3.jpg",
+  "/products/iherb/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules/124745",
+ "pageTitle": "California Gold Nutrition, Vitamin D3 + K2 as MK-7, 180 Veggie Capsules",
+ "h1": "California Gold Nutrition, Vitamin D3 + K2 as MK-7, 180 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124745",
+  "name": "California Gold Nutrition, Vitamin D3 + K2 as MK-7, 180 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/g/63.jpg",
+  "mpn": "CGN-02333",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 36570
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "553.67",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "High Potency California Gold Nutrition ® Vitamin D3 + K2 125 mcg (5,000 IU) Vitamin D3 per serving 120 mcg Vitamin K2 (as MK-7) per serving Menaquinone-7 (MK-7) for Vitamin K2 support Enhanced with MCT Oil 180-Day Supply, 1 Capsule Daily Formulated Without: Gluten, GMOs, or Soy Suitable for Vegetarians Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee California Gold Nutrition ® Vitamin D3 + K2 provides a dose of 5,000 IU Vitamin D3 paired with 120 mcg of long-acting Vitamin K2 as MK-7, pre-formulated with MCT oil directly inside every veggie capsule. Our advanced formula includes coconut-derived MCT oil directly in the capsule matrix — designed for convenient use without needing to pair it with a meal. This helps your body make use of the Vitamin D3 and Vitamin K2 with every dose. Plus, with a 180-capsule supply (6 full months), you get long-lasting bone and immune support with half as many reorders.* Benefits Vitamin D3 and Vitamin K2 play complementary roles in maintaining proper calcium metabolism in the body. Vitamin D3 supports the body’s normal absorption of calcium, while Vitamin K2 helps ensure calcium is properly utilized to maintain healthy bones. This formula features Menaquinone-7 (MK-7), an advanced, absorbable form of Vitamin K2 that offers ongoing activity in the body to support normal protein function for bone health. By pairing this dynamic duo with MCT oil inside a single capsule, you get efficient nutrient uptake to support an active lifestyle.* *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. iTested Verified Coming Soon Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02333",
+  "gtin12": "898220023332",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/g/63.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "High Potency California Gold Nutrition® Vitamin D3 + K2",
+    "125 mcg (5,000 IU) Vitamin D3 per serving",
+    "120 mcg Vitamin K2 (as MK-7) per serving",
+    "Menaquinone-7 (MK-7) for Vitamin K2 support",
+    "Enhanced with MCT Oil",
+    "180-Day Supply, 1 Capsule Daily",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Suitable for Vegetarians",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Vitamin D3 + K2 provides a dose of 5,000 IU Vitamin D3 paired with 120 mcg of long-acting Vitamin K2 as MK-7, pre-formulated with MCT oil directly inside every veggie capsule. Our advanced formula includes coconut-derived MCT oil directly in the capsule matrix — designed for convenient use without needing to pair it with a meal. This helps your body make use of the Vitamin D3 and Vitamin K2 with every dose. Plus, with a 180-capsule supply (6 full months), you get long-lasting bone and immune support with half as many reorders.*",
+    "Benefits",
+    "Vitamin D3 and Vitamin K2 play complementary roles in maintaining proper calcium metabolism in the body. Vitamin D3 supports the body’s normal absorption of calcium, while Vitamin K2 helps ensure calcium is properly utilized to maintain healthy bones. This formula features Menaquinone-7 (MK-7), an advanced, absorbable form of Vitamin K2 that offers ongoing activity in the body to support normal protein function for bone health. By pairing this dynamic duo with MCT oil inside a single capsule, you get efficient nutrient uptake to support an active lifestyle.*",
+    "iTested Verified Coming Soon",
+    "Third-Party Tested",
+    "Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g ., blood thinners) as well as those with a physician diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02333"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023332"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.2 cm, 0.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D(as D3, Cholecalciferol)",
+   "125 mcg (5,000 IU)",
+   "625%"
+  ],
+  [
+   "Vitamin K2 (as Menaquinone-7 [MK-7])",
+   "120 mcg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "124743",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-as-mk-7-60-veggie-capsules/124743",
+   "price": "฿315.11",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "124745",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-vitamin-d3-k2-as-mk-7-180-veggie-capsules/124745",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Vitamin D",
+   "href": "/c/vitamin-d?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Vitamin K",
+   "href": "/c/vitamin-k?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Vitamin K2 MK7",
+   "href": "/c/vitamin-k2-mk7?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "50,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿553.67",
+  "฿553.67",
+  "฿3.08/‏serving",
+  "{0}% off code: {1}",
+  "฿553.67",
+  "Save 0% in cart",
+  "฿3.08/‏serving",
+  "฿553.67",
+  "(0% off)",
+  "฿553.67",
+  "฿3.08/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/g/63.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/k/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/g/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/180.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02333/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco,c_fit,w_200,h_200/images/cgn/cgn02333/l/63.jpg"
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "pid": "144228",
+ "slug": "source-naturals-magnesium-glycinate-60-tablets",
+ "scrapedAt": "2026-08-25T17:28:19.069Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/source-naturals-magnesium-glycinate-60-tablets.jpg",
+  "/products/iherb/source-naturals-magnesium-glycinate-60-tablets-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/source-naturals-magnesium-glycinate-60-tablets/144228",
+ "pageTitle": "Source Naturals, Magnesium Glycinate, 60 Tablets",
+ "h1": "Source Naturals, Magnesium Glycinate, 60 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "144228",
+  "name": "Source Naturals, Magnesium Glycinate, 60 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/g/8.jpg",
+  "mpn": "SNS-02890",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1723
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Source Naturals",
+   "url": "https://shopsourcenaturals.com/",
+   "identifier": "SNS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.30",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "326.13",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-09-08T00:00:00"
+  },
+  "description": "Dietary Supplement For Calm Energy, Bone & Heart Support Magnesium is one of the most important minerals in the body, but an estimated 75% of Americans are magnesium deficient. Magnesium plays a key role in over 300 enzymatic reactions, including supporting cardiovascular, bone, muscle, energy, and neurotransmitter processes. Source Naturals magnesium is attached (\"chelated\") to the amino acid glycine. The magnesium bisglycinate combination enables efficient absorption, the glycinate allowing the magnesium to transfer easily across the intestinal wall. Increased absorption means more usable magnesium for your body's needs.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.2x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "SNS-02890",
+  "gtin12": "021078028901",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "For Calm Energy, Bone & Heart Support"
+   ],
+   "paragraphs": [
+    "Magnesium is one of the most important minerals in the body, but an estimated 75% of Americans are magnesium deficient. Magnesium plays a key role in over 300 enzymatic reactions, including supporting cardiovascular, bone, muscle, energy, and neurotransmitter processes. Source Naturals magnesium is attached (\"chelated\") to the amino acid glycine. The magnesium bisglycinate combination enables efficient absorption, the glycinate allowing the magnesium to transfer easily across the intestinal wall. Increased absorption means more usable magnesium for your body's needs."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "2 tablets twice daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline cellulose, dibasic calcium phosphate, stearic acid, modified cellulose gum, hydroxypropyl cellulose, magnesium stearate, and silica.",
+    "Contains no yeast, dairy, egg, gluten, corn, soy or wheat. Contains no sugar, starch, preservatives, or artificial color, flavor or fragrance."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Note: If you are pregnant, may become pregnant, or breastfeeding, consult your health care professional before using this product.",
+    "Store in a cool, dry place.",
+    "Do not use if either tamper-evident seal is broken or missing. Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SNS-02890"
+  },
+  {
+   "label": "UPC",
+   "value": "021078028901"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10 x 5.6 x 5.5 cm, 0.14 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "1 g",
+   "<1%*"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%*"
+  ],
+  [
+   "Calcium (as dibasic calcium phosphate)",
+   "95 mg",
+   "7%"
+  ],
+  [
+   "Magnesium (as magnesium bis-glycinate)",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "*Percent Daily Values (%DV) are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values (%DV) are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "144228",
+   "url": "https://th.iherb.com/pr/source-naturals-magnesium-glycinate-60-tablets/144228",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "120 count",
+   "pid": "144214",
+   "url": "https://th.iherb.com/pr/source-naturals-magnesium-glycinate-120-tablets/144214",
+   "price": "฿640.70",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "144357",
+   "url": "https://th.iherb.com/pr/source-naturals-magnesium-glycinate-180-tablets/144357",
+   "price": "฿1,044.40",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock - Only 3 left, more to come",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿326.13",
+  "฿326.13",
+  "฿10.87/‏serving",
+  "{0}% off code: {1}",
+  "฿326.13",
+  "Save 0% in cart",
+  "฿10.87/‏serving",
+  "฿326.13",
+  "(0% off)",
+  "฿326.13",
+  "฿10.87/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sns/sns02890/s/14.jpg"
+ ]
+}

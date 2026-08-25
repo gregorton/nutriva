@@ -1,0 +1,229 @@
+{
+ "pid": "137785",
+ "slug": "california-gold-nutrition-turmeric-curcumin-phytosome-meriva-500-mg-60",
+ "scrapedAt": "2026-08-25T17:13:08.802Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "2K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-phytosome-meriva-500-mg-60.jpg",
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-phytosome-meriva-500-mg-60-2.jpg",
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-phytosome-meriva-500-mg-60-3.jpg",
+  "/products/iherb/california-gold-nutrition-turmeric-curcumin-phytosome-meriva-500-mg-60-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-turmeric-curcumin-phytosome-meriva-500-mg-60-veggie-capsules/137785",
+ "pageTitle": "California Gold Nutrition, Turmeric Curcumin Phytosome Meriva®, 500 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, Turmeric Curcumin Phytosome Meriva®, 500 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "137785",
+  "name": "California Gold Nutrition, Turmeric Curcumin Phytosome Meriva®, 500 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/g/147.jpg",
+  "mpn": "SPN-02427",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 1112
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "844.04",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Features 500 mg of Meriva® Curcumin European Sourced High Levels of Demethoxycurcumin (DMC) California Gold Nutrition® Turmeric Curcumin Phytosome™ contains a patented Curcumin Phytosome™, Meriva® that has been shown to support joint & bone and kidney health. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.05x2"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02427",
+  "gtin12": "898220024278",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/g/147.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin",
+  "Curcumin Phytosome"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Features 500 mg of Meriva® Curcumin",
+    "European Sourced",
+    "High Levels of Demethoxycurcumin (DMC)"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Turmeric Curcumin Phytosome™ contains a patented Curcumin Phytosome™, Meriva® that has been shown to support joint & bone and kidney health.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02427"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024278"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.7 x 5.2 x 5.1 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Turmeric Curcumin Phospholipid MatrixSunflower Lecithin (Phospholipids), Turmeric Extract (Curcuma longa) (rhizome)",
+   "500 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿844.04",
+  "฿844.04",
+  "฿14.07/‏serving",
+  "{0}% off code: {1}",
+  "฿844.04",
+  "Save 0% in cart",
+  "฿14.07/‏serving",
+  "฿844.04",
+  "(0% off)",
+  "฿844.04",
+  "฿14.07/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/g/147.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/k/147.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/g/147.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/s/147.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/s/143.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/s/149.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02427/b/147.jpg"
+ ]
+}

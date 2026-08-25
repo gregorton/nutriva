@@ -1,0 +1,267 @@
+{
+ "pid": "137944",
+ "slug": "california-gold-nutrition-organic-calcium-magnesium-plus-d3-k2-180-tab",
+ "scrapedAt": "2026-08-25T17:46:17.348Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-organic-calcium-magnesium-plus-d3-k2-180-tab.jpg",
+  "/products/iherb/california-gold-nutrition-organic-calcium-magnesium-plus-d3-k2-180-tab-2.jpg",
+  "/products/iherb/california-gold-nutrition-organic-calcium-magnesium-plus-d3-k2-180-tab-3.jpg",
+  "/products/iherb/california-gold-nutrition-organic-calcium-magnesium-plus-d3-k2-180-tab-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-organic-calcium-magnesium-plus-d3-k2-180-tablets/137944",
+ "pageTitle": "California Gold Nutrition, Organic Calcium & Magnesium Plus D3 & K2, 180 Tablets",
+ "h1": "California Gold Nutrition, Organic Calcium & Magnesium Plus D3 & K2, 180 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "137944",
+  "name": "California Gold Nutrition, Organic Calcium & Magnesium Plus D3 & K2, 180 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/g/62.jpg",
+  "mpn": "SPN-02445",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 123
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.70",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "803.85",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1004.81",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Organic Calcium & Magnesium Tablet 1000 mg of Calcium and 70 mg of Magnesium from Red Algae USDA Certified Organic Includes vegan Vitamin D3, Iron, and Vitamin K2 as Menaquinone-7 Suitable for Vegetarians Formulated Without: Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility iTested Quality California Gold Nutrition® Organic Calcium & Magnesium c ontains 1,000 mg of Calcium and 70 mg of Magnesium derived from Organic Icelandic Red Algae. Each serving also includes Vitamins D & K2 plus Iron and is formulated to help support healthy bones and joints.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.05x3.05"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02445",
+  "gtin12": "898220024452",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/g/62.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Calcium",
+  "Calcium & Magnesium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Organic Calcium & Magnesium Tablet",
+    "1000 mg of Calcium and 70 mg of Magnesium from Red Algae",
+    "USDA Certified Organic",
+    "Includes vegan Vitamin D3, Iron, and Vitamin K2 as Menaquinone-7",
+    "Suitable for Vegetarians",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "iTested Quality"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Organic Calcium & Magnesium contains 1,000 mg of Calcium and 70 mg of Magnesium derived from Organic Icelandic Red Algae. Each serving also includes Vitamins D & K2 plus Iron and is formulated to help support healthy bones and joints.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 tablets daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02445"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024452"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.2 x 7.7 x 7.7 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Tablets"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (as D3, cholecalciferol from algae)",
+   "25 mcg",
+   "125%"
+  ],
+  [
+   "Calcium (from Lithothamnion spp.)",
+   "1,000 mg",
+   "77%"
+  ],
+  [
+   "Iron (from Lithothamnion spp.)",
+   "2 mg",
+   "11%"
+  ],
+  [
+   "Magnesium (from Lithothamnion spp.)",
+   "70 mg",
+   "17%"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)",
+   "100 mcg",
+   "†"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,004.81",
+  "฿1,004.81",
+  "฿16.75/‏serving",
+  "{0}% off code: {1}",
+  "฿1,004.81",
+  "Save 20% in cart",
+  "฿16.75/‏serving",
+  "฿803.85",
+  "(20% off)",
+  "฿1,004.81",
+  "฿13.40/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/g/62.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/k/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/g/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/s/63.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/s/100.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02445/s/45.jpg"
+ ]
+}

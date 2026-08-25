@@ -1,0 +1,242 @@
+{
+ "pid": "69309",
+ "slug": "california-gold-nutrition-folinic-acid-alcohol-free-1-fl-oz-30-ml",
+ "scrapedAt": "2026-08-25T17:11:31.501Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "California Gold Nutrition",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-folinic-acid-alcohol-free-1-fl-oz-30-ml.jpg",
+  "/products/iherb/california-gold-nutrition-folinic-acid-alcohol-free-1-fl-oz-30-ml-2.jpg",
+  "/products/iherb/california-gold-nutrition-folinic-acid-alcohol-free-1-fl-oz-30-ml-3.jpg",
+  "/products/iherb/california-gold-nutrition-folinic-acid-alcohol-free-1-fl-oz-30-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-folinic-acid-alcohol-free-1-fl-oz-30-ml/69309",
+ "pageTitle": "California Gold Nutrition, Folinic Acid, Alcohol Free, 1 fl oz (30 ml)",
+ "h1": "California Gold Nutrition, Folinic Acid, Alcohol Free, 1 fl oz (30 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "69309",
+  "name": "California Gold Nutrition, Folinic Acid, Alcohol Free, 1 fl oz (30 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/g/167.jpg",
+  "mpn": "CGN-00854",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 4243
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.18",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "416.28",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Folinic Acid Bioactive Form of Folate from Calcium Folinate Helps in the Production & Maintenance of New Cells* Supports the Methylation Cycle & MTHFR Pathways* Alcohol Free, Vegetable Glycerin & Deionized Water Formulated to Contain: No Gluten, No GMOs, No Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Folinic Acid is a bioavailable source of Folic Acid that helps in the production and maintenance of new cells and can be used as an alternative to Folic Acid when Folic Acid cannot be converted into its active form L-methylfolate.* Research suggests that Folinic Acid has enhanced effectiveness and bioavailability because it does not require the enzymatic conversion that Folic Acid needs to convert into L-methylfolate.* California Gold Nutrition Folinic Acid is a bioactive form of Folate in an Alcohol-Free liquid form. Each drop contains 667 mcg DFE (which is 167% of a person’s Daily Folate Equivalent as established by the US Department of Health & Human Services). iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x1.25"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-00854",
+  "gtin12": "898220008544",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/g/167.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin B",
+  "Vitamin B9 (Folate - Folic Acid)"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Folinic Acid",
+    "Bioactive Form of Folate from Calcium Folinate",
+    "Helps in the Production & Maintenance of New Cells*",
+    "Supports the Methylation Cycle & MTHFR Pathways*",
+    "Alcohol Free, Vegetable Glycerin & Deionized Water",
+    "Formulated to Contain: No Gluten, No GMOs, No Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Folinic Acid is a bioavailable source of Folic Acid that helps in the production and maintenance of new cells and can be used as an alternative to Folic Acid when Folic Acid cannot be converted into its active form L-methylfolate.* Research suggests that Folinic Acid has enhanced effectiveness and bioavailability because it does not require the enzymatic conversion that Folic Acid needs to convert into L-methylfolate.*",
+    "California Gold Nutrition Folinic Acid is a bioactive form of Folate in an Alcohol-Free liquid form. Each drop contains 667 mcg DFE (which is 167% of a person’s Daily Folate Equivalent as established by the US Department of Health & Human Services).",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 drop daily. Best when taken as directed by a qualified healthcare professional. Shake well before using."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2016"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.08 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-00854"
+  },
+  {
+   "label": "UPC",
+   "value": "898220008544"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.3 x 5.8 x 3.2 cm, 0.08 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Drop (0.04 ml)"
+  ],
+  [
+   "Servings Per Container: 750"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Folate (400 mcg as Folinic Acid from Calcium Folinate)",
+   "667 mcg DFE",
+   "167%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 drop"
+    },
+    {
+     "label": "Total servings",
+     "value": "750"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Vitamin B9 (Folate - Folic Acid)",
+   "href": "/c/vitamin-b9-folate-folic-acid?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Women's Health",
+   "href": "/c/womens-health?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Vitamin B",
+   "href": "/c/vitamin-b?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿416.28",
+  "฿416.28",
+  "฿0.56/‏serving",
+  "{0}% off code: {1}",
+  "฿416.28",
+  "Save 0% in cart",
+  "฿0.56/‏serving",
+  "฿416.28",
+  "(0% off)",
+  "฿416.28",
+  "฿0.56/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/g/167.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/k/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/g/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/s/167.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/s/172.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/s/175.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/s/87.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00854/s/70.jpg"
+ ]
+}

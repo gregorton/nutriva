@@ -1,0 +1,288 @@
+{
+ "pid": "37309",
+ "slug": "barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-100-softgels-300",
+ "scrapedAt": "2026-08-25T17:25:58.217Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-100-softgels-300.jpg",
+  "/products/iherb/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-100-softgels-300-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-100-softgels-300-mg-per-softgel/37309",
+ "pageTitle": "Barlean's, Fresh Catch®, Fish Oil, Omega-3 EPA/DHA, Orange, 100 Softgels (300 mg per Softgel)",
+ "h1": "Barlean's, Fresh Catch®, Fish Oil, Omega-3 EPA/DHA, Orange, 100 Softgels (300 mg per Softgel)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "37309",
+  "name": "Barlean's, Fresh Catch®, Fish Oil, Omega-3 EPA/DHA, Orange, 100 Softgels (300 mg per Softgel)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/g/46.jpg",
+  "mpn": "BAR-61007",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 503
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Barlean's",
+   "url": "http://www.barleans.com/",
+   "identifier": "BAR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "561.71",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Estd 1989 Pathway To A Better Life Non-GMO Purified Dietary Supplement Gluten Free From Our Family to Yours Fresh Tech Patented Softgel Technologies Barlean's Fresh Catch® Fish Oil is a pure and pristine source of purified, fish oil. 3rd party tested for heavy metals and other contaminants Harvested from small-bodied fish in pristine waters",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "BAR-61007",
+  "gtin12": "705875610070",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Estd 1989",
+    "Pathway To A Better Life",
+    "Non-GMO",
+    "Purified",
+    "Dietary Supplement",
+    "Gluten Free",
+    "From Our Family to Yours",
+    "Fresh Tech Patented Softgel Technologies",
+    "3rd party tested for heavy metals and other contaminants",
+    "Harvested from small-bodied fish in pristine waters"
+   ],
+   "paragraphs": [
+    "Barlean's Fresh Catch® Fish Oil is a pure and pristine source of purified, fish oil."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "2 softgels, up to 3 times daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Fish oil (anchovy, sardine and/or mackerel), softgel (gelatin, glycerine, water, and caramel color), natural citrus flavors, and antioxidant blend (natural mixed tocopherols, rosemary extract, ascorbyl palmitate, ascorbic acid)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep bottle tightly closed.",
+    "Store in a cool, dry place out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BAR-61007"
+  },
+  {
+   "label": "UPC",
+   "value": "705875610070"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.3 x 6.4 x 6.4 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels (2 g)"
+  ],
+  [
+   "Servings Per Container: 50"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%*"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "2%*"
+  ],
+  [
+   "Polyunsaturated Fat",
+   "1 g",
+   "†"
+  ],
+  [
+   "Monounsaturated Fat",
+   "1 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "10 mg",
+   "3%"
+  ],
+  [
+   "Omega-3 Polyunsaturated Fat"
+  ],
+  [
+   "Eicosapentaenoic Acid (EPA)",
+   "360 mg",
+   "†"
+  ],
+  [
+   "Docosahexaenoic Acid (DHA)",
+   "240 mg",
+   "†"
+  ],
+  [
+   "Other Omega-3 Fatty Acids",
+   "80 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgels"
+    },
+    {
+     "label": "Total servings",
+     "value": "50"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "37309",
+   "url": "https://th.iherb.com/pr/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-100-softgels-300-mg-per-softgel/37309",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "250 count",
+   "pid": "10734",
+   "url": "https://th.iherb.com/pr/barlean-s-fresh-catch-fish-oil-omega-3-epa-dha-orange-250-softgels-300-mg-per-softgel/10734",
+   "price": "฿1,316.03",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿561.71",
+  "฿561.71",
+  "฿11.23/‏serving",
+  "{0}% off code: {1}",
+  "฿561.71",
+  "Save 0% in cart",
+  "฿11.23/‏serving",
+  "฿561.71",
+  "(0% off)",
+  "฿561.71",
+  "฿11.23/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/bar/bar61007/s/51.jpg"
+ ]
+}

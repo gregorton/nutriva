@@ -1,0 +1,247 @@
+{
+ "pid": "117703",
+ "slug": "swanson-vitamins-glucomannan-665-mg-90-capsules",
+ "scrapedAt": "2026-08-25T17:50:54.857Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-glucomannan-665-mg-90-capsules.jpg",
+  "/products/iherb/swanson-vitamins-glucomannan-665-mg-90-capsules-2.jpg",
+  "/products/iherb/swanson-vitamins-glucomannan-665-mg-90-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-glucomannan-665-mg-90-capsules/117703",
+ "pageTitle": "Swanson Vitamins, Glucomannan, 665 mg, 90 Capsules",
+ "h1": "Swanson Vitamins, Glucomannan, 665 mg, 90 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "117703",
+  "name": "Swanson Vitamins, Glucomannan, 665 mg, 90 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/g/24.jpg",
+  "mpn": "SWV-11743",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 959
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.24",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "393.72",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "492.15",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-30T00:00:00"
+  },
+  "description": "Digestive Health Konjac Root Herbal Supplement Supports Bowel Regularity Assists With Occasional Constipation Supports Healthy Blood Sugar Balance Science-Backed Quality Since 1969 Konjac root is the source of one of nature's most beneficial soluble fibers—glucomannan. It can actually absorb and hold water up to 100 times its own weight! Konjac makes an excellent bulk-forming agent and may have a positive influence on blood sugar levels by delaying stomach emptying. Along with healthy diet and exercise, these actions also promote healthy cholesterol levels already within the normal range, thereby supporting cardiovascular health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.3x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-11743",
+  "gtin12": "087614117430",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Fiber",
+  "Glucomannan"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Digestive Health",
+    "Konjac Root",
+    "Herbal Supplement",
+    "Supports Bowel Regularity",
+    "Assists With Occasional Constipation",
+    "Supports Healthy Blood Sugar Balance",
+    "Science-Backed Quality Since 1969"
+   ],
+   "paragraphs": [
+    "Konjac root is the source of one of nature's most beneficial soluble fibers—glucomannan. It can actually absorb and hold water up to 100 times its own weight! Konjac makes an excellent bulk-forming agent and may have a positive influence on blood sugar levels by delaying stomach emptying. Along with healthy diet and exercise, these actions also promote healthy cholesterol levels already within the normal range, thereby supporting cardiovascular health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one capsule with a full glass of water before each meal. For maximum benefit, take up to two capsules before each meal."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, magnesium stearate, rice flour."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult your healthcare provider before using this or any product if you are pregnant or nursing, taking medication or have a medical condition.",
+    "Cancer and Reproductive harm. Prop 65.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-11743"
+  },
+  {
+   "label": "UPC",
+   "value": "087614117430"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11 x 5.8 x 5.8 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Total Carbohydrate",
+   "<1 g",
+   "0%"
+  ],
+  [
+   "Dietary Fiber",
+   "<1 g",
+   "2%"
+  ],
+  [
+   "Glucomannan (from Amorphophallus konjac) (tubers)",
+   "665 mg",
+   "*"
+  ],
+  [
+   "Percent Daily Values are based on a 2,000 calorie diet.*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "Percent Daily Values are based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock - Only 1 left, more to come",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿492.15",
+  "฿492.15",
+  "฿5.47/‏serving",
+  "{0}% off code: {1}",
+  "฿492.15",
+  "Save 20% in cart",
+  "฿5.47/‏serving",
+  "฿393.72",
+  "(20% off)",
+  "฿492.15",
+  "฿4.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11743/s/32.jpg"
+ ]
+}

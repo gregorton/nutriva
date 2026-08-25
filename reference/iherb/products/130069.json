@@ -1,0 +1,219 @@
+{
+ "pid": "130069",
+ "slug": "absolute-nutrition-liposomal-vitamin-c-60-capsules",
+ "scrapedAt": "2026-08-25T17:30:12.023Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/absolute-nutrition-liposomal-vitamin-c-60-capsules.jpg",
+  "/products/iherb/absolute-nutrition-liposomal-vitamin-c-60-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/absolute-nutrition-liposomal-vitamin-c-60-capsules/130069",
+ "pageTitle": "Absolute Nutrition, Liposomal Vitamin C, 60 Capsules",
+ "h1": "Absolute Nutrition, Liposomal Vitamin C, 60 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "130069",
+  "name": "Absolute Nutrition, Liposomal Vitamin C, 60 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/g/24.jpg",
+  "mpn": "ABN-09017",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 65
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Absolute Nutrition",
+   "url": "http://www.absnutrition.com/",
+   "identifier": "ABN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "869.47",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Nutritional Supplements Dietary Supplement The Diet Company® Boost your overall health with Absolute Nutrition's Liposomal Vitamin C 1000 mg capsules. This high potency vitamin C supplement is designed to provide immune support and aid in skin care. Our advanced formula ensures maximum absorption of ascorbic acid, a powerful antioxidant that supports the immune system, promotes cardiovascular function, and enhances brain function. Each capsule contains 1000 mg of pure vitamin C, providing 100% of the daily value needed for adults. Our Liposomal Vitamin C is one of the highest rated vitamin C supplements in the market. It comes in a bio-available form, ensuring that it is easily absorbed by the body for maximum benefits. This makes our vitamin C capsules the best choice for men and women looking for a daily supplement to support their immune defense and improve skin health. The liposomal method of delivery also makes this vitamin C supplement more fat soluble, ensuring that it is absorbed into the bloodstream more efficiently. Made in the USA, our Liposomal Vitamin C 1000 mg is a top-rated choice for immune support and skin care.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "ABN-09017",
+  "gtin12": "708235090178",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Liposomal Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Nutritional Supplements",
+    "Dietary Supplement",
+    "The Diet Company®"
+   ],
+   "paragraphs": [
+    "Boost your overall health with Absolute Nutrition's Liposomal Vitamin C 1000 mg capsules. This high potency vitamin C supplement is designed to provide immune support and aid in skin care. Our advanced formula ensures maximum absorption of ascorbic acid, a powerful antioxidant that supports the immune system, promotes cardiovascular function, and enhances brain function. Each capsule contains 1000 mg of pure vitamin C, providing 100% of the daily value needed for adults.",
+    "Our Liposomal Vitamin C is one of the highest rated vitamin C supplements in the market. It comes in a bio-available form, ensuring that it is easily absorbed by the body for maximum benefits. This makes our vitamin C capsules the best choice for men and women looking for a daily supplement to support their immune defense and improve skin health. The liposomal method of delivery also makes this vitamin C supplement more fat soluble, ensuring that it is absorbed into the bloodstream more efficiently. Made in the USA, our Liposomal Vitamin C 1000 mg is a top-rated choice for immune support and skin care."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement take two (2) capsules once a day."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cellulose (vegetable capsule), microcrystalline cellulose, magnesium stearate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Pregnant or nursing mothers, children under the age of 18, and individuals with a known medical condition should consult a physician before using this or any dietary supplement.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "ABN-09017"
+  },
+  {
+   "label": "UPC",
+   "value": "708235090178"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.9 x 5.5 x 5.5 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Vitamin C(as Liposomal C PureWay-C™)",
+   "1,000 mg",
+   "77%"
+  ],
+  [
+   "Choline(as Liposomal C PureWay-C™)",
+   "92 mg",
+   "17%"
+  ]
+ ],
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿869.47",
+  "฿869.47",
+  "฿28.98/‏serving",
+  "{0}% off code: {1}",
+  "฿869.47",
+  "Save 0% in cart",
+  "฿28.98/‏serving",
+  "฿869.47",
+  "(0% off)",
+  "฿869.47",
+  "฿28.98/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/abn/abn09017/s/30.jpg"
+ ]
+}

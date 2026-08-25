@@ -1,0 +1,260 @@
+{
+ "pid": "139857",
+ "slug": "the-vitamin-shoppe-ultimate-10-probiotics-50-billion-cfu-60-vegetable",
+ "scrapedAt": "2026-08-25T17:24:27.296Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/the-vitamin-shoppe-ultimate-10-probiotics-50-billion-cfu-60-vegetable.jpg",
+  "/products/iherb/the-vitamin-shoppe-ultimate-10-probiotics-50-billion-cfu-60-vegetable-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-50-billion-cfu-60-vegetable-capsules/139857",
+ "pageTitle": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 50 Billion CFU, 60 Vegetable Capsules",
+ "h1": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 50 Billion CFU, 60 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139857",
+  "name": "The Vitamin Shoppe, Ultimate 10+ Probiotics, 50 Billion CFU, 60 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/g/8.jpg",
+  "mpn": "VSI-03823",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 92
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "The Vitamin Shoppe",
+   "url": "https://www.vitaminshoppe.com/",
+   "identifier": "VSI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1376.06",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-09-03T00:00:00"
+  },
+  "description": "Digestive Health Immune Support Respiratory Health Specialty Dietary Supplement Non-GMO Gluten-Free Dairy-Free Soy-Free Quality Promise Tested &Trusted A happy gut makes a healthy you. Formulated to promote digestive, respiratory, and immune health, The Vitamin Shoppe® brand Ultimate 10+ Probiotic capsules have 50 billion CFUs of 12 beneficial probiotic strains, plus fructo-oligosaccharides to keep the good bacteria in your digestive tract fed and flourishing. Exemplifying convenience and quality, these once-daily vegetable capsules are verified by independent 3rd party labs for potency and purity.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.15x2.15"
+  },
+  "isRelatedTo": null,
+  "sku": "VSI-03823",
+  "gtin12": "766536038237",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Digestive Health",
+    "Immune Support",
+    "Respiratory Health",
+    "Specialty",
+    "Dietary Supplement",
+    "Non-GMO",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Soy-Free",
+    "Quality Promise Tested &Trusted"
+   ],
+   "paragraphs": [
+    "A happy gut makes a healthy you. Formulated to promote digestive, respiratory, and immune health, The Vitamin Shoppe® brand Ultimate 10+ Probiotic capsules have 50 billion CFUs of 12 beneficial probiotic strains, plus fructo-oligosaccharides to keep the good bacteria in your digestive tract fed and flourishing.",
+    "Exemplifying convenience and quality, these once-daily vegetable capsules are verified by independent 3rd party labs for potency and purity."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one (1) vegetable capsule daily, with or without food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose, potato maltodextrin, vegetable magnesium stearate, silicon dioxide."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult prior to use if you are taking any medical conditions.",
+    "Store in a cool, dry place.",
+    "Keep out of reach of children.",
+    "Tamper Evident: Do not use if outer eal is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "VSI-03823"
+  },
+  {
+   "label": "UPC",
+   "value": "766536038237"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "7.6 x 5.5 x 5.5 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetable Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Ultimate 10+ Probiotic Blend Lactobacillus rhamnosus, L. casei, L. acidophilus, L. plantarum, Bifidobacterium lactis, L. bulgaricus, L. salivarius, B. bifidum, Streptococcus thermophilus, B. longum, B. breve, L. gasseri",
+   "50 Billion CFUs",
+   "*"
+  ],
+  [
+   "Fructooligosaccharides (FOS)",
+   "150 mg",
+   "*"
+  ],
+  [
+   "*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "*",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetable capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "07/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "139858",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-100-billion-cfu-30-vegetable-capsules/139858",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "139857",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-50-billion-cfu-60-vegetable-capsules/139857",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "100 count",
+   "pid": "139851",
+   "url": "https://th.iherb.com/pr/the-vitamin-shoppe-ultimate-10-probiotics-13-billion-cfu-100-vegetable-capsules/139851",
+   "price": "฿848.47",
+   "outOfStock": true,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock - Only 1 left, more to come"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,376.06",
+  "฿1,376.06",
+  "฿22.93/‏serving",
+  "{0}% off code: {1}",
+  "฿1,376.06",
+  "Save 0% in cart",
+  "฿22.93/‏serving",
+  "฿1,376.06",
+  "(0% off)",
+  "฿1,376.06",
+  "฿22.93/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsi/vsi03823/s/11.jpg"
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "pid": "138498",
+ "slug": "bioschwartz-maximum-absorption-magnesium-glycinate-120-veggie-caps",
+ "scrapedAt": "2026-08-25T17:24:24.028Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/bioschwartz-maximum-absorption-magnesium-glycinate-120-veggie-caps.jpg",
+  "/products/iherb/bioschwartz-maximum-absorption-magnesium-glycinate-120-veggie-caps-2.jpg",
+  "/products/iherb/bioschwartz-maximum-absorption-magnesium-glycinate-120-veggie-caps-3.jpg",
+  "/products/iherb/bioschwartz-maximum-absorption-magnesium-glycinate-120-veggie-caps-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/bioschwartz-maximum-absorption-magnesium-glycinate-120-veggie-caps/138498",
+ "pageTitle": "BioSchwartz, Maximum Absorption Magnesium Glycinate, 120 Veggie Caps",
+ "h1": "BioSchwartz, Maximum Absorption Magnesium Glycinate, 120 Veggie Caps",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138498",
+  "name": "BioSchwartz, Maximum Absorption Magnesium Glycinate, 120 Veggie Caps",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/g/8.jpg",
+  "mpn": "BTZ-43104",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 403
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "BioSchwartz",
+   "url": "https://bioschwartz.com/",
+   "identifier": "BTZ"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "530.87",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Professional Grade Premium Quality Dietary Supplement Gluten Free Ingredients GMP - Good Manufacturing Practice Highest Quality - 3rd Party Certified Superior Quality Guarantee Supports Optimal Health Easy to Swallow Mini-Caps Gentle on The Stomach Third Party Tested Premium Quality Professional Grade Supplements We create superior products through the perfect balance of the latest technologies and the purest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "BTZ-43104",
+  "gtin12": "810056431044",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Professional Grade",
+    "Premium Quality",
+    "Dietary Supplement",
+    "Gluten Free Ingredients",
+    "GMP - Good Manufacturing Practice",
+    "Highest Quality - 3rd Party Certified",
+    "Superior Quality Guarantee",
+    "Easy to Swallow Mini-Caps",
+    "Gentle on The Stomach",
+    "Third Party Tested"
+   ],
+   "paragraphs": [
+    "Supports Optimal Health",
+    "Premium Quality Professional Grade Supplements",
+    "We create superior products through the perfect balance of the latest technologies and the purest nutrients nature has to offer. We are committed to providing the highest quality supplements without the premium price tag."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 4 capsules. For best results take 2 capsules in the morning and 2 capsules at night."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (capsule), magnesium stearate, rice flour.",
+    "Free of soy, gluten, milk, egg, wheat, peanuts, sweeteners, shellfish and sugar.",
+    "No Color Additives or Preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use only as directed. Consult your healthcare provider before use if you are contemplating pregnancy, pregnant, nursing, have any medical condition, or use any medications. For adult use only.",
+    "Keep out of the reach of children.",
+    "Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "BTZ-43104"
+  },
+  {
+   "label": "UPC",
+   "value": "810056431044"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 5 x 5 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 4 Capsules"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Magnesium (as Magnesium Glycinate Buffered)",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Magnesium Glycinate Buffered",
+   "500 mg",
+   "**"
+  ],
+  [
+   "** Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "** Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "4 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Preservative-free",
+    "Sugar-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "200+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿530.87",
+  "฿530.87",
+  "฿17.70/‏serving",
+  "{0}% off code: {1}",
+  "฿530.87",
+  "Save 0% in cart",
+  "฿17.70/‏serving",
+  "฿530.87",
+  "(0% off)",
+  "฿530.87",
+  "฿17.70/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/btz/btz43104/s/17.jpg"
+ ]
+}

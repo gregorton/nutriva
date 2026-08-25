@@ -1,0 +1,215 @@
+{
+ "pid": "111472",
+ "slug": "california-gold-nutrition-sleep-time-balm-stick-lavender-chamomile-0-6",
+ "scrapedAt": "2026-08-25T17:44:27.213Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "3K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-sleep-time-balm-stick-lavender-chamomile-0-6.jpg",
+  "/products/iherb/california-gold-nutrition-sleep-time-balm-stick-lavender-chamomile-0-6-2.jpg",
+  "/products/iherb/california-gold-nutrition-sleep-time-balm-stick-lavender-chamomile-0-6-3.jpg",
+  "/products/iherb/california-gold-nutrition-sleep-time-balm-stick-lavender-chamomile-0-6-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-sleep-time-balm-stick-lavender-chamomile-0-6-oz-17-g/111472",
+ "pageTitle": "California Gold Nutrition, Sleep Time Balm Stick, Lavender & Chamomile, 0.6 oz (17 g)",
+ "h1": "California Gold Nutrition, Sleep Time Balm Stick, Lavender & Chamomile, 0.6 oz (17 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "111472",
+  "name": "California Gold Nutrition, Sleep Time Balm Stick, Lavender & Chamomile, 0.6 oz (17 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/g/67.jpg",
+  "mpn": "MBE-02148",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 11026
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.07",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "108.89",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "145.19",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition® Sleep Time Balm \"For A Little Shut Eye\" Featuring Lavender Oil & Chamomile Extract USDA Organic & Certified by Oregon Tilth No Gluten or GMOs No Sulfates, Preservatives or Phthalates Cruelty-Free & No Animal Testing Key Ingredients Beeswax Shea Butter, Olive Oil & Vitamin E Lavender Oil & Chamomile Extract Bergamot, Rosehip, Rosemary & Ginger Oil Arnica, Calendula, Cucumber & Rosemary Extracts Restful sleep is an elusive thing for many people. Our busy schedules and hectic lifestyles can often lead to racing minds and anxiousness at bedtime. If you’re suffering through days feeling exhausted, only to find that sleep still evades you when you lie down at night, it’s time to find a solution. California Gold Nutrition® Sleep Time Balm Stick combines a soothing beeswax balm with relaxing aromatics to help you wind down at the end of the day. Formulated with lavender oil and chamomile extract, this balm uses calming scents and botanical oils to help put your mind and body at ease, so you can get some much needed rest.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "0.85x0.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MBE-02148",
+  "gtin12": "898220021482",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/g/67.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Medicine Cabinet"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® Sleep Time Balm",
+    "\"For A Little Shut Eye\"",
+    "Featuring Lavender Oil & Chamomile Extract",
+    "USDA Organic & Certified by Oregon Tilth",
+    "No Gluten or GMOs",
+    "No Sulfates, Preservatives or Phthalates",
+    "Cruelty-Free & No Animal Testing",
+    "Beeswax",
+    "Shea Butter, Olive Oil & Vitamin E",
+    "Lavender Oil & Chamomile Extract",
+    "Bergamot, Rosehip, Rosemary & Ginger Oil",
+    "Arnica, Calendula, Cucumber & Rosemary Extracts"
+   ],
+   "paragraphs": [
+    "Key Ingredients",
+    "Restful sleep is an elusive thing for many people. Our busy schedules and hectic lifestyles can often lead to racing minds and anxiousness at bedtime. If you’re suffering through days feeling exhausted, only to find that sleep still evades you when you lie down at night, it’s time to find a solution.",
+    "California Gold Nutrition® Sleep Time Balm Stick combines a soothing beeswax balm with relaxing aromatics to help you wind down at the end of the day. Formulated with lavender oil and chamomile extract, this balm uses calming scents and botanical oils to help put your mind and body at ease, so you can get some much needed rest."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply Sleep Time Balm to temples and neck to enjoy a restful aromatic experience."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "Keep out of reach of children.",
+    "For external use only.",
+    "When using this product, avoid contact with eyes.",
+    "Discontinue use if you experience skin sensitivity.",
+    "Store in a cool, dry place (Room Temperature is best)."
+   ],
+   "paragraphs": []
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.03 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBE-02148"
+  },
+  {
+   "label": "UPC",
+   "value": "898220021482"
+  },
+  {
+   "label": "Package quantity",
+   "value": "17 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 2.2 x 2.2 cm, 0.03 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "17 g"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿145.19",
+  "฿145.19",
+  "฿8.54/‏g",
+  "{0}% off code: {1}",
+  "฿145.19",
+  "Save 25% in cart",
+  "฿8.54/‏g",
+  "฿108.89",
+  "(25% off)",
+  "฿145.19",
+  "฿6.41/‏g",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/g/67.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/k/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/g/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/s/62.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbe/mbe02148/b/67.jpg"
+ ]
+}

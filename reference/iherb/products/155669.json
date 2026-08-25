@@ -1,0 +1,306 @@
+{
+ "pid": "155669",
+ "slug": "smartypants-kids-sleep-melatonin-gummies-strawberry-mango-60-gummies",
+ "scrapedAt": "2026-08-25T17:22:01.400Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/smartypants-kids-sleep-melatonin-gummies-strawberry-mango-60-gummies.jpg",
+  "/products/iherb/smartypants-kids-sleep-melatonin-gummies-strawberry-mango-60-gummies-2.jpg",
+  "/products/iherb/smartypants-kids-sleep-melatonin-gummies-strawberry-mango-60-gummies-3.jpg",
+  "/products/iherb/smartypants-kids-sleep-melatonin-gummies-strawberry-mango-60-gummies-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/smartypants-kids-sleep-melatonin-gummies-strawberry-mango-60-gummies/155669",
+ "pageTitle": "SmartyPants, Kids Sleep, Melatonin Gummies, Strawberry Mango, 60 Gummies",
+ "h1": "SmartyPants, Kids Sleep, Melatonin Gummies, Strawberry Mango, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "155669",
+  "name": "SmartyPants, Kids Sleep, Melatonin Gummies, Strawberry Mango, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/g/8.jpg",
+  "mpn": "SMA-02455",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 5,
+   "reviewCount": 5
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "SmartyPants",
+   "url": "http://www.smartypantsvitamins.com/",
+   "identifier": "SMA"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.41",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "850.44",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Co-Developed With a Sleep Scientist 100% Drug-Free & Non-Habit Forming‡ Helps Kids Fall Asleep & Stay Asleep Longer Clean Label Project® Purity Award Igen™ Non-GMO Tested Certified Gluten Free With Chamomile & Vitamin D3 Dietary Supplement 0.5 mg§ 100% Drug-Free Formula Latest Science-Backed Formulas Every Batch 3rd Party Tested With Other Natural Flavors Science-backed Sleep Support. Co-developed with a sleep scientist to support your kids' sleep. Expertly formulated for effective, 100% drug-free sleep support you can trust. §Per 1 gummy",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SMA-02455",
+  "gtin12": "817053024552",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Co-Developed With a Sleep Scientist",
+    "100% Drug-Free & Non-Habit Forming‡",
+    "Helps Kids Fall Asleep & Stay Asleep Longer",
+    "Clean Label Project® Purity Award",
+    "Igen™ Non-GMO Tested",
+    "Certified Gluten Free",
+    "With Chamomile & Vitamin D3",
+    "Dietary Supplement",
+    "0.5 mg§",
+    "100% Drug-Free Formula",
+    "Latest Science-Backed Formulas",
+    "Every Batch 3rd Party Tested",
+    "With Other Natural Flavors"
+   ],
+   "paragraphs": [
+    "Science-backed Sleep Support.",
+    "Co-developed with a sleep scientist to support your kids' sleep. Expertly formulated for effective, 100% drug-free sleep support you can trust.",
+    "§Per 1 gummy"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Kids 4 years and older, start with 1 gummy and give up to 2 gummies as needed 30 minutes before bedtime, for occasional use. Chew each gummy thoroughly."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic tapioca syrup, organic cane sugar, pectin, citric acid, sodium citrate, color added (organic black carrot juice concentrate), natural flavors, lo han guo (monk fruit) extract, organic sunflower oil, organic carnauba wax.",
+    "Free of synthetic colors, gluten, wheat, milk, eggs, peanuts, sesame, soy, tree nuts, fish, and shellfish.",
+    "Manufactured in USA from domestic and imported ingredients.",
+    "This product does not contain common GE genes or proteins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool dry place. Do not freeze. Product may darken over time.",
+    "Keep out of reach of children. For use under adult supervision only. Consult your child's health care provider before use if they have a medical condition, are on any medications, have a medical procedure planned , or for ongoing sleep difficulties. Discontinue use and consult your doctor if any adverse reactions occur. Do not use with any medications/drugs or supplements that can induce sleep or drowsiness, or that contain melatonin. This product is not a substitute for a regular bedtime routine or to treat insomnia or other sleep disorders. Intended for occasional use only. Do not exceed recommended serving. Do not use if inner safety seal is broken."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SMA-02455"
+  },
+  {
+   "label": "UPC",
+   "value": "817053024552"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.1 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 or 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 60 or 30"
+  ],
+  [
+   "",
+   "Amount Per ServingPer 1 Gummy",
+   "%Daily Value",
+   "Amount Per ServingPer 2 Gummies",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "5",
+   "",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "1.5 g",
+   "1%†",
+   "3 g",
+   "1%†"
+  ],
+  [
+   "Sugars",
+   "1 g",
+   "**",
+   "2 g",
+   "**"
+  ],
+  [
+   "Includes Added Sugars",
+   "1 g",
+   "2%†",
+   "2 g",
+   "4%†"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCl)",
+   "0.5 mg",
+   "30%",
+   "1 mg",
+   "59%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "5 mcg",
+   "25%",
+   "10 mcg",
+   "50%"
+  ],
+  [
+   "Sodium",
+   "<5 mg",
+   "<1%",
+   "5 mg",
+   "6%"
+  ],
+  [
+   "Melatonin",
+   "0.5 mg",
+   "**",
+   "1 mg",
+   "**"
+  ],
+  [
+   "Chamomile Extract (Matricaria chamomilla, flower)",
+   "7.5 mg",
+   "**",
+   "15 mg",
+   "**"
+  ],
+  [
+   "†Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Per 1 Gummy\t%Daily Value",
+  "Per 2 Gummies\t%Daily Value",
+  "†Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2026"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 9 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿850.44",
+  "฿850.44",
+  "฿14.17/‏serving",
+  "{0}% off code: {1}",
+  "฿850.44",
+  "Save 0% in cart",
+  "฿14.17/‏serving",
+  "฿850.44",
+  "(0% off)",
+  "฿850.44",
+  "฿14.17/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/s/14.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sma/sma02455/s/18.jpg"
+ ]
+}

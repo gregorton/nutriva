@@ -1,0 +1,264 @@
+{
+ "pid": "97676",
+ "slug": "naturelo-magnesium-glycinate-chelate-complex-120-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:14:46.589Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "2K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturelo-magnesium-glycinate-chelate-complex-120-vegetarian-capsules.jpg",
+  "/products/iherb/naturelo-magnesium-glycinate-chelate-complex-120-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturelo-magnesium-glycinate-chelate-complex-120-vegetarian-capsules/97676",
+ "pageTitle": "NATURELO, Magnesium Glycinate Chelate Complex, 120 Vegetarian Capsules",
+ "h1": "NATURELO, Magnesium Glycinate Chelate Complex, 120 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "97676",
+  "name": "NATURELO, Magnesium Glycinate Chelate Complex, 120 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/g/92.jpg",
+  "mpn": "NAU-62830",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 10360
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NATURELO",
+   "url": "https://www.naturelo.com/",
+   "identifier": "NAU"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.34",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "982.34",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "From Nature With Love® With a Plant-Based Whole Food Blend Formulated to Support Healthy Bones, Heart, & Stress Relief Dietary Supplement No GMOs No Soy No Gluten Vegan Friendly No Coloring, Preservatives or Flavoring Vitamin Angels GMP - Good Manufacturing Practice Consistent Quality Suitable for Vegans and Vegetarians Whole Food Complex: 200 mg Magnesium plus organic vegetables and seeds with naturally-occurring magnesium, including organic spinach, swiss chard, okra, quinoa, black bean, pumpkin seed, sunflower seed and flaxseed. Magnesium Glycinate Chelate: Chelated with Glycine for better absorption and bioavailability. Glycinate is easy on the stomach, non-laxative, and enhances the natural calming benefits of magnesium. Relax Nerves & Muscles: Magnesium supports healthy muscle and nerve function to help relieve tension and discomfort for healthy physical performance, recovery, and relaxation. Supports Calm & Sleep: Magnesium supports the parasympathetic nervous system and helps regulate melatonin and GABA for a healthy stress response, calm mood, and better sleep.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "NAU-62830",
+  "gtin12": "628110628305",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/g/92.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "From Nature With Love®",
+    "With a Plant-Based Whole Food Blend",
+    "Formulated to Support Healthy Bones, Heart, & Stress Relief",
+    "Dietary Supplement",
+    "No GMOs",
+    "No Soy",
+    "No Gluten",
+    "Vegan Friendly",
+    "No Coloring, Preservatives or Flavoring",
+    "Vitamin Angels",
+    "GMP - Good Manufacturing Practice Consistent Quality",
+    "Suitable for Vegans and Vegetarians"
+   ],
+   "paragraphs": [
+    "Whole Food Complex: 200 mg Magnesium plus organic vegetables and seeds with naturally-occurring magnesium, including organic spinach, swiss chard, okra, quinoa, black bean, pumpkin seed, sunflower seed and flaxseed.",
+    "Magnesium Glycinate Chelate: Chelated with Glycine for better absorption and bioavailability. Glycinate is easy on the stomach, non-laxative, and enhances the natural calming benefits of magnesium.",
+    "Relax Nerves & Muscles: Magnesium supports healthy muscle and nerve function to help relieve tension and discomfort for healthy physical performance, recovery, and relaxation.",
+    "Supports Calm & Sleep: Magnesium supports the parasympathetic nervous system and helps regulate melatonin and GABA for a healthy stress response, calm mood, and better sleep."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one (1) capsule a day with food and a full glass of water."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Rice flour (brown), hypromellose (vegetarian capsule), rice bran extract.",
+    "Does not contain GMOs, soy, gluten, milk, eggs, fish, shellfish, tree nuts, peanuts, or preservatives."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Caution: Keep out of reach of children. As with any supplement, if you are pregnant, nursing or taking medication, consult your doctor before using this product. Store in a cool, dry place.",
+    "Do not use if safety seal under the lid is broken or missing."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAU-62830"
+  },
+  {
+   "label": "UPC",
+   "value": "628110628305"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.1 x 6.9 x 6.7 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium(from 513 mg Buffered Magnesium Glycinate Chelate Complex [Magnesium Oxide and Magnesium Bisglycinate])",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "Magnesium-Rich Plants BlendOrganic Spinach LeafOrganic Chard LeafOrganic Okra FruitOrganic Quinoa Grain (Chenopodium quinoa)Organic Black Bean (Phaseolus vulgaris)Organic Pumpkin SeedOrganic Sunflower SeedOrganic Flaxseed",
+   "30 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Preservative-free",
+    "Egg-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "120 count",
+   "pid": "97676",
+   "url": "https://th.iherb.com/pr/naturelo-magnesium-glycinate-chelate-complex-120-vegetarian-capsules/97676",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "240 count",
+   "pid": "119574",
+   "url": "https://th.iherb.com/pr/naturelo-magnesium-glycinate-chelate-complex-240-vegetarian-capsules/119574",
+   "price": "฿1,814.21",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿982.34",
+  "฿982.34",
+  "฿8.19/‏serving",
+  "{0}% off code: {1}",
+  "฿982.34",
+  "Save 0% in cart",
+  "฿8.19/‏serving",
+  "฿982.34",
+  "(0% off)",
+  "฿982.34",
+  "฿8.19/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/g/92.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/k/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/g/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nau/nau62830/s/97.jpg"
+ ]
+}

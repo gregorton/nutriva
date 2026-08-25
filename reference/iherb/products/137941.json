@@ -1,0 +1,273 @@
+{
+ "pid": "137941",
+ "slug": "california-gold-nutrition-algae-based-calcium-with-vitamin-d3-and-magn",
+ "scrapedAt": "2026-08-25T17:46:47.200Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-algae-based-calcium-with-vitamin-d3-and-magn.jpg",
+  "/products/iherb/california-gold-nutrition-algae-based-calcium-with-vitamin-d3-and-magn-2.jpg",
+  "/products/iherb/california-gold-nutrition-algae-based-calcium-with-vitamin-d3-and-magn-3.jpg",
+  "/products/iherb/california-gold-nutrition-algae-based-calcium-with-vitamin-d3-and-magn-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-algae-based-calcium-with-vitamin-d3-and-magnesium-organic-strawberry-raspberry-and-blueberry-180-tablets/137941",
+ "pageTitle": "California Gold Nutrition, Algae-Based Calcium with Vitamin D3, and Magnesium, Organic Strawberry, Raspberry, and Blueberry, 180 Tablets",
+ "h1": "California Gold Nutrition, Algae-Based Calcium with Vitamin D3, and Magnesium, Organic Strawberry, Raspberry, and Blueberry, 180 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "137941",
+  "name": "California Gold Nutrition, Algae-Based Calcium with Vitamin D3, and Magnesium, Organic Strawberry, Raspberry, and Blueberry, 180 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/g/28.jpg",
+  "mpn": "SPN-02442",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 243
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.73",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "764.20",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "955.25",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Calcium from Mineralized Icelandic Red Algae Vegan Vitamin D3 Vitamin K2 as MK-7 Organic Fruit & Veggie Complex Citrus Bioflavonoids Formulated Without: Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility California Gold Nutrition ® Algae-Based Calcium contains 1,000 mg of Calcium derived from Icelandic Red Algae. Each serving includes Vitamins D & K2, Magnesium, an Organic Fruit & Veggie Complex, plus Citrus Bioflavonoids. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "SPN-02442",
+  "gtin12": "898220024421",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/g/28.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Calcium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Calcium from Mineralized Icelandic Red Algae",
+    "Vegan Vitamin D3",
+    "Vitamin K2 as MK-7",
+    "Organic Fruit & Veggie Complex",
+    "Citrus Bioflavonoids",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Algae-Based Calcium contains 1,000 mg of Calcium derived from Icelandic Red Algae. Each serving includes Vitamins D & K2, Magnesium, an Organic Fruit & Veggie Complex, plus Citrus Bioflavonoids.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 3 tablets daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.33 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SPN-02442"
+  },
+  {
+   "label": "UPC",
+   "value": "898220024421"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.33 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Tablets"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin D (as D3, cholecalciferol from algae)",
+   "20 mcg",
+   "100%"
+  ],
+  [
+   "Calcium (from Lithothamnion spp.)",
+   "1,000 mg",
+   "77%"
+  ],
+  [
+   "Iron (from Lithothamnion spp.)",
+   "2.5 mg",
+   "14%"
+  ],
+  [
+   "Magnesium (from Lithothamnion spp.)",
+   "77 mg",
+   "18%"
+  ],
+  [
+   "Red Algae, Fruit & Veggie Complex​Mineralized Lithothamnion spp. (Icelandic Red Algae), Organic Strawberry, Organic Raspberry, Organic Blueberry, Organic Tart Cherry, Organic Pomegranate, Organic Cranberry, Organic Broccoli Sprouts, Organic Broccoli, Organic Tomato, Organic Carrot, Organic Spinach, Organic Kale",
+   "3,535 mg",
+   "†"
+  ],
+  [
+   "Citrus Bioflavonoids",
+   "150 mg",
+   "†"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7)",
+   "85 mcg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿955.25",
+  "฿955.25",
+  "฿15.92/‏serving",
+  "{0}% off code: {1}",
+  "฿955.25",
+  "Save 20% in cart",
+  "฿15.92/‏serving",
+  "฿764.20",
+  "(20% off)",
+  "฿955.25",
+  "฿12.74/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/g/28.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/k/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/g/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/s/28.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/spn/spn02442/s/40.jpg"
+ ]
+}

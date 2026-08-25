@@ -1,0 +1,310 @@
+{
+ "pid": "7010",
+ "slug": "airborne-immune-support-supplement-zesty-orange-10-effervescent-tablet",
+ "scrapedAt": "2026-08-25T17:22:56.729Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/airborne-immune-support-supplement-zesty-orange-10-effervescent-tablet.jpg",
+  "/products/iherb/airborne-immune-support-supplement-zesty-orange-10-effervescent-tablet-2.jpg",
+  "/products/iherb/airborne-immune-support-supplement-zesty-orange-10-effervescent-tablet-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-zesty-orange-10-effervescent-tablets/7010",
+ "pageTitle": "AirBorne, Immune Support Supplement, Zesty Orange, 10 Effervescent Tablets",
+ "h1": "AirBorne, Immune Support Supplement, Zesty Orange, 10 Effervescent Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "7010",
+  "name": "AirBorne, Immune Support Supplement, Zesty Orange, 10 Effervescent Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/g/77.jpg",
+  "mpn": "AIB-10001",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 1448
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "AirBorne",
+   "url": "http://airbornehealth.com/",
+   "identifier": "AIB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.14",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "347.13",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural & Artificial Flavor More Immune Support Ingredients‡ 7 Key Nutrients for Immune Support Dietary Supplement 1 Effervescent Tablet = 1,000 mg of Vitamin C Now with 38 mcg (1,500 IU) of Vitamin D Now with 100% Daily Value of Zinc Excellent Source of Vitamin A, Vitamin E, Selenium & Manganese Original Herbal Blend Including Echinacea & Ginger Gluten Free ‡Now includes Vitamin D and more Zinc than our Original formula",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2x2"
+  },
+  "isRelatedTo": null,
+  "sku": "AIB-10001",
+  "gtin12": "647865100010",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/g/77.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Ascorbic Acid"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural & Artificial Flavor",
+    "More Immune Support Ingredients‡",
+    "7 Key Nutrients for Immune Support",
+    "Dietary Supplement",
+    "1,000 mg of Vitamin C",
+    "Now with 38 mcg (1,500 IU) of Vitamin D",
+    "Now with 100% Daily Value of Zinc",
+    "Excellent Source of Vitamin A, Vitamin E, Selenium & Manganese",
+    "Original Herbal Blend Including Echinacea & Ginger",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "1 Effervescent Tablet =",
+    "‡Now includes Vitamin D and more Zinc than our Original formula"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults and Children 9 years of age and older: Drop one (1) tablet in 4-6 oz of water, let dissolve and drink. Not for younger children."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sorbitol, sodium bicarbonate, citric acid, potassium bicarbonate, natural and artificial flavor, polyethylene glycol, silicon dioxide, acesulfame potassium, sucralose, riboflavin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not take if pregnant, breastfeeding, on medication, or with a known medical condition unless you have consulted a physician. Always consult your pediatrician before giving your child dietary supplements.",
+    "Keep out of reach of children.",
+    "Sealed with a tamper evident cap for your protection. Do not use if cap is broken or missing. Store in a cool, dry place Color may darken over time. This does not alter the potency of the product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2007"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AIB-10001"
+  },
+  {
+   "label": "UPC",
+   "value": "647865100010"
+  },
+  {
+   "label": "Package quantity",
+   "value": "10 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.8 x 5.1 x 5.1 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Tablet"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV"
+  ],
+  [
+   "Calories",
+   "5",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%*"
+  ],
+  [
+   "Vitamin A (as retinyl acetate)",
+   "180 mcg",
+   "20%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "1000 mg",
+   "1111%"
+  ],
+  [
+   "Vitamin D (as cholecalciferol)",
+   "38 mcg (1,500 IU)",
+   "190%"
+  ],
+  [
+   "Vitamin E (as dl-alpha tocopheryl acetate)",
+   "3 mg",
+   "20%"
+  ],
+  [
+   "Zinc (as zinc sulfate)",
+   "11 mg",
+   "100%"
+  ],
+  [
+   "Selenium (as selenium amino acid chelate)",
+   "11 mcg",
+   "20%"
+  ],
+  [
+   "Manganese (as manganese gluconate)",
+   "0.46 mg",
+   "20%"
+  ],
+  [
+   "Sodium",
+   "230 mg",
+   "10%"
+  ],
+  [
+   "Potassium",
+   "85 mg",
+   "2%"
+  ],
+  [
+   "Proprietary Herbal BlendLonicera japonica (flower), Forsythia suspensa (fruit), Schizonepeta tenuifolia (aerial), Ginger (Zingiber officinale [root]), Vitex trifolia (fruit), Isatis tinctoria (root), Echinacea purpurea (aerial).",
+   "35.5 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 tablet"
+    },
+    {
+     "label": "Total servings",
+     "value": "10"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "10 count",
+   "pid": "7010",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-zesty-orange-10-effervescent-tablets/7010",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "20 count",
+   "pid": "108082",
+   "url": "https://th.iherb.com/pr/airborne-immune-support-supplement-zesty-orange-2-tubes-10-effervescent-tablets-each/108082",
+   "price": "฿673.92",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "30 count",
+   "pid": "53516",
+   "url": "https://th.iherb.com/pr/airborne-more-complete-immune-support-zesty-orange-3-tubes-10-effervescent-tablets-each/53516",
+   "price": "฿897.03",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿347.13",
+  "฿347.13",
+  "฿34.71/‏serving",
+  "{0}% off code: {1}",
+  "฿347.13",
+  "Save 0% in cart",
+  "฿34.71/‏serving",
+  "฿347.13",
+  "(0% off)",
+  "฿347.13",
+  "฿34.71/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/g/77.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/k/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/g/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/s/78.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/s/76.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/aib/aib10001/b/77.jpg"
+ ]
+}

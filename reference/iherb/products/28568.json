@@ -1,0 +1,237 @@
+{
+ "pid": "28568",
+ "slug": "homeolab-usa-kids-relief-gas-colic-oral-liquid-for-kids-0-9-yrs-raspbe",
+ "scrapedAt": "2026-08-25T17:50:45.602Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/homeolab-usa-kids-relief-gas-colic-oral-liquid-for-kids-0-9-yrs-raspbe.jpg",
+  "/products/iherb/homeolab-usa-kids-relief-gas-colic-oral-liquid-for-kids-0-9-yrs-raspbe-2.jpg",
+  "/products/iherb/homeolab-usa-kids-relief-gas-colic-oral-liquid-for-kids-0-9-yrs-raspbe-3.jpg",
+  "/products/iherb/homeolab-usa-kids-relief-gas-colic-oral-liquid-for-kids-0-9-yrs-raspbe-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/homeolab-usa-kids-relief-gas-colic-oral-liquid-for-kids-0-9-yrs-raspberry-0-85-fl-oz-25-ml/28568",
+ "pageTitle": "Homeolab USA, Kids Relief®, Gas & Colic Oral Liquid, For Kids 0-9 Yrs, Raspberry, 0.85 fl oz (25 ml)",
+ "h1": "Homeolab USA, Kids Relief®, Gas & Colic Oral Liquid, For Kids 0-9 Yrs, Raspberry, 0.85 fl oz (25 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "28568",
+  "name": "Homeolab USA, Kids Relief®, Gas & Colic Oral Liquid, For Kids 0-9 Yrs, Raspberry, 0.85 fl oz (25 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/g/29.jpg",
+  "mpn": "HMB-09065",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 125
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Homeolab USA",
+   "url": "http://www.homeolab.com/",
+   "identifier": "HMB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.12",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "243.12",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "324.16",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Fast-Acting Effective Relief Safe- No Side Effects, No Drug Interaction Gluten Free, Dye Free, Sugar Free Great Tasting Raspberry Flavor Free Dropper Homeopathic Medicine Safe, Effective Relief Trusted by Mothers Helps: Relieve colic and gas pain Calm nausea Reduce burping Relieve agitation and irritability Uses: This homeopathic medicine is made from a combination of ingredients traditionally used to help relieve symptoms associated with colic*: Bloating Intestinal gas Nausea Abdominal pain Burping *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x1.45"
+  },
+  "isRelatedTo": null,
+  "sku": "HMB-09065",
+  "gtin12": "778159090653",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/g/29.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Homeopathy"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Fast-Acting Effective Relief",
+    "Safe- No Side Effects, No Drug Interaction",
+    "Gluten Free, Dye Free, Sugar Free",
+    "Great Tasting Raspberry Flavor",
+    "Free Dropper",
+    "Homeopathic Medicine",
+    "Safe, Effective Relief",
+    "Trusted by Mothers",
+    "Relieve colic and gas pain",
+    "Calm nausea",
+    "Reduce burping",
+    "Relieve agitation and irritability",
+    "Bloating",
+    "Intestinal gas",
+    "Nausea",
+    "Abdominal pain",
+    "Burping"
+   ],
+   "paragraphs": [
+    "Helps:",
+    "Uses: This homeopathic medicine is made from a combination of ingredients traditionally used to help relieve symptoms associated with colic*:",
+    "*Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Children under 6 months of age: Consult a licensed healthcare practitioner before using this product.",
+    "Children 6 months to 2 years old: 0.5 ml orally every 8 hours or 3 times a day",
+    "Children 2 to 9 years old: 0.75 ml orally every 8 hour or 3 times a day",
+    "Retain Carton For Complete Instructions"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Active Ingredients HPUS: \tPurpose",
+    "Colocynthis 6X (Bitter apple)\tabdominal bloating, colic and nausea",
+    "Magnesia phosphorica 6X (Magnesium hydrogen phosphate)\tabdominal cramps",
+    "Chamomilla 6X (German chamomile)\tnausea, agitation and irritability",
+    "Dioscorea villosa 6X (Wild yam)\tintestinal gas, burping and colic-like pain",
+    "The letter 'HPUS' indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States.",
+    "Inactive Ingredients: Purified water, sorbitol, raspberry and grape flavor, sodium benzoate, potassium sorbate, citric acid."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do use if seal is broken or missing.",
+    "Stop use and ask a doctor in cases of high fever or if symptoms worsen or persist for more than 2 days.",
+    "Keep out of reach of children.",
+    "Store at room temperature."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.06 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "HMB-09065"
+  },
+  {
+   "label": "UPC",
+   "value": "778159090653"
+  },
+  {
+   "label": "Package quantity",
+   "value": "25 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.2 x 6.4 x 3.7 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "25 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿324.16",
+  "฿324.16",
+  "฿12.97/‏ml",
+  "{0}% off code: {1}",
+  "฿324.16",
+  "Save 25% in cart",
+  "฿12.97/‏ml",
+  "฿243.12",
+  "(25% off)",
+  "฿324.16",
+  "฿9.72/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/g/29.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/k/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/g/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/s/33.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/s/41.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hmb/hmb09065/s/42.jpg"
+ ]
+}

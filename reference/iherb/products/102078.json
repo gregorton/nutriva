@@ -1,0 +1,268 @@
+{
+ "pid": "102078",
+ "slug": "california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl",
+ "scrapedAt": "2026-08-25T17:13:21.412Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "2K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl-2.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl-3.jpg",
+  "/products/iherb/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unfl-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unflavored-7-05-oz-200-g/102078",
+ "pageTitle": "California Gold Nutrition, Hydrolyzed Collagen Peptides, Type I & III, Unflavored, 7.05 oz (200 g)",
+ "h1": "California Gold Nutrition, Hydrolyzed Collagen Peptides, Type I & III, Unflavored, 7.05 oz (200 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102078",
+  "name": "California Gold Nutrition, Hydrolyzed Collagen Peptides, Type I & III, Unflavored, 7.05 oz (200 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/g/243.jpg",
+  "mpn": "LKN-01872",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 17691
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.48",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "311.35",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Unflavored Supplement Powder Collagen from Bovine Sources Contains bovine-derived ingredients California Gold Nutrition® Hydrolyzed Collagen Peptides contains type I and type III collagen, which can help support healthy hair, skin, nails, and joints.* Simply add the unflavored powder to the drink of your choice for an added boost of collagen. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.35x3.35"
+  },
+  "isRelatedTo": null,
+  "sku": "LKN-01872",
+  "gtin12": "898220018727",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/g/243.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Unflavored Supplement Powder",
+    "Collagen from Bovine Sources",
+    "Contains bovine-derived ingredients"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Hydrolyzed Collagen Peptides contains type I and type III collagen, which can help support healthy hair, skin, nails, and joints.* Simply add the unflavored powder to the drink of your choice for an added boost of collagen.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 2 scoops daily with 6-12 ounces of water or the beverage of your choice. Best when taken as directed by a qualified healthcare professional.",
+    "Note: 10 grams per 2 scoops is an average. Individual scooping technique may yield slightly less than or slightly more than 10 grams.",
+    "Collagen peptides may clump in cold liquids, so it is recommended to mix into room temperature, warm, or hot liquids and then add ice if a cold beverage is your preference.",
+    "Our Collagen Peptides can be added to hot coffee or tea, juice, water, soup, oatmeal, yogurts, and smoothies."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LKN-01872"
+  },
+  {
+   "label": "UPC",
+   "value": "898220018727"
+  },
+  {
+   "label": "Package quantity",
+   "value": "200 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.4 x 11 x 8.5 cm, 0.22 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Scoops (10 g)"
+  ],
+  [
+   "Servings Per Container: 20"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "35",
+   ""
+  ],
+  [
+   "Protein",
+   "9 g",
+   ""
+  ],
+  [
+   "Sodium",
+   "60 mg",
+   "2%"
+  ],
+  [
+   "Hydrolyzed Bovine Collagen",
+   "10 g",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "20"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "200 g",
+   "pid": "102078",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unflavored-7-05-oz-200-g/102078",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "460 g",
+   "pid": "101718",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-hydrolyzed-collagen-peptides-type-i-iii-unflavored-1-01-lb-460-g/101718",
+   "price": "฿687.65",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#17 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "2,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿311.35",
+  "฿311.35",
+  "฿15.57/‏serving",
+  "{0}% off code: {1}",
+  "฿311.35",
+  "Save 0% in cart",
+  "฿15.57/‏serving",
+  "฿311.35",
+  "(0% off)",
+  "฿311.35",
+  "฿15.57/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/g/243.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/k/243.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/g/243.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/s/243.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/s/244.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/s/245.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/s/189.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lkn/lkn01872/s/153.jpg"
+ ]
+}

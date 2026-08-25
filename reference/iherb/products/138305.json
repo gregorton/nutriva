@@ -1,0 +1,320 @@
+{
+ "pid": "138305",
+ "slug": "maryruth-s-men-s-multivitamin-gummies-papaya-orange-60-gummies",
+ "scrapedAt": "2026-08-25T17:31:23.158Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/maryruth-s-men-s-multivitamin-gummies-papaya-orange-60-gummies.jpg",
+  "/products/iherb/maryruth-s-men-s-multivitamin-gummies-papaya-orange-60-gummies-2.jpg",
+  "/products/iherb/maryruth-s-men-s-multivitamin-gummies-papaya-orange-60-gummies-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/maryruth-s-men-s-multivitamin-gummies-papaya-orange-60-gummies/138305",
+ "pageTitle": "MaryRuth's, Men's Multivitamin Gummies, Papaya Orange, 60 Gummies",
+ "h1": "MaryRuth's, Men's Multivitamin Gummies, Papaya Orange, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "138305",
+  "name": "MaryRuth's, Men's Multivitamin Gummies, Papaya Orange, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/g/26.jpg",
+  "mpn": "MRO-39238",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 65
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "MaryRuth's",
+   "url": "https://www.maryruthorganics.com/",
+   "identifier": "MRO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "576.15",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Vegan Pectin Based Gluten Free No Gelatin Flavored With Other Natural Flavors Dietary Supplement Sugar Free Start your day with nutrients that support immunity, energy metabolism, bone health, and more — all in a delicious multivitamin made for men! Formulated with key vitamins and minerals, these vegan multivitamin gummies are made to support men’s overall wellness in just 2 gummies per day. Each serving provides essential nutrients, including vitamins A, D, E, B vitamins, zinc, and more — all in an easy-to-take chewable format, perfect for on-the-go use.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.55x2.55"
+  },
+  "isRelatedTo": null,
+  "sku": "MRO-39238",
+  "gtin12": "850029392385",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/g/26.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Men's Health",
+  "Men's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Vegan",
+    "Pectin Based",
+    "Gluten Free",
+    "No Gelatin",
+    "Flavored With Other Natural Flavors",
+    "Dietary Supplement",
+    "Sugar Free"
+   ],
+   "paragraphs": [
+    "Start your day with nutrients that support immunity, energy metabolism, bone health, and more — all in a delicious multivitamin made for men! Formulated with key vitamins and minerals, these vegan multivitamin gummies are made to support men’s overall wellness in just 2 gummies per day. Each serving provides essential nutrients, including vitamins A, D, E, B vitamins, zinc, and more — all in an easy-to-take chewable format, perfect for on-the-go use."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults ages 14+, take 2 gummies daily or as recommended by a physician or healthcare professional. Best taken with food. Do not exceed the recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Isomalto-oligosaccharide^, soluble tapioca fiber, purified water, xylitol, organic erythritol, pectin, less than 2% of: citric acid, natural flavors, sodium citrate, vegetable juice color, annatto extract color, and organic rebaudioside a.",
+    "This product is made without: Gelatin, peanuts, tree nuts, fish, shellfish, gluten, milk, eggs, soy, and sesame.",
+    "^ Adds a dietarily insignificant amount of sugar",
+    "All ingredients are vegan."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "We genuinely care about all our customers. Please consult with a physician or healthcare professional before starting any health supplement, especially if pregnant or lactating, taking medication, or if you have a medical diagnosis. Discontinue use if any negative reaction occurs.",
+    "Xylitol is harmful to pets. Seek immediate veterinary care if you suspect ingestion has occurred."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.18 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MRO-39238"
+  },
+  {
+   "label": "UPC",
+   "value": "850029392385"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13 x 6.5 x 6.5 cm, 0.18 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV for 14+ Years"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%*"
+  ],
+  [
+   "Dietary Fiber",
+   "1 g",
+   "4%*"
+  ],
+  [
+   "Sugar Alcohol",
+   "<1 g",
+   "†"
+  ],
+  [
+   "Vitamins A (as Retinyl Palmitate)",
+   "1,050 mcg",
+   "116%"
+  ],
+  [
+   "Vitamin C (Ascorbic Acid)",
+   "26 mg",
+   "29%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "20 mcg (800 IU)",
+   "100%"
+  ],
+  [
+   "Vitamin E (as d-Alpha Tocopherol Acetate)",
+   "9.8 mg",
+   "65%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine Hydrochloride)",
+   "1.38 mg",
+   "81%"
+  ],
+  [
+   "Folate (as Calcium L-5-Methyltetrahydrofolate)",
+   "345 mcg DFE",
+   "87%"
+  ],
+  [
+   "Vitamin B12 (as Methylcobalamin)",
+   "6.8 mcg",
+   "283%"
+  ],
+  [
+   "Biotin (as D-Biotin)",
+   "80 mcg",
+   "267%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D-Pantothenate)",
+   "6.8 mg",
+   "136%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "56 mcg",
+   "37%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "3.6 mg",
+   "33%"
+  ],
+  [
+   "Sodium",
+   "15 mg",
+   "<1%"
+  ],
+  [
+   "Organic Fruit BlendPapaya Fruit, Strawberry Fruit, Raspberry Fruit, Blueberry Fruit, Tart Cherry Fruit, Pomegranate Fruit, Cranberry Fruit",
+   "25 mg",
+   "†"
+  ],
+  [
+   "Inositol",
+   "52 mcg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values (DV) are based on a 2,000 calorie diet.†Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "†Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free",
+    "Sugar-free",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿576.15",
+  "฿576.15",
+  "฿19.21/‏serving",
+  "{0}% off code: {1}",
+  "฿576.15",
+  "Save 0% in cart",
+  "฿19.21/‏serving",
+  "฿576.15",
+  "(0% off)",
+  "฿576.15",
+  "฿19.21/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/g/26.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/k/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/g/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mro/mro39238/s/16.jpg"
+ ]
+}

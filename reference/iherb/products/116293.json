@@ -1,0 +1,248 @@
+{
+ "pid": "116293",
+ "slug": "swanson-vitamins-omega-3-fish-oil-lemon-150-softgels",
+ "scrapedAt": "2026-08-25T17:20:07.937Z",
+ "discovery": {
+  "category": "omega",
+  "foundVia": "fish oil omega 3",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/swanson-vitamins-omega-3-fish-oil-lemon-150-softgels.jpg",
+  "/products/iherb/swanson-vitamins-omega-3-fish-oil-lemon-150-softgels-2.jpg",
+  "/products/iherb/swanson-vitamins-omega-3-fish-oil-lemon-150-softgels-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/swanson-vitamins-omega-3-fish-oil-lemon-150-softgels/116293",
+ "pageTitle": "Swanson Vitamins, Omega-3 Fish Oil, Lemon, 150 Softgels",
+ "h1": "Swanson Vitamins, Omega-3 Fish Oil, Lemon, 150 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "116293",
+  "name": "Swanson Vitamins, Omega-3 Fish Oil, Lemon, 150 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/g/32.jpg",
+  "mpn": "SWV-11253",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 598
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Swanson Vitamins",
+   "url": "https://www.swansonvitamins.com/",
+   "identifier": "SWV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.67",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "644.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Heart and Brain Health Dietary Supplement Supports Healthy Cardiovascular Function Omega-3 Fatty Acids Are Integral Parts of Cell Membranes High Quality, Low TOTOX Value Science-Backed Quality Since 1969 Fish is commonly recommended as part of a heart-healthy diet thanks to its many benefits. But if fish isn’t routinely on your plate, a supplement can help fill this gap. Swanson Omega-3 Fish Oil softgels deliver 180 mg EPA and 120 mg DHA per serving with a fresh lemon flavor.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "SWV-11253",
+  "gtin12": "087614112534",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega-3 Fish Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Heart and Brain Health",
+    "Dietary Supplement",
+    "Supports Healthy Cardiovascular Function",
+    "Omega-3 Fatty Acids Are Integral Parts of Cell Membranes",
+    "High Quality, Low TOTOX Value",
+    "Science-Backed Quality Since 1969"
+   ],
+   "paragraphs": [
+    "Fish is commonly recommended as part of a heart-healthy diet thanks to its many benefits. But if fish isn’t routinely on your plate, a supplement can help fill this gap. Swanson Omega-3 Fish Oil softgels deliver 180 mg EPA and 120 mg DHA per serving with a fresh lemon flavor."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take one softgel two times per day with water, during meals."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Softgel (gelatin, glycerin, purified water), natural lemon oil, mixed tocopherols (vitamin e).",
+    "Contains fish (anchovy)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult your healthcare provider before using this or any product if you are pregnant or nursing, taking medication, especially blood-thinning medication, or have a medical condition.",
+    "Keep out of reach of children. Do not use if seal is broken. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.3 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SWV-11253"
+  },
+  {
+   "label": "UPC",
+   "value": "087614112534"
+  },
+  {
+   "label": "Package quantity",
+   "value": "150 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.1 x 7.2 x 7.1 cm, 0.3 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Cholesterol",
+   "5 mg",
+   "2%"
+  ],
+  [
+   "Omega-3 Fish Oil 18/12(anchovy)",
+   "1 g",
+   "*"
+  ],
+  [
+   "EPA (eicosapentaenoic acid)",
+   "180 mg",
+   "*"
+  ],
+  [
+   "DHA (docosahexaenoic acid)",
+   "120 mg",
+   "*"
+  ],
+  [
+   "Percent Daily Values are based on a 2,000 calorie diet.*Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "Percent Daily Values are based on a 2,000 calorie diet.",
+  "*Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "150"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿644.91",
+  "฿644.91",
+  "฿4.30/‏serving",
+  "{0}% off code: {1}",
+  "฿644.91",
+  "Save 0% in cart",
+  "฿4.30/‏serving",
+  "฿644.91",
+  "(0% off)",
+  "฿644.91",
+  "฿4.30/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/swv/swv11253/s/40.jpg"
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "pid": "83280",
+ "slug": "california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veg",
+ "scrapedAt": "2026-08-25T17:08:50.859Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "California Gold Nutrition",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veg.jpg",
+  "/products/iherb/california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veg-2.jpg",
+  "/products/iherb/california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veg-3.jpg",
+  "/products/iherb/california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veg-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veggie-capsules/83280",
+ "pageTitle": "California Gold Nutrition, L-Theanine, Featuring AlphaWave®, 200 mg, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, L-Theanine, Featuring AlphaWave®, 200 mg, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "83280",
+  "name": "California Gold Nutrition, L-Theanine, Featuring AlphaWave®, 200 mg, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/g/171.jpg",
+  "mpn": "CGN-01242",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 17226
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "343.69",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "C alifornia Gold Nutrition ® L-Theanine, 60 Veggie Capsules Featuring 200 mg AlphaWave® L-Theanine per capsule Supports Focus, Relaxation, and the Body’s Response to Stress* Suitable for Vegetarians Formulated without: Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee 60-Day Supply California Gold Nutrition ® L-Theanine Veggie Capsules features AlphaWave® L-Theanine. Each veggie capsule delivers a 200 mg serving of this amino acid. Formulated without gluten, GMOs or soy, it’s an ideal addition to your nutrient routine any time of day. Benefits This patented AlphaWave® L-Theanine supports relaxation without causing drowsiness.* When the business of the day begins, L-Theanine supports focus and the body’s response to stress.* With 60 veggie capsules per bottle, it offers a solution for achieving non-sedative relaxation and focus* whenever you want it. *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Third-Party Tested Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01242",
+  "gtin12": "898220012428",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/g/171.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Amino Acids",
+  "L-Theanine"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition® L-Theanine, 60 Veggie Capsules",
+    "Featuring 200 mg AlphaWave® L-Theanine per capsule",
+    "Supports Focus, Relaxation, and the Body’s Response to Stress*",
+    "Suitable for Vegetarians",
+    "Formulated without: Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee",
+    "60-Day Supply"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® L-Theanine Veggie Capsules features AlphaWave® L-Theanine. Each veggie capsule delivers a 200 mg serving of this amino acid. Formulated without gluten, GMOs or soy, it’s an ideal addition to your nutrient routine any time of day.",
+    "Benefits",
+    "This patented AlphaWave® L-Theanine supports relaxation without causing drowsiness.* When the business of the day begins, L-Theanine supports focus and the body’s response to stress.* With 60 veggie capsules per bottle, it offers a solution for achieving non-sedative relaxation and focus* whenever you want it.",
+    "Third-Party Tested",
+    "Our products undergo quality testing where they are evaluated by an independent ISO-certified lab using scientifically-validated test methods to ensure authenticity, purity, and potency of ingredients. For added transparency, we make the results available to you in our iTested Verified Reports so you can see for yourself.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01242"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012428"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9 x 5 x 5 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "L-Theanine",
+   "200 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "83284",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-l-theanine-featuring-alphawave-100-mg-30-veggie-capsules/83284",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "83280",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-l-theanine-featuring-alphawave-200-mg-60-veggie-capsules/83280",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Amino Acids",
+   "href": "/c/amino-acids?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "L-Theanine",
+   "href": "/c/l-theanine?sr=2"
+  },
+  {
+   "rank": "#12 in",
+   "category": "Brain & Cognitive",
+   "href": "/c/brain-cognitive?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿343.69",
+  "฿343.69",
+  "฿5.73/‏serving",
+  "{0}% off code: {1}",
+  "฿343.69",
+  "Save 0% in cart",
+  "฿5.73/‏serving",
+  "฿343.69",
+  "(0% off)",
+  "฿343.69",
+  "฿5.73/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/g/171.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/k/171.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/g/171.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/s/171.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/s/176.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/s/179.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01242/s/183.jpg"
+ ]
+}

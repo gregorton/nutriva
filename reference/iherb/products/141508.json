@@ -1,0 +1,339 @@
+{
+ "pid": "141508",
+ "slug": "levels-grass-fed-whey-protein-powder-pure-chocolate-2-lb-907-g",
+ "scrapedAt": "2026-08-25T17:23:56.023Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/levels-grass-fed-whey-protein-powder-pure-chocolate-2-lb-907-g.jpg",
+  "/products/iherb/levels-grass-fed-whey-protein-powder-pure-chocolate-2-lb-907-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-pure-chocolate-2-lb-907-g/141508",
+ "pageTitle": "Levels, Grass Fed Whey Protein Powder, Pure Chocolate , 2 lb (907 g)",
+ "h1": "Levels, Grass Fed Whey Protein Powder, Pure Chocolate , 2 lb (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "141508",
+  "name": "Levels, Grass Fed Whey Protein Powder, Pure Chocolate , 2 lb (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/g/24.jpg",
+  "mpn": "LVL-00700",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 88
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Levels",
+   "url": "https://levelsprotein.com/",
+   "identifier": "LVL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2551.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "24 g Protein 5.4 g BCAAs Minimal Ingredient Protein That Helps Build Lean Muscle‡ Zero Artificials Only 6 Ingredients Clean Label Project® Purity Award Nothing Fake. Ever® Quality milk tastes better, way better. That's why we choose grass-fed and hormone-free dairy^ to make our whey protein concentrate. Whey concentrate is one of the least processed forms of whey. Which means it's loaded with high-quality complete protein and it contains all nine essential amino acids. Plus, every batch of Levels® Whey is cold-process microfiltered for that effortless mixing you expect. You'll find no deception here, either. That means no soy, no gluten, and no artificial flavors or sweeteners. Levels® was built because the protein aisle was stuck in the past. What existed was a hellscape of products loaded with artificial sweeteners, imitation flavors, and bogus fillers. We ditched the played out model that was used for years and reimagined protein with purposeful nutrition and minimal ingredients. Trusted by athletes, gym rats, and daily grinders everywhere, our products are crafted for everyone's lifestyle. Our Standard We never use any artificial sweeteners or bogus fillers. GMP Certified This product is produced using good manufacturing practices. ‡When taken over time with regular resistance training. ^No significant difference has been shown between dairy derived from rbst-treated and non-rbst treated cows.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.95x5.95"
+  },
+  "isRelatedTo": null,
+  "sku": "LVL-00700",
+  "gtin12": "857965007007",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "24 g Protein",
+    "5.4 g BCAAs",
+    "Minimal Ingredient Protein That Helps Build Lean Muscle‡",
+    "Zero Artificials",
+    "Only 6 Ingredients",
+    "Clean Label Project® Purity Award"
+   ],
+   "paragraphs": [
+    "Nothing Fake. Ever®",
+    "Quality milk tastes better, way better. That's why we choose grass-fed and hormone-free dairy^ to make our whey protein concentrate. Whey concentrate is one of the least processed forms of whey. Which means it's loaded with high-quality complete protein and it contains all nine essential amino acids. Plus, every batch of Levels® Whey is cold-process microfiltered for that effortless mixing you expect. You'll find no deception here, either. That means no soy, no gluten, and no artificial flavors or sweeteners.",
+    "Levels® was built because the protein aisle was stuck in the past. What existed was a hellscape of products loaded with artificial sweeteners, imitation flavors, and bogus fillers. We ditched the played out model that was used for years and reimagined protein with purposeful nutrition and minimal ingredients. Trusted by athletes, gym rats, and daily grinders everywhere, our products are crafted for everyone's lifestyle.",
+    "Our Standard",
+    "We never use any artificial sweeteners or bogus fillers.",
+    "GMP Certified",
+    "This product is produced using good manufacturing practices.",
+    "‡When taken over time with regular resistance training.",
+    "^No significant difference has been shown between dairy derived from rbst-treated and non-rbst treated cows."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Use a shaker bottle or blender when mixing. Add 1 scoop of Levels Whey to 8 ounces of water, milk or your favorite beverage. Shake or blend for 15-30 seconds. Take your protein to the next level and use it in your oats, ice cream or favorite baked goods."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Whey protein concentrate, cocoa powder, sunflower lecithin, sea salt, stevia leaf extract, monk fruit extract.",
+    "Contains: Milk.",
+    "This product contains ingredients of international and domestic origin."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "Store in a cool, dry place.",
+    "Contents sold by weight not volume. Some settling may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LVL-00700"
+  },
+  {
+   "label": "UPC",
+   "value": "857965007007"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.4 x 15.1 x 15.1 cm, 1.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (32 g)"
+  ],
+  [
+   "Servings Per Container: About 28"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value†"
+  ],
+  [
+   "Calories",
+   "130",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2.5 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "1.5 g",
+   "8%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "75 mg",
+   "25%"
+  ],
+  [
+   "Sodium",
+   "125 mg",
+   "5%"
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "24 g",
+   "48%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "0.7 mg",
+   "4%"
+  ],
+  [
+   "Potassium",
+   "190 mg",
+   "4%"
+  ],
+  [
+   "†The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value†",
+  "†The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.",
+  "**Isoleucine\t1430 mg",
+  "**Leucine\t2490 mg",
+  "**Valine\t1440 mg",
+  "**Branched Chain Amino Acids (BCAAs)"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "28"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "907 g",
+   "pid": "141508",
+   "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-pure-chocolate-2-lb-907-g/141508",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "2270 g",
+   "pid": "141518",
+   "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-cappuccino-5-lb-2-27-kg/141518",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "2267 g",
+   "pid": "141517",
+   "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-pure-chocolate-5lb-2-27-kg/141517",
+   "price": "฿5,909.37",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿2,551.12",
+  "฿2,551.12",
+  "฿91.11/‏serving",
+  "{0}% off code: {1}",
+  "฿2,551.12",
+  "Save 0% in cart",
+  "฿91.11/‏serving",
+  "฿2,551.12",
+  "(0% off)",
+  "฿2,551.12",
+  "฿91.11/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/s/29.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00700/b/24.jpg"
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "pid": "104062",
+ "slug": "codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g",
+ "scrapedAt": "2026-08-25T17:24:08.369Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "4K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g.jpg",
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g-2.jpg",
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g-3.jpg",
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g/104062",
+ "pageTitle": "Codeage, Multi Collagen Peptides Powder, Unflavored, 20 oz (567 g)",
+ "h1": "Codeage, Multi Collagen Peptides Powder, Unflavored, 20 oz (567 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "104062",
+  "name": "Codeage, Multi Collagen Peptides Powder, Unflavored, 20 oz (567 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/g/81.jpg",
+  "mpn": "AGE-00802",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 6582
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Codeage",
+   "url": "https://www.codeage.com/",
+   "identifier": "AGE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.51",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1366.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "5 Types I, II, III, V, X 18 Amino Acids Beyond Vitamins ® Dietary Supplement 5 Types Collagen Pasture Raised Grass-Fed Non GMO Soy Free Dairy Free Gluten Free cGMP Certified Manufacturing Feel Different Contents Certified NSF® All-in-one premium multi collagen supplement powder providing 5 collagen types (1, 2, 3, 5, and 10) from 5 high-quality food sources of collagen peptides - grass-fed hydrolyzed bovine collagen, organic chicken bone broth, organic beef bone broth, hydrolyzed wild-caught white fish, and eggshell collagens.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.9x4.9"
+  },
+  "isRelatedTo": null,
+  "sku": "AGE-00802",
+  "gtin12": "853919008021",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/g/81.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "5 Types I, II, III, V, X",
+    "18 Amino Acids",
+    "Beyond Vitamins®",
+    "Dietary Supplement",
+    "5 Types Collagen",
+    "Pasture Raised",
+    "Grass-Fed",
+    "Non GMO",
+    "Soy Free",
+    "Dairy Free",
+    "Gluten Free",
+    "cGMP Certified Manufacturing",
+    "Feel Different",
+    "Contents Certified NSF®"
+   ],
+   "paragraphs": [
+    "All-in-one premium multi collagen supplement powder providing 5 collagen types (1, 2, 3, 5, and 10) from 5 high-quality food sources of collagen peptides - grass-fed hydrolyzed bovine collagen, organic chicken bone broth, organic beef bone broth, hydrolyzed wild-caught white fish, and eggshell collagens."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults mix 1 scoop daily, or as recommended by your healthcare practitioner, with 8-12 ounces of water or your favorite beverage. Do not exceed the recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Contains: Fish (cod, snapper), egg.",
+    "Allergen warning: Fish (cod, snapper), egg.",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not a significant source of protein. Collagen protein does not count toward the FDA recommended Percent Daily Value for protein because it lacks one essential amino acid: tryptophan.",
+    "If you are pregnant, nursing, allergic, have a medical condition, or are taking any medications, consult a doctor before using this or any other dietary supplement.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction.",
+    "Color and odor may vary from lot to lot.",
+    "Packaged by weight, not volume. Settling may occur. Store in a cool, dry place. Do not use if product has been opened or tampered with in any way. Keep out of reach of children and pets."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.68 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AGE-00802"
+  },
+  {
+   "label": "UPC",
+   "value": "853919008021"
+  },
+  {
+   "label": "Package quantity",
+   "value": "567 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.1 x 12.4 x 12.4 cm, 0.68 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (Approx. 9 g)"
+  ],
+  [
+   "Serving Per Container: 63"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV*"
+  ],
+  [
+   "Calories",
+   "43",
+   ""
+  ],
+  [
+   "Sodium",
+   "50 mg",
+   "2%"
+  ],
+  [
+   "Protein",
+   "9 g",
+   ""
+  ],
+  [
+   "Multi-Collagen ComplexGrass-Fed Hydrolyzed Bovine Collagen Peptides (BSE-free), Organic Chicken Bone Broth, Organic Beef Bone Broth (BSE-free), Wild-Caught Hydrolyzed Fish Collagen Peptides (Cod, Snapper), Egg Shell Membrane Collagen",
+   "9,000 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established.",
+  "**Essential Amino Acids."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "63"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP",
+    "NSF"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "300 g",
+   "pid": "121631",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g/121631",
+   "price": "฿1,220.81",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "408 g",
+   "pid": "104060",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-chocolate-mocha-14-39-oz-408-g/104060",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "515 g",
+   "pid": "117496",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-chocolate-18-17-oz-515-g/117496",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "567 g",
+   "pid": "104062",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g/104062",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#9 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  },
+  {
+   "rank": "#23 in",
+   "category": "Hair, Skin & Nails",
+   "href": "/c/hair-skin-nails?sr=2"
+  },
+  {
+   "rank": "#24 in",
+   "category": "Bone, Joint & Cartilage",
+   "href": "/c/bone-joint-cartilage?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "4,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,366.75",
+  "฿1,366.75",
+  "฿21.69/‏serving",
+  "{0}% off code: {1}",
+  "฿1,366.75",
+  "Save 0% in cart",
+  "฿21.69/‏serving",
+  "฿1,366.75",
+  "(0% off)",
+  "฿1,366.75",
+  "฿21.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/g/81.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/k/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/g/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/81.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/96.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/66.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/67.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/68.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/69.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/70.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age00802/b/81.jpg"
+ ]
+}

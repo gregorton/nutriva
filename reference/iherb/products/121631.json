@@ -1,0 +1,350 @@
+{
+ "pid": "121631",
+ "slug": "codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g",
+ "scrapedAt": "2026-08-25T17:34:06.578Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "500+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g.jpg",
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g-2.jpg",
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g-3.jpg",
+  "/products/iherb/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g/121631",
+ "pageTitle": "Codeage, Multi Collagen Peptides Powder, Unflavored, 10.58 oz (300 g)",
+ "h1": "Codeage, Multi Collagen Peptides Powder, Unflavored, 10.58 oz (300 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "121631",
+  "name": "Codeage, Multi Collagen Peptides Powder, Unflavored, 10.58 oz (300 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/g/40.jpg",
+  "mpn": "AGE-12162",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 6582
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Codeage",
+   "url": "https://www.codeage.com/",
+   "identifier": "AGE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.82",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1220.81",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "5 Types I, II, III, V & X Vitamin C Hyaluronic Acid Probiotics Beyond Vitamins® Dietary Supplement Pasture-Raised Grass-Fed Hyaluronic Acid Vitamin C Probiotics Non-GMO Soy Free Dairy Free Gluten Free cGMP-Certified Manufacturing Feel Different Codeage Multi Collagen Peptides + Probiotics is an advanced multi-collagen supplement in a powder format, featuring 5 types of collagen sourced from 5 different food sources, along with vitamin C, probiotics, and hyaluronic acid—all in one. Codeage Multi Collagen Peptides + Probiotics powder combines 5 types of collagen (I, II, III, V, & X) from hydrolyzed bovine collagen, organic chicken and beef bone broths, hydrolyzed fish collagen, and eggshell membrane collagen. Enhanced with probiotics, this collagen supplement formula includes vitamin C and hyaluronic acid. Not a significant source of protein. Collagen protein does not count toward the FDA recommended Percent Daily Value for protein because it lacks one essential amino acid: tryptophan.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.7x3.65"
+  },
+  "isRelatedTo": null,
+  "sku": "AGE-12162",
+  "gtin12": "850026121629",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/g/40.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "5 Types I, II, III, V & X",
+    "Vitamin C",
+    "Hyaluronic Acid",
+    "Probiotics",
+    "Beyond Vitamins®",
+    "Dietary Supplement",
+    "Pasture-Raised",
+    "Grass-Fed",
+    "Hyaluronic Acid",
+    "Vitamin C",
+    "Probiotics",
+    "Non-GMO",
+    "Soy Free",
+    "Dairy Free",
+    "Gluten Free",
+    "cGMP-Certified Manufacturing",
+    "Feel Different",
+    "Codeage Multi Collagen Peptides + Probiotics powder combines 5 types of collagen (I, II, III, V, & X) from hydrolyzed bovine collagen, organic chicken and beef bone broths, hydrolyzed fish collagen, and eggshell membrane collagen.",
+    "Enhanced with probiotics, this collagen supplement formula includes vitamin C and hyaluronic acid."
+   ],
+   "paragraphs": [
+    "Codeage Multi Collagen Peptides + Probiotics is an advanced multi-collagen supplement in a powder format, featuring 5 types of collagen sourced from 5 different food sources, along with vitamin C, probiotics, and hyaluronic acid—all in one.",
+    "Not a significant source of protein. Collagen protein does not count toward the FDA recommended Percent Daily Value for protein because it lacks one essential amino acid: tryptophan."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults mix 1 scoop daily, or as recommended by your healthcare practitioner, with 8-12 ounces of water or your favorite beverage. Do not exceed the recommended dose."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Contains: fish (cod, snapper), egg.",
+    "Allergen warning: Fish (cod, snapper), egg.",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, allergic, have a medical condition, or are taking any medications, consult a doctor before using this or any other dietary supplement. Not intended for those under the age of 18.",
+    "Notice: Use this product as a food supplement only. Do not use for weight reduction. Color and odor may vary from lot to lot.",
+    "Packaged by weight, not volume. Settling may occur. Store in a cool, dry place. Do not use if product has been opened or tampered with in any way.",
+    "Keep out of reach of children and pets."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.37 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AGE-12162"
+  },
+  {
+   "label": "UPC",
+   "value": "850026121629"
+  },
+  {
+   "label": "Package quantity",
+   "value": "300 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.6 x 9.4 x 9.3 cm, 0.37 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (Approx. 10 g)"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "",
+   "%DV‡",
+   ""
+  ],
+  [
+   "Calories",
+   "40",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Protein",
+   "9 g",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Sodium",
+   "50 mg",
+   "",
+   "2%",
+   ""
+  ],
+  [
+   "",
+   "1 Scoop",
+   "2 Scoops"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "90 mg",
+   "100%",
+   "180 mg",
+   "200%"
+  ],
+  [
+   "Multi-Collagen ComplexGrass-Fed Hydrolyzed Bovine Collagen Peptides (BSE-free), Organic Chicken Bone Broth, Organic Beef Bone Broth (BSE-free), Wild Caught Hydrolyzed Fish Collagen Peptides (Cod, Snapper), Egg Shell Membrane Collagen",
+   "10 g",
+   "**",
+   "20 g",
+   "**"
+  ],
+  [
+   "Hyaluronic Acid",
+   "80 mg",
+   "**",
+   "160 mg",
+   "**"
+  ],
+  [
+   "B. coagulans (2 Billion CFU)",
+   "46.5 mg",
+   "**",
+   "93 mg",
+   "**"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "%Daily Value*",
+  "%Daily Value*",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established.",
+  "**Essential Amino Acids"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "300 g",
+   "pid": "121631",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-unflavored-10-58-oz-300-g/121631",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "408 g",
+   "pid": "104060",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-chocolate-mocha-14-39-oz-408-g/104060",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "515 g",
+   "pid": "117496",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-chocolate-18-17-oz-515-g/117496",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "567 g",
+   "pid": "104062",
+   "url": "https://th.iherb.com/pr/codeage-multi-collagen-peptides-powder-unflavored-20-oz-567-g/104062",
+   "price": "฿1,366.75",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,220.81",
+  "฿1,220.81",
+  "฿40.69/‏serving",
+  "{0}% off code: {1}",
+  "฿1,220.81",
+  "Save 0% in cart",
+  "฿40.69/‏serving",
+  "฿1,220.81",
+  "(0% off)",
+  "฿1,220.81",
+  "฿40.69/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/g/40.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/k/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/g/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/40.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12162/b/40.jpg"
+ ]
+}

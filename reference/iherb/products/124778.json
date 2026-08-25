@@ -1,0 +1,318 @@
+{
+ "pid": "124778",
+ "slug": "lifeable-men-s-multivitamin-gummies-berry-60-gummies",
+ "scrapedAt": "2026-08-25T17:37:03.138Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/lifeable-men-s-multivitamin-gummies-berry-60-gummies.jpg",
+  "/products/iherb/lifeable-men-s-multivitamin-gummies-berry-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/lifeable-men-s-multivitamin-gummies-berry-60-gummies/124778",
+ "pageTitle": "Lifeable, Men's Multivitamin Gummies, Berry, 60 Gummies",
+ "h1": "Lifeable, Men's Multivitamin Gummies, Berry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124778",
+  "name": "Lifeable, Men's Multivitamin Gummies, Berry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/g/32.jpg",
+  "mpn": "LFB-73072",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 65
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Lifeable",
+   "url": "https://lifeable.com/",
+   "identifier": "LFB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.50",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "536.17",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Men's Health Kosher Vegetarian Gluten Free Nut Free Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.5"
+  },
+  "isRelatedTo": null,
+  "sku": "LFB-73072",
+  "gtin12": "810102730725",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/g/32.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Men's Health",
+  "Men's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Men's Health",
+    "Kosher",
+    "Vegetarian",
+    "Gluten Free",
+    "Nut Free"
+   ],
+   "paragraphs": [
+    "Don't sacrifice great taste for great health. Lifeable gummy vitamins and supplements are bursting with nutrients and fruit flavors so you will actually enjoy taking them. Lifeable - Health gone tasty!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two [2] gummies per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Cane sugar, glucose syrup, water, sucrose syrup, citrus pectin, citric acid, trisodium citrate, natural flavors, black carrot concentrate (color) and choline chloride.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, sesame, soy or shellfish.",
+    "Processed in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using.",
+    "Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Keep out of reach of children.",
+    "Store at room temperature.",
+    "Avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.23 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LFB-73072"
+  },
+  {
+   "label": "UPC",
+   "value": "810102730725"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.4 cm, 0.23 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value‡"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "4 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Vitamin A (as all-trans retinyl acetate)",
+   "750 mcg",
+   "83%"
+  ],
+  [
+   "Vitamin C (as Ascorbic acid)",
+   "60 mg",
+   "67%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "20 mcg (800 IU)",
+   "100%"
+  ],
+  [
+   "Vitamin E (as dl-Alpha tocopheryl acetate)",
+   "6.8 mg",
+   "45%"
+  ],
+  [
+   "Niacin (as Nicotinamide)",
+   "12 mg",
+   "75%"
+  ],
+  [
+   "Vitamin B6 (as Pyridoxine HCl)",
+   "4 mg",
+   "235%"
+  ],
+  [
+   "Folate",
+   "680 mcg DFE (Folic Acid 400 mcg)",
+   "170%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "12 mcg",
+   "500%"
+  ],
+  [
+   "Biotin",
+   "60 mcg",
+   "200%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium Pantothenate)",
+   "10 mg",
+   "200%"
+  ],
+  [
+   "Iodine (as potassium Iodide)",
+   "40 mcg",
+   "27%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "1 mg",
+   "9%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "Inositol",
+   "40 mcg",
+   "**"
+  ],
+  [
+   "‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value‡",
+  "‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Kosher",
+    "Gluten-free",
+    "Nut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿536.17",
+  "฿536.17",
+  "฿17.87/‏serving",
+  "{0}% off code: {1}",
+  "฿536.17",
+  "Save 0% in cart",
+  "฿17.87/‏serving",
+  "฿536.17",
+  "(0% off)",
+  "฿536.17",
+  "฿17.87/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/g/32.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/k/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/g/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/s/32.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lfb/lfb73072/s/37.jpg"
+ ]
+}

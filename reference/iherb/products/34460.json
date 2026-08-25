@@ -1,0 +1,210 @@
+{
+ "pid": "34460",
+ "slug": "tazo-herbal-tea-passion-caffeine-free-20-tea-bags-1-8-oz-52-g",
+ "scrapedAt": "2026-08-25T17:49:01.501Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/tazo-herbal-tea-passion-caffeine-free-20-tea-bags-1-8-oz-52-g.jpg",
+  "/products/iherb/tazo-herbal-tea-passion-caffeine-free-20-tea-bags-1-8-oz-52-g-2.jpg",
+  "/products/iherb/tazo-herbal-tea-passion-caffeine-free-20-tea-bags-1-8-oz-52-g-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/tazo-herbal-tea-passion-caffeine-free-20-tea-bags-1-8-oz-52-g/34460",
+ "pageTitle": "TAZO, Herbal Tea, Passion, Caffeine-Free, 20 Tea Bags, 1.8 oz (52 g)",
+ "h1": "TAZO, Herbal Tea, Passion, Caffeine-Free, 20 Tea Bags, 1.8 oz (52 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "34460",
+  "name": "TAZO, Herbal Tea, Passion, Caffeine-Free, 20 Tea Bags, 1.8 oz (52 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/g/47.jpg",
+  "mpn": "TAZ-20045",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 2999
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "TAZO",
+   "url": "http://www.tazo.com/",
+   "identifier": "TAZ"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.20",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "187.94",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "234.92",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Non GMO Project Verified Unilever Kosher Plunge into a paradise of lush hibiscus, orange peel & rose hips We've Got Our Own Thing Brewing. We're on a quest to be the most unexpected tea makers. We're always curious. Always questioning. What's this flavor? What's that aroma? We love to dive in and stir things up. We're half curious kid, half intrepid explorer, half undaunted alchemist. Yes-one and a half. That spirit? We bring it to tea. We do it through unexpected blends with a twist so you can taste the vibrant undiscovered flavors the world has stashed away. P assion® Following our Passion for tea led us straight to a lush, tropical paradise in this exuberant blend bursting with hibiscus flowers, orange peel, rose hips and a lively hint of cinnamon spice. What's your passion? Hint: drinking TAZO® is always an acceptable answer. Based on herbal tea brewed with freshly boiled water for 5 minutes (no milk, no sugar), an 8 fl oz cup typically contains insignificant amounts of calories, fats, carbohydrates, sugars, protein and sodium.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.7x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "TAZ-20045",
+  "gtin12": "794522200450",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/g/47.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Tea & Beverages",
+  "Tea",
+  "Herbal Tea"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Non GMO Project Verified",
+    "Unilever",
+    "Kosher"
+   ],
+   "paragraphs": [
+    "Plunge into a paradise of lush hibiscus, orange peel & rose hips",
+    "We've Got Our Own Thing Brewing.",
+    "We're on a quest to be the most unexpected tea makers.",
+    "We're always curious. Always questioning. What's this flavor? What's that aroma? We love to dive in and stir things up. We're half curious kid, half intrepid explorer, half undaunted alchemist. Yes-one and a half.",
+    "That spirit? We bring it to tea. We do it through unexpected blends with a twist so you can taste the vibrant undiscovered flavors the world has stashed away.",
+    "Passion®",
+    "Following our Passion for tea led us straight to a lush, tropical paradise in this exuberant blend bursting with hibiscus flowers, orange peel, rose hips and a lively hint of cinnamon spice. What's your passion? Hint: drinking TAZO® is always an acceptable answer.",
+    "Based on herbal tea brewed with freshly boiled water for 5 minutes (no milk, no sugar), an 8 fl oz cup typically contains insignificant amounts of calories, fats, carbohydrates, sugars, protein and sodium."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [
+    "212ºF - Bring fresh water to a boil.",
+    "8 fl oz - Pour water over the tea bag in a cup.",
+    "5 min - Let it brew. Wait patiently for perfection."
+   ],
+   "paragraphs": [
+    "For Best Brewing"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hibiscus flowers, natural flavor, citric acid, licorice root, orange peel, cinnamon, rose hips, lemongrass, hibiscus and elderberry extract (for color)."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "TAZ-20045"
+  },
+  {
+   "label": "UPC",
+   "value": "794522200450"
+  },
+  {
+   "label": "Package quantity",
+   "value": "20 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.8 x 9.4 x 7.2 cm, 0.09 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "20 count"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿234.92",
+  "฿234.92",
+  "฿11.75/‏count",
+  "{0}% off code: {1}",
+  "฿234.92",
+  "Save 20% in cart",
+  "฿11.75/‏count",
+  "฿187.94",
+  "(20% off)",
+  "฿234.92",
+  "฿9.40/‏count",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/g/47.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/k/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/g/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/s/48.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/taz/taz20045/s/49.jpg"
+ ]
+}

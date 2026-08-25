@@ -1,0 +1,316 @@
+{
+ "pid": "119695",
+ "slug": "doctor-s-finest-teen-multivitamin-gummies-raspberry-90-gummies",
+ "scrapedAt": "2026-08-25T17:40:53.968Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-finest-teen-multivitamin-gummies-raspberry-90-gummies.jpg",
+  "/products/iherb/doctor-s-finest-teen-multivitamin-gummies-raspberry-90-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-finest-teen-multivitamin-gummies-raspberry-90-gummies/119695",
+ "pageTitle": "Doctor's Finest, Teen Multivitamin+ Gummies, Raspberry, 90 Gummies",
+ "h1": "Doctor's Finest, Teen Multivitamin+ Gummies, Raspberry, 90 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "119695",
+  "name": "Doctor's Finest, Teen Multivitamin+ Gummies, Raspberry, 90 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/g/24.jpg",
+  "mpn": "DFN-61204",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 316
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Finest",
+   "url": "https://doctorsfinesthealth.com/",
+   "identifier": "DFN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.72",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "492.15",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Kosher Certified GMO Free Gluten Free Natural Flavor Peanut & Tree Nuts Free Kosher Parve B Vitamins for Energy & Biotin to Support Healthy Hair, Skin and Nails.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "DFN-61204",
+  "gtin12": "810048612048",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Kosher",
+    "Certified GMO Free",
+    "Gluten Free",
+    "Natural Flavor",
+    "Peanut & Tree Nuts Free",
+    "Kosher Parve"
+   ],
+   "paragraphs": [
+    "B Vitamins for Energy & Biotin to Support Healthy Hair, Skin and Nails."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take two (2) gummies per day. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, water, pectin, black carrot concentrate (color), trisodium citrate, natural flavor, carnauba wax.",
+    "Does not contain eggs, wheat (gluten), milk, peanuts, tree nuts, soy or shellfish. Produced in a nut free facility."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children.",
+    "Do not exceed suggested serving size. If you have a medical condition, are taking medication, or are pregnant or nursing, ask a doctor before using. Not for children under 2 years of age due to risk of choking.",
+    "Do not use this product if safety seal under cap is torn or missing.",
+    "Store at room temperature. Avoid excessive heat.",
+    "Color may change over time; this does not affect the potency of the product."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.33 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DFN-61204"
+  },
+  {
+   "label": "UPC",
+   "value": "810048612048"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.33 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Servings Per Bottle: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrates",
+   "5 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%"
+  ],
+  [
+   "Vitamin A (as retinyl acetate)",
+   "1200 mcg",
+   "133%"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Vitamin D3 (as cholecalciferol)",
+   "10 mcg (400 IU)",
+   "50%"
+  ],
+  [
+   "Vitamin E (as dl-alpha tocopheryl acetate)",
+   "36 mg",
+   "240%"
+  ],
+  [
+   "Niacin (as niacinamide)",
+   "10 mg",
+   "63%"
+  ],
+  [
+   "Vitamin B6 (as pyridoxine HCL)",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Folate",
+   "333 mcg DFE (Folic acid 200 mcg)",
+   "83%"
+  ],
+  [
+   "Vitamin B12 (as cyanocobalamin)",
+   "8 mcg",
+   "333%"
+  ],
+  [
+   "Biotin",
+   "3,000 mcg",
+   "10,000%"
+  ],
+  [
+   "Pantothenic Acid (as D-calcium pantothenate)",
+   "10 mg",
+   "200%"
+  ],
+  [
+   "Iodine (as potassium iodide)",
+   "80 mcg",
+   "53%"
+  ],
+  [
+   "Zinc (as zinc citrate)",
+   "5 mg",
+   "45%"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "‡Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "‡Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿492.15",
+  "฿492.15",
+  "฿10.94/‏serving",
+  "{0}% off code: {1}",
+  "฿492.15",
+  "Save 0% in cart",
+  "฿10.94/‏serving",
+  "฿492.15",
+  "(0% off)",
+  "฿492.15",
+  "฿10.94/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dfn/dfn61204/s/29.jpg"
+ ]
+}

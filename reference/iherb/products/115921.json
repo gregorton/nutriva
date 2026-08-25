@@ -1,0 +1,331 @@
+{
+ "pid": "115921",
+ "slug": "naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g",
+ "scrapedAt": "2026-08-25T17:28:04.352Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g-2.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g-3.jpg",
+  "/products/iherb/naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g/115921",
+ "pageTitle": "NaturesPlus, Collagen Peptides, Berry Lemonade, 0.8 lbs (364 g)",
+ "h1": "NaturesPlus, Collagen Peptides, Berry Lemonade, 0.8 lbs (364 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "115921",
+  "name": "NaturesPlus, Collagen Peptides, Berry Lemonade, 0.8 lbs (364 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/g/26.jpg",
+  "mpn": "NAP-45969",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 2159
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NaturesPlus",
+   "url": "https://naturesplus.com/",
+   "identifier": "NAP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.02",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "983.81",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Grass Fed Sustainably Caught Cage-Free Chicken Eggshell Membrane With Other Natural Flavors I, II, III, IV, V & X Types of Natural Collagen Dietary Supplement Soft Skin Strong Nails Hair Growth Gut Health Joint Relief Certified Non-GMO Environmentally Responsible Gluten Free GMP Certified Facility Clean Ingredients, Clean Taste Clean. Pure. Optimized Don't Settle for Non-Hydrolyzed Collagen Look and feel your best with NaturesPlus Berry Lemonade Collagen Peptides. Boost the health of your hair, skin, nails, joints, immune system and much more with the power of collagen protein peptides in a berry lemonade flavor you'll love! NaturesPlus Berry Lemonade Collagen Peptides provides the highest quality Collagen available: Sourced from Grass-Fed Beef, Wild-Caught Cod, Cage-Free Chicken and Eggshell Membrane. Clean, sustainable ingredients are the best choice of collagen sources. These 6 major Collagen Types (I, II, III, IV, V & X) provide a powerful profile delivering exceptional whole body benefits. Maximized Absorption Superior Source Hydrolyzed Collagen with Collagen Digesting Enzymes to maximize absorption. Full Spectrum Collagen provides whole body results: Type I - Skin Elasticity Type II - Joints and Immune System Type III - Skin, Blood Vessels, Vital Organs Type IV - Cell Health and Growth Type V - Skin, Tendons and Immune System Type X - Joints, Bones, Muscles and Hair",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.05x4.05"
+  },
+  "isRelatedTo": null,
+  "sku": "NAP-45969",
+  "gtin12": "097467459694",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/g/26.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Grass Fed",
+    "Sustainably Caught",
+    "Cage-Free Chicken",
+    "Eggshell Membrane",
+    "With Other Natural Flavors",
+    "I, II, III, IV, V & X Types of Natural Collagen",
+    "Dietary Supplement",
+    "Soft Skin",
+    "Strong Nails",
+    "Hair Growth",
+    "Gut Health",
+    "Joint Relief",
+    "Certified Non-GMO",
+    "Environmentally Responsible",
+    "Gluten Free",
+    "GMP Certified Facility",
+    "Clean Ingredients, Clean Taste",
+    "Clean. Pure. Optimized",
+    "Don't Settle for Non-Hydrolyzed Collagen",
+    "Sourced from Grass-Fed Beef, Wild-Caught Cod, Cage-Free Chicken and Eggshell Membrane. Clean, sustainable ingredients are the best choice of collagen sources.",
+    "These 6 major Collagen Types (I, II, III, IV, V & X) provide a powerful profile delivering exceptional whole body benefits.",
+    "Type I - Skin Elasticity",
+    "Type II - Joints and Immune System",
+    "Type III - Skin, Blood Vessels, Vital Organs",
+    "Type IV - Cell Health and Growth",
+    "Type V - Skin, Tendons and Immune System",
+    "Type X - Joints, Bones, Muscles and Hair"
+   ],
+   "paragraphs": [
+    "Look and feel your best with NaturesPlus Berry Lemonade Collagen Peptides. Boost the health of your hair, skin, nails, joints, immune system and much more with the power of collagen protein peptides in a berry lemonade flavor you'll love!",
+    "NaturesPlus Berry Lemonade Collagen Peptides provides the highest quality Collagen available:",
+    "Maximized Absorption",
+    "Superior Source Hydrolyzed Collagen with Collagen Digesting Enzymes to maximize absorption.",
+    "Full Spectrum Collagen provides whole body results:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Add 26 g (Approx. 2 heaping scoops) of Berry Lemonade Collagen Peptides powder to 8 fl oz of water or juice, or to recipe of your choice.",
+    "NaturesPlus's superior collagen forms mix quickly and easily. No blender required!"
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Natural flavors, citric acid, stevia (rebaudioside A), natural color (beet juice).",
+    "Contains eggs and fish. Free from synthetic colors, preservatives. Does not contain milk, crustacean shellfish, tree nuts, peanuts, wheat, soy or sesame."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep tightly closed in a cool, dry place. Keep out of reach of children. Not to be used as the sole source of dietary calories or protein.",
+    "This product is sold by weight, not volume. Settling of contents may occur during shipping and handling."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.46 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NAP-45969"
+  },
+  {
+   "label": "UPC",
+   "value": "097467459694"
+  },
+  {
+   "label": "Package quantity",
+   "value": "364 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.9 x 10.3 x 10.3 cm, 0.46 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: Approx. 2 heaping scoops (26 g)"
+  ],
+  [
+   "Servings Per Container: 14"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value**"
+  ],
+  [
+   "Calories",
+   "90",
+   ""
+  ],
+  [
+   "Sodium",
+   "50 mg",
+   "2%"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "<1%"
+  ],
+  [
+   "Protein",
+   "20 g",
+   "‡"
+  ],
+  [
+   "Vitamin C (as ascorbic acid)",
+   "10 mg",
+   "11%"
+  ],
+  [
+   "Hydrolyzed Grass-Fed Beef Collagen, Fish Collagen, Chicken Collagen and Eggshell Membrane Collagen Concentrate (includes Types I, II, III, IV, V, X)",
+   "20 g",
+   "†"
+  ],
+  [
+   "Collagen Boosting Enzyme (Protease)",
+   "20 mg",
+   "†"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established.‡High-quality collagen protein is naturally free from the essential amino acid tryptophan and therefore has no % Daily Value."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value**",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established.",
+  "‡High-quality collagen protein is naturally free from the essential amino acid tryptophan and therefore has no % Daily Value."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 heaping scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "14"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "Wheat-free",
+    "Shellfish-free",
+    "Peanut-free",
+    "Treenut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "294 g",
+   "pid": "88971",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-0-65-lb-294-g/88971",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "364 g",
+   "pid": "115921",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-berry-lemonade-0-8-lbs-364-g/115921",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "378 g",
+   "pid": "115920",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-chocolate-0-83-lb-378-g/115920",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "588 g",
+   "pid": "103456",
+   "url": "https://th.iherb.com/pr/naturesplus-collagen-peptides-1-3-lbs-588-g/103456",
+   "price": "฿1,735.59",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿983.81",
+  "฿983.81",
+  "฿70.27/‏serving",
+  "{0}% off code: {1}",
+  "฿983.81",
+  "Save 0% in cart",
+  "฿70.27/‏serving",
+  "฿983.81",
+  "(0% off)",
+  "฿983.81",
+  "฿70.27/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/g/26.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/k/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/g/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/34.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nap/nap45969/b/26.jpg"
+ ]
+}

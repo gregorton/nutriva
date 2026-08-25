@@ -1,0 +1,276 @@
+{
+ "pid": "58903",
+ "slug": "doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels",
+ "scrapedAt": "2026-08-25T17:29:47.067Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "Doctor's Best",
+  "sold": "7K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels.jpg",
+  "/products/iherb/doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels-2.jpg",
+  "/products/iherb/doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels-3.jpg",
+  "/products/iherb/doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels/58903",
+ "pageTitle": "Doctor's Best, Lutein, Lutemax 2020, 20 mg, 180 Softgels",
+ "h1": "Doctor's Best, Lutein, Lutemax 2020, 20 mg, 180 Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "58903",
+  "name": "Doctor's Best, Lutein, Lutemax 2020, 20 mg, 180 Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/g/83.jpg",
+  "mpn": "DRB-00370",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 35694
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Doctor's Best",
+   "url": "http://www.drbvitamins.com/",
+   "identifier": "DRB"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.25",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1145.73",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Science-Based Nutrition™ Lutein & Zeaxanthin Supports Eye Health & Performance Dietary Supplement Non-GMO Gluten Free At Doctor's Best, we are on a mission against the 'blue light blues.' Our special formula features Lutemax 2020®, a premium blend of lutein and zeaxanthin. It shields the eyes from potential harm caused by high-energy blue light, guarding against daily exposure to digital screens, sunlight, and indoor lighting. Helps protect eyes from harmful high energy blue light in everyday surroundings Supports eye health when using digital devices Helps neutralize free radicals",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x2.4"
+  },
+  "isRelatedTo": null,
+  "sku": "DRB-00370",
+  "gtin12": "753950003705",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/g/83.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Lutein",
+  "Lutein & Zeaxanthin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Science-Based Nutrition™",
+    "Lutein & Zeaxanthin",
+    "Supports Eye Health & Performance",
+    "Dietary Supplement",
+    "Non-GMO",
+    "Gluten Free",
+    "Helps protect eyes from harmful high energy blue light in everyday surroundings",
+    "Supports eye health when using digital devices",
+    "Helps neutralize free radicals"
+   ],
+   "paragraphs": [
+    "At Doctor's Best, we are on a mission against the 'blue light blues.' Our special formula features Lutemax 2020®, a premium blend of lutein and zeaxanthin. It shields the eyes from potential harm caused by high-energy blue light, guarding against daily exposure to digital screens, sunlight, and indoor lighting."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Suggested Adult Use: Take 1 softgel daily with or without food, or as recommended by a nutritionally-informed physician."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Sunflower oil, softgel capsule (gelatin, glycerin, purified water)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "This product contains natural ingredients that may vary in color.",
+    "Store in a cool dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2014"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DRB-00370"
+  },
+  {
+   "label": "UPC",
+   "value": "753950003705"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.2 x 6.1 x 6.1 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Softgel"
+  ],
+  [
+   "Servings Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Lutein (from Lutemax® 2020 marigold flower ext., (Tagetes erecta))",
+   "20 mg",
+   "†"
+  ],
+  [
+   "Zeaxanthin (from Lutemax® 2020 marigold flower ext., (Tagetes erecta))",
+   "4 mg",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "63505",
+   "url": "https://th.iherb.com/pr/doctor-s-best-lutein-lutemax-2020-60-softgels/63505",
+   "price": "฿464.59",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "58903",
+   "url": "https://th.iherb.com/pr/doctor-s-best-lutein-lutemax-2020-20-mg-180-softgels/58903",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Lutein & Zeaxanthin",
+   "href": "/c/lutein-zeaxanthin?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Zeaxanthin",
+   "href": "/c/zeaxanthin?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Lutein",
+   "href": "/c/lutein?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "7,500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,145.73",
+  "฿1,145.73",
+  "฿6.37/‏serving",
+  "{0}% off code: {1}",
+  "฿1,145.73",
+  "Save 0% in cart",
+  "฿6.37/‏serving",
+  "฿1,145.73",
+  "(0% off)",
+  "฿1,145.73",
+  "฿6.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/g/83.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/k/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/g/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/83.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/88.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/94.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/95.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/96.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/97.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/drb/drb00370/s/98.jpg"
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "pid": "103280",
+ "slug": "california-gold-nutrition-superfoods-blueberry-juice-powder-3-53-oz-10",
+ "scrapedAt": "2026-08-25T17:51:25.889Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-superfoods-blueberry-juice-powder-3-53-oz-10.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-blueberry-juice-powder-3-53-oz-10-2.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-blueberry-juice-powder-3-53-oz-10-3.jpg",
+  "/products/iherb/california-gold-nutrition-superfoods-blueberry-juice-powder-3-53-oz-10-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-superfoods-blueberry-juice-powder-3-53-oz-100-g/103280",
+ "pageTitle": "California Gold Nutrition, Superfoods, Blueberry Juice Powder, 3.53 oz (100 g)",
+ "h1": "California Gold Nutrition, Superfoods, Blueberry Juice Powder, 3.53 oz (100 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "103280",
+  "name": "California Gold Nutrition, Superfoods, Blueberry Juice Powder, 3.53 oz (100 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/g/17.jpg",
+  "mpn": "CGN-01908",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 2938
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.24",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "355.84",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "474.45",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Naturally-Occurring Phytonutrients and Antioxidants Suitable for Vegetarians and Vegans Formulated Without: Gluten, GMOs, or Soy Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee California Gold Nutrition® Superfoods Blueberry Juice Powder makes it easy to add this superfood into your diet for an added boost of flavor and nutrients. Our Blueberry Juice Powder can be added to shakes, smoothies, yogurt, and oatmeal. You can even bake it into your favorite dishes for a dose of extra flavor. The naturally sweet and tart flavor of blueberries complements many other flavors, pairing well with strawberries, raspberries, banana, cinnamon, honey, and lemon. iTested Verified Coming Soon",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.95x1.15"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01908",
+  "gtin12": "898220019083",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/g/17.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Snacks",
+  "Fruit & Vegetable Snacks"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Naturally-Occurring Phytonutrients and Antioxidants",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated Without: Gluten, GMOs, or Soy",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Superfoods Blueberry Juice Powder makes it easy to add this superfood into your diet for an added boost of flavor and nutrients. Our Blueberry Juice Powder can be added to shakes, smoothies, yogurt, and oatmeal. You can even bake it into your favorite dishes for a dose of extra flavor. The naturally sweet and tart flavor of blueberries complements many other flavors, pairing well with strawberries, raspberries, banana, cinnamon, honey, and lemon.",
+    "iTested Verified Coming Soon"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take one serving daily. Blend with shakes or smoothies. Sprinkle over yogurt or oatmeal. Bake in your favorite recipes.",
+    "Note: 2.5 grams per 1/2 tsp is an average. Individual scooping technique may yield less or more than 2.5 grams.",
+    "ONCE OPENED, BEST USED WITHIN 6 MONTHS."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Sealed for your protection. Do not use if pouch is punctured or seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "THIS PRODUCT IS PACKAGED AND SOLD BY WEIGHT, NOT BY VOLUME. SETTLING OF CONTENTS OCCURS OVER TIME.",
+    "CONTAINS A FOOD-GRADE MOISTURE ABSORBER TO MAINTAIN FRESHNESS. DO NOT EAT."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01908"
+  },
+  {
+   "label": "UPC",
+   "value": "898220019083"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "20.8 x 12.6 x 2.9 cm, 0.11 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1/2 tsp (2.5 g)"
+  ],
+  [
+   "Servings Per Container: 40"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Saturated Fat",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "<1 g",
+   "3%"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "0 g",
+   ""
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Iron",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2.5 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "40"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#27 in",
+   "category": "Fruit & Vegetable Snacks",
+   "href": "/c/fruit-vegetable-snacks?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿474.45",
+  "฿474.45",
+  "฿11.86/‏serving",
+  "{0}% off code: {1}",
+  "฿474.45",
+  "Save 25% in cart",
+  "฿11.86/‏serving",
+  "฿355.84",
+  "(25% off)",
+  "฿474.45",
+  "฿8.90/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/g/17.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/k/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/g/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/s/11.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01908/s/20.jpg"
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "pid": "64006",
+ "slug": "california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggi",
+ "scrapedAt": "2026-08-25T17:27:38.141Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "10K+",
+  "flag": "iHerb Brands"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggi.jpg",
+  "/products/iherb/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggi-2.jpg",
+  "/products/iherb/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggi-3.jpg",
+  "/products/iherb/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggi-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggie-capsules/64006",
+ "pageTitle": "California Gold Nutrition, LactoBif® 5 Probiotics, 5 Billion CFU, 60 Veggie Capsules",
+ "h1": "California Gold Nutrition, LactoBif® 5 Probiotics, 5 Billion CFU, 60 Veggie Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "64006",
+  "name": "California Gold Nutrition, LactoBif® 5 Probiotics, 5 Billion CFU, 60 Veggie Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/g/382.jpg",
+  "mpn": "CGN-00963",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 112863
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.16",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "333.02",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "California Gold Nutrition LactoBif® 5 Probiotics Fermented Exclusively in Wisconsin IFF. Quality Tested and Packaged in California Featuring 8 Active Probiotic Strains, Including 5 Lactobacilli and 3 Bifidobacteria With 5 Billion CFU Per Veggie Capsule Supports Digestive and Gut Health* Promotes Immune System Health* Suitable for Vegetarians Formulated without Dairy, Gluten, GMOs, or Soy Individually Double-Foil Blister Sealed Produced in a 3rd Party Audited cGMP Registered (Certified) Facility 100% Gold Guarantee Your body is full of helpful bacteria that support important functions, but your natural microbiome can become unbalanced, often resulting in unpleasant digestive issues. California Gold Nutrition LactoBif® 5 Probiotics can help keep your gut balanced by introducing more good bacteria into your system, which can help promote digestive and immune health and potentially relieve common digestive symptoms.* Benefits of Taking Probiotics This proprietary bacteria blend is packed with several beneficial probiotic strains. Our formula includes Lactobacillus acidophilus , one of the best-known probiotics. This strain which may help to support the immune system.* In addition, we’ve included another well-known strain, Bifidobacterium longum , which can help promote gut health through the production of lactic and acetic acid.* Our unique blend is designed to help promote digestive health and may help calm common digestive concerns, like upset stomach, gas, constipation, diarrhea, and bloating. California Gold Nutrition Lactobif® 5 Probiotics contain 8 active probiotic strains, including 5 Lactobacilli and 3 Bifidobacteria. Each veggie capsule contains 5 billion CFU to deliver an effective number of good bacteria to the body. iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.5x2.3"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-00963",
+  "gtin12": "898220009633",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/g/382.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Intestinal Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "California Gold Nutrition LactoBif® 5 Probiotics",
+    "Fermented Exclusively in Wisconsin IFF. Quality Tested and Packaged in California",
+    "Featuring 8 Active Probiotic Strains, Including 5 Lactobacilli and 3 Bifidobacteria",
+    "With 5 Billion CFU Per Veggie Capsule",
+    "Supports Digestive and Gut Health*",
+    "Promotes Immune System Health*",
+    "Suitable for Vegetarians",
+    "Formulated without Dairy, Gluten, GMOs, or Soy",
+    "Individually Double-Foil Blister Sealed",
+    "Produced in a 3rd Party Audited cGMP Registered (Certified) Facility",
+    "100% Gold Guarantee"
+   ],
+   "paragraphs": [
+    "Your body is full of helpful bacteria that support important functions, but your natural microbiome can become unbalanced, often resulting in unpleasant digestive issues. California Gold Nutrition LactoBif® 5 Probiotics can help keep your gut balanced by introducing more good bacteria into your system, which can help promote digestive and immune health and potentially relieve common digestive symptoms.*",
+    "Benefits of Taking ProbioticsThis proprietary bacteria blend is packed with several beneficial probiotic strains. Our formula includes Lactobacillus acidophilus, one of the best-known probiotics. This strain which may help to support the immune system.* In addition, we’ve included another well-known strain, Bifidobacterium longum, which can help promote gut health through the production of lactic and acetic acid.* Our unique blend is designed to help promote digestive health and may help calm common digestive concerns, like upset stomach, gas, constipation, diarrhea, and bloating.",
+    "California Gold Nutrition Lactobif® 5 Probiotics contain 8 active probiotic strains, including 5 Lactobacilli and 3 Bifidobacteria. Each veggie capsule contains 5 billion CFU to deliver an effective number of good bacteria to the body.",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule daily, with or without food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Microcrystalline Cellulose, Modified Cellulose (Hypromellose Veggie Capsule), Magnesium Stearate, and Silicon Dioxide (Silica).",
+    "Not manufactured with milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soy, sesame, or gluten. Produced in an FDA-registered, third-party audited, and CGMP-compliant facility that may process other products that contain these allergens or ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Consult with a licensed physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Individually Double-Foil Blister Sealed for quality and your protection. Do not use if blister pack material is punctured or missing. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Potency guaranteed until expiration date when stored in a cool, dry place at 77ºF (25℃) or below. Refrigeration is not required, but highly recommended.1",
+    "1 Room Temperature, Shelf-Stable: Best stored at controlled room temperature 20º℃ to 25º℃ (68ºF to 77ºF). Refrigeration is not required, but highly recommended. Extended exposure to higher than recommended storage temperatures may cause product degradation and the reduction of live and active probiotic bacteria. Potency guaranteed until expiration date when stored in a cool, dry place, at 77ºF (25℃) or below."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2015"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-00963"
+  },
+  {
+   "label": "UPC",
+   "value": "898220009633"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.2 x 8.9 x 5.8 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Probiotic Bacteria Blend",
+   "36 mg 5 Billion CFU",
+   "†"
+  ],
+  [
+   "Total Cultures",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus acidophilus",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus rhamnosus",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium lactis",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium longum",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus plantarum",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus casei",
+   "",
+   ""
+  ],
+  [
+   "Lactobacillus salivarius",
+   "",
+   ""
+  ],
+  [
+   "Bifidobacterium breve",
+   "",
+   ""
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value",
+  "†",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Halal",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "30 count",
+   "pid": "69435",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-100-probiotics-100-billion-cfu-30-veggie-capsules/69435",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "60 count",
+   "pid": "64006",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-60-veggie-capsules/64006",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "90 count",
+   "pid": "147893",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-65-probiotics-65-billion-cfu-90-veggie-capsules/147893",
+   "price": "฿2,075.24",
+   "outOfStock": true,
+   "selected": false
+  },
+  {
+   "label": "120 count",
+   "pid": "143852",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-lactobif-5-probiotics-5-billion-cfu-120-veggie-capsules/143852",
+   "price": "฿619.43",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#2 in",
+   "category": "Lactobacillus",
+   "href": "/c/lactobacillus?sr=2"
+  },
+  {
+   "rank": "#2 in",
+   "category": "Intestinal Formulas",
+   "href": "/c/intestinal-formulas?sr=2"
+  },
+  {
+   "rank": "#3 in",
+   "category": "Probiotics",
+   "href": "/c/probiotics?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿333.02",
+  "฿333.02",
+  "฿5.55/‏serving",
+  "{0}% off code: {1}",
+  "฿333.02",
+  "Save 0% in cart",
+  "฿5.55/‏serving",
+  "฿333.02",
+  "(0% off)",
+  "฿333.02",
+  "฿5.55/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/g/382.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/k/382.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/g/382.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/382.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/383.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/133.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/182.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/183.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/184.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/291.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/138.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn00963/s/181.jpg"
+ ]
+}

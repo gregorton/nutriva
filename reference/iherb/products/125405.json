@@ -1,0 +1,238 @@
+{
+ "pid": "125405",
+ "slug": "21st-century-turmeric-plus-black-pepper-extract-60-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:30:24.670Z",
+ "discovery": {
+  "category": "herbs",
+  "foundVia": "turmeric curcumin",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/21st-century-turmeric-plus-black-pepper-extract-60-vegetarian-capsules.jpg",
+  "/products/iherb/21st-century-turmeric-plus-black-pepper-extract-60-vegetarian-capsules-2.jpg",
+  "/products/iherb/21st-century-turmeric-plus-black-pepper-extract-60-vegetarian-capsules-3.jpg",
+  "/products/iherb/21st-century-turmeric-plus-black-pepper-extract-60-vegetarian-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/21st-century-turmeric-plus-black-pepper-extract-60-vegetarian-capsules/125405",
+ "pageTitle": "21st Century, Turmeric Plus Black Pepper Extract, 60 Vegetarian Capsules",
+ "h1": "21st Century, Turmeric Plus Black Pepper Extract, 60 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "125405",
+  "name": "21st Century, Turmeric Plus Black Pepper Extract, 60 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/g/39.jpg",
+  "mpn": "CEN-27990",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 413
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "21st Century",
+   "url": "http://www.21stcenturyvitamins.com",
+   "identifier": "CEN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "360.91",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Black Pepper Extract 5 mg Supports Antioxidant Activity Herbal Supplement Gluten Free Non-GMO Soy Free Suitable For Vegans Guaranteed Quality - Laboratory Tested Trusted Quality For Over 30 Years Tumeric is an ancient Indian spice that has beneficial plant-based antioxidants called Curcuminoids. Black Pepper extract may aid in the absorption of Turmeric.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.4x1.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CEN-27990",
+  "gtin12": "740985279908",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/g/39.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Antioxidants",
+  "Turmeric & Curcumin"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Black Pepper Extract 5 mg",
+    "Supports Antioxidant Activity",
+    "Herbal Supplement",
+    "Gluten Free",
+    "Non-GMO",
+    "Soy Free",
+    "Suitable For Vegans",
+    "Guaranteed Quality - Laboratory Tested",
+    "Trusted Quality For Over 30 Years"
+   ],
+   "paragraphs": [
+    "Tumeric is an ancient Indian spice that has beneficial plant-based antioxidants called Curcuminoids. Black Pepper extract may aid in the absorption of Turmeric."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As an herbal supplement, adults take one (1) capsule daily with any meal or as directed by a healthcare provider. Do not exceed recommended dosage. Individual results may vary."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegetable cellulose, oat fiber, rice bran, magnesium silicate, magnesium stearate.",
+    "No added sugar, salt, yeast, preservatives, artificial flavors or colors."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Consult a healthcare provider prior to use if pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.",
+    "Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CEN-27990"
+  },
+  {
+   "label": "UPC",
+   "value": "740985279908"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "9.5 x 6.1 x 4.7 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Vegetarian Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Tumeric Blend Turmeric Powder (Curcuma longa) (dried rhizomes) and standardized Turmeric extract (curcuma longa) (root)",
+   "500 mg",
+   "**"
+  ],
+  [
+   "BioPerine® Black Pepper Extract (Piper nigrum)(fruit)",
+   "5 mg",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 vegetarian capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿360.91",
+  "฿360.91",
+  "฿6.02/‏serving",
+  "{0}% off code: {1}",
+  "฿360.91",
+  "Save 0% in cart",
+  "฿6.02/‏serving",
+  "฿360.91",
+  "(0% off)",
+  "฿360.91",
+  "฿6.02/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/g/39.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/k/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/g/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/s/45.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/s/51.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/s/53.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cen/cen27990/s/54.jpg"
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "pid": "142390",
+ "slug": "codeage-raw-probiotic-100-billion-cfu-30-vegetable-capsules",
+ "scrapedAt": "2026-08-25T17:10:08.939Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/codeage-raw-probiotic-100-billion-cfu-30-vegetable-capsules.jpg",
+  "/products/iherb/codeage-raw-probiotic-100-billion-cfu-30-vegetable-capsules-2.jpg",
+  "/products/iherb/codeage-raw-probiotic-100-billion-cfu-30-vegetable-capsules-3.jpg",
+  "/products/iherb/codeage-raw-probiotic-100-billion-cfu-30-vegetable-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/codeage-raw-probiotic-100-billion-cfu-30-vegetable-capsules/142390",
+ "pageTitle": "Codeage, Raw Probiotic+, 100 Billion CFU, 30 Vegetable Capsules",
+ "h1": "Codeage, Raw Probiotic+, 100 Billion CFU, 30 Vegetable Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "142390",
+  "name": "Codeage, Raw Probiotic+, 100 Billion CFU, 30 Vegetable Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/g/31.jpg",
+  "mpn": "AGE-60958",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 234
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Codeage",
+   "url": "https://www.codeage.com/",
+   "identifier": "AGE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1366.75",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100 Billion CFUs‡ 34 Strains Prebiotics & Probiotics Beyond Vitamins® Dietary Supplement Probiotic Fiber Raw Non-GMO Soy-Free Gluten-Free Shelf Stable Formula No Refrigeration Needed cGMP-Certified Manufacturing Feel Different Codeage Raw Probiotic+ supplement offers a potent blend of 34 diverse probiotic strains, including Bifidobacterium lactis (BL-818), Lactobacillus acidophilus (SD-5221), and Lactobacillus paracasei (SD-5218), delivering an impressive 100 billion CFUs per serving. These raw probiotics for women and men formula also include a unique raw whole-food probiotic component derived from Bulgarian Yogurt and Eastern European Wild Kefir Culture, providing a source of lactobacilli and bifidobacteria. Codeage Raw Probiotics capsule supplement is fortified with a specialized digestive enzyme blend, including Protease, Acid Protease, and Protease S. This raw probiotic supplement also features a raw fruit and vegetable prebiotic blend with ingredients like red bell pepper, green pea, carrot, plum, cherry, strawberry, and raspberry. ‡At time of manufacture.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.1x2.05"
+  },
+  "isRelatedTo": null,
+  "sku": "AGE-60958",
+  "gtin12": "850049609586",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/g/31.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100 Billion CFUs‡",
+    "34 Strains",
+    "Prebiotics & Probiotics",
+    "Beyond Vitamins®",
+    "Dietary Supplement",
+    "Probiotic Fiber",
+    "Raw",
+    "Non-GMO",
+    "Soy-Free",
+    "Gluten-Free",
+    "Shelf Stable Formula",
+    "No Refrigeration Needed",
+    "cGMP-Certified Manufacturing",
+    "Feel Different"
+   ],
+   "paragraphs": [
+    "Codeage Raw Probiotic+ supplement offers a potent blend of 34 diverse probiotic strains, including Bifidobacterium lactis (BL-818), Lactobacillus acidophilus (SD-5221), and Lactobacillus paracasei (SD-5218), delivering an impressive 100 billion CFUs per serving.",
+    "These raw probiotics for women and men formula also include a unique raw whole-food probiotic component derived from Bulgarian Yogurt and Eastern European Wild Kefir Culture, providing a source of lactobacilli and bifidobacteria.",
+    "Codeage Raw Probiotics capsule supplement is fortified with a specialized digestive enzyme blend, including Protease, Acid Protease, and Protease S.",
+    "This raw probiotic supplement also features a raw fruit and vegetable prebiotic blend with ingredients like red bell pepper, green pea, carrot, plum, cherry, strawberry, and raspberry.",
+    "‡At time of manufacture."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take 1 capsule daily, or as recommended by your healthcare practitioner, with 8 ounces of water or your favorite beverage. May be taken with or without food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Methylcellulose capsule, organic rice bran powder, ascorbyl palmitate, silicon dioxide, microcrystalline cellulose.",
+    "Contains: milk.",
+    "Made in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Do not exceed recommended dose. Consult your physician prior to using this product if you are pregnant, nursing, taking medication, or have a medical condition. Please use caution if you have allergies or sensitivities to any of the listed ingredients. Not intended for those under the age of 18.",
+    "Store in a cool, dry place. Do not use if product has been opened or tampered with in any way. Keep out of reach of children and pets."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AGE-60958"
+  },
+  {
+   "label": "UPC",
+   "value": "850049609586"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.8 x 5.3 x 5.2 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "One Capsule Contains",
+   "%Daily Value"
+  ],
+  [
+   "Probiotic Blend",
+   "500 mg",
+   "**"
+  ],
+  [
+   "Total Probiotic ActivityBifidobacterium lactis (BL-818), Lactobacillus acidophilus (SD-5221), Lactobacillus paracasei (SD-5218), Bifidobacterium lactis (SD-5218), Raw Whole Food Probiotic: Bulgarian Yogurt (Milk) Concentrate, †Eastern European Wild Kefir Culture containing Bifidobacterium lactis, Bifidobacterium longum, Lactobacillus acidophilus, Lactobacillus brevis, Lactobacillus bulgaricus, Lactobacillus casei, Lactobacillus fermentum, Lactobacillus helveticus, Lactobacillus kefiranofaciens, Lactobacillus kefirgranum, Lactobacillus rhamnosus, Lactococcus lactis, Lactococcus cremoris, Streptococcus thermophilus, Lactobacillus kefir, Lactobacillus parakefir, Lactobacillus plantarum, Lactococcus lactis biovar diacetylactis, Leuconostoc lactis, Leuconostoc mesenteroides, Leuconostoc cremoris, Leuconostoc dextranicum, Kluyveromyces marxianus, Brettanomyces anomalus, Debaryomyces hansenii, Saccharomyces unisporus, Saccharomyces turicensis, Saccharomyces cerevisiae, Saccharomyces exiguus, Torulaspora delbrueckii",
+   "100 Billion CFU‡",
+   ""
+  ],
+  [
+   "Digestive Enzyme BlendProtease, Acid Protease, Protease S",
+   "50 mg",
+   "**"
+  ],
+  [
+   "Raw Fruit & Vegetable Prebiotic BlendRed Bell Pepper (Fruit), Green Pea (Seed), Carrot (Root), Plum (Fruit), Cherry (Fruit), Strawberry (Fruit), Raspberry (Fruit)",
+   "45 mg",
+   "**"
+  ],
+  [
+   "**Daily Value (DV) not established.‡At time of manufacture.†Represents strains typically found in Eastern European Wild Kefir Culture."
+  ]
+ ],
+ "factsFootnotes": [
+  "One Capsule Contains\t%Daily Value",
+  "**Daily Value (DV) not established.",
+  "‡At time of manufacture.",
+  "†Represents strains typically found in Eastern European Wild Kefir Culture."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,366.75",
+  "฿1,366.75",
+  "฿45.56/‏serving",
+  "{0}% off code: {1}",
+  "฿1,366.75",
+  "Save 0% in cart",
+  "฿45.56/‏serving",
+  "฿1,366.75",
+  "(0% off)",
+  "฿1,366.75",
+  "฿45.56/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/g/31.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/k/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/g/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/39.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/21.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age60958/s/22.jpg"
+ ]
+}

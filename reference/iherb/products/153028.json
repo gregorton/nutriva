@@ -1,0 +1,235 @@
+{
+ "pid": "153028",
+ "slug": "podium-nutrition-whey-protein-powder-peanut-butter-crunch-1-94-lb-880",
+ "scrapedAt": "2026-08-25T17:31:09.774Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/podium-nutrition-whey-protein-powder-peanut-butter-crunch-1-94-lb-880.jpg",
+  "/products/iherb/podium-nutrition-whey-protein-powder-peanut-butter-crunch-1-94-lb-880-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/podium-nutrition-whey-protein-powder-peanut-butter-crunch-1-94-lb-880-g/153028",
+ "pageTitle": "Podium Nutrition, Whey Protein Powder, Peanut Butter Crunch, 1.94 lb (880 g)",
+ "h1": "Podium Nutrition, Whey Protein Powder, Peanut Butter Crunch, 1.94 lb (880 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "153028",
+  "name": "Podium Nutrition, Whey Protein Powder, Peanut Butter Crunch, 1.94 lb (880 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/g/8.jpg",
+  "mpn": "PDI-60211",
+  "aggregateRating": null,
+  "brand": {
+   "@type": "Brand",
+   "name": "Podium Nutrition",
+   "url": "https://www.321podium.com/",
+   "identifier": "PDI"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2005.17",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Easy Digesting 100% Whey No Artificial Colors Naturally & Artificially Flavored NSF ® Certified Sport 27 g Protein 150 Calories Gluten Free Soy Free Digezyme® Multi Enzyme Complex Podium Whey helps you fuel and recover. It is formulated with high quality protein and all natural digestive enzymes.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.9x5.9"
+  },
+  "isRelatedTo": null,
+  "sku": "PDI-60211",
+  "gtin12": "810117602116",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.11 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PDI-60211"
+  },
+  {
+   "label": "UPC",
+   "value": "810117602116"
+  },
+  {
+   "label": "Package quantity",
+   "value": "880 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.1 x 15 x 15 cm, 1.06 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (40 g)"
+  ],
+  [
+   "Servings Per Container: 22"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "150",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2.5 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "†"
+  ],
+  [
+   "Cholesterol",
+   "40 mg",
+   "13%"
+  ],
+  [
+   "Sodium",
+   "380 mg",
+   "17%"
+  ],
+  [
+   "Total Carbohydrates",
+   "6 g",
+   "2%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 1 g of added sugars",
+   "",
+   "2%"
+  ],
+  [
+   "Protein",
+   "27 g",
+   ""
+  ],
+  [
+   "Calcium",
+   "70 mg",
+   "6%"
+  ],
+  [
+   "Potassium",
+   "210 mg",
+   "4%"
+  ],
+  [
+   "Iron",
+   "0.2 mg",
+   "2%"
+  ],
+  [
+   "*Percent Daily Values are based on a 2000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: 1 Scoop (40 g)Servings Per Container: 22 Amount Per Serving%Daily Value*Calories150Total Fat2.5 g3%Saturated Fat1 g5%Trans Fat0 g†Cholesterol40 mg13%Sodium380 mg17%Total Carbohydrates6 g2%Total Sugars2 gIncludes 1 g of added sugars2%Protein27 gCalcium70 mg6%Potassium210 mg4%Iron0.2 mg2%*Percent Daily Values are based on a 2000 calorie diet.†Daily Value not established.Protein BreakdownOverall Protein Content27 g ProteinWhey Protein Isolate 87%15.7 Bulk* Supplying 13.5 g ProteinWhey Protein Concentrated 77%15.1 Bulk* Supplying 11.5 g ProteinDefatted Peanut Flour 44%5.0 g Bulk Supplying 2.2 g Protein(*3% Overage Included)"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "22"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP",
+    "NSF Sport"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Levels, Grass Fed Whey Protein Powder, Chocolate Peanut Butter, 2 lb (907 g)",
+  "67",
+  "฿2,551.12"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/s/13.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pdi/pdi60211/b/8.jpg"
+ ]
+}

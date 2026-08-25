@@ -1,0 +1,233 @@
+{
+ "pid": "107595",
+ "slug": "mild-by-nature-tea-tree-castile-soap-34-fl-oz-1-005-ml",
+ "scrapedAt": "2026-08-25T17:49:02.619Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-tea-tree-castile-soap-34-fl-oz-1-005-ml.jpg",
+  "/products/iherb/mild-by-nature-tea-tree-castile-soap-34-fl-oz-1-005-ml-2.jpg",
+  "/products/iherb/mild-by-nature-tea-tree-castile-soap-34-fl-oz-1-005-ml-3.jpg",
+  "/products/iherb/mild-by-nature-tea-tree-castile-soap-34-fl-oz-1-005-ml-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-tea-tree-castile-soap-34-fl-oz-1-005-ml/107595",
+ "pageTitle": "Mild By Nature, Tea Tree Castile Soap, 34 fl oz (1,005 ml)",
+ "h1": "Mild By Nature, Tea Tree Castile Soap, 34 fl oz (1,005 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "107595",
+  "name": "Mild By Nature, Tea Tree Castile Soap, 34 fl oz (1,005 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/g/74.jpg",
+  "mpn": "MBN-02066",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 1772
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "598.47",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "678.21",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild By Nature Tea Tree Castile Soap All-in-One Soap for Face, Body, and Hair Organic Olive, Jojoba, and Argan Oils With Nourishing Coconut Oil and Vitamin E pH Balanced and Cruelty-Free Gently Cleanses and Moisturizes Skin No Detergents or Foaming Agents Formulated without Animal By-Products, Artificial Colors or Fragrances, Formaldehyde, Gluten, GMOs, Parabens, Phthalates, Soy, or Sulfates Made in the USA with Globally Sourced Materials For those who like to keep their bath and shower routine simple, Mild by Nature’s Tea Tree Castile Soap is the perfect all-in-one solution. This natural, multi-purpose liquid soap is gentle enough for all skin types and helps to both cleanse and moisturize. Formulated with organic olive, jojoba, and argan oils with nourishing vitamin E, this concentrated and versatile soap can be used on the body, face, and hair for a refreshing, clean feeling. This Castile Soap is naturally scented with tea tree oil for a soothing experience and boasts a list of plant-derived oils and other simple ingredients, making it cruelty free.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.3x3.3"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02066",
+  "gtin12": "898220020669",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/g/74.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Bath & Shower",
+  "Bar Soap",
+  "Castile Bar Soap"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild By Nature Tea Tree Castile Soap",
+    "All-in-One Soap for Face, Body, and Hair",
+    "Organic Olive, Jojoba, and Argan Oils",
+    "With Nourishing Coconut Oil and Vitamin E",
+    "pH Balanced and Cruelty-Free",
+    "Gently Cleanses and Moisturizes Skin",
+    "No Detergents or Foaming Agents",
+    "Formulated without Animal By-Products, Artificial Colors or Fragrances, Formaldehyde, Gluten, GMOs, Parabens, Phthalates, Soy, or Sulfates",
+    "Made in the USA with Globally Sourced Materials"
+   ],
+   "paragraphs": [
+    "For those who like to keep their bath and shower routine simple, Mild by Nature’s Tea Tree Castile Soap is the perfect all-in-one solution. This natural, multi-purpose liquid soap is gentle enough for all skin types and helps to both cleanse and moisturize.",
+    "Formulated with organic olive, jojoba, and argan oils with nourishing vitamin E, this concentrated and versatile soap can be used on the body, face, and hair for a refreshing, clean feeling. This Castile Soap is naturally scented with tea tree oil for a soothing experience and boasts a list of plant-derived oils and other simple ingredients, making it cruelty free."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Face: Apply 2 or 3 drops of soap onto hands and apply to wet face. Massage into skin and rinse.",
+    "Body: Apply a small amount of soap on a wet washcloth or hands, lather onto wet skin and rinse.",
+    "Hair: Apply a few drops for short hair or up to 1/2 Tbsp. for long hair. Can be either worked directly into wet hair or pre-diluted in a cup of water. Lather and rinse.",
+    "Hands: Pre-dilute castile soap 1 part soap with 10 parts water.",
+    "Bath: Pour approximately 2 Tbsp. soap in an average sized tub. (Doesn’t bubble, but still cleans). Can add more as desired.",
+    "Foot Bath: Pour 1/2 Tbsp. in a small tub of hot water. Soak feet as desired."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Cocos Nucifera (Coconut) Oil, Olea Europaea (Olive) Fruit Oil*, Potassium Hydroxide, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Simmondsia Chinensis (Jojoba) Seed Oil*, Argania Spinosa (Argan) Kernel Oil*, Mixed Tocopherols.",
+    "*Certified Organic",
+    "Formulated Without:",
+    "Animal By-Products, Artificial Colors or Fragrances, Formaldehyde, Gluten, GMOs, Parabens, Phthalates, Soy, Sulfates."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of eyes. If eye contact occurs, flush with water for 15 minutes.",
+    "Discontinue usage if experiencing an irritation. Consult a physician if irritation persists.",
+    "Keep away from children. Do not squirt or squeeze bottle too firmly as excess soap will spray out.",
+    "Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "11/2022"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.07 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02066"
+  },
+  {
+   "label": "UPC",
+   "value": "898220020669"
+  },
+  {
+   "label": "Package quantity",
+   "value": "1,005.499 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "22.6 x 8.4 x 8.4 cm, 1.07 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "1005.499 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2029"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial colors",
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿678.21",
+  "฿678.21",
+  "฿0.67/‏ml",
+  "{0}% off code: {1}",
+  "฿678.21",
+  "Save 12% in cart",
+  "฿0.67/‏ml",
+  "฿598.47",
+  "(12% off)",
+  "฿678.21",
+  "฿0.60/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/g/74.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/k/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/g/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/s/74.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/s/20.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02066/b/74.jpg"
+ ]
+}

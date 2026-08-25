@@ -1,0 +1,228 @@
+{
+ "pid": "39106",
+ "slug": "metabolic-maintenance-magnesium-glycinate-180-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:21:46.066Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/metabolic-maintenance-magnesium-glycinate-180-vegetarian-capsules.jpg",
+  "/products/iherb/metabolic-maintenance-magnesium-glycinate-180-vegetarian-capsules-2.jpg",
+  "/products/iherb/metabolic-maintenance-magnesium-glycinate-180-vegetarian-capsules-3.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/metabolic-maintenance-magnesium-glycinate-180-vegetarian-capsules/39106",
+ "pageTitle": "Metabolic Maintenance, Magnesium Glycinate, 180 Vegetarian Capsules",
+ "h1": "Metabolic Maintenance, Magnesium Glycinate, 180 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "39106",
+  "name": "Metabolic Maintenance, Magnesium Glycinate, 180 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/g/71.jpg",
+  "mpn": "MBM-00439",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 5122
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Metabolic Maintenance",
+   "url": "http://www.metabolicmaintenance.com",
+   "identifier": "MBM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.36",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1115.55",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Dietary Supplement Calming Mineral Support Hypoallergenic Allergy Research Group Magnesium Glycinate provides 125 mg of highly absorbable magnesium bisglycinate plus vitamin C for antioxidant and cardiovascular support. This gentle, well-tolerated formula supports calm, muscle relaxation, and heart and nervous system health. Maximize metabolic processes and minimize tension by adding this essential mineral to the daily regimen. Magnesium Glycinate is a bioavailable form of magnesium that supports restful sleep, and a relaxed body and mind.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "MBM-00439",
+  "gtin12": "838287004394",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/g/71.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Dietary Supplement",
+    "Calming Mineral Support",
+    "Hypoallergenic",
+    "Allergy Research Group"
+   ],
+   "paragraphs": [
+    "Magnesium Glycinate provides 125 mg of highly absorbable magnesium bisglycinate plus vitamin C for antioxidant and cardiovascular support. This gentle, well-tolerated formula supports calm, muscle relaxation, and heart and nervous system health.",
+    "Maximize metabolic processes and minimize tension by adding this essential mineral to the daily regimen. Magnesium Glycinate is a bioavailable form of magnesium that supports restful sleep, and a relaxed body and mind."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement, take 1 capsule daily, or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hydroxypropyl methylcellulose, microcrystalline cellulose."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant or lactating, have any health condition or are taking any medication, consult your healthcare practitioner before use. Store in a cool, dry place, tightly capped, away from light. Keep out of the reach of children. Use only if safety seal is intact. Variations in product color may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2011"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBM-00439"
+  },
+  {
+   "label": "UPC",
+   "value": "838287004394"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.17 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 capsule"
+  ],
+  [
+   "Servings Per Container: 180"
+  ],
+  [
+   "",
+   "Amount Per Capsule",
+   "% Daily Value"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid and Ascorbyl Palmitate)",
+   "25 mg",
+   "28%"
+  ],
+  [
+   "Magnesium (as Magnesium Bisglycinate)",
+   "125 mg",
+   "30%"
+  ],
+  [
+   "† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Capsule\t% Daily Value",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "180"
+    },
+    {
+     "label": "Best by",
+     "value": "08/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,115.55",
+  "฿1,115.55",
+  "฿6.20/‏serving",
+  "{0}% off code: {1}",
+  "฿1,115.55",
+  "Save 0% in cart",
+  "฿6.20/‏serving",
+  "฿1,115.55",
+  "(0% off)",
+  "฿1,115.55",
+  "฿6.20/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/g/71.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/k/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/g/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/s/77.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbm/mbm00439/s/79.jpg"
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "pid": "86604",
+ "slug": "petitfee-super-volume-lip-oil-0-1-oz-3-g",
+ "scrapedAt": "2026-08-25T17:47:34.954Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/petitfee-super-volume-lip-oil-0-1-oz-3-g.jpg",
+  "/products/iherb/petitfee-super-volume-lip-oil-0-1-oz-3-g-2.jpg",
+  "/products/iherb/petitfee-super-volume-lip-oil-0-1-oz-3-g-3.jpg",
+  "/products/iherb/petitfee-super-volume-lip-oil-0-1-oz-3-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/petitfee-super-volume-lip-oil-0-1-oz-3-g/86604",
+ "pageTitle": "Petitfee, Super Volume Lip Oil, 0.1 oz (3 g)",
+ "h1": "Petitfee, Super Volume Lip Oil, 0.1 oz (3 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "86604",
+  "name": "Petitfee, Super Volume Lip Oil, 0.1 oz (3 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/g/89.jpg",
+  "mpn": "PTT-85038",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.4,
+   "reviewCount": 10370
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Petitfee",
+   "url": "https://en.petitfee.com",
+   "identifier": "PTT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Beauty",
+   "identifier": "100483"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "220.09",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "366.82",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Volumizing + Firming + Nourishing A special lip oil that gives the lips natural vitality and elasticity. The natural colors are affected by direct sunlight, and may fade during use, but this is not related to quality.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "0.85x0.85"
+  },
+  "isRelatedTo": null,
+  "sku": "PTT-85038",
+  "gtin12": "8809508850382",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/g/89.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Beauty",
+  "Makeup",
+  "Lips",
+  "Lip Oil"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Volumizing + Firming + Nourishing"
+   ],
+   "paragraphs": [
+    "A special lip oil that gives the lips natural vitality and elasticity.",
+    "The natural colors are affected by direct sunlight, and may fade during use, but this is not related to quality."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Apply to lips every so often when dry."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hydrogenated polyisobutene, simmondsia chinensis (jojoba) seed oil, caprylic/capric triglyceride, ethylene/propylene/styrene copolymer, macadamia ternifolia seed oil, corylus avellana (hazelnut) seed oil, prunus amygdalus dulcis (sweet almond) oil, helianthus annuus (sunflower) seed oil, butylene/ethylene /styrene copolymer, tocopherol, eclipta prostrata extract, sclerocarya birrea seed oil, fragrance/parfum. water, rosa canina fruit oil, opuntia ficus-indica seed oil, melia azadirachta leaf extract, calendula officinalis flower oil, bht, moringa oleifera seed oil, glycerin, 1,2-hexanediol, rose extract, calendula officinalis flower extract, anemarrhena asphodeloides root extract, alpha-isomethyl ionone, citronellol, geraniol, linalool."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For external use only. Keep out of reach of children. Do not apply to skin if you have any scratches, lacerations or skin complications. Stop using if signs of irritation, itchiness or rash appears."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.02 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PTT-85038"
+  },
+  {
+   "label": "UPC",
+   "value": "8809508850382"
+  },
+  {
+   "label": "Package quantity",
+   "value": "3 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.6 x 2.2 x 2.2 cm, 0.02 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "3 g"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "K-Beauty Lip Care",
+   "href": "/c/k-beauty-lip-care?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "Lip Oil",
+   "href": "/c/lip-oil?sr=2"
+  },
+  {
+   "rank": "#1 in",
+   "category": "K-Beauty Lip Oil",
+   "href": "/c/k-beauty-lip-oil?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿366.82",
+  "฿366.82",
+  "฿122.27/‏g",
+  "{0}% off code: {1}",
+  "฿366.82",
+  "Save 40% in cart",
+  "฿122.27/‏g",
+  "฿220.09",
+  "(40% off)",
+  "Clearance sale",
+  "When products near the end of their shelf life with us, we can offer them to you at the steepest discount. Same quality, now at the lowest price.Discount reflects the \"Best by” date. This product is non-returnable.",
+  "฿366.82"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/g/89.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/k/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/g/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/s/89.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/s/91.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/s/92.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/s/93.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptt/ptt85038/b/89.jpg"
+ ]
+}

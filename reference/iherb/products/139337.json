@@ -1,0 +1,263 @@
+{
+ "pid": "139337",
+ "slug": "phytoral-kids-melatonin-gummies-strawberry-60-gummies",
+ "scrapedAt": "2026-08-25T17:37:36.975Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/phytoral-kids-melatonin-gummies-strawberry-60-gummies.jpg",
+  "/products/iherb/phytoral-kids-melatonin-gummies-strawberry-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/phytoral-kids-melatonin-gummies-strawberry-60-gummies/139337",
+ "pageTitle": "Phytoral, Kids, Melatonin Gummies, Strawberry, 60 Gummies",
+ "h1": "Phytoral, Kids, Melatonin Gummies, Strawberry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "139337",
+  "name": "Phytoral, Kids, Melatonin Gummies, Strawberry, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/g/24.jpg",
+  "mpn": "PHT-19128",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 51
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Phytoral",
+   "url": "https://phytoral.com/",
+   "identifier": "PHT"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "426.79",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "533.49",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Gentle Sleep Support For Relief of Occasional Sleeplessness Only Dietary Supplement Sourced from a GMP Certified Facility 3rd Party Lab Verified Help kids get to bed faster with our delicious children's melatonin gummies that’s easily one of the best for kids to sleep well and sleep tight with added mood support. Go natural for your kids and ditch those sleeping pills for our children's melatonin gummy with sleep vitamins that will have kids asking for their nighttime. Kids gummy vitamins are a great way to encourage kids and our restful sleep gummies are an top choice for your kids sleeping gummies because we use only the finest ingredients.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.35x2.35"
+  },
+  "isRelatedTo": null,
+  "sku": "PHT-19128",
+  "gtin12": "761245191280",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Melatonin & Sleep Aids"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Gentle Sleep Support",
+    "For Relief of Occasional Sleeplessness Only",
+    "Dietary Supplement",
+    "Sourced from a GMP Certified Facility",
+    "3rd Party Lab Verified"
+   ],
+   "paragraphs": [
+    "Help kids get to bed faster with our delicious children's melatonin gummies that’s easily one of the best for kids to sleep well and sleep tight with added mood support.",
+    "Go natural for your kids and ditch those sleeping pills for our children's melatonin gummy with sleep vitamins that will have kids asking for their nighttime.",
+    "Kids gummy vitamins are a great way to encourage kids and our restful sleep gummies are an top choice for your kids sleeping gummies because we use only the finest ingredients."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "For adults and children over 4, take 1 gummy daily or as directed by a healthcare professional. Chew thoroughly before swallowing."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic tapioca syrup, cane sugar, water, pectin, citric acid, natural strawberry flavor, sodium citrate, and black carrot extract (for color).",
+    "This product is manufactured and packaged in a facility which may also process milk, soy, wheat, egg, peanuts, tree nuts, fish and crustacean shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Take only as directed. Do not exceed suggested dosage. This product is not intended for pregnant or nursing mothers or individuals taking any prescription medication including anti-depressants. Avoid driving or performing other potentially dangerous tasks while taking this formula. If you have questions about the advisability of taking this product, consult a physician prior to use. This product may settle during shipping. Natural colors will darken over time. This does not alter the potency of the product.",
+    "Keep out of the reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PHT-19128"
+  },
+  {
+   "label": "UPC",
+   "value": "761245191280"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6 x 6 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "<1%†"
+  ],
+  [
+   "Total Sugars",
+   "1 g",
+   "**"
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%†"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "Melatonin",
+   "1 mg",
+   "**"
+  ],
+  [
+   "†Percent Daily Value based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Percent Daily Value based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "10/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": []
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In Stock - Only 8 left"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿533.49",
+  "฿533.49",
+  "฿8.89/‏serving",
+  "{0}% off code: {1}",
+  "฿533.49",
+  "Save 20% in cart",
+  "฿8.89/‏serving",
+  "฿426.79",
+  "(20% off)",
+  "฿533.49",
+  "฿7.11/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pht/pht19128/s/29.jpg"
+ ]
+}

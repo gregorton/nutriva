@@ -1,0 +1,358 @@
+{
+ "pid": "105044",
+ "slug": "whisps-cheese-crisps-asiago-pepper-jack-2-12-oz-60-g",
+ "scrapedAt": "2026-08-25T17:45:49.011Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/whisps-cheese-crisps-asiago-pepper-jack-2-12-oz-60-g.jpg",
+  "/products/iherb/whisps-cheese-crisps-asiago-pepper-jack-2-12-oz-60-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/whisps-cheese-crisps-asiago-pepper-jack-2-12-oz-60-g/105044",
+ "pageTitle": "Whisps, Cheese Crisps, Asiago & Pepper Jack , 2.12 oz ( 60 g)",
+ "h1": "Whisps, Cheese Crisps, Asiago & Pepper Jack , 2.12 oz ( 60 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "105044",
+  "name": "Whisps, Cheese Crisps, Asiago & Pepper Jack , 2.12 oz ( 60 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/g/22.jpg",
+  "mpn": "WHP-41524",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 1523
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Whisps",
+   "url": "https://whisps.com/",
+   "identifier": "WHP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Grocery",
+   "identifier": "2992"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.15",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "111.83",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "129.93",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": "2026-08-27T00:00:00"
+  },
+  "description": "Resealable 11 g Protein Per Serving 0 g Sugar Per Serving 1 g Carbs Per Serving Gluten Simply Grated & Baked Made with 100% Real Cheese From Master Cheese Makers rBST Free † Excellent Source of Calcium We Start with Premium Cheese then we Bake it to Crunch As Cheese Whisperers™, we bring artisanal cheese into snacking. Made with Aged Asiago and Pepper Jack cheeses selected by Master Cheesemakers, we grate and then bake into crunchy satisfying crisps. Real Cheese. Real Snacks. †Milk is obtained from cows that are not treated with rBST. No signigicant difference has been shown between milk derived from cows treated with synthetic bovine somatotropin and milk derived from untreated cows.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "6.05x1.5"
+  },
+  "isRelatedTo": null,
+  "sku": "WHP-41524",
+  "gtin12": "088231415244",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/g/22.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Grocery",
+  "Snacks",
+  "Chips"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Resealable",
+    "11 g Protein Per Serving",
+    "0 g Sugar Per Serving",
+    "1 g Carbs Per Serving",
+    "Gluten",
+    "Simply Grated & Baked",
+    "Made with 100% Real Cheese From Master Cheese Makers",
+    "rBST Free†",
+    "Excellent Source of Calcium"
+   ],
+   "paragraphs": [
+    "We Start with Premium Cheese then we Bake it to Crunch",
+    "As Cheese Whisperers™, we bring artisanal cheese into snacking. Made with Aged Asiago and Pepper Jack cheeses selected by Master Cheesemakers, we grate and then bake into crunchy satisfying crisps. Real Cheese. Real Snacks.",
+    "†Milk is obtained from cows that are not treated with rBST. No signigicant difference has been shown between milk derived from cows treated with synthetic bovine somatotropin and milk derived from untreated cows."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Perfect for snacking straight out of the bag or adding to soups, salads or an appetizer plate."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Asiago cheese (pasteurized part-skimmed cow's milk, salt, cheese cultures, enzymes), pepper jack cheese (cultured pasteurized cow's milk, jalapeños, habaneros, salt, dried chipotle chiles, enzymes, annatto [color]).",
+    "Contains: Milk.",
+    "Packaged in a facility that also packages tree nuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Product sold by weight, not volume. Contents tend to settle after packaging. Some breakage may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "WHP-41524"
+  },
+  {
+   "label": "UPC",
+   "value": "088231415244"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16 x 15.4 x 3.8 cm, 0.07 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: About 15 crisps (28 g)"
+  ],
+  [
+   "Servings Per Container: About 2"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV*",
+   "Amount Per Container",
+   "%DV*"
+  ],
+  [
+   "Calories",
+   "170",
+   "",
+   "370",
+   ""
+  ],
+  [
+   "Total Fat",
+   "14 g",
+   "18%",
+   "29 g",
+   "37%"
+  ],
+  [
+   "Saturated Fat",
+   "9 g",
+   "45%",
+   "18 g",
+   "90%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   "",
+   "1 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "35 mg",
+   "12%",
+   "70 mg",
+   "23%"
+  ],
+  [
+   "Sodium",
+   "320 mg",
+   "14%",
+   "690 mg",
+   "30%"
+  ],
+  [
+   "Total Carbohydrate",
+   "1 g",
+   "0%",
+   "1 g",
+   "0%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes Added Sugars",
+   "0 g",
+   "0%",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Protein",
+   "11 g",
+   "23%",
+   "24 g",
+   "48%"
+  ],
+  [
+   "Vitamin D",
+   "0.4 mcg",
+   "2%",
+   "0.9 mcg",
+   "4%"
+  ],
+  [
+   "Calcium",
+   "340 mg",
+   "25%",
+   "720 mg",
+   "60%"
+  ],
+  [
+   "Iron",
+   "0.1 mg",
+   "0%",
+   "0.2 mg",
+   "2%"
+  ],
+  [
+   "Potassium",
+   "30 mg",
+   "0%",
+   "70 mg",
+   "2%"
+  ],
+  [
+   "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "*The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Total servings",
+     "value": "2"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Sugar-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 g",
+   "pid": "105044",
+   "url": "https://th.iherb.com/pr/whisps-cheese-crisps-asiago-pepper-jack-2-12-oz-60-g/105044",
+   "price": "฿111.83",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "170 g",
+   "pid": "104783",
+   "url": "https://th.iherb.com/pr/whisps-cheese-crisps-parmesan-6-oz-170-g/104783",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock - Only 4 left, more to come",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿129.93",
+  "฿129.93",
+  "฿64.97/‏serving",
+  "{0}% off code: {1}",
+  "฿129.93",
+  "Save 14% in cart",
+  "฿64.97/‏serving",
+  "฿111.83",
+  "(14% off)",
+  "฿129.93",
+  "฿55.92/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/g/22.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/k/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/g/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/s/22.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/s/23.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/whp/whp41524/b/22.jpg"
+ ]
+}

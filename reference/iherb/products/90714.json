@@ -1,0 +1,257 @@
+{
+ "pid": "90714",
+ "slug": "california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets",
+ "scrapedAt": "2026-08-25T17:44:29.494Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "3K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets-2.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets-3.jpg",
+  "/products/iherb/california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets/90714",
+ "pageTitle": "California Gold Nutrition, Magnesium Chelate with Calcium, 90 Tablets",
+ "h1": "California Gold Nutrition, Magnesium Chelate with Calcium, 90 Tablets",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "90714",
+  "name": "California Gold Nutrition, Magnesium Chelate with Calcium, 90 Tablets",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/g/209.jpg",
+  "mpn": "CGN-01298",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 11346
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.22",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "250.67",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "313.34",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Chelated for Better Absorption Suitable for Vegetarians and Vegans Formulated without Gluten, GMOs, or Soy California Gold Nutrition® Magnesium Chelate is an essential mineral supplement that contains a chelated form of magnesium to help support the health of your bones, heart, nerves, and muscles.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "1.95x1.95"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-01298",
+  "gtin12": "898220012985",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/g/209.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Chelated for Better Absorption",
+    "Suitable for Vegetarians and Vegans",
+    "Formulated without Gluten, GMOs, or Soy"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Magnesium Chelate is an essential mineral supplement that contains a chelated form of magnesium to help support the health of your bones, heart, nerves, and muscles.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 tablets daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2019"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-01298"
+  },
+  {
+   "label": "UPC",
+   "value": "898220012985"
+  },
+  {
+   "label": "Package quantity",
+   "value": "90 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "8.9 x 5 x 5 cm, 0.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Tablets"
+  ],
+  [
+   "Servings Per Container: 45"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value"
+  ],
+  [
+   "Calcium(from Dicalcium Phosphate Dihydrate)",
+   "67 mg",
+   "5%"
+  ],
+  [
+   "Magnesium(from Magnesium Amino Acid Chelate)",
+   "210 mg",
+   "50%"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 tablets"
+    },
+    {
+     "label": "Total servings",
+     "value": "45"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "90 count",
+   "pid": "90714",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-chelate-with-calcium-90-tablets/90714",
+   "price": "฿250.67",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "270 count",
+   "pid": "104991",
+   "url": "https://th.iherb.com/pr/california-gold-nutrition-magnesium-chelate-with-calcium-270-tablets/104991",
+   "price": "฿571.45",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "3,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿313.34",
+  "฿313.34",
+  "฿6.96/‏serving",
+  "{0}% off code: {1}",
+  "฿313.34",
+  "Save 20% in cart",
+  "฿6.96/‏serving",
+  "฿250.67",
+  "(20% off)",
+  "฿313.34",
+  "฿5.57/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/g/209.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/k/209.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/g/209.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/s/209.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/s/214.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/s/219.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/s/129.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/s/127.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn01298/s/128.jpg"
+ ]
+}

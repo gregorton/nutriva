@@ -1,0 +1,221 @@
+{
+ "pid": "45513",
+ "slug": "mild-by-nature-tear-free-baby-shampoo-body-wash-peach-12-85-fl-oz-380",
+ "scrapedAt": "2026-08-25T17:46:03.756Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "1K+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-tear-free-baby-shampoo-body-wash-peach-12-85-fl-oz-380.jpg",
+  "/products/iherb/mild-by-nature-tear-free-baby-shampoo-body-wash-peach-12-85-fl-oz-380-2.jpg",
+  "/products/iherb/mild-by-nature-tear-free-baby-shampoo-body-wash-peach-12-85-fl-oz-380-3.jpg",
+  "/products/iherb/mild-by-nature-tear-free-baby-shampoo-body-wash-peach-12-85-fl-oz-380-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-tear-free-baby-shampoo-body-wash-peach-12-85-fl-oz-380-ml/45513",
+ "pageTitle": "Mild By Nature, Tear-Free Baby Shampoo & Body Wash, Peach, 12.85 fl oz (380 ml)",
+ "h1": "Mild By Nature, Tear-Free Baby Shampoo & Body Wash, Peach, 12.85 fl oz (380 ml)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "45513",
+  "name": "Mild By Nature, Tear-Free Baby Shampoo & Body Wash, Peach, 12.85 fl oz (380 ml)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/g/107.jpg",
+  "mpn": "MBN-00249",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 21271
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.94",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "322.97",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "430.63",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild By Nature Tear-Free Baby Shampoo and Body Wash Lightly Peach Scented Featuring Evening Primrose and Linseed Oils Plus Soothing Calendula and Oat Kernel Extracts pH Balanced and Suitable for All Skin Types 1 Formulated Without Parabens, Sulfates, or Dyes No Animal Testing or Animal Ingredients Formulated to be Good for People and the Planet With sensitive skin, babies need a calming, mild cleanser to gently wash them without causing irritation. Mild By Nature Tear-Free Baby Shampoo and Body Wash is lightly scented with peach and features natural oils and extracts, helping to gently clean your baby's delicate hair and skin. Our special formula contains beneficial evening primrose and linseed oils. We’ve also added extracts from marigold flowers (calendula) and oat kernel, as well as colloidal oatmeal, all of which have been used to soothe and nourish sensitive skin for ages. This Shampoo and Body Wash has been formulated to thoroughly clean your baby from head to toe without using harsh, drying surfactants, making it mild enough for all babies, even newborns!",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.6x2.6"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-00249",
+  "gtin12": "898220002498",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/g/107.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Baby & Kids Bath, Skin & Hair",
+  "Baby & Kids All-in-One Shampoo & Wash"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild By Nature Tear-Free Baby Shampoo and Body Wash",
+    "Lightly Peach Scented",
+    "Featuring Evening Primrose and Linseed Oils",
+    "Plus Soothing Calendula and Oat Kernel Extracts",
+    "pH Balanced and Suitable for All Skin Types1",
+    "Formulated Without Parabens, Sulfates, or Dyes",
+    "No Animal Testing or Animal Ingredients",
+    "Formulated to be Good for People and the Planet"
+   ],
+   "paragraphs": [
+    "With sensitive skin, babies need a calming, mild cleanser to gently wash them without causing irritation. Mild By Nature Tear-Free Baby Shampoo and Body Wash is lightly scented with peach and features natural oils and extracts, helping to gently clean your baby's delicate hair and skin.",
+    "Our special formula contains beneficial evening primrose and linseed oils. We’ve also added extracts from marigold flowers (calendula) and oat kernel, as well as colloidal oatmeal, all of which have been used to soothe and nourish sensitive skin for ages. This Shampoo and Body Wash has been formulated to thoroughly clean your baby from head to toe without using harsh, drying surfactants, making it mild enough for all babies, even newborns!"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Shake before each use. Apply to a soft, cotton washcloth and gently cleanse your baby from head to toe."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Water (Aqua), Sodium Cocoyl Isethionate, Decyl Glucoside, Cocamide DIPA, Sodium Lauryl Glucose Carboxylate, Hydroxypropyl Starch Phosphate, Lauryl Glucoside, Sodium Lauroyl Sarcosinate, Caprylyl Glycol, Glycerin, Sodium Hydroxypropylsulfonate, Laurylglucoside Crosspolymer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Fragrance (Parfum), Caprylhydroxamic Acid, Sorbic Acid, Aloe Barbadensis Aloe Vera Leaf Juice, Oat (Avena Sativa) Kernel Meal, Calendula Officinalis Flower Extract, Evening Primrose (Oenothera Biennis) Oil, Borago Officinalis Extract, Linseed (Linum Usitatissimum) Seed Oil, Oat (Avena Sativa) Kernel Extract, Tocopherol, Potassium Sorbate, Limonene.",
+    "Formulated to be free of parabens, sulfates, dyes, animal testing, or animal ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [
+    "For external use only.",
+    "Avoid contact with eyes.",
+    "Keep out of reach of children."
+   ],
+   "paragraphs": [
+    "1Discontinue use if irritation occurs."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2012"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.43 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-00249"
+  },
+  {
+   "label": "UPC",
+   "value": "898220002498"
+  },
+  {
+   "label": "Package quantity",
+   "value": "380 ml"
+  },
+  {
+   "label": "Dimensions",
+   "value": "15.5 x 6.6 x 6.6 cm, 0.43 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "380 ml"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2027"
+    },
+    {
+     "label": "Skin concern",
+     "value": "Dryness & dehydration"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Sulfate-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿430.63",
+  "฿430.63",
+  "฿1.13/‏ml",
+  "{0}% off code: {1}",
+  "฿430.63",
+  "Save 25% in cart",
+  "฿1.13/‏ml",
+  "฿322.97",
+  "(25% off)",
+  "฿430.63",
+  "฿0.85/‏ml",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/g/107.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/k/107.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/g/107.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/s/107.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/s/112.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/s/115.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn00249/s/62.jpg"
+ ]
+}

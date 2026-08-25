@@ -1,0 +1,252 @@
+{
+ "pid": "160558",
+ "slug": "natural-vitality-calm-sleep-melatonin-magnesium-chews-nighttime-berry",
+ "scrapedAt": "2026-08-25T17:29:24.072Z",
+ "discovery": {
+  "category": "sleep",
+  "foundVia": "melatonin sleep",
+  "sold": null,
+  "flag": "New"
+ },
+ "images": [
+  "/products/iherb/natural-vitality-calm-sleep-melatonin-magnesium-chews-nighttime-berry.jpg",
+  "/products/iherb/natural-vitality-calm-sleep-melatonin-magnesium-chews-nighttime-berry-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/natural-vitality-calm-sleep-melatonin-magnesium-chews-nighttime-berry-60-soft-chews/160558",
+ "pageTitle": "Natural Vitality, Calm Sleep™, Melatonin + Magnesium Chews, Nighttime Berry, 60 Soft Chews",
+ "h1": "Natural Vitality, Calm Sleep™, Melatonin + Magnesium Chews, Nighttime Berry, 60 Soft Chews",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "160558",
+  "name": "Natural Vitality, Calm Sleep™, Melatonin + Magnesium Chews, Nighttime Berry, 60 Soft Chews",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/g/8.jpg",
+  "mpn": "PTG-79056",
+  "aggregateRating": null,
+  "brand": {
+   "@type": "Brand",
+   "name": "Natural Vitality",
+   "url": "http://naturalvitality.com/",
+   "identifier": "PTG"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.86",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "819.67",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "100% Drug Free Dietary Supplement Vegan Gluten-Free Next-level calm with melatonin + magnesium Unwind at the end of your day with this soothing blend of melatonin and magnesium. These relaxing chews help support your nightly routine so you wake up feeling refreshed and ready for the day ahead. The perfect way to take your calm to the next level-anytime you need a little extra help settling down. Why You'll Love It: 12 mg Melatonin per serving 50 mg Magnesium per serving 100% drug free sleep support Ideal for nights when you need calm and relaxation Delicious berry flavor soft chews",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.6x3.6"
+  },
+  "isRelatedTo": null,
+  "sku": "PTG-79056",
+  "gtin12": "850074790563",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Sleep",
+  "Sleep Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "100% Drug Free",
+    "Dietary Supplement",
+    "Vegan",
+    "Gluten-Free",
+    "12 mg Melatonin per serving",
+    "50 mg Magnesium per serving",
+    "100% drug free sleep support",
+    "Ideal for nights when you need calm and relaxation",
+    "Delicious berry flavor soft chews"
+   ],
+   "paragraphs": [
+    "Next-level calm with melatonin + magnesium",
+    "Unwind at the end of your day with this soothing blend of melatonin and magnesium. These relaxing chews help support your nightly routine so you wake up feeling refreshed and ready for the day ahead. The perfect way to take your calm to the next level-anytime you need a little extra help settling down.",
+    "Why You'll Love It:"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 vegan soft chews 30 minutes before bedtime as Melatonin may cause drowsiness. For best results, allow yourself to sleep more than 6 hours. This product is intended for short term, occasional use only. Do not exceed recommended dosage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Tapioca syrup, organic sugar, sustainable palm oil, flavor, citric acid, sunflower lecithin, fruit and vegetable juice (color), sea salt.",
+    "Freeof gluten, artificial sweetener, synthetic color."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. For adults only. Not intended for use by pregnant or lactating women. Consult your doctor before using this product if you have a medical condition, including kidney disease, or if you are currently on medication. Discontinue use if any adverse reactions occur. Consumption above recommended dosage may impair ability to drive a motor vehicle or operate heavy equipment. Tamper evident: do not use if safety seal is broken or missing. Store in a cool, dry place. avoid excessive heat."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "06/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PTG-79056"
+  },
+  {
+   "label": "UPC",
+   "value": "850074790563"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "10.9 x 9.1 x 9.1 cm, 0.39 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Vegan Soft Chews"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "8 g",
+   "3% ***"
+  ],
+  [
+   "Total Sugars",
+   "4 g",
+   "**"
+  ],
+  [
+   "Includes 2 g Added Sugars",
+   "",
+   "4% ***"
+  ],
+  [
+   "Magnesium (as lonic Magnesium Glycinate)",
+   "50 mg",
+   "12%"
+  ],
+  [
+   "Melatonin",
+   "12 mg",
+   "**"
+  ],
+  [
+   "** Daily Value not established.*** Percent Daily Values are based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "** Daily Value not established.",
+  "*** Percent Daily Values are based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 soft chews"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "No artificial colors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿819.67",
+  "฿819.67",
+  "฿27.32/‏serving",
+  "{0}% off code: {1}",
+  "฿819.67",
+  "Save 0% in cart",
+  "฿27.32/‏serving",
+  "฿819.67",
+  "(0% off)",
+  "฿819.67",
+  "฿27.32/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ptg/ptg79056/s/13.jpg"
+ ]
+}

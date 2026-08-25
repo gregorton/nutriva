@@ -1,0 +1,264 @@
+{
+ "pid": "143369",
+ "slug": "now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules",
+ "scrapedAt": "2026-08-25T17:26:42.573Z",
+ "discovery": {
+  "category": "minerals",
+  "foundVia": "magnesium glycinate",
+  "sold": "7K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules.jpg",
+  "/products/iherb/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules-2.jpg",
+  "/products/iherb/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules-3.jpg",
+  "/products/iherb/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369",
+ "pageTitle": "NOW Foods, Magnesium Glycinate With BioPerine®, 180 Veg Capsules",
+ "h1": "NOW Foods, Magnesium Glycinate With BioPerine®, 180 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "143369",
+  "name": "NOW Foods, Magnesium Glycinate With BioPerine®, 180 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/g/8.jpg",
+  "mpn": "NOW-01287",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 6397
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.59",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "728.69",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Nervous System Support Highly Absorbable Form Non-GMO A Dietary Supplement Vegetarian/Vegan Minerals Family Owned Since 1968 GMP Quality Assured Albion Minerals™ Magnesium glycinate utilizes magnesium bound to the amino acid glycine, which facilitates intestinal absorption. Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the processes that require magnesium are fat and protein production, as well as glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland. This product is enhanced with BioPerine®, a proprietary black pepper extract.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-01287",
+  "gtin12": "733739012876",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Minerals",
+  "Magnesium",
+  "Magnesium Glycinate"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Nervous System Support",
+    "Highly Absorbable Form",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Minerals",
+    "Family Owned Since 1968",
+    "GMP Quality Assured",
+    "Albion Minerals™"
+   ],
+   "paragraphs": [
+    "Magnesium glycinate utilizes magnesium bound to the amino acid glycine, which facilitates intestinal absorption. Magnesium is a mineral that is critical for energy production and metabolism, muscle contraction, nerve impulse transmission, and bone mineralization. It is a required cofactor for an estimated 300 enzymes. Among the processes that require magnesium are fat and protein production, as well as glucose metabolism. Magnesium status is also important for regulation of calcium balance through its effects on the parathyroid gland. This product is enhanced with BioPerine®, a proprietary black pepper extract."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 capsules 1 to 2 times daily with food."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), citric acid, ascorbyl palmitate, microcrystalline cellulose and silicon dioxide.",
+    "Made and quality tested in the USA with globally sourced ingredients.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients. Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition.",
+    "Keep out of reach of children.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "07/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-01287"
+  },
+  {
+   "label": "UPC",
+   "value": "733739012876"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.3 x 7.2 x 7.2 cm, 0.27 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Veg Capsules"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Magnesium (elemental)(from Magnesium Bisglycinate) (Albion™)",
+   "200 mg",
+   "48%"
+  ],
+  [
+   "Black Pepper Fruit Extract (BioPerine®)(min. 96% Piperine)",
+   "2.5 mg",
+   "+"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 veg capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "60 count",
+   "pid": "144961",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-60-veg-capsules/144961",
+   "price": "฿343.85",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "180 count",
+   "pid": "143369",
+   "url": "https://th.iherb.com/pr/now-foods-magnesium-glycinate-with-bioperine-180-veg-capsules/143369",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "7,500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿728.69",
+  "฿728.69",
+  "฿8.10/‏serving",
+  "{0}% off code: {1}",
+  "฿728.69",
+  "Save 0% in cart",
+  "฿8.10/‏serving",
+  "฿728.69",
+  "(0% off)",
+  "฿728.69",
+  "฿8.10/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/16.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/17.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/19.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01287/s/20.jpg"
+ ]
+}

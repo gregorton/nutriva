@@ -1,0 +1,336 @@
+{
+ "pid": "140701",
+ "slug": "dr-murray-s-super-foods-3-seed-protein-powder-pumpkin-flax-sunflower-u",
+ "scrapedAt": "2026-08-25T17:25:32.963Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "500+",
+  "flag": "Only at iHerb"
+ },
+ "images": [
+  "/products/iherb/dr-murray-s-super-foods-3-seed-protein-powder-pumpkin-flax-sunflower-u.jpg",
+  "/products/iherb/dr-murray-s-super-foods-3-seed-protein-powder-pumpkin-flax-sunflower-u-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/dr-murray-s-super-foods-3-seed-protein-powder-pumpkin-flax-sunflower-unflavored-2-lb-908-g/140701",
+ "pageTitle": "Dr. Murray's, Super Foods, 3 Seed Protein Powder, Pumpkin + Flax + Sunflower, Unflavored, 2 lb (908 g)",
+ "h1": "Dr. Murray's, Super Foods, 3 Seed Protein Powder, Pumpkin + Flax + Sunflower, Unflavored, 2 lb (908 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "140701",
+  "name": "Dr. Murray's, Super Foods, 3 Seed Protein Powder, Pumpkin + Flax + Sunflower, Unflavored, 2 lb (908 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/g/6.jpg",
+  "mpn": "DMY-35335",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.5,
+   "reviewCount": 6319
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Dr. Murray's",
+   "url": "https://www.doctormurraysuperfoods.com/",
+   "identifier": "DMY"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.08",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1057.64",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Plant-Based Protein Blend 18 g Protein* 0 g Net Carbs* 0 g Sugar* 120 Calories* 100% Vegan Soy Free Keto Friendly Non GMO Dairy Free Gluten Free Dr. Murray's Vegan Protein delivers 9 grams of protein per serving from Pumpkin, Flax and Sunflower Seeds. These sources combine to offer significant advantages compared to other vegan proteins in terms of amino acid profile, fiber content, antioxidants, magnesium, and other valuable nutrients. Our unique protein is delicious, easy to digest and formulated without artificial flavors, colors or sweeteners. Enjoy the smooth clean taste of our three seed protein blend, and all the nutritional benefits they provide! *2 Scoops Contain.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "7.95x5.2"
+  },
+  "isRelatedTo": null,
+  "sku": "DMY-35335",
+  "gtin12": "850010353357",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/g/6.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Plant Based Protein",
+  "Plant Based Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Plant-Based Protein Blend",
+    "18 g Protein*",
+    "0 g Net Carbs*",
+    "0 g Sugar*",
+    "120 Calories*",
+    "100% Vegan",
+    "Soy Free",
+    "Keto Friendly",
+    "Non GMO",
+    "Dairy Free",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "Dr. Murray's Vegan Protein delivers 9 grams of protein per serving from Pumpkin, Flax and Sunflower Seeds. These sources combine to offer significant advantages compared to other vegan proteins in terms of amino acid profile, fiber content, antioxidants, magnesium, and other valuable nutrients. Our unique protein is delicious, easy to digest and formulated without artificial flavors, colors or sweeteners. Enjoy the smooth clean taste of our three seed protein blend, and all the nutritional benefits they provide!",
+    "*2 Scoops Contain."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Add one level scoop (15grams) to 6-8 ounces of cold water, juice, milk, non-dairy beverage or blend with yogurt. When mixing, add liquid first then powder and stir briskly until completely dispersed. For best results, mix in a shaker bottle for 30 seconds. For a delicious smoothie, mix with crushed ice and fruit in a blender."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Vegan protein blend (pumpkin protein, flax protein, sunflower protein).",
+    "Manufactured in a facility that processes dairy, eggs, soy lecithin, peanuts, and treenuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "This product is sold by weight, not volume, therefore settling of contents may occur during shipping and handling.",
+    "Best stored sealed in original packaging below 25℃ (77ºF) away from direct light, heat, and humidity."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.33 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DMY-35335"
+  },
+  {
+   "label": "UPC",
+   "value": "850010353357"
+  },
+  {
+   "label": "Package quantity",
+   "value": "908 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.4 x 20.2 x 13.2 cm, 0.95 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (15 g)"
+  ],
+  [
+   "Servings Per Container: Approx. 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "60",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "0.4 g",
+   "0%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "0 mg",
+   "0%"
+  ],
+  [
+   "Sodium",
+   "80 mg",
+   "4%"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "2 g",
+   "7%"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugar",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "9 g",
+   "18%"
+  ],
+  [
+   "Calcium",
+   "20 mg",
+   "1%"
+  ],
+  [
+   "Iron",
+   "2 mg",
+   "12%"
+  ],
+  [
+   "Potassium",
+   "220 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Ketogenic diet",
+    "Halal",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "453.5 g",
+   "pid": "101028",
+   "url": "https://th.iherb.com/pr/dr-murray-s-3-seed-superfood-protein-vegan-powder-unflavored-16-oz-435-5-g/101028",
+   "price": "฿537.70",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "908 g",
+   "pid": "140701",
+   "url": "https://th.iherb.com/pr/dr-murray-s-super-foods-3-seed-protein-powder-pumpkin-flax-sunflower-unflavored-2-lb-908-g/140701",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#14 in",
+   "category": "Protein Blends",
+   "href": "/c/protein-blends?sr=2"
+  },
+  {
+   "rank": "#14 in",
+   "category": "Plant Based Protein Blends",
+   "href": "/c/plant-based-protein-blends?sr=2"
+  },
+  {
+   "rank": "#18 in",
+   "category": "Plant Based Protein",
+   "href": "/c/plant-based-protein?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,057.64",
+  "฿1,057.64",
+  "฿17.63/‏serving",
+  "{0}% off code: {1}",
+  "฿1,057.64",
+  "Save 0% in cart",
+  "฿17.63/‏serving",
+  "฿1,057.64",
+  "(0% off)",
+  "฿1,057.64",
+  "฿17.63/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/g/6.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/k/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/g/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/s/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/s/7.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dmy/dmy35335/b/6.jpg"
+ ]
+}

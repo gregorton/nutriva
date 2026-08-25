@@ -1,0 +1,285 @@
+{
+ "pid": "102437",
+ "slug": "probulin-total-care-probiotic-20-billion-cfu-30-capsules",
+ "scrapedAt": "2026-08-25T17:13:59.644Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/probulin-total-care-probiotic-20-billion-cfu-30-capsules.jpg",
+  "/products/iherb/probulin-total-care-probiotic-20-billion-cfu-30-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/probulin-total-care-probiotic-20-billion-cfu-30-capsules/102437",
+ "pageTitle": "Probulin, Total Care Probiotic, 20 Billion CFU, 30 Capsules",
+ "h1": "Probulin, Total Care Probiotic, 20 Billion CFU, 30 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102437",
+  "name": "Probulin, Total Care Probiotic, 20 Billion CFU, 30 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/g/50.jpg",
+  "mpn": "PBL-00343",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 757
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Probulin",
+   "url": "https://probulin.com/",
+   "identifier": "PBL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Health Topics",
+   "identifier": "105569"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1181.17",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "The Next Generation of Probiotics ™ Broad-Spectrum Digestive Support +Prebiotic & Postbiotic 20 Billion CFU† Doctor Formulated § 15 Scientifically-Studied Probiotic Strains 20 Billion CFU‡ (8 Billion from Fermented Fruits & Vegetables) MakTrek® 3-D for Increased Probiotic Survival Dietary Supplement No GMOs No Gluten No Wheat No Dairy No Magnesium Stearate No Soy Halal Broad-Spectrum Digestive Support: Pre- Pro - Post Prebiotic : Probulin's ® Total Care Probiotic features our prebiotic, which acts as food for the probiotic bacteria. Probiotic : This product contains 12 billion cfu† + 8 billion cfu† from fermented fruits & vegetables, providing broad spectrum support to the digestive microbiome. Postbiotic : Postbiotic is a term used to describe the abundant and unique compounds produced by the activity of probiotic bacteria. These unique compounds participate in supporting a healthy digestive microbiome. Probulin goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut. Our scientifically-validated MAKTrek 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work. Formulated by a board certified Naturopathic Doctor with 15 different probiotic strains and 20 Billion CFU†, including 8 Billion cfu* from kale, blueberries, beets, figs and raspberries. Formulated by: Jason Mitchell, N.D. § Board-certified Naturopathic Doctor specializing in research & development.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.4x1.65"
+  },
+  "isRelatedTo": null,
+  "sku": "PBL-00343",
+  "gtin12": "855757003435",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/g/50.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Health Topics",
+  "Travel",
+  "Wellness On-The-Go"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "The Next Generation of Probiotics™",
+    "Broad-Spectrum Digestive Support",
+    "+Prebiotic & Postbiotic",
+    "20 Billion CFU†",
+    "Doctor Formulated §",
+    "15 Scientifically-Studied Probiotic Strains",
+    "20 Billion CFU‡ (8 Billion from Fermented Fruits & Vegetables)",
+    "MakTrek® 3-D for Increased Probiotic Survival",
+    "Dietary Supplement",
+    "No GMOs",
+    "No Gluten",
+    "No Wheat",
+    "No Dairy",
+    "No Magnesium Stearate",
+    "No Soy",
+    "Halal"
+   ],
+   "paragraphs": [
+    "Broad-Spectrum Digestive Support: Pre- Pro - Post",
+    "Prebiotic: Probulin's® Total Care Probiotic features our prebiotic, which acts as food for the probiotic bacteria.",
+    "Probiotic: This product contains 12 billion cfu† + 8 billion cfu† from fermented fruits & vegetables, providing broad spectrum support to the digestive microbiome.",
+    "Postbiotic: Postbiotic is a term used to describe the abundant and unique compounds produced by the activity of probiotic bacteria. These unique compounds participate in supporting a healthy digestive microbiome.",
+    "Probulin goes the extra mile to ensure your probiotics are alive when you buy them, alive when you take them, and alive when they reach your gut.",
+    "Our scientifically-validated MAKTrek 3-D system includes a unique seaweed barrier to protect against stomach acid, prebiotic fiber for food, and electrolytes for hydration. Probulin probiotics arrive in the gut healthy and ready to work.",
+    "Formulated by a board certified Naturopathic Doctor with 15 different probiotic strains and 20 Billion CFU†, including 8 Billion cfu* from kale, blueberries, beets, figs and raspberries.",
+    "Formulated by: Jason Mitchell, N.D.",
+    "§ Board-certified Naturopathic Doctor specializing in research & development."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "No refrigeration required",
+    "Adults take one (1) capsule daily with or without food. For best results, take at bedtime. As a reminder, discuss the supplements and medications that you take with your health care providers."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Complex marine polysaccharides [brown seaweed (lessonia nigrescens)], vegetable cellulose (capsule shell), cellulose, tricalcium phosphate, non-gmo rice extract, sodium chloride, potassium chloride.",
+    "No: GMOs, wheat, gluten, dairy, eggs, magnesium stearate, soy, artificial flavors, artificial colors, artificial sweeteners or shellfish."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Refrigeration is not required but may help to extend shelf life. Store in a cool dry place at 72°F (22°C) or below.",
+    "Do not exceed recommended serving. Pregnant or nursing mothers, children under 18, and individuals with a known medical condition or who are taking any medication should consult a physician before using this or any dietary supplement. Do not use if seal is broken. Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "PBL-00343"
+  },
+  {
+   "label": "UPC",
+   "value": "855757003435"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.8 x 8.6 x 4.2 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "Servings Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "Total Care Probiotic Blend (20 Billion cfu)Lactobacillus Blend + Lactobacillus (8.7 Billion cfu)Fermentation Blend (from Organic Beet, Organic Kale, Organic Raspberry, Organic Fig, Organic Blueberry)Lactobacillus acidophilus MAK32L61A, MAK32L77ALactobacillus fermentum MAK20L13FLactobacillus rhamnosus MAK79L08RLactobacillus reuteri MAK02L14RLactobacillus brevis MAK11L82BLactobacillus bulgaricus MAK55L88BLactobacillus helveticus MAK18L62HBifidobacteria Blend + Bifidobacteria (5.5 Billion cfu)Fermentation Blend (from Organic Beet, Organic Kale, Organic Raspberry, Organic Fig, Organic Blueberry)Bifidobacteria longum MAK34B12LBifidobacteria lactis MAK16B42L, MAK16B15LBifidobacteria bifidum MAK53B66BTotal Other Probiotics (5.8 Billion cfu)Saccharomyces boulardii MAK08S06BPediococcus acidilactici MAK92P26APediococcus pentosaceus MAK99P15PPropionibacterium freudenreichii MAK10P23FStreptococcus thermophilus MAK34S24TPostbiotic + Prebiotic Blend (40 mg)(Maktabolite® Postbiotic + Inulin [from chicory])",
+   "380 mg",
+   "************************"
+  ],
+  [
+   "**Percent Daily Values based on a 2,000 calorie diet.*Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†",
+  "Amount Per Serving\t%Daily Value*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "*",
+  "**Percent Daily Values based on a 2,000 calorie diet.",
+  "*Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "09/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#30 in",
+   "category": "Prebiotics",
+   "href": "/c/prebiotics?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,181.17",
+  "฿1,181.17",
+  "฿39.37/‏serving",
+  "{0}% off code: {1}",
+  "฿1,181.17",
+  "Save 0% in cart",
+  "฿39.37/‏serving",
+  "฿1,181.17",
+  "(0% off)",
+  "฿1,181.17",
+  "฿39.37/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/g/50.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/k/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/g/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/s/50.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pbl/pbl00343/s/51.jpg"
+ ]
+}

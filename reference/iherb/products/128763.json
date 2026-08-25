@@ -1,0 +1,439 @@
+{
+ "pid": "128763",
+ "slug": "designer-wellness-designer-whey-natural-100-whey-protein-powder-gourme",
+ "scrapedAt": "2026-08-25T17:30:27.845Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/designer-wellness-designer-whey-natural-100-whey-protein-powder-gourme.jpg",
+  "/products/iherb/designer-wellness-designer-whey-natural-100-whey-protein-powder-gourme-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/designer-wellness-designer-whey-natural-100-whey-protein-powder-gourmet-chocolate-12-oz-340-g/128763",
+ "pageTitle": "Designer Wellness, Designer Whey, Natural 100% Whey Protein Powder, Gourmet Chocolate, 12 oz (340 g)",
+ "h1": "Designer Wellness, Designer Whey, Natural 100% Whey Protein Powder, Gourmet Chocolate, 12 oz (340 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "128763",
+  "name": "Designer Wellness, Designer Whey, Natural 100% Whey Protein Powder, Gourmet Chocolate, 12 oz (340 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/g/25.jpg",
+  "mpn": "DEP-00130",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 64
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Designer Wellness",
+   "url": "http://designerprotein.com/",
+   "identifier": "DEP"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.90",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "890.96",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Natural 100% Whey Protein Powder* With Probiotics 20 g Protein † 2 g Sugar † 110 Calories † Protein with More Than 100% of Key B-Vitamins for Energy Gluten Free Certified Kosher Dairy Trusted Since 1993 Designer Wellness's diverse family of protein powders have been crafted in the health-oriented seaside community of Carlsbad, CA for over 25 years. Today, its unparalleled heritage of innovation is stronger than ever. Protein-Rich Nutrition Loaded with B-Vitamins, natural plant enzymes and microbial probiotics for digestibility. Plus, calcium, vitamin D, phosphorus, magnesium and electrolytes are included to assist post-workout recovery. Zinc has been shown to aid in boosting the immune system and energy metabolism. From A Natural Source Made from natural, GMO-free whey from midwest cows cared for with a diet free of artificial growth hormones and antibiotics. There are no artificial colors, flavors, sweeteners or preservatives in our protein powder. It contains no gluten and is 93% lactose-free. †Per Serving *Natural whey protein with added nutritional benefits.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "4.05x4.05"
+  },
+  "isRelatedTo": null,
+  "sku": "DEP-00130",
+  "gtin12": "844334001308",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/g/25.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Natural 100% Whey Protein Powder*",
+    "With Probiotics",
+    "20 g Protein†",
+    "2 g Sugar†",
+    "110 Calories†",
+    "Protein with More Than 100% of Key B-Vitamins for Energy",
+    "Gluten Free",
+    "Certified Kosher Dairy",
+    "Trusted Since 1993"
+   ],
+   "paragraphs": [
+    "Designer Wellness's diverse family of protein powders have been crafted in the health-oriented seaside community of Carlsbad, CA for over 25 years. Today, its unparalleled heritage of innovation is stronger than ever.",
+    "Protein-Rich Nutrition",
+    "Loaded with B-Vitamins, natural plant enzymes and microbial probiotics for digestibility. Plus, calcium, vitamin D, phosphorus, magnesium and electrolytes are included to assist post-workout recovery. Zinc has been shown to aid in boosting the immune system and energy metabolism.",
+    "From A Natural Source",
+    "Made from natural, GMO-free whey from midwest cows cared for with a diet free of artificial growth hormones and antibiotics. There are no artificial colors, flavors, sweeteners or preservatives in our protein powder. It contains no gluten and is 93% lactose-free.",
+    "†Per Serving",
+    "*Natural whey protein with added nutritional benefits."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Combine one scoop with 6 to 8 oz of cold water or milk (skim or your favorite non-dairy) and mix thoroughly. Enjoy as a delicious, blended smoothie to start your day, as an easy shake on-the-go or after your workout."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Designer whey protein blend: (gmo-free and rBGH-Free whey protein concentrate, gmo-free and rBGH-Free whey protein isolate), digestive health blend: [gmo-free prebiotic vegetable fiber, probiotics: (lactobacillus acidophilus, b. longum, l. plantarum), vegetarian protease enzymes], alkalized cocoa, natural flavors, electrolyte blend: (calcium phosphate, magnesium oxide), sunflower lecithin, stevia leaf extract, dried cream extract, monk fruit, b-vitamin blend: (calcium pantothenate, pyridoxine hydrochloride, thiamin mononitrate, riboflavin), zinc gluconate, xanthan gum, sodium alginate, mixed tocopherols, vitamin d3 (cholecalciferol).",
+    "Contains milk.",
+    "Made in U.S.A. with domestic & global ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Use this product as food supplement only. Do not use for weight reduction. Consult your physician before use if you are pregnant, nursing, anticipating surgery or if you are under medical supervision. Do not use for infant feeding. Packaged by weight not volume.",
+    "Store in a cool, dry place. Settling will occur. A scoop is provided for convenience. Keep out of the reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "02/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "DEP-00130"
+  },
+  {
+   "label": "UPC",
+   "value": "844334001308"
+  },
+  {
+   "label": "Package quantity",
+   "value": "340 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.4 x 10.3 x 10.3 cm, 0.41 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop 1.09 oz (31 g)"
+  ],
+  [
+   "Servings Per Container: 11"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value*"
+  ],
+  [
+   "Calories",
+   "110",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%"
+  ],
+  [
+   "Saturated Fat",
+   "1 g",
+   "5%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "55 mg",
+   "18%"
+  ],
+  [
+   "Sodium",
+   "90 mg",
+   "4%"
+  ],
+  [
+   "Total Carbohydrate",
+   "6 g",
+   "2%"
+  ],
+  [
+   "Dietary Fiber",
+   "3 g",
+   "11%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 1 g Added Sugars",
+   "",
+   "2%"
+  ],
+  [
+   "Protein",
+   "20 g",
+   "40%"
+  ],
+  [
+   "Vitamin D",
+   "5 mcg",
+   "25%"
+  ],
+  [
+   "Thiamin",
+   "1.5 mg",
+   "125%"
+  ],
+  [
+   "Riboflavin",
+   "1.7 mg",
+   "131%"
+  ],
+  [
+   "Vitamin B6",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Pantothenic Acid",
+   "10 mg",
+   "200%"
+  ],
+  [
+   "Calcium",
+   "200 mg",
+   "15%"
+  ],
+  [
+   "Phosphorus",
+   "200 mg",
+   "16%"
+  ],
+  [
+   "Magnesium",
+   "100 mg",
+   "24%"
+  ],
+  [
+   "Zinc",
+   "5.2 mg",
+   "47%"
+  ],
+  [
+   "Potassium",
+   "180 mg",
+   "4%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.Not a significant source of Iron."
+  ],
+  [
+   "Amino Acid Profile (Per 100 g Protein)"
+  ],
+  [
+   "Alanine",
+   "5,000 mg"
+  ],
+  [
+   "Arginine",
+   "2,.667 mg"
+  ],
+  [
+   "Aspartic Acid",
+   "9,056 mg"
+  ],
+  [
+   "Cysteine",
+   "2,000 mg"
+  ],
+  [
+   "Glutamic Acid",
+   "17,011 mg"
+  ],
+  [
+   "Glycine",
+   "1,600 mg"
+  ],
+  [
+   "Histidine",
+   "1,683 mg"
+  ],
+  [
+   "Isoleucine",
+   "7,089 mg"
+  ],
+  [
+   "Leucine",
+   "11,011 mg"
+  ],
+  [
+   "Lysine",
+   "9,667 mg"
+  ],
+  [
+   "Methionine",
+   "3,100 mg"
+  ],
+  [
+   "Phenylalanine",
+   "2,500 mg"
+  ],
+  [
+   "Proline",
+   "3,500 mg"
+  ],
+  [
+   "Serine",
+   "3,900 mg"
+  ],
+  [
+   "Threonine",
+   "8,300 mg"
+  ],
+  [
+   "Tryptophane",
+   "2,000 mg"
+  ],
+  [
+   "Tyrosine",
+   "3,000 mg"
+  ],
+  [
+   "Valine",
+   "6,916 mg"
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 scoops"
+    },
+    {
+     "label": "Total servings",
+     "value": "11"
+    },
+    {
+     "label": "Best by",
+     "value": "05/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Kosher",
+    "Gluten-free",
+    "Preservative-free",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "340 g",
+   "pid": "128763",
+   "url": "https://th.iherb.com/pr/designer-wellness-designer-whey-natural-100-whey-protein-powder-gourmet-chocolate-12-oz-340-g/128763",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "908 g",
+   "pid": "68594",
+   "url": "https://th.iherb.com/pr/designer-wellness-designer-whey-natural-100-whey-protein-powder-purely-unflavored-2-lb-908-g/68594",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "1814 g",
+   "pid": "128765",
+   "url": "https://th.iherb.com/pr/designer-wellness-designer-whey-natural-100-whey-protein-powder-french-vanilla-4-lb-1-82-kg/128765",
+   "price": "฿2,809.40",
+   "outOfStock": true,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿890.96",
+  "฿890.96",
+  "฿81.00/‏serving",
+  "{0}% off code: {1}",
+  "฿890.96",
+  "Save 0% in cart",
+  "฿81.00/‏serving",
+  "฿890.96",
+  "(0% off)",
+  "฿890.96",
+  "฿81.00/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/g/25.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/k/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/g/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/s/30.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/dep/dep00130/b/25.jpg"
+ ]
+}

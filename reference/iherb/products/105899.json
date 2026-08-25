@@ -1,0 +1,294 @@
+{
+ "pid": "105899",
+ "slug": "culturelle-probiotics-ultimate-strength-probiotic-20-billion-cfu-30-ve",
+ "scrapedAt": "2026-08-25T17:37:34.357Z",
+ "discovery": {
+  "category": "gut",
+  "foundVia": "probiotics cfu",
+  "sold": "300+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/culturelle-probiotics-ultimate-strength-probiotic-20-billion-cfu-30-ve.jpg",
+  "/products/iherb/culturelle-probiotics-ultimate-strength-probiotic-20-billion-cfu-30-ve-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/culturelle-probiotics-ultimate-strength-probiotic-20-billion-cfu-30-vegetarian-capsules/105899",
+ "pageTitle": "Culturelle, Probiotics, Ultimate Strength Probiotic, 20 Billion CFU, 30 Vegetarian Capsules",
+ "h1": "Culturelle, Probiotics, Ultimate Strength Probiotic, 20 Billion CFU, 30 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "105899",
+  "name": "Culturelle, Probiotics, Ultimate Strength Probiotic, 20 Billion CFU, 30 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/g/38.jpg",
+  "mpn": "CTL-40051",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 560
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Culturelle",
+   "url": "http://www.culturelle.com/",
+   "identifier": "CTL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.10",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1421.34",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "With The #1 Clinically Studied Probiotic† Try Me With Antibiotics Powerful Formula Balances Your Digestive System Works Naturally with Your Body to Restore Balance Even When Taking Antibiotics 2X Good Bacteria§ Once Daily Probiotic Supplement Most Clinically Researched Strain in the World† Guaranteed Purity & Potency*** Dairy, Gluten▴, Soy Free Powerful Formula with 2X More Good Bacteria§ Keeps Your Digestive System Balanced Restores Balance Even During Travel or Antibiotic Use Ultimate digestive support from Culturelle® Support your body with 2X§ the good bacteria in Culturelle® Ultimate Strength. Formulated with 20 billion CFUs, this powerful formula can restore balance every day, especially during high stressors like antibiotic use which kills both good & bad bacteria, or during travel. Unleash the Power of Your Microbiome! Your gut microbiome helps support an overall healthy you because it's linked to your digestive health, cognition, mood, nutrition, & immune system. You can trust your gut daily to Culturelle®. Our Brand Values We're on a mission to inspire better health & wellness for you & your family. We believe in integrity, so we hold ourselves to the highest standards of truth. We believe in the natural power of your body's microbiome, & in scientific research & products that will unlock its full potential. We believe in uncompromising quality, safety & proven efficacy. We believe in empowering you to embrace every day with confidence. †Based on the number of studies of Lactobacillus rhamnosus GG clinical studies, as of January 2021. ***Guaranteed potency through date on box when stored as directed. ▴Meets the FDA's guidelines for gluten-free. §Versus 10 Billion CFU's in Culturelle® Digestive Daily Probiotic capsules. Not a reduced calorie food.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.75x1.45"
+  },
+  "isRelatedTo": null,
+  "sku": "CTL-40051",
+  "gtin12": "049100400518",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/g/38.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Gut Health",
+  "Probiotics"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "With The #1 Clinically Studied Probiotic†",
+    "Try Me With Antibiotics",
+    "Powerful Formula Balances Your Digestive System",
+    "Works Naturally with Your Body to Restore Balance Even When Taking Antibiotics",
+    "2X Good Bacteria§",
+    "Once Daily",
+    "Probiotic Supplement",
+    "Most Clinically Researched Strain in the World†",
+    "Guaranteed Purity & Potency***",
+    "Dairy, Gluten▴, Soy Free",
+    "Powerful Formula with 2X More Good Bacteria§",
+    "Keeps Your Digestive System Balanced",
+    "Restores Balance Even During Travel or Antibiotic Use"
+   ],
+   "paragraphs": [
+    "Ultimate digestive support from Culturelle®",
+    "Support your body with 2X§ the good bacteria in Culturelle® Ultimate Strength. Formulated with 20 billion CFUs, this powerful formula can restore balance every day, especially during high stressors like antibiotic use which kills both good & bad bacteria, or during travel.",
+    "Unleash the Power of Your Microbiome!",
+    "Your gut microbiome helps support an overall healthy you because it's linked to your digestive health, cognition, mood, nutrition, & immune system. You can trust your gut daily to Culturelle®.",
+    "Our Brand Values",
+    "We're on a mission to inspire better health & wellness for you & your family.",
+    "We believe in integrity, so we hold ourselves to the highest standards of truth.",
+    "We believe in the natural power of your body's microbiome, & in scientific research & products that will unlock its full potential.",
+    "We believe in uncompromising quality, safety & proven efficacy.",
+    "We believe in empowering you to embrace every day with confidence.",
+    "†Based on the number of studies of Lactobacillus rhamnosus GG clinical studies, as of January 2021.",
+    "***Guaranteed potency through date on box when stored as directed.",
+    "▴Meets the FDA's guidelines for gluten-free.",
+    "§Versus 10 Billion CFU's in Culturelle® Digestive Daily Probiotic capsules. Not a reduced calorie food."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Directions for ages 12+ years: Take one capsule daily. Continued use is suggested.",
+    "When traveling, take one capsule daily before and during the trip.",
+    "During antibiotic use, take one capsule daily and continue for 10 days after completion of antibiotics."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hydroxypropyl methylcellulose, vegetable magnesium stearate, and colors (titanium dioxide, fd&c red #40, fd&c blue #1).",
+    "Allergy friendly free from milk, wheat, eggs, tree nuts & peanuts."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Storage Instructions: Store Culturelle® in a cool, dry place away from direct sunlight.",
+    "Tamper Evident: Product is sealed within blisters. Do not use if any part of the blister is torn, open or damaged.",
+    "Keep out of reach of children. Inform a healthcare professional before starting any dietary supplement, particularly if there is a known immune-compromised condition.",
+    "When first taking a probiotic, your gut microbiome adjusts. You may experience minor bloating, gas or intestinal gurgling which should subside with continued use. Consult your healthcare professional if symptoms continue after two weeks."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2021"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.1 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CTL-40051"
+  },
+  {
+   "label": "UPC",
+   "value": "049100400518"
+  },
+  {
+   "label": "Package quantity",
+   "value": "30 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.6 x 9.5 x 3.7 cm, 0.05 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: One (1) Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "0",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "0 g",
+   "0%+"
+  ],
+  [
+   "Total Sugars",
+   "0 g",
+   "**"
+  ],
+  [
+   "Incl. 0 g Added Sugars",
+   "",
+   "0%+"
+  ],
+  [
+   "Lactobacillus rhamnosus GG",
+   "83 mg (20 billion CFUs)",
+   "**"
+  ],
+  [
+   "Inulin (Chicory root extract)",
+   "200 mg",
+   "**"
+  ],
+  [
+   "+Percent Daily Values are based on a 2,000 calorie diet.**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "+Percent Daily Values are based on a 2,000 calorie diet.",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "Egg-free",
+    "Peanut-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "20 count",
+   "pid": "72684",
+   "url": "https://th.iherb.com/pr/culturelle-probiotics-ultimate-strength-probiotic-20-once-daily-vegetarian-capsules/72684",
+   "price": "฿1,172.64",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "30 count",
+   "pid": "105899",
+   "url": "https://th.iherb.com/pr/culturelle-probiotics-ultimate-strength-probiotic-20-billion-cfu-30-vegetarian-capsules/105899",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "300+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,421.34",
+  "฿1,421.34",
+  "฿47.38/‏serving",
+  "{0}% off code: {1}",
+  "฿1,421.34",
+  "Save 0% in cart",
+  "฿47.38/‏serving",
+  "฿1,421.34",
+  "(0% off)",
+  "฿1,421.34",
+  "฿47.38/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/g/38.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/k/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/g/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ctl/ctl40051/s/37.jpg"
+ ]
+}

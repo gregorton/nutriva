@@ -1,0 +1,270 @@
+{
+ "pid": "15787",
+ "slug": "now-foods-taurine-1-000-mg-100-veg-capsules",
+ "scrapedAt": "2026-08-25T17:22:26.742Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "NOW Foods",
+  "sold": "10K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-taurine-1-000-mg-100-veg-capsules.jpg",
+  "/products/iherb/now-foods-taurine-1-000-mg-100-veg-capsules-2.jpg",
+  "/products/iherb/now-foods-taurine-1-000-mg-100-veg-capsules-3.jpg",
+  "/products/iherb/now-foods-taurine-1-000-mg-100-veg-capsules-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-taurine-1-000-mg-100-veg-capsules/15787",
+ "pageTitle": "NOW Foods, Taurine, 1,000 mg, 100 Veg Capsules",
+ "h1": "NOW Foods, Taurine, 1,000 mg, 100 Veg Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "15787",
+  "name": "NOW Foods, Taurine, 1,000 mg, 100 Veg Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/g/54.jpg",
+  "mpn": "NOW-00142",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 26974
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.35",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "343.85",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Double Strength Nervous System Health Healthy Visual Function Non-GMO A Dietary Supplement Vegetarian/Vegan Kosher Amino Acids Family Owned Since 1968 Halal GMP Quality Assured Taurine is a conditionally essential amino acid that is not utilized for protein synthesis, but is mainly found free in most tissues, especially throughout the nervous system. It functions in tissues by stabilizing cell membranes and aiding the transport of potassium, sodium, calcium and magnesium in and out of cells. Taurine helps to generate and regulate nerve impulses and supports the maintenance of normal fluid balance; it is also used by the body in visual pathways, as well as in the brain and nervous system, where it works together with glycine and GABA as a neurotransmitter. This product has twice the Taurine (1,000 mg) as in our regular strength product (500 mg).",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x4.4"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-00142",
+  "gtin12": "733739001429",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/g/54.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Amino Acids",
+  "Taurine"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Double Strength",
+    "Nervous System Health",
+    "Healthy Visual Function",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "Vegetarian/Vegan",
+    "Kosher",
+    "Amino Acids",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Taurine is a conditionally essential amino acid that is not utilized for protein synthesis, but is mainly found free in most tissues, especially throughout the nervous system. It functions in tissues by stabilizing cell membranes and aiding the transport of potassium, sodium, calcium and magnesium in and out of cells. Taurine helps to generate and regulate nerve impulses and supports the maintenance of normal fluid balance; it is also used by the body in visual pathways, as well as in the brain and nervous system, where it works together with glycine and GABA as a neurotransmitter.",
+    "This product has twice the Taurine (1,000 mg) as in our regular strength product (500 mg)."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 1 capsule 1 to 2 times daily with juice or water, preferably between meals."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose (cellulose capsule), stearic acid (vegetable source) and silicon dioxide.",
+    "Not manufactured with wheat, gluten, soy, milk, egg, fish, shellfish, tree nut or sesame ingredients.",
+    "Produced in a GMP facility that processes other ingredients containing these allergens.",
+    "Made and quality tested in the USA with globally sourced ingredients."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication (including anti-hypertensive and diuretic medications), or have a medical condition (including hypotension). Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2008"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-00142"
+  },
+  {
+   "label": "UPC",
+   "value": "733739001429"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "6.4 x 6.4 x 11.2 cm, 0.16 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Veg Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Taurine (Free-Form)",
+   "1 g (1,000 mg)",
+   "**"
+  ],
+  [
+   "**Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "**Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 veg capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2030"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Vegan",
+    "Kosher",
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "100 count",
+   "pid": "15787",
+   "url": "https://th.iherb.com/pr/now-foods-taurine-1-000-mg-100-veg-capsules/15787",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "250 count",
+   "pid": "39933",
+   "url": "https://th.iherb.com/pr/now-foods-taurine-1-000-mg-250-veg-capsules/39933",
+   "price": "฿743.38",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [
+  {
+   "rank": "#1 in",
+   "category": "Taurine",
+   "href": "/c/taurine?sr=2"
+  },
+  {
+   "rank": "#5 in",
+   "category": "Amino Acids",
+   "href": "/c/amino-acids?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "10,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿343.85",
+  "฿343.85",
+  "฿3.44/‏serving",
+  "{0}% off code: {1}",
+  "฿343.85",
+  "Save 0% in cart",
+  "฿3.44/‏serving",
+  "฿343.85",
+  "(0% off)",
+  "฿343.85",
+  "฿3.44/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/g/54.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/k/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/g/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/s/54.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/s/59.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/s/71.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/s/72.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/s/73.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now00142/s/74.jpg"
+ ]
+}

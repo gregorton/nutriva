@@ -1,0 +1,209 @@
+{
+ "pid": "157287",
+ "slug": "codeage-liposomal-vitamin-c-360-capsules",
+ "scrapedAt": "2026-08-25T17:31:07.659Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/codeage-liposomal-vitamin-c-360-capsules.jpg",
+  "/products/iherb/codeage-liposomal-vitamin-c-360-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/codeage-liposomal-vitamin-c-360-capsules/157287",
+ "pageTitle": "Codeage, Liposomal Vitamin C+, 360 Capsules",
+ "h1": "Codeage, Liposomal Vitamin C+, 360 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "157287",
+  "name": "Codeage, Liposomal Vitamin C+, 360 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/g/18.jpg",
+  "mpn": "AGE-12189",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 42
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Codeage",
+   "url": "https://www.codeage.com/",
+   "identifier": "AGE"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.05",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/OutOfStock",
+   "price": "1960.98",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": "2026-10-01T00:00:00"
+  },
+  "description": "Quercetin Rosehips Zinc Daily Immune Support Dietary Supplement 1,500mg Vitamin C Antioxidant Support Liposomal Delivery Citrus Bioflavonoids Alpha Lipoic Acid Elderberry Non-GMO Soy-Free Dairy-Free Gluten-Free cGMP Certified Manufacturing Feel Different This Product is 100% Additive-Free Absolutely No Stearates, Lubricants or Binders Codeage Liposomal Vitamin C+ is a high-potency supplement containing 1500 mg of vitamin C, citrus bioflavonoids, quercetin, elderberry, rosehip, zinc, and alpha lipoic acid. This advanced vitamin C capsule formula also features a liposomal delivery.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.3x2.8"
+  },
+  "isRelatedTo": null,
+  "sku": "AGE-12189",
+  "gtin12": "850026121896",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/g/18.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C",
+  "Liposomal Vitamin C"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2026"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.48 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "AGE-12189"
+  },
+  {
+   "label": "UPC",
+   "value": "850026121896"
+  },
+  {
+   "label": "Package quantity",
+   "value": "360 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.2 x 13.5 x 7.1 cm, 0.48 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 3 Capsules"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "1500 mg",
+   "1,667%"
+  ],
+  [
+   "Zinc (as Amino Acid Chelate)",
+   "15 mg",
+   "136%"
+  ],
+  [
+   "Phosphatidylcholine (from Sunflower Lecithin)",
+   "450 mg",
+   "**"
+  ],
+  [
+   "Alpha Lipoic Acid",
+   "100 mg",
+   "**"
+  ],
+  [
+   "Citrus Bioflavonoid ComplexGrapefruit Powder (Fruit; Citrus × paradisi), Lemon Powder (Peel), Orange Powder (Fruit)",
+   "50 mg",
+   "**"
+  ],
+  [
+   "Quercetin Dihydrate",
+   "50 mg",
+   "**"
+  ],
+  [
+   "Rosehips Extract (Fruit)",
+   "50 mg",
+   "**"
+  ],
+  [
+   "Elderberry Powder (Fruit)",
+   "50 mg",
+   "**"
+  ],
+  [
+   "** Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Supplement factsServing Size: 3 CapsulesServings Per Container: 60Amount Per Serving%Daily ValueVitamin C (as Ascorbic Acid)1500 mg1,667%Zinc (as Amino Acid Chelate)15 mg136%Phosphatidylcholine (from Sunflower Lecithin)450 mg**Alpha Lipoic Acid100 mg**Citrus Bioflavonoid ComplexGrapefruit Powder (Fruit; Citrus × paradisi), Lemon Powder (Peel), Orange Powder (Fruit)50 mg**Quercetin Dihydrate50 mg**Rosehips Extract (Fruit)50 mg**Elderberry Powder (Fruit)50 mg**** Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "3 capsules"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Codeage, Liposomal Vitamin C+, 180 Vegetable Capsules",
+  "9,923",
+  "฿1,294.80"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/g/18.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/k/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/g/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/s/18.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/age/age12189/s/20.jpg"
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "pid": "102614",
+ "slug": "havasu-nutrition-multivitamin-gummies-orange-strawberry-cherry-60-gumm",
+ "scrapedAt": "2026-08-25T17:35:59.133Z",
+ "discovery": {
+  "category": "kids",
+  "foundVia": "kids multivitamin gummies",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/havasu-nutrition-multivitamin-gummies-orange-strawberry-cherry-60-gumm.jpg",
+  "/products/iherb/havasu-nutrition-multivitamin-gummies-orange-strawberry-cherry-60-gumm-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/havasu-nutrition-multivitamin-gummies-orange-strawberry-cherry-60-gummies/102614",
+ "pageTitle": "Havasu Nutrition, Multivitamin Gummies, Orange, Strawberry & Cherry, 60 Gummies",
+ "h1": "Havasu Nutrition, Multivitamin Gummies, Orange, Strawberry & Cherry, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "102614",
+  "name": "Havasu Nutrition, Multivitamin Gummies, Orange, Strawberry & Cherry,  60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/g/24.jpg",
+  "mpn": "HAV-46400",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 61
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Havasu Nutrition",
+   "url": "https://havasunutrition.com/",
+   "identifier": "HAV"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.42",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "596.49",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Daily Adult Vitamins Supports Optimal Health & Wellness ‡ Dietary Supplement Pectin Gummy Delicious Taste Gluten Free ‡ HAVASU Nutrition Multivitamin Gummies are a comprehensive and delicious health & wellness multivitamin for adults as they are packed with vitamins & minerals that support immune system function, bone, muscle, and eye health.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.5x2.45"
+  },
+  "isRelatedTo": null,
+  "sku": "HAV-46400",
+  "gtin12": "850008464003",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Multivitamins"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Daily Adult Vitamins",
+    "Supports Optimal Health & Wellness‡",
+    "Dietary Supplement",
+    "Pectin Gummy",
+    "Delicious Taste",
+    "Gluten Free"
+   ],
+   "paragraphs": [
+    "‡HAVASU Nutrition Multivitamin Gummies are a comprehensive and delicious health & wellness multivitamin for adults as they are packed with vitamins & minerals that support immune system function, bone, muscle, and eye health."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "2 gummies daily or as directed by a healthcare professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Glucose syrup, sugar, glucose, pectin, citric acid, sodium citrate, natural flavors, vegetable oil (contains carnauba wax), purple carrot juice concentrate (for color), and beta-carotene (for color)."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Take only as directed. Do not exceed suggested dosage. Pregnant or nursing mothers, children under 18 or individuals with a known medical condition should consult a physician before using this or any dietary supplement. This product may settle during shipping. Natural colors will darken over time. This does not alter the potency of the product.",
+    "Keep out of reach of children. Do not use if safety seal is damaged or missing. Store in a cool, dry place."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "10/2020"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "HAV-46400"
+  },
+  {
+   "label": "UPC",
+   "value": "850008464003"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "11.6 x 6.4 x 6.2 cm, 0.19 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Gummies"
+  ],
+  [
+   "Serving Per Container: 30"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Calories",
+   "20",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "4 g",
+   "1%†"
+  ],
+  [
+   "Total Sugars",
+   "3 g",
+   "**"
+  ],
+  [
+   "Includes 3 g Added Sugars",
+   "",
+   "6%†"
+  ],
+  [
+   "Vitamin A (as Retinyl Acetate)",
+   "1200 mcg",
+   "133%"
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "60 mg",
+   "67%"
+  ],
+  [
+   "Vitamin D (as Cholecalciferol)",
+   "10 mcg",
+   "50%"
+  ],
+  [
+   "Vitamin E (dl-Alpha Tocopheryl Acetate)",
+   "18 mg",
+   "120%"
+  ],
+  [
+   "Vitamin B-6 (as Pyridoxine Hydrochloride)",
+   "2 mg",
+   "118%"
+  ],
+  [
+   "Folate",
+   "680 mcg DFE (400 mcg Folic Acid)",
+   "170%"
+  ],
+  [
+   "Vitamin B-12 (as Cyanocobalamin)",
+   "8 mcg",
+   "333%"
+  ],
+  [
+   "Biotin",
+   "150 mcg",
+   "500%"
+  ],
+  [
+   "Pantothenic Acid (as Calcium D-Pantothenate)",
+   "5 mg",
+   "100%"
+  ],
+  [
+   "Iodine (as Potassium Iodide)",
+   "80 mcg",
+   "53%"
+  ],
+  [
+   "Zinc (as Zinc Citrate)",
+   "5 mg",
+   "45%"
+  ],
+  [
+   "Sodium",
+   "10 mg",
+   "<1%"
+  ],
+  [
+   "†Percent Daily Values (DV) are based on a 2,000 calorie diet.**Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Percent Daily Values (DV) are based on a 2,000 calorie diet.",
+  "**Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 gummies"
+    },
+    {
+     "label": "Total servings",
+     "value": "30"
+    },
+    {
+     "label": "Best by",
+     "value": "11/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿596.49",
+  "฿596.49",
+  "฿19.88/‏serving",
+  "{0}% off code: {1}",
+  "฿596.49",
+  "Save 0% in cart",
+  "฿19.88/‏serving",
+  "฿596.49",
+  "(0% off)",
+  "฿596.49",
+  "฿19.88/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hav/hav46400/s/29.jpg"
+ ]
+}

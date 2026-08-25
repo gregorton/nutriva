@@ -1,0 +1,287 @@
+{
+ "pid": "121775",
+ "slug": "live-conscious-beyond-collagen-with-biotin-vitamin-c-15-oz-427-g",
+ "scrapedAt": "2026-08-25T17:30:26.122Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "100+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/live-conscious-beyond-collagen-with-biotin-vitamin-c-15-oz-427-g.jpg",
+  "/products/iherb/live-conscious-beyond-collagen-with-biotin-vitamin-c-15-oz-427-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/live-conscious-beyond-collagen-with-biotin-vitamin-c-15-oz-427-g/121775",
+ "pageTitle": "Live Conscious, Beyond Collagen™, With Biotin & Vitamin C, 15 oz (427 g)",
+ "h1": "Live Conscious, Beyond Collagen™, With Biotin & Vitamin C, 15 oz (427 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "121775",
+  "name": "Live Conscious, Beyond Collagen™,  With Biotin & Vitamin C, 15 oz (427 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/g/6.jpg",
+  "mpn": "LVS-27332",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.6,
+   "reviewCount": 70
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Live Conscious",
+   "url": "https://weliveconscious.com/",
+   "identifier": "LVS"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "1.03",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "1386.99",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1849.32",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Multi-Type Formula Supercharged Hair, Skin, Nail & Joint Support Supports Collagen Synthesis Dissolves Easily | Flavorless Blend Dietary Supplement GMP - Good Manufacturing Practice Non-GMO Preservative Free Dairy-Free Shellfish Free Soy-Free Peanut Free Gluten-Free Keto Friendly Beauty Abundance, Amplified. Here's to collagen complimented by extras. Featuring 5 types of collagen protein, supercharged with biotin and vitamin C, this transformative formula was crafted to take your collagen experience to the next level. Collagen is fundamental to the beauty of your hair, skin, nail, and joint health, and the addition of biotin and vitamin C amplifies collagen synthesis in the body, magnifying beauty benefits. It's time to express your true radiance, one scoop at a time.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "8.45x3.25"
+  },
+  "isRelatedTo": null,
+  "sku": "LVS-27332",
+  "gtin12": "850008273322",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/g/6.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Hair, Skin & Nails",
+  "Hair, Skin & Nails Formulas"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Multi-Type Formula",
+    "Supercharged Hair, Skin, Nail & Joint Support",
+    "Supports Collagen Synthesis",
+    "Dissolves Easily | Flavorless Blend",
+    "Dietary Supplement",
+    "GMP - Good Manufacturing Practice",
+    "Non-GMO",
+    "Preservative Free",
+    "Dairy-Free",
+    "Shellfish Free",
+    "Soy-Free",
+    "Peanut Free",
+    "Gluten-Free",
+    "Keto Friendly"
+   ],
+   "paragraphs": [
+    "Beauty Abundance, Amplified.",
+    "Here's to collagen complimented by extras. Featuring 5 types of collagen protein, supercharged with biotin and vitamin C, this transformative formula was crafted to take your collagen experience to the next level. Collagen is fundamental to the beauty of your hair, skin, nail, and joint health, and the addition of biotin and vitamin C amplifies collagen synthesis in the body, magnifying beauty benefits. It's time to express your true radiance, one scoop at a time."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 10.4 grams once (1x) daily with 8 fl oz of water or your favorite beverage.",
+    "Collagen is not a complete protein. Do not use to replace dietary protein."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Contains fish (North Atlantic white fish) and egg."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Read entire label prior to use. Keep out of reach of individuals under the age of 18. Do not use if safety seal is damaged or missing. Store in a cool, dry place. Do not use if pregnant, attempting to become pregnant, or nursing. Consult health care professional before using this or any other dietary supplement, especially if you have or suspect you may have any medical condition, or if taking any other dietary supplement, prescription, or over-the-counter medications, as combining these products may cause side effects. Discontinue use and immediately call healthcare professional if you experience any adverse reactions. Do not exceed recommended serving."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.52 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LVS-27332"
+  },
+  {
+   "label": "UPC",
+   "value": "850008273322"
+  },
+  {
+   "label": "Package quantity",
+   "value": "427 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "14.9 x 21.5 x 8.3 cm, 0.47 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 10.4 g"
+  ],
+  [
+   "Servings Per Container: 41"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%DV"
+  ],
+  [
+   "Total Calories",
+   "35",
+   ""
+  ],
+  [
+   "Protein",
+   "9 g",
+   ""
+  ],
+  [
+   "Vitamin C (as Ascorbic Acid)",
+   "90 mg",
+   "100%"
+  ],
+  [
+   "Biotin",
+   "2500 mcg",
+   "8333%"
+  ],
+  [
+   "Calcium",
+   "6 mg",
+   "<1%"
+  ],
+  [
+   "Iron",
+   "0.2 mg",
+   "1%"
+  ],
+  [
+   "Sodium",
+   "50 mg",
+   "2%"
+  ],
+  [
+   "Beyond Collagen Proprietary BlendTypes I & III Bovine CollagenType II Marine CollagenType II Chicken Sternum CollagenTypes I, V & X Eggshell Membrane Collagen",
+   "10.1 g",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "†Daily Value not established.",
+  "**Essential Amino Acids"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "10.4 g"
+    },
+    {
+     "label": "Total servings",
+     "value": "41"
+    },
+    {
+     "label": "Best by",
+     "value": "06/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Ketogenic diet",
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Preservative-free",
+    "Shellfish-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,849.32",
+  "฿1,849.32",
+  "฿45.11/‏serving",
+  "{0}% off code: {1}",
+  "฿1,849.32",
+  "Save 25% in cart",
+  "฿45.11/‏serving",
+  "฿1,386.99",
+  "(25% off)",
+  "฿1,849.32",
+  "฿33.83/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/g/6.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/k/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/g/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/s/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvs/lvs27332/s/7.jpg"
+ ]
+}

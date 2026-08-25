@@ -1,0 +1,255 @@
+{
+ "pid": "86319",
+ "slug": "now-foods-collagen-peptides-powder-8-oz-227-g",
+ "scrapedAt": "2026-08-25T17:18:52.462Z",
+ "discovery": {
+  "category": "beauty",
+  "foundVia": "collagen peptides",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/now-foods-collagen-peptides-powder-8-oz-227-g.jpg",
+  "/products/iherb/now-foods-collagen-peptides-powder-8-oz-227-g-2.jpg",
+  "/products/iherb/now-foods-collagen-peptides-powder-8-oz-227-g-3.jpg",
+  "/products/iherb/now-foods-collagen-peptides-powder-8-oz-227-g-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/now-foods-collagen-peptides-powder-8-oz-227-g/86319",
+ "pageTitle": "NOW Foods, Collagen Peptides Powder, 8 oz (227 g)",
+ "h1": "NOW Foods, Collagen Peptides Powder, 8 oz (227 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "86319",
+  "name": "NOW Foods, Collagen Peptides Powder, 8 oz (227 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/g/49.jpg",
+  "mpn": "NOW-03086",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 3622
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "NOW Foods",
+   "url": "http://www.nowfoods.com/",
+   "identifier": "NOW"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.64",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "594.30",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Joint and Bone Health Promotes Healthy Skin Clinically Tested Non-GMO A Dietary Supplement General Health Family Owned Since 1968 Halal GMP Quality Assured Collagen peptides from types 1 and 3 bovine collagen are well-known for their roles in bone, joint and skin health. As the most abundant protein in mammals, collagen makes up about 30% of the body's protein. Studies indicate that hydrolyzed collagen may help to support strong bones and healthy joints as well as skin smoothness and hydration.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.3x3.3"
+  },
+  "isRelatedTo": null,
+  "sku": "NOW-03086",
+  "gtin12": "733739030863",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/g/49.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Bone, Joint & Cartilage",
+  "Collagen Supplements"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Joint and Bone Health",
+    "Promotes Healthy Skin",
+    "Clinically Tested",
+    "Non-GMO",
+    "A Dietary Supplement",
+    "General Health",
+    "Family Owned Since 1968",
+    "Halal",
+    "GMP Quality Assured"
+   ],
+   "paragraphs": [
+    "Collagen peptides from types 1 and 3 bovine collagen are well-known for their roles in bone, joint and skin health. As the most abundant protein in mammals, collagen makes up about 30% of the body's protein. Studies indicate that hydrolyzed collagen may help to support strong bones and healthy joints as well as skin smoothness and hydration."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 2 level tablespoons daily into water, juice, or your favorite beverage."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "None.",
+    "Not manufactured with yeast, wheat, gluten, soy, corn, milk, egg, fish, shellfish or tree nut ingredients.",
+    "Produced in a GMP facility that processes other ingredients containing these allergens."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "This product is sold by weight not volume.",
+    "For adults only. Consult physician if pregnant/nursing, taking medication, or have a medical condition. Keep out of reach of children.",
+    "Do not eat freshness packet enclosed.",
+    "Natural color variation may occur in this product.",
+    "Store in a cool, dry place after opening."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "12/2018"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOW-03086"
+  },
+  {
+   "label": "UPC",
+   "value": "733739030863"
+  },
+  {
+   "label": "Package quantity",
+   "value": "227 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "16.5 x 8.4 x 8.4 cm, 0.29 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Level Tablespoons (11 g)"
+  ],
+  [
+   "Serving Per Container: about 21"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "40",
+   ""
+  ],
+  [
+   "Protein",
+   "10 g",
+   ""
+  ],
+  [
+   "Hydrolyzed Collagen (Bovine) (BSE-free)",
+   "10 g",
+   "†"
+  ],
+  [
+   "†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 level tablespoons"
+    },
+    {
+     "label": "Total servings",
+     "value": "21"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2031"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [
+  {
+   "rank": "#27 in",
+   "category": "Collagen Supplements",
+   "href": "/c/collagen-supplements?sr=2"
+  }
+ ],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿594.30",
+  "฿594.30",
+  "฿28.30/‏serving",
+  "{0}% off code: {1}",
+  "฿594.30",
+  "Save 0% in cart",
+  "฿28.30/‏serving",
+  "฿594.30",
+  "(0% off)",
+  "฿594.30",
+  "฿28.30/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/g/49.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/k/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/g/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/s/49.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/s/55.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/s/57.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/s/58.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now03086/s/59.jpg"
+ ]
+}

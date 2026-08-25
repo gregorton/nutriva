@@ -1,0 +1,228 @@
+{
+ "pid": "149077",
+ "slug": "flora-acerola-natural-vitamin-c-120-vegetarian-capsules",
+ "scrapedAt": "2026-08-25T17:34:39.636Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": "100+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/flora-acerola-natural-vitamin-c-120-vegetarian-capsules.jpg",
+  "/products/iherb/flora-acerola-natural-vitamin-c-120-vegetarian-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/flora-acerola-natural-vitamin-c-120-vegetarian-capsules/149077",
+ "pageTitle": "Flora, Acerola Natural Vitamin C , 120 Vegetarian Capsules",
+ "h1": "Flora, Acerola Natural Vitamin C , 120 Vegetarian Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "149077",
+  "name": "Flora, Acerola Natural Vitamin C , 120 Vegetarian Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/g/8.jpg",
+  "mpn": "FLO-62808",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 39
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Flora",
+   "url": "http://www.florahealth.com",
+   "identifier": "FLO"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Baby & Kids",
+   "identifier": "2089"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.70",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1233.67",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Immune Support High in Antioxidant Vitamin C Helps Support Immune System Function Vegan Gluten-Free Dietary Supplement Non GMO Project Verified Acerola cherries contain natural vitamin C, which packs an antioxidant punch and helps maintain a healthy immune system. Acerola cherries are one of the richest plant sources of vitamin C, providing 16 times more vitamin C than oranges. Flora's premium Acerola Natural Vitamin C Powder is pure juice powder, pressed from organically grown acerola cherries, and dried at a low temperature to retain the fruit's potent nutrient profile.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "FLO-62808",
+  "gtin12": "061998628089",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Baby & Kids",
+  "Children's Health",
+  "Children's Vitamins ",
+  "Children's Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Immune Support",
+    "High in Antioxidant Vitamin C",
+    "Helps Support Immune System Function",
+    "Vegan",
+    "Gluten-Free",
+    "Dietary Supplement",
+    "Non GMO Project Verified"
+   ],
+   "paragraphs": [
+    "Acerola cherries contain natural vitamin C, which packs an antioxidant punch and helps maintain a healthy immune system. Acerola cherries are one of the richest plant sources of vitamin C, providing 16 times more vitamin C than oranges. Flora's premium Acerola Natural Vitamin C Powder is pure juice powder, pressed from organically grown acerola cherries, and dried at a low temperature to retain the fruit's potent nutrient profile."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Ages 9-13: Take 1 capsule 1-2 times daily.",
+    "Ages 14 and up: Take 2 capsules 1-2 times daily."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Hypromellose, microcrystalline cellulose, magnesium stearate."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Security sealed for your protection. Do not use if seal is missing or damaged. Store at room temperature. Keep out of reach of children."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "03/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.32 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "FLO-62808"
+  },
+  {
+   "label": "UPC",
+   "value": "061998628089"
+  },
+  {
+   "label": "Package quantity",
+   "value": "120 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13 x 6.9 x 6.7 cm, 0.32 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 capsule"
+  ],
+  [
+   "Servings Per Container: 120"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Vitamin C (from Organic Acerola (Malpighia glabra) Fruit Juice Powder)",
+   "100 mg",
+   "111%"
+  ],
+  [
+   "*Percent Daily Value based on a 2,000 calorie diet."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Value based on a 2,000 calorie diet."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "120"
+    },
+    {
+     "label": "Best by",
+     "value": "12/2027"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegan",
+    "Gluten-free",
+    "Non-gmo"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "100+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,233.67",
+  "฿1,233.67",
+  "฿10.28/‏serving",
+  "{0}% off code: {1}",
+  "฿1,233.67",
+  "Save 0% in cart",
+  "฿10.28/‏serving",
+  "฿1,233.67",
+  "(0% off)",
+  "฿1,233.67",
+  "฿10.28/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/flo/flo62808/s/14.jpg"
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "pid": "67539",
+ "slug": "animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg",
+ "scrapedAt": "2026-08-25T17:21:30.713Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg.jpg",
+  "/products/iherb/animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg-2.jpg",
+  "/products/iherb/animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg-3.jpg",
+  "/products/iherb/animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg/67539",
+ "pageTitle": "Animal, Whey Protein Powder, Cookies & Cream, 4 lb (1.81 kg)",
+ "h1": "Animal, Whey Protein Powder, Cookies & Cream, 4 lb (1.81 kg)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "67539",
+  "name": "Animal, Whey Protein Powder, Cookies & Cream, 4 lb (1.81 kg)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/g/47.jpg",
+  "mpn": "UNN-03112",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 191
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Animal",
+   "url": "https://www.animalpak.com/",
+   "identifier": "ANM"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "4.63",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "3206.40",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Naturally & Artificially Flavored Instantized For Easy Mixing Superior Whey Protein Isolate Digestive Enzymes Ironclad Quality & Guarantee Commitment to Excellence Animal Whey® Is muscle food, pure and simple. Protein is the raw material capable of building the mass you desperately seek. For the most dedicated lifters, heavy training and clean eating just aren't enough. They need that little extra. And that edge can be found in Animal Whey®. Among the most basic, no-nonsense bodybuilding nutritional staples, Animal Whey® is easily digested and quickly processed whey protein, providing the building blocks needed to grow bigger, stronger and better. It is muscle food, in its purest form. Ironclad Quality & Guarantee Animal is dedicated to being the best in the business, no two ways about it. Made from premium ingredients sourced from around the world, our products are rigorously tested to meet the highest standards of quality. If you purchased this product and it has not met your requirements, let us know.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "8x7.95"
+  },
+  "isRelatedTo": null,
+  "sku": "UNN-03112",
+  "gtin12": "039442031129",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/g/47.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein",
+  "Whey Protein Blends"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Naturally & Artificially Flavored",
+    "Instantized For Easy Mixing",
+    "Superior Whey Protein Isolate",
+    "Digestive Enzymes",
+    "Ironclad Quality & Guarantee Commitment to Excellence"
+   ],
+   "paragraphs": [
+    "Animal Whey®",
+    "Is muscle food, pure and simple. Protein is the raw material capable of building the mass you desperately seek. For the most dedicated lifters, heavy training and clean eating just aren't enough. They need that little extra. And that edge can be found in Animal Whey®. Among the most basic, no-nonsense bodybuilding nutritional staples, Animal Whey® is easily digested and quickly processed whey protein, providing the building blocks needed to grow bigger, stronger and better. It is muscle food, in its purest form.",
+    "Ironclad Quality & Guarantee",
+    "Animal is dedicated to being the best in the business, no two ways about it. Made from premium ingredients sourced from around the world, our products are rigorously tested to meet the highest standards of quality. If you purchased this product and it has not met your requirements, let us know."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Mix 1 scoop of Animal Whey® with 4-6 ounces of skim milk or your beverage of choice. For best results, use a blender or Animal Shaker Cup. On training days, use 2 or more servings post-workout or whenever more protein is required. For more flavor, use slightly less liquid when mixing up Animal Whey®."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Animal Whey Protein Blend (cross flow micro filtered whey protein isolate, ultra filtrated whey protein concentrate), cookie bits [sugar, wheat flour, cocoa (processed with alkali), canola oil, salt, natural and artificial flavors], natural & artificial flavor, gum blend (cellulose gum, xanthan gum, carrageenan), lecithin, natural flavor, sodium chloride, acesulfame potassium, sucralose, Animal Whey Digestive Enzyme Blend (papain, bromelain).",
+    "Contains Milk, soy, and wheat.",
+    "Made in a GMP facility on equipment that processes milk, soy, egg, peanuts, tree nuts, fish, shellfish, and wheat."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Not for use by those under the age of 18. Consult a physician before using this product. Athletes should consult with their sanctioning authority before use.",
+    "California residents: Reproductive harm - Prop 65.",
+    "Store product in a cool, dry place, away from heat, moisture and sunlight."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "05/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "2.24 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "UNN-03112"
+  },
+  {
+   "label": "UPC",
+   "value": "039442031129"
+  },
+  {
+   "label": "Package quantity",
+   "value": "1,814 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "27.7 x 20.3 x 20.2 cm, 2.1 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size:1 Scoop (32 g)"
+  ],
+  [
+   "Servings Per Container: 56"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% Daily Value*"
+  ],
+  [
+   "Calories",
+   "120",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1 g",
+   "1%"
+  ],
+  [
+   "Saturated Fat",
+   "0.5 g",
+   "3%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "25 mg",
+   "8%"
+  ],
+  [
+   "Sodium",
+   "120 mg",
+   "5%"
+  ],
+  [
+   "Total Carbohydrate",
+   "2 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes <1 g Added Sugars",
+   "",
+   "1%"
+  ],
+  [
+   "Protein",
+   "25 g",
+   "50%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "140 mg",
+   "11%"
+  ],
+  [
+   "Iron",
+   "0.4 mg",
+   "2%"
+  ],
+  [
+   "Potassium",
+   "140 mg",
+   "3%"
+  ],
+  [
+   "Phosphorus",
+   "95 mg",
+   "8%"
+  ],
+  [
+   "Magnesium",
+   "20 mg",
+   "5%"
+  ],
+  [
+   "Chloride",
+   "75 mg",
+   "3%"
+  ],
+  [
+   "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t% Daily Value*",
+  "*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "56"
+    },
+    {
+     "label": "Best by",
+     "value": "03/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Halal",
+    "No artificial colors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "907 g",
+   "pid": "67531",
+   "url": "https://th.iherb.com/pr/animal-isolate-loaded-whey-protein-powder-chocolate-2-lb-907-g/67531",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "1814 g",
+   "pid": "67539",
+   "url": "https://th.iherb.com/pr/animal-whey-protein-powder-cookies-cream-4-lb-1-81-kg/67539",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿3,206.40",
+  "฿3,206.40",
+  "฿57.26/‏serving",
+  "{0}% off code: {1}",
+  "฿3,206.40",
+  "Save 0% in cart",
+  "฿57.26/‏serving",
+  "฿3,206.40",
+  "(0% off)",
+  "฿3,206.40",
+  "฿57.26/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/g/47.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/k/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/g/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/s/47.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/s/52.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/s/35.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/s/36.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/s/37.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/s/38.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/unn/unn03112/b/47.jpg"
+ ]
+}

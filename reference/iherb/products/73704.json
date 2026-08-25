@@ -1,0 +1,263 @@
+{
+ "pid": "73704",
+ "slug": "nordic-naturals-vitamin-d3-k2-gummies-pomegranate-60-gummies",
+ "scrapedAt": "2026-08-25T17:28:17.938Z",
+ "discovery": {
+  "category": "vitamins",
+  "foundVia": "vitamin d3 k2",
+  "sold": "1K+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/nordic-naturals-vitamin-d3-k2-gummies-pomegranate-60-gummies.jpg",
+  "/products/iherb/nordic-naturals-vitamin-d3-k2-gummies-pomegranate-60-gummies-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/nordic-naturals-vitamin-d3-k2-gummies-pomegranate-60-gummies/73704",
+ "pageTitle": "Nordic Naturals, Vitamin D3 + K2 Gummies, Pomegranate, 60 Gummies",
+ "h1": "Nordic Naturals, Vitamin D3 + K2 Gummies, Pomegranate, 60 Gummies",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "73704",
+  "name": "Nordic Naturals, Vitamin D3 + K2 Gummies, Pomegranate, 60 Gummies",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/g/46.jpg",
+  "mpn": "NOR-31160",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 3989
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Nordic Naturals",
+   "url": "http://www.nordicnaturals.com/",
+   "identifier": "NOR"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.55",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "871.94",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Supports The Structural Integrity of Bones Great Pomegranate Taste 1000 IU (25 mcg) D3 | 45 mcg K2 as MK-7 Per 1 Gummy Dietary Supplement igen™ - Non-GMO Tested Certified Vegetarian Vitamin D3 + K2 Gummies The combination of vitamin D3 and vitamin K2 provides enhanced support for the health and maintenance of normal bones. Vitamin D3 (cholecalciferol) is the most easily absorbed and utilized form of vitamin D. Vitamin K2 as menaquinone-7 is the most bioactive and bioavailable form of vitamin K. Together, these vitamins work in tandem to support osteoblasts (bone-forming cells), facilitate calcium and phosphorus balance in the blood, and promote healthy muscle function. Each great-tasting, chewable gummy provides 1000 IU (25 mcg) of vitamin D3 plus 45 mcg of vitamin K2.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.7x2.7"
+  },
+  "isRelatedTo": null,
+  "sku": "NOR-31160",
+  "gtin12": "768990311604",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/g/46.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin D3 & K2"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Supports The Structural Integrity of Bones",
+    "Great Pomegranate Taste",
+    "1000 IU (25 mcg) D3 | 45 mcg K2 as MK-7 Per 1 Gummy",
+    "Dietary Supplement",
+    "igen™ - Non-GMO Tested",
+    "Certified Vegetarian"
+   ],
+   "paragraphs": [
+    "Vitamin D3 + K2 Gummies",
+    "The combination of vitamin D3 and vitamin K2 provides enhanced support for the health and maintenance of normal bones. Vitamin D3 (cholecalciferol) is the most easily absorbed and utilized form of vitamin D. Vitamin K2 as menaquinone-7 is the most bioactive and bioavailable form of vitamin K.",
+    "Together, these vitamins work in tandem to support osteoblasts (bone-forming cells), facilitate calcium and phosphorus balance in the blood, and promote healthy muscle function. Each great-tasting, chewable gummy provides 1000 IU (25 mcg) of vitamin D3 plus 45 mcg of vitamin K2."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Adults take one gummy daily, with food, or as directed by your health care professional."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Organic cane sugar, organic tapioca syrup, purified water, pectin, natural flavor, citric acid, fumaric acid, sodium citrate dihydrate, fruit and vegetable juice (color).",
+    "No gluten, milk derivatives, or artificially derived colors or flavors.",
+    "This product and its ingredients do not contain common GE genes or proteins."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Store in a cool, dry place, away from sunlight. Do not take if tamper-evident seal is broken or missing. Keep out of the reach of children.",
+    "Consult with your physician before taking this product if have a known medical condition (including bleeding disorders, kidney disorders or hypercalcemia), or are taking medications (including blood thinners)."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2017"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "NOR-31160"
+  },
+  {
+   "label": "UPC",
+   "value": "768990311604"
+  },
+  {
+   "label": "Package quantity",
+   "value": "60 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.6 x 6.9 x 6.9 cm, 0.25 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Gummy"
+  ],
+  [
+   "Servings Per Container: 60"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value**"
+  ],
+  [
+   "Calories",
+   "10",
+   ""
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   "†"
+  ],
+  [
+   "Includes Added Sugars",
+   "2 g",
+   "4%"
+  ],
+  [
+   "Vitamin D3 (cholecalciferol)",
+   "25 mcg (1000 IU)",
+   "125%"
+  ],
+  [
+   "Vitamin K2 (as menaquinone-7) (MK-7)",
+   "45 mcg",
+   "†"
+  ],
+  [
+   "Sodium",
+   "5 mg",
+   "<1%"
+  ],
+  [
+   "**Percent Daily Values are based on a 2,000 calorie diet.†Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value**",
+  "**Percent Daily Values are based on a 2,000 calorie diet.",
+  "†Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 gummy"
+    },
+    {
+     "label": "Total servings",
+     "value": "60"
+    },
+    {
+     "label": "Best by",
+     "value": "01/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Vegetarian",
+    "Gluten-free",
+    "No artificial colors",
+    "No artificial flavors",
+    "Milk-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "1,000+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿871.94",
+  "฿871.94",
+  "฿14.53/‏serving",
+  "{0}% off code: {1}",
+  "฿871.94",
+  "Save 0% in cart",
+  "฿14.53/‏serving",
+  "฿871.94",
+  "(0% off)",
+  "฿871.94",
+  "฿14.53/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/g/46.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/k/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/g/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/s/46.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nor/nor31160/s/51.jpg"
+ ]
+}

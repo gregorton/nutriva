@@ -1,0 +1,352 @@
+{
+ "pid": "141511",
+ "slug": "levels-grass-fed-whey-protein-powder-vanilla-bean-2-lb-907-g",
+ "scrapedAt": "2026-08-25T17:10:19.928Z",
+ "discovery": {
+  "category": "sports",
+  "foundVia": "whey protein powder",
+  "sold": "200+",
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/levels-grass-fed-whey-protein-powder-vanilla-bean-2-lb-907-g.jpg",
+  "/products/iherb/levels-grass-fed-whey-protein-powder-vanilla-bean-2-lb-907-g-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-vanilla-bean-2-lb-907-g/141511",
+ "pageTitle": "Levels, Grass Fed Whey Protein Powder, Vanilla Bean, 2 lb (907 g)",
+ "h1": "Levels, Grass Fed Whey Protein Powder, Vanilla Bean, 2 lb (907 g)",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "141511",
+  "name": "Levels, Grass Fed Whey Protein Powder, Vanilla Bean, 2 lb (907 g)",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/g/26.jpg",
+  "mpn": "LVL-00704",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 217
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Levels",
+   "url": "https://levelsprotein.com/",
+   "identifier": "LVL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Sports",
+   "identifier": "101046"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "2.40",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "2551.12",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "24 g Protein 5.4 g BCAAs Minimal Ingredient Protein That Helps Build Lean Muscle‡ Zero Artificials Only 6 Ingredients Clean Label Project® Purity Award Nothing Fake. Ever.® Quality milk tastes better, way better. That's why we choose grass-fed and hormone-free dairy^ to make our whey protein concentrate. Whey concentrate is one of the least processed forms of whey. Which means it's loaded with high-quality complete protein and it contains all nine essential amino acids. Plus, every batch of Levels® Whey is cold-process microfiltered for that effortless mixing you expect. You'll find no deception here, either. That means no soy, no gluten, and no artificial flavors or sweeteners. Levels® was built because the protein aisle was stuck in the past. What existed was a hellscape of products loaded with artificial sweeteners, imitation flavors, and bogus fillers. We ditched the played out model that was used for years and reimagined protein with purposeful nutrition and minimal ingredients. Trusted by athletes, gym rats, and daily grinders everywhere, our products are crafted for everyone's lifestyle. Our Standard We never use any artificial sweeteners or bogus fillers. GMP Certified This product is produced using good manufacturing practices. ‡When taken over time with regular resistance training. ^No significant difference has been shown between dairy derived from rbst-treated and non-rbst treated cows.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "5.95x5.95"
+  },
+  "isRelatedTo": null,
+  "sku": "LVL-00704",
+  "gtin12": "857965007045",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/g/26.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Sports",
+  "Protein",
+  "Whey Protein"
+ ],
+ "blocks": [],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "04/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "1.14 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "LVL-00704"
+  },
+  {
+   "label": "UPC",
+   "value": "857965007045"
+  },
+  {
+   "label": "Package quantity",
+   "value": "907 g"
+  },
+  {
+   "label": "Dimensions",
+   "value": "25.4 x 15.1 x 15.1 cm, 1.09 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Nutrition Facts"
+  ],
+  [
+   "Serving Size: 1 Scoop (32 g)"
+  ],
+  [
+   "Servings Per Container: About 28"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value†"
+  ],
+  [
+   "Calories",
+   "130",
+   ""
+  ],
+  [
+   "Total Fat",
+   "2.5 g",
+   "3%"
+  ],
+  [
+   "Saturated Fat",
+   "1.5 g",
+   "8%"
+  ],
+  [
+   "Trans Fat",
+   "0 g",
+   ""
+  ],
+  [
+   "Cholesterol",
+   "75 mg",
+   "25%"
+  ],
+  [
+   "Sodium",
+   "125 mg",
+   "5%"
+  ],
+  [
+   "Total Carbohydrate",
+   "3 g",
+   "1%"
+  ],
+  [
+   "Dietary Fiber",
+   "0 g",
+   "0%"
+  ],
+  [
+   "Total Sugars",
+   "2 g",
+   ""
+  ],
+  [
+   "Includes 0 g Added Sugars",
+   "",
+   "0%"
+  ],
+  [
+   "Protein",
+   "24 g",
+   "48%"
+  ],
+  [
+   "Vitamin D",
+   "0 mcg",
+   "0%"
+  ],
+  [
+   "Calcium",
+   "100 mg",
+   "8%"
+  ],
+  [
+   "Iron",
+   "0.2 mg",
+   "0%"
+  ],
+  [
+   "Potassium",
+   "160 mg",
+   "4%"
+  ],
+  [
+   "†The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice."
+  ],
+  [
+   "Amino Acids Per Serving♢"
+  ],
+  [
+   "Alanine",
+   "1,200 mg"
+  ],
+  [
+   "Arginine",
+   "670 mg"
+  ],
+  [
+   "Aspartic Acid",
+   "2,600 mg"
+  ],
+  [
+   "Cystine",
+   "490 mg"
+  ],
+  [
+   "Glutamic Acid",
+   "4,190 mg"
+  ],
+  [
+   "Glycine",
+   "470 mg"
+  ],
+  [
+   "Histidine",
+   "460 mg"
+  ],
+  [
+   "**Isoleucine",
+   "1,450 mg"
+  ],
+  [
+   "**Leucine",
+   "2,540 mg"
+  ],
+  [
+   "Lysine",
+   "2,160 mg"
+  ],
+  [
+   "Methionine",
+   "500 mg"
+  ],
+  [
+   "Phenylalanine",
+   "760 mg"
+  ],
+  [
+   "Proline",
+   "1,410 mg"
+  ],
+  [
+   "Serine",
+   "1,200 mg"
+  ],
+  [
+   "Threonine",
+   "1,680 mg"
+  ],
+  [
+   "Tryptophan",
+   "410 mg"
+  ],
+  [
+   "Tyrosine",
+   "690 mg"
+  ],
+  [
+   "**Valine",
+   "1,440 mg"
+  ],
+  [
+   "♢Approximate values**Branched chain amino acids (BCAAs)"
+  ]
+ ],
+ "factsFootnotes": [
+  "Nutrition FactsServing Size: 1 Scoop (32 g)Servings Per Container: About 28 Amount Per Serving%Daily Value†Calories130Total Fat2.5 g3%Saturated Fat1.5 g8%Trans Fat0 gCholesterol75 mg25%Sodium125 mg5%Total Carbohydrate3 g1%Dietary Fiber0 g0%Total Sugars2 gIncludes 0 g Added Sugars0%Protein24 g48%Vitamin D0 mcg0%Calcium100 mg8%Iron0.2 mg0%Potassium160 mg4%†The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.Amino Acids Per Serving♢Alanine1,200 mgArginine670 mgAspartic Acid2,600 mgCystine490 mgGlutamic Acid4,190 mgGlycine470 mgHistidine460 mg**Isoleucine1,450 mg**Leucine2,540 mgLysine2,160 mgMethionine500 mgPhenylalanine760 mgProline1,410 mgSerine1,200 mgThreonine1,680 mgTryptophan410 mgTyrosine690 mg**Valine1,440 mg♢Approximate values**Branched chain amino acids (BCAAs)"
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 scoop"
+    },
+    {
+     "label": "Total servings",
+     "value": "28"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Soy-free",
+    "No artificial flavors",
+    "No artificial sweeteners"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "907 g",
+   "pid": "141511",
+   "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-vanilla-bean-2-lb-907-g/141511",
+   "price": null,
+   "outOfStock": true,
+   "selected": true
+  },
+  {
+   "label": "2270 g",
+   "pid": "141518",
+   "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-cappuccino-5-lb-2-27-kg/141518",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "2267 g",
+   "pid": "141520",
+   "url": "https://th.iherb.com/pr/levels-grass-fed-whey-protein-powder-vanilla-bean-5-lb-2-27-kg/141520",
+   "price": "฿5,909.37",
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [],
+ "buyBoxLines": [
+  "Add to Cart",
+  "Orgain, Grass-Fed Whey™ Protein Powder, Vanilla Bean, 1.82 lbs (828 g)",
+  "149",
+  "฿1,527.72"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/g/26.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/k/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/g/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/s/26.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/s/31.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/lvl/lvl00704/b/26.jpg"
+ ]
+}

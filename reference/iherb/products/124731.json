@@ -1,0 +1,294 @@
+{
+ "pid": "124731",
+ "slug": "california-gold-nutrition-omega-3-6-9s-with-omega-3-fish-oil-and-borag",
+ "scrapedAt": "2026-08-25T17:48:59.737Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "750+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/california-gold-nutrition-omega-3-6-9s-with-omega-3-fish-oil-and-borag.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-6-9s-with-omega-3-fish-oil-and-borag-2.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-6-9s-with-omega-3-fish-oil-and-borag-3.jpg",
+  "/products/iherb/california-gold-nutrition-omega-3-6-9s-with-omega-3-fish-oil-and-borag-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/california-gold-nutrition-omega-3-6-9s-with-omega-3-fish-oil-and-borage-seed-oil-epa-dha-gla-and-linoleic-acid-natural-lemon-180-fish-gelatin-softgels/124731",
+ "pageTitle": "California Gold Nutrition, Omega 3-6-9s, with Omega-3 Fish Oil and Borage Seed Oil, EPA, DHA, GLA, and Linoleic Acid, Natural Lemon, 180 Fish Gelatin Softgels",
+ "h1": "California Gold Nutrition, Omega 3-6-9s, with Omega-3 Fish Oil and Borage Seed Oil, EPA, DHA, GLA, and Linoleic Acid, Natural Lemon, 180 Fish Gelatin Softgels",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "124731",
+  "name": "California Gold Nutrition, Omega 3-6-9s, with Omega-3 Fish Oil and Borage Seed Oil, EPA, DHA, GLA, and Linoleic Acid, Natural Lemon, 180 Fish Gelatin Softgels",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/g/106.jpg",
+  "mpn": "CGN-02319",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 5467
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "California Gold Nutrition",
+   "url": "https://www.iherb.com/c/california-gold-nutrition",
+   "identifier": "CGN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.45",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "814.51",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "1086.02",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Fish Gelatin Softgels with Natural Lemon Flavor Featuring Norwegian kd-pür® Fish Oil with Borage Oil Supports Cardiovascular Health* California Gold Nutrition® Omega 3-6-9 is a supplement with a blend of fish oil and borage oil, both of which contain three important fatty acids. It can help you get an adequate amount of omegas in your diet, which helps support cardiovascular health.* iTested Verified",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.85x2.85"
+  },
+  "isRelatedTo": null,
+  "sku": "CGN-02319",
+  "gtin12": "898220023196",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/g/106.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Omegas & Fish Oils (EPA DHA)",
+  "Omega 3-6-9"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Fish Gelatin Softgels with Natural Lemon Flavor",
+    "Featuring Norwegian kd-pür® Fish Oil with Borage Oil",
+    "Supports Cardiovascular Health*"
+   ],
+   "paragraphs": [
+    "California Gold Nutrition® Omega 3-6-9 is a supplement with a blend of fish oil and borage oil, both of which contain three important fatty acids. It can help you get an adequate amount of omegas in your diet, which helps support cardiovascular health.*",
+    "iTested Verified"
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "Take 2 softgels daily, with food. Best when taken as directed by a qualified healthcare professional."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "Keep out of reach of children. Pregnant or lactating women, the chronically ill, elderly, individuals under the age of 18, those taking prescription medications (e.g., blood thinners) as well as those with a physician-diagnosed medical condition should consult with a physician, pharmacist, naturopath or other qualified healthcare professional prior to taking dietary supplements.",
+    "Sealed for your protection. Do not use if seal is missing or broken. Store in a cool, dry place. Protect from heat, light, and moisture.",
+    "Natural color variations may occur."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "01/2024"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "CGN-02319"
+  },
+  {
+   "label": "UPC",
+   "value": "898220023196"
+  },
+  {
+   "label": "Package quantity",
+   "value": "180 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "13.5 x 7.2 x 7.2 cm, 0.2 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 2 Softgels"
+  ],
+  [
+   "Servings Per Container: 90"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "%Daily Value"
+  ],
+  [
+   "Calories",
+   "15",
+   ""
+  ],
+  [
+   "Total Fat",
+   "1.5 g",
+   "2%*"
+  ],
+  [
+   "Cholesterol",
+   "<5 mg",
+   "1%"
+  ],
+  [
+   "Total Omega-3 Fatty Acids",
+   "540 mg",
+   "†"
+  ],
+  [
+   "EPA (Eicosapentaenoic Acid)",
+   "270 mg",
+   "†"
+  ],
+  [
+   "DHA (Docosahexaenoic Acid)",
+   "180 mg",
+   "†"
+  ],
+  [
+   "Other Omega-3 Fatty Acids",
+   "90 mg",
+   "†"
+  ],
+  [
+   "Total Omega-6 Fatty Acids",
+   "180 mg",
+   "†"
+  ],
+  [
+   "LA (Linoleic Acid)",
+   "110 mg",
+   "†"
+  ],
+  [
+   "GLA (Gamma Linolenic Acid)",
+   "70 mg",
+   "†"
+  ],
+  [
+   "Total Omega-9 Fatty Acids",
+   "50 mg",
+   "†"
+  ],
+  [
+   "Oleic Acid",
+   "50 mg",
+   "†"
+  ],
+  [
+   "*Percent Daily Values are based on a 2,000 calorie diet.† Daily Value not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "Amount Per Serving\t%Daily Value",
+  "*Percent Daily Values are based on a 2,000 calorie diet.",
+  "† Daily Value not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "2 softgel"
+    },
+    {
+     "label": "Total servings",
+     "value": "90"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": [
+    "3rd Party Tested",
+    "View certificate",
+    "GMP"
+   ]
+  }
+ ],
+ "packVariants": [],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "750+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,086.02",
+  "฿1,086.02",
+  "฿12.07/‏serving",
+  "{0}% off code: {1}",
+  "฿1,086.02",
+  "Save 25% in cart",
+  "฿12.07/‏serving",
+  "฿814.51",
+  "(25% off)",
+  "฿1,086.02",
+  "฿9.05/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/g/106.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/k/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/g/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/s/106.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/s/111.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/s/27.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/s/25.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cgn/cgn02319/s/26.jpg"
+ ]
+}

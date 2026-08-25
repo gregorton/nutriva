@@ -1,0 +1,224 @@
+{
+ "pid": "148315",
+ "slug": "mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25",
+ "scrapedAt": "2026-08-25T17:50:15.860Z",
+ "discovery": {
+  "category": null,
+  "foundVia": "/specials",
+  "sold": "500+",
+  "flag": "Deal"
+ },
+ "images": [
+  "/products/iherb/mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25.jpg",
+  "/products/iherb/mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25-2.jpg",
+  "/products/iherb/mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25-3.jpg",
+  "/products/iherb/mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25-4.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25-g-each/148315",
+ "pageTitle": "Mild By Nature, Sierra Bees™, Organic Lip Balms, Honey, 4 Pack, 0.15 oz (4.25 g) Each",
+ "h1": "Mild By Nature, Sierra Bees™, Organic Lip Balms, Honey, 4 Pack, 0.15 oz (4.25 g) Each",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "148315",
+  "name": "Mild By Nature, Sierra Bees™, Organic Lip Balms, Honey, 4 Pack, 0.15 oz (4.25 g) Each",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/g/8.jpg",
+  "mpn": "MBN-02570",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.7,
+   "reviewCount": 6849
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Mild By Nature",
+   "url": "https://www.iherb.com/c/mild-by-nature",
+   "identifier": "MBN"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Bath & Personal Care",
+   "identifier": "100477"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.09",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": null,
+   "priceCurrency": null,
+   "priceSpecification": [
+    {
+     "@type": "UnitPriceSpecification",
+     "price": "121.24",
+     "priceCurrency": "THB"
+    },
+    {
+     "@type": "UnitPriceSpecification",
+     "priceType": "https://schema.org/StrikethroughPrice",
+     "price": "161.66",
+     "priceCurrency": "THB"
+    }
+   ],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Mild By Nature, Sierra Bees Organic Lip Balms Featuring Sustainably Sourced Beeswax, Olive Oil, Sunflower Oil & Vitamin E Formulated to be: USDA Organic, Non-GMO, Cruelty Free Made with Eco-Friendly & Biodegradable Ingredients No Sulfates, No Preservatives, No Artificial Fragrances & No Animal Testing Certified Organic by Oregon Tilth Bee good to your Lips! We’re excited to share that Sierra Bees is now a part of the Mild By Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products. Cocoa Butter - Crème Brûlée - Mint Burst Our Sustainable, USDA-Certified Organic Beeswax is sourced from established Bee Farmers who meet our stringent social, environmental and economic requirements. We purchase our USDA Organic Beeswax from well-established bee farmers, who are often the third or fourth-generation in the trade and have learned from decades of hands-on experience. Their livelihood is dependent on the ethical and humane collection of crude wax and honey. These farmers take pride in providing a high quality, consistent products year after year, without endangering bees or other wildlife. The collection of our Organic Beeswax takes place in organized apiaries, or out in the wild — where collectors do their best to ensure the bees are well cared for. By constantly monitoring the hives, farmers can make certain the bees are healthy and well fed throughout the year, especially during times of drought or frost. Many of our bee farmers use wooden hives, which are hung from trees, so wild animals cannot disturb them. In addition, the majority of our bee farmers contribute to ongoing government and university-funded research. This crucial research is intended to develop better ways to handle bees, and keep them safe in their natural habitat. Organic Beeswax is a naturally sustainable product from Mother Nature. It is up to us to protect bees, so that they will continue to pollinate and produce high quality Organic Beeswax for generations to come.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "3.7x0.75"
+  },
+  "isRelatedTo": null,
+  "sku": "MBN-02570",
+  "gtin12": "898220025701",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/g/8.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Bath & Personal Care",
+  "Lip Care",
+  "Lip Balm"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Mild By Nature, Sierra Bees Organic Lip Balms",
+    "Featuring Sustainably Sourced Beeswax, Olive Oil, Sunflower Oil & Vitamin E",
+    "Formulated to be: USDA Organic, Non-GMO, Cruelty Free",
+    "Made with Eco-Friendly & Biodegradable Ingredients",
+    "No Sulfates, No Preservatives, No Artificial Fragrances & No Animal Testing",
+    "Certified Organic by Oregon Tilth",
+    "Bee good to your Lips!"
+   ],
+   "paragraphs": [
+    "We’re excited to share that Sierra Bees is now a part of the Mild By Nature family of products. You can still expect the same eco-conscious and nature-inspired formulas, just with a new brand and a new family of effective personal care products.",
+    "Cocoa Butter - Crème Brûlée - Mint Burst",
+    "Our Sustainable, USDA-Certified Organic Beeswax is sourced from established Bee Farmers who meet our stringent social, environmental and economic requirements.",
+    "We purchase our USDA Organic Beeswax from well-established bee farmers, who are often the third or fourth-generation in the trade and have learned from decades of hands-on experience. Their livelihood is dependent on the ethical and humane collection of crude wax and honey. These farmers take pride in providing a high quality, consistent products year after year, without endangering bees or other wildlife.",
+    "The collection of our Organic Beeswax takes place in organized apiaries, or out in the wild — where collectors do their best to ensure the bees are well cared for. By constantly monitoring the hives, farmers can make certain the bees are healthy and well fed throughout the year, especially during times of drought or frost. Many of our bee farmers use wooden hives, which are hung from trees, so wild animals cannot disturb them.",
+    "In addition, the majority of our bee farmers contribute to ongoing government and university-funded research. This crucial research is intended to develop better ways to handle bees, and keep them safe in their natural habitat.",
+    "Organic Beeswax is a naturally sustainable product from Mother Nature. It is up to us to protect bees, so that they will continue to pollinate and produce high quality Organic Beeswax for generations to come."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Olea Europaea (Olive) Fruit Oil*, Cera Alba (Beeswax)*, Flavor, Helianthus Annuus (Sunflower) Seed Oil*, Tocopherol (Vitamin E), Honey Extract*.",
+    "*Organic"
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "08/2025"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.05 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "MBN-02570"
+  },
+  {
+   "label": "UPC",
+   "value": "898220025701"
+  },
+  {
+   "label": "Package quantity",
+   "value": "4 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.7 x 9.4 x 1.9 cm, 0.04 kg"
+  }
+ ],
+ "factsRows": null,
+ "factsFootnotes": [],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Package quantity",
+     "value": "4 count"
+    },
+    {
+     "label": "Best by",
+     "value": "04/2029"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Organic",
+    "Cruelty-free"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "4 count",
+   "pid": "148315",
+   "url": "https://th.iherb.com/pr/mild-by-nature-sierra-bees-organic-lip-balms-honey-4-pack-0-15-oz-4-25-g-each/148315",
+   "price": "฿121.24",
+   "outOfStock": false,
+   "selected": true
+  },
+  {
+   "label": "8 count",
+   "pid": "148306",
+   "url": "https://th.iherb.com/pr/mild-by-nature-sierra-bees-organic-lip-balms-combo-pack-8-pack-0-15-oz-4-25-g-each/148306",
+   "price": null,
+   "outOfStock": false,
+   "selected": false
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock",
+  "500+ sold in 30 days"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿161.66",
+  "฿161.66",
+  "฿40.42/‏count",
+  "{0}% off code: {1}",
+  "฿161.66",
+  "Save 25% in cart",
+  "฿40.42/‏count",
+  "฿121.24",
+  "(25% off)",
+  "฿161.66",
+  "฿30.31/‏count",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/g/8.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/k/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/g/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/s/8.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/s/9.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/s/10.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/s/11.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/s/6.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/s/12.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mbn/mbn02570/b/8.jpg"
+ ]
+}

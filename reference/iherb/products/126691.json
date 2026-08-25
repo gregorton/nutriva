@@ -1,0 +1,254 @@
+{
+ "pid": "126691",
+ "slug": "solgar-ester-c-plus-vitamin-c-100-capsules",
+ "scrapedAt": "2026-08-25T17:26:56.098Z",
+ "discovery": {
+  "category": "immunity",
+  "foundVia": "immune support vitamin c",
+  "sold": null,
+  "flag": null
+ },
+ "images": [
+  "/products/iherb/solgar-ester-c-plus-vitamin-c-100-capsules.jpg",
+  "/products/iherb/solgar-ester-c-plus-vitamin-c-100-capsules-2.jpg"
+ ],
+ "url": "https://th.iherb.com/pr/solgar-ester-c-plus-vitamin-c-100-capsules/126691",
+ "pageTitle": "Solgar, Ester-C® Plus, Vitamin C, 100 Capsules",
+ "h1": "Solgar, Ester-C® Plus, Vitamin C, 100 Capsules",
+ "ld": {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "productID": "126691",
+  "name": "Solgar, Ester-C® Plus, Vitamin C, 100 Capsules",
+  "logo": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/g/24.jpg",
+  "mpn": "SOL-00694",
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.9,
+   "reviewCount": 390
+  },
+  "brand": {
+   "@type": "Brand",
+   "name": "Solgar",
+   "url": "http://www.solgar.com/",
+   "identifier": "SOL"
+  },
+  "category": {
+   "@type": "Thing",
+   "name": "Supplements",
+   "identifier": "1855"
+  },
+  "weight": {
+   "@type": "QuantitativeValue",
+   "value": "0.85",
+   "unitText": "kg"
+  },
+  "offers": {
+   "@type": "Offer",
+   "availability": "https://schema.org/InStock",
+   "price": "1119.34",
+   "priceCurrency": "THB",
+   "priceSpecification": [],
+   "offerCount": null,
+   "availabilityStarts": null
+  },
+  "description": "Since 1947 Gentle & Non Acidic Supports Upper Respiratory Health Only Vitamin C with 24-Hour Immune Support Non-GMO Gluten, Wheat & Dairy Free Dietary Supplement Ester-C®: the only vitamin c with 24-hour immune support No other vitamin C product gives you what Ester-C® does. Solgar® Ester-C® Plus 1000 mg Vitamin C offers a unique, non-acidic vitamin C that's gentle on the stomach. And, every dose offers advanced immune support with 1,000 mg of Ester-C®. Ester-C® Plus 1000 mg Vitamin C supports upper respiratory health. What's more, Ester-C® is clinically studied to stay in your white blood cells for up to 24 hours. 24-hour immune support plus so much more. That's Solgar® Ester-C® Plus 1000 mg Vitamin C.",
+  "size": {
+   "@type": "SizeSpecification",
+   "name": "2.65x2.65"
+  },
+  "isRelatedTo": null,
+  "sku": "SOL-00694",
+  "gtin12": "033984006942",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/g/24.jpg"
+ },
+ "breadcrumbs": [
+  "Categories",
+  "Supplements",
+  "Vitamins",
+  "Vitamin C"
+ ],
+ "blocks": [
+  {
+   "label": "Overview",
+   "bullets": [
+    "Since 1947",
+    "Gentle & Non Acidic",
+    "Supports Upper Respiratory Health",
+    "Only Vitamin C with 24-Hour Immune Support",
+    "Non-GMO",
+    "Gluten, Wheat & Dairy Free",
+    "Dietary Supplement"
+   ],
+   "paragraphs": [
+    "Ester-C®: the only vitamin c with 24-hour immune support",
+    "No other vitamin C product gives you what Ester-C® does. Solgar® Ester-C® Plus 1000 mg Vitamin C offers a unique, non-acidic vitamin C that's gentle on the stomach. And, every dose offers advanced immune support with 1,000 mg of Ester-C®. Ester-C® Plus 1000 mg Vitamin C supports upper respiratory health. What's more, Ester-C® is clinically studied to stay in your white blood cells for up to 24 hours.",
+    "24-hour immune support plus so much more. That's Solgar® Ester-C® Plus 1000 mg Vitamin C."
+   ]
+  },
+  {
+   "label": "Suggested use",
+   "bullets": [],
+   "paragraphs": [
+    "As a dietary supplement for adults, take one (1) capsule daily, preferably with a meal or as directed by a healthcare practitioner."
+   ]
+  },
+  {
+   "label": "Other ingredients",
+   "bullets": [],
+   "paragraphs": [
+    "Gelatin, vegetable magnesium stearate.",
+    "Free of: gluten, wheat, dairy, soy, yeast, sugar, sodium, artificial flavor, sweetener and color."
+   ]
+  },
+  {
+   "label": "Warnings",
+   "bullets": [],
+   "paragraphs": [
+    "If you are pregnant, nursing, taking any medications or have any medical condition, please consult your healthcare practitioner before taking any dietary supplement. Discontinue use and consult your healthcare practitioner if any adverse reactions occur. Keep out of reach of children. Store at room temperature. Do not use if outer bottle seal is missing or damaged."
+   ]
+  }
+ ],
+ "specs": [
+  {
+   "label": "First available",
+   "value": "09/2023"
+  },
+  {
+   "label": "Shipping weight",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Product code",
+   "value": "SOL-00694"
+  },
+  {
+   "label": "UPC",
+   "value": "033984006942"
+  },
+  {
+   "label": "Package quantity",
+   "value": "100 count"
+  },
+  {
+   "label": "Dimensions",
+   "value": "12.8 x 6.7 x 6.7 cm, 0.39 kg"
+  }
+ ],
+ "factsRows": [
+  [
+   "Supplement facts"
+  ],
+  [
+   "Serving Size: 1 Capsule"
+  ],
+  [
+   "",
+   "Amount Per Serving",
+   "% DV"
+  ],
+  [
+   "Vitamin C (as Ester-C® calcium ascorbate)",
+   "1,000 mg",
+   "1,111%"
+  ],
+  [
+   "Calcium (as Ester-C® calcium ascorbate)",
+   "108 mg",
+   "8%"
+  ],
+  [
+   "Citrus Bioflavonoids ComplexCitrus Bioflavonoids (Citrus spp.) (fruit), Sweet Orange, Tangerine, Lime, Lemon, Acerola, Rutin, Hesperidin Complex (Citrus spp.) (fruit), Naturally Occurring Vitamin C Metabolites",
+   "200 mg",
+   "**"
+  ],
+  [
+   "***Daily Value (DV) not established."
+  ]
+ ],
+ "factsFootnotes": [
+  "***Daily Value (DV) not established."
+ ],
+ "atAGlance": [
+  {
+   "title": "Key info",
+   "items": [
+    {
+     "label": "Serving size",
+     "value": "1 capsule"
+    },
+    {
+     "label": "Total servings",
+     "value": "100"
+    },
+    {
+     "label": "Best by",
+     "value": "02/2028"
+    }
+   ],
+   "chips": []
+  },
+  {
+   "title": "Certifications and diet",
+   "items": [],
+   "chips": [
+    "Gluten-free",
+    "Dairy-free",
+    "Soy-free",
+    "Wheat-free",
+    "No artificial colors",
+    "No artificial flavors"
+   ]
+  },
+  {
+   "title": "Quality standards & manufacturing",
+   "items": [],
+   "chips": []
+  }
+ ],
+ "packVariants": [
+  {
+   "label": "50 count",
+   "pid": "126690",
+   "url": "https://th.iherb.com/pr/solgar-ester-c-plus-vitamin-c-50-capsules/126690",
+   "price": "฿579.96",
+   "outOfStock": false,
+   "selected": false
+  },
+  {
+   "label": "100 count",
+   "pid": "126691",
+   "url": "https://th.iherb.com/pr/solgar-ester-c-plus-vitamin-c-100-capsules/126691",
+   "price": null,
+   "outOfStock": false,
+   "selected": true
+  }
+ ],
+ "rankings": [],
+ "stockLines": [
+  "In stock"
+ ],
+ "buyBoxLines": [
+  "See price in cart",
+  "Why don't we show the price?As a retailer, we independently set our prices. However, due to manufacturer restrictions, we sometimes can't display the price until you take further action.",
+  "฿1,119.34",
+  "฿1,119.34",
+  "฿11.19/‏serving",
+  "{0}% off code: {1}",
+  "฿1,119.34",
+  "Save 0% in cart",
+  "฿11.19/‏serving",
+  "฿1,119.34",
+  "(0% off)",
+  "฿1,119.34",
+  "฿11.19/‏serving",
+  "Free shipping"
+ ],
+ "mainSrc": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/g/24.jpg",
+ "gallery": [
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/k/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/g/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/s/24.jpg",
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol00694/s/30.jpg"
+ ]
+}
