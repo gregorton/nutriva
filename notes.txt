@@ -8,6 +8,6 @@
 7. targeted towards Gen z/teenagers page section.(REQUIRES SOME PLANNING) (DEFERRED — not started)
 8. make letters on the add to cart button white instead of black on product pages.' (DONE)
 9. redesign add to cart style to match this design ("C:\Users\sixth\Desktop\add to cart new design.txt") (DONE)
-10. when hovering over product images, it should automatically zoom in using this code ("C:\Users\sixth\Desktop\zoom feature.txt") (DONE)
+10. when hovering over product images, it should automatically zoom in using this code ("C:\Users\sixth\Desktop\zoom feature.txt") (WIP)
 11. add a very short delay when mouse moves or hovers over category tabs in the top nav so it doesn't instantly appear. (DONE)
 12. swap and change colors on products for (bought this month) and the sold amount. Make the sold amount the color that (bought this month) has, and swap it so (bought this month) is the original color of amount sold. (DONE)
