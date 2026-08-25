@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { CATEGORIES, GOALS } from "@/lib/catalog";
 import { ArrowIcon } from "@/components/ui/icons";
 
@@ -13,12 +13,51 @@ import { ArrowIcon } from "@/components/ui/icons";
 export function CategoryNav() {
   const [openSlug, setOpenSlug] = useState<string | null>(null);
   const open = CATEGORIES.find((c) => c.slug === openSlug) ?? null;
+  const enterTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const leaveTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const clearTimers = () => {
+    if (enterTimer.current) {
+      clearTimeout(enterTimer.current);
+      enterTimer.current = null;
+    }
+    if (leaveTimer.current) {
+      clearTimeout(leaveTimer.current);
+      leaveTimer.current = null;
+    }
+  };
+
+  const scheduleOpen = (slug: string) => {
+    if (leaveTimer.current) {
+      clearTimeout(leaveTimer.current);
+      leaveTimer.current = null;
+    }
+    if (enterTimer.current) clearTimeout(enterTimer.current);
+    if (openSlug === slug) return;
+    enterTimer.current = setTimeout(() => setOpenSlug(slug), 140);
+  };
+
+  const scheduleClose = () => {
+    if (enterTimer.current) {
+      clearTimeout(enterTimer.current);
+      enterTimer.current = null;
+    }
+    if (leaveTimer.current) clearTimeout(leaveTimer.current);
+    leaveTimer.current = setTimeout(() => setOpenSlug(null), 90);
+  };
+
+  const keepOpen = (slug: string) => {
+    clearTimers();
+    setOpenSlug(slug);
+  };
+
+  useEffect(() => () => clearTimers(), []);
 
   return (
     <nav
       aria-label="Product categories"
       className="relative bg-plum-800 text-white"
-      onMouseLeave={() => setOpenSlug(null)}
+      onMouseLeave={scheduleClose}
     >
       <div className="shell">
         <ul className="rail flex items-stretch gap-1 overflow-x-auto">
@@ -26,8 +65,8 @@ export function CategoryNav() {
             <li key={category.slug}>
               <Link
                 href={`/c/${category.slug}`}
-                onMouseEnter={() => setOpenSlug(category.slug)}
-                onFocus={() => setOpenSlug(category.slug)}
+                onMouseEnter={() => scheduleOpen(category.slug)}
+                onFocus={() => keepOpen(category.slug)}
                 className={`flex h-11 items-center whitespace-nowrap px-3 text-[13.5px] font-medium transition-colors hover:bg-plum-700 ${
                   openSlug === category.slug ? "bg-plum-700" : ""
                 }`}
@@ -57,7 +96,8 @@ export function CategoryNav() {
       {open && (
         <div
           className="absolute inset-x-0 top-full z-40 hidden border-b border-line bg-white shadow-[0_18px_40px_-24px_rgba(43,15,32,0.45)] md:block"
-          onMouseEnter={() => setOpenSlug(open.slug)}
+          onMouseEnter={() => keepOpen(open.slug)}
+          onMouseLeave={scheduleClose}
         >
           <div className="shell grid grid-cols-[1.6fr_1fr] gap-10 py-6">
             <div>

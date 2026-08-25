@@ -29,17 +29,17 @@ export function ProductGallery({ product }: { product: Product }) {
           />
         ))}
 
-      <div className="frame relative aspect-square overflow-hidden rounded-tile border border-line bg-paper">
+      <div className="frame group relative aspect-square overflow-hidden rounded-tile border border-line bg-paper">
         {shots.map((src, i) => (
           // Single-shot products never get a radio, so that one frame has to show unconditionally.
-          <div key={src} className={shots.length > 1 ? "shot absolute inset-0" : "absolute inset-0"}>
+          <div key={src} className={shots.length > 1 ? "shot absolute inset-0 overflow-hidden" : "absolute inset-0 overflow-hidden"}>
             <Image
               src={src}
               alt={i === 0 ? alt : `${alt} — view ${i + 1}`}
               fill
               sizes="(max-width: 1024px) 90vw, 440px"
               priority={i === 0}
-              className="object-contain p-6"
+              className="object-contain p-6 transition-transform duration-300 will-change-transform group-hover:scale-[1.08]"
             />
           </div>
         ))}

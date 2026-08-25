@@ -15,7 +15,7 @@ export function Rating({ value, reviews, className = "" }: { value: number; revi
         {value.toFixed(1)}
       </span>
       <Stars value={value} size="sm" />
-      <span className="facts min-w-0 truncate" data-num>
+      <span className="facts min-w-0 truncate text-sold" data-num>
         {count(reviews)}
       </span>
     </span>

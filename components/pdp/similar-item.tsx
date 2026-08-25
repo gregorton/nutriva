@@ -46,7 +46,7 @@ export function SimilarItem({ product }: { product: Product }) {
               {product.rating.toFixed(1)}
             </span>
             <Stars value={product.rating} size="sm" />
-            <span className="facts" data-num>
+            <span className="facts text-sold" data-num>
               ({count(product.reviews)})
             </span>
           </p>

@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import type { Product } from "@/lib/catalog";
 import { count, price } from "@/lib/format";
-import { FactsStrip } from "@/components/product/facts-strip";
 import { Rating } from "@/components/product/rating";
 import { QuickAdd } from "@/components/cart/quick-add";
 
@@ -24,7 +23,7 @@ export function ProductCard({ product, priority = false }: { product: Product; p
           fill
           sizes="(max-width: 640px) 45vw, (max-width: 1024px) 30vw, 250px"
           priority={priority}
-          className="object-contain p-2 transition-transform duration-300 group-hover:scale-[1.03]"
+          className="object-contain p-2 transition-transform duration-300 will-change-transform group-hover:scale-[1.08]"
         />
         {product.discount && (
           <span className="kicker absolute left-0 top-0 z-10 rounded-br-[7px] bg-plum-800 px-2 py-1 text-turmeric-200">
@@ -68,14 +67,10 @@ export function ProductCard({ product, priority = false }: { product: Product; p
           )}
         </div>
 
-        {/* Fixed height whether or not there is a volume figure, so rows stay aligned. The
-            figure is the one blue on the card — a highlight, not a trust claim, which is why
-            it no longer borrows the pandan green those carry. */}
-        <p className="facts mt-1 h-[16px] font-medium text-sold" data-num>
+        {/* Fixed height whether or not there is a volume figure, so rows stay aligned. */}
+        <p className="facts mt-1 h-[16px] font-medium" data-num>
           {product.sold30d ? `${count(product.sold30d)} bought this month` : ""}
         </p>
-
-        <FactsStrip product={product} className="mt-2" />
       </div>
     </article>
   );
