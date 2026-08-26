@@ -9,9 +9,6 @@
  * Assets are the listed source assets, reused with original crops.
  */
 
-const COVER_BG =
-  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images//cms/plp_professional_brands/Experts/New/Cover%20Bg%20-%20Desktop.png";
-
 const CARDS = [
   {
     icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Laboratory.svg",
@@ -38,10 +35,8 @@ const CARDS = [
 export function TrustBand() {
   return (
     <section className="shell mt-6" aria-labelledby="professional-brands-heading">
-      <div
-        className="relative flex flex-col items-center overflow-hidden rounded-t-[8px] bg-[#141c30] bg-cover bg-center bg-no-repeat p-8"
-        style={{ backgroundImage: `url("${COVER_BG}")` }}
-      >
+      <div className="relative flex flex-col items-center overflow-hidden rounded-t-[8px] bg-gradient-to-r from-[#0e3a6b] via-[#144c8a] to-[#1b5ca7] p-8">
+
         <div className="w-full max-w-[1312px]">
           {/* header */}
           <div className="mb-6">

@@ -49,9 +49,10 @@ export function KitCard({ kit }: { kit: Kit }) {
       className="flex h-full flex-col rounded-tile border border-line bg-white p-5"
       aria-label={kit.title}
     >
-      <p className="kicker text-plum-700">{kit.eyebrow}</p>
-      <h3 className="mt-1.5 font-display text-[21px] leading-tight sm:text-[23px]">{kit.title}</h3>
-      <p className="mt-2 text-[13.5px] leading-snug text-muted">{kit.promise}</p>
+      <p className="inline-flex w-fit items-center rounded-full bg-plum-700 px-2.5 py-1 text-[11px] font-bold uppercase tracking-[0.14em] text-white">
+        Recommended
+      </p>
+      <h3 className="mt-2.5 font-display text-[21px] leading-tight sm:text-[23px]">{kit.title}</h3>
 
       <ul className="mt-4 divide-y divide-line border-y border-line">
         {kit.items.map(({ role, product }) => (
@@ -132,8 +133,10 @@ export function KitTile({ kit, priority = false }: { kit: Kit; priority?: boolea
         ))}
       </div>
 
-      <p className="kicker mt-3 text-plum-700">{kit.eyebrow}</p>
-      <h3 className="mt-1 font-display text-[17px] leading-tight">
+      <p className="mt-3 inline-flex w-fit items-center rounded-full bg-plum-700 px-2.5 py-1 text-[11px] font-bold uppercase tracking-[0.14em] text-white">
+        Recommended
+      </p>
+      <h3 className="mt-2 font-display text-[17px] leading-tight">
         <Link href="/starters" className="static before:absolute before:inset-0">
           {kit.title}
         </Link>
