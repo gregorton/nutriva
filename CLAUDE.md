@@ -56,8 +56,8 @@ static catalogue module.
   mismatch and trips `react-hooks/set-state-in-effect`.
 - Routes: `/` home, `/c/[slug]` category (dynamic — reads searchParams), `/p/[slug]` product (SSG, 178
   paths), `/deals`, `/search`, `not-found`.
-- Everything is a server component except the cart, category-nav panel, sort select, countdown and
-  rail scroller.
+- Everything is a server component except the cart, category-nav panel, sort select, countdown,
+  rail scroller and the product-gallery zoom.
 
 ## Design system
 
@@ -117,8 +117,20 @@ descriptive section second: an unconvinced shopper should meet the alternatives 
 copy.
 
 - `components/pdp/product-gallery.tsx` — the media column. One view per shot the manufacturer
-  publishes, up to four, switched by radio inputs and the `.gallery` rules in `globals.css`: no client
-  JS, keyboard-operable, survives reload. Single-shot products render the frame alone.
+  publishes, up to four, switched by radio inputs and the `.gallery` rules in `globals.css`: view
+  switching needs no client JS, is keyboard-operable and survives reload. Single-shot products render
+  the frame alone.
+- `components/pdp/zoom-shot.tsx` — one shot in that frame, plus EasyZoom-style magnification: hovering
+  draws a lens over the region under the pointer and a fixed pane beside the frame showing that region
+  at the source file's own resolution (900px, so roughly 2.3×), panning as the pointer moves. The pane
+  is `position: fixed` to escape the frame's `overflow-hidden`, which holds only while no ancestor
+  creates a containing block — do not put `transform`, `filter` or `will-change` back on the frame.
+  Each shot handles its own hover and inactive shots are `visibility: hidden`, so the component needs
+  no active-index state and the CSS switcher keeps working; it must stay a direct child of `.frame` in
+  source order because those rules address shots by `:nth-child`. Zoom is off below 1024px and for
+  touch pointers, where there is nowhere to put a pane. This replaced a `scale(1.08)` transform on the
+  whole photograph — enough movement to read as a wobble, never enough to read a label — so no product
+  image anywhere carries a hover transform now; the grid cards and deal rail lost theirs with it.
 - `components/pdp/product-information.tsx` — the **Product information** section: tinted title bar over
   a 14/10 column split, with Overview, Specifications, Suggested use, Other ingredients, Warnings,
   Storage and Disclaimer on the left and `supplement-facts.tsx` on the right. Nothing descriptive

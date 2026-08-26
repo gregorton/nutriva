@@ -1,11 +1,12 @@
 // Temporary PDP check: structure assertions plus desktop/mobile screenshots.
 // Usage: node reference/pdp-check.mjs   (needs the dev server on :3000)
+//        BASE_URL=http://localhost:42286 node reference/pdp-check.mjs   (when dev picked another port)
 import { chromium, devices } from 'playwright-core';
 import { mkdirSync } from 'node:fs';
 
 const EXE = 'C:/Users/sixth/AppData/Local/ms-playwright/chromium-1234/chrome-win64/chrome.exe';
 const OUT = 'reference/preview';
-const BASE = 'http://localhost:3000';
+const BASE = process.env.BASE_URL ?? 'http://localhost:3000';
 const MAIN = '/p/now-foods-magnesium-glycinate-180-tablets-100-mg-per-tablet';
 const SIBLINGS = '/p/now-foods-omega-3-fish-oil-1-000-mg-200-softgels';
 
@@ -73,6 +74,44 @@ check(
   })(),
   '1',
 );
+
+// gallery zoom: hovering the shot on screen opens a pane beside the frame showing the region
+// under the lens, panning follows the pointer, and leaving clears both. Replaced a whole-image
+// `scale(1.08)` on the frame, so assert nothing transforms any more either.
+const activeShot = page.locator('.gallery .frame > div:nth-child(3) .cursor-crosshair');
+const shotBox = await activeShot.boundingBox();
+const frameBox = await page.locator('.gallery .frame').boundingBox();
+await page.mouse.move(shotBox.x + shotBox.width * 0.5, shotBox.y + shotBox.height * 0.6, { steps: 6 });
+await page.waitForTimeout(500);
+const pane = page.locator('[data-zoom-pane]:visible');
+check('zoom pane opens on hover', await pane.count(), 1);
+check(
+  'zoom pane sits beside the frame',
+  await pane.boundingBox().then((b) => b.x >= frameBox.x + frameBox.width),
+  true,
+);
+check(
+  'zoom shows the source at its own resolution',
+  await pane.evaluate((el) => getComputedStyle(el).backgroundSize),
+  '900px 900px',
+);
+check('zoom lens drawn over the shot', await activeShot.locator('> span').count(), 1);
+const firstPos = await pane.evaluate((el) => getComputedStyle(el).backgroundPosition);
+await page.mouse.move(shotBox.x + shotBox.width * 0.25, shotBox.y + shotBox.height * 0.25, { steps: 6 });
+await page.waitForTimeout(300);
+check(
+  'zoom pans with the pointer',
+  (await pane.evaluate((el) => getComputedStyle(el).backgroundPosition)) !== firstPos,
+  true,
+);
+check(
+  'gallery image carries no hover transform',
+  await page.locator('.gallery .frame img').first().evaluate((el) => getComputedStyle(el).transform),
+  'none',
+);
+await page.mouse.move(shotBox.x + shotBox.width / 2, shotBox.y - 80, { steps: 6 });
+await page.waitForTimeout(300);
+check('zoom clears on leave', await page.locator('[data-zoom-pane]').count(), 0);
 
 // the buy box: stepper + add to cart must still work
 const buy = page.locator('section[aria-label="Purchase options"]');

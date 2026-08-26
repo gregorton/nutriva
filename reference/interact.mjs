@@ -5,7 +5,7 @@ import { mkdirSync } from 'node:fs';
 
 const EXE = 'C:/Users/sixth/AppData/Local/ms-playwright/chromium-1234/chrome-win64/chrome.exe';
 const OUT = 'reference/preview';
-const URL = 'http://localhost:3000/c/sleep';
+const URL = `${process.env.BASE_URL ?? 'http://localhost:3000'}/c/sleep`;
 mkdirSync(OUT, { recursive: true });
 
 const browser = await chromium.launch({ executablePath: EXE, headless: true });

@@ -23,7 +23,7 @@ export function ProductCard({ product, priority = false }: { product: Product; p
           fill
           sizes="(max-width: 640px) 45vw, (max-width: 1024px) 30vw, 250px"
           priority={priority}
-          className="object-contain p-2 transition-transform duration-300 will-change-transform group-hover:scale-[1.08]"
+          className="object-contain p-2"
         />
         {product.discount && (
           <span className="kicker absolute left-0 top-0 z-10 rounded-br-[7px] bg-plum-800 px-2 py-1 text-turmeric-200">

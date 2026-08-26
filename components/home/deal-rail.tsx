@@ -52,7 +52,7 @@ export function DealRail() {
                     fill
                     sizes="(max-width: 640px) 60vw, 240px"
                     priority={i < 2}
-                    className="object-contain p-2 transition-transform duration-300 will-change-transform group-hover:scale-[1.08]"
+                    className="object-contain p-2"
                   />
                   <span className="kicker absolute left-0 top-0 z-10 rounded-br-[7px] bg-sale-600 px-2 py-1 text-white">
                     −{product.discount}%

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Product } from "@/lib/catalog";
+import { ZoomShot } from "@/components/pdp/zoom-shot";
 
 /*
   Product media. One shot per view the manufacturer publishes — front of pack, back panel, the
@@ -9,6 +10,10 @@ import type { Product } from "@/lib/catalog";
   State lives in radio inputs and the switching is done in CSS (`.gallery` in globals.css), so
   the control is a real form control: keyboard-operable, no client JS, no hydration. A product
   with a single shot renders the frame alone.
+
+  Each shot is a `ZoomShot`, which layers lens-and-pane magnification over the photo on hover.
+  That is the only client JS here and it is purely additive: switching views, keyboard operation
+  and reload behaviour are unchanged with JS off.
 */
 export function ProductGallery({ product }: { product: Product }) {
   const shots = product.images.slice(0, 4);
@@ -29,19 +34,19 @@ export function ProductGallery({ product }: { product: Product }) {
           />
         ))}
 
-      <div className="frame group relative aspect-square overflow-hidden rounded-tile border border-line bg-paper">
+      <div className="frame relative aspect-square overflow-hidden rounded-tile border border-line bg-paper">
         {shots.map((src, i) => (
-          // Single-shot products never get a radio, so that one frame has to show unconditionally.
-          <div key={src} className={shots.length > 1 ? "shot absolute inset-0 overflow-hidden" : "absolute inset-0 overflow-hidden"}>
-            <Image
-              src={src}
-              alt={i === 0 ? alt : `${alt} — view ${i + 1}`}
-              fill
-              sizes="(max-width: 1024px) 90vw, 440px"
-              priority={i === 0}
-              className="object-contain p-6 transition-transform duration-300 will-change-transform group-hover:scale-[1.08]"
-            />
-          </div>
+          // Must stay a direct child of `.frame`, in order: the CSS switcher addresses shots by
+          // `:nth-child`. Single-shot products never get a radio, so that one frame has to show
+          // unconditionally.
+          <ZoomShot
+            key={src}
+            src={src}
+            alt={i === 0 ? alt : `${alt} — view ${i + 1}`}
+            index={i}
+            priority={i === 0}
+            switchable={shots.length > 1}
+          />
         ))}
 
         {product.discount && (
