@@ -7,10 +7,10 @@ const COLUMNS = [
   {
     heading: "Shop",
     links: [
+      ["Starter kits", "/starters"],
       ["Deals", "/deals"],
       ["Best sellers", "/c/vitamins"],
       ["New arrivals", "/c/sports"],
-      ["Brands", "/brands"],
     ],
   },
   {

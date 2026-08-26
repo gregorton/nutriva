@@ -55,7 +55,8 @@ static catalogue module.
   empty server snapshot. Do not move this to `useState` + effect; that reintroduces a hydration
   mismatch and trips `react-hooks/set-state-in-effect`.
 - Routes: `/` home, `/c/[slug]` category (dynamic — reads searchParams), `/p/[slug]` product (SSG, 178
-  paths), `/deals`, `/search`, `/guides` + `/guides/[slug]` (SSG, one per guide), `not-found`.
+  paths), `/starters`, `/deals`, `/search`, `/guides` + `/guides/[slug]` (SSG, one per guide),
+  `not-found`.
 - `components/chrome/sticky-chrome.tsx` — pins the masthead and category row to the top of the
   viewport; the utility strip above scrolls away for good. Pinned state is measured off layout
   (`getBoundingClientRect().top <= 0`) through `useSyncExternalStore`, not stored in state from an
@@ -177,7 +178,36 @@ node reference/chrome-check.mjs   # needs the dev server up
 
 All three scripts drive `playwright-core` (a devDependency) against the browser already installed
 under `~/AppData/Local/ms-playwright`, and take `BASE_URL` when `next dev` picks a port other
-than 3000.
+than 3000. `starters-check.mjs` and `guides-check.mjs` below run the same way.
+
+## Starter kits
+
+`/starters` and the home band under the hero — the slot Today's deals used to hold, which was
+template furniture and is gone. `lib/starters.ts` composes each kit **by rule, not by slug**: a kit
+is a list of roles ("a magnesium glycinate under ฿600"), each filled with the best-selling in-stock
+match, so a catalogue refresh re-resolves the kits instead of leaving them pointing at a dead
+product. A role the stock cannot fill is dropped; a kit under two items is not published.
+
+The audience is 16 and up, and the guardrails are code:
+
+- `EXCLUDED` in `lib/starters.ts` keeps children's lines and the whole `kids` category out of every
+  kit. Most gummies in stock are children's lines, which is why no kit leads on format.
+- Melatonin is excluded from every kit, deliberately, while staying on the sleep shelf with its
+  guide — see the note under `#what-we-wont-do` on `/starters`.
+- Value is real numbers only: the sum of what the items cost, a markdown only when every item has a
+  `listPrice`, and days supply from `servings` ("shortest pack: 50 days"). No bundle discount is
+  implied because there isn't one, and cost per serving stays gone.
+- No claim copy. `reference/starters-check.mjs` sweeps both surfaces for weight-loss, focus and
+  exam-result phrasing, skipping `#what-we-wont-do` — the one block allowed to name those claims,
+  because it refuses them.
+
+`AddKit` (`components/starters/add-kit.tsx`) adds every item in one press and prints the total on
+the button; the cart's `add` composes correctly in a loop because each call reads and writes the
+same external snapshot.
+
+```bash
+node reference/starters-check.mjs   # needs the dev server up
+```
 
 ## Guides
 

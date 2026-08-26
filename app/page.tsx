@@ -1,6 +1,6 @@
 import { bestSellers, newArrivals, topRated } from "@/lib/catalog";
 import { GoalHero } from "@/components/home/goal-hero";
-import { DealRail } from "@/components/home/deal-rail";
+import { StarterKits } from "@/components/home/starter-kits";
 import { CategoryTiles } from "@/components/home/category-tiles";
 import { TrustBand } from "@/components/home/trust-band";
 import { EditorialStrip } from "@/components/home/editorial-strip";
@@ -11,7 +11,7 @@ export default function HomePage() {
   return (
     <>
       <GoalHero />
-      <DealRail />
+      <StarterKits />
       <CategoryTiles />
 
       <section className="shell mt-14">

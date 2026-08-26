@@ -5,7 +5,7 @@
 4. change review star colors to yellow and make stars a tad bit bigger. (DONE)
 5. remove cost per serving info from all products and product pages, and remove like made up lab tested labels in all product pages. Example (Lot NOWF-180 · test results published). (DONE)
 6. in homepage, replace review bars with actual product stars and highlight amount sold numbers in #659fd9. (DONE)
-7. targeted towards Gen z/teenagers page section.(REQUIRES SOME PLANNING) (DEFERRED — not started)
+7. targeted towards Gen z/teenagers page section.(REQUIRES SOME PLANNING) (DONE — /starters shelf + home band, 16+ with guardrails coded in lib/starters.ts: no kids lines, no melatonin in kits, no claim copy, real totals and days supply)
 8. make letters on the add to cart button white instead of black on product pages.' (DONE)
 9. redesign add to cart style to match this design ("C:\Users\sixth\Desktop\add to cart new design.txt") (DONE)
 10. when hovering over product images, it should automatically zoom in using this code ("C:\Users\sixth\Desktop\zoom feature.txt") (DONE - EasyZoom-style lens + 720x640 flat pane on the product page, kept at 1.0x crystal until high-res sources land)
@@ -15,4 +15,4 @@
 14. remove the number that counts the stars that are behind the stars so only stars are shown on products. (DONE — cards show stars + review count only; exact average stays on the product page)
 15. add fitting stock images and redesign brand new articles and looks. (DONE — 6 new label-reading guides in lib/guides.ts, /guides index + /guides/[slug] pages, image-led home strip, CC0/CC-BY covers harvested via reference/editorial/photos.mjs with credits published)
 16. re-harvest product photos at high-res (w_1500 / original Cloudinary) so the 720x640 pane can stay at 1.75x crystal like iHerb - display stays local, pane uses high-res source. (DEFER. DONT START YET.)
-17. after pending changes are (DONE) we start planning #7 and replacing "Today's deals" with ones targeted at #7 plan.
+17. after pending changes are (DONE) we start planning #7 and replacing "Today's deals" with ones targeted at #7 plan. (DONE — Today's deals band removed from the home page entirely, deal-rail.tsx deleted, starter kits took the slot; /deals page and its nav entry stay)

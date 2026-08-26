@@ -78,8 +78,14 @@ export function CategoryNav() {
 
           <li className="ml-auto flex items-center gap-1 pl-3">
             <Link
-              href="/deals"
+              href="/starters"
               className="flex h-11 items-center whitespace-nowrap px-3 text-[13.5px] font-semibold text-turmeric-500 transition-colors hover:bg-plum-700"
+            >
+              Starter kits
+            </Link>
+            <Link
+              href="/deals"
+              className="hidden h-11 items-center whitespace-nowrap px-3 text-[13.5px] font-medium transition-colors hover:bg-plum-700 sm:flex"
             >
               Deals
             </Link>
