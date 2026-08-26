@@ -1,77 +1,92 @@
-import Link from "next/link";
-import { ArrowIcon, FlaskIcon, LeafIcon, ShieldIcon, TruckIcon } from "@/components/ui/icons";
-
 /**
- * The standard — one banner rather than a full-width statistics band. A dark panel holds
- * the claim, and four white cards underneath carry the specifics, each with the figure that
- * backs it.
+ * Professional Brands intro — exact-copy refactor of the captured
+ * `div.professional-brands-intro` (iHerb Speciality Store).
+ *
+ * Preserves observed composition, hierarchy, spacing, typography and
+ * color logic while converting fixed 1376×316 capture dimensions to
+ * fluid responsive constraints and consolidating tokens for maintainability.
+ *
+ * Assets are the listed source assets, reused with original crops.
  */
-const POINTS = [
+
+const COVER_BG =
+  "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images//cms/plp_professional_brands/Experts/New/Cover%20Bg%20-%20Desktop.png";
+
+const CARDS = [
   {
-    Icon: FlaskIcon,
-    value: "2 lab panels",
-    detail: "Identity and contaminants, run per lot by separate labs",
+    icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Laboratory.svg",
+    alt: "",
+    text: "The use of ingredients that have been studied in scientific literature",
   },
   {
-    Icon: LeafIcon,
-    value: "±10% label accuracy",
-    detail: "Actives verified against the dose printed on the bottle",
+    icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Authentic.svg",
+    alt: "",
+    text: "Manufacturing practices aligned with industry standards such as cGMP",
   },
   {
-    Icon: TruckIcon,
-    value: "24h in Bangkok",
-    detail: "Next-day across the metro, 2–4 days upcountry",
+    icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Accurate%20Label.svg",
+    alt: "",
+    text: "Detailed labeling and ingredient sourcing information",
   },
   {
-    Icon: ShieldIcon,
-    value: "60-day returns",
-    detail: "Opened bottles included, no questions asked",
+    icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Experts.svg",
+    alt: "",
+    text: "Engagement with healthcare and wellness communities",
   },
-];
+] as const;
 
 export function TrustBand() {
   return (
-    <section className="shell mt-14">
-      <div className="overflow-hidden rounded-tile bg-plum-800 p-6 sm:p-8">
-        <div className="relative">
-          {/* Same soft wash as the hero, so the two dark panels read as one family. */}
-          <div
-            className="pointer-events-none absolute -right-16 -top-24 h-64 w-64 rounded-full bg-turmeric-500/15 blur-2xl"
-            aria-hidden
-          />
-
-          <div className="relative flex flex-wrap items-center justify-between gap-4">
-            <div className="max-w-xl">
-              <p className="kicker text-turmeric-200">The standard</p>
-              <h2 className="mt-2 text-[22px] text-white sm:text-[26px]">
-                A supplement is only as good as its paperwork
-              </h2>
-              <p className="mt-2 text-[14px] leading-relaxed text-plum-200">
-                Every batch is tested before it reaches the shelf, and the results are published with it.
-              </p>
+    <section className="shell mt-6" aria-labelledby="professional-brands-heading">
+      <div
+        className="relative flex flex-col items-center overflow-hidden rounded-t-[8px] bg-[#141c30] bg-cover bg-center bg-no-repeat p-8"
+        style={{ backgroundImage: `url("${COVER_BG}")` }}
+      >
+        <div className="w-full max-w-[1312px]">
+          {/* header */}
+          <div className="mb-6">
+            <div className="mb-3 flex flex-wrap items-center gap-6">
+              <div className="flex items-center gap-2">
+                <img
+                  src="https://s3.images-iherb.com/cms/images/SpecialtyStore/Professional.svg"
+                  alt=""
+                  width={40}
+                  height={40}
+                  className="h-10 w-10 shrink-0 object-contain"
+                  loading="lazy"
+                />
+                <h2
+                  id="professional-brands-heading"
+                  className="ml-2 max-w-[792px] text-[32px] font-bold leading-10 text-white"
+                >
+                  Professional Brands
+                </h2>
+              </div>
             </div>
-
-            <Link
-              href="/quality"
-              className="flex h-9 shrink-0 items-center gap-1.5 rounded-full bg-white px-4 text-[13px] font-semibold text-plum-800 transition-colors hover:bg-turmeric-200"
-            >
-              Read the standard
-              <ArrowIcon className="h-4 w-4" />
-            </Link>
+            <p className="max-w-[840px] text-[16px] font-normal leading-6 text-white">
+              Our Professional Brands category features a curated selection of supplement brands known for their
+              focus on quality, research, and product transparency. These brands typically emphasize:
+            </p>
           </div>
 
-          <ul className="relative mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {POINTS.map(({ Icon, value, detail }) => (
-              <li key={value} className="flex items-center gap-3 rounded-xl bg-white px-4 py-3">
-                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-pandan-100 text-pandan-700">
-                  <Icon className="h-[18px] w-[18px]" />
+          {/* cards */}
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4" role="list">
+            {CARDS.map((card) => (
+              <li
+                key={card.text}
+                className="flex min-h-[96px] flex-1 items-center gap-3 rounded-[12px] bg-white px-4 py-3"
+              >
+                <span className="flex h-8 w-8 shrink-0 items-center justify-center">
+                  <img
+                    src={card.icon}
+                    alt={card.alt}
+                    width={32}
+                    height={32}
+                    className="h-8 w-8 object-contain"
+                    loading="lazy"
+                  />
                 </span>
-                <div className="min-w-0">
-                  <p className="text-[14px] font-semibold leading-tight text-ink" data-num>
-                    {value}
-                  </p>
-                  <p className="facts mt-0.5 leading-snug">{detail}</p>
-                </div>
+                <p className="flex-1 text-[16px] font-normal leading-6 text-[#181b1f]">{card.text}</p>
               </li>
             ))}
           </ul>
@@ -80,3 +95,6 @@ export function TrustBand() {
     </section>
   );
 }
+
+/** Reusable alias — keeps brief naming while preserving existing import. */
+export const ProfessionalBrandsIntro = TrustBand;

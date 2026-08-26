@@ -8,10 +8,11 @@
 7. targeted towards Gen z/teenagers page section.(REQUIRES SOME PLANNING) (DEFERRED — not started)
 8. make letters on the add to cart button white instead of black on product pages.' (DONE)
 9. redesign add to cart style to match this design ("C:\Users\sixth\Desktop\add to cart new design.txt") (DONE)
-10. when hovering over product images, it should automatically zoom in using this code ("C:\Users\sixth\Desktop\zoom feature.txt") (DONE — EasyZoom-style lens + pane on the product page, built natively; scale-zoom removed from cards and the deal rail)
+10. when hovering over product images, it should automatically zoom in using this code ("C:\Users\sixth\Desktop\zoom feature.txt") (DONE - EasyZoom-style lens + 720x640 flat pane on the product page, kept at 1.0x crystal until high-res sources land)
 11. add a very short delay when mouse moves or hovers over category tabs in the top nav so it doesn't instantly appear. (DONE)
 12. swap and change colors on products for (bought this month) and the sold amount. Make the sold amount the color that (bought this month) has, and swap it so (bought this month) is the original color of amount sold. (DONE)
 13. when scrolling down, the top nav bar should also get pulled down too.
 14. remove the number that counts the stars that are behind the stars so only stars are shown on products.
 15. add fitting stock images and redesign articles without making the actual articles behind it yet.
-16. after pending changes are (DONE) we start planning #7 and replacing "Today's deals" with ones targeted at #7 plan.
+16. re-harvest product photos at high-res (w_1500 / original Cloudinary) so the 720x640 pane can stay at 1.75x crystal like iHerb - display stays local, pane uses high-res source.
+17. after pending changes are (DONE) we start planning #7 and replacing "Today's deals" with ones targeted at #7 plan.

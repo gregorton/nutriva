@@ -23,8 +23,12 @@ import { useCallback, useEffect, useRef, useState } from "react";
     carries `will-change: transform`.
 */
 
-/** Pane edge, px. Square, to match the frame. */
-const PANE = 460;
+/** Pane size, px — really wide and tall like the reference (left bottle + right detail pane). */
+const PANE_W = 720;
+const PANE_H = 640;
+const PANE = PANE_W;
+/** Extra magnification over 1:1 (native) — 1.0 crystal clear; keep 1.0 until high-res sources land. */
+const MAG = 1;
 /** Gap between frame and pane, px. */
 const GAP = 16;
 /** Below this viewport width there is no room for a pane, so zoom stays off. */
@@ -93,18 +97,17 @@ export function ZoomShot({
       return;
     }
 
-    // Source pixels per displayed CSS pixel: showing the file at 1:1 is the sharpest the
-    // magnification can be, and fixes how much of the image one pane holds.
-    const scale = nat.w / iw;
-    const lensW = Math.min(PANE / scale, iw);
-    const lensH = Math.min(PANE / scale, ih);
+    // Source pixels per displayed CSS pixel. 1:1 is sharpest; MAG>1 is closer but needs larger source.
+    const scale = (nat.w / iw) * MAG;
+    const lensW = Math.min(PANE_W / scale, iw);
+    const lensH = Math.min(PANE_H / scale, ih);
     const lx = clamp(px - lensW / 2, ox, ox + iw - lensW);
     const ly = clamp(py - lensH / 2, oy, oy + ih - lensH);
 
     // Prefer the right of the frame; fall back to its left when the pane would run off screen.
     let left = f.right + GAP;
-    if (left + PANE > window.innerWidth - MARGIN) left = f.left - GAP - PANE;
-    const top = clamp(f.top, MARGIN, Math.max(MARGIN, window.innerHeight - PANE - MARGIN));
+    if (left + PANE_W > window.innerWidth - MARGIN) left = f.left - GAP - PANE_W;
+    const top = clamp(f.top, MARGIN, Math.max(MARGIN, window.innerHeight - PANE_H - MARGIN));
 
     setZoom({
       lens: { x: lx, y: ly, w: lensW, h: lensH },
@@ -173,7 +176,7 @@ export function ZoomShot({
         {zoom && (
           <span
             aria-hidden
-            className="pointer-events-none absolute rounded-[3px] border border-plum-700/50 bg-white/25"
+            className="pointer-events-none absolute border border-plum-800 bg-white/20"
             style={{ left: zoom.lens.x, top: zoom.lens.y, width: zoom.lens.w, height: zoom.lens.h }}
           />
         )}
@@ -182,12 +185,12 @@ export function ZoomShot({
       {zoom && (
         <div
           aria-hidden
-          className="pointer-events-none fixed z-50 rounded-tile border border-line bg-white bg-no-repeat shadow-[0_24px_60px_-20px_rgba(43,15,32,0.45)]"
+          className="pointer-events-none fixed z-50 border border-line-strong bg-white bg-no-repeat"
           style={{
             left: zoom.pane.left,
             top: zoom.pane.top,
-            width: PANE,
-            height: PANE,
+            width: PANE_W,
+            height: PANE_H,
             backgroundImage: `url("${src}")`,
             backgroundSize: `${zoom.bg.w}px ${zoom.bg.h}px`,
             backgroundPosition: `${zoom.bg.x}px ${zoom.bg.y}px`,
