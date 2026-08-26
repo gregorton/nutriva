@@ -148,10 +148,22 @@ export function PlusIcon({ className = base }: IconProps) {
   );
 }
 
-/* Filled, unlike the rest of the set: at PDP size a five-star row has to read as a rating. */
-export function StarIcon({ className = base }: IconProps) {
+/* Filled + outline: at PDP size a five-star row has to read as a rating.
+   `filled` gives a solid fill with a slightly darker stroke so the edge
+   reads as a subtle outline even on yellow; `false` gives a white interior
+   with a colored stroke for the empty track. */
+export function StarIcon({ className = base, filled = true }: IconProps & { filled?: boolean }) {
   return (
-    <svg viewBox="0 0 20 20" fill="currentColor" className={className} aria-hidden>
+    <svg
+      viewBox="0 0 20 20"
+      fill={filled ? "currentColor" : "white"}
+      stroke={filled ? "#c99700" : "currentColor"}
+      strokeWidth={filled ? 1 : 1.15}
+      strokeLinejoin="round"
+      strokeLinecap="round"
+      className={className}
+      aria-hidden
+    >
       <path d="M10 1.9l2.47 5.01 5.53.8-4 3.9.94 5.49L10 14.51l-4.94 2.59.94-5.49-4-3.9 5.53-.8L10 1.9Z" />
     </svg>
   );

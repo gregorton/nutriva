@@ -13,18 +13,26 @@ import { StarIcon } from "@/components/ui/icons";
   card grid, where a two-up mobile card cannot spare the extra 20px.
 */
 const SIZES = {
-  sm: { glyph: "h-3.5 w-3.5", row: "w-[78px]" },
-  md: { glyph: "h-[18px] w-[18px]", row: "w-[98px]" },
+  sm: { glyph: "h-[18px] w-[18px]", row: "w-[98px]" },
+  md: { glyph: "h-[22px] w-[22px]", row: "w-[118px]" },
 } as const;
 
 export type StarSize = keyof typeof SIZES;
 
-function Row({ size, className }: { size: StarSize; className: string }) {
+function Row({
+  size,
+  className,
+  filled,
+}: {
+  size: StarSize;
+  className: string;
+  filled: boolean;
+}) {
   const { glyph, row } = SIZES[size];
   return (
     <span className={`flex shrink-0 gap-0.5 ${row} ${className}`} aria-hidden>
       {[0, 1, 2, 3, 4].map((i) => (
-        <StarIcon key={i} className={`${glyph} shrink-0`} />
+        <StarIcon key={i} className={`${glyph} shrink-0`} filled={filled} />
       ))}
     </span>
   );
@@ -47,9 +55,9 @@ export function Stars({
       role="img"
       aria-label={`Rated ${value.toFixed(1)} out of 5`}
     >
-      <Row size={size} className="text-line-strong" />
+      <Row size={size} className="text-star" filled={false} />
       <span className="absolute inset-y-0 left-0 overflow-hidden" style={{ width: `${percent}%` }}>
-        <Row size={size} className="text-star" />
+        <Row size={size} className="text-star" filled={true} />
       </span>
     </span>
   );
