@@ -123,7 +123,8 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
           <Rankings product={product} />
         </div>
 
-        <div className="xl:sticky xl:top-4 xl:self-start">
+        {/* Clears the pinned chrome, not the viewport top — see --spacing-chrome. */}
+        <div className="xl:sticky xl:top-[calc(var(--spacing-chrome)+1rem)] xl:self-start">
           <BuyBox product={product} />
         </div>
       </div>

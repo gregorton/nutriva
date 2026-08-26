@@ -42,9 +42,6 @@ export function SimilarItem({ product }: { product: Product }) {
           </h3>
 
           <p className="mt-1 flex items-center gap-1.5">
-            <span className="facts font-medium text-ink" data-num>
-              {product.rating.toFixed(1)}
-            </span>
             <Stars value={product.rating} size="sm" />
             <span className="facts text-sold" data-num>
               ({count(product.reviews)})

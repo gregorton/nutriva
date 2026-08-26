@@ -55,9 +55,17 @@ static catalogue module.
   empty server snapshot. Do not move this to `useState` + effect; that reintroduces a hydration
   mismatch and trips `react-hooks/set-state-in-effect`.
 - Routes: `/` home, `/c/[slug]` category (dynamic — reads searchParams), `/p/[slug]` product (SSG, 178
-  paths), `/deals`, `/search`, `not-found`.
+  paths), `/deals`, `/search`, `/guides` + `/guides/[slug]` (SSG, one per guide), `not-found`.
+- `components/chrome/sticky-chrome.tsx` — pins the masthead and category row to the top of the
+  viewport; the utility strip above scrolls away for good. Pinned state is measured off layout
+  (`getBoundingClientRect().top <= 0`) through `useSyncExternalStore`, not stored in state from an
+  effect, and published as `data-stuck` so children condense off `group-data-[stuck=true]/chrome:`
+  — the masthead drops 72px → 58px and the mobile search row folds away, leaving the search icon
+  beside the cart. Pinned height is the `--spacing-chrome` token (103px): `html`'s
+  `scroll-padding-top` and the PDP buy box's sticky offset both read it, so changing the chrome's
+  height is a one-line edit.
 - Everything is a server component except the cart, category-nav panel, sort select, countdown,
-  rail scroller and the product-gallery zoom.
+  rail scroller, sticky chrome and the product-gallery zoom.
 
 ## Design system
 
@@ -96,7 +104,10 @@ label, and is gone from the storefront entirely — do not reintroduce it.
 
 **Ratings are stars everywhere** (`components/ui/stars.tsx`), `md` on the product page and `sm` in the
 card grid, filled by a clipped overlay so a 4.8 shows a part-filled fifth star. The card meter bar this
-replaced read as a progress indicator rather than a rating.
+replaced read as a progress indicator rather than a rating. **Cards carry no numeric average** — the
+clipped fill already states the score to card precision, so the figure beside the stars was a second
+read of the same number; only the review count follows the stars. The exact average stays on the
+product page, next to the reviews jump-link and in the reviews block.
 
 **Product cards are one link.** A single absolutely-positioned anchor (`before:absolute before:inset-0`
 on the title link) covers the card, the way the reference site does it — one tab stop per product,
@@ -157,6 +168,51 @@ Assertions for the layout, the stepper, the cart round-trip and the colour rules
 node reference/pdp-check.mjs   # needs the dev server up
 ```
 
+Assertions for the pinned chrome — where it pins, what it condenses to, that the category panel,
+anchor targets and the sticky buy box all clear it, and that cards show stars without a numeral:
+
+```bash
+node reference/chrome-check.mjs   # needs the dev server up
+```
+
+All three scripts drive `playwright-core` (a devDependency) against the browser already installed
+under `~/AppData/Local/ms-playwright`, and take `BASE_URL` when `next dev` picks a port other
+than 3000.
+
+## Guides
+
+`/guides` and `/guides/[slug]` are the editorial side, and the one part of the site that is written
+rather than harvested. `lib/guides.ts` holds all six articles as structured data — headings,
+paragraphs, term/detail pairs, three takeaways, and the shelf each one sends people to — so there is
+no markdown renderer and nothing to sanitise. Reading time is counted off those words at 220wpm, so
+the label under a headline cannot drift from the article.
+
+The copy rules are the catalogue's rules applied to prose: reference intakes are quoted as population
+figures and named as such, label arithmetic (IU↔mcg, elemental versus compound weight, EPA+DHA per
+softgel) is checkable against the bottle in your hand, and no sentence needs a study the site cannot
+show you. Every article closes on the same disclaimer and the COA guide states plainly that Nutriva
+runs no laboratory. Note that the footer and utility strip still carry older "we publish the
+certificate of analysis for every lot" copy, which contradicts that — worth reconciling.
+
+Photography is harvested, not ours. `reference/editorial/photos.mjs` pulls one CC0 / public-domain /
+CC BY photo per guide from Openverse, downscales it to 2000px through Next's own `sharp`, and writes
+the credit to `lib/editorial.generated.json`; `creditLine()` renders it and `guides-check.mjs`
+asserts a credit exists for every cover, because a missing one puts a CC BY image out of licence.
+Modern stock sources are tried before Flickr and Wikimedia, and museum archives never — an
+unfiltered search returns watermarked derivatives and stereoscope cards. Covers are reviewed by eye
+and then pinned by image id in `PICKS`; `--candidates <slug>` writes a shortlist to look through.
+
+```bash
+node reference/editorial/photos.mjs                     # fill in anything missing
+node reference/editorial/photos.mjs --candidates <slug> # shortlist for review
+node reference/guides-check.mjs                         # needs the dev server up
+```
+
+Card sizes live in `components/guides/guide-card.tsx`: `GuideFeature` (16:9 lead), `GuideCard` (3:2
+grid) and `GuideRow` (thumbnail beside the headline). The home strip
+(`components/home/editorial-strip.tsx`) is one feature beside the whole remaining set — it used to be
+four typographic cards, which read as small print next to a page of product photography.
+
 ## Catalogue data
 
 `reference/iherb/` holds a three-stage pipeline — `discover` (listing pages → `urls.json`), `harvest`
@@ -193,5 +249,4 @@ source screenshots. `reference/capture.mjs` re-captures them.
 
 ## Git
 
-This folder is **not** its own repository. It sits inside the repo rooted at `C:/Users/sixth` (branch
-`master`, unrelated history), and nothing here is tracked. Run `git init` here before the first commit.
+This folder is its own repository, on `main`, pushed to `github.com/gregorton/nutriva`.

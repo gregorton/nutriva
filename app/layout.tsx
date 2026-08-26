@@ -5,6 +5,7 @@ import { CartProvider } from "@/components/cart/cart-context";
 import { UtilityBar } from "@/components/chrome/utility-bar";
 import { SiteHeader } from "@/components/chrome/site-header";
 import { CategoryNav } from "@/components/chrome/category-nav";
+import { StickyChrome } from "@/components/chrome/sticky-chrome";
 import { SiteFooter } from "@/components/chrome/site-footer";
 import { CartDrawer } from "@/components/cart/cart-drawer";
 
@@ -43,8 +44,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="flex min-h-full flex-col bg-white">
         <CartProvider>
           <UtilityBar />
-          <SiteHeader />
-          <CategoryNav />
+          <StickyChrome>
+            <SiteHeader />
+            <CategoryNav />
+          </StickyChrome>
           <main className="flex-1">{children}</main>
           <SiteFooter />
           <CartDrawer />

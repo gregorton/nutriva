@@ -59,6 +59,11 @@
 
   --radius-card: 10px;
   --radius-tile: 14px;
+
+  /* Height of the pinned chrome — condensed 58px masthead + its border + the 44px category
+     row. Anything that sticks inside a page (the buy box) or gets scrolled to by anchor has
+     to clear this, so it is a token rather than a number repeated per site. */
+  --spacing-chrome: 103px;
 }
 
 /* Page shell: one container width for every section, matching the dense catalog feel. */
@@ -127,6 +132,9 @@
 @layer base {
   html {
     -webkit-text-size-adjust: 100%;
+    /* Fragment links (#reviews, #product-information) land below the pinned chrome instead of
+       underneath it. One rule on the scroll container covers every anchor on the site. */
+    scroll-padding-top: calc(var(--spacing-chrome) + 1rem);
   }
 
   body {

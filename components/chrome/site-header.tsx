@@ -7,11 +7,16 @@ import { products } from "@/lib/catalog";
 /**
  * Masthead. Deliberately light against the plum utility strip and nav row, so the
  * search field — the primary way people find a supplement — is the brightest thing here.
+ *
+ * It rides in `StickyChrome`, so it has two heights: 72px at the top of a page, and 58px once
+ * pinned, with the mobile search row folding away at the same moment. On a phone that row is
+ * replaced by the search icon beside the cart, which is why the icon is there at every scroll
+ * position rather than appearing on scroll.
  */
 export function SiteHeader() {
   return (
     <header className="border-b border-line bg-white">
-      <div className="shell flex h-[72px] items-center gap-4 sm:gap-8">
+      <div className="shell flex h-[72px] items-center gap-4 transition-[height] duration-200 group-data-[stuck=true]/chrome:h-[58px] sm:gap-8">
         <Link href="/" className="shrink-0" aria-label="Nutriva home">
           <Wordmark />
         </Link>
@@ -39,6 +44,13 @@ export function SiteHeader() {
 
         <div className="ml-auto flex items-center gap-1 sm:gap-2">
           <Link
+            href="/search"
+            aria-label="Search supplements"
+            className="flex h-10 w-10 items-center justify-center rounded-card text-plum-700 transition-colors hover:bg-plum-100 sm:hidden"
+          >
+            <SearchIcon className="h-[19px] w-[19px]" />
+          </Link>
+          <Link
             href="/account"
             className="hidden items-center gap-2 rounded-card px-3 py-2 text-sm font-medium text-ink transition-colors hover:bg-paper sm:flex"
           >
@@ -49,8 +61,14 @@ export function SiteHeader() {
         </div>
       </div>
 
-      {/* Search collapses under the masthead on small screens rather than competing with the logo. */}
-      <form action="/search" className="shell pb-3 sm:hidden" role="search">
+      {/* Search collapses under the masthead on small screens rather than competing with the
+          logo — and folds away entirely once the chrome is pinned, where the icon above stands
+          in for it and the saved 52px is the difference between usable and covered. */}
+      <form
+        action="/search"
+        className="shell pb-3 sm:hidden group-data-[stuck=true]/chrome:hidden"
+        role="search"
+      >
         <label htmlFor="site-search-mobile" className="sr-only">
           Search supplements
         </label>
