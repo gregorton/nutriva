@@ -78,7 +78,9 @@ function SignedInForm({ slug, displayName }: { slug: string; displayName: string
 
       <p className="text-[15px] font-medium text-ink">{editing ? "Your review" : "Write a review"}</p>
       <p className="mt-1 text-sm text-muted">
-        Posting as {displayName}.{" "}
+        {/* A middle dot, not a full stop: plenty of display names already end in one
+            ("Ploy S."), and appending a period to those reads as a typo. */}
+        Posting as {displayName} ·{" "}
         {editing ? "Saving replaces what you wrote before." : "One review per product."}
       </p>
 
