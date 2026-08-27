@@ -1,6 +1,6 @@
 import "server-only";
 import { cache } from "react";
-import { redirect } from "next/navigation";
+import { redirect, unstable_rethrow } from "next/navigation";
 import { isConfigured } from "@/lib/db";
 import { readSession, type SessionUser } from "@/lib/session";
 
@@ -22,6 +22,11 @@ export const getUser = cache(async (): Promise<SessionUser | null> => {
   try {
     return await readSession();
   } catch (error) {
+    // Reading cookies during a prerender throws a framework control-flow error that means "this
+    // route is dynamic, re-render it at request time". Swallowing it would make the page render
+    // as though nobody were signed in; unstable_rethrow puts it back and keeps this catch for
+    // real failures only.
+    unstable_rethrow(error);
     // A database that is unreachable should not turn every page into an error page: the site is
     // a catalogue first, and the correct fallback is "nobody is signed in".
     console.error("Session lookup failed:", error);

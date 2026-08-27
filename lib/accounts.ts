@@ -78,11 +78,17 @@ export async function authenticate(email: string, password: string): Promise<Sig
 
   if (!(await verifyPassword(password, user.password_hash))) {
     const attempts = user.failed_attempts + 1;
+    // Every placeholder is cast. `$2` is both assigned to an integer column and compared against
+    // `$3`, and without the casts Postgres cannot deduce one type for it and rejects the
+    // statement — which is an error only ever reached by getting a password wrong.
     await queryOne(
       `update users
-       set failed_attempts = $2,
-           locked_until = case when $2 >= $3 then now() + ($4 || ' minutes')::interval else null end
-       where id = $1
+       set failed_attempts = $2::int,
+           locked_until = case
+             when $2::int >= $3::int then now() + ($4::int * interval '1 minute')
+             else null
+           end
+       where id = $1::uuid
        returning id`,
       [user.id, attempts, MAX_ATTEMPTS, LOCKOUT_MINUTES],
     );
@@ -91,7 +97,7 @@ export async function authenticate(email: string, password: string): Promise<Sig
 
   if (user.failed_attempts > 0 || user.locked_until) {
     await queryOne(
-      "update users set failed_attempts = 0, locked_until = null where id = $1 returning id",
+      "update users set failed_attempts = 0, locked_until = null where id = $1::uuid returning id",
       [user.id],
     );
   }

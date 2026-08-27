@@ -44,13 +44,20 @@ export async function signUp(_state: AuthState, form: FormData): Promise<AuthSta
   if (!checked.ok) return { errors: checked.errors };
 
   const { email, password, displayName } = checked.value;
-  const created = await createAccount(email, password, displayName);
 
-  if (!created.ok) {
-    return { errors: { email: "There is already an account with that email address." } };
+  try {
+    const created = await createAccount(email, password, displayName);
+    if (!created.ok) {
+      return { errors: { email: "There is already an account with that email address." } };
+    }
+    await startSession(created.account.id, (await headers()).get("user-agent"));
+  } catch (error) {
+    // An uncaught throw here reaches the client as a crashed form subtree, which loses whatever
+    // was typed and says nothing useful. The detail belongs in the server log, not the page.
+    console.error("Sign-up failed:", error);
+    return { message: "Something went wrong creating the account. Try again in a moment." };
   }
 
-  await startSession(created.account.id, (await headers()).get("user-agent"));
   return { ok: true, next: safeNext(form.get("next")) };
 }
 
@@ -59,22 +66,35 @@ export async function signIn(_state: AuthState, form: FormData): Promise<AuthSta
   if (!checked.ok) return { errors: checked.errors };
 
   const { email, password } = checked.value;
-  const result = await authenticate(email, password);
 
-  if (!result.ok) {
-    return {
-      message:
-        result.reason === "locked"
-          ? "Too many attempts. Try again in 15 minutes."
-          : "That email and password do not match an account.",
-    };
+  try {
+    const result = await authenticate(email, password);
+
+    if (!result.ok) {
+      return {
+        message:
+          result.reason === "locked"
+            ? "Too many attempts. Try again in 15 minutes."
+            : "That email and password do not match an account.",
+      };
+    }
+
+    await startSession(result.account.id, (await headers()).get("user-agent"));
+    await pruneExpiredSessions();
+  } catch (error) {
+    console.error("Sign-in failed:", error);
+    return { message: "Something went wrong signing in. Try again in a moment." };
   }
 
-  await startSession(result.account.id, (await headers()).get("user-agent"));
-  await pruneExpiredSessions();
   return { ok: true, next: safeNext(form.get("next")) };
 }
 
 export async function signOut(): Promise<void> {
-  await endSession();
+  try {
+    await endSession();
+  } catch (error) {
+    // The cookie is cleared either way, so the person is signed out of the browser even if the
+    // row could not be deleted; a stranded row expires on its own.
+    console.error("Sign-out failed:", error);
+  }
 }

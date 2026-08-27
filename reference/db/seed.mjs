@@ -52,7 +52,7 @@ const REVIEWS = [
 
 const client = new pg.Client({
   connectionString: process.env.DATABASE_URL,
-  ssl: process.env.DATABASE_URL.includes("localhost") ? false : { rejectUnauthorized: false },
+  ssl: !process.env.DATABASE_URL.includes("localhost"),
 });
 
 await client.connect();

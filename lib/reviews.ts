@@ -1,5 +1,6 @@
 import "server-only";
 import { unstable_cache } from "next/cache";
+import { unstable_rethrow } from "next/navigation";
 import { isConfigured, query, queryOne } from "@/lib/db";
 import type { ReviewDraft } from "@/lib/validate";
 
@@ -140,6 +141,7 @@ export async function productReviews(
       { tags: [TAG(slug)], revalidate: 3600 },
     )();
   } catch (error) {
+    unstable_rethrow(error); // never swallow a framework control-flow signal
     console.error(`Reviews unavailable for ${slug}:`, error);
     return EMPTY_REVIEWS;
   }

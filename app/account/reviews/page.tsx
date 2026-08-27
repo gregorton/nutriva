@@ -13,11 +13,15 @@ export const metadata: Metadata = { title: "Your reviews" };
 export default async function MyReviewsPage() {
   const user = await requireUser("/account/reviews");
   const reviews = await reviewsByUser(user.id);
-  const withProduct = reviews
-    .map((review) => ({ review, product: getProduct(review.slug) }))
-    .filter((row) => row.product !== undefined);
 
-  if (withProduct.length === 0) {
+  // Resolved against the catalogue, so a review of a product a refresh retired drops out of the
+  // list rather than breaking it. The delete button is the only client-side piece here.
+  const rows = reviews.flatMap((review) => {
+    const product = getProduct(review.slug);
+    return product ? [{ review, product }] : [];
+  });
+
+  if (rows.length === 0) {
     return (
       <div className="rounded-tile border border-line bg-paper px-6 py-14 text-center">
         <p className="text-[17px] font-medium text-ink">No reviews yet</p>
@@ -31,16 +35,16 @@ export default async function MyReviewsPage() {
 
   return (
     <ul className="space-y-4">
-      {withProduct.map(({ review, product }) => (
+      {rows.map(({ review, product }) => (
         <li key={review.id} className="rounded-tile border border-line bg-white p-5">
           <div className="flex gap-4">
             <Link
-              href={`/p/${product!.slug}`}
+              href={`/p/${product.slug}`}
               className="relative h-20 w-20 shrink-0 overflow-hidden rounded-[7px] bg-paper"
             >
               <Image
-                src={product!.image}
-                alt={`${product!.brand} ${product!.title}`}
+                src={product.image}
+                alt={`${product.brand} ${product.title}`}
                 fill
                 sizes="80px"
                 className="object-contain p-1.5"
@@ -48,10 +52,10 @@ export default async function MyReviewsPage() {
             </Link>
 
             <div className="min-w-0 flex-1">
-              <p className="facts truncate text-plum-700">{product!.brand}</p>
+              <p className="facts truncate text-plum-700">{product.brand}</p>
               <h2 className="mt-0.5 text-[15px] font-medium leading-snug">
-                <Link href={`/p/${product!.slug}`} className="hover:underline">
-                  {product!.title}
+                <Link href={`/p/${product.slug}`} className="hover:underline">
+                  {product.title}
                 </Link>
               </h2>
 
@@ -68,12 +72,12 @@ export default async function MyReviewsPage() {
 
               <div className="mt-3.5 flex items-center gap-4">
                 <Link
-                  href={`/p/${product!.slug}#reviews`}
+                  href={`/p/${product.slug}#reviews`}
                   className="text-[13px] font-semibold text-plum-700 hover:underline"
                 >
                   Edit on the product page
                 </Link>
-                <DeleteReviewButton slug={product!.slug} />
+                <DeleteReviewButton slug={product.slug} />
               </div>
             </div>
           </div>

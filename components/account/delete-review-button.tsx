@@ -1,20 +1,15 @@
 "use client";
 
-import { useRouter } from "next/navigation";
-import { useActionState, useEffect } from "react";
+import { useActionState } from "react";
 import { removeReview, type ReviewState } from "@/app/actions/reviews";
 
 /**
- * Deletes one review from /account/reviews. The server action revalidates the product page's
- * review tag; this refreshes the list you are looking at.
+ * Deletes one review from /account/reviews. The action expires the product page's review tag and
+ * calls `refresh()`, which re-renders this list on the server — so there is nothing for this
+ * component to do but report a failure. It is the only client-side part of the row.
  */
 export function DeleteReviewButton({ slug }: { slug: string }) {
   const [state, action, pending] = useActionState<ReviewState, FormData>(removeReview, undefined);
-  const router = useRouter();
-
-  useEffect(() => {
-    if (state?.ok) router.refresh();
-  }, [state, router]);
 
   return (
     <form action={action}>

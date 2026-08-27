@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useActionState, useEffect, useState } from "react";
 import { myReviewDraft, submitReview, type ReviewState } from "@/app/actions/reviews";
 import { useAccount } from "@/components/account/account-store";
@@ -51,7 +50,6 @@ function SignedInForm({ slug, displayName }: { slug: string; displayName: string
   const [title, setTitle] = useState("");
   const [body, setBody] = useState("");
   const [hasExisting, setHasExisting] = useState(false);
-  const router = useRouter();
 
   // Opens on what you wrote before, if anything. setState here runs in the promise callback,
   // not in the effect body.
@@ -69,12 +67,8 @@ function SignedInForm({ slug, displayName }: { slug: string; displayName: string
     };
   }, [slug]);
 
-  // The action expired this product's review tag, so a refresh pulls the list above into line.
-  useEffect(() => {
-    if (state?.ok) router.refresh();
-  }, [state, router]);
-
-  // Derived rather than stored: having posted is the same thing as having a review on file.
+  // The action expired this product's review tag and called refresh(), so the list above is
+  // already being re-rendered on the server; nothing to do here but note that a review exists.
   const editing = hasExisting || state?.ok === true;
   const errors = state?.errors;
 

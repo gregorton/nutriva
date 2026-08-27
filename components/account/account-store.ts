@@ -28,7 +28,16 @@ export type AccountSnapshot = {
 const EMPTY: AccountSnapshot = { user: null, saved: [], loaded: false };
 
 let snapshot: AccountSnapshot = EMPTY;
-let inFlight: Promise<void> | null = null;
+/*
+  Every refresh gets a number, and only the newest one is allowed to write.
+
+  An earlier version deduplicated concurrent calls by returning the in-flight promise, which is
+  the wrong trade here: signing in fires a refresh while the one from first mount is often still
+  open, and joining that older request resolves with "nobody is signed in" — so the masthead kept
+  saying Sign in to somebody who had just signed in. Two small requests are cheaper than that bug.
+*/
+let requestSeq = 0;
+let started = false;
 const listeners = new Set<() => void>();
 
 function emit() {
@@ -40,22 +49,21 @@ function set(next: AccountSnapshot) {
   emit();
 }
 
-/** Fetches the session. Concurrent callers share one request. */
+/** Fetches the session. The most recently started call is the one whose answer sticks. */
 export function refreshAccount(): Promise<void> {
-  inFlight ??= fetch("/api/session", { cache: "no-store" })
+  const seq = ++requestSeq;
+  started = true;
+
+  return fetch("/api/session", { cache: "no-store" })
     .then((response) => (response.ok ? response.json() : { user: null, saved: [] }))
     .then((data: { user: AccountSnapshot["user"]; saved: string[] }) => {
+      if (seq !== requestSeq) return; // a newer refresh has already answered
       set({ user: data.user, saved: data.saved ?? [], loaded: true });
     })
     .catch(() => {
       // Offline or the database is down: the storefront still works signed out.
-      set({ ...EMPTY, loaded: true });
-    })
-    .finally(() => {
-      inFlight = null;
+      if (seq === requestSeq) set({ ...EMPTY, loaded: true });
     });
-
-  return inFlight;
 }
 
 /** Moves one slug in or out of the saved set without waiting for a round trip. */
@@ -70,7 +78,7 @@ export function setSavedLocally(slug: string, saved: boolean) {
 
 function subscribe(listener: () => void): () => void {
   // First subscribe is the earliest point at which a fetch is safe.
-  if (!snapshot.loaded && !inFlight) void refreshAccount();
+  if (!started) void refreshAccount();
   listeners.add(listener);
 
   // Catches a sign-out performed in another tab, without polling.

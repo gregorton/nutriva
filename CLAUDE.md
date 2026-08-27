@@ -201,8 +201,11 @@ the whole feature off rather than erroring, which is also what keeps a build wor
 environment with no database.
 
 - `lib/db.ts` — one `pg` pool, parked on `globalThis` so `next dev` does not leak a socket set per
-  hot reload. `query`, `queryOne`, `tx`. **Every statement is parameterised** — nothing in this
-  codebase interpolates a value into SQL.
+  hot reload. `query`, `queryOne`, `tx`. TLS is verified (Neon's chain is one Node trusts, so
+  there is no reason to weaken it); localhost is the exception, having no certificate to verify.
+  **Every statement is parameterised** — nothing in this codebase interpolates a value into SQL.
+  Placeholders used twice in one statement carry an explicit `::type`, or Postgres refuses to
+  deduce one type for them; see the lockout update in `lib/accounts.ts`.
 - `lib/schema/*.sql` + `reference/db/migrate.mjs` — numbered migrations, one transaction each,
   recorded in `schema_migrations` so re-running is a no-op. `reference/db/seed.mjs` fills three
   accounts and a few reviews, picking products off the real catalogue so it cannot rot.
@@ -214,8 +217,13 @@ environment with no database.
   http://localhost.
 - `lib/dal.ts` — `getUser()` (React `cache`d, returns a two-field DTO, never the row) and
   `requireUser()`. Everything that touches per-user data goes through here rather than reading the
-  cookie, so the check cannot be forgotten. `proxy.ts` (Next 16's renamed middleware) only checks
-  whether a cookie exists at all, to keep a database round trip off every prefetch.
+  cookie, so the check cannot be forgotten. Its catch calls `unstable_rethrow` first: reading
+  cookies during a prerender throws a framework signal meaning "render this route at request
+  time", and swallowing it would render the page as though nobody were signed in. Nothing under
+  `/account` sets `force-dynamic` — the cookie read already makes those routes dynamic, and
+  forcing it as well stops `refresh()` from an action updating the page in place. `proxy.ts` (Next
+  16's renamed middleware) only checks whether a cookie exists at all, to keep a database round
+  trip off every prefetch.
 - `lib/accounts.ts`, `lib/reviews.ts`, `lib/saved.ts` — query modules, the same "one module is the
   whole boundary" shape as `lib/catalog.ts`. `app/actions/*.ts` are the mutations, and every one
   re-verifies the session: a Server Action is a POST endpoint anything can call.
@@ -228,9 +236,20 @@ and cost all 470 product pages their prerender. Three consequences, and none of 
   `useSyncExternalStore` with an empty server snapshot, filled from `GET /api/session` after mount.
   `account-button.tsx`, `review-form.tsx` and `product/save-button.tsx` all read it and all render
   the signed-out state until it says otherwise. None of them is a permission check.
+- `components/account/session-sync.tsx` sits in the root layout and re-reads the session whenever
+  the pathname changes. It has to: setting a cookie in an action makes Next re-render the route on
+  the server, and `/signin` and `/signup` redirect once a session exists, so signing in navigates
+  before any client code gets a say — an island refreshed only by the form would keep saying
+  "Sign in" to somebody who had just signed in. Refreshes are sequence-numbered so a stale reply
+  cannot overwrite a newer one; do not reintroduce in-flight deduplication, which is what caused
+  exactly that bug.
 - `/p/[slug]` reads reviews through `unstable_cache` tagged `reviews:<slug>`, so anonymous traffic
   is served built HTML and never reaches Postgres. Posting calls `updateTag()` — not
-  `revalidateTag()`, which would serve the writer the stale copy their own review is missing from.
+  `revalidateTag()`, which would serve the writer the stale copy their own review is missing from —
+  then `refresh()` from `next/cache` to pull that render into the page they are looking at.
+- Auth actions do not `redirect()`; they return where to go and the form navigates, with the
+  fields held in state so a rejected password does not empty the form. Without JavaScript the
+  account is still created and the page offers a Continue link.
 - Review paging is a server function with a cursor (`components/pdp/review-more.tsx`), not a
   `?page=` parameter, because reading `searchParams` would make all 470 pages request-time.
   Pagination is keyset on `(created_at, id)`, so a review posted mid-read cannot repeat a row.
@@ -245,12 +264,19 @@ checkout, so no purchase can be verified. Reviews are attributed to an account, 
 block claims.
 
 Round trip for all of it — signs up a throwaway account, posts and edits a review, saves a product,
-signs out and back in, then deletes the account. It writes to the database, so point it at a scratch
-project:
+signs out and back in, deletes the review through the account page, then deletes the account. It
+writes to the database, so point it at a scratch project:
 
 ```bash
 node reference/auth-check.mjs   # needs the dev server up and DATABASE_URL set
 ```
+
+Two things that will waste an hour if you do not know them. `page.textContent('body')` also reads
+the RSC flight data Next embeds in `<script>` tags, so "is it gone from the page" is a false pass
+against it — use `innerText`. And navigation in this script waits on `domcontentloaded`, not
+`networkidle`, because the footer links to six routes that do not exist
+(`/help/delivery`, `/help/returns`, `/help/contact`, `/account/orders`, `/quality`, `/sourcing`)
+and their prefetches never settle.
 
 ## Home hero
 

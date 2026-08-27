@@ -1,6 +1,6 @@
 "use server";
 
-import { updateTag } from "next/cache";
+import { refresh, revalidatePath, updateTag } from "next/cache";
 import { getProduct } from "@/lib/catalog";
 import { getUser } from "@/lib/dal";
 import { deleteReview, moreReviews, myReview, upsertReview, type ReviewSlice } from "@/lib/reviews";
@@ -40,8 +40,11 @@ export async function submitReview(_state: ReviewState, form: FormData): Promise
   await upsertReview(slug, user.id, checked.value);
   // updateTag rather than revalidateTag: this is a read-your-own-writes case, so the next render
   // of this product page has to wait for the fresh query instead of being served the stale copy
-  // that does not have the review in it yet.
+  // that does not have the review in it yet. refresh() then pulls that render into the page the
+  // writer is looking at — it is the server-side counterpart of router.refresh(), and the one
+  // that works from an action.
   updateTag(`reviews:${slug}`);
+  refresh();
   return { ok: true };
 }
 
@@ -54,6 +57,10 @@ export async function removeReview(_state: ReviewState, form: FormData): Promise
 
   await deleteReview(slug, user.id);
   updateTag(`reviews:${slug}`);
+  // The account list is a dynamic route, so it needs its own nudge: revalidatePath drops the
+  // copy the client router is holding, and refresh() re-renders the page being looked at.
+  revalidatePath("/account/reviews");
+  refresh();
   return { ok: true };
 }
 

@@ -6,11 +6,13 @@ import { requireUser } from "@/lib/dal";
   not control whether its children render, and the Next auth guide is explicit about that — so
   every page below calls it too. This is here for the greeting and the tabs.
 
-  `force-dynamic` because a page whose whole content depends on who is asking must never be
-  prerendered as HTML. Without it, a build with no DATABASE_URL configured happily prerenders
-  these three routes as static redirects, which is right by accident rather than by rule.
+  Deliberately no `dynamic = "force-dynamic"`. These routes are already dynamic by construction:
+  the DAL reads `cookies()`, which cannot be prerendered. Forcing it as well stops `refresh()`
+  from a Server Action re-rendering the page the person is looking at — deleting a review would
+  work in the database and leave the list showing it until a manual reload. With no DATABASE_URL
+  configured, accounts are switched off and these become prerendered redirects to /signin, which
+  is the right answer for a site that has no accounts.
 */
-export const dynamic = "force-dynamic";
 
 export default async function AccountLayout({ children }: LayoutProps<"/account">) {
   const user = await requireUser("/account");

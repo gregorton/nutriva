@@ -49,9 +49,10 @@ function createPool(): Pool {
 
   return new Pool({
     connectionString,
-    // Neon terminates TLS at its own proxy with a certificate chain Node does not ship a root
-    // for, which is why `sslmode=require` in the URL is not enough on its own.
-    ssl: connectionString.includes("localhost") ? false : { rejectUnauthorized: false },
+    // Verified TLS — Neon's certificates chain to a root Node already trusts, so there is no
+    // reason to disable verification, and doing so would make the connection interceptable.
+    // Localhost is the exception: a local Postgres has no certificate to verify.
+    ssl: connectionString.includes("localhost") ? false : true,
     max: 10,
     idleTimeoutMillis: 30_000,
     connectionTimeoutMillis: 15_000,

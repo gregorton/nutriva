@@ -2,18 +2,22 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useActionState, useEffect } from "react";
+import { useActionState, useEffect, useState } from "react";
 import { signIn, signUp, type AuthState } from "@/app/actions/auth";
-import { refreshAccount } from "@/components/account/account-store";
 
 /*
   The sign-in and sign-up form. One component for both, because the two differ by a single field
   and the wiring around them — validation display, pending state, and what happens on success —
   is identical.
 
-  On success the action has already set the session cookie. What is left is client-side: refresh
-  the masthead's snapshot, then navigate. The masthead is in the root layout and survives the
-  navigation, so refreshing it is the step that cannot be skipped.
+  The fields are controlled. React resets an uncontrolled form once its action resolves, which on
+  a rejected password would empty the email and name too and make the person type everything
+  again; holding the values here means a validation error costs them one field, not the form.
+
+  Navigation on success is usually not this component's doing: setting the session cookie in the
+  action makes Next re-render this route on the server, where the page's own "already signed in"
+  redirect fires. The `router.replace` below is the fallback for when that does not happen, and it
+  is a no-op when it already has. Keeping the masthead in step is SessionSync's job, not this one's.
 */
 export function AuthForm({ mode, next }: { mode: "signin" | "signup"; next: string }) {
   const isSignUp = mode === "signup";
@@ -21,17 +25,13 @@ export function AuthForm({ mode, next }: { mode: "signin" | "signup"; next: stri
     isSignUp ? signUp : signIn,
     undefined,
   );
+  const [displayName, setDisplayName] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const router = useRouter();
 
   useEffect(() => {
-    if (!state?.ok) return;
-    let cancelled = false;
-    void refreshAccount().then(() => {
-      if (!cancelled) router.replace(state.next);
-    });
-    return () => {
-      cancelled = true;
-    };
+    if (state?.ok) router.replace(state.next);
   }, [state, router]);
 
   const errors = state && !state.ok ? state.errors : undefined;
@@ -56,6 +56,8 @@ export function AuthForm({ mode, next }: { mode: "signin" | "signup"; next: stri
           hint="Shown on any review you write."
           name="displayName"
           autoComplete="name"
+          value={displayName}
+          onChange={setDisplayName}
           error={errors?.displayName}
         />
       )}
@@ -65,6 +67,8 @@ export function AuthForm({ mode, next }: { mode: "signin" | "signup"; next: stri
         name="email"
         type="email"
         autoComplete="email"
+        value={email}
+        onChange={setEmail}
         error={errors?.email}
       />
 
@@ -74,6 +78,8 @@ export function AuthForm({ mode, next }: { mode: "signin" | "signup"; next: stri
         name="password"
         type="password"
         autoComplete={isSignUp ? "new-password" : "current-password"}
+        value={password}
+        onChange={setPassword}
         error={errors?.password}
       />
 
@@ -105,6 +111,8 @@ function Field({
   name,
   type = "text",
   autoComplete,
+  value,
+  onChange,
   error,
 }: {
   label: string;
@@ -112,6 +120,8 @@ function Field({
   name: string;
   type?: string;
   autoComplete?: string;
+  value: string;
+  onChange: (next: string) => void;
   error?: string;
 }) {
   const id = `auth-${name}`;
@@ -126,6 +136,8 @@ function Field({
         name={name}
         type={type}
         autoComplete={autoComplete}
+        value={value}
+        onChange={(event) => onChange(event.target.value)}
         aria-invalid={error ? true : undefined}
         aria-describedby={error ? `${id}-error` : undefined}
         className={`mt-1.5 h-11 w-full rounded-card border bg-paper px-3.5 text-[15px] text-ink placeholder:text-faint focus:bg-white focus:outline-none ${
