@@ -54,9 +54,9 @@ static catalogue module.
 - `components/cart/cart-context.tsx` — cart in `localStorage`, read via `useSyncExternalStore` with an
   empty server snapshot. Do not move this to `useState` + effect; that reintroduces a hydration
   mismatch and trips `react-hooks/set-state-in-effect`.
-- Routes: `/` home, `/c/[slug]` category (dynamic — reads searchParams), `/p/[slug]` product (SSG, 178
-  paths), `/starters`, `/deals`, `/search`, `/guides` + `/guides/[slug]` (SSG, one per guide),
-  `not-found`.
+- Routes: `/` home, `/c/[slug]` category (dynamic — reads searchParams), `/p/[slug]` product (SSG, 470
+  paths), `/starters`, `/deals`, `/equipment`, `/search`, `/guides` + `/guides/[slug]` (SSG, one per
+  guide), `not-found`.
 - `components/chrome/sticky-chrome.tsx` — pins the masthead and category row to the top of the
   viewport; the utility strip above scrolls away for good. Pinned state is measured off layout
   (`getBoundingClientRect().top <= 0`) through `useSyncExternalStore`, not stored in state from an
@@ -83,6 +83,7 @@ read as a clone.
 | Volume figures ("90K bought this month") | `sold` | `#659fd9` |
 | Trust semantics only (in stock, verified, savings) | `pandan-600` | `#1e5b41` |
 | Markdown price | `sale-600` | `#a3123a` |
+| The medical-equipment side (banner field, glyphs) | `clinic-900` → `clinic-500`, `clinic-100` | `#0e3a6b` → `#1b5ca7`, `#eef3f9` |
 | Neutrals | `ink` `muted` `line` `paper` `paper-warm` | warm greys, `#fbf9f5` bands |
 
 Three faces, three jobs → now two: **Fraunces** display for headings only, and **Google Sans** for
@@ -92,8 +93,9 @@ figures aligned in grid columns without it. Google Sans also ships a Thai subset
 localisation needs.
 
 Custom utilities: `shell` (page container), `facts` (12px tabular data type), `kicker` (uppercase
-eyebrow), `btn-cart` (the gradient add-to-cart, every placement), `.rail` (snap scroller),
-`.reveal-add` (hover-reveal add-to-cart, see below).
+eyebrow), `btn-cart` (the gradient add-to-cart, every placement), `banner-plum` / `banner-clinic` (the
+two full-bleed banner ramps), `.rail` (snap scroller), `.reveal-add` (hover-reveal add-to-cart, see
+below).
 
 **The signature device** is the facts strip — a back-of-bottle spec row on every product card
 (`components/product/facts-strip.tsx`), opened out on the product page into the Key info grid
@@ -179,6 +181,30 @@ node reference/chrome-check.mjs   # needs the dev server up
 All three scripts drive `playwright-core` (a devDependency) against the browser already installed
 under `~/AppData/Local/ms-playwright`, and take `BASE_URL` when `next dev` picks a port other
 than 3000. `starters-check.mjs` and `guides-check.mjs` below run the same way.
+
+## Home hero
+
+Two slides, one per side of the storefront, in `components/home/hero-carousel.tsx` — the only client
+component above the fold. `components/home/home-hero.tsx` is its server half and reads everything the
+copy states off the catalogue: the four supplement examples are the current best sellers that are
+actually in stock, and the figures beside them (products, brands, shelves) are counted, not typed.
+
+- **Colour.** The right-hand arrow cross-fades `banner-plum` into `banner-clinic` — the same ramp the
+  Professional brands band runs, now defined once in `globals.css` and shared by the band, the hero's
+  second slide and `/equipment`. A gradient cannot be transitioned, so the two fields are stacked
+  layers whose opacity is animated; the slides themselves translate on one flex track.
+- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`, which takes
+  it out of the tab order and off the accessibility tree.
+- **The equipment side has no catalogue behind it.** Its examples are the four *ranges*
+  (`components/home/equipment-glyphs.tsx`) drawn as line art at the same 1.5px stroke as
+  `components/ui/icons.tsx` — never a named product, never a price, because no device has been
+  harvested. `/equipment` says so in its first line and states what a listing will and will not
+  claim; when real stock lands, that page becomes the shelf and the glyphs stay as range marks.
+
+This replaced a five-tile mosaic traced off the reference site's promotional hero. Nothing in it was
+ours or true — a sale that does not exist, a product count off by an order of magnitude, hotlinked
+stock photography, the reference's own brand name in three places, and a sign-in button with no
+account system behind it. Do not reintroduce a hero tile whose copy no data backs.
 
 ## Starter kits
 

@@ -45,6 +45,18 @@
   /* markdown price — berry, not the reference's fire-engine red */
   --color-sale-600: #a3123a;
 
+  /*
+    Banner blue — measured off the Professional brands band, which is the only place on the
+    site that runs a full-bleed colour field. It now names the medical-equipment side of the
+    storefront: the hero's second slide and that band share these three stops, so the blue
+    means one thing wherever it appears.
+  */
+  --color-clinic-900: #0e3a6b;
+  --color-clinic-700: #144c8a;
+  --color-clinic-500: #1b5ca7;
+  /* the tint a device glyph sits on, the way product shots sit on `paper` */
+  --color-clinic-100: #eef3f9;
+
   /* neutrals */
   --color-ink: #221a1f;
   --color-muted: #6f636b;
@@ -127,6 +139,33 @@
       var(--color-cart-bottom-hover) 100%
     );
   }
+}
+
+/*
+  Banner fields.
+
+  The Professional brands band set the shape: one left-to-right three-stop ramp, dark edge to
+  light edge, white type on top. Both storefront sides now read off the same ramp — plum for
+  supplements, clinic blue for medical equipment — so the hero can cross-fade between them and
+  land on exactly the blue the band below it already uses. Change a stop here and every banner
+  on the site follows.
+*/
+@utility banner-plum {
+  background-image: linear-gradient(
+    to right,
+    var(--color-plum-900) 0%,
+    var(--color-plum-700) 50%,
+    var(--color-plum-600) 100%
+  );
+}
+
+@utility banner-clinic {
+  background-image: linear-gradient(
+    to right,
+    var(--color-clinic-900) 0%,
+    var(--color-clinic-700) 50%,
+    var(--color-clinic-500) 100%
+  );
 }
 
 @layer base {

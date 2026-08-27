@@ -35,7 +35,9 @@ const CARDS = [
 export function TrustBand() {
   return (
     <section className="shell mt-6" aria-labelledby="professional-brands-heading">
-      <div className="relative flex flex-col items-center overflow-hidden rounded-t-[8px] bg-gradient-to-r from-[#0e3a6b] via-[#144c8a] to-[#1b5ca7] p-8">
+      {/* The banner ramp itself lives in globals.css — the home hero's equipment slide and the
+          /equipment page read the same three stops, so this blue means one thing site-wide. */}
+      <div className="banner-clinic relative flex flex-col items-center overflow-hidden rounded-t-[8px] p-8">
 
         <div className="w-full max-w-[1312px]">
           {/* header */}

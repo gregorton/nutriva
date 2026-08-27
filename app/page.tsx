@@ -1,5 +1,5 @@
 import { bestSellers, newArrivals, topRated } from "@/lib/catalog";
-import { GoalHero } from "@/components/home/goal-hero";
+import { HomeHero } from "@/components/home/home-hero";
 import { StarterKits } from "@/components/home/starter-kits";
 import { CategoryTiles } from "@/components/home/category-tiles";
 import { TrustBand } from "@/components/home/trust-band";
@@ -10,7 +10,7 @@ import { SectionHeader } from "@/components/ui/section-header";
 export default function HomePage() {
   return (
     <>
-      <GoalHero />
+      <HomeHero />
       <StarterKits />
       <CategoryTiles />
 

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { CATEGORIES, byCategory, categoryCount } from "@/lib/catalog";
+import { CATEGORIES, byCategory, categoryCount, products } from "@/lib/catalog";
 
 /**
  * Category entry points. Each tile shows a real product from that category rather than an
@@ -8,8 +8,10 @@ import { CATEGORIES, byCategory, categoryCount } from "@/lib/catalog";
  */
 export function CategoryTiles() {
   return (
-    <section className="shell mt-14">
-      <p className="kicker mb-1.5 text-muted">10 categories · 178 products</p>
+    <section className="shell mt-14" id="shelf">
+      <p className="kicker mb-1.5 text-muted" data-num>
+        {CATEGORIES.length} categories · {products.length} products
+      </p>
       <h2 className="text-[22px] sm:text-[26px]">Shop the shelf</h2>
 
       <ul className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
