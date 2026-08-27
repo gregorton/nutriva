@@ -235,6 +235,81 @@ checkThat(
   !(await page.locator('#reviews').innerHTML()).includes(HEADLINE),
 );
 
+// ---------- signing in with a provider ----------
+// Driven with fetch rather than the browser: every step is a redirect, and the parts worth
+// asserting are the query string going out and the refusals coming back. Reaching a real consent
+// screen would need somebody to click it, so what is checked here is that nothing gets past the
+// gate without the cookie this server set.
+const hop = (path, headers = {}) =>
+  fetch(`${BASE}${path}`, { redirect: 'manual', headers }).then((r) => ({
+    status: r.status,
+    location: (r.headers.get('location') ?? '').replace(BASE, ''),
+    cookies: r.headers.getSetCookie(),
+  }));
+
+const unknown = await hop('/api/auth/twitter');
+check('an unconfigured provider is turned away', unknown.location, '/signin?error=provider');
+
+// The rest only means anything once credentials are set, which is also when the buttons appear.
+// Fetched without cookies: the browser is signed in by this point, and /signin redirects away
+// from itself for anyone who is.
+const signinHtml = await fetch(`${BASE}/signin`).then((r) => r.text());
+const buttons = (signinHtml.match(/href="\/api\/auth\//g) ?? []).length;
+
+if (buttons === 0) {
+  results.push('SKIP  provider sign-in: no credentials set, so no buttons to test');
+} else {
+  // These two have to sit inside the configured branch: an unconfigured provider refuses
+  // everything at the door with error=provider, before it looks at a cookie or a cancellation,
+  // which is the right order but a different answer.
+  const noCookie = await hop('/api/auth/google/callback?code=abc&state=xyz');
+  check('a callback with no cookie is refused', noCookie.location, '/signin?error=expired');
+
+  const cancelled = await hop('/api/auth/google/callback?error=access_denied');
+  check('a cancelled sign-in says so', cancelled.location, '/signin?error=cancelled');
+
+  const start = await hop('/api/auth/google?next=%2Faccount%2Fsaved');
+  const authorize = new URL(start.location.startsWith('http') ? start.location : `${BASE}${start.location}`);
+  const jar = start.cookies.find((v) => v.startsWith('nutriva.oauth='))?.split(';')[0] ?? '';
+  const stash = JSON.parse(decodeURIComponent(jar.slice('nutriva.oauth='.length)));
+
+  check('the flow starts at the provider', authorize.host, 'accounts.google.com');
+  check('asking for a code', authorize.searchParams.get('response_type'), 'code');
+  check('with the redirect URI this origin serves', authorize.searchParams.get('redirect_uri'), `${BASE}/api/auth/google/callback`);
+  checkThat('carrying a state value', (authorize.searchParams.get('state') ?? '').length >= 40);
+  check('and a PKCE challenge', authorize.searchParams.get('code_challenge_method'), 'S256');
+  checkThat(
+    'the verifier stays in an httpOnly cookie',
+    start.cookies.some((v) => v.startsWith('nutriva.oauth=') && /HttpOnly/i.test(v)),
+  );
+  checkThat(
+    'and never goes to the provider',
+    !authorize.searchParams.has('code_verifier') && stash.verifier.length >= 40,
+  );
+
+  // ?next= decides where somebody lands while signed in, so it cannot be an absolute URL.
+  const offsite = await hop('/api/auth/google?next=https%3A%2F%2Fevil.example%2Fx');
+  const offsiteJar = offsite.cookies.find((v) => v.startsWith('nutriva.oauth='))?.split(';')[0] ?? '';
+  check(
+    'an off-site next is discarded',
+    JSON.parse(decodeURIComponent(offsiteJar.slice('nutriva.oauth='.length))).next,
+    '/account',
+  );
+  check('a local one is kept', stash.next, '/account/saved');
+
+  const tampered = await hop(`/api/auth/google/callback?code=abc&state=tampered`, { cookie: jar });
+  check('a mismatched state is refused', tampered.location, '/signin?error=state');
+
+  const noCode = await hop(`/api/auth/google/callback?state=${encodeURIComponent(stash.state)}`, { cookie: jar });
+  check('a callback with no code is refused', noCode.location, '/signin?error=code');
+
+  const crossed = await hop(
+    `/api/auth/facebook/callback?code=abc&state=${encodeURIComponent(stash.state)}`,
+    { cookie: jar },
+  );
+  check("one provider's cookie cannot be used on another", crossed.location, '/signin?error=state');
+}
+
 await page.close();
 await browser.close();
 
@@ -247,5 +322,7 @@ if (stale.rowCount > 0) console.log(`(also removed ${stale.rowCount} account(s) 
 await db.end();
 
 console.log(results.join('\n'));
-console.log(results.every((r) => r.startsWith('PASS')) ? '\nall checks passed' : '\nSOME CHECKS FAILED');
-process.exit(results.every((r) => r.startsWith('PASS')) ? 0 : 1);
+// A SKIP is not a failure — it means that part of the feature is not configured yet.
+const failed = results.some((r) => r.startsWith('FAIL'));
+console.log(failed ? '\nSOME CHECKS FAILED' : '\nall checks passed');
+process.exit(failed ? 1 : 0);

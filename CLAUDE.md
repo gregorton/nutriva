@@ -206,7 +206,7 @@ environment with no database.
   **Every statement is parameterised** — nothing in this codebase interpolates a value into SQL.
   Placeholders used twice in one statement carry an explicit `::type`, or Postgres refuses to
   deduce one type for them; see the lockout update in `lib/accounts.ts`.
-- `lib/schema/*.sql` + `reference/db/migrate.mjs` — numbered migrations, one transaction each,
+- `lib/schema/*.sql` + `reference/db/migrate.mjs` — numbered migrations (`001_init`, `002_oauth`), one transaction each,
   recorded in `schema_migrations` so re-running is a no-op. `reference/db/seed.mjs` fills three
   accounts and a few reviews, picking products off the real catalogue so it cannot rot.
 - `lib/password.ts` — scrypt from `node:crypto` (no native addon to compile), stored as
@@ -263,10 +263,40 @@ reviewed here shows no bars at all. The "Verified purchases only" kicker is gone
 checkout, so no purchase can be verified. Reviews are attributed to an account, and that is all the
 block claims.
 
-Round trip for all of it — signs up a throwaway account, posts and edits a review, saves a product,
-signs out and back in, deletes the review through the account page, then deletes the account. It
-writes to the database, so point it at a scratch project:
+**Signing in with Google or Facebook** sits on top of all of that rather than replacing any of it: a
+provider is another way to reach `startSession()`, and the `users` table, the sessions and the DAL
+are untouched. `lib/oauth.ts` holds one authorization-code flow described as data, with an entry per
+provider — adding a third is an entry plus a button. Two route handlers do the work:
+`/api/auth/[provider]` starts it, `/api/auth/[provider]/callback` finishes it. No client JavaScript
+is involved; the buttons are links and the rest is redirects.
 
+- **A provider whose credentials are unset does not appear.** `configuredProviders()` reads the
+  environment, so the same code runs configured or not, and there is never a button leading to a
+  broken consent screen. Everything else on the page works regardless.
+- **What makes it safe, in the order it matters.** `state` is random, kept in a short-lived
+  httpOnly cookie and compared constant-time on the way back — a callback that cannot produce it
+  did not start here. PKCE keeps the verifier in that cookie and sends only its SHA-256, so an
+  intercepted code cannot be exchanged (Google requires it; Facebook's token endpoint takes it
+  inconsistently across versions, so it is a per-provider flag and off there). The code is
+  exchanged server-to-server with the client secret, and identity comes from the provider's own
+  endpoint — nothing in the query string is treated as who somebody is. `?next=` goes through the
+  same local-path check the sign-in form uses, because it decides where a signed-in person lands.
+- **Accounts link on a verified email and nothing else.** `linkOrCreateAccount` in `lib/accounts.ts`
+  tries the `identities` row first, then a *verified* address matching an existing account, then
+  creates one. An unverified address that matches an existing account is refused outright: linking
+  it would let somebody register your address at a provider that does not check it and walk into
+  your account. A Facebook account with no email at all gets a Nutriva account with none —
+  `users.email` and `users.password_hash` are both nullable now, and `authenticate()` refuses a row
+  without a password rather than saying it has none.
+- The cookie is `SameSite=Lax`, not Strict, because the provider returns people with a top-level GET
+  that Strict would not attach it to — and the callback would have nothing to check `state` against.
+- Failures come back as `/signin?error=<reason>`, and the sign-in page turns each reason into
+  something worth reading. "state mismatch" means nothing to the person looking at it.
+
+Round trip for all of it — signs up a throwaway account, posts and edits a review, saves a product,
+signs out and back in, deletes the review through the account page, then deletes the account. The
+provider assertions cover the outgoing query string and every refusal, and skip themselves when no
+credentials are set. It writes to the database, so point it at a scratch project:
 ```bash
 node reference/auth-check.mjs   # needs the dev server up and DATABASE_URL set
 ```

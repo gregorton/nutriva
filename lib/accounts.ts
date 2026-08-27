@@ -1,5 +1,5 @@
 import "server-only";
-import { queryOne } from "@/lib/db";
+import { query, queryOne, tx } from "@/lib/db";
 import { hashPassword, verifyPassword } from "@/lib/password";
 
 /*
@@ -19,7 +19,7 @@ export type Account = { id: string; displayName: string };
 
 type UserRow = {
   id: string;
-  password_hash: string;
+  password_hash: string | null;
   display_name: string;
   failed_attempts: number;
   locked_until: Date | null;
@@ -76,6 +76,13 @@ export async function authenticate(email: string, password: string): Promise<Sig
     return { ok: false, reason: "locked" };
   }
 
+  // An account created through Google or Facebook has no password. Saying so would tell a stranger
+  // which addresses have accounts, so it fails the same way a wrong password does.
+  if (!user.password_hash) {
+    await hashPassword(password);
+    return { ok: false, reason: "invalid" };
+  }
+
   if (!(await verifyPassword(password, user.password_hash))) {
     const attempts = user.failed_attempts + 1;
     // Every placeholder is cast. `$2` is both assigned to an integer column and compared against
@@ -103,4 +110,110 @@ export async function authenticate(email: string, password: string): Promise<Sig
   }
 
   return { ok: true, account: { id: user.id, displayName: user.display_name } };
+}
+
+/*
+  Signing in through a provider. Three outcomes, in the order they are tried:
+
+  1. We have seen this provider account before — sign in as whoever it belongs to.
+  2. The provider gave us a *verified* address that matches an existing account — link the two, so
+     somebody who signed up with a password and later presses "Sign in with Google" lands back in
+     their own account rather than a second empty one.
+  3. Neither — make a new account with no password.
+
+  Linking on an unverified address would be an account takeover: register somebody's email at a
+  provider that does not check it, press the button, and you are them. So an unverified address
+  that matches an existing account is refused outright rather than linked or duplicated.
+*/
+export type ProviderSignInResult =
+  | { ok: true; account: Account; created: boolean }
+  | { ok: false; reason: "email-taken" };
+
+export async function linkOrCreateAccount(
+  provider: string,
+  profile: { id: string; email: string | null; emailVerified: boolean; displayName: string | null },
+): Promise<ProviderSignInResult> {
+  const existingIdentity = await queryOne<{ id: string; display_name: string }>(
+    `select u.id, u.display_name
+     from identities i join users u on u.id = i.user_id
+     where i.provider = $1 and i.provider_user_id = $2`,
+    [provider, profile.id],
+  );
+
+  if (existingIdentity) {
+    return {
+      ok: true,
+      created: false,
+      account: { id: existingIdentity.id, displayName: existingIdentity.display_name },
+    };
+  }
+
+  const email = profile.email;
+
+  if (email) {
+    const byEmail = await queryOne<{ id: string; display_name: string }>(
+      "select id, display_name from users where email = $1",
+      [email],
+    );
+
+    if (byEmail && !profile.emailVerified) return { ok: false, reason: "email-taken" };
+
+    if (byEmail) {
+      await query(
+        `insert into identities (provider, provider_user_id, user_id, email)
+         values ($1, $2, $3, $4)
+         on conflict (provider, provider_user_id) do nothing`,
+        [provider, profile.id, byEmail.id, email],
+      );
+      return {
+        ok: true,
+        created: false,
+        account: { id: byEmail.id, displayName: byEmail.display_name },
+      };
+    }
+  }
+
+  // New account. One transaction, so a failure cannot leave a user row with no identity pointing
+  // at it — which would be an account nobody could ever sign in to.
+  const created = await tx(async (client) => {
+    const inserted = await client.query<{ id: string; display_name: string }>(
+      `insert into users (email, password_hash, display_name)
+       values ($1, null, $2)
+       returning id, display_name`,
+      [email, displayNameFor(profile.displayName, email)],
+    );
+    const row = inserted.rows[0];
+
+    await client.query(
+      "insert into identities (provider, provider_user_id, user_id, email) values ($1, $2, $3, $4)",
+      [provider, profile.id, row.id, email],
+    );
+
+    return row;
+  });
+
+  return {
+    ok: true,
+    created: true,
+    account: { id: created.id, displayName: created.display_name },
+  };
+}
+
+/**
+ * Reviews are attributed by display name, so there has to be one. Providers usually give a name;
+ * where they do not, the part of the address before the @ is a better guess than a placeholder,
+ * and the person can be told to change it once there is a settings page to change it on.
+ */
+function displayNameFor(given: string | null, email: string | null): string {
+  const candidate = given?.trim() || email?.split("@")[0]?.trim() || "";
+  if (candidate.length >= 2) return candidate.slice(0, 40);
+  return "Nutriva shopper";
+}
+
+/** Which providers an account has linked, for a future settings page. */
+export function linkedProviders(userId: string): Promise<string[]> {
+  return query<{ provider: string }>(
+    "select provider from identities where user_id = $1 order by provider",
+    [userId],
+  ).then((rows) => rows.map((row) => row.provider));
 }

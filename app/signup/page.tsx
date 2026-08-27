@@ -3,6 +3,7 @@ import { redirect } from "next/navigation";
 import type { Metadata } from "next";
 import { getUser } from "@/lib/dal";
 import { AuthForm } from "@/components/account/auth-form";
+import { OAuthButtons } from "@/components/account/oauth-buttons";
 
 export const metadata: Metadata = {
   title: "Create an account",
@@ -30,6 +31,7 @@ export default async function SignUpPage({ searchParams }: PageProps<"/signup">)
 
         <div className="mt-6 rounded-tile border border-line bg-paper p-6">
           <AuthForm mode="signup" next={target} />
+          <OAuthButtons mode="signup" next={target} />
         </div>
 
         <p className="mt-5 text-center text-sm text-muted">
