@@ -29,6 +29,12 @@ Refresh the catalogue (see Catalogue data; stage 2 is long and resumable):
 node reference/iherb/discover.mjs && node reference/iherb/harvest.mjs && node reference/iherb/build.mjs
 ```
 
+Set up the database (see Accounts and reviews; needs `DATABASE_URL` in `.env.local`):
+
+```bash
+node reference/db/migrate.mjs && node reference/db/seed.mjs
+```
+
 Screenshot the running dev server at desktop and mobile (writes `reference/preview/`, gitignored):
 
 ```bash
@@ -37,8 +43,8 @@ node reference/shoot.mjs label
 
 ## Architecture
 
-Next.js 16.3 App Router, React 19, Tailwind v4, TypeScript. No backend — everything renders from a
-static catalogue module.
+Next.js 16.3 App Router, React 19, Tailwind v4, TypeScript. Two data sources and no other backend:
+the static catalogue module, and PostgreSQL for what visitors write.
 
 - `lib/catalog.ts` — the single data boundary. Reads `catalog.generated.json` and exposes every query
   the UI needs (`byCategory`, `bestSellers`, `deals`, `related`, `search`, `brandsIn`…). Label fields
@@ -56,7 +62,8 @@ static catalogue module.
   mismatch and trips `react-hooks/set-state-in-effect`.
 - Routes: `/` home, `/c/[slug]` category (dynamic — reads searchParams), `/p/[slug]` product (SSG, 470
   paths), `/starters`, `/deals`, `/equipment`, `/search`, `/guides` + `/guides/[slug]` (SSG, one per
-  guide), `not-found`.
+  guide), `/signin`, `/signup`, `/account` + `/account/saved` + `/account/reviews` (dynamic — they read
+  the session cookie), `/api/session` (the one route handler), `not-found`.
 - `components/chrome/sticky-chrome.tsx` — pins the masthead and category row to the top of the
   viewport; the utility strip above scrolls away for good. Pinned state is measured off layout
   (`getBoundingClientRect().top <= 0`) through `useSyncExternalStore`, not stored in state from an
@@ -66,7 +73,8 @@ static catalogue module.
   `scroll-padding-top` and the PDP buy box's sticky offset both read it, so changing the chrome's
   height is a one-line edit.
 - Everything is a server component except the cart, category-nav panel, sort select, countdown,
-  rail scroller, sticky chrome and the product-gallery zoom.
+  rail scroller, sticky chrome, the product-gallery zoom, and the account/review/save islands
+  described under Accounts and reviews.
 
 ## Design system
 
@@ -163,6 +171,8 @@ copy.
 - No fabricated testing claims anywhere on this page. The lot strip under the gallery ("Lot NOWF-180 ·
   test results published"), the per-lot copy in the buy box and the invented "two-lab lot release"
   standard are all gone: nothing behind the storefront runs a lab. Marks read off the label stay.
+- The Reviews block at the foot of the page is real and comes from PostgreSQL — see Accounts and
+  reviews. It shows two ratings side by side and never averages them together.
 - `components/ui/hint.tsx` is the info-mark popover, CSS only: hover and keyboard focus, no client JS.
 
 Assertions for the layout, the stepper, the cart round-trip and the colour rules:
@@ -181,6 +191,66 @@ node reference/chrome-check.mjs   # needs the dev server up
 All three scripts drive `playwright-core` (a devDependency) against the browser already installed
 under `~/AppData/Local/ms-playwright`, and take `BASE_URL` when `next dev` picks a port other
 than 3000. `starters-check.mjs` and `guides-check.mjs` below run the same way.
+
+## Accounts and reviews
+
+The second data source: PostgreSQL, hosted on Neon, holding the four things the catalogue cannot —
+accounts, sessions, reviews and saved items. `DATABASE_URL` in `.env.local` is the only secret the
+project has. With it unset the site still builds and runs; `isConfigured()` in `lib/db.ts` switches
+the whole feature off rather than erroring, which is also what keeps a build working in an
+environment with no database.
+
+- `lib/db.ts` — one `pg` pool, parked on `globalThis` so `next dev` does not leak a socket set per
+  hot reload. `query`, `queryOne`, `tx`. **Every statement is parameterised** — nothing in this
+  codebase interpolates a value into SQL.
+- `lib/schema/*.sql` + `reference/db/migrate.mjs` — numbered migrations, one transaction each,
+  recorded in `schema_migrations` so re-running is a no-op. `reference/db/seed.mjs` fills three
+  accounts and a few reviews, picking products off the real catalogue so it cannot rot.
+- `lib/password.ts` — scrypt from `node:crypto` (no native addon to compile), stored as
+  `scrypt$N$r$p$salt$hash` so the cost can be raised without invalidating anyone. It is a separate
+  file with no `server-only` import because `seed.mjs` imports it too — Node 26 strips the types.
+- `lib/session.ts` — the cookie carries 32 random bytes; the table stores only their SHA-256, so a
+  dumped row cannot be replayed. `secure` is on in production only, or the cookie never sets over
+  http://localhost.
+- `lib/dal.ts` — `getUser()` (React `cache`d, returns a two-field DTO, never the row) and
+  `requireUser()`. Everything that touches per-user data goes through here rather than reading the
+  cookie, so the check cannot be forgotten. `proxy.ts` (Next 16's renamed middleware) only checks
+  whether a cookie exists at all, to keep a database round trip off every prefetch.
+- `lib/accounts.ts`, `lib/reviews.ts`, `lib/saved.ts` — query modules, the same "one module is the
+  whole boundary" shape as `lib/catalog.ts`. `app/actions/*.ts` are the mutations, and every one
+  re-verifies the session: a Server Action is a POST endpoint anything can call.
+
+**Keeping the site static is the constraint that shaped all of it.** The masthead lives in the root
+layout, so a server component there awaiting `cookies()` would turn every route in the app dynamic
+and cost all 470 product pages their prerender. Three consequences, and none of them are optional:
+
+- `components/account/account-store.ts` is the cart's contract applied to the session —
+  `useSyncExternalStore` with an empty server snapshot, filled from `GET /api/session` after mount.
+  `account-button.tsx`, `review-form.tsx` and `product/save-button.tsx` all read it and all render
+  the signed-out state until it says otherwise. None of them is a permission check.
+- `/p/[slug]` reads reviews through `unstable_cache` tagged `reviews:<slug>`, so anonymous traffic
+  is served built HTML and never reaches Postgres. Posting calls `updateTag()` — not
+  `revalidateTag()`, which would serve the writer the stale copy their own review is missing from.
+- Review paging is a server function with a cursor (`components/pdp/review-more.tsx`), not a
+  `?page=` parameter, because reading `searchParams` would make all 470 pages request-time.
+  Pagination is keyset on `(created_at, id)`, so a review posted mid-read cannot repeat a row.
+
+**The honesty rule the reviews block exists to hold.** `product.rating` and `product.reviews` are
+the source listing's aggregate; reviews written here are ours. They are shown as two labelled
+figures side by side and are **never averaged into one** — a blended number is stated by no source
+and cannot be shown the working for. `ratingBreakdown()`, which fitted a curve to the source average
+to draw the per-star bars, is deleted: the bars now count real rows, and a product nobody has
+reviewed here shows no bars at all. The "Verified purchases only" kicker is gone too — there is no
+checkout, so no purchase can be verified. Reviews are attributed to an account, and that is all the
+block claims.
+
+Round trip for all of it — signs up a throwaway account, posts and edits a review, saves a product,
+signs out and back in, then deletes the account. It writes to the database, so point it at a scratch
+project:
+
+```bash
+node reference/auth-check.mjs   # needs the dev server up and DATABASE_URL set
+```
 
 ## Home hero
 
@@ -278,9 +348,12 @@ The short version of what you can trust:
   including %DV.
 - **Computed from two real numbers**: discount percent. (`perServing` is still computed and still in the
   JSON, but cost per serving is no longer shown anywhere — it was ours, not the label's.)
-- **Still ours**: the per-star rating distribution (`ratingBreakdown` — the source puts the breakdown
-  behind an identity check), the storefront's own handling standards, and the site disclaimer. The
-  source's own disclaimer names the source and is deliberately not copied.
+- **Still ours**: the storefront's own handling standards and the site disclaimer. The source's own
+  disclaimer names the source and is deliberately not copied. The per-star rating distribution used
+  to be on this list — `ratingBreakdown` shaped it from the average, because the source puts its own
+  breakdown behind an identity check. It is gone: the bars on a product page now count reviews
+  written here, and nothing invents a distribution for a product that has none. See Accounts and
+  reviews.
 
 A field the source does not state comes through as `null` or an empty array and its panel renders
 nothing. Keep that rule when adding fields: it is what stops the page claiming a %DV or a best-by date

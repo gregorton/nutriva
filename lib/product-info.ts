@@ -215,21 +215,6 @@ export function qualityStandards(product: Product): { label: string; note: strin
 }
 
 /*
-  Rating distribution. The average and the review count are real; iHerb's per-star breakdown sits
-  behind an identity check, so the bars are shaped from the average with a fixed curve and are
-  stable across builds. Replace this the day per-star counts are available.
-*/
-export function ratingBreakdown(product: Product): { stars: number; percent: number }[] {
-  const top = Math.max(0, Math.min(1, (product.rating - 2.6) / 2.4));
-  const raw = [top ** 1.2, 0.5 * top * (1 - top) + 0.06, 0.28 * (1 - top) + 0.02, 0.16 * (1 - top), 0.12 * (1 - top)];
-  const total = raw.reduce((sum, n) => sum + n, 0);
-  const percents = raw.map((n) => Math.round((n / total) * 100));
-  // Rounding drift lands on the top bucket, so the column always sums to 100.
-  percents[0] += 100 - percents.reduce((sum, n) => sum + n, 0);
-  return percents.map((percent, i) => ({ stars: 5 - i, percent }));
-}
-
-/*
   Other pack sizes of the same product: same brand, same name once the pack phrase and the
   restated per-unit dose are stripped. iHerb's own pack tiles link to products we may not stock,
   so the tiles are built from our catalogue instead — every link resolves.

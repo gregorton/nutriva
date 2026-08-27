@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { Product } from "@/lib/catalog";
 import { count, price } from "@/lib/format";
 import { Rating } from "@/components/product/rating";
+import { SaveButton } from "@/components/product/save-button";
 import { QuickAdd } from "@/components/cart/quick-add";
 
 /**
@@ -30,6 +31,9 @@ export function ProductCard({ product, priority = false }: { product: Product; p
             −{product.discount}%
           </span>
         )}
+
+        {/* Opposite corner from the markdown flag, and above the full-card anchor. */}
+        <SaveButton slug={product.slug} />
 
         {/* Sits over the foot of the image, where product photography is empty anyway. */}
         <div className="absolute inset-x-2 bottom-2 z-20">

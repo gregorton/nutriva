@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { CATEGORY_BY_SLUG, bestSellers, getProduct, products, related } from "@/lib/catalog";
 import { count, reviewCount } from "@/lib/format";
+import { productReviews } from "@/lib/reviews";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { AtAGlance } from "@/components/pdp/at-a-glance";
 import { BuyBox } from "@/components/pdp/buy-box";
@@ -10,8 +11,12 @@ import { PackOptions } from "@/components/pdp/pack-options";
 import { ProductGallery } from "@/components/pdp/product-gallery";
 import { ProductInformation } from "@/components/pdp/product-information";
 import { Rankings } from "@/components/pdp/rankings";
+import { ReviewForm } from "@/components/pdp/review-form";
+import { ReviewList } from "@/components/pdp/review-list";
+import { ReviewMore } from "@/components/pdp/review-more";
 import { ReviewSummary } from "@/components/pdp/review-summary";
 import { SimilarItem } from "@/components/pdp/similar-item";
+import { SaveButton } from "@/components/product/save-button";
 import { Stars } from "@/components/ui/stars";
 import { ProductRail } from "@/components/product/product-grid";
 import { SectionHeader } from "@/components/ui/section-header";
@@ -50,6 +55,8 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
   const rank = bestSellers(Infinity, product.category).findIndex((p) => p.slug === product.slug) + 1;
   const pairs = related(product, 10);
   const [similar] = pairs;
+  // Reviews written here, read through a tagged cache so this page stays prerendered.
+  const reviews = await productReviews(product.slug);
 
   return (
     <div className="shell py-6">
@@ -115,6 +122,10 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
                 </span>
               )}
             </div>
+
+            <div className="mt-3.5">
+              <SaveButton slug={product.slug} variant="inline" />
+            </div>
           </div>
 
           <PackOptions product={product} />
@@ -145,13 +156,34 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
       <ProductInformation product={product} />
 
       <section id="reviews" className="mt-14 rounded-tile border border-line bg-paper p-6">
-        <SectionHeader kicker="Verified purchases only" title="Reviews" />
+        <SectionHeader
+          kicker={
+            reviews.summary.count > 0
+              ? `${reviews.summary.count} written on Nutriva`
+              : "Written by people with an account here"
+          }
+          title="Reviews"
+        />
+
         <div className="mt-5">
-          <ReviewSummary product={product} />
+          <ReviewSummary product={product} customers={reviews.summary} />
         </div>
-        <p className="mt-5 max-w-xl text-sm text-muted">
-          The rating and review count are the product&apos;s own. The per-star breakdown is shaped
-          from that average — individual review text arrives with our own review system.
+
+        {reviews.slice.reviews.length > 0 && (
+          <div className="mt-8 border-t border-line pt-6">
+            <ReviewList reviews={reviews.slice.reviews} />
+            {reviews.slice.cursor && <ReviewMore slug={product.slug} cursor={reviews.slice.cursor} />}
+          </div>
+        )}
+
+        <div className="mt-8">
+          <ReviewForm slug={product.slug} />
+        </div>
+
+        <p className="mt-5 max-w-2xl text-sm text-muted">
+          The product rating above left is the figure this product carries in our catalogue. The
+          breakdown beside it counts only reviews written here, and every one of them is
+          attributed to an account.
         </p>
       </section>
     </div>

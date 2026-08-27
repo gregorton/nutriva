@@ -25,3 +25,15 @@ export function count(value: number): string {
 export function reviewCount(value: number): string {
   return new Intl.NumberFormat("en-US").format(value);
 }
+
+const reviewDay = new Intl.DateTimeFormat("en-GB", {
+  day: "numeric",
+  month: "short",
+  year: "numeric",
+});
+
+/** 14 Aug 2026 — when a review was written. Absolute, not "3 days ago": a relative label read
+ *  off a prerendered page goes stale the moment the page is cached. */
+export function reviewDate(iso: string): string {
+  return reviewDay.format(new Date(iso));
+}

@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { SearchIcon, UserIcon } from "@/components/ui/icons";
+import { SearchIcon } from "@/components/ui/icons";
+import { AccountButton } from "@/components/account/account-button";
 import { CartButton } from "@/components/cart/cart-button";
 import { Wordmark } from "@/components/chrome/wordmark";
 import { products } from "@/lib/catalog";
@@ -50,13 +51,7 @@ export function SiteHeader() {
           >
             <SearchIcon className="h-[19px] w-[19px]" />
           </Link>
-          <Link
-            href="/account"
-            className="hidden items-center gap-2 rounded-card px-3 py-2 text-sm font-medium text-ink transition-colors hover:bg-paper sm:flex"
-          >
-            <UserIcon className="h-[18px] w-[18px] text-plum-700" />
-            <span>Sign in</span>
-          </Link>
+          <AccountButton />
           <CartButton />
         </div>
       </div>

@@ -248,3 +248,32 @@ export function ThermometerIcon({ className = base }: IconProps) {
     </svg>
   );
 }
+
+/** Saved items. `filled` is the saved state, drawn the way StarIcon handles the same distinction. */
+export function HeartIcon({ className = base, filled = false }: IconProps & { filled?: boolean }) {
+  return (
+    <svg
+      viewBox="0 0 20 20"
+      fill={filled ? "currentColor" : "none"}
+      stroke="currentColor"
+      strokeWidth="1.6"
+      className={className}
+      aria-hidden
+    >
+      <path
+        d="M10 16.5S3 12.4 3 7.9A3.6 3.6 0 0 1 10 6.3a3.6 3.6 0 0 1 7 1.6c0 4.5-7 8.6-7 8.6Z"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
+/** Sign out — a door with an arrow leaving it. */
+export function ExitIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <path d="M12.4 3.5H15a1.5 1.5 0 0 1 1.5 1.5v10a1.5 1.5 0 0 1-1.5 1.5h-2.6" strokeLinecap="round" />
+      <path d="M9 13.2 12 10 9 6.8M12 10H3.5" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
