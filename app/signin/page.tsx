@@ -1,9 +1,7 @@
-import Link from "next/link";
 import { redirect } from "next/navigation";
 import type { Metadata } from "next";
 import { getUser } from "@/lib/dal";
-import { AuthForm } from "@/components/account/auth-form";
-import { OAuthButtons } from "@/components/account/oauth-buttons";
+import { AuthPanel } from "@/components/account/auth-panel";
 
 export const metadata: Metadata = {
   title: "Sign in",
@@ -39,39 +37,5 @@ export default async function SignInPage({ searchParams }: PageProps<"/signin">)
   // Already signed in — there is nothing for this page to do.
   if (await getUser()) redirect(target);
 
-  return (
-    <div className="shell flex justify-center py-12 sm:py-16">
-      <div className="w-full max-w-[420px]">
-        <h1 className="text-[26px] leading-tight">Sign in</h1>
-        <p className="mt-2 text-sm text-muted">
-          An account is for writing reviews and saving products. Browsing and the cart work
-          without one.
-        </p>
-
-        {reason && (
-          <p
-            role="alert"
-            className="mt-5 rounded-card border border-turmeric-500/40 bg-turmeric-100 px-3.5 py-2.5 text-sm text-turmeric-700"
-          >
-            {reason}
-          </p>
-        )}
-
-        <div className="mt-6 rounded-tile border border-line bg-paper p-6">
-          <AuthForm mode="signin" next={target} />
-          <OAuthButtons mode="signin" next={target} />
-        </div>
-
-        <p className="mt-5 text-center text-sm text-muted">
-          No account yet?{" "}
-          <Link
-            href={`/signup?next=${encodeURIComponent(target)}`}
-            className="font-medium text-plum-700 hover:underline"
-          >
-            Create one
-          </Link>
-        </p>
-      </div>
-    </div>
-  );
+  return <AuthPanel mode="signin" next={target} notice={reason} />;
 }
