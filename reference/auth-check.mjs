@@ -42,8 +42,12 @@ const PASSWORD = 'nutriva123';
 const HEADLINE = `Automated check ${stamp}`;
 const BODY = 'Written by reference/auth-check.mjs to prove the review round trip works end to end.';
 
-// The masthead search button is also type=submit and precedes the form in the DOM.
-const AUTH_SUBMIT = 'form:has(#auth-password) button[type=submit]';
+// The masthead search button is also type=submit and precedes these forms in the DOM, so every
+// submit is scoped to the form it belongs to. The flow is two steps, and each step is its own
+// form: an address, then either a password or a name and a new one.
+const CONTINUE = 'form:has(#auth-email) button[type=submit]';
+const CREATE_SUBMIT = 'form:has(#auth-new-password) button[type=submit]';
+const SIGNIN_SUBMIT = 'form:has(#auth-password) button[type=submit]';
 
 // textContent('body') also reads the RSC flight data Next embeds in <script> tags, which keeps
 // the pre-mutation payload and turns 'is it gone from the page' into a false pass. innerText
@@ -84,24 +88,37 @@ checkThat('GET /account redirects a stranger to /signin', page.url().includes('/
 check('and remembers where they were going', new URL(page.url()).searchParams.get('next'), '/account');
 
 // ---------- sign up ----------
+// Step one is a GET form, so Continue is a navigation and the address arrives in the URL.
 await page.goto(`${BASE}/signup`, { waitUntil: 'domcontentloaded' });
-await page.waitForSelector('#auth-password');
-await page.fill('#auth-displayName', NAME);
+await page.waitForSelector('#auth-email');
 await page.fill('#auth-email', EMAIL);
-await page.fill('#auth-password', 'short');
-await page.click(AUTH_SUBMIT);
-// Each of these round trips spends a scrypt hash on top of the network, so the waits are
-// generous. Waiting for the error text itself rather than a fixed pause keeps it honest.
-await page.waitForFunction(
-  () => document.body.innerText.includes('at least 8 characters'),
-  null,
-  { timeout: 20000 },
+await page.click(CONTINUE);
+await page.waitForSelector('#auth-new-password', { timeout: 20000 });
+check('Continue carries the address into the URL', new URL(page.url()).searchParams.get('email'), EMAIL);
+checkThat(
+  'an address with no account lands on the create screen',
+  (await visibleText()).includes('find an account with that email address'),
 );
-checkThat('a weak password is refused by the server', true);
+check('and does not ask for an existing password', await page.locator('#auth-password').count(), 0);
 
-await page.fill('#auth-password', PASSWORD);
-await page.click(AUTH_SUBMIT);
-// A client-side navigation, so there is no load event for waitForURL to wait on.
+await page.fill('#auth-name', NAME);
+// The button is dead until the password could actually be accepted, so a weak one cannot be
+// submitted at all. It is the same predicate the server applies in lib/validate.ts — the meter
+// never blocks a password checkRegistration would take, and never offers one it would refuse.
+await page.fill('#auth-new-password', 'short');
+await page.waitForTimeout(300);
+checkThat('a weak password cannot be submitted', await page.locator(CREATE_SUBMIT).isDisabled());
+checkThat(
+  'and the meter says what is missing',
+  (await visibleText()).includes('at least 8 characters'),
+);
+
+await page.fill('#auth-new-password', PASSWORD);
+await page.waitForTimeout(300);
+checkThat('a usable password enables the button', await page.locator(CREATE_SUBMIT).isEnabled());
+await page.click(CREATE_SUBMIT);
+// A client-side navigation, so there is no load event for waitForURL to wait on. Each of these
+// round trips spends a scrypt hash on top of the network, so the waits are generous.
 await page.waitForFunction(() => location.pathname.startsWith('/account'), null, { timeout: 25000 });
 await page.waitForTimeout(1200);
 check('signed up and landed on the account page', new URL(page.url()).pathname, '/account');
@@ -200,17 +217,24 @@ check('and the form itself is gone', await page.locator('#review-body').count(),
 
 // ---------- sign back in ----------
 await page.goto(`${BASE}/signin`, { waitUntil: 'domcontentloaded' });
+await page.waitForSelector('#auth-email');
 await page.fill('#auth-email', EMAIL);
+await page.click(CONTINUE);
+await page.waitForSelector('#auth-password', { timeout: 20000 });
+checkThat(
+  'an address with an account goes straight to its password',
+  (await page.locator('#auth-new-password').count()) === 0,
+);
 await page.fill('#auth-password', 'wrong-password-1');
-await page.click(AUTH_SUBMIT);
-await page.waitForTimeout(800);
+await page.click(SIGNIN_SUBMIT);
+await page.waitForTimeout(1200);
 checkThat(
   'a wrong password is refused without naming which field was wrong',
   (await visibleText()).includes('do not match an account'),
 );
 
 await page.fill('#auth-password', PASSWORD);
-await page.click(AUTH_SUBMIT);
+await page.click(SIGNIN_SUBMIT);
 // A client-side navigation, so there is no load event for waitForURL to wait on.
 await page.waitForFunction(() => location.pathname.startsWith('/account'), null, { timeout: 20000 });
 await page.waitForTimeout(600);

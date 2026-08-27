@@ -113,6 +113,24 @@ export async function authenticate(email: string, password: string): Promise<Sig
 }
 
 /*
+  Whether an address already has an account.
+
+  This is the one thing in the file that works against rule 2, and it does so knowingly. The
+  two-step flow has to pick a second screen after Continue — a password field for an account that
+  exists, "create a password" for one that does not — and no wording of either screen can hide
+  which one it is. So the flow itself confirms whether an address is registered, and moving the
+  question out of authenticate() into its own lookup does not make that any more true than the
+  screens already do. What the lockout protects is unchanged: knowing an address exists is still
+  ten guesses away from getting into it.
+*/
+export async function accountExists(email: string): Promise<boolean> {
+  const row = await queryOne<{ one: number }>("select 1 as one from users where email = $1", [
+    email,
+  ]);
+  return row !== null;
+}
+
+/*
   Signing in through a provider. Three outcomes, in the order they are tried:
 
   1. We have seen this provider account before — sign in as whoever it belongs to.

@@ -1,7 +1,7 @@
 import { redirect } from "next/navigation";
 import type { Metadata } from "next";
 import { getUser } from "@/lib/dal";
-import { AuthPanel } from "@/components/account/auth-panel";
+import { AuthFlow } from "@/components/account/auth-flow";
 
 export const metadata: Metadata = {
   title: "Sign in",
@@ -30,12 +30,12 @@ const REASONS: Record<string, string> = {
 };
 
 export default async function SignInPage({ searchParams }: PageProps<"/signin">) {
-  const { next, error } = await searchParams;
+  const { next, error, email } = await searchParams;
   const target = localPath(next);
   const reason = typeof error === "string" ? REASONS[error] : undefined;
 
   // Already signed in — there is nothing for this page to do.
   if (await getUser()) redirect(target);
 
-  return <AuthPanel mode="signin" next={target} notice={reason} />;
+  return <AuthFlow path="/signin" next={target} notice={reason} email={email} />;
 }

@@ -132,6 +132,30 @@ export function InfoIcon({ className = base }: IconProps) {
   );
 }
 
+/** Reveal a password. Its pair below is the same eye with the lid closed and a stroke through it. */
+export function EyeIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M1.9 10S5 4.9 10 4.9 18.1 10 18.1 10 15 15.1 10 15.1 1.9 10 1.9 10Z" strokeLinejoin="round" />
+      <circle cx="10" cy="10" r="2.5" />
+    </svg>
+  );
+}
+
+export function EyeOffIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path
+        d="M7.3 5.4A7.9 7.9 0 0 1 10 4.9c5 0 8.1 5.1 8.1 5.1a15 15 0 0 1-2.4 2.9M12.6 14.6a7.9 7.9 0 0 1-2.6.5c-5 0-8.1-5.1-8.1-5.1a15 15 0 0 1 3-3.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path d="M8.3 8.3a2.5 2.5 0 0 0 3.4 3.4" strokeLinecap="round" />
+      <path d="m3.5 3.5 13 13" strokeLinecap="round" />
+    </svg>
+  );
+}
+
 export function MinusIcon({ className = base }: IconProps) {
   return (
     <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" className={className} aria-hidden>

@@ -254,6 +254,30 @@ and cost all 470 product pages their prerender. Three consequences, and none of 
   `?page=` parameter, because reading `searchParams` would make all 470 pages request-time.
   Pagination is keyset on `(created_at, id)`, so a review posted mid-read cannot repeat a row.
 
+**Getting into an account is one flow in two steps**, and `/signin` and `/signup` are the same two
+screens mounted on two paths (`components/account/auth-flow.tsx` decides which,
+`auth-steps.tsx` holds the second): an address, then a password if that address has an account, or a
+name and a new password if it does not. There is no card behind any of it — fields, buttons and one
+heading on the page's own white.
+
+- **The step is in the URL, not in state.** Continue is a plain GET form landing on `?email=…`, and
+  the flow looks the address up on the server to pick the second screen. So step one needs no
+  JavaScript, Back and Change are ordinary links the browser's own back button agrees with, and a
+  reload stays on the screen it was on. The address sitting in the URL is the cost; `/signin` was
+  already dynamic for the cookie read, so the `searchParams` read is free.
+- **`accountExists()` in `lib/accounts.ts` is a deliberate hole in that file's rule 2.** A flow with
+  two different second screens confirms whether an address is registered however either screen is
+  worded, so moving the question into its own lookup leaks nothing the screens do not. The lockout is
+  untouched: knowing an address exists is still ten wrong guesses from getting in.
+- The strength meter scores four rules but gates on only the two `checkRegistration` enforces —
+  eight characters, a letter and a number — so it never blocks a password the server would take, and
+  the disabled Create account button is that same predicate rather than a second opinion. Capitals
+  and symbols are advice, which is why the bar can sit at half with the button live.
+- The one field the reference flow does not have is **Your name**, because reviews are attributed by
+  display name and there is no settings page to change it on later.
+- Providers appear on step one only: there, "sign in" and "create an account" are the same press,
+  which is why `OAuthButtons` carries one label rather than a mode.
+
 **The honesty rule the reviews block exists to hold.** `product.rating` and `product.reviews` are
 the source listing's aggregate; reviews written here are ours. They are shown as two labelled
 figures side by side and are **never averaged into one** — a blended number is stated by no source

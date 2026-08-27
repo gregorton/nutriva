@@ -2,7 +2,11 @@ import { configuredProviders, type ProviderId } from "@/lib/oauth";
 import { FacebookGlyph, GoogleGlyph } from "@/components/ui/icons";
 
 /*
-  "Continue with Google" and friends.
+  "Sign in with Google" and friends, under the "or" on the first screen of the flow.
+
+  One label rather than a sign-in and a sign-up wording, because the screen these sit on is both:
+  a provider account we have not seen before creates one, and the button cannot know which it will
+  be until the provider answers.
 
   A server component, and plain links rather than buttons: starting the flow is a GET to
   /api/auth/<provider>, and the whole exchange is redirects. No client JavaScript is involved on
@@ -18,7 +22,7 @@ const GLYPHS: Record<ProviderId, React.ComponentType<{ className?: string }>> = 
   facebook: FacebookGlyph,
 };
 
-export function OAuthButtons({ next, mode }: { next: string; mode: "signin" | "signup" }) {
+export function OAuthButtons({ next }: { next: string }) {
   const providers = configuredProviders();
   if (providers.length === 0) return null;
 
@@ -39,10 +43,10 @@ export function OAuthButtons({ next, mode }: { next: string; mode: "signin" | "s
             <a
               key={id}
               href={`/api/auth/${id}?next=${encodeURIComponent(next)}`}
-              className="flex h-11 w-full items-center justify-center gap-2.5 rounded-card border border-line-strong bg-white text-[15px] font-medium text-ink transition-colors hover:border-plum-600 hover:bg-plum-100"
+              className="flex h-12 w-full items-center justify-center gap-2.5 rounded-card border border-line-strong bg-white text-[15px] font-medium text-ink transition-colors hover:border-plum-600 hover:bg-plum-100"
             >
               <Glyph className="h-[19px] w-[19px]" />
-              {mode === "signup" ? `Sign up with ${label}` : `Sign in with ${label}`}
+              Sign in with {label}
             </a>
           );
         })}

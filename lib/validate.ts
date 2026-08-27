@@ -20,6 +20,18 @@ function text(input: FormDataEntryValue | null): string {
 // mail sender here. This rejects the shapes that are certainly wrong and nothing more.
 const EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
+/**
+ * The address as the two-step sign-in flow needs it: trimmed, lowercased, and either the shape of
+ * an email or nothing at all. Step one hands the address to step two through the URL, so a value
+ * that could never belong to an account has to send the person back to step one rather than reach
+ * a lookup — and it is the same regex the actions validate against, not a second opinion.
+ */
+export function normaliseEmail(value: string | string[] | undefined): string | null {
+  const raw = (Array.isArray(value) ? value[0] : value) ?? "";
+  const email = raw.trim().toLowerCase();
+  return email.length <= 254 && EMAIL.test(email) ? email : null;
+}
+
 export type Credentials = { email: string; password: string };
 export type Registration = Credentials & { displayName: string };
 

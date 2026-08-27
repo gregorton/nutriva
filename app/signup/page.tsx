@@ -1,7 +1,7 @@
 import { redirect } from "next/navigation";
 import type { Metadata } from "next";
 import { getUser } from "@/lib/dal";
-import { AuthPanel } from "@/components/account/auth-panel";
+import { AuthFlow } from "@/components/account/auth-flow";
 
 export const metadata: Metadata = {
   title: "Create an account",
@@ -13,11 +13,16 @@ function localPath(value: string | string[] | undefined): string {
   return next && /^\/(?![/\\])/.test(next) ? next : "/account";
 }
 
+/*
+  The same flow as /signin, mounted on the path the rest of the site links to for creating an
+  account. There is one screen to start from either way — an address, then whatever that address
+  turns out to need — so this route differs from /signin only in where Continue posts back to.
+*/
 export default async function SignUpPage({ searchParams }: PageProps<"/signup">) {
-  const { next } = await searchParams;
+  const { next, email } = await searchParams;
   const target = localPath(next);
 
   if (await getUser()) redirect(target);
 
-  return <AuthPanel mode="signup" next={target} />;
+  return <AuthFlow path="/signup" next={target} email={email} />;
 }
