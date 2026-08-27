@@ -66,8 +66,10 @@
   --color-paper: #fbf9f5;
   --color-paper-warm: #f4ede2;
 
-  --font-display: var(--font-display), Georgia, "Times New Roman", serif;
-  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  /* One face site-wide: Inter, loaded in `app/layout.tsx`. `font-display` stays as a token so
+     headings can be retargeted in one place, but it points at the same family as the body. */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
 
   --radius-card: 10px;
   --radius-tile: 14px;
@@ -189,9 +191,9 @@
   h2,
   h3 {
     font-family: var(--font-display);
-    font-weight: 600;
-    letter-spacing: -0.015em;
-    line-height: 1.1;
+    font-weight: 700;
+    letter-spacing: -0.021em;
+    line-height: 1.15;
   }
 
   /* Prices and any compared figure line up in columns. */

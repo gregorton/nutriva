@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Fraunces, Google_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import { CartProvider } from "@/components/cart/cart-context";
 import { UtilityBar } from "@/components/chrome/utility-bar";
@@ -9,21 +9,12 @@ import { StickyChrome } from "@/components/chrome/sticky-chrome";
 import { SiteFooter } from "@/components/chrome/site-footer";
 import { CartDrawer } from "@/components/cart/cart-drawer";
 
-// Display: soft-serif with a slight flare, set at low optical size for headings only.
-// Loaded as a variable font so SOFT/WONK axes are available; weight stays fluid.
-const display = Fraunces({
-  variable: "--font-display",
-  subsets: ["latin"],
-  axes: ["SOFT", "WONK"],
-});
-
-// Body, UI and data all set in Google Sans. One sans doing every job: size, weight and
-// tracking separate a spec row from a paragraph, so no second face is needed. It also
-// carries a Thai subset for when the UI is localised.
-const sans = Google_Sans({
-  variable: "--font-sans",
+// One face for the whole site: headings, body, UI and data. Size, weight and tracking do the
+// separating, which is what the `font-display` utility and the `facts` type still hang off.
+// Loaded variable, so any weight between 400 and 700 is available without a second request.
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin", "latin-ext"],
-  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -37,10 +28,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html
-      lang="en"
-      className={`${display.variable} ${sans.variable} h-full antialiased`}
-    >
+    <html lang="en" className={`${inter.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col bg-white">
         <CartProvider>
           <UtilityBar />

@@ -86,11 +86,11 @@ read as a clone.
 | The medical-equipment side (banner field, glyphs) | `clinic-900` → `clinic-500`, `clinic-100` | `#0e3a6b` → `#1b5ca7`, `#eef3f9` |
 | Neutrals | `ink` `muted` `line` `paper` `paper-warm` | warm greys, `#fbf9f5` bands |
 
-Three faces, three jobs → now two: **Fraunces** display for headings only, and **Google Sans** for
-everything else including all data (dose, pack size, countdown digits, kickers). The mono that used to
-carry data type was replaced because it read as "computery"; `font-variant-numeric: tabular-nums` keeps
-figures aligned in grid columns without it. Google Sans also ships a Thai subset, which the eventual
-localisation needs.
+One face, every job: **Inter**, loaded variable in `app/layout.tsx` and pointed at by both
+`--font-sans` and `--font-display`. Size, weight and tracking separate a heading from a paragraph
+from a spec row; `font-variant-numeric: tabular-nums` keeps figures aligned in grid columns. The
+`font-display` utility is kept so headings can be retargeted in one place if a second face is ever
+added. Inter carries no Thai, so localisation will need one added alongside it.
 
 Custom utilities: `shell` (page container), `facts` (12px tabular data type), `kicker` (uppercase
 eyebrow), `btn-cart` (the gradient add-to-cart, every placement), `banner-plum` / `banner-clinic` (the
