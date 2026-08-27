@@ -307,7 +307,13 @@ if (buttons === 0) {
     `/api/auth/facebook/callback?code=abc&state=${encodeURIComponent(stash.state)}`,
     { cookie: jar },
   );
-  check("one provider's cookie cannot be used on another", crossed.location, '/signin?error=state');
+  // Only meaningful with a second provider configured. With one, Facebook's callback refuses at
+  // the door for not being set up, which is right but is a different answer.
+  if (signinHtml.includes('href="/api/auth/facebook')) {
+    check("one provider's cookie cannot be used on another", crossed.location, '/signin?error=state');
+  } else {
+    results.push('SKIP  cross-provider cookie reuse: only one provider configured');
+  }
 }
 
 await page.close();
