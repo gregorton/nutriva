@@ -7,20 +7,13 @@ import { ArrowIcon } from "@/components/ui/icons";
 import { EquipmentGlyph, type EquipmentRange } from "@/components/home/equipment-glyphs";
 
 /**
- * The home hero: two slides, one per side of the storefront.
- *
- * Slide 1 is supplements on the brand plum, slide 2 is medical equipment on the Professional
- * brands blue, and both fields are the same `banner-*` ramp from `globals.css` so the arrow
- * cross-fades between two members of one system rather than between two unrelated colours.
- * The colour lives on two stacked layers whose opacity is animated — a gradient cannot be
- * transitioned directly, and cross-fading layers is the only way to move between them smoothly.
- *
- * Composition is identical on both slides: copy column with the Shop Now button at its foot,
- * examples grid on the right. The examples are the point of the hero — real stock on the
- * supplements side, the ranges we are opening with on the equipment side.
+ * The home hero: two slides, supplements on the brand plum and medical equipment on the
+ * Professional brands blue. Both fields are the same `banner-*` ramp from `globals.css`.
+ * The colour sits on two stacked layers whose opacity is animated, because a gradient cannot
+ * be transitioned directly.
  */
 
-/** A product as the hero needs it — price formatted server-side, no label data. */
+/** A product as the hero needs it — price formatted server-side. */
 export type HeroPick = {
   slug: string;
   brand: string;
@@ -165,18 +158,7 @@ const GRID = "grid grid-cols-2 gap-2.5 sm:gap-3";
 const TILE = "flex h-full flex-col rounded-card bg-white/95 p-2.5 sm:p-3";
 const SHOT = "relative h-[76px] w-full overflow-hidden rounded-[7px] sm:h-[104px] lg:h-[116px]";
 
-function Stat({ value, label }: { value: string; label: string }) {
-  return (
-    <div>
-      <p className="text-[19px] font-semibold leading-none text-white" data-num>
-        {value}
-      </p>
-      <p className="facts mt-1 text-white/70">{label}</p>
-    </div>
-  );
-}
-
-/** Shop Now, identical on both slides — the one white button on a coloured field. */
+/** Shop Now, identical on both slides. */
 function ShopNow({ href, children }: { href: string; children: React.ReactNode }) {
   return (
     <Link
@@ -208,18 +190,11 @@ function SupplementsSlide({
           id={active ? "hero-heading" : undefined}
           className="mt-2 text-balance text-[27px] leading-[1.06] text-white sm:text-[38px] lg:text-[42px]"
         >
-          Every dose, exactly as the label prints it
+          Vitamins, minerals and daily essentials
         </h1>
-        <p className="mt-3.5 max-w-[46ch] text-[14.5px] leading-relaxed text-white/85">
-          Pack size, serving size and the whole supplement-facts panel come off the
-          manufacturer&apos;s own label — so what you compare here matches the bottle in your hand.
+        <p className="mt-3.5 text-[14.5px] text-white/85" data-num>
+          {stats.products} products · {stats.brands} brands · {stats.shelves} shelves
         </p>
-
-        <div className="mt-5 flex flex-wrap gap-x-7 gap-y-3">
-          <Stat value={stats.products.toString()} label="products in stock" />
-          <Stat value={stats.brands.toString()} label="brands" />
-          <Stat value={stats.shelves.toString()} label="shelves" />
-        </div>
 
         <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-3">
           <ShopNow href="/c/vitamins">Shop Now</ShopNow>
@@ -227,12 +202,12 @@ function SupplementsSlide({
             href="/#shelf"
             className="text-[13.5px] font-medium text-white/85 underline-offset-4 hover:text-white hover:underline"
           >
-            Browse all {stats.shelves} shelves
+            Browse all shelves
           </Link>
         </div>
       </div>
 
-      {/* Examples: real stock, ranked by 30-day volume, each straight through to its page. */}
+      {/* Examples: best sellers in stock, each straight through to its page. */}
       <ul className={GRID}>
         {picks.map((pick) => (
           <li key={pick.slug}>
@@ -267,42 +242,30 @@ function EquipmentSlide({ ranges, active }: { ranges: EquipmentRange[]; active: 
   return (
     <SlideFrame>
       <div className="relative">
-        <p className="kicker text-white/70">Medical equipment · opening soon</p>
+        <p className="kicker text-white/70">Medical equipment</p>
         <h2
           id={active ? "hero-heading" : undefined}
           className="mt-2 text-balance text-[27px] leading-[1.06] text-white sm:text-[38px] lg:text-[42px]"
         >
-          Home monitors, specified off the box
+          Home monitoring and respiratory
         </h2>
-        <p className="mt-3.5 max-w-[46ch] text-[14.5px] leading-relaxed text-white/85">
-          The supplement shelf&apos;s rule, applied to devices: cuff range, accuracy class and
-          warranty as the manufacturer states them. Not on sale yet — this is the range we open
-          with.
+        <p className="mt-3.5 text-[14.5px] text-white/85" data-num>
+          {ranges.length} ranges · opening soon
         </p>
 
-        <div className="mt-5 flex flex-wrap gap-x-7 gap-y-3">
-          <Stat value={ranges.length.toString()} label="ranges at launch" />
-          <Stat value="0" label="clinical claims" />
-        </div>
-
-        <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-3">
+        <div className="mt-7">
           <ShopNow href="/equipment">Shop Now</ShopNow>
-          <span className="text-[13.5px] font-medium text-white/85">
-            Nothing to buy yet — see what&apos;s coming
-          </span>
         </div>
       </div>
 
-      {/* Examples: the ranges themselves. No prices and no product names, because no device has
-          been harvested yet and inventing one would be the one thing this storefront does not do. */}
+      {/* Examples: the four ranges. */}
       <ul className={GRID}>
         {ranges.map((range) => (
           <li key={range.name} className={TILE}>
             <div className={`${SHOT} flex items-center justify-center bg-clinic-100 text-clinic-700`}>
               <EquipmentGlyph range={range.glyph} className="h-[58px] w-[58px] lg:h-[76px] lg:w-[76px]" />
             </div>
-            <p className="facts mt-2 text-clinic-700">Opening soon</p>
-            <p className="mt-0.5 text-[12.5px] font-medium leading-snug text-ink">{range.name}</p>
+            <p className="mt-2 text-[12.5px] font-medium leading-snug text-ink">{range.name}</p>
             <p className="facts mt-1">{range.spec}</p>
           </li>
         ))}

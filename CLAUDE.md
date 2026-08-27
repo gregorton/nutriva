@@ -184,27 +184,20 @@ than 3000. `starters-check.mjs` and `guides-check.mjs` below run the same way.
 
 ## Home hero
 
-Two slides, one per side of the storefront, in `components/home/hero-carousel.tsx` — the only client
-component above the fold. `components/home/home-hero.tsx` is its server half and reads everything the
-copy states off the catalogue: the four supplement examples are the current best sellers that are
-actually in stock, and the figures beside them (products, brands, shelves) are counted, not typed.
+Two slides in `components/home/hero-carousel.tsx` — the only client component above the fold.
+`components/home/home-hero.tsx` is its server half: the four supplement examples are the best
+sellers in stock and the figures beside them are counted off the catalogue.
 
-- **Colour.** The right-hand arrow cross-fades `banner-plum` into `banner-clinic` — the same ramp the
-  Professional brands band runs, now defined once in `globals.css` and shared by the band, the hero's
-  second slide and `/equipment`. A gradient cannot be transitioned, so the two fields are stacked
-  layers whose opacity is animated; the slides themselves translate on one flex track.
-- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`, which takes
-  it out of the tab order and off the accessibility tree.
-- **The equipment side has no catalogue behind it.** Its examples are the four *ranges*
-  (`components/home/equipment-glyphs.tsx`) drawn as line art at the same 1.5px stroke as
-  `components/ui/icons.tsx` — never a named product, never a price, because no device has been
-  harvested. `/equipment` says so in its first line and states what a listing will and will not
-  claim; when real stock lands, that page becomes the shelf and the glyphs stay as range marks.
+- The right-hand arrow cross-fades `banner-plum` into `banner-clinic`, the ramp the Professional
+  brands band also runs. A gradient cannot be transitioned, so the two fields are stacked layers
+  whose opacity is animated; the slides themselves translate on one flex track.
+- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`.
+- The equipment side has no catalogue behind it, so its tiles are the four ranges from
+  `components/home/equipment-glyphs.tsx` as line art — name plus a short spec, no prices. Shop Now
+  lands on `/equipment`, which lists the same four ranges.
 
-This replaced a five-tile mosaic traced off the reference site's promotional hero. Nothing in it was
-ours or true — a sale that does not exist, a product count off by an order of magnitude, hotlinked
-stock photography, the reference's own brand name in three places, and a sign-in button with no
-account system behind it. Do not reintroduce a hero tile whose copy no data backs.
+This replaced a five-tile mosaic traced off the reference site's promotional hero, along with its
+invented sale copy, hotlinked stock photography and sign-in bar.
 
 ## Starter kits
 

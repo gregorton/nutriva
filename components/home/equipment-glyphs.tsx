@@ -1,10 +1,6 @@
 /*
-  Device line art for the medical-equipment side.
-
-  Drawn rather than photographed, and drawn at the same 1.5px stroke as `components/ui/icons.tsx`
-  so the hero's second slide belongs to this site's hand rather than to a stock library. They are
-  illustrations of a *range* — a blood pressure monitor, a thermometer — never of a product we
-  stock, because no device has been harvested yet.
+  Device line art for the medical-equipment side, drawn at the same 1.5px stroke as
+  `components/ui/icons.tsx`.
 */
 
 export type EquipmentGlyphName = "pressure" | "thermometer" | "oximeter" | "nebuliser";
@@ -12,15 +8,11 @@ export type EquipmentGlyphName = "pressure" | "thermometer" | "oximeter" | "nebu
 /** One range as the hero and the /equipment page both list it. */
 export type EquipmentRange = {
   name: string;
-  /** The figure that range is compared on, worded as a spec and not as a benefit. */
   spec: string;
   glyph: EquipmentGlyphName;
 };
 
-/**
- * The ranges we open with. Kept here rather than in `lib/` because nothing queries them: there
- * is no equipment catalogue to query yet, and these four lines are the whole of what is known.
- */
+/** The ranges we open with. No equipment catalogue to query yet, so they live here. */
 export const EQUIPMENT_RANGES: EquipmentRange[] = [
   { name: "Blood pressure monitors", spec: "Upper arm and wrist", glyph: "pressure" },
   { name: "Thermometers", spec: "Infrared and probe", glyph: "thermometer" },
