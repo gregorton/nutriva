@@ -19,7 +19,7 @@ import "server-only";
     read from the provider's own endpoint with the resulting token. Nothing the browser sends is
     used as identity — only what the provider says directly to us.
   - Accounts are linked on a *verified* email and nothing else. An unverified address would let
-    somebody register it at a provider and take over an existing Nutriva account.
+    somebody register it at a provider and take over an existing Slim Wellness Asia account.
 */
 
 export type ProviderId = "google" | "facebook";
@@ -100,7 +100,8 @@ const PROVIDERS: Record<ProviderId, Provider> = {
         email: data.email?.toLowerCase() ?? null,
         // Graph only returns an address once the person has confirmed it, and omits it entirely
         // otherwise — so an address arriving here is a confirmed one. Someone who signed up to
-        // Facebook by phone number has no email, and gets a Nutriva account without one.
+        // Facebook by phone number has no email, and gets a Slim Wellness Asia account
+        // without one.
         emailVerified: Boolean(data.email),
         displayName: data.name ?? null,
       };

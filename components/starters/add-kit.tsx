@@ -21,7 +21,7 @@ export function AddKit({ slugs, total }: { slugs: string[]; total: number }) {
       }}
       className="btn-cart h-11 w-full text-[14px]"
     >
-      Add all {slugs.length} — {price(total)}
+      Add all {slugs.length} · {price(total)}
     </button>
   );
 }

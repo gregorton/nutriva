@@ -131,7 +131,7 @@ export function BuyBox({ product }: { product: Product }) {
 
       <p className="facts mt-2.5 flex items-center gap-1.5 font-medium text-plum-700">
         <CheckIcon className="h-3.5 w-3.5" />
-        In stock — packed in Bangkok
+        In stock, packed in Bangkok
       </p>
 
       <ul className="mt-4 space-y-2.5 border-t border-line pt-4">

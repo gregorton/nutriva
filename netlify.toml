@@ -1,0 +1,25 @@
+# Netlify build for Slim Wellness Asia.
+#
+# The site is not a static export: /c/[slug], /search, /signin, /signup, /account/* and the
+# route handlers all render at request time, so the Next.js runtime has to be here. Netlify
+# installs the plugin below itself — it does not need to be a dependency in package.json.
+#
+# Environment variables go in Site configuration → Environment variables, not here. DATABASE_URL
+# is the only one the site needs; with it unset the storefront still builds and serves, and the
+# accounts, reviews and saved-item features switch themselves off (see lib/db.ts). GOOGLE_* and
+# FACEBOOK_* are optional, and a provider whose pair is blank shows no button.
+#
+# Set OAUTH_REDIRECT_ORIGIN to the deployed origin (e.g. https://slimwellnessasia.netlify.app)
+# and register <origin>/api/auth/google/callback and /api/auth/facebook/callback with each
+# provider, or the consent screen refuses the redirect.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # Next 16 needs 20.9+; 22 is Netlify's current LTS image default.
+  NODE_VERSION = "22"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

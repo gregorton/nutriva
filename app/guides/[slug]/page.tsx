@@ -64,7 +64,7 @@ export default async function GuidePage({ params }: PageProps<"/guides/[slug]">)
             <span className="h-3 w-px bg-line-strong" aria-hidden />
             <span data-num>{guide.minutes} min read</span>
             <span className="h-3 w-px bg-line-strong" aria-hidden />
-            <span>Nutriva pharmacy desk</span>
+            <span>Label reading</span>
           </p>
           <h1 className="mt-2.5 text-[30px] leading-[1.08] sm:text-[38px]">{guide.title}</h1>
           <p className="mt-3.5 text-[16px] leading-relaxed text-muted sm:text-[17px]">{guide.dek}</p>
@@ -128,10 +128,10 @@ export default async function GuidePage({ params }: PageProps<"/guides/[slug]">)
             ))}
 
             <p className="mt-8 border-t border-line pt-4 text-[13px] leading-relaxed text-faint">
-              Educational only, and about labels rather than people: nothing here is a diagnosis or
-              a dose for you. Reference intakes quoted are population figures. If you take
-              medication, are pregnant or breastfeeding, or are asking because of a symptom, ask a
-              pharmacist or a doctor first.
+              This is about labels, not about you: nothing here is a diagnosis or a dose.
+              Reference intakes quoted are population figures. If you take medication, are
+              pregnant or breastfeeding, or are asking because of a symptom, ask a pharmacist or a
+              doctor first.
             </p>
           </div>
 
@@ -176,7 +176,7 @@ export default async function GuidePage({ params }: PageProps<"/guides/[slug]">)
           <SectionHeader
             kicker={
               guide.shelf
-                ? `Ranked by units sold — ${shelf?.name.toLowerCase() ?? "this shelf"}`
+                ? `Ranked by units sold in ${shelf?.name.toLowerCase() ?? "this shelf"}`
                 : "Ranked by units sold in the last 30 days"
             }
             title={guide.shelf?.label ?? "Best sellers"}
@@ -190,7 +190,7 @@ export default async function GuidePage({ params }: PageProps<"/guides/[slug]">)
 
       {more.length > 0 && (
         <section className="mt-14">
-          <SectionHeader kicker="Same desk, other labels" title="More guides" href="/guides" linkLabel="All guides" />
+          <SectionHeader kicker="Other labels, other numbers" title="More guides" href="/guides" linkLabel="All guides" />
           <ul className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {more.map((other) => (
               <li key={other.slug}>

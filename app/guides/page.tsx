@@ -6,7 +6,7 @@ import { GuideCard, GuideFeature } from "@/components/guides/guide-card";
 export const metadata: Metadata = {
   title: "Guides",
   description:
-    "How to read a supplement label: dosage forms, certificates of analysis, EPA and DHA arithmetic, and what reference intakes actually say.",
+    "How to read a supplement label: dosage forms, certificates of analysis, EPA and DHA arithmetic, and what reference intakes say.",
 };
 
 /*
@@ -25,14 +25,13 @@ export default function GuidesPage() {
       <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Guides" }]} />
 
       <header className="mt-3 border-b border-line pb-6">
-        <p className="kicker text-plum-700">Written by our pharmacy desk</p>
+        <p className="kicker text-plum-700">How to read a label</p>
         <h1 className="mt-2 max-w-3xl text-[28px] sm:text-[34px]">
           Read the label before you read the marketing
         </h1>
         <p className="mt-3 max-w-2xl text-[15px] leading-relaxed text-muted">
-          Short guides to the numbers on the back of a bottle — elemental weight, CFU claims, EPA
-          and DHA content, what a certificate of analysis has to show — so the comparison you make
-          in a shop is the one that matters.
+          Short guides to the numbers on the back of a bottle: elemental weight, CFU claims, EPA
+          and DHA content, and which lines on a certificate of analysis are worth finding.
         </p>
       </header>
 
@@ -69,10 +68,11 @@ export default function GuidesPage() {
           Everything here is about reading a label: unit conversions, elemental versus compound
           weight, what a CFU figure counts, which lines on a certificate of analysis are worth
           finding. Where a guide quotes a reference intake it says so and gives the figure as a
-          population reference, not a dose for you. Nothing here diagnoses anything, and Nutriva
-          does not run a laboratory — the certification marks on our product pages are read off
-          the manufacturer&apos;s label and nothing further is implied. For anything specific to
-          you, including medication interactions and pregnancy, ask a pharmacist or a doctor.
+          population reference, not a dose for you. Nothing here diagnoses anything, and Slim
+          Wellness Asia does not run a laboratory: the certification marks on our product pages
+          are read off the manufacturer&apos;s label and imply nothing beyond it. For anything
+          specific to you, including medication interactions and pregnancy, ask a pharmacist or
+          a doctor.
         </p>
       </section>
     </div>

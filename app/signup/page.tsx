@@ -5,7 +5,7 @@ import { AuthFlow } from "@/components/account/auth-flow";
 
 export const metadata: Metadata = {
   title: "Create an account",
-  description: "Create a Nutriva account to write reviews and save products.",
+  description: "Create a Slim Wellness Asia account to write reviews and save products.",
 };
 
 function localPath(value: string | string[] | undefined): string {

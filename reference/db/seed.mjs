@@ -34,12 +34,12 @@ const targets = catalog.items
   .slice(0, 4)
   .map((item) => item.slug);
 
-const PASSWORD = "nutriva123";
+const PASSWORD = "slimwellness123";
 
 const PEOPLE = [
-  { email: "demo@nutriva.test", displayName: "Ploy S." },
-  { email: "kritsada@nutriva.test", displayName: "Kritsada W." },
-  { email: "mint@nutriva.test", displayName: "Mint T." },
+  { email: "demo@slimwellness.test", displayName: "Ploy S." },
+  { email: "kritsada@slimwellness.test", displayName: "Kritsada W." },
+  { email: "mint@slimwellness.test", displayName: "Mint T." },
 ];
 
 const REVIEWS = [

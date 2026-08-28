@@ -6,7 +6,7 @@ import { Countdown } from "@/components/home/countdown";
 
 export const metadata: Metadata = {
   title: "Deals",
-  description: "Today's markdowns across the Nutriva catalogue. Resets at midnight ICT.",
+  description: "Today's markdowns across the Slim Wellness Asia catalogue. Resets at midnight ICT.",
 };
 
 export default function DealsPage() {

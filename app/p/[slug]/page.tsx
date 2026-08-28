@@ -159,7 +159,7 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
         <SectionHeader
           kicker={
             reviews.summary.count > 0
-              ? `${reviews.summary.count} written on Nutriva`
+              ? `${reviews.summary.count} written on Slim Wellness Asia`
               : "Written by people with an account here"
           }
           title="Reviews"

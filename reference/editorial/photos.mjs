@@ -22,7 +22,7 @@ import { mkdirSync, writeFileSync, existsSync, readFileSync } from 'node:fs';
 import sharp from 'sharp'; // Next's own image dependency, already installed
 
 const API = 'https://api.openverse.org/v1/images/';
-const UA = 'Nutriva-dev/1.0 (editorial image harvest; contact: dev@nutriva.example)';
+const UA = 'SlimWellnessAsia-dev/1.0 (editorial image harvest; contact: dev@slimwellness.example)';
 const OUT_DIR = 'public/editorial';
 const OUT_JSON = 'lib/editorial.generated.json';
 const FORCE = process.argv.includes('--force');

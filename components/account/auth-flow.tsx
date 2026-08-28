@@ -99,7 +99,7 @@ function EmailScreen({
       <BackLink href="/">Cancel</BackLink>
       <Heading>Sign in or create an account</Heading>
       <p className="mt-1.5 text-center text-sm text-muted">
-        Choose your preferred method below to get started.
+        Enter your email address, or use a provider.
       </p>
 
       {notice && <Notice>{notice}</Notice>}

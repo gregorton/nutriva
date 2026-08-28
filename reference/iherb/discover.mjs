@@ -19,7 +19,7 @@ const OUT = `${HERE}/urls.json`;
 const PAGES = 2; // listing pages per query; page 1 alone is ~48 cards
 const PER_PAGE = 26;
 
-// One or more queries per Nutriva category. The query decides the category, so bucketing is
+// One or more queries per storefront category. The query decides the category, so bucketing is
 // deliberate rather than guessed from a product name.
 const CATEGORY_QUERIES = {
   vitamins: ['vitamin d3 k2', 'multivitamin', 'vitamin b complex', 'vitamin c 1000 mg'],

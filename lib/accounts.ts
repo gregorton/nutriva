@@ -225,7 +225,7 @@ export async function linkOrCreateAccount(
 function displayNameFor(given: string | null, email: string | null): string {
   const candidate = given?.trim() || email?.split("@")[0]?.trim() || "";
   if (candidate.length >= 2) return candidate.slice(0, 40);
-  return "Nutriva shopper";
+  return "Slim Wellness Asia shopper";
 }
 
 /** Which providers an account has linked, for a future settings page. */

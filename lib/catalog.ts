@@ -110,61 +110,61 @@ export const CATEGORIES: Category[] = [
   {
     slug: "vitamins",
     name: "Vitamins",
-    blurb: "Single vitamins and daily multis, dosed for adults.",
+    blurb: "Vitamin D3, much of it paired with K2, plus B vitamins, C and folate.",
     chips: ["Vitamin D", "Vitamin C", "B-complex", "Multivitamins", "Vitamin K2", "Folate"],
   },
   {
     slug: "minerals",
     name: "Minerals",
-    blurb: "Magnesium, zinc, iron and trace minerals in absorbable forms.",
+    blurb: "Mostly magnesium, in chelated and glycinate forms.",
     chips: ["Magnesium", "Zinc", "Iron", "Calcium", "Selenium", "Trace minerals"],
   },
   {
     slug: "omega",
     name: "Omega & fish oil",
-    blurb: "EPA and DHA from fish, krill and algae, tested for oxidation.",
+    blurb: "EPA and DHA from fish oil, in softgels.",
     chips: ["Fish oil", "Krill oil", "Algae omega", "Cod liver", "High EPA", "High DHA"],
   },
   {
     slug: "gut",
     name: "Gut & digestion",
-    blurb: "Live cultures, fibre and enzymes for everyday digestion.",
+    blurb: "Live cultures, counted in CFU per capsule.",
     chips: ["Probiotics", "Prebiotic fibre", "Enzymes", "Shelf-stable", "50B+ CFU", "Kids"],
   },
   {
     slug: "sleep",
     name: "Sleep & stress",
-    blurb: "Wind-down formulas, adaptogens and magnesium for rest.",
+    blurb: "Melatonin, and a few wind-down formulas without it.",
     chips: ["Melatonin", "Magnesium", "Ashwagandha", "L-theanine", "Valerian", "Non-habit"],
   },
   {
     slug: "immunity",
     name: "Immunity",
-    blurb: "Daily immune support and short-course formulas.",
+    blurb: "Vitamin C and zinc, in capsules and gummies.",
     chips: ["Vitamin C", "Zinc", "Elderberry", "Quercetin", "Mushrooms", "Echinacea"],
   },
   {
     slug: "herbs",
     name: "Herbs",
-    blurb: "Standardised botanical extracts with stated actives.",
+    blurb: "Turmeric and curcumin extracts, with the actives stated.",
     chips: ["Turmeric", "Ginseng", "Ginkgo", "Milk thistle", "Berberine", "Ashwagandha"],
   },
   {
     slug: "sports",
     name: "Sport & protein",
-    blurb: "Protein, creatine and electrolytes for training days.",
+    blurb: "Whey protein powders, concentrate and isolate.",
     chips: ["Whey protein", "Plant protein", "Creatine", "Electrolytes", "Amino acids", "Recovery"],
   },
   {
     slug: "beauty",
     name: "Skin, hair & nails",
-    blurb: "Collagen, biotin and topicals for skin and hair.",
+    blurb: "Hydrolysed collagen peptides, mostly unflavoured.",
     chips: ["Collagen", "Biotin", "Hyaluronic acid", "Vitamin C serum", "Hair", "Nails"],
   },
   {
     slug: "kids",
     name: "Kids & family",
-    blurb: "Gummies, drops and chewables sized for children.",
+    blurb: "Multivitamin gummies sized for children.",
     chips: ["Kids multi", "Kids omega", "Kids probiotic", "Gummies", "Drops", "Prenatal"],
   },
 ];
@@ -176,12 +176,12 @@ export const CATEGORY_BY_SLUG = new Map(CATEGORIES.map((c) => [c.slug, c]));
  * not a taxonomy node, so these sit alongside the category nav rather than under it.
  */
 export const GOALS: { slug: string; label: string; category: CategorySlug; note: string }[] = [
-  { slug: "sleep-better", label: "Sleep better", category: "sleep", note: "Magnesium, melatonin, adaptogens" },
-  { slug: "everyday-immunity", label: "Everyday immunity", category: "immunity", note: "Vitamin C, zinc, elderberry" },
-  { slug: "train-recover", label: "Train & recover", category: "sports", note: "Protein, creatine, electrolytes" },
-  { slug: "gut-reset", label: "Gut reset", category: "gut", note: "Live cultures and fibre" },
-  { slug: "skin-hair", label: "Skin & hair", category: "beauty", note: "Collagen, biotin, vitamin C" },
-  { slug: "energy-focus", label: "Energy & focus", category: "vitamins", note: "B-complex, iron, D3" },
+  { slug: "sleep-better", label: "Sleep better", category: "sleep", note: "Melatonin, and formulas without it" },
+  { slug: "everyday-immunity", label: "Everyday immunity", category: "immunity", note: "Vitamin C and zinc" },
+  { slug: "train-recover", label: "Train & recover", category: "sports", note: "Whey protein powders" },
+  { slug: "gut-reset", label: "Gut reset", category: "gut", note: "Live cultures" },
+  { slug: "skin-hair", label: "Skin & hair", category: "beauty", note: "Collagen peptides and biotin" },
+  { slug: "energy-focus", label: "Energy & focus", category: "vitamins", note: "B vitamins and vitamin D3" },
 ];
 
 /** Stable hash, for the one ordering the data cannot supply (see `newArrivals`). */

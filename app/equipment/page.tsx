@@ -6,7 +6,7 @@ import { EQUIPMENT_RANGES, EquipmentGlyph } from "@/components/home/equipment-gl
 
 export const metadata: Metadata = {
   title: "Medical equipment",
-  description: "Home monitoring and respiratory equipment — opening soon at Nutriva.",
+  description: "Home monitoring and respiratory equipment, opening soon at Slim Wellness Asia.",
 };
 
 /* Where the hero's medical-equipment slide lands. No catalogue behind it yet. */

@@ -30,7 +30,7 @@ export function SaveButton({
   const router = useRouter();
 
   const isSaved = saved.includes(slug);
-  const label = isSaved ? "Saved — remove from your list" : "Save for later";
+  const label = isSaved ? "Saved, press to remove from your list" : "Save for later";
 
   function toggle() {
     // Optimistic: the heart fills on press, and reverts if the server disagrees.

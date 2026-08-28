@@ -9,10 +9,10 @@ import { SectionHeader } from "@/components/ui/section-header";
 
 export const metadata: Metadata = {
   title: "Starter kits",
-  description: "Recommended starter kits — best-selling picks for a first shelf, at their regular prices.",
+  description: "Best-selling picks for a first shelf, at their usual prices.",
 };
 
-/* Starter-kit shelf — curated kits at regular prices. */
+/* Starter-kit shelf: kits at regular prices. */
 export default function StartersPage() {
   const singles = startersUnder(500, 30, 10);
   const guides = GUIDES.filter((g) => KITS.some((k) => k.guides.includes(g.slug))).slice(0, 3);

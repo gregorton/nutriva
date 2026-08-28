@@ -2,14 +2,20 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "nutriva",
+      "name": "slim-wellness-asia",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
       "port": 3000,
       "autoPort": true
     },
     {
-      "name": "nutriva-attach",
+      "name": "slim-wellness-asia-prod",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["next", "start", "-p", "3100"],
+      "port": 3100
+    },
+    {
+      "name": "slim-wellness-asia-attach",
       "url": "http://localhost:3000",
       "port": 3000
     }

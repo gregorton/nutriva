@@ -37,12 +37,11 @@ export function ReviewSummary({
       </div>
 
       <div className="sm:border-l sm:border-line sm:pl-10">
-        <p className="kicker mb-2 text-muted">Reviews on Nutriva</p>
+        <p className="kicker mb-2 text-muted">Reviews on Slim Wellness Asia</p>
 
         {customers.count === 0 || customers.average === null ? (
           <p className="max-w-[44ch] text-sm text-muted">
-            Nobody has reviewed this here yet. The first review is the most useful one — the form
-            is below.
+            Nobody has reviewed this here yet. The form is below.
           </p>
         ) : (
           <>

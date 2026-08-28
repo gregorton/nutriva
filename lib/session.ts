@@ -15,7 +15,7 @@ import { query, queryOne } from "@/lib/db";
   32 bytes of entropy, so there is nothing to brute-force, and this runs on every request.
 */
 
-export const SESSION_COOKIE = "nutriva.session";
+export const SESSION_COOKIE = "swa.session";
 const SESSION_DAYS = 30;
 
 function hashToken(token: string): Buffer {

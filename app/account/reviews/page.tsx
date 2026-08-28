@@ -26,7 +26,7 @@ export default async function MyReviewsPage() {
       <div className="rounded-tile border border-line bg-paper px-6 py-14 text-center">
         <p className="text-[17px] font-medium text-ink">No reviews yet</p>
         <p className="mx-auto mt-2 max-w-[44ch] text-sm text-muted">
-          Start leaving reviews!
+          The form sits at the foot of any product page.
         </p>
       </div>
     );

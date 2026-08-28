@@ -2,7 +2,7 @@ import Link from "next/link";
 import { SearchIcon } from "@/components/ui/icons";
 import { AccountButton } from "@/components/account/account-button";
 import { CartButton } from "@/components/cart/cart-button";
-import { Wordmark } from "@/components/chrome/wordmark";
+import { Logo } from "@/components/chrome/logo";
 import { products } from "@/lib/catalog";
 
 /**
@@ -18,8 +18,11 @@ export function SiteHeader() {
   return (
     <header className="border-b border-line bg-white">
       <div className="shell flex h-[72px] items-center gap-4 transition-[height] duration-200 group-data-[stuck=true]/chrome:h-[58px] sm:gap-8">
-        <Link href="/" className="shrink-0" aria-label="Nutriva home">
-          <Wordmark />
+        {/* The lockup is stacked, so it takes most of the masthead's height to keep
+            "WELLNESS ASIA" legible: 7px of clearance in both states, which is as much as the
+            72px row and its 58px condensed form will give it. */}
+        <Link href="/" className="shrink-0" aria-label="Slim Wellness Asia home">
+          <Logo className="h-[58px] transition-[height] duration-200 group-data-[stuck=true]/chrome:h-[44px]" />
         </Link>
 
         <form action="/search" className="relative hidden max-w-2xl flex-1 sm:block" role="search">
@@ -30,7 +33,7 @@ export function SiteHeader() {
             id="site-search"
             name="q"
             type="search"
-            placeholder={`Search ${products.length} products — magnesium, whey, vitamin D…`}
+            placeholder={`Search ${products.length} products: magnesium, whey, vitamin D…`}
             autoComplete="off"
             className="h-11 w-full rounded-card border border-line-strong bg-paper pl-4 pr-12 text-[15px] text-ink placeholder:text-faint focus:border-plum-600 focus:bg-white focus:outline-none"
           />

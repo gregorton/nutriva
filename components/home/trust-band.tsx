@@ -13,22 +13,22 @@ const CARDS = [
   {
     icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Laboratory.svg",
     alt: "",
-    text: "The use of ingredients that have been studied in scientific literature",
+    text: "Ingredients that have been studied in the scientific literature",
   },
   {
     icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Authentic.svg",
     alt: "",
-    text: "Manufacturing practices aligned with industry standards such as cGMP",
+    text: "Manufacturing that follows industry standards such as cGMP",
   },
   {
     icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Accurate%20Label.svg",
     alt: "",
-    text: "Detailed labeling and ingredient sourcing information",
+    text: "Labels that state where the ingredients came from",
   },
   {
     icon: "https://s3.images-iherb.com/cms/images/SpecialtyStore/Experts.svg",
     alt: "",
-    text: "Engagement with healthcare and wellness communities",
+    text: "Brands that work with healthcare practitioners",
   },
 ] as const;
 
@@ -61,8 +61,8 @@ export function TrustBand() {
               </div>
             </div>
             <p className="max-w-[840px] text-[16px] font-normal leading-6 text-white">
-              Our Professional Brands category features a curated selection of supplement brands known for their
-              focus on quality, research, and product transparency. These brands typically emphasize:
+              The professional shelf holds brands that sell mainly through clinics and
+              practitioners. What they tend to have in common:
             </p>
           </div>
 

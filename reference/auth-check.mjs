@@ -36,9 +36,9 @@ const target = catalog.items.find((item) => item.inStock);
 const PDP = `${BASE}/p/${target.slug}`;
 
 const stamp = Date.now();
-const EMAIL = `check-${stamp}@nutriva.test`;
+const EMAIL = `check-${stamp}@slimwellness.test`;
 const NAME = `Checker ${stamp}`;
-const PASSWORD = 'nutriva123';
+const PASSWORD = 'slimwellness123';
 const HEADLINE = `Automated check ${stamp}`;
 const BODY = 'Written by reference/auth-check.mjs to prove the review round trip works end to end.';
 
@@ -294,8 +294,8 @@ if (buttons === 0) {
 
   const start = await hop('/api/auth/google?next=%2Faccount%2Fsaved');
   const authorize = new URL(start.location.startsWith('http') ? start.location : `${BASE}${start.location}`);
-  const jar = start.cookies.find((v) => v.startsWith('nutriva.oauth='))?.split(';')[0] ?? '';
-  const stash = JSON.parse(decodeURIComponent(jar.slice('nutriva.oauth='.length)));
+  const jar = start.cookies.find((v) => v.startsWith('swa.oauth='))?.split(';')[0] ?? '';
+  const stash = JSON.parse(decodeURIComponent(jar.slice('swa.oauth='.length)));
 
   check('the flow starts at the provider', authorize.host, 'accounts.google.com');
   check('asking for a code', authorize.searchParams.get('response_type'), 'code');
@@ -304,7 +304,7 @@ if (buttons === 0) {
   check('and a PKCE challenge', authorize.searchParams.get('code_challenge_method'), 'S256');
   checkThat(
     'the verifier stays in an httpOnly cookie',
-    start.cookies.some((v) => v.startsWith('nutriva.oauth=') && /HttpOnly/i.test(v)),
+    start.cookies.some((v) => v.startsWith('swa.oauth=') && /HttpOnly/i.test(v)),
   );
   checkThat(
     'and never goes to the provider',
@@ -313,10 +313,10 @@ if (buttons === 0) {
 
   // ?next= decides where somebody lands while signed in, so it cannot be an absolute URL.
   const offsite = await hop('/api/auth/google?next=https%3A%2F%2Fevil.example%2Fx');
-  const offsiteJar = offsite.cookies.find((v) => v.startsWith('nutriva.oauth='))?.split(';')[0] ?? '';
+  const offsiteJar = offsite.cookies.find((v) => v.startsWith('swa.oauth='))?.split(';')[0] ?? '';
   check(
     'an off-site next is discarded',
-    JSON.parse(decodeURIComponent(offsiteJar.slice('nutriva.oauth='.length))).next,
+    JSON.parse(decodeURIComponent(offsiteJar.slice('swa.oauth='.length))).next,
     '/account',
   );
   check('a local one is kept', stash.next, '/account/saved');
@@ -347,7 +347,7 @@ await browser.close();
 const { rowCount } = await db.query('delete from users where email = $1', [EMAIL]);
 check('the throwaway account was removed', rowCount, 1);
 // Anything an interrupted earlier run left behind, so the next one starts clean.
-const stale = await db.query("delete from users where email like 'check-%@nutriva.test'");
+const stale = await db.query("delete from users where email like 'check-%@slimwellness.test'");
 if (stale.rowCount > 0) console.log(`(also removed ${stale.rowCount} account(s) from an interrupted run)`);
 await db.end();
 

@@ -76,7 +76,7 @@ export function checkReview(form: FormData): Checked<ReviewDraft, keyof ReviewDr
 
   if (!Number.isInteger(rating) || rating < 1 || rating > 5) errors.rating = "Choose a rating from 1 to 5 stars.";
   if (title.length > 80) errors.title = "Keep the headline under 80 characters.";
-  if (body.length < 10) errors.body = "Tell us a little more — at least 10 characters.";
+  if (body.length < 10) errors.body = "Write at least 10 characters.";
   else if (body.length > 2000) errors.body = "Keep the review under 2,000 characters.";
 
   return Object.keys(errors).length

@@ -13,8 +13,8 @@ alter table users alter column password_hash drop not null;
 alter table users alter column email drop not null;
 
 -- One row per (provider, account-at-that-provider). The primary key is what makes a repeat
--- sign-in a lookup rather than a new account, and `on delete cascade` means deleting a Nutriva
--- account takes its provider links with it.
+-- sign-in a lookup rather than a new account, and `on delete cascade` means deleting a Slim
+-- Wellness Asia account takes its provider links with it.
 create table if not exists identities (
   provider         text        not null,
   provider_user_id text        not null,

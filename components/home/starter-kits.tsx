@@ -3,18 +3,14 @@ import { KITS } from "@/lib/starters";
 import { ProductCard } from "@/components/product/product-card";
 import { Rail } from "@/components/ui/rail";
 import { ArrowIcon } from "@/components/ui/icons";
-import { FlashCountdown } from "@/components/home/flash-countdown";
 
 /**
- * Starter kits — now a flash-deals style band.
+ * Starter kits — peach band with title + subtitle on the left,
+ * "View all" on the right, and the ProductCard swiper for the
+ * products that are inside the kits.
  *
- * Looks exactly like the reference Daily Flash Deals rail: peach container,
- * title + per-digit red timer + subtitle on the left, "View all" with a
- * white circle arrow on the right, and the normal ProductCard swiper for
- * the products that are inside the kits.
- *
- * No bundle-math copy, no "Two or three bottles..." jargon, no promise
- * paragraphs — the value is the product itself at its regular price.
+ * No timer, no bundle-math copy, no "Two or three bottles..."
+ * jargon — the value is the product itself at its regular price.
  */
 export function StarterKits() {
   if (KITS.length === 0) return null;
@@ -34,17 +30,14 @@ export function StarterKits() {
   return (
     <section className="shell mt-14">
       <div className="rounded-[12px] bg-[#FFE8CC] px-3 py-4 sm:px-5 sm:py-6">
-        {/* Header: mirrors the reference image — title + red timer left, View all right, subtitle below */}
+        {/* Header: title + subtitle left, View all right */}
         <div className="flex flex-wrap items-start justify-between gap-3">
           <div className="min-w-0">
-            <div className="flex flex-wrap items-center gap-2.5">
-              <h2 className="text-[18px] font-extrabold leading-none tracking-tight text-[#1a1a1a] sm:text-[20px]">
-                Starter kits
-              </h2>
-              <FlashCountdown />
-            </div>
+            <h2 className="text-[18px] font-extrabold leading-none tracking-tight text-[#1a1a1a] sm:text-[20px]">
+              Starter kits
+            </h2>
             <p className="mt-1.5 text-[12.5px] leading-snug text-[#6b5a4f]">
-              Best sellers for a first shelf — check back for what&apos;s in stock.
+              Best sellers for a first shelf, at their usual prices.
             </p>
           </div>
 

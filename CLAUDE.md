@@ -6,9 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-**Nutriva** — a supplement storefront for the Thai market: English UI copy, ฿ THB pricing, delivery
-from Bangkok. The catalogue is real product data harvested from `th.iherb.com` (see Catalogue data);
-branding, page structure, design system and components are ours.
+**Slim Wellness Asia** — a supplement storefront for the Thai market: English UI copy, ฿ THB pricing,
+delivery from Bangkok. The catalogue is real product data harvested from `th.iherb.com` (see Catalogue
+data); page structure, design system and components are ours. The name and logo are the client's.
 
 Structure and navigation take after `th.iherb.com` — dense catalogue grids, utility strip, category
 nav, deal rail, trust band. The visual identity deliberately does not: see Design system.
@@ -79,7 +79,7 @@ the static catalogue module, and PostgreSQL for what visitors write.
 ## Design system
 
 Tokens live in `app/globals.css` under `@theme`. The palette inverts the category convention on
-purpose — the reference site uses green chrome with an orange button, so a green-chrome Nutriva would
+purpose — the reference site uses green chrome with an orange button, so green chrome here would
 read as a clone.
 
 | Role | Token | Value |
@@ -99,6 +99,24 @@ One face, every job: **Inter**, loaded variable in `app/layout.tsx` and pointed 
 from a spec row; `font-variant-numeric: tabular-nums` keeps figures aligned in grid columns. The
 `font-display` utility is kept so headings can be retargeted in one place if a second face is ever
 added. Inter carries no Thai, so localisation will need one added alongside it.
+
+**The logo is the client's artwork, so it is placed rather than drawn** —
+`components/chrome/logo.tsx` sets one `Image`, used in the masthead and the footer's first column.
+Every shipped asset derives from `public/logos/slim-wellness-asia-square.png` via
+`reference/brand/icons.mjs`: a tight-cropped transparent lockup for the page, and `app/icon.png` /
+`app/apple-icon.png` on white, because thin gold strokes on transparency vanish against a dark
+browser tab. Replacing the logo is a file drop plus a rerun.
+
+```bash
+node reference/brand/icons.mjs   # re-derive the lockup and icons from the square source
+```
+
+Two things follow from the lockup being stacked rather than a line of type. It is sized by height
+alone (`h-[58px]`, condensing to `h-[44px]` with the chrome — 7px of clearance in both states) and
+never by width: the intrinsic 185:146 in `logo.tsx` is what keeps the script from stretching. And it
+takes most of the masthead's height, because "WELLNESS ASIA" is the smallest thing in it. The 250px
+source is a raster off a web search: fine at these sizes, short of what a print asset or a 2× retina
+banner would want, so ask the client for the vector before scaling it up.
 
 Custom utilities: `shell` (page container), `facts` (12px tabular data type), `kicker` (uppercase
 eyebrow), `btn-cart` (the gradient add-to-cart, every placement), `banner-plum` / `banner-clinic` (the
@@ -309,7 +327,7 @@ is involved; the buttons are links and the rest is redirects.
   tries the `identities` row first, then a *verified* address matching an existing account, then
   creates one. An unverified address that matches an existing account is refused outright: linking
   it would let somebody register your address at a provider that does not check it and walk into
-  your account. A Facebook account with no email at all gets a Nutriva account with none —
+  your account. A Facebook account with no email at all gets an account here with none —
   `users.email` and `users.password_hash` are both nullable now, and `authenticate()` refuses a row
   without a password rather than saying it has none.
 - The cookie is `SameSite=Lax`, not Strict, because the provider returns people with a top-level GET
@@ -421,9 +439,9 @@ the label under a headline cannot drift from the article.
 The copy rules are the catalogue's rules applied to prose: reference intakes are quoted as population
 figures and named as such, label arithmetic (IU↔mcg, elemental versus compound weight, EPA+DHA per
 softgel) is checkable against the bottle in your hand, and no sentence needs a study the site cannot
-show you. Every article closes on the same disclaimer and the COA guide states plainly that Nutriva
-runs no laboratory. Note that the footer and utility strip still carry older "we publish the
-certificate of analysis for every lot" copy, which contradicts that — worth reconciling.
+show you. Every article closes on the same disclaimer and the COA guide states plainly that Slim
+Wellness Asia runs no laboratory. Note that the footer and utility strip still carry older "we publish
+the certificate of analysis for every lot" copy, which contradicts that — worth reconciling.
 
 Photography is harvested, not ours. `reference/editorial/photos.mjs` pulls one CC0 / public-domain /
 CC BY photo per guide from Openverse, downscales it to 2000px through Next's own `sharp`, and writes

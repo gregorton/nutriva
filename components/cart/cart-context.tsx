@@ -18,7 +18,7 @@ type CartState = {
 };
 
 const CartContext = createContext<CartState | null>(null);
-const STORAGE_KEY = "nutriva.cart.v1";
+const STORAGE_KEY = "swa.cart.v1";
 
 /*
   The cart lives in localStorage, which is external mutable state, so it is read through

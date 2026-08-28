@@ -9,6 +9,7 @@ import { CategoryNav } from "@/components/chrome/category-nav";
 import { StickyChrome } from "@/components/chrome/sticky-chrome";
 import { SiteFooter } from "@/components/chrome/site-footer";
 import { CartDrawer } from "@/components/cart/cart-drawer";
+import { CONTACT_JSON_LD } from "@/lib/contact";
 
 // One face for the whole site: headings, body, UI and data. Size, weight and tracking do the
 // separating, which is what the `font-display` utility and the `facts` type still hang off.
@@ -20,16 +21,22 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Nutriva — Supplements, tested and traceable",
-    template: "%s · Nutriva",
+    default: "Slim Wellness Asia · Supplements, shipped from Bangkok",
+    template: "%s · Slim Wellness Asia",
   },
   description:
-    "Vitamins, minerals and daily supplements with third-party test results on every label. Free delivery in Thailand over ฿1,200.",
+    "Vitamins, minerals and daily supplements, with the label read out in full on every product page. Free delivery in Thailand over ฿1,200.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" className={`${inter.variable} h-full antialiased`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(CONTACT_JSON_LD) }}
+        />
+      </head>
       <body className="flex min-h-full flex-col bg-white">
         <CartProvider>
           <SessionSync />

@@ -23,7 +23,7 @@ export default async function AccountPage() {
         icon={<HeartIcon className="h-5 w-5 text-plum-700" filled={saved.length > 0} />}
         label="Saved items"
         value={saved.length}
-        empty="Nothing saved yet — the heart on any product card adds it here."
+        empty="Nothing saved yet. The heart on any product card adds it here."
       />
       <SummaryTile
         href="/account/reviews"

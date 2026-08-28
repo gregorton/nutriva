@@ -12,7 +12,7 @@ import { authorizeUrl, getProvider, isConfigured, redirectUri } from "@/lib/oaut
   that a stale one is worthless.
 */
 
-export const OAUTH_COOKIE = "nutriva.oauth";
+export const OAUTH_COOKIE = "swa.oauth";
 
 function base64url(input: Buffer): string {
   return input.toString("base64url");

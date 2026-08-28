@@ -18,7 +18,7 @@ import { Pool, type PoolClient, type QueryResultRow } from "pg";
   this file or its callers that interpolates a value into SQL text.
 */
 
-const globalForDb = globalThis as unknown as { nutrivaPool?: Pool; nutrivaWarned?: boolean };
+const globalForDb = globalThis as unknown as { swaPool?: Pool; swaWarned?: boolean };
 
 /**
  * Whether a database is configured at all.
@@ -29,8 +29,8 @@ const globalForDb = globalThis as unknown as { nutrivaPool?: Pool; nutrivaWarned
  */
 export function isConfigured(): boolean {
   if (process.env.DATABASE_URL) return true;
-  if (!globalForDb.nutrivaWarned) {
-    globalForDb.nutrivaWarned = true;
+  if (!globalForDb.swaWarned) {
+    globalForDb.swaWarned = true;
     console.warn(
       "DATABASE_URL is not set — accounts, reviews and saved items are switched off. " +
         "Copy .env.example to .env.local to turn them on.",
@@ -60,7 +60,7 @@ function createPool(): Pool {
 }
 
 export function pool(): Pool {
-  return (globalForDb.nutrivaPool ??= createPool());
+  return (globalForDb.swaPool ??= createPool());
 }
 
 /** One statement, parameterised. Returns the rows only — callers never need the result metadata. */

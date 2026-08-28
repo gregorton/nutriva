@@ -72,8 +72,7 @@ export function CreateStep({ email, next }: { email: string; next: string }) {
       <input type="hidden" name="next" value={next} />
 
       <p className="text-[15px] text-ink">
-        We didn’t find an account with that email address. Create a password to create a new
-        account.
+        There is no account with that email address yet. Pick a password and we will make one.
       </p>
 
       {(failed?.message ?? failed?.errors?.email) && (

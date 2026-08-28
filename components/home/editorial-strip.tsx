@@ -17,7 +17,7 @@ export function EditorialStrip() {
   return (
     <section className="shell mt-14">
       <SectionHeader
-        kicker={`Written by our pharmacy desk · ${GUIDES.length} guides`}
+        kicker={`How to read a label · ${GUIDES.length} guides`}
         title="Before you buy"
         href="/guides"
         linkLabel="All guides"

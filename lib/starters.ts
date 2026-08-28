@@ -85,7 +85,7 @@ const SPECS: KitSpec[] = [
     eyebrow: "Three bottles",
     title: "The ones most people are short of",
     promise:
-      "Vitamin D, omega-3 and a starter probiotic. The least interesting kit here and the one worth buying first.",
+      "Vitamin D, omega-3 and a starter probiotic. The least interesting kit here, and the one worth buying first.",
     roles: [
       { label: "Vitamin D3", match: /vitamin d3|vitamin d-3/i, maxPrice: 400 },
       { label: "Omega-3", match: /omega-3|fish oil/i, maxPrice: 500 },
@@ -98,7 +98,7 @@ const SPECS: KitSpec[] = [
     eyebrow: "Two bottles",
     title: "Wind-down, without the melatonin question",
     promise:
-      "Magnesium glycinate and L-theanine — the two most people start with. No melatonin in this kit on purpose; it is on the shelf, with the guide, if you have read up on it.",
+      "Magnesium glycinate and L-theanine, the two most people start with. There is no melatonin in this kit on purpose; it is on the shelf, with the guide, if you have read up on it.",
     roles: [
       { label: "Magnesium glycinate", match: /magnesium (bis)?glycinate/i, maxPrice: 650 },
       { label: "L-theanine", match: /theanine/i, maxPrice: 450 },
@@ -110,7 +110,7 @@ const SPECS: KitSpec[] = [
     eyebrow: "Three bottles",
     title: "Skin, hair and nails",
     promise:
-      "Collagen peptides, biotin and zinc, at the amounts their labels state. What they will do for you is between you and your dermatologist.",
+      "Collagen peptides, biotin and zinc, at the amounts their labels state. What they will do for you is a question for your dermatologist.",
     roles: [
       { label: "Collagen peptides", match: /collagen/i, maxPrice: 700, category: "beauty" },
       { label: "Biotin", match: /biotin/i, maxPrice: 450 },
@@ -123,7 +123,7 @@ const SPECS: KitSpec[] = [
     eyebrow: "Two items",
     title: "Training days",
     promise:
-      "Protein to close the daily total, omega-3 for the rest of the week. We hold no creatine and no electrolytes, so this kit does not pretend to.",
+      "Protein to close the daily total, omega-3 for the rest of the week. We hold no creatine and no electrolytes, so the kit does not include any.",
     roles: [
       { label: "Protein powder", match: /whey|protein powder|protein, /i, maxPrice: 1200 },
       { label: "Omega-3", match: /omega-3|fish oil/i, maxPrice: 500 },

@@ -42,7 +42,7 @@ export function ProductGallery({ product }: { product: Product }) {
           <ZoomShot
             key={src}
             src={src}
-            alt={i === 0 ? alt : `${alt} — view ${i + 1}`}
+            alt={i === 0 ? alt : `${alt}, view ${i + 1}`}
             index={i}
             priority={i === 0}
             switchable={shots.length > 1}
