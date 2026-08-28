@@ -192,18 +192,19 @@ function SupplementsSlide({
           {/* The shot is faded with a mask rather than covered with a tinted overlay: what shows
               through is the banner's own plum ramp, so there is no seam where the two meet and the
               part of the photograph that is visible keeps its own colour. */}
-          {/* Below md it takes the foot of the slide and the copy sits above it, because the
-              banner's height comes from the equipment slide and a single narrow column of copy
-              leaves most of it empty. */}
+          {/* `object-contain` rather than `cover`: the banner is far wider than the 3:2 shot, so
+              filling it would crop away most of the frame and leave her face enormous. Contained,
+              the whole photograph shows at its own proportions against the right-hand edge and the
+              plum simply continues where it stops. */}
           <div
-            className="pointer-events-none absolute inset-x-0 bottom-0 h-[52%] [mask-image:linear-gradient(to_bottom,transparent,black_42%)] md:hidden"
+            className="pointer-events-none absolute inset-x-0 bottom-0 aspect-[3/2] [mask-image:linear-gradient(to_bottom,transparent,black_44%)] md:hidden"
             aria-hidden
           >
-            <Image src={photo} alt="" fill priority sizes="100vw" className="object-cover object-[70%_30%]" />
+            <Image src={photo} alt="" fill priority sizes="100vw" className="object-cover" />
           </div>
           <div className="pointer-events-none absolute inset-0 hidden md:block" aria-hidden>
-            <div className="absolute inset-0 [mask-image:linear-gradient(96deg,transparent_20%,rgba(0,0,0,0.28)_38%,black_64%)]">
-              <Image src={photo} alt="" fill priority sizes="100vw" className="object-cover object-[76%_14%]" />
+            <div className="absolute inset-0 [mask-image:linear-gradient(96deg,transparent_53%,rgba(0,0,0,0.38)_63%,black_78%)]">
+              <Image src={photo} alt="" fill priority sizes="100vw" className="object-contain object-right" />
             </div>
           </div>
           {/* Enough weight at the foot for the slide switcher to stay legible over the shot. */}

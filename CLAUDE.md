@@ -339,17 +339,21 @@ Two slides in `components/home/hero-carousel.tsx` — the only client component 
 catalogue, and it checks that the hero photograph is on disk before passing its path down, so a
 missing asset cannot break the build.
 
-- **The supplements slide is photo-led and carries no products.** Copy over a full-bleed lifestyle
-  shot (`public/hero/vitamins-lifestyle.jpg`), and that is all. It used to show four best-seller
-  tiles beside the copy: they were the brightest thing in the banner, they repeated the product
-  grids immediately below it, and four arbitrary best sellers are not a reason to press anything.
-  The shot is a generated stock image, and it states hydration rather than the category — if the
-  banner ever has to carry the category on its own, the photograph is what needs replacing.
-- **The photograph is faded with `mask-image`, not covered with a tinted overlay.** What shows
-  through is the field's own `banner-plum` ramp, so there is no seam where the two meet and the
-  visible part of the shot keeps its own colour. A colour scrim over it turned the whites pink.
-  Below `md` the shot takes the foot of the slide with the copy above it, because the banner's
-  height comes from the equipment slide and one narrow column of copy leaves most of it empty.
+- **The supplements slide is photo-led and carries no products.** Copy on the plum, the whole
+  lifestyle shot (`public/hero/vitamins-lifestyle.jpg`) against the right-hand edge, and that is
+  all. It used to show four best-seller tiles beside the copy: they were the brightest thing in the
+  banner, they repeated the product grids immediately below it, and four arbitrary best sellers are
+  not a reason to press anything. The shot is a generated stock image, and it states hydration
+  rather than the category — if the banner ever has to carry the category on its own, the
+  photograph is what needs replacing.
+- **The photograph is contained, not covered, and faded with `mask-image` rather than covered with
+  a tinted overlay.** The banner is far wider than the 3:2 shot, so `object-cover` cropped away
+  most of the frame and left her face enormous; contained, it keeps its own proportions and the
+  plum continues where it stops. The mask matters for the same reason a colour scrim did not work:
+  what shows through is the field's own `banner-plum` ramp, so there is no seam where the two meet
+  and the visible part of the shot keeps its colour — a plum overlay turned the whites pink. Below
+  `md` the shot sits at the foot of the slide with the copy above it, in a box the shape of the
+  photograph so the fade has no hard edge to give away.
 - The right-hand arrow cross-fades `banner-plum` into `banner-clinic`, the ramp the Professional
   brands band also runs. A gradient cannot be transitioned, so the two fields are stacked layers
   whose opacity is animated; the slides themselves translate on one flex track.
