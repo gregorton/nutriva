@@ -1,4 +1,5 @@
 import raw from "./catalog.generated.json";
+import { adjust } from "./fx";
 
 /*
   Catalog data layer — the single boundary between the storefront and its product data.
@@ -8,6 +9,12 @@ import raw from "./catalog.generated.json";
   copy, supplement-facts tables and product photography. Nothing in this file invents a value.
   Everything is either read straight from the harvest or computed from two harvested numbers
   (per-serving cost from price and servings, discount from price and list price).
+
+  Price is the one field that does not arrive finished. The harvest recorded what iHerb charged on
+  the day it ran, at that day's exchange rate, so `lib/fx.ts` restates it at today's rate and
+  rounds up to the whole baht. That happens once, in the mapper below, which is why the rest of
+  the storefront — filter bands, sorting, kit totals, the free-delivery threshold — can go on
+  treating `price` as a plain THB number.
 
   A field iHerb does not state comes through as null or an empty array, and the component that
   would have shown it renders nothing. That rule is what keeps the page honest: no guessed
@@ -206,11 +213,22 @@ type RawItem = Omit<Product, "discount" | "category"> & {
   packVariants: { label: string; pid: string; price: number | null; outOfStock: boolean }[];
 };
 
-export const products: Product[] = (raw.items as RawItem[]).map((item) => ({
-  ...item,
-  category: item.category as CategorySlug,
-  discount: item.listPrice ? Math.round(((item.listPrice - item.price) / item.listPrice) * 100) : null,
-}));
+export const products: Product[] = (raw.items as RawItem[]).map((item) => {
+  // The harvest froze these at the exchange rate of the day it ran; `adjust` restates them at
+  // today's, and does it here so every filter band, sort, kit total and threshold downstream still
+  // sees one consistent set of THB figures. Discount is recomputed from the restated pair, or a
+  // ฿1 rounding on each side would drift the percentage off what the two prices actually show.
+  const price = adjust(item.price);
+  const listPrice = item.listPrice === null ? null : adjust(item.listPrice);
+
+  return {
+    ...item,
+    category: item.category as CategorySlug,
+    price,
+    listPrice,
+    discount: listPrice ? Math.round(((listPrice - price) / listPrice) * 100) : null,
+  };
+});
 
 export const productBySlug = new Map(products.map((p) => [p.slug, p]));
 

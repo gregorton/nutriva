@@ -29,6 +29,13 @@ Refresh the catalogue (see Catalogue data; stage 2 is long and resumable):
 node reference/iherb/discover.mjs && node reference/iherb/harvest.mjs && node reference/iherb/build.mjs
 ```
 
+Refresh the exchange rate the prices are restated at (see Currency; a scheduled workflow already
+does this, so run it by hand only to force a reprice):
+
+```bash
+node reference/fx.mjs --force
+```
+
 Set up the database (see Accounts and reviews; needs `DATABASE_URL` in `.env.local`):
 
 ```bash
@@ -50,6 +57,9 @@ the static catalogue module, and PostgreSQL for what visitors write.
   the UI needs (`byCategory`, `bestSellers`, `deals`, `related`, `search`, `brandsIn`…). Label fields
   arrive structured, so this file no longer parses anything out of titles; the only computed values
   are discount percent and `perServing`, which the pipeline still emits but no surface reads.
+- `lib/fx.ts` — the one place an exchange rate enters. `catalog.ts`'s mapper calls `adjust()` on every
+  price, so a harvested figure frozen at one day's rate becomes today's, rounded up to whole baht,
+  before anything downstream sees it. See Currency.
 - `lib/query.ts` — filter and sort state lives in the URL. `toggleHref`/`setHref` build the next URL, so
   filters are links, not form controls: shareable, back-navigable, and functional without JS.
 - `lib/subcategories.ts` — the type split behind the browse rail at the head of `/c/[slug]`
@@ -478,6 +488,9 @@ The short version of what you can trust:
   including %DV.
 - **Computed from two real numbers**: discount percent. (`perServing` is still computed and still in the
   JSON, but cost per serving is no longer shown anywhere — it was ours, not the label's.)
+- **Real, but restated at today's exchange rate**: the price the storefront shows. The harvested THB
+  figure is what iHerb charged on the day it ran, and the displayed one is that figure moved by
+  however much USD/THB has moved since. See Currency.
 - **Still ours**: the storefront's own handling standards and the site disclaimer. The source's own
   disclaimer names the source and is deliberately not copied. The per-star rating distribution used
   to be on this list — `ratingBreakdown` shaped it from the average, because the source puts its own
@@ -492,6 +505,44 @@ that no label backs.
 Stage 3 does all the interpretation, so changing how a field is read is a `build.mjs` edit plus a
 rerun — never a re-scrape. Stage 2 caches per product and skips what it already has, so an interrupted
 run resumes.
+
+## Currency
+
+The catalogue stores what iHerb charged in THB on the day it was harvested, which means every price
+is frozen at that day's exchange rate and drifts a little further off every week the dollar moves.
+`lib/fx.ts` unfreezes it. `adjust()` restates a harvested price at today's rate; `lib/catalog.ts`
+applies it once in the mapper, so filter bands, sorting, kit totals and the free-delivery threshold
+all go on seeing plain THB numbers and nothing else in the codebase knows this happens.
+
+```bash
+node reference/fx.mjs [--force]   # fetch USD/THB, write lib/fx.generated.json
+```
+
+**Two rates, and mixing them up costs you a slice of margin.** `HARVEST_MARKET_RATE` in `lib/fx.ts`
+is the *market* rate on the harvest date — deliberately not the rate iHerb charged. The stored price
+is `usd × iHerb's rate`, and iHerb's rate carries their own spread: the harvest's prices imply 32.81
+to the dollar on a day the market closed at 32.735, about 0.23% over. Taking the ratio of two market
+rates moves each price by exactly what the market moved and leaves that spread inside the stored
+figure. Dividing by iHerb's own 32.81 instead would shave the spread off every price, once, silently.
+So on a re-harvest this constant wants the market rate for the new harvest date, not the rate the new
+prices imply.
+
+**Prices round up to the whole baht** (`Math.ceil`, and `price()` in `lib/format.ts` prints no
+satang). Once the figure is ours rather than a copy, satang read as a machine's output; rounding up
+rather than to the nearest keeps every price at or above what it converts to, and moves none by more
+than ฿1. That is the whole policy — no charm pricing, nothing nudged to ฿599, because ฿9 is a margin
+decision and does not belong inside a currency conversion.
+
+**The rate is a committed build input, not a runtime lookup**, for the same reason the masthead does
+not await `cookies()`: `lib/catalog.ts` is synchronous and imported by every page, so awaiting a rate
+there would cost all 470 product pages their prerender. `reference/fx.mjs` reads the ECB's daily
+reference rate (falling back to `open.er-api.com`), refuses anything outside 25–45 as a broken
+response rather than news, and **writes only once the rate has moved more than 0.5%** — so prices sit
+still for weeks rather than twitching every morning, and are never more than half a percent stale.
+`.github/workflows/exchange-rate.yml` runs it on weekdays just after the ECB publishes and commits
+when it wrote, which lands on `main` and lets Netlify's git deploy rebuild. Nothing runs at request
+time, no client JS is involved, and `git log lib/fx.generated.json` says which rate produced which
+deploy.
 
 ## Reference material
 

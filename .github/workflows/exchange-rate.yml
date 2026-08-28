@@ -1,0 +1,52 @@
+# Keeps the storefront's prices on today's exchange rate.
+#
+# The catalogue stores what iHerb charged in THB on the day it was harvested, so prices drift as the
+# dollar moves (see lib/fx.ts). This fetches the market rate, and reference/fx.mjs writes it only
+# when it has moved more than half a percent — so most runs do nothing and change no files.
+#
+# When it does write, the commit lands on main and Netlify's git deploy rebuilds the site with the
+# new rate. Nothing runs at request time and no page loses its prerender.
+#
+# Needs no secrets. GITHUB_TOKEN is granted contents:write below, which is what lets the push
+# through; the schedule does not re-trigger on the bot's own commit.
+name: exchange rate
+
+on:
+  # 15:20 UTC on weekdays — just after the ECB publishes the day's reference rates (~16:00 CET),
+  # so the run picks up the same day's figure rather than yesterday's. Off-the-hour on purpose:
+  # GitHub queues scheduled jobs, and the top of the hour is where every repository piles up.
+  schedule:
+    - cron: "20 15 * * 1-5"
+  workflow_dispatch:
+
+# Only ever one in flight, so two runs cannot race to commit the same file.
+concurrency:
+  group: exchange-rate
+
+jobs:
+  rate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # No install step: fx.mjs uses fetch and node:fs and nothing else.
+      - run: node reference/fx.mjs
+
+      - name: Commit the rate if it moved
+        run: |
+          if git diff --quiet -- lib/fx.generated.json; then
+            echo "rate held — nothing to commit"
+            exit 0
+          fi
+          rate=$(node -p "require('./lib/fx.generated.json').rate")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lib/fx.generated.json
+          git commit -m "chore: reprice at ฿${rate} to the dollar"
+          git push
