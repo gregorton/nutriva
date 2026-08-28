@@ -9,9 +9,10 @@ import { HeroCarousel } from "@/components/home/hero-carousel";
  * off the catalogue, so a refresh re-resolves them.
  */
 
-/** Lifestyle shot for the supplements slide. Absent until the file is dropped in, and the slide
- *  renders on the plain field without it, so a missing asset cannot break the build. */
-const HERO_PHOTO = "/hero/vitamins-lifestyle.jpg";
+/** The flat-lay behind the supplements slide. Checked on disk rather than imported, so replacing
+ *  it is a file drop and a missing one leaves the copy on the plain field instead of failing the
+ *  build. The name is the file as supplied — spaces and all; `next/image` encodes the URL. */
+const HERO_PHOTO = "/hero/Supplements flat-lay banner v3.png";
 
 export function HomeHero() {
   const stats = {

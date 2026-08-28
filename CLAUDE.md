@@ -339,34 +339,47 @@ Two slides in `components/home/hero-carousel.tsx` — the only client component 
 catalogue, and it checks that the hero photograph is on disk before passing its path down, so a
 missing asset cannot break the build.
 
-- **The supplements slide is photo-led and carries no products.** Copy on the plum, the whole
-  lifestyle shot (`public/hero/vitamins-lifestyle.jpg`) against the right-hand edge, and that is
-  all. It used to show four best-seller tiles beside the copy: they were the brightest thing in the
-  banner, they repeated the product grids immediately below it, and four arbitrary best sellers are
-  not a reason to press anything. The shot is a generated stock image, and it states hydration
-  rather than the category — if the banner ever has to carry the category on its own, the
-  photograph is what needs replacing.
-- **The photograph is contained, not covered, and faded with `mask-image` rather than covered with
-  a tinted overlay.** The banner is far wider than the 3:2 shot, so `object-cover` cropped away
-  most of the frame and left her face enormous; contained, it keeps its own proportions and the
-  plum continues where it stops. The mask matters for the same reason a colour scrim did not work:
-  what shows through is the field's own `banner-plum` ramp, so there is no seam where the two meet
-  and the visible part of the shot keeps its colour — a plum overlay turned the whites pink. Below
-  `md` the shot sits at the foot of the slide with the copy above it, in a box the shape of the
-  photograph so the fade has no hard edge to give away.
-- The right-hand arrow cross-fades `banner-plum` into `banner-clinic`, the ramp the Professional
-  brands band also runs. A gradient cannot be transitioned, so the two fields are stacked layers
-  whose opacity is animated; the slides themselves translate on one flex track.
-- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`. The
-  banner takes its height from whichever slide is taller, which is the equipment one — hence
-  `h-full` on the supplements slide, or its photograph stops short of the foot.
+- **The supplements slide is a photograph with copy on it, and carries no products.** The flat-lay
+  (`public/hero/Supplements flat-lay banner v3.png`) is the whole field: dark type, a plum Shop All
+  and one cross-link sit in the left half, which is empty in the shot, so nothing has to be dimmed
+  or tinted to hold them. It used to show four best-seller tiles beside the copy: they were the
+  brightest thing in the banner, they repeated the product grids immediately below it, and four
+  arbitrary best sellers are not a reason to press anything. Replacing the photograph is a file drop
+  — `home-hero.tsx` checks it is on disk and the slide falls back to copy on white — but a
+  replacement has to keep an empty left half, because that is where the copy goes.
+- **The frame is 21:9 from `lg` up, and content-driven below it.** 21:9 on a phone is a 160px
+  letterbox, so below `lg` the shot becomes a band across the foot of the slide with the copy above
+  it, sized by percentage rather than aspect ratio (the banner's height there comes from whichever
+  slide is taller, and a fixed ratio leaves a white gap under the copy). One `Image` carries both
+  compositions, so the hero preloads one file. `object-position` is biased down and right: the three
+  spoons sit below centre and in the right-hand two thirds, so a centred window cuts the last of
+  them in half and a narrow one lands on empty wood.
+- **The copy column is measured against the empty half of the shot**, which is its left 43% — 426px
+  of a 992px banner at `lg`, so the block narrows there and widens again at `xl`. The plum button is
+  the site's ordinary primary button, not `btn-cart`; that gradient is add-to-cart and nothing else.
+- The frame carries a hairline `ring-line`, because a near-white photograph on a white page has no
+  edge of its own and the rounded corners read as a rendering fault without one.
+- **Each slide owns its background now**, and there is no cross-fade left. The supplements side used
+  to run the `banner-plum` ramp, so the two colour fields were stacked layers animating their
+  opacity — a gradient cannot be transitioned directly. With a photograph on one side there is
+  nothing to fade between: the slides translate on one flex track and the equipment slide carries
+  `banner-clinic` itself.
+- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`. `h-full`
+  down the track is what hands the frame's 21:9 height to the slides. Between `lg` and `xl` that
+  height is at its shortest — 425px at a 1024 viewport — which is why the equipment tiles' glyph
+  plate shrinks in exactly that range instead of growing.
+- The slide switcher is left-aligned with the copy rather than centred: centred, it lands on the
+  middle of the flat-lay and covers the thing the banner is showing. Its pill is plum at 70% because
+  it now has to hold white type over a near-white photograph as well as over the blue field.
 - The equipment side has no catalogue behind it, so its tiles are the four ranges from
   `components/home/equipment-glyphs.tsx` as line art — name plus a short spec, no prices. Shop Now
   lands on `/equipment`, which lists the same four ranges. The tiles are glass rather than white so
   the blue field reads through them; the glyph keeps a pale `clinic-100` plate to sit on.
 
 This replaced a five-tile mosaic traced off the reference site's promotional hero, along with its
-invented sale copy, hotlinked stock photography and sign-in bar.
+invented sale copy, hotlinked stock photography and sign-in bar. `public/hero/vitamins-lifestyle.jpg`
+is the shot the previous version ran, masked into the right-hand edge of a plum field, and is
+unreferenced now.
 
 ## Starter kits
 
