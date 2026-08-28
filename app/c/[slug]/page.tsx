@@ -118,7 +118,7 @@ export default async function CategoryPage({ params, searchParams }: PageProps<"
         />
       </header>
 
-      <div className="mt-6 grid gap-8 lg:grid-cols-[220px_1fr]">
+      <div className="mt-6 grid grid-cols-1 gap-8 lg:grid-cols-[220px_1fr]">
         <aside className="hidden lg:block">
           <FilterRail base={base} raw={raw} pool={pool} />
         </aside>

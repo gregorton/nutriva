@@ -34,7 +34,7 @@ export function BuyBox({ product }: { product: Product }) {
     <section className="rounded-[8px] border border-line-strong bg-white p-4" aria-label="Purchase options">
       <p className="text-[15px] font-semibold leading-snug text-ink">One-time purchase</p>
 
-      <div className="mt-2 flex items-baseline gap-2">
+      <div className="mt-2 flex flex-wrap items-baseline gap-x-2 gap-y-1">
         <span
           className={`text-[27px] font-semibold leading-none ${product.discount ? "text-sale-600" : "text-ink"}`}
           data-num

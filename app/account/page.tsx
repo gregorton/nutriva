@@ -17,7 +17,7 @@ export default async function AccountPage() {
   const [saved, reviews] = await Promise.all([savedSlugs(user.id), reviewsByUser(user.id)]);
 
   return (
-    <div className="grid gap-4 sm:grid-cols-2">
+    <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
       <SummaryTile
         href="/account/saved"
         icon={<HeartIcon className="h-5 w-5 text-plum-700" filled={saved.length > 0} />}

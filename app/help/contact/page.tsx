@@ -22,7 +22,7 @@ export default function ContactPage() {
           page is faster.
         </p>
 
-        <div className="mt-8 grid gap-6 md:grid-cols-[1.15fr_0.85fr]">
+        <div className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-[1.15fr_0.85fr]">
           {/* Primary contact card */}
           <div className="rounded-tile border border-line bg-white p-6 shadow-sm sm:p-7">
             <h2 className="text-[18px] font-semibold tracking-tight">Visit or write</h2>

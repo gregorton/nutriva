@@ -136,7 +136,7 @@ function NavArrow({
  */
 function SlideFrame({ children }: { children: React.ReactNode }) {
   return (
-    <div className="relative grid h-full items-center gap-7 px-12 pb-16 pt-8 sm:px-14 sm:pb-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,0.94fr)] lg:gap-10 lg:px-[72px] lg:pb-8 lg:pt-6 xl:pb-12 xl:pt-8">
+    <div className="relative grid grid-cols-1 h-full items-center gap-7 px-12 pb-16 pt-8 sm:px-14 sm:pb-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,0.94fr)] lg:gap-10 lg:px-[72px] lg:pb-8 lg:pt-6 xl:pb-12 xl:pt-8">
       {children}
     </div>
   );

@@ -57,7 +57,9 @@ export function ProductCard({ product, priority = false }: { product: Product; p
       </div>
 
       <div className="mt-auto pt-3">
-        <div className="flex items-baseline gap-2">
+        {/* Wraps rather than overflows: two four-figure baht prices side by side are wider than
+            a card in the two-column phone grid. */}
+        <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
           <span
             className={`text-[17px] font-semibold ${product.discount ? "text-sale-600" : "text-ink"}`}
             data-num

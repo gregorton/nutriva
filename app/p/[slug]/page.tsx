@@ -69,7 +69,7 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
         ]}
       />
 
-      <div className="mt-5 grid gap-8 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] xl:grid-cols-[minmax(0,440px)_minmax(0,1fr)_320px]">
+      <div className="mt-5 grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] xl:grid-cols-[minmax(0,440px)_minmax(0,1fr)_320px]">
         <div>
           <ProductGallery product={product} />
         </div>

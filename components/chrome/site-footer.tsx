@@ -39,7 +39,7 @@ export function SiteFooter() {
   return (
     <footer className="mt-16 border-t border-line bg-paper">
       <div className="shell py-12">
-        <div className="grid gap-10 md:grid-cols-[1.4fr_repeat(3,1fr)]">
+        <div className="grid grid-cols-1 gap-10 md:grid-cols-[1.4fr_repeat(3,1fr)]">
           <div>
             <Logo className="h-16" />
             <p className="mt-3 max-w-xs text-sm text-muted">
@@ -96,7 +96,7 @@ export function SiteFooter() {
           ))}
         </div>
 
-        <div className="mt-10 grid gap-8 border-t border-line pt-8 md:grid-cols-[1fr_auto]">
+        <div className="mt-10 grid grid-cols-1 gap-8 border-t border-line pt-8 md:grid-cols-[1fr_auto]">
           <nav aria-label="All categories">
             <h2 className="kicker text-muted">Categories</h2>
             <ul className="mt-3 flex flex-wrap gap-x-4 gap-y-1.5">

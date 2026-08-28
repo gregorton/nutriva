@@ -24,7 +24,7 @@ export default function EquipmentPage() {
             className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top_left,rgba(255,255,255,0.16),transparent_62%)]"
             aria-hidden
           />
-          <div className="relative grid items-center gap-8 lg:grid-cols-[minmax(0,52ch)_minmax(0,1fr)]">
+          <div className="relative grid grid-cols-1 items-center gap-8 lg:grid-cols-[minmax(0,52ch)_minmax(0,1fr)]">
             <div>
               <p className="kicker text-white/70">Opening soon</p>
               <h1 className="mt-2 text-[30px] leading-[1.06] text-white sm:text-[38px]">
@@ -65,7 +65,7 @@ export default function EquipmentPage() {
         </p>
         <h2 className="mt-1.5 text-[22px] sm:text-[26px]">What we&apos;re opening with</h2>
 
-        <ul className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <ul className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {EQUIPMENT_RANGES.map((range) => (
             <li
               key={range.name}

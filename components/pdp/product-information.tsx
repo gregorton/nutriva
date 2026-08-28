@@ -53,7 +53,7 @@ export function ProductInformation({ product }: { product: Product }) {
       </div>
 
       <div
-        className={`grid gap-x-10 gap-y-2 px-5 pb-6 pt-2 ${
+        className={`grid grid-cols-1 gap-x-10 gap-y-2 px-5 pb-6 pt-2 ${
           facts ? "md:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)]" : ""
         }`}
       >

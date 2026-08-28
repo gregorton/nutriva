@@ -12,6 +12,10 @@ import { ChevronIcon, ExitIcon, HeartIcon, StarIcon, UserIcon } from "@/componen
 
   Replaces the static /account link the header used to carry. It is a client component so the
   root layout stays static; see components/account/account-store.ts for why that matters.
+
+  It shows at every width. Below `sm` the wording drops and the mark stands alone beside the
+  search and cart icons, because hiding the control entirely there left a phone with no route
+  into an account at all: no sign-in, no saved items, no way back out.
 */
 export function AccountButton() {
   const { user, loaded } = useAccount();
@@ -43,26 +47,30 @@ export function AccountButton() {
     return (
       <Link
         href="/signin"
-        className="hidden items-center gap-2 rounded-card px-3 py-2 text-sm font-medium text-ink transition-colors hover:bg-paper sm:flex"
+        aria-label="Sign in"
+        className="flex h-10 items-center gap-2 rounded-card px-2 text-sm font-medium text-ink transition-colors hover:bg-paper sm:px-3 sm:py-2"
       >
-        <UserIcon className="h-[18px] w-[18px] text-plum-700" />
-        <span>Sign in</span>
+        <UserIcon className="h-[19px] w-[19px] text-plum-700 sm:h-[18px] sm:w-[18px]" />
+        <span className="hidden sm:inline">Sign in</span>
       </Link>
     );
   }
 
   return (
-    <div ref={wrapper} className="relative hidden sm:block">
+    <div ref={wrapper} className="relative">
       <button
         type="button"
         onClick={() => setOpen((was) => !was)}
         aria-expanded={open}
         aria-haspopup="menu"
-        className="flex max-w-[190px] items-center gap-2 rounded-card px-3 py-2 text-sm font-medium text-ink transition-colors hover:bg-paper"
+        aria-label={`Account: ${user.displayName}`}
+        className="flex h-10 max-w-[190px] items-center gap-2 rounded-card px-2 text-sm font-medium text-ink transition-colors hover:bg-paper sm:px-3 sm:py-2"
       >
-        <UserIcon className="h-[18px] w-[18px] shrink-0 text-plum-700" />
-        <span className="truncate">{user.displayName}</span>
-        <ChevronIcon className={`h-3.5 w-3.5 shrink-0 text-muted transition-transform ${open ? "rotate-180" : ""}`} />
+        <UserIcon className="h-[19px] w-[19px] shrink-0 text-plum-700 sm:h-[18px] sm:w-[18px]" />
+        <span className="hidden truncate sm:inline">{user.displayName}</span>
+        <ChevronIcon
+          className={`hidden h-3.5 w-3.5 shrink-0 text-muted transition-transform sm:block ${open ? "rotate-180" : ""}`}
+        />
       </button>
 
       {open && (

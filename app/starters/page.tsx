@@ -30,7 +30,7 @@ export default function StartersPage() {
         </h1>
       </header>
 
-      <ul className="mt-6 grid gap-4 lg:grid-cols-2">
+      <ul className="mt-6 grid grid-cols-1 gap-4 lg:grid-cols-2">
         {KITS.map((kit) => (
           <li key={kit.slug}>
             <KitCard kit={kit} />
@@ -60,7 +60,7 @@ export default function StartersPage() {
             href="/guides"
             linkLabel="All guides"
           />
-          <ul className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <ul className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {guides.map((guide) => (
               <li key={guide.slug}>
                 <GuideCard guide={guide} />

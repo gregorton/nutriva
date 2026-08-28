@@ -84,8 +84,13 @@ export function Rail({ children, className = "" }: { children: React.ReactNode; 
 
       {/* Arrows sit level with the product image and just outside the track, so they never
           cover a title or price. The layer itself takes no clicks — only the buttons do,
-          and only while there is somewhere for them to scroll. */}
-      <div className="pointer-events-none absolute -left-6 -right-6 top-[30%] z-30 hidden -translate-y-1/2 items-center justify-between lg:flex">
+          and only while there is somewhere for them to scroll.
+
+          The reach into the gutter is 1rem, matching `shell`'s own inline padding exactly: at
+          24px the right-hand arrow cleared the viewport edge by 8px and gave every page with a
+          rail an 8px horizontal scrollbar between 1024px and the shell's 1344px maximum, which
+          is most of the laptop and landscape-tablet range. */}
+      <div className="pointer-events-none absolute -left-4 -right-4 top-[30%] z-30 hidden -translate-y-1/2 items-center justify-between lg:flex">
         {([-1, 1] as const).map((direction) => {
           const spent = direction === -1 ? edge === "start" || edge === "both" : edge === "end" || edge === "both";
 

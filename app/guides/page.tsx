@@ -52,7 +52,7 @@ export default function GuidesPage() {
         </div>
       )}
 
-      <ul className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <ul className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {rest.map((guide, i) => (
           <li key={guide.slug}>
             <GuideCard guide={guide} priority={i < 3} />

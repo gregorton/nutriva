@@ -23,7 +23,7 @@ export function EditorialStrip() {
         linkLabel="All guides"
       />
 
-      <div className="mt-5 grid gap-5 lg:grid-cols-[1.35fr_1fr]">
+      <div className="mt-5 grid grid-cols-1 gap-5 lg:grid-cols-[1.35fr_1fr]">
         <GuideFeature guide={feature} />
 
         {/* Every remaining guide, spread down the column: the whole set fits beside one feature,

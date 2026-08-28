@@ -24,7 +24,7 @@ export function ReviewSummary({
   customers: CustomerSummary;
 }) {
   return (
-    <div className="grid gap-8 sm:grid-cols-[minmax(0,200px)_minmax(0,1fr)] sm:gap-10">
+    <div className="grid grid-cols-1 gap-8 sm:grid-cols-[minmax(0,200px)_minmax(0,1fr)] sm:gap-10">
       <div>
         <p className="kicker mb-2 text-muted">Product rating</p>
         <p className="font-display text-[40px] leading-none" data-num>

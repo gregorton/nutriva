@@ -67,7 +67,7 @@ export function TrustBand() {
           </div>
 
           {/* cards */}
-          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4" role="list">
+          <ul className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4" role="list">
             {CARDS.map((card) => (
               <li
                 key={card.text}

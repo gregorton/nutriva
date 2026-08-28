@@ -101,7 +101,7 @@ export default async function GuidePage({ params }: PageProps<"/guides/[slug]">)
           </figure>
         )}
 
-        <div className="mt-8 grid gap-8 lg:grid-cols-[minmax(0,68ch)_1fr] lg:gap-12">
+        <div className="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,68ch)_1fr] lg:gap-12">
           <div className="min-w-0">
             {guide.sections.map((section) => (
               <section key={section.heading} className="mt-8 first:mt-0">
@@ -191,7 +191,7 @@ export default async function GuidePage({ params }: PageProps<"/guides/[slug]">)
       {more.length > 0 && (
         <section className="mt-14">
           <SectionHeader kicker="Other labels, other numbers" title="More guides" href="/guides" linkLabel="All guides" />
-          <ul className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <ul className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {more.map((other) => (
               <li key={other.slug}>
                 <GuideCard guide={other} />
