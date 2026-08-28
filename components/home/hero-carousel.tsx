@@ -13,24 +13,13 @@ import { EquipmentGlyph, type EquipmentRange } from "@/components/home/equipment
  * be transitioned directly.
  */
 
-/** A product as the hero needs it — price formatted server-side. */
-export type HeroPick = {
-  slug: string;
-  brand: string;
-  title: string;
-  image: string;
-  price: string;
-};
-
 const SLIDE_LABELS = ["Supplements", "Medical equipment"] as const;
 
 export function HeroCarousel({
-  picks,
   ranges,
   stats,
   photo,
 }: {
-  picks: HeroPick[];
   ranges: EquipmentRange[];
   stats: { products: number; brands: number; shelves: number };
   /** Lifestyle shot behind the supplements copy, or null when the file is not in place. */
@@ -71,7 +60,7 @@ export function HeroCarousel({
           style={{ transform: `translateX(-${slide * 100}%)` }}
         >
           <div className="w-full shrink-0" inert={onEquipment}>
-            <SupplementsSlide picks={picks} stats={stats} photo={photo} active={!onEquipment} />
+            <SupplementsSlide stats={stats} photo={photo} active={!onEquipment} />
           </div>
           <div className="w-full shrink-0" inert={!onEquipment}>
             <EquipmentSlide ranges={ranges} active={onEquipment} />
@@ -145,22 +134,21 @@ function NavArrow({
 /* ── Slide shell ─────────────────────────────────────────────────────────────────────────── */
 
 /**
- * Shared frame. Padding clears the edge arrows at every width, and the two columns keep the
- * same proportion on both slides so nothing shifts horizontally during the cross-fade.
+ * Frame for the equipment slide. Padding clears the edge arrows at every width. The supplements
+ * slide carries its own frame — it is one column of copy over a full-bleed photograph — and the
+ * banner takes its height from whichever slide is taller, so the two still match.
  */
 function SlideFrame({ children }: { children: React.ReactNode }) {
   return (
-    <div className="grid items-center gap-7 px-12 pb-16 pt-8 sm:px-14 sm:pb-14 lg:min-h-[400px] lg:grid-cols-[minmax(0,1fr)_minmax(0,0.94fr)] lg:gap-10 lg:px-[72px] lg:pb-12">
+    <div className="grid items-center gap-7 px-12 pb-16 pt-8 sm:px-14 sm:pb-14 lg:min-h-[420px] lg:grid-cols-[minmax(0,1fr)_minmax(0,0.94fr)] lg:gap-10 lg:px-[72px] lg:pb-12">
       {children}
     </div>
   );
 }
 
-/* Examples grid and its tiles — one set of classes, so both slides line up to the pixel.
-   The tile is glass rather than white: the field reads through it, so the hero stays one
-   surface instead of four cards pasted onto it. The photo keeps its own light plate, because
-   the catalogue shots are JPEG on white — dropped straight onto the tint they would show as
-   white rectangles. */
+/* The equipment tiles. Glass rather than white, so the blue field reads through them and the
+   banner stays one surface instead of four cards pasted onto it; the glyph keeps its own pale
+   plate so the line art has something to sit on. */
 const GRID = "grid grid-cols-2 gap-2.5 sm:gap-3";
 const TILE =
   "flex h-full flex-col rounded-card bg-white/12 p-2.5 ring-1 ring-inset ring-white/25 shadow-[0_2px_14px_rgba(0,0,0,0.18)] backdrop-blur-md sm:p-3";
@@ -182,52 +170,64 @@ function ShopNow({ href, children }: { href: string; children: React.ReactNode }
 
 /* ── Slide 1: supplements ────────────────────────────────────────────────────────────────── */
 
+/**
+ * Photo-led. One subject, not three: the shot is the whole field and the copy sits on the plum
+ * the scrim holds open for it. The four best-seller tiles this slide used to carry are gone —
+ * they were the brightest thing in the banner, they repeated the product grids immediately
+ * below it, and four arbitrary best sellers are not a reason to press anything.
+ */
 function SupplementsSlide({
-  picks,
   stats,
   photo,
   active,
 }: {
-  picks: HeroPick[];
   stats: { products: number; brands: number; shelves: number };
   photo?: string | null;
   active: boolean;
 }) {
   return (
-    <div className="relative">
-      {/* Lifestyle shot. It bleeds off the left and bottom of the field and is scrimmed back to
-          plum under the copy, so the headline keeps its contrast and the photograph still reads
-          as part of the banner rather than a pasted-in tile. Hidden below lg, where the copy
-          column is the full width and there is nowhere for it to go. */}
+    <div className="relative h-full">
       {photo ? (
-        <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-[47%] lg:block" aria-hidden>
-          <Image
-            src={photo}
-            alt=""
-            fill
-            priority
-            sizes="47vw"
-            className="object-cover object-[100%_30%]"
+        <>
+          {/* The shot is faded with a mask rather than covered with a tinted overlay: what shows
+              through is the banner's own plum ramp, so there is no seam where the two meet and the
+              part of the photograph that is visible keeps its own colour. */}
+          {/* Below md it takes the foot of the slide and the copy sits above it, because the
+              banner's height comes from the equipment slide and a single narrow column of copy
+              leaves most of it empty. */}
+          <div
+            className="pointer-events-none absolute inset-x-0 bottom-0 h-[52%] [mask-image:linear-gradient(to_bottom,transparent,black_42%)] md:hidden"
+            aria-hidden
+          >
+            <Image src={photo} alt="" fill priority sizes="100vw" className="object-cover object-[70%_30%]" />
+          </div>
+          <div className="pointer-events-none absolute inset-0 hidden md:block" aria-hidden>
+            <div className="absolute inset-0 [mask-image:linear-gradient(96deg,transparent_20%,rgba(0,0,0,0.28)_38%,black_64%)]">
+              <Image src={photo} alt="" fill priority sizes="100vw" className="object-cover object-[76%_14%]" />
+            </div>
+          </div>
+          {/* Enough weight at the foot for the slide switcher to stay legible over the shot. */}
+          <div
+            className="pointer-events-none absolute inset-x-0 bottom-0 h-24 bg-[linear-gradient(to_top,color-mix(in_oklab,var(--color-plum-900)_62%,transparent),transparent)]"
+            aria-hidden
           />
-          <div className="absolute inset-0 bg-[linear-gradient(96deg,var(--color-plum-900)_30%,color-mix(in_oklab,var(--color-plum-900)_45%,transparent)_52%,transparent_74%)]" />
-          <div className="absolute inset-y-0 right-0 w-1/4 bg-[linear-gradient(to_right,transparent,var(--color-plum-800))]" />
-        </div>
+        </>
       ) : null}
 
-      <SlideFrame>
-        <div className={`relative ${photo ? "lg:max-w-[370px]" : ""}`}>
+      <div className="relative flex min-h-[300px] items-start px-12 pb-16 pt-10 sm:px-14 sm:pb-14 md:items-center lg:min-h-[420px] lg:px-[72px]">
+        <div className="max-w-[300px] sm:max-w-[420px] lg:max-w-[460px]">
           <p className="kicker text-turmeric-200">Supplements</p>
           <h1
             id={active ? "hero-heading" : undefined}
-            className="mt-2 text-balance text-[27px] leading-[1.06] text-white sm:text-[38px] lg:text-[42px]"
+            className="mt-2.5 text-balance text-[29px] leading-[1.04] text-white sm:text-[40px] lg:text-[46px]"
           >
             Vitamins, minerals and daily essentials
           </h1>
-          <p className="mt-3.5 text-[14.5px] text-white/85" data-num>
+          <p className="mt-4 text-[14.5px] text-white/85" data-num>
             {stats.products} products · {stats.brands} brands · {stats.shelves} shelves
           </p>
 
-          <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-3">
+          <div className="mt-8 flex flex-wrap items-center gap-x-5 gap-y-3">
             <ShopNow href="/c/vitamins">Shop Now</ShopNow>
             <Link
               href="/#shelf"
@@ -237,33 +237,7 @@ function SupplementsSlide({
             </Link>
           </div>
         </div>
-
-        {/* Examples: best sellers in stock, each straight through to its page. */}
-        <ul className={GRID}>
-          {picks.map((pick) => (
-            <li key={pick.slug}>
-              <Link href={`/p/${pick.slug}`} className={`group ${TILE} transition hover:bg-white/20`}>
-                <div className={SHOT}>
-                  <Image
-                    src={pick.image}
-                    alt=""
-                    fill
-                    sizes="(max-width: 640px) 40vw, 160px"
-                    className="object-contain p-1"
-                  />
-                </div>
-                <p className="facts mt-2 truncate !text-turmeric-200">{pick.brand}</p>
-                <p className="mt-0.5 line-clamp-2 text-[12.5px] font-medium leading-snug text-white group-hover:underline">
-                  {pick.title}
-                </p>
-                <p className="mt-1 text-[13.5px] font-semibold text-white" data-num>
-                  {pick.price}
-                </p>
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </SlideFrame>
+      </div>
     </div>
   );
 }

@@ -335,16 +335,31 @@ and their prefetches never settle.
 ## Home hero
 
 Two slides in `components/home/hero-carousel.tsx` — the only client component above the fold.
-`components/home/home-hero.tsx` is its server half: the four supplement examples are the best
-sellers in stock and the figures beside them are counted off the catalogue.
+`components/home/home-hero.tsx` is its server half: the figures beside the copy are counted off the
+catalogue, and it checks that the hero photograph is on disk before passing its path down, so a
+missing asset cannot break the build.
 
+- **The supplements slide is photo-led and carries no products.** Copy over a full-bleed lifestyle
+  shot (`public/hero/vitamins-lifestyle.jpg`), and that is all. It used to show four best-seller
+  tiles beside the copy: they were the brightest thing in the banner, they repeated the product
+  grids immediately below it, and four arbitrary best sellers are not a reason to press anything.
+  The shot is a generated stock image, and it states hydration rather than the category — if the
+  banner ever has to carry the category on its own, the photograph is what needs replacing.
+- **The photograph is faded with `mask-image`, not covered with a tinted overlay.** What shows
+  through is the field's own `banner-plum` ramp, so there is no seam where the two meet and the
+  visible part of the shot keeps its own colour. A colour scrim over it turned the whites pink.
+  Below `md` the shot takes the foot of the slide with the copy above it, because the banner's
+  height comes from the equipment slide and one narrow column of copy leaves most of it empty.
 - The right-hand arrow cross-fades `banner-plum` into `banner-clinic`, the ramp the Professional
   brands band also runs. A gradient cannot be transitioned, so the two fields are stacked layers
   whose opacity is animated; the slides themselves translate on one flex track.
-- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`.
+- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`. The
+  banner takes its height from whichever slide is taller, which is the equipment one — hence
+  `h-full` on the supplements slide, or its photograph stops short of the foot.
 - The equipment side has no catalogue behind it, so its tiles are the four ranges from
   `components/home/equipment-glyphs.tsx` as line art — name plus a short spec, no prices. Shop Now
-  lands on `/equipment`, which lists the same four ranges.
+  lands on `/equipment`, which lists the same four ranges. The tiles are glass rather than white so
+  the blue field reads through them; the glyph keeps a pale `clinic-100` plate to sit on.
 
 This replaced a five-tile mosaic traced off the reference site's promotional hero, along with its
 invented sale copy, hotlinked stock photography and sign-in bar.
