@@ -96,7 +96,7 @@ check(
 );
 check(
   'guardrail: every kit prints a total on its add button',
-  await kits.locator('button', { hasText: /Add all \d+ — ฿/ }).count(),
+  await kits.locator('button', { hasText: /Add all \d+ · ฿/ }).count(),
   kitCount,
 );
 check(
