@@ -1,18 +1,37 @@
 import { existsSync } from "node:fs";
 import path from "node:path";
-import { CATEGORIES, products } from "@/lib/catalog";
+import { CATEGORIES, CATEGORY_BY_SLUG, byCategory, products, type CategorySlug } from "@/lib/catalog";
 import { EQUIPMENT_RANGES } from "@/components/home/equipment-glyphs";
 import { HeroCarousel } from "@/components/home/hero-carousel";
+import type { RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
 
 /**
- * Home hero — the server half of the two-slide banner. The figures beside the copy are counted
- * off the catalogue, so a refresh re-resolves them.
+ * Home hero — the server half of the two-tab banner. Every figure beside the copy is counted off
+ * the catalogue, so a refresh re-resolves them, and this is the only half that imports
+ * `lib/catalog.ts`: doing it from the client component would put the generated catalogue in the
+ * browser bundle.
  */
 
-/** The flat-lay behind the supplements slide. Checked on disk rather than imported, so replacing
- *  it is a file drop and a missing one leaves the copy on the plain field instead of failing the
- *  build. The name is the file as supplied — spaces and all; `next/image` encodes the URL. */
+/** The flat-lay the supplements tab is built on, and the stand-in for any slide with no shot of
+ *  its own. Checked on disk rather than imported, so replacing it is a file drop and a missing one
+ *  leaves the copy on the plain field instead of failing the build. The name is the file as
+ *  supplied — spaces and all; `next/image` encodes the URL. */
 const HERO_PHOTO = "/hero/Supplements flat-lay banner v3.png";
+
+/**
+ * The shelves the arrow advances through after the opening slide. `photo` is the shot that slide
+ * would rather have than the flat-lay; until the file is on disk the flat-lay stands in, so giving
+ * a shelf its own photograph is a file drop and nothing else.
+ */
+const SHELVES: { slug: CategorySlug; cta: string; photo: string }[] = [
+  { slug: "vitamins", cta: "Shop vitamins", photo: "/hero/Vitamins banner.png" },
+  { slug: "minerals", cta: "Shop minerals", photo: "/hero/Minerals banner.png" },
+  { slug: "omega", cta: "Shop omega", photo: "/hero/Omega banner.png" },
+];
+
+function onDisk(file: string): string | null {
+  return existsSync(path.join(process.cwd(), "public", file)) ? file : null;
+}
 
 export function HomeHero() {
   const stats = {
@@ -21,7 +40,47 @@ export function HomeHero() {
     shelves: CATEGORIES.length,
   };
 
-  const photo = existsSync(path.join(process.cwd(), "public", HERO_PHOTO)) ? HERO_PHOTO : null;
+  const flatLay = onDisk(HERO_PHOTO);
 
-  return <HeroCarousel ranges={EQUIPMENT_RANGES} stats={stats} photo={photo} />;
+  const opening: ShelfSlide = {
+    id: "all",
+    heading: "Vitamins, minerals and daily essentials",
+    blurb: null,
+    figures: `${stats.products} products · ${stats.brands} brands · ${stats.shelves} shelves`,
+    cta: { href: "/c/vitamins", label: "Shop All" },
+    link: { href: "/#shelf", label: "Browse all shelves" },
+    photo: flatLay,
+  };
+
+  // A shelf that is not in the catalogue is dropped rather than published empty, the same rule
+  // `lib/starters.ts` follows for a role the stock cannot fill.
+  const shelves: ShelfSlide[] = SHELVES.flatMap(({ slug, cta, photo }) => {
+    const category = CATEGORY_BY_SLUG.get(slug);
+    if (!category) return [];
+
+    const inStock = byCategory(slug).filter((product) => product.inStock).length;
+
+    return [
+      {
+        id: slug,
+        heading: category.name,
+        blurb: category.blurb,
+        figures: `${inStock} in stock`,
+        cta: { href: `/c/${slug}`, label: cta },
+        link: null,
+        photo: onDisk(photo) ?? flatLay,
+      },
+    ];
+  });
+
+  const ranges: RangeSlide[] = EQUIPMENT_RANGES.map((range) => ({
+    id: range.glyph,
+    heading: range.name,
+    spec: range.spec,
+    figures: `${EQUIPMENT_RANGES.length} ranges · opening soon`,
+    glyph: range.glyph,
+    cta: { href: "/equipment", label: "Shop Now" },
+  }));
+
+  return <HeroCarousel supplements={[opening, ...shelves]} equipment={ranges} />;
 }

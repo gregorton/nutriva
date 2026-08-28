@@ -362,17 +362,40 @@ and their prefetches never settle.
 
 ## Home hero
 
-Two slides in `components/home/hero-carousel.tsx` — the only client component above the fold.
-`components/home/home-hero.tsx` is its server half: the figures beside the copy are counted off the
-catalogue, and it checks that the hero photograph is on disk before passing its path down, so a
-missing asset cannot break the build.
+Two tabs in `components/home/hero-carousel.tsx` — the only client component above the fold — each
+holding its own slideshow. `components/home/home-hero.tsx` is its server half: it composes both slide
+lists off the catalogue and checks every photograph on disk before passing a path down, so a missing
+asset cannot break the build. It is also the only half that imports `lib/catalog.ts`; doing that from
+the client component would put the whole generated catalogue in the browser bundle, so the two halves
+meet at the types in `components/home/hero-slides.ts`.
 
-- **The supplements slide is a photograph with copy on it, and carries no products.** The flat-lay
+- **The pill switches topic and the arrows move within it.** Supplements advances through the shelves
+  (the opening slide, then Vitamins, Minerals, Omega — heading, blurb and in-stock count all read off
+  `CATEGORIES`), Medical equipment through the four ranges. Neither arrow ever crosses to the other
+  topic. They used to: with a slide each there was nothing else for an arrow to do, so the right
+  arrow on Supplements landed the shopper on a blue field about nebulisers — and each arrow disabled
+  itself the moment it fired, which hands keyboard focus back to the document. **The slideshow wraps
+  in both directions**, which is what keeps both arrows live and no button ever disabled.
+- **Two nested tracks, not one flat track of every slide.** Flat, a tab switch would animate through
+  the intervening slides. Nested, the outer track moves between topics and each panel's inner track
+  moves within one — and **each tab keeps its own position**, so returning to Supplements returns you
+  to the slide you left. Every slide stays mounted for a stable height and carries `inert` unless it
+  is the one on screen, or an off-screen CTA is a tab stop for a slide nobody can see.
+- **Where you are inside a tab is the dot row**, in the same pill as the two tab buttons, behind a
+  hairline divider: one dot per slide, `aria-current` on the live one, and a press jumps to it. On a
+  phone the tab label shortens to "Equipment" — at 375px the full label and four dots do not fit on
+  one line and the label wrapped to two. The button's `aria-label` stays the full name, so the
+  accessible name does not change with the viewport.
+- **Each supplements slide has its own photograph slot, and falls back to the flat-lay.**
+  `SHELVES` in `home-hero.tsx` names the file a shelf would rather have (`/hero/Minerals banner.png`
+  and so on); until it is on disk every slide shows the flat-lay, so the arrow currently advances the
+  shelf, the figures and the button over one photograph. Dropping the file in is the whole change.
+- **The supplements slides are photographs with copy on them, and carry no products.** The flat-lay
   (`public/hero/Supplements flat-lay banner v3.png`) is the whole field: dark type, a plum Shop All
   and one cross-link sit in the left half, which is empty in the shot, so nothing has to be dimmed
   or tinted to hold them. It used to show four best-seller tiles beside the copy: they were the
   brightest thing in the banner, they repeated the product grids immediately below it, and four
-  arbitrary best sellers are not a reason to press anything. Replacing the photograph is a file drop
+  arbitrary best sellers are not a reason to press anything. Replacing a photograph is a file drop
   — `home-hero.tsx` checks it is on disk and the slide falls back to copy on white — but a
   replacement has to keep an empty left half, because that is where the copy goes.
 - **The frame is 21:9 from `lg` up, and content-driven below it.** 21:9 on a phone is a 160px
@@ -392,17 +415,27 @@ missing asset cannot break the build.
   opacity — a gradient cannot be transitioned directly. With a photograph on one side there is
   nothing to fade between: the slides translate on one flex track and the equipment slide carries
   `banner-clinic` itself.
-- Both slides stay mounted so the height is stable, and the off-screen one carries `inert`. `h-full`
-  down the track is what hands the frame's 21:9 height to the slides. Between `lg` and `xl` that
-  height is at its shortest — 425px at a 1024 viewport — which is why the equipment tiles' glyph
-  plate shrinks in exactly that range instead of growing.
-- The slide switcher is left-aligned with the copy rather than centred: centred, it lands on the
+- `h-full` down the outer track, the panels and the inner tracks is what hands the frame's 21:9
+  height to the slides. Between `lg` and `xl` that height is at its shortest — 425px at a 1024
+  viewport — which is why the equipment glyph plate shrinks in exactly that range instead of growing.
+- The control cluster is left-aligned with the copy rather than centred: centred, it lands on the
   middle of the flat-lay and covers the thing the banner is showing. Its pill is plum at 70% because
-  it now has to hold white type over a near-white photograph as well as over the blue field.
-- The equipment side has no catalogue behind it, so its tiles are the four ranges from
+  it has to hold white type over a near-white photograph as well as over the blue field, and the
+  strip it sits in takes no pointer events, or it would eat presses along the whole foot of the frame.
+- The equipment side has no catalogue behind it, so a slide is one of the four ranges from
   `components/home/equipment-glyphs.tsx` as line art — name plus a short spec, no prices. Shop Now
-  lands on `/equipment`, which lists the same four ranges. The tiles are glass rather than white so
-  the blue field reads through them; the glyph keeps a pale `clinic-100` plate to sit on.
+  lands on `/equipment`, which lists the same four ranges. The plate is glass rather than white so
+  the blue field reads through it, with a pale `clinic-100` tile inside for the glyph to sit on, and
+  it is sized as a mark rather than a thumbnail: it is the only visual on the slide. The 2x2 tile grid
+  it replaced put every range on every slide, so the arrow had nothing to change but the heading.
+
+Assertions for all of it — that an arrow stays inside its tab, that both directions wrap, that each
+tab keeps its own position, that the dots follow and jump, and that only the slide on screen is
+reachable:
+
+```bash
+node reference/hero-check.mjs   # needs the dev server up
+```
 
 This replaced a five-tile mosaic traced off the reference site's promotional hero, along with its
 invented sale copy, hotlinked stock photography and sign-in bar. `public/hero/vitamins-lifestyle.jpg`

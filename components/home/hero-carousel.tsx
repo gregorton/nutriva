@@ -4,33 +4,50 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { ArrowIcon } from "@/components/ui/icons";
-import { EquipmentGlyph, type EquipmentRange } from "@/components/home/equipment-glyphs";
+import { EquipmentGlyph } from "@/components/home/equipment-glyphs";
+import type { HeroCta, RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
 
 /**
- * The home hero: two slides in one 21:9 banner frame. Supplements is photo-led — the flat-lay is
- * the whole field, and the copy and its button sit in the empty half of the shot, the way a
- * printed banner works. Medical equipment keeps the Professional brands blue.
+ * The home hero: two tabs in one 21:9 banner frame, each holding its own slideshow. Supplements is
+ * photo-led — the flat-lay is the whole field, and the copy and its button sit in the empty half of
+ * the shot, the way a printed banner works. Medical equipment keeps the Professional brands blue,
+ * one range to a slide.
  *
- * Each slide owns its own background now. The supplements side used to run the `banner-plum`
- * ramp, so the two fields were stacked layers cross-fading their opacity (a gradient cannot be
- * transitioned directly); with a photograph on one side there is nothing left to cross-fade,
- * and the slides simply translate.
+ * **The pill switches topic and the arrows move within it.** The arrows used to switch topic too:
+ * with one slide each there was nothing else for them to do, so the right arrow on Supplements
+ * landed the shopper on a blue field about nebulisers, and each arrow disabled itself the moment it
+ * fired — which hands keyboard focus back to the document. Now neither arrow ever crosses from one
+ * topic to the other, and both stay live because the slideshow wraps.
+ *
+ * **Two nested tracks, not one flat track of every slide.** Flat, a tab switch would animate
+ * through the intervening slides. Nested, the outer track moves between topics and each panel's
+ * inner track moves within one, and every tab keeps its own position — come back to Supplements and
+ * you are on the slide you left.
+ *
+ * Each slide owns its background. The supplements side used to run the `banner-plum` ramp, so the
+ * two fields were stacked layers cross-fading their opacity (a gradient cannot be transitioned
+ * directly); with a photograph on one side there is nothing left to cross-fade.
  */
 
-const SLIDE_LABELS = ["Supplements", "Medical equipment"] as const;
-
 export function HeroCarousel({
-  ranges,
-  stats,
-  photo,
+  supplements,
+  equipment,
 }: {
-  ranges: EquipmentRange[];
-  stats: { products: number; brands: number; shelves: number };
-  /** The flat-lay the supplements slide is built on, or null when the file is not in place. */
-  photo?: string | null;
+  supplements: ShelfSlide[];
+  equipment: RangeSlide[];
 }) {
-  const [slide, setSlide] = useState(0);
-  const onEquipment = slide === 1;
+  const [tab, setTab] = useState(0);
+  // One position per tab, so switching topic never disturbs where the other one was left.
+  const [positions, setPositions] = useState([0, 0]);
+
+  const onEquipment = tab === 1;
+  const headings = (onEquipment ? equipment : supplements).map((slide) => slide.heading);
+  const count = Math.max(1, headings.length);
+  const position = Math.min(positions[tab], count - 1);
+
+  // Wraps, so neither arrow is ever spent and neither has to disable itself mid-press.
+  const move = (next: number) =>
+    setPositions((prev) => prev.map((p, index) => (index === tab ? (next + count) % count : p)));
 
   return (
     <section className="shell pt-4" aria-labelledby="hero-heading">
@@ -44,56 +61,101 @@ export function HeroCarousel({
         aria-roledescription="carousel"
         aria-label="Featured shelves"
       >
-        {/* Slide track. Both slides stay mounted so the height is stable; the one off-screen is
-            inert, which takes it out of the tab order and off the accessibility tree. `h-full`
-            is what hands the frame's 21:9 height down to the slides. */}
+        {/* Topic track. Both panels stay mounted so the height is stable; the one off-screen is
+            inert, which takes it out of the tab order and off the accessibility tree. `h-full` is
+            what hands the frame's 21:9 height down through the panels to the slides. */}
         <div
           className="relative flex h-full transition-transform duration-500 ease-out"
-          style={{ transform: `translateX(-${slide * 100}%)` }}
+          style={{ transform: `translateX(-${tab * 100}%)` }}
         >
-          <div className="w-full shrink-0" inert={onEquipment}>
-            <SupplementsSlide stats={stats} photo={photo} active={!onEquipment} />
-          </div>
-          <div className="w-full shrink-0" inert={!onEquipment}>
-            <EquipmentSlide ranges={ranges} active={onEquipment} />
-          </div>
+          <Panel id="hero-panel-supplements" off={onEquipment} position={positions[0]}>
+            {supplements.map((slide, index) => (
+              <Slide
+                key={slide.id}
+                index={index}
+                count={supplements.length}
+                current={index === positions[0]}
+              >
+                <SupplementsSlide
+                  slide={slide}
+                  first={index === 0}
+                  active={!onEquipment && index === positions[0]}
+                />
+              </Slide>
+            ))}
+          </Panel>
+
+          <Panel id="hero-panel-equipment" off={!onEquipment} position={positions[1]}>
+            {equipment.map((slide, index) => (
+              <Slide
+                key={slide.id}
+                index={index}
+                count={equipment.length}
+                current={index === positions[1]}
+              >
+                <EquipmentSlide slide={slide} active={onEquipment && index === positions[1]} />
+              </Slide>
+            ))}
+          </Panel>
         </div>
 
-        {/* Edge arrows — the right one is the transition into medical equipment. */}
-        <NavArrow
-          direction="prev"
-          label="Show supplements"
-          disabled={!onEquipment}
-          onClick={() => setSlide(0)}
-        />
-        <NavArrow
-          direction="next"
-          label="Show medical equipment"
-          disabled={onEquipment}
-          onClick={() => setSlide(1)}
-        />
+        {/* Edge arrows — within the tab you are on, and never across to the other one. */}
+        {count > 1 ? (
+          <>
+            <NavArrow direction="prev" onClick={() => move(position - 1)} />
+            <NavArrow direction="next" onClick={() => move(position + 1)} />
+          </>
+        ) : null}
 
-        {/* Slide switcher. Labelled rather than dots: with two slides the label is the
-            useful information, and it doubles as a second route to the equipment side.
-            Left-aligned with the copy above it rather than centred, because centred it lands on
-            the middle of the flat-lay and covers the thing the banner is showing. The pill is
-            plum at 70% rather than black at 25% — it now has to hold white type over a
-            near-white photograph as well as over the blue field. */}
-        <div className="absolute inset-x-0 bottom-0 flex justify-start pb-3.5 pl-12 sm:pl-14 xl:pl-[72px]">
-          <div className="flex items-center gap-1 rounded-full bg-plum-900/70 p-1 backdrop-blur-sm">
-            {SLIDE_LABELS.map((label, index) => (
+        {/* One control cluster: the topic, then where you are inside it. Labelled tabs rather than
+            dots, because with two topics the label is the useful information. Left-aligned with the
+            copy above it rather than centred — centred it lands on the middle of the flat-lay and
+            covers the thing the banner is showing. The pill is plum at 70% rather than black at
+            25%: it has to hold white type over a near-white photograph as well as over the blue
+            field. The strip itself takes no clicks, or it would eat presses along the whole foot of
+            the banner. */}
+        <div className="pointer-events-none absolute inset-x-0 bottom-0 flex justify-start pb-3.5 pl-12 sm:pl-14 xl:pl-[72px]">
+          <div className="pointer-events-auto flex items-center gap-1 rounded-full bg-plum-900/70 p-1 backdrop-blur-sm">
+            {TABS.map((entry, index) => (
               <button
-                key={label}
+                key={entry.id}
                 type="button"
-                onClick={() => setSlide(index)}
-                aria-pressed={slide === index}
-                className={`rounded-full px-3 py-1 text-[12px] font-medium transition-colors ${
-                  slide === index ? "bg-white text-ink" : "text-white/80 hover:text-white"
+                onClick={() => setTab(index)}
+                aria-pressed={tab === index}
+                aria-controls={`hero-panel-${entry.id}`}
+                aria-label={entry.label}
+                className={`whitespace-nowrap rounded-full px-3 py-1 text-[12px] font-medium transition-colors ${
+                  tab === index ? "bg-white text-ink" : "text-white/80 hover:text-white"
                 }`}
               >
-                {label}
+                <span className="sm:hidden">{entry.short}</span>
+                <span className="hidden sm:inline">{entry.label}</span>
               </button>
             ))}
+
+            {count > 1 ? (
+              <>
+                <span className="mx-0.5 h-4 w-px shrink-0 bg-white/25" aria-hidden />
+                <div className="flex items-center pr-1">
+                  {headings.map((heading, index) => (
+                    <button
+                      key={heading}
+                      type="button"
+                      onClick={() => move(index)}
+                      aria-current={index === position}
+                      aria-label={`Slide ${index + 1} of ${count}: ${heading}`}
+                      className="grid h-6 w-4 place-items-center"
+                    >
+                      <span
+                        className={`h-1.5 w-1.5 rounded-full transition-colors ${
+                          index === position ? "bg-white" : "bg-white/45"
+                        }`}
+                      />
+                    </button>
+                  ))}
+                </div>
+              </>
+            ) : null}
           </div>
         </div>
       </div>
@@ -101,24 +163,81 @@ export function HeroCarousel({
   );
 }
 
-function NavArrow({
-  direction,
-  label,
-  disabled,
-  onClick,
+/**
+ * The two topics. `short` is what the phone shows: the pill holds the dots as well, and at 375px
+ * "Medical equipment" and four dots do not fit on one line — the label wrapped to two. The button's
+ * `aria-label` stays the full name either way, so the accessible name does not change with the
+ * viewport.
+ */
+const TABS = [
+  { id: "supplements", label: "Supplements", short: "Supplements" },
+  { id: "equipment", label: "Medical equipment", short: "Equipment" },
+] as const;
+
+/* ── Tracks ──────────────────────────────────────────────────────────────────────────────── */
+
+/**
+ * One topic: its own slide track, clipped to the frame so its slides move independently of the
+ * topic track above it. `off` marks the topic you are not looking at.
+ */
+function Panel({
+  id,
+  off,
+  position,
+  children,
 }: {
-  direction: "prev" | "next";
-  label: string;
-  disabled: boolean;
-  onClick: () => void;
+  id: string;
+  off: boolean;
+  position: number;
+  children: React.ReactNode;
 }) {
+  return (
+    <div id={id} className="w-full shrink-0 overflow-hidden" inert={off}>
+      <div
+        className="flex h-full transition-transform duration-500 ease-out"
+        style={{ transform: `translateX(-${position * 100}%)` }}
+      >
+        {children}
+      </div>
+    </div>
+  );
+}
+
+/**
+ * One slide in a panel. Every slide stays mounted so the panel's height is stable, and the ones
+ * off-screen are inert — otherwise their CTAs are tab stops for a slide nobody can see.
+ */
+function Slide({
+  index,
+  count,
+  current,
+  children,
+}: {
+  index: number;
+  count: number;
+  current: boolean;
+  children: React.ReactNode;
+}) {
+  return (
+    <div
+      className="w-full shrink-0"
+      inert={!current}
+      role="group"
+      aria-roledescription="slide"
+      aria-label={`${index + 1} of ${count}`}
+    >
+      {children}
+    </div>
+  );
+}
+
+function NavArrow({ direction, onClick }: { direction: "prev" | "next"; onClick: () => void }) {
   return (
     <button
       type="button"
       onClick={onClick}
-      disabled={disabled}
-      aria-label={label}
-      className={`absolute top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-white text-plum-900 ring-1 ring-black/[0.07] shadow-[0_2px_12px_rgba(0,0,0,0.22)] transition disabled:pointer-events-none disabled:opacity-0 hover:bg-paper sm:h-11 sm:w-11 ${
+      aria-label={direction === "next" ? "Next slide" : "Previous slide"}
+      className={`absolute top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-white text-plum-900 ring-1 ring-black/[0.07] shadow-[0_2px_12px_rgba(0,0,0,0.22)] transition hover:bg-paper sm:h-11 sm:w-11 ${
         direction === "next" ? "right-2 sm:right-3" : "left-2 sm:left-3"
       }`}
     >
@@ -130,80 +249,66 @@ function NavArrow({
 /* ── Slide shell ─────────────────────────────────────────────────────────────────────────── */
 
 /**
- * Frame for the equipment slide. Padding clears the edge arrows at every width, and `h-full`
- * lets the tiles centre in the banner rather than sitting at the top of it. The supplements
- * slide carries its own frame — it is one column of copy over a full-bleed photograph.
+ * Frame for an equipment slide. Padding clears the edge arrows at every width, and `h-full` lets
+ * the range centre in the banner rather than sitting at the top of it. The supplements slides carry
+ * their own frame — one column of copy over a full-bleed photograph.
  */
 function SlideFrame({ children }: { children: React.ReactNode }) {
   return (
-    <div className="relative grid grid-cols-1 h-full items-center gap-7 px-12 pb-16 pt-8 sm:px-14 sm:pb-14 lg:grid-cols-[minmax(0,1fr)_minmax(0,0.94fr)] lg:gap-10 lg:px-[72px] lg:pb-8 lg:pt-6 xl:pb-12 xl:pt-8">
+    <div className="relative grid h-full grid-cols-1 items-center gap-7 px-12 pb-16 pt-8 sm:px-14 sm:pb-14 lg:grid-cols-[minmax(0,30rem)_minmax(0,1fr)] lg:gap-10 lg:px-[72px] lg:pb-8 lg:pt-6 xl:pb-12 xl:pt-8">
       {children}
     </div>
   );
 }
 
-/* The equipment tiles. Glass rather than white, so the blue field reads through them and the
-   banner stays one surface instead of four cards pasted onto it; the glyph keeps its own pale
-   plate so the line art has something to sit on. The plate shrinks between `lg` and `xl` rather
-   than growing: that is the range where 21:9 is at its shortest — 425px at a 1024 viewport — and
-   two rows of tiles at their full size would sit flush against the foot of the banner. */
-const GRID = "grid grid-cols-2 gap-2.5 sm:gap-3";
-const TILE =
-  "flex h-full flex-col rounded-card bg-white/12 p-2.5 ring-1 ring-inset ring-white/25 shadow-[0_2px_14px_rgba(0,0,0,0.18)] backdrop-blur-md sm:p-3";
-const SHOT =
-  "relative h-[76px] w-full overflow-hidden rounded-[7px] bg-white sm:h-[104px] lg:h-[96px] xl:h-[116px]";
-
 /**
  * The one button on a slide, in the two tones the two fields need: plum fill on the light
- * photograph (the site's primary button everywhere else it sits on white), white fill on the
- * blue field. Never `btn-cart` — that gradient is add-to-cart and nothing else.
+ * photograph (the site's primary button everywhere else it sits on white), white fill on the blue
+ * field. Never `btn-cart` — that gradient is add-to-cart and nothing else.
  */
 const CTA_TONE = {
   plum: "bg-plum-800 text-white shadow-[0_2px_14px_rgba(43,15,32,0.24)] hover:bg-plum-700",
   white: "bg-white text-ink shadow-[0_2px_14px_rgba(0,0,0,0.22)] hover:bg-paper",
 } as const;
 
-function ShopButton({
-  href,
-  tone,
-  children,
-}: {
-  href: string;
-  tone: keyof typeof CTA_TONE;
-  children: React.ReactNode;
-}) {
+function ShopButton({ cta, tone }: { cta: HeroCta; tone: keyof typeof CTA_TONE }) {
   return (
     <Link
-      href={href}
+      href={cta.href}
       className={`group inline-flex items-center gap-2 rounded-full px-6 py-3 text-[14px] font-semibold transition ${CTA_TONE[tone]}`}
     >
-      {children}
+      {cta.label}
       <ArrowIcon className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
     </Link>
   );
 }
 
-/* ── Slide 1: supplements ────────────────────────────────────────────────────────────────── */
+/* ── Supplements: one shelf to a slide ───────────────────────────────────────────────────── */
 
 /**
- * Photo-led, and the photograph is the banner: the flat-lay was shot with its left half empty,
- * so the copy and the button go in that empty half and no scrim is needed to hold them apart
- * from the subject. Dark type on the wood, plum button, one cross-link — the previous version
- * of this slide put white type on a plum field with the shot masked into the right-hand edge,
- * which is a different composition entirely and is why nothing here is inherited from it.
+ * Photo-led, and the photograph is the banner: the flat-lay was shot with its left half empty, so
+ * the copy and the button go in that empty half and no scrim is needed to hold them apart from the
+ * subject. Dark type on the wood, plum button, one cross-link on the opening slide.
+ *
+ * A slide with no shot of its own shows the flat-lay — the server half resolves that, so the arrow
+ * currently advances the shelf, the figures and the button over one photograph. Dropping
+ * `public/hero/<name>.png` in gives that shelf its own field with no code change.
  */
 function SupplementsSlide({
-  stats,
-  photo,
+  slide,
+  first,
   active,
 }: {
-  stats: { products: number; brands: number; shelves: number };
-  photo?: string | null;
+  slide: ShelfSlide;
+  /** the opening slide: the page's `h1`, and the only photograph worth preloading */
+  first: boolean;
   active: boolean;
 }) {
+  const Heading = first ? "h1" : "h2";
+
   return (
     <div className="relative h-full">
-      {photo ? (
+      {slide.photo ? (
         <>
           {/* One `Image`, two compositions, so the hero preloads one file rather than two.
               From `lg` it is the whole field (`inset-0`, cover). Below that the copy cannot fit in
@@ -220,10 +325,10 @@ function SupplementsSlide({
             aria-hidden
           >
             <Image
-              src={photo}
+              src={slide.photo}
               alt=""
               fill
-              priority
+              priority={first}
               sizes="(min-width: 1376px) 1312px, 100vw"
               className="object-cover object-[100%_62%]"
             />
@@ -245,26 +350,29 @@ function SupplementsSlide({
       <div className="relative flex h-full min-h-[300px] items-start px-12 pb-16 pt-10 sm:px-14 sm:pb-14 lg:items-center lg:px-12 lg:pb-12 xl:px-[72px]">
         <div className="max-w-[300px] sm:max-w-[480px] lg:max-w-[352px] xl:max-w-[430px]">
           <p className="kicker text-plum-700">Supplements</p>
-          <h1
+          <Heading
             id={active ? "hero-heading" : undefined}
             className="mt-2.5 text-balance text-[29px] leading-[1.04] text-plum-900 sm:text-[40px] lg:text-[35px] xl:text-[44px]"
           >
-            Vitamins, minerals and daily essentials
-          </h1>
-          <p className="mt-4 text-[14.5px] text-muted" data-num>
-            {stats.products} products · {stats.brands} brands · {stats.shelves} shelves
+            {slide.heading}
+          </Heading>
+          {slide.blurb ? (
+            <p className="mt-3.5 text-balance text-[14.5px] text-plum-900/75">{slide.blurb}</p>
+          ) : null}
+          <p className={`text-[14.5px] text-muted ${slide.blurb ? "mt-1.5" : "mt-4"}`} data-num>
+            {slide.figures}
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-x-5 gap-y-3">
-            <ShopButton href="/c/vitamins" tone="plum">
-              Shop All
-            </ShopButton>
-            <Link
-              href="/#shelf"
-              className="text-[13.5px] font-medium text-plum-800 underline-offset-4 hover:text-plum-900 hover:underline"
-            >
-              Browse all shelves
-            </Link>
+            <ShopButton cta={slide.cta} tone="plum" />
+            {slide.link ? (
+              <Link
+                href={slide.link.href}
+                className="text-[13.5px] font-medium text-plum-800 underline-offset-4 hover:text-plum-900 hover:underline"
+              >
+                {slide.link.label}
+              </Link>
+            ) : null}
           </div>
         </div>
       </div>
@@ -272,13 +380,17 @@ function SupplementsSlide({
   );
 }
 
-/* ── Slide 2: medical equipment ──────────────────────────────────────────────────────────── */
+/* ── Medical equipment: one range to a slide ─────────────────────────────────────────────── */
 
 /**
- * The blue field is this slide's own background now rather than a layer shared with the frame,
- * and the vignette with it.
+ * The blue field is this slide's own background rather than a layer shared with the frame, and the
+ * vignette with it. One range at a time: the four-tile grid this replaced put every range on every
+ * slide, so the arrow had nothing to change but the heading. The glyph plate is glass, so the field
+ * reads through it, with the pale `clinic-100` tile inside for the line art to sit on. It shrinks
+ * between `lg` and `xl` rather than growing: that is the range where 21:9 is at its shortest —
+ * 425px at a 1024 viewport.
  */
-function EquipmentSlide({ ranges, active }: { ranges: EquipmentRange[]; active: boolean }) {
+function EquipmentSlide({ slide, active }: { slide: RangeSlide; active: boolean }) {
   return (
     <div className="relative h-full">
       <div className="banner-clinic pointer-events-none absolute inset-0" aria-hidden />
@@ -293,36 +405,25 @@ function EquipmentSlide({ ranges, active }: { ranges: EquipmentRange[]; active: 
             id={active ? "hero-heading" : undefined}
             className="mt-2 text-balance text-[27px] leading-[1.06] text-white sm:text-[38px] lg:text-[42px]"
           >
-            Home monitoring and respiratory
+            {slide.heading}
           </h2>
-          <p className="mt-3.5 text-[14.5px] text-white/85" data-num>
-            {ranges.length} ranges · opening soon
+          <p className="mt-3.5 text-[14.5px] text-white/85">{slide.spec}</p>
+          <p className="mt-1.5 text-[12.5px] text-white/60" data-num>
+            {slide.figures}
           </p>
 
           <div className="mt-7">
-            <ShopButton href="/equipment" tone="white">
-              Shop Now
-            </ShopButton>
+            <ShopButton cta={slide.cta} tone="white" />
           </div>
         </div>
 
-        {/* Examples: the four ranges. */}
-        <ul className={GRID}>
-          {ranges.map((range) => (
-            <li key={range.name} className={TILE}>
-              <div
-                className={`${SHOT} flex items-center justify-center !bg-clinic-100 text-clinic-700`}
-              >
-                <EquipmentGlyph
-                  range={range.glyph}
-                  className="h-[58px] w-[58px] lg:h-[62px] lg:w-[62px] xl:h-[76px] xl:w-[76px]"
-                />
-              </div>
-              <p className="mt-2 text-[12.5px] font-medium leading-snug text-white">{range.name}</p>
-              <p className="facts mt-1 !text-white/70">{range.spec}</p>
-            </li>
-          ))}
-        </ul>
+        <div className="flex justify-center">
+          <div className="flex h-[132px] w-[132px] items-center justify-center rounded-tile bg-white/12 ring-1 ring-inset ring-white/25 shadow-[0_2px_14px_rgba(0,0,0,0.18)] backdrop-blur-md sm:h-[176px] sm:w-[176px] lg:h-[196px] lg:w-[196px] xl:h-[264px] xl:w-[264px]">
+            <div className="flex h-[76%] w-[76%] items-center justify-center rounded-[10px] bg-clinic-100 text-clinic-700">
+              <EquipmentGlyph range={slide.glyph} className="h-[64%] w-[64%]" />
+            </div>
+          </div>
+        </div>
       </SlideFrame>
     </div>
   );
