@@ -2,6 +2,7 @@ import "server-only";
 import { createHash, randomBytes } from "node:crypto";
 import { cookies } from "next/headers";
 import { query, queryOne } from "@/lib/db";
+import { SESSION_COOKIE } from "@/lib/session-cookie";
 
 /*
   Sessions, stored in the database rather than signed into the cookie.
@@ -15,7 +16,6 @@ import { query, queryOne } from "@/lib/db";
   32 bytes of entropy, so there is nothing to brute-force, and this runs on every request.
 */
 
-export const SESSION_COOKIE = "swa.session";
 const SESSION_DAYS = 30;
 
 function hashToken(token: string): Buffer {
