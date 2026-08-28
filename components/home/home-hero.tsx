@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs";
+import path from "node:path";
 import { CATEGORIES, bestSellers, products } from "@/lib/catalog";
 import { price } from "@/lib/format";
 import { EQUIPMENT_RANGES } from "@/components/home/equipment-glyphs";
@@ -8,6 +10,10 @@ import { HeroCarousel, type HeroPick } from "@/components/home/hero-carousel";
  * sellers that are in stock, and the figures beside the copy are counted off the catalogue, so a
  * refresh re-resolves both.
  */
+/** Lifestyle shot for the supplements slide. Absent until the file is dropped in, and the slide
+ *  renders on the plain field without it, so a missing asset cannot break the build. */
+const HERO_PHOTO = "/hero/vitamins-lifestyle.jpg";
+
 export function HomeHero() {
   const picks: HeroPick[] = bestSellers(12)
     .filter((product) => product.inStock)
@@ -26,5 +32,7 @@ export function HomeHero() {
     shelves: CATEGORIES.length,
   };
 
-  return <HeroCarousel picks={picks} ranges={EQUIPMENT_RANGES} stats={stats} />;
+  const photo = existsSync(path.join(process.cwd(), "public", HERO_PHOTO)) ? HERO_PHOTO : null;
+
+  return <HeroCarousel picks={picks} ranges={EQUIPMENT_RANGES} stats={stats} photo={photo} />;
 }

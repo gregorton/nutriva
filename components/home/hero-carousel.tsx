@@ -28,10 +28,13 @@ export function HeroCarousel({
   picks,
   ranges,
   stats,
+  photo,
 }: {
   picks: HeroPick[];
   ranges: EquipmentRange[];
   stats: { products: number; brands: number; shelves: number };
+  /** Lifestyle shot behind the supplements copy, or null when the file is not in place. */
+  photo?: string | null;
 }) {
   const [slide, setSlide] = useState(0);
   const onEquipment = slide === 1;
@@ -68,7 +71,7 @@ export function HeroCarousel({
           style={{ transform: `translateX(-${slide * 100}%)` }}
         >
           <div className="w-full shrink-0" inert={onEquipment}>
-            <SupplementsSlide picks={picks} stats={stats} active={!onEquipment} />
+            <SupplementsSlide picks={picks} stats={stats} photo={photo} active={!onEquipment} />
           </div>
           <div className="w-full shrink-0" inert={!onEquipment}>
             <EquipmentSlide ranges={ranges} active={onEquipment} />
@@ -176,63 +179,86 @@ function ShopNow({ href, children }: { href: string; children: React.ReactNode }
 function SupplementsSlide({
   picks,
   stats,
+  photo,
   active,
 }: {
   picks: HeroPick[];
   stats: { products: number; brands: number; shelves: number };
+  photo?: string | null;
   active: boolean;
 }) {
   return (
-    <SlideFrame>
-      <div className="relative">
-        <p className="kicker text-turmeric-200">Supplements</p>
-        <h1
-          id={active ? "hero-heading" : undefined}
-          className="mt-2 text-balance text-[27px] leading-[1.06] text-white sm:text-[38px] lg:text-[42px]"
-        >
-          Vitamins, minerals and daily essentials
-        </h1>
-        <p className="mt-3.5 text-[14.5px] text-white/85" data-num>
-          {stats.products} products · {stats.brands} brands · {stats.shelves} shelves
-        </p>
-
-        <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-3">
-          <ShopNow href="/c/vitamins">Shop Now</ShopNow>
-          <Link
-            href="/#shelf"
-            className="text-[13.5px] font-medium text-white/85 underline-offset-4 hover:text-white hover:underline"
-          >
-            Browse all shelves
-          </Link>
+    <div className="relative">
+      {/* Lifestyle shot. It bleeds off the left and bottom of the field and is scrimmed back to
+          plum under the copy, so the headline keeps its contrast and the photograph still reads
+          as part of the banner rather than a pasted-in tile. Hidden below lg, where the copy
+          column is the full width and there is nowhere for it to go. */}
+      {photo ? (
+        <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-[47%] lg:block" aria-hidden>
+          <Image
+            src={photo}
+            alt=""
+            fill
+            priority
+            sizes="47vw"
+            className="object-cover object-[100%_30%]"
+          />
+          <div className="absolute inset-0 bg-[linear-gradient(96deg,var(--color-plum-900)_30%,color-mix(in_oklab,var(--color-plum-900)_45%,transparent)_52%,transparent_74%)]" />
+          <div className="absolute inset-y-0 right-0 w-1/4 bg-[linear-gradient(to_right,transparent,var(--color-plum-800))]" />
         </div>
-      </div>
+      ) : null}
 
-      {/* Examples: best sellers in stock, each straight through to its page. */}
-      <ul className={GRID}>
-        {picks.map((pick) => (
-          <li key={pick.slug}>
-            <Link href={`/p/${pick.slug}`} className={`group ${TILE} transition hover:bg-white`}>
-              <div className={SHOT}>
-                <Image
-                  src={pick.image}
-                  alt=""
-                  fill
-                  sizes="(max-width: 640px) 40vw, 160px"
-                  className="object-contain p-1"
-                />
-              </div>
-              <p className="facts mt-2 truncate text-plum-700">{pick.brand}</p>
-              <p className="mt-0.5 line-clamp-2 text-[12.5px] font-medium leading-snug text-ink group-hover:underline">
-                {pick.title}
-              </p>
-              <p className="mt-1 text-[13.5px] font-semibold text-ink" data-num>
-                {pick.price}
-              </p>
+      <SlideFrame>
+        <div className={`relative ${photo ? "lg:max-w-[370px]" : ""}`}>
+          <p className="kicker text-turmeric-200">Supplements</p>
+          <h1
+            id={active ? "hero-heading" : undefined}
+            className="mt-2 text-balance text-[27px] leading-[1.06] text-white sm:text-[38px] lg:text-[42px]"
+          >
+            Vitamins, minerals and daily essentials
+          </h1>
+          <p className="mt-3.5 text-[14.5px] text-white/85" data-num>
+            {stats.products} products · {stats.brands} brands · {stats.shelves} shelves
+          </p>
+
+          <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-3">
+            <ShopNow href="/c/vitamins">Shop Now</ShopNow>
+            <Link
+              href="/#shelf"
+              className="text-[13.5px] font-medium text-white/85 underline-offset-4 hover:text-white hover:underline"
+            >
+              Browse all shelves
             </Link>
-          </li>
-        ))}
-      </ul>
-    </SlideFrame>
+          </div>
+        </div>
+
+        {/* Examples: best sellers in stock, each straight through to its page. */}
+        <ul className={GRID}>
+          {picks.map((pick) => (
+            <li key={pick.slug}>
+              <Link href={`/p/${pick.slug}`} className={`group ${TILE} transition hover:bg-white`}>
+                <div className={SHOT}>
+                  <Image
+                    src={pick.image}
+                    alt=""
+                    fill
+                    sizes="(max-width: 640px) 40vw, 160px"
+                    className="object-contain p-1"
+                  />
+                </div>
+                <p className="facts mt-2 truncate text-plum-700">{pick.brand}</p>
+                <p className="mt-0.5 line-clamp-2 text-[12.5px] font-medium leading-snug text-ink group-hover:underline">
+                  {pick.title}
+                </p>
+                <p className="mt-1 text-[13.5px] font-semibold text-ink" data-num>
+                  {pick.price}
+                </p>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </SlideFrame>
+    </div>
   );
 }
 
