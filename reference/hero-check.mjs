@@ -3,9 +3,10 @@
 //   BASE_URL=http://localhost:3100 node reference/hero-check.mjs   (against `next start`)
 //
 // What it holds to: the arrows move within the tab you are on and never across to the other one,
-// the slideshow wraps in both directions so no arrow is ever disabled, each tab keeps its own
-// position, the dots follow that position and jump to their slide, and only the slide on screen is
-// reachable — every other one is inert.
+// the slideshow wraps in both directions so no arrow is ever disabled, the dots follow that position
+// and jump to their slide, and only the slide on screen is reachable — every other one is inert.
+// Medical equipment is locked for now, so its assertions are that it cannot be opened: the tab is
+// announced disabled, carries the restricted cursor, and a press leaves the topic where it was.
 import { chromium } from 'playwright-core';
 
 const EXE = 'C:/Users/sixth/AppData/Local/ms-playwright/chromium-1234/chrome-win64/chrome.exe';
@@ -50,6 +51,13 @@ const step = async (locator) => {
   await locator.click();
   await page.waitForTimeout(700);
 };
+// A press on the locked tab. Playwright reads `aria-disabled` as not-enabled and would wait for it
+// to become clickable, which is the point of the attribute — so this presses it anyway, the way a
+// pointer does, and the assertions below are that nothing moved.
+const press = async (locator) => {
+  await locator.click({ force: true });
+  await page.waitForTimeout(700);
+};
 
 // ---------- Supplements: the arrow stays inside the tab ----------
 check('opens on the Supplements tab', await pressed('supplements'), 'true');
@@ -86,25 +94,20 @@ check('the slideshow wraps forward', await heading(), 'Vitamins, minerals and da
 await step(prev);
 check('the slideshow wraps back', await heading(), lastShelf);
 
-// ---------- Medical equipment: its own slideshow, its own position ----------
-await step(equipmentTab);
-check('the pill switches topic', await pressed('equipment'), 'true');
-check('the equipment tab opens on its first range', await heading(), 'Blood pressure monitors');
-check('the supplements panel goes inert', await panelOff('supplements'), 'true');
+// ---------- Medical equipment: locked ----------
+// The tab is visible but closed off: announced disabled rather than `disabled`, so it keeps the
+// restricted cursor and a hover title instead of going silent under the pointer.
+check('the equipment tab is announced disabled', await equipmentTab.getAttribute('aria-disabled'), 'true');
+check('it is not a real `disabled` button', await equipmentTab.evaluate((el) => el.disabled), 'false');
+check('it shows the restricted cursor', await equipmentTab.evaluate((el) => getComputedStyle(el).cursor), 'not-allowed');
+check('it is neither pressed nor unpressed', await pressed('equipment'), 'null');
 
-await step(next);
-check('next advances the range', await heading(), 'Thermometers');
-check('next did not cross back to supplements', await pressed('equipment'), 'true');
-
-await step(next);
-await step(next);
-await step(next);
-check('the equipment slideshow wraps too', await heading(), 'Blood pressure monitors');
-
-// ---------- each tab remembers where it was ----------
-await step(supplementsTab);
-check('supplements returns to the slide it was left on', await heading(), lastShelf);
-check('the dot row returns with it', await current(), slideCount - 1);
+await press(equipmentTab);
+check('pressing it does not switch topic', await pressed('supplements'), 'true');
+check('the equipment panel stays inert', await panelOff('equipment'), 'true');
+check('supplements holds the slide it was on', await heading(), lastShelf);
+check('the dot row stays with it', await current(), slideCount - 1);
+check('the supplements tab is still live', await supplementsTab.getAttribute('aria-disabled'), 'null');
 
 // ---------- a dot jumps to its slide ----------
 await step(dots.nth(1));

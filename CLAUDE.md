@@ -82,6 +82,10 @@ the static catalogue module, and PostgreSQL for what visitors write.
   beside the cart. Pinned height is the `--spacing-chrome` token (103px): `html`'s
   `scroll-padding-top` and the PDP buy box's sticky offset both read it, so changing the chrome's
   height is a one-line edit.
+- **`components/chrome/site-header.tsx` carries a temporary preview notice** — two lines of small
+  red Thai ("ยังไม่เสร็จ / พรีเวิว", *not finished / preview*) to the left of the lockup, sharing a
+  tight gap with it so it reads as a note pinned beside the logo. **Delete it before launch**; it is
+  the only thing in the masthead that is not meant to ship.
 - Everything is a server component except the cart, category-nav panel, sort select, countdown,
   rail scroller, sticky chrome, the product-gallery zoom, and the account/review/save islands
   described under Accounts and reviews.
@@ -376,6 +380,13 @@ meet at the types in `components/home/hero-slides.ts`.
   arrow on Supplements landed the shopper on a blue field about nebulisers — and each arrow disabled
   itself the moment it fired, which hands keyboard focus back to the document. **The slideshow wraps
   in both directions**, which is what keeps both arrows live and no button ever disabled.
+- **Medical equipment is locked for now.** `locked` on its entry in `TABS` closes the topic off: the
+  tab still shows, because that shelf is coming and the banner is where it will be announced, but it
+  cannot be opened. It is `aria-disabled` with a no-op press rather than a `disabled` button — a
+  `disabled` button gets no pointer events, so it would lose both the `not-allowed` cursor and the
+  hover title that say *why* it will not open. A `CircleSlashIcon` beside the dimmed label says the
+  same thing without a hover. Unlocking it is deleting one flag; the panel, its slides and its own
+  saved position are all still wired up and untouched.
 - **Two nested tracks, not one flat track of every slide.** Flat, a tab switch would animate through
   the intervening slides. Nested, the outer track moves between topics and each panel's inner track
   moves within one — and **each tab keeps its own position**, so returning to Supplements returns you
@@ -407,6 +418,10 @@ meet at the types in `components/home/hero-slides.ts`.
   compositions, so the hero preloads one file. `object-position` is biased down and right: the three
   spoons sit below centre and in the right-hand two thirds, so a centred window cuts the last of
   them in half and a narrow one lands on empty wood.
+- **The body copy on a supplements slide runs a step heavier than body copy elsewhere** — the blurb
+  and the in-stock line are `font-medium` and plum rather than grey, because they are the only prose
+  on the site sitting on a photograph and wood grain eats 400-weight type. The wash under them is not
+  the lever to reach for instead: deepen it and the copy half reads as a panel pasted over the shot.
 - **The copy column is measured against the empty half of the shot**, which is its left 43% — 426px
   of a 992px banner at `lg`, so the block narrows there and widens again at `xl`. The plum button is
   the site's ordinary primary button, not `btn-cart`; that gradient is add-to-cart and nothing else.
@@ -431,9 +446,9 @@ meet at the types in `components/home/hero-slides.ts`.
   it is sized as a mark rather than a thumbnail: it is the only visual on the slide. The 2x2 tile grid
   it replaced put every range on every slide, so the arrow had nothing to change but the heading.
 
-Assertions for all of it — that an arrow stays inside its tab, that both directions wrap, that each
-tab keeps its own position, that the dots follow and jump, and that only the slide on screen is
-reachable:
+Assertions for all of it — that an arrow stays inside its tab, that both directions wrap, that the
+dots follow and jump, that only the slide on screen is reachable, and that the locked tab cannot be
+opened by pressing it:
 
 ```bash
 node reference/hero-check.mjs   # needs the dev server up

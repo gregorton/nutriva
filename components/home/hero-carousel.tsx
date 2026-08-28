@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
-import { ArrowIcon } from "@/components/ui/icons";
+import { ArrowIcon, CircleSlashIcon } from "@/components/ui/icons";
 import { EquipmentGlyph } from "@/components/home/equipment-glyphs";
 import type { HeroCta, RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
 
@@ -120,14 +120,21 @@ export function HeroCarousel({
               <button
                 key={entry.id}
                 type="button"
-                onClick={() => setTab(index)}
-                aria-pressed={tab === index}
+                onClick={entry.locked ? undefined : () => setTab(index)}
+                aria-disabled={entry.locked || undefined}
+                aria-pressed={entry.locked ? undefined : tab === index}
                 aria-controls={`hero-panel-${entry.id}`}
-                aria-label={entry.label}
-                className={`whitespace-nowrap rounded-full px-3 py-1 text-[12px] font-medium transition-colors ${
-                  tab === index ? "bg-white text-ink" : "text-white/80 hover:text-white"
+                aria-label={entry.locked ? `${entry.label} — coming soon` : entry.label}
+                title={entry.locked ? "Coming soon" : undefined}
+                className={`flex items-center gap-1.5 whitespace-nowrap rounded-full px-3 py-1 text-[12px] font-medium transition-colors ${
+                  entry.locked
+                    ? "cursor-not-allowed text-white/45"
+                    : tab === index
+                      ? "bg-white text-ink"
+                      : "text-white/80 hover:text-white"
                 }`}
               >
+                {entry.locked ? <CircleSlashIcon className="h-3 w-3 shrink-0" /> : null}
                 <span className="sm:hidden">{entry.short}</span>
                 <span className="hidden sm:inline">{entry.label}</span>
               </button>
@@ -168,10 +175,14 @@ export function HeroCarousel({
  * "Medical equipment" and four dots do not fit on one line — the label wrapped to two. The button's
  * `aria-label` stays the full name either way, so the accessible name does not change with the
  * viewport.
+ *
+ * `locked` closes a topic off while it has nothing behind it. Medical equipment is locked for now:
+ * the tab stays visible, because the shelf is coming and the banner is where it will be announced,
+ * but it cannot be opened.
  */
 const TABS = [
-  { id: "supplements", label: "Supplements", short: "Supplements" },
-  { id: "equipment", label: "Medical equipment", short: "Equipment" },
+  { id: "supplements", label: "Supplements", short: "Supplements", locked: false },
+  { id: "equipment", label: "Medical equipment", short: "Equipment", locked: true },
 ] as const;
 
 /* ── Tracks ──────────────────────────────────────────────────────────────────────────────── */
@@ -356,10 +367,20 @@ function SupplementsSlide({
           >
             {slide.heading}
           </Heading>
+          {/* The blurb and the in-stock line are the only body copy on the site that sits on a
+              photograph, and wood grain competes with type at 400 weight however light the wash
+              under it is. Both run a step heavier and a shade darker than the same lines would on
+              white — the wash cannot be deepened instead without the copy half reading as a panel
+              pasted over the shot. */}
           {slide.blurb ? (
-            <p className="mt-3.5 text-balance text-[14.5px] text-plum-900/75">{slide.blurb}</p>
+            <p className="mt-3.5 text-balance text-[14.5px] font-medium text-plum-900/85">
+              {slide.blurb}
+            </p>
           ) : null}
-          <p className={`text-[14.5px] text-muted ${slide.blurb ? "mt-1.5" : "mt-4"}`} data-num>
+          <p
+            className={`text-[14.5px] font-medium text-plum-900/65 ${slide.blurb ? "mt-1.5" : "mt-4"}`}
+            data-num
+          >
             {slide.figures}
           </p>
 

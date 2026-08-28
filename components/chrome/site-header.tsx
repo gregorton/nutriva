@@ -18,12 +18,27 @@ export function SiteHeader() {
   return (
     <header className="border-b border-line bg-white">
       <div className="shell flex h-[72px] items-center gap-4 transition-[height] duration-200 group-data-[stuck=true]/chrome:h-[58px] sm:gap-8">
-        {/* The lockup is stacked, so it takes most of the masthead's height to keep
-            "WELLNESS ASIA" legible: 7px of clearance in both states, which is as much as the
-            72px row and its 58px condensed form will give it. */}
-        <Link href="/" className="shrink-0" aria-label="Slim Wellness Asia home">
-          <Logo className="h-[58px] transition-[height] duration-200 group-data-[stuck=true]/chrome:h-[44px]" />
-        </Link>
+        {/* TEMPORARY: preview notice, to be deleted before launch. It shares a tight gap with
+            the lockup rather than sitting in the row's own `gap-8`, so it reads as a note pinned
+            beside the logo and pushes it right by as little as possible. Small and stacked on
+            purpose — the preview should look finished, not plastered with a warning. */}
+        <div className="flex shrink-0 items-center gap-2 sm:gap-3">
+          <p
+            lang="th"
+            className="text-right text-[11px] font-medium leading-[1.35] text-red-700"
+          >
+            ยังไม่เสร็จ
+            <br />
+            พรีเวิว
+          </p>
+
+          {/* The lockup is stacked, so it takes most of the masthead's height to keep
+              "WELLNESS ASIA" legible: 7px of clearance in both states, which is as much as the
+              72px row and its 58px condensed form will give it. */}
+          <Link href="/" className="shrink-0" aria-label="Slim Wellness Asia home">
+            <Logo className="h-[58px] transition-[height] duration-200 group-data-[stuck=true]/chrome:h-[44px]" />
+          </Link>
+        </div>
 
         <form action="/search" className="relative hidden max-w-2xl flex-1 sm:block" role="search">
           <label htmlFor="site-search" className="sr-only">
