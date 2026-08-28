@@ -6,10 +6,20 @@
  * color logic while converting fixed 1376×316 capture dimensions to
  * fluid responsive constraints and consolidating tokens for maintainability.
  *
- * The one departure from the capture: the five glyphs are drawn here rather than
- * hotlinked off `s3.images-iherb.com`, which put a third party in the render path
- * and shipped their assets. Same shapes, same weights, our line art.
+ * Two departures from the capture. The five glyphs are drawn here rather than hotlinked off
+ * `s3.images-iherb.com`, which put a third party in the render path and shipped their assets —
+ * same shapes, same weights, our line art. And the field behind them is a photograph of brushed
+ * navy metal rather than a flat ramp.
  */
+
+import { existsSync } from "node:fs";
+import path from "node:path";
+import Image from "next/image";
+
+/** The band's field. Checked on disk rather than imported, so replacing it is a file drop and a
+ *  missing file leaves the `banner-clinic` ramp showing instead of failing the build. The name is
+ *  the file as supplied — spaces and all; `next/image` encodes the URL. */
+const BAND_PHOTO = "/hero/Navy brushed aluminium band.png";
 
 const CARDS = [
   { icon: FlaskGlyph, text: "Ingredients that have been studied in the scientific literature" },
@@ -19,13 +29,29 @@ const CARDS = [
 ] as const;
 
 export function TrustBand() {
+  const photo = existsSync(path.join(process.cwd(), "public", BAND_PHOTO)) ? BAND_PHOTO : null;
+
   return (
     <section className="shell mt-6" aria-labelledby="professional-brands-heading">
-      {/* The banner ramp itself lives in globals.css — the home hero's equipment slide and the
-          /equipment page read the same three stops, so this blue means one thing site-wide. */}
+      {/* `banner-clinic` stays underneath the photograph: it is what paints while the image loads
+          and what shows if the file is ever missing. The ramp lives in globals.css — the home
+          hero's equipment slide and the /equipment page read the same three stops, so this blue
+          means one thing site-wide, and the photograph runs dark-left to light-right like it. */}
       <div className="banner-clinic relative flex flex-col items-center overflow-hidden rounded-tile p-8">
+        {photo ? (
+          <Image
+            src={photo}
+            alt=""
+            fill
+            /* The band spans the shell, so it is viewport-wide up to the 1376px the shell caps at. */
+            sizes="(min-width: 1440px) 1376px, 100vw"
+            /* Cropped from the centre: the grain is horizontal and the light falls left to right,
+               so height is the only axis there is nothing to lose along. */
+            className="pointer-events-none select-none object-cover object-center"
+          />
+        ) : null}
 
-        <div className="w-full max-w-[1312px]">
+        <div className="relative w-full max-w-[1312px]">
           {/* header */}
           <div className="mb-6">
             <div className="mb-3 flex flex-wrap items-center gap-6">
