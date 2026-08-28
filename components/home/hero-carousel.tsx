@@ -156,10 +156,16 @@ function SlideFrame({ children }: { children: React.ReactNode }) {
   );
 }
 
-/* Examples grid and its tiles — one set of classes, so both slides line up to the pixel. */
+/* Examples grid and its tiles — one set of classes, so both slides line up to the pixel.
+   The tile is glass rather than white: the field reads through it, so the hero stays one
+   surface instead of four cards pasted onto it. The photo keeps its own light plate, because
+   the catalogue shots are JPEG on white — dropped straight onto the tint they would show as
+   white rectangles. */
 const GRID = "grid grid-cols-2 gap-2.5 sm:gap-3";
-const TILE = "flex h-full flex-col rounded-card bg-white/95 p-2.5 sm:p-3";
-const SHOT = "relative h-[76px] w-full overflow-hidden rounded-[7px] sm:h-[104px] lg:h-[116px]";
+const TILE =
+  "flex h-full flex-col rounded-card bg-white/12 p-2.5 ring-1 ring-inset ring-white/25 shadow-[0_2px_14px_rgba(0,0,0,0.18)] backdrop-blur-md sm:p-3";
+const SHOT =
+  "relative h-[76px] w-full overflow-hidden rounded-[7px] bg-white sm:h-[104px] lg:h-[116px]";
 
 /** Shop Now, identical on both slides. */
 function ShopNow({ href, children }: { href: string; children: React.ReactNode }) {
@@ -236,7 +242,7 @@ function SupplementsSlide({
         <ul className={GRID}>
           {picks.map((pick) => (
             <li key={pick.slug}>
-              <Link href={`/p/${pick.slug}`} className={`group ${TILE} transition hover:bg-white`}>
+              <Link href={`/p/${pick.slug}`} className={`group ${TILE} transition hover:bg-white/20`}>
                 <div className={SHOT}>
                   <Image
                     src={pick.image}
@@ -246,11 +252,11 @@ function SupplementsSlide({
                     className="object-contain p-1"
                   />
                 </div>
-                <p className="facts mt-2 truncate text-plum-700">{pick.brand}</p>
-                <p className="mt-0.5 line-clamp-2 text-[12.5px] font-medium leading-snug text-ink group-hover:underline">
+                <p className="facts mt-2 truncate !text-turmeric-200">{pick.brand}</p>
+                <p className="mt-0.5 line-clamp-2 text-[12.5px] font-medium leading-snug text-white group-hover:underline">
                   {pick.title}
                 </p>
-                <p className="mt-1 text-[13.5px] font-semibold text-ink" data-num>
+                <p className="mt-1 text-[13.5px] font-semibold text-white" data-num>
                   {pick.price}
                 </p>
               </Link>
@@ -288,11 +294,11 @@ function EquipmentSlide({ ranges, active }: { ranges: EquipmentRange[]; active: 
       <ul className={GRID}>
         {ranges.map((range) => (
           <li key={range.name} className={TILE}>
-            <div className={`${SHOT} flex items-center justify-center bg-clinic-100 text-clinic-700`}>
+            <div className={`${SHOT} flex items-center justify-center !bg-clinic-100 text-clinic-700`}>
               <EquipmentGlyph range={range.glyph} className="h-[58px] w-[58px] lg:h-[76px] lg:w-[76px]" />
             </div>
-            <p className="mt-2 text-[12.5px] font-medium leading-snug text-ink">{range.name}</p>
-            <p className="facts mt-1">{range.spec}</p>
+            <p className="mt-2 text-[12.5px] font-medium leading-snug text-white">{range.name}</p>
+            <p className="facts mt-1 !text-white/70">{range.spec}</p>
           </li>
         ))}
       </ul>
