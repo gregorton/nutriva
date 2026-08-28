@@ -14,7 +14,7 @@ import { adjust } from "./fx";
   the day it ran, at that day's exchange rate, so `lib/fx.ts` restates it at today's rate and
   rounds up to the whole baht. That happens once, in the mapper below, which is why the rest of
   the storefront — filter bands, sorting, kit totals, the free-delivery threshold — can go on
-  treating `price` as a plain THB number.
+  treating `price` as a plain THB number, and why every figure `price()` formats ends in `.00`.
 
   A field iHerb does not state comes through as null or an empty array, and the component that
   would have shown it renders nothing. That rule is what keeps the page honest: no guessed

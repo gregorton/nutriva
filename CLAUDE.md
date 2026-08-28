@@ -527,11 +527,12 @@ figure. Dividing by iHerb's own 32.81 instead would shave the spread off every p
 So on a re-harvest this constant wants the market rate for the new harvest date, not the rate the new
 prices imply.
 
-**Prices round up to the whole baht** (`Math.ceil`, and `price()` in `lib/format.ts` prints no
-satang). Once the figure is ours rather than a copy, satang read as a machine's output; rounding up
-rather than to the nearest keeps every price at or above what it converts to, and moves none by more
-than ฿1. That is the whole policy — no charm pricing, nothing nudged to ฿599, because ฿9 is a margin
-decision and does not belong inside a currency conversion.
+**Prices round up to the whole baht** (`Math.ceil` in `adjust`). Once the figure is ours rather than
+a copy, satang read as a conversion's leftovers; rounding up rather than to the nearest keeps every
+price at or above what it converts to, and moves none by more than ฿1. `price()` in `lib/format.ts`
+still prints two decimals, so the shopper sees `฿357.00` — the satang are a display convention on a
+whole-baht amount, and are always `.00`. That is the whole policy — no charm pricing, nothing nudged
+to ฿599, because ฿9 is a margin decision and does not belong inside a currency conversion.
 
 **The rate is a committed build input, not a runtime lookup**, for the same reason the masthead does
 not await `cookies()`: `lib/catalog.ts` is synchronous and imported by every page, so awaiting a rate

@@ -21,11 +21,12 @@ import fx from "./fx.generated.json";
   `fx.generated.json`, committed alongside the deploy that used it.
 
   Prices round *up* to the whole baht. Once the displayed figure is ours rather than a copy of the
-  source's, satang read as a machine's output rather than a price somebody set, and rounding up
-  rather than to the nearest keeps every price at or above what it converts to. The most it moves
-  any price is ฿1. That is the whole of the rounding policy: no charm pricing, nothing nudged to
-  ฿599, because moving a price by ฿9 is a margin decision and does not belong inside a currency
-  conversion.
+  source's, a price carrying satang reads as a conversion's leftovers rather than a price somebody
+  set, and rounding up rather than to the nearest keeps every price at or above what it converts to.
+  The most it moves any price is ฿1. `price()` in `lib/format.ts` still prints two decimals, so the
+  shopper sees ฿357.00 — the satang are a display convention on a whole-baht amount. That is the
+  whole of the rounding policy: no charm pricing, nothing nudged to ฿599, because moving a price by
+  ฿9 is a margin decision and does not belong inside a currency conversion.
 */
 
 /** ECB reference rate for USD/THB on 2026-08-25, the date the catalogue was harvested.

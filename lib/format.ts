@@ -1,14 +1,15 @@
 export const FREE_DELIVERY_THRESHOLD = 1200;
 
 const baht = new Intl.NumberFormat("en-US", {
-  minimumFractionDigits: 0,
-  maximumFractionDigits: 0,
+  minimumFractionDigits: 2,
+  maximumFractionDigits: 2,
 });
 
-/** ฿554 — currency is fixed to THB while the store is Thailand-only.
+/** ฿357.00 — currency is fixed to THB while the store is Thailand-only.
  *
- *  Whole baht, because every price reaching this function has been through `adjust` in `lib/fx.ts`
- *  and is already an integer. Satang here would print a trailing `.00` on all of them. */
+ *  Two decimals always, and always `.00`: every price reaching this function has been through
+ *  `adjust` in `lib/fx.ts` and is a whole baht. The satang are a display convention — a money
+ *  column reads as money — not a sign that anything is priced below the baht. */
 export function price(value: number): string {
   return `฿${baht.format(value)}`;
 }
