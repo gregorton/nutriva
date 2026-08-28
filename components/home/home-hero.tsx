@@ -19,14 +19,18 @@ import type { RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
 const HERO_PHOTO = "/hero/Supplements flat-lay banner v3.png";
 
 /**
- * The shelves the arrow advances through after the opening slide. `photo` is the shot that slide
- * would rather have than the flat-lay; until the file is on disk the flat-lay stands in, so giving
- * a shelf its own photograph is a file drop and nothing else.
+ * The shelves the arrow advances through after the opening slide, in the order the photographs were
+ * supplied in. `photo` is that shelf's own shot; a shelf whose file is not on disk falls back to the
+ * flat-lay rather than failing the build, so adding or swapping a shelf is a file drop and a line
+ * here. Every shot in this list is composed the same way as the flat-lay — subject in the right-hand
+ * two thirds, bare wood on the left — because the copy column sits in that empty half.
  */
 const SHELVES: { slug: CategorySlug; cta: string; photo: string }[] = [
-  { slug: "vitamins", cta: "Shop vitamins", photo: "/hero/Vitamins banner.png" },
-  { slug: "minerals", cta: "Shop minerals", photo: "/hero/Minerals banner.png" },
-  { slug: "omega", cta: "Shop omega", photo: "/hero/Omega banner.png" },
+  { slug: "vitamins", cta: "Shop vitamins", photo: "/hero/vitamins-native.jpg" },
+  { slug: "minerals", cta: "Shop minerals", photo: "/hero/minerals-native.jpg" },
+  { slug: "immunity", cta: "Shop immunity", photo: "/hero/supplements-04-immunity.jpg" },
+  { slug: "omega", cta: "Shop omega", photo: "/hero/supplements-05-omega.jpg" },
+  { slug: "herbs", cta: "Shop herbs", photo: "/hero/supplements-06-herbal.jpg" },
 ];
 
 function onDisk(file: string): string | null {

@@ -370,8 +370,8 @@ the client component would put the whole generated catalogue in the browser bund
 meet at the types in `components/home/hero-slides.ts`.
 
 - **The pill switches topic and the arrows move within it.** Supplements advances through the shelves
-  (the opening slide, then Vitamins, Minerals, Omega — heading, blurb and in-stock count all read off
-  `CATEGORIES`), Medical equipment through the four ranges. Neither arrow ever crosses to the other
+  (the opening slide, then Vitamins, Minerals, Immunity, Omega, Herbs — heading, blurb and in-stock
+  count all read off `CATEGORIES`), Medical equipment through the four ranges. Neither arrow ever crosses to the other
   topic. They used to: with a slide each there was nothing else for an arrow to do, so the right
   arrow on Supplements landed the shopper on a blue field about nebulisers — and each arrow disabled
   itself the moment it fired, which hands keyboard focus back to the document. **The slideshow wraps
@@ -386,10 +386,12 @@ meet at the types in `components/home/hero-slides.ts`.
   phone the tab label shortens to "Equipment" — at 375px the full label and four dots do not fit on
   one line and the label wrapped to two. The button's `aria-label` stays the full name, so the
   accessible name does not change with the viewport.
-- **Each supplements slide has its own photograph slot, and falls back to the flat-lay.**
-  `SHELVES` in `home-hero.tsx` names the file a shelf would rather have (`/hero/Minerals banner.png`
-  and so on); until it is on disk every slide shows the flat-lay, so the arrow currently advances the
-  shelf, the figures and the button over one photograph. Dropping the file in is the whole change.
+- **Each supplements slide has its own photograph.** `SHELVES` in `home-hero.tsx` pairs a shelf with
+  its shot, in the order the photographs were supplied in, and a shelf whose file is not on disk falls
+  back to the flat-lay rather than failing the build — so adding, swapping or reordering a shelf is a
+  file drop and a line in that list. Every shot has to be composed the way the flat-lay is (subject in
+  the right-hand two thirds, bare wood on the left), because the copy column sits in the empty half.
+  Nothing hardcodes how many there are: the frame, the dot row and `hero-check.mjs` all count them.
 - **The supplements slides are photographs with copy on them, and carry no products.** The flat-lay
   (`public/hero/Supplements flat-lay banner v3.png`) is the whole field: dark type, a plum Shop All
   and one cross-link sit in the left half, which is empty in the shot, so nothing has to be dimmed

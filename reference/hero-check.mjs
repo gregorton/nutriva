@@ -57,9 +57,17 @@ check('opens on the opening slide', await heading(), 'Vitamins, minerals and dai
 check('exactly one heading carries the id', await headings(), 1);
 check('the equipment panel starts inert', await panelOff('equipment'), 'true');
 
+// The slide count follows the photographs in `SHELVES`, so nothing here hardcodes it: the dot row is
+// checked against the slides actually mounted in the panel, and the last shelf's name is read off the
+// last dot's own label (`Slide N of N: <heading>`).
 const slideCount = await dots.count();
-check('one dot per supplements slide', slideCount, 4);
+const mounted = await page.evaluate(
+  () => document.querySelectorAll('#hero-panel-supplements [aria-roledescription="slide"]').length,
+);
+check('one dot per supplements slide', slideCount, mounted);
 check('the dot row starts on the first slide', await current(), 0);
+
+const lastShelf = await dots.nth(slideCount - 1).evaluate((el) => el.getAttribute('aria-label').split(': ').slice(1).join(': '));
 
 await step(next);
 check('next advances the shelf', await heading(), 'Vitamins');
@@ -70,14 +78,13 @@ check('only the slide on screen is reachable', await live(), 1);
 check('focus stays on the arrow after a press', await page.evaluate(() => document.activeElement?.getAttribute('aria-label')), 'Next slide');
 check('neither arrow is ever disabled', await page.evaluate(() => !!document.querySelector('button[aria-label$=" slide"][disabled]')), 'false');
 
-await step(next);
-await step(next);
-check('third press reaches the last shelf', await heading(), 'Omega & fish oil');
+for (let i = 2; i < slideCount; i++) await step(next);
+check('pressing next through the row reaches the last shelf', await heading(), lastShelf);
 
 await step(next);
 check('the slideshow wraps forward', await heading(), 'Vitamins, minerals and daily essentials');
 await step(prev);
-check('the slideshow wraps back', await heading(), 'Omega & fish oil');
+check('the slideshow wraps back', await heading(), lastShelf);
 
 // ---------- Medical equipment: its own slideshow, its own position ----------
 await step(equipmentTab);
@@ -96,8 +103,8 @@ check('the equipment slideshow wraps too', await heading(), 'Blood pressure moni
 
 // ---------- each tab remembers where it was ----------
 await step(supplementsTab);
-check('supplements returns to the slide it was left on', await heading(), 'Omega & fish oil');
-check('the dot row returns with it', await current(), 3);
+check('supplements returns to the slide it was left on', await heading(), lastShelf);
+check('the dot row returns with it', await current(), slideCount - 1);
 
 // ---------- a dot jumps to its slide ----------
 await step(dots.nth(1));
