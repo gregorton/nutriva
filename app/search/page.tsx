@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CATEGORIES, search } from "@/lib/catalog";
+import { didYouMean } from "@/lib/search-suggest";
 import { ProductGrid } from "@/components/product/product-grid";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { values, type RawSearchParams } from "@/lib/query";
@@ -11,6 +12,9 @@ export default async function SearchPage({ searchParams }: PageProps<"/search">)
   const raw = (await searchParams) as RawSearchParams;
   const query = values(raw, "q")[0] ?? "";
   const results = search(query);
+  // The same nearest-vocabulary guess the dropdown offers, from the same module, so a suggestion and
+  // this page can never name different words for one typo.
+  const suggestion = results.length === 0 && query.trim() ? didYouMean(query) : null;
 
   return (
     <div className="shell py-6">
@@ -39,7 +43,16 @@ export default async function SearchPage({ searchParams }: PageProps<"/search">)
           <p className="font-display text-lg">
             {query ? <>Nothing matched “{query}”</> : "Type what you are looking for"}
           </p>
-          <p className="mx-auto mt-1.5 max-w-md text-sm text-muted">
+          {suggestion ? (
+            <p className="mt-3 text-[15px]">
+              Did you mean{" "}
+              <Link href={suggestion.href} className="font-semibold text-plum-700 underline">
+                {suggestion.label}
+              </Link>
+              ? <span className="text-muted">({suggestion.count} products)</span>
+            </p>
+          ) : null}
+          <p className="mx-auto mt-3 max-w-md text-sm text-muted">
             Try a nutrient (magnesium), a format (gummies) or a brand. Or start from a category:
           </p>
           <ul className="mt-5 flex flex-wrap justify-center gap-2">

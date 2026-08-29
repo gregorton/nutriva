@@ -136,6 +136,18 @@ const GROUPS: Record<CategorySlug, Group[]> = {
   ],
 };
 
+/**
+ * Every defined group label, paired with the category that defines it. The search vocabulary in
+ * `lib/search-suggest.ts` counts these against the stock the same way the rail does, so a
+ * suggestion and a tile can never disagree about whether a type exists. Labels only — the match
+ * terms stay private to the rail.
+ */
+export function groupLabels(): { slug: CategorySlug; label: string }[] {
+  return Object.entries(GROUPS).flatMap(([slug, groups]) =>
+    groups.map((group) => ({ slug: slug as CategorySlug, label: group.label })),
+  );
+}
+
 export type Subcategory = {
   label: string;
   /** How many products in the category match — printed under the tile. */

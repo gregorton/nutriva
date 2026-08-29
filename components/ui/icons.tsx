@@ -15,6 +15,16 @@ export function SearchIcon({ className = base }: IconProps) {
   );
 }
 
+/* Recent searches. */
+export function ClockIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>
+      <circle cx="10" cy="10" r="7" />
+      <path d="M10 6v4.2l2.8 1.8" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
 export function CartIcon({ className = base }: IconProps) {
   return (
     <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" className={className} aria-hidden>

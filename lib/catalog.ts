@@ -308,19 +308,123 @@ export function related(product: Product, limit = 6): Product[] {
     .slice(0, limit);
 }
 
+/*
+  Search. Two rules do the work, and both replace a bare `includes` test that used to be here.
+
+  A term matches on a **word prefix**, not a substring. `vitamin d` used to return 172 of the 470
+  products, second among them a marine collagen powder, because `d` is a substring of `Hydrolyzed`.
+  As a word prefix it matches `D3` and never the inside of another word. The same rule is what lets
+  `vit d` find vitamin D with no synonym table behind it.
+
+  And **where** a term matched decides the order. Every term still has to match somewhere, but a hit
+  in the title outranks one in the brand, which outranks the category, which outranks the label
+  fields; volume only breaks ties between equally relevant products. Ordering used to be volume
+  alone, so a bestseller whose highlight bullets happened to mention collagen outranked an actual
+  collagen product.
+*/
+
+/**
+ * Lowercase, fold hyphens and slashes to spaces, drop the rest of the punctuation. `D-3` and `D3`,
+ * `B-complex` and `B complex`, `Zinc-L-Carnosine` and `zinc l carnosine` all come out as something
+ * a typed query can be compared against directly. Exported because the suggestion vocabulary in
+ * `lib/search-suggest.ts` has to be normalised the same way or its counts disagree with `search`.
+ */
+export function normalise(input: string): string {
+  return input
+    .toLowerCase()
+    .replace(/[^a-z0-9%+&./ -]+/g, " ")
+    .replace(/[-/]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** Does `term` start a word in `haystack`? Both must already be through `normalise`. */
+export function hasTermPrefix(haystack: string, term: string): boolean {
+  let from = 0;
+  for (;;) {
+    const at = haystack.indexOf(term, from);
+    if (at < 0) return false;
+    if (at === 0 || !/[a-z0-9]/.test(haystack[at - 1])) return true;
+    from = at + 1;
+  }
+}
+
+/** Weight of the best field a term matched in. Only the best one counts, per term. */
+const TITLE_WEIGHT = 10;
+const BRAND_WEIGHT = 7;
+const CATEGORY_WEIGHT = 5;
+const LABEL_WEIGHT = 2;
+/** Bonuses, applied once per product rather than per term. */
+const PHRASE_IN_TITLE = 8;
+const TITLE_OPENS_WITH_PHRASE = 6;
+const IN_STOCK_BONUS = 1;
+/** Under this length, a term may only match the title, brand or category — a stray `d` in a
+ *  highlight bullet is noise, and matching it there is what inflated `vitamin d` to 172 rows. */
+const SHORT_TERM = 3;
+
+type SearchFields = { title: string; brand: string; category: string; label: string };
+
+/*
+  Normalised once at module load rather than per query: 470 products come to about 3ms here and
+  nothing per request, where normalising inside the loop would redo the same work on every
+  keystroke of the suggestion endpoint.
+*/
+const searchFields: SearchFields[] = products.map((product) => ({
+  title: normalise(product.title),
+  brand: normalise(product.brand),
+  category: normalise(`${product.category} ${CATEGORY_BY_SLUG.get(product.category)?.name ?? ""}`),
+  label: normalise(
+    [product.form, product.dose, product.packQuantity, ...product.highlights].filter(Boolean).join(" "),
+  ),
+}));
+
 export function search(query: string): Product[] {
-  const q = query.trim().toLowerCase();
-  if (!q) return [];
-  const terms = q.split(/\s+/);
-  return products
-    .map((p) => {
-      const haystack = `${p.name} ${p.category} ${p.form ?? ""} ${p.highlights.join(" ")}`.toLowerCase();
-      const score = terms.reduce((total, term) => total + (haystack.includes(term) ? 1 : 0), 0);
-      return { p, score };
-    })
-    .filter(({ score }) => score === terms.length)
-    .sort((a, b) => (b.p.sold30d ?? 0) - (a.p.sold30d ?? 0))
-    .map(({ p }) => p);
+  const phrase = normalise(query);
+  if (!phrase) return [];
+  const terms = phrase.split(" ");
+  const scored: { product: Product; score: number }[] = [];
+
+  for (let index = 0; index < products.length; index++) {
+    const fields = searchFields[index];
+    let score = 0;
+    let everyTermMatched = true;
+
+    for (const term of terms) {
+      let best = 0;
+      if (hasTermPrefix(fields.title, term)) best = TITLE_WEIGHT;
+      else if (hasTermPrefix(fields.brand, term)) best = BRAND_WEIGHT;
+      else if (hasTermPrefix(fields.category, term)) best = CATEGORY_WEIGHT;
+      else if (term.length >= SHORT_TERM && hasTermPrefix(fields.label, term)) best = LABEL_WEIGHT;
+
+      if (!best) {
+        everyTermMatched = false;
+        break;
+      }
+      score += best;
+    }
+    if (!everyTermMatched) continue;
+
+    if (fields.title.includes(phrase)) score += PHRASE_IN_TITLE;
+    if (fields.title.startsWith(phrase)) score += TITLE_OPENS_WITH_PHRASE;
+    if (products[index].inStock) score += IN_STOCK_BONUS;
+
+    scored.push({ product: products[index], score });
+  }
+
+  return scored
+    .sort(
+      (a, b) =>
+        b.score - a.score ||
+        (b.product.sold30d ?? 0) - (a.product.sold30d ?? 0) ||
+        b.product.reviews - a.product.reviews,
+    )
+    .map(({ product }) => product);
+}
+
+/** The normalised fields `search` scores against, for a caller that needs to count matches
+ *  without paying for a full sort — the suggestion vocabulary counts 300-odd terms this way. */
+export function searchHaystack(index: number): SearchFields {
+  return searchFields[index];
 }
 
 export function brandsIn(items: Product[]): { name: string; count: number }[] {

@@ -4,8 +4,9 @@ import { savedSlugs } from "@/lib/saved";
 /*
   Who is signed in, and what they have saved.
 
-  The one route handler on the site — everything else that touches the database is a Server
-  Action or a server component. It exists because the masthead lives in the root layout: a
+  The only route handler that reads a session — `app/api/search/suggest/route.ts` is the other one,
+  and it reads nothing per-visitor. Everything else that touches the database is a Server Action or
+  a server component. This one exists because the masthead lives in the root layout: a
   server component there awaiting cookies() would make every route in the app dynamic and cost
   all 470 product pages their prerender. So the account state is a client island that asks here
   after mount, the same shape as the cart reading localStorage.
