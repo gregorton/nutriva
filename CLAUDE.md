@@ -238,8 +238,10 @@ switches the feature off rather than erroring, which keeps a build working with 
   **first**: reading cookies during a prerender throws a framework signal meaning "render at request time",
   and swallowing it renders the page as though nobody were signed in.
 - **Nothing under `/account` sets `force-dynamic`** — the cookie read already makes it dynamic, and forcing it
-  stops `refresh()` from an action updating the page in place. `proxy.ts` (Next 16's renamed middleware) only
-  checks whether a cookie exists, keeping a DB round trip off every prefetch.
+  stops `refresh()` from an action updating the page in place. **There is no proxy — Next 16's renamed
+  middleware — and adding one back is expensive**: it checked only whether a session cookie existed, which
+  `requireUser()` and `requireAdmin()` both do anyway with the same `?next=` redirect, and it cost 0.6MB
+  gzipped of a 3MiB Worker to do it. What it saved was a render on a signed-out prefetch. See Deployment.
 - `lib/accounts.ts`, `lib/reviews.ts`, `lib/saved.ts` are the query modules; `app/actions/*.ts` the mutations,
   and **every one re-verifies the session**: a Server Action is a POST endpoint anything can call.
 
@@ -332,8 +334,8 @@ all recorded what people look at.
   address up inside the module and lets only a boolean out. `/admin/accounts` is the one surface on
   the site that displays an address, and that is what the gate is protecting.
 - **Read-only by construction** — no action, no form, no mutation. A leaked admin session discloses
-  and cannot damage. `proxy.ts` matches `/admin` too, but only for the cookie-presence check: it is
-  not the gate.
+  and cannot damage. Nothing stands in front of it either — `requireAdmin()` on each page is the
+  whole gate, and there is no proxy to mistake for one.
 
 **The counters** are `lib/schema/003_analytics.sql`, written by `lib/analytics.ts` and read by
 `lib/admin-stats.ts`: `product_views`, `page_views`, `search_queries`, each a `(thing, day)` primary
@@ -564,6 +566,9 @@ as static assets beside the Worker.
 - **`npx opennextjs-cloudflare build` cannot finish on Windows without Developer Mode** — OpenNext symlinks
   traced packages and Windows refuses `symlink` without it (junctions are permitted, symlinks are not).
   `next build` is unaffected; CI is Linux and unaffected.
+- **The free plan caps a Worker at 3MiB gzipped**, and Next 16 on OpenNext spends most of that on its own
+  server runtime — this one measured ~2.7MB before the proxy came out, ~2.1MB after. It fits, with little
+  room: a new dependency in the request path is now a size decision. Paid Workers raises the cap to 10MiB.
 - Environment variables live in the Worker's settings: `DATABASE_URL` (unset switches accounts off),
   `ADMIN_EMAILS` (unset means nobody), `OAUTH_REDIRECT_ORIGIN` plus the optional `GOOGLE_*` / `FACEBOOK_*`
   pairs. A provider whose pair is blank shows no button.
