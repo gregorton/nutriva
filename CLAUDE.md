@@ -152,10 +152,12 @@ reference site is green chrome with an orange button, so green chrome here would
 | Markdown price | `sale-600` | `#a3123a` |
 | Medical-equipment side (banner field, glyphs) | `clinic-900` -> `clinic-500`, `clinic-100` | `#0e3a6b` -> `#1b5ca7`, `#eef3f9` |
 | Neutrals | `ink` `muted` `line` `paper` `paper-warm` | warm greys, `#fbf9f5` bands |
+| Internal dashboard console, `/admin` only | `term-950` … `term-cyan`, `term-alert` | `#05080f` … `#4fd1e0`, `#ff7a89` |
 
 - **One face, every job: Inter**, behind both `--font-sans` and `--font-display`; size, weight and tracking do
   the work, `tabular-nums` aligns figures in grid columns. Inter carries no Thai — localisation needs a second
-  face.
+  face. **The one exception is `/admin`**, which loads JetBrains Mono behind `--font-term`, on that route only:
+  a console that is not monospaced is not a console.
 - **The logo is the client's artwork: placed, not drawn.** `components/chrome/logo.tsx` sets one `Image`.
   Every shipped asset derives from `public/logos/slim-wellness-asia-square.png` via
   `reference/brand/icons.mjs` — a transparent lockup for the page, plus `app/icon.png` / `app/apple-icon.png`
@@ -336,6 +338,13 @@ answer "how many", never "who", and that is the whole design rather than a gap i
   result count from `search()` — **never from the request body**. It answers 204 to everything, so
   probing it maps nothing. No CSRF token, deliberately: a forged call can only nudge an anonymous
   counter.
+- **Anyone on the allowlist is excluded from every counter.** `/api/track` calls `isAdmin()` and
+  drops the write, so the two people who open every page while building the shop cannot inflate the
+  figures they then read — on a small shop that fraction is large, and it is the one fraction that
+  is definitely not a customer. This is why the beacon's fetch must keep its default
+  `credentials: "same-origin"`: the session cookie is what identifies the request as an admin's.
+  Cost is nil for anonymous traffic, since `readSession()` returns null without a query when there
+  is no cookie.
 - **`components/analytics/view-beacon.tsx` is a client island because the counted pages must stay
   prerendered** — `/p/[slug]` is 470 built pages, and a server-side insert there would either break
   the prerender or never run again. A module-level `Set` dedupes per JS context, and there is
@@ -351,6 +360,16 @@ answer "how many", never "who", and that is the whole design rather than a gap i
 - Charts are hand-rolled inline SVG (`components/admin/bar-chart.tsx`), stretched with
   `preserveAspectRatio="none"`, which is why every bar is a plain rect: rounded corners, strokes and
   text would distort with it. No charting library — the project runs on five dependencies.
+- **It is dressed as a terminal, and that is load-bearing, not a mood.** The storefront chrome lives
+  in the root layout and cannot be opted out of per route without moving every route into a
+  `(storefront)` group, so this surface has to announce itself as not-the-shop at a glance: the
+  `term-*` tokens (dark navy through near-black, cyan accents, `term-alert` for a zero worth
+  noticing), a window bar, a shell prompt, lowercase tab labels. **Nothing here uses the brand
+  palette** except `turmeric-500`, `sold` and `star`, which all hold up on that ground. A white band
+  remains between the console and the footer — the footer's own spacing, visible only here.
+- **JetBrains Mono is loaded in `app/admin/layout.tsx`, not the root layout**, so it is requested on
+  `/admin` and nowhere else. It binds `--font-jetbrains`, which `@theme` reads through `--font-term`;
+  a separate token rather than overriding `--font-mono`, so nothing on the storefront changes face.
 - `node reference/admin-check.mjs` covers all of it and **puts every counter it touches back**, so
   unlike `auth-check.mjs` it is safe to point at the real project. The dashboard half needs
   `ADMIN_EMAILS=admin-check@slimwellness.test` on the allowlist or it SKIPs.

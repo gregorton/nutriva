@@ -1,4 +1,5 @@
 import { getProduct, search } from "@/lib/catalog";
+import { isAdmin } from "@/lib/admin";
 import { recordProductView, recordSearch, recordSurfaceView } from "@/lib/analytics";
 
 /*
@@ -44,6 +45,15 @@ export async function POST(request: Request) {
   if (typeof kind !== "string" || typeof key !== "string") return noContent();
 
   try {
+    // Whoever reads the dashboard must not move the figures on it. Two people opening every product
+    // page while building the thing is a large fraction of a small shop's traffic, and it is the one
+    // fraction that is definitely not a customer.
+    //
+    // Cheap for a stranger: readSession() returns null without a query when there is no session
+    // cookie, so anonymous traffic — nearly all of it — costs nothing extra here. Only a signed-in
+    // request pays the session and email lookups.
+    if (await isAdmin()) return noContent();
+
     if (kind === "product") {
       // Resolved through the catalogue, which is what bounds the table at one row per real
       // product per day rather than one per slug anybody cares to make up.

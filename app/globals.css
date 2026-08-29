@@ -57,6 +57,22 @@
   /* the tint a device glyph sits on, the way product shots sit on `paper` */
   --color-clinic-100: #eef3f9;
 
+  /*
+    The internal dashboard at /admin, and nowhere else: a dark console dropped into a warm
+    storefront. Deliberately outside the brand palette, because nothing on that surface is for a
+    shopper and it should not read as Slim Wellness Asia. Bars keep `turmeric-500` and `sold`, both
+    of which hold up on this ground.
+  */
+  --color-term-950: #05080f;
+  --color-term-900: #0a1220;
+  --color-term-800: #111c30;
+  --color-term-line: #1e2c46;
+  --color-term-edge: #33486d;
+  --color-term-dim: #7286a5;
+  --color-term-text: #d5e2f4;
+  --color-term-cyan: #4fd1e0;
+  --color-term-alert: #ff7a89;
+
   /* neutrals */
   --color-ink: #221a1f;
   --color-muted: #6f636b;
@@ -70,6 +86,11 @@
      headings can be retargeted in one place, but it points at the same family as the body. */
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-display: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  /* The console face, /admin only — loaded in app/admin/layout.tsx so it never reaches a
+     storefront route. A separate token rather than overriding `--font-mono`, so nothing else
+     silently changes face. */
+  --font-term: var(--font-jetbrains), ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
   --radius-card: 10px;
   --radius-tile: 14px;

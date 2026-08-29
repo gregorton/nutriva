@@ -11,11 +11,11 @@ export const metadata: Metadata = { title: "Overview" };
 const WINDOW = 30;
 
 /*
-  Overview. Two tile rows — what the database holds, and what happened today — then the two day
-  series, then how people get in and which surfaces they open.
+  Overview. Two tile rows — what the database holds, and what happened today — then the two day series,
+  then how people get in and which surfaces they open.
 
-  "Today" is Bangkok's day throughout, not the database's: Neon runs this project in GMT, and for
-  the first seven hours of every Thai day the two disagree.
+  "Today" is Bangkok's day throughout, not the database's: Neon runs this project in GMT, and for the
+  first seven hours of every Thai day the two disagree.
 */
 export default async function AdminOverviewPage() {
   await requireAdmin();
@@ -29,9 +29,9 @@ export default async function AdminOverviewPage() {
   ]);
 
   return (
-    <div className="space-y-10">
+    <div className="space-y-9">
       <section>
-        <h2 className="kicker text-muted">What the database holds</h2>
+        <Heading>what the database holds</Heading>
         <div className="mt-3 grid grid-cols-2 gap-3 lg:grid-cols-4">
           <StatTile label="Accounts" value={stats.accounts} href="/admin/accounts" />
           <StatTile label="Reviews" value={stats.reviews} href="/admin/reviews" />
@@ -45,7 +45,7 @@ export default async function AdminOverviewPage() {
       </section>
 
       <section>
-        <h2 className="kicker text-muted">Today in Bangkok</h2>
+        <Heading>today in bangkok</Heading>
         <div className="mt-3 grid grid-cols-2 gap-3 lg:grid-cols-4">
           <StatTile label="New accounts" value={stats.accountsToday} />
           <StatTile
@@ -64,44 +64,57 @@ export default async function AdminOverviewPage() {
       </section>
 
       <section className="grid grid-cols-1 gap-8 lg:grid-cols-2">
-        <BarChart points={signups} label={`Signups · last ${WINDOW} days`} tone="plum" />
-        <BarChart points={views.products} label={`Products opened · last ${WINDOW} days`} tone="sold" />
+        <BarChart points={signups} label={`signups · ${WINDOW}d`} tone="turmeric" />
+        <BarChart points={views.products} label={`products opened · ${WINDOW}d`} tone="cyan" />
       </section>
 
       <section className="grid grid-cols-1 gap-8 lg:grid-cols-2">
         <div>
           <RankTable
-            caption="How people sign in"
+            caption="how people sign in"
             columns={["Method", "Accounts"]}
             rows={[
-              { key: "password", cells: ["Password", reviewCount(providers.password)] },
-              { key: "google", cells: ["Google linked", reviewCount(providers.google)] },
-              { key: "facebook", cells: ["Facebook linked", reviewCount(providers.facebook)] },
-              { key: "none", cells: ["No password set", reviewCount(providers.providerOnly)] },
+              { key: "password", cells: ["password", reviewCount(providers.password)] },
+              { key: "google", cells: ["google linked", reviewCount(providers.google)] },
+              { key: "facebook", cells: ["facebook linked", reviewCount(providers.facebook)] },
+              { key: "none", cells: ["no password set", reviewCount(providers.providerOnly)] },
             ]}
             empty="No accounts yet."
           />
-          <p className="facts mt-2 max-w-[46ch]">
-            Counts, not shares — an account with a password and a linked provider appears on two
-            rows.
-          </p>
+          <Note>
+            Counts, not shares — an account with a password and a linked provider appears on two rows.
+          </Note>
         </div>
 
         <div>
           <RankTable
-            caption={`Pages opened · last ${WINDOW} days`}
+            caption={`pages opened · ${WINDOW}d`}
             columns={["Surface", "Opened"]}
             rows={surfaces.map((row) => ({
               key: row.surface,
               cells: [row.surface, reviewCount(row.count)],
             }))}
-            empty="Nothing recorded yet. Counters start filling as soon as somebody opens a page."
+            empty="Nothing recorded yet. Counters fill as soon as somebody who is not on the allowlist opens a page."
           />
-          <p className="facts mt-2 max-w-[46ch]">
-            Product pages are counted separately, under Products.
-          </p>
+          <Note>Product pages are counted separately, under products.</Note>
         </div>
       </section>
     </div>
   );
+}
+
+/** A section heading set as a shell comment, which is the whole reason it is lowercase. */
+function Heading({ children }: { children: React.ReactNode }) {
+  return (
+    <h2 className="text-[12px] font-normal tracking-wide text-term-dim">
+      <span className="text-term-cyan" aria-hidden>
+        #{" "}
+      </span>
+      {children}
+    </h2>
+  );
+}
+
+function Note({ children }: { children: React.ReactNode }) {
+  return <p className="mt-2 max-w-[52ch] text-[11.5px] leading-snug text-term-dim">{children}</p>;
 }

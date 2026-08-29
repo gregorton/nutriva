@@ -30,6 +30,10 @@ export function ViewBeacon({
     // `keepalive` so the request outlives the navigation that usually follows it. Deliberately no
     // AbortController: this is the one place in the codebase where aborting on unmount is wrong,
     // because unmount is the navigation being recorded.
+    //
+    // The session cookie rides along on the default `credentials: "same-origin"`, and it has to:
+    // /api/track reads it to drop views by whoever is on the admin allowlist. Setting credentials
+    // to "omit" here would quietly put the dashboard's own browsing back into its own figures.
     fetch("/api/track", {
       method: "POST",
       headers: { "Content-Type": "application/json" },

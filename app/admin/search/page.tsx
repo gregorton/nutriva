@@ -10,26 +10,23 @@ export const metadata: Metadata = { title: "Search" };
 const WINDOW = 30;
 
 /*
-  What people type into the field, and — the reason this page exists — what they typed that this
-  shop could not answer. A query with no results is a stock decision waiting to be made.
+  What people type into the field, and — the reason this page exists — what they typed that this shop
+  could not answer. A query with no results is a stock decision waiting to be made.
 
-  Only submitted searches are here. Suggestions come from /api/search/suggest, which is cached at
-  the CDN with `Netlify-Vary: query=q`, and a response served from that cache never reaches the
-  origin to be counted. So these are queries somebody committed to, not keystrokes.
+  Only submitted searches are here. Suggestions come from /api/search/suggest, which is cached at the
+  CDN with `Netlify-Vary: query=q`, and a response served from that cache never reaches the origin to
+  be counted. So these are queries somebody committed to, not keystrokes.
 */
 export default async function AdminSearchPage() {
   await requireAdmin("/admin/search");
 
-  const [top, empty] = await Promise.all([
-    topSearches(WINDOW, 30),
-    zeroResultSearches(WINDOW, 30),
-  ]);
+  const [top, empty] = await Promise.all([topSearches(WINDOW, 30), zeroResultSearches(WINDOW, 30)]);
 
   return (
-    <div className="space-y-10">
+    <div className="space-y-9">
       <section>
         <RankTable
-          caption={`Found nothing · last ${WINDOW} days`}
+          caption={`found nothing · ${WINDOW}d`}
           columns={["Query", "Searches"]}
           rows={empty.map((row) => ({
             key: row.slug,
@@ -37,22 +34,26 @@ export default async function AdminSearchPage() {
           }))}
           empty="Nothing came back empty. Either the catalogue covers what people ask for, or nobody has searched yet."
         />
-        <p className="facts mt-2 max-w-[62ch]">
-          A query drops off this list on its own once the catalogue starts matching it — the result
-          count is re-read on every search, not frozen at the first one.
-        </p>
+        <Note>
+          A query drops off this list on its own once the catalogue starts matching it — the result count
+          is re-read on every search, not frozen at the first one.
+        </Note>
       </section>
 
       <section>
         <RankTable
-          caption={`Most searched · last ${WINDOW} days`}
+          caption={`most searched · ${WINDOW}d`}
           columns={["Query", "Searches", "Results"]}
           rows={top.map((row) => ({
             key: row.query,
             cells: [
               <Query key="q" text={row.query} />,
               reviewCount(row.count),
-              row.results === 0 ? "0" : reviewCount(row.results),
+              row.results === 0 ? (
+                <span className="text-term-alert">0</span>
+              ) : (
+                reviewCount(row.results)
+              ),
             ],
           }))}
           empty="Nothing recorded yet."
@@ -65,8 +66,15 @@ export default async function AdminSearchPage() {
 /** Links to the results page, so a figure can be checked against what a shopper actually sees. */
 function Query({ text }: { text: string }) {
   return (
-    <Link href={`/search?q=${encodeURIComponent(text)}`} className="hover:underline">
+    <Link
+      href={`/search?q=${encodeURIComponent(text)}`}
+      className="transition-colors hover:text-term-cyan"
+    >
       {text}
     </Link>
   );
+}
+
+function Note({ children }: { children: React.ReactNode }) {
+  return <p className="mt-2 max-w-[64ch] text-[11.5px] leading-snug text-term-dim">{children}</p>;
 }

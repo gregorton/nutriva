@@ -215,7 +215,7 @@ const signUp = async (target, email) => {
 await signUp(page, OTHER_EMAIL);
 const denied = await page.goto(`${BASE}/admin`, { waitUntil: 'domcontentloaded' });
 check('an account that is not allowlisted gets a 404, not a 403', denied.status(), 404);
-checkThat('and is told nothing about the dashboard', !(await visible(page)).includes('internal dashboard'));
+checkThat('and is told nothing about the dashboard', !(await visible(page)).includes('swa-admin'));
 
 // ---------- the allowlisted account ----------
 if (!allowlisted) {
@@ -228,7 +228,9 @@ if (!allowlisted) {
 
   const admin = await page.goto(`${BASE}/admin`, { waitUntil: 'domcontentloaded' });
   check('an allowlisted account reaches the dashboard', admin.status(), 200);
-  checkThat('and the bar says which side of the site it is', (await visible(page)).includes('internal dashboard'));
+  const consoleText = await visible(page);
+  checkThat('the window bar names the console', consoleText.includes('swa-admin'));
+  checkThat('and the prompt says it is read-only', consoleText.includes('dashboard --read-only'));
   checkThat('the page asks not to be indexed', (await admin.text()).includes('noindex'));
 
   const accounts = Number((await scalar('select count(*)::int as n from users')).n);
@@ -256,6 +258,29 @@ if (!allowlisted) {
     const response = await page.goto(`${BASE}${path}`, { waitUntil: 'domcontentloaded' });
     check(`${path} renders`, response.status(), 200);
   }
+
+  // ---------- the dashboard must not move the figures it reads ----------
+  // context.request shares the browser cookie jar, so these calls arrive with the admin session on
+  // them, exactly as the beacon's own fetch does (credentials default to same-origin).
+  const apiWas = await productViews(API_SLUG);
+  const adminPost = await context.request.post(`${BASE}/api/track`, {
+    headers: { 'Content-Type': 'application/json' },
+    data: { kind: 'product', key: API_SLUG },
+  });
+  check('an admin beacon is still answered 204', adminPost.status(), 204);
+  check('but writes nothing', await productViews(API_SLUG), apiWas);
+
+  const queryWas = Number((await searchRow(ZERO_QUERY))?.searches ?? 0);
+  await context.request.post(`${BASE}/api/track`, {
+    headers: { 'Content-Type': 'application/json' },
+    data: { kind: 'search', key: ZERO_QUERY },
+  });
+  check('an admin search is not recorded either', Number((await searchRow(ZERO_QUERY))?.searches ?? 0), queryWas);
+
+  const pdpWas = await productViews(PDP_SLUG);
+  await page.goto(`${BASE}/p/${PDP_SLUG}`, { waitUntil: 'domcontentloaded' });
+  await page.waitForTimeout(2500);
+  check('and an admin browsing the storefront counts nothing', await productViews(PDP_SLUG), pdpWas);
 }
 
 await context.close();
