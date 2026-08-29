@@ -36,10 +36,19 @@
 	"images": {
 		"binding": "IMAGES"
 	},
-	// Build the Worker before uploading it, so a plain `wrangler deploy` is the whole deploy step.
-	"build": {
-		"command": "npx opennextjs-cloudflare build"
-	}
+	// No `build` block on purpose, and the Workers Builds commands matter:
+	//
+	//   Build command:   npx opennextjs-cloudflare build
+	//   Deploy command:  npx wrangler deploy
+	//
+	// `wrangler deploy` does not build this project. It sees a Next.js app with an
+	// open-next.config.ts and delegates to `opennextjs-cloudflare deploy`, which reads the compiled
+	// config at .open-next/.build/ and exits 1 with "Could not find compiled Open Next config" when
+	// the bundle is not already there — so the OpenNext build has to be the *build* command, not a
+	// `build.command` here. That delegation also happens before this file's build hook is honoured,
+	// and the inner `wrangler deploy` OpenNext then runs would honour it, bundling a second time
+	// during upload. A build command of `npm run build` (plain `next build`) is what left the Worker
+	// unbuilt and the deploy failing.
 
 	// Incremental cache is NOT set up yet, which is the one thing this deployment still lacks.
 	// Reviews are read through `unstable_cache` tagged `reviews:<slug>` and posting calls

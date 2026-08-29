@@ -535,11 +535,17 @@ git integration. It is not a static export: `/c/[slug]`, `/search`, `/signin`, `
 `/admin/*` and the five route handlers render at request time, and the 470 prerendered product pages ship
 as static assets beside the Worker.
 
+- **The Workers Builds commands are `npx opennextjs-cloudflare build` and `npx wrangler deploy`, in that
+  order, and the build one is not optional.** `wrangler deploy` does not build this project: it detects a
+  Next.js app with an `open-next.config.ts` and delegates to `opennextjs-cloudflare deploy`, which reads
+  the compiled config out of `.open-next/.build/` and exits with *Could not find compiled Open Next
+  config* if the bundle is not already there. A build command of `npm run build` — plain `next build` —
+  leaves the Worker unbuilt. The delegation also pre-empts a `build.command` in `wrangler.jsonc`, which is
+  why there is none: it would only fire in the inner `wrangler deploy` and bundle a second time.
 - **`wrangler.jsonc` and `open-next.config.ts` are committed, and that is the point.** `wrangler deploy`
   runs its framework auto-configuration only when it finds no Wrangler config — so every deploy was
   installing the adapter into a throwaway container, rewriting `package.json` and `next.config.ts` there,
   and failing. Both files are in the repo and the adapter and `wrangler` are pinned devDependencies.
-  `wrangler.jsonc` carries `build.command`, so a plain `wrangler deploy` builds the Worker first.
 - **`compatibility_flags` must keep `nodejs_compat`** — `pg` reaches for `node:crypto`, `node:events` and
   `node:stream`, and `lib/password.ts` hashes with scrypt from `node:crypto`.
 - **`next.config.ts` traces `pg-cloudflare` in on purpose, and the build fails without it.** `pg` picks its
