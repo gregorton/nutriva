@@ -136,6 +136,35 @@ await page.locator(FIELD).press('Escape');
 await page.waitForTimeout(200);
 check('a second Escape clears the field', await page.inputValue(FIELD), '');
 
+// ---------- typing does not walk the page back to the top ----------
+// The field sits in `position: sticky` chrome, so the reveal the browser performs after every
+// keystroke to keep the caret visible can never be satisfied while the scroll container carries
+// `scroll-padding-top`: it scrolls the page without moving the field, and the deficit is the same
+// again on the next letter. The offset now lives on the anchor targets themselves
+// (`scroll-margin-top` in `globals.css`), which is what `chrome-check.mjs` still measures.
+await page.goto(`${BASE}/`, { waitUntil: 'networkidle', timeout: 60000 });
+await page.evaluate(() => window.scrollTo(0, 1200));
+await page.waitForTimeout(300);
+const parked = await page.evaluate(() => window.scrollY);
+check('scrolled down: the page is well below the top', parked > 600, 'true');
+await page.locator(FIELD).click();
+await page.waitForTimeout(300);
+check('focusing the field does not move the page', await page.evaluate(() => window.scrollY), parked);
+const drift = [];
+for (const letter of 'vitamin') {
+  await page.keyboard.type(letter, { delay: 0 });
+  await page.waitForTimeout(150);
+  drift.push(await page.evaluate(() => window.scrollY));
+}
+check('typing seven letters does not move the page', drift.every((y) => y === parked), 'true');
+await page.locator(FIELD).press('Escape');
+for (let i = 0; i < 5; i += 1) await page.keyboard.press('Tab');
+await page.waitForTimeout(250);
+check('tabbing through the chrome does not move the page', await page.evaluate(() => window.scrollY), parked);
+await page.evaluate(() => window.scrollTo(0, 0));
+await page.fill(FIELD, '');
+await page.waitForTimeout(200);
+
 // ---------- a refinement row lands on a filtered page that holds stock ----------
 await type(page, 'mag');
 const refine = await page.$$eval(OPTION, (rows) =>

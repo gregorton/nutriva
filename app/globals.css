@@ -173,9 +173,24 @@
 @layer base {
   html {
     -webkit-text-size-adjust: 100%;
-    /* Fragment links (#reviews, #product-information) land below the pinned chrome instead of
-       underneath it. One rule on the scroll container covers every anchor on the site. */
-    scroll-padding-top: calc(var(--spacing-chrome) + 1rem);
+  }
+
+  /* Fragment links (#reviews, #product-information, #shelf) land below the pinned chrome instead
+     of underneath it.
+
+     This is `scroll-margin-top` on the targets and **not `scroll-padding-top` on `html`**, which is
+     what it used to be. Scroll padding applies to every reveal the browser performs on that
+     container, including the one it does after each keystroke to keep the caret visible — and the
+     search field lives inside `position: sticky` chrome, so that reveal can never be satisfied:
+     scrolling up moves the page without moving the field, the deficit is the same on the next
+     keystroke, and the field walked the page back to the top a letter at a time. Focusing it and
+     tabbing through the chrome jumped the same way. Scroll margin belongs to the element being
+     revealed, so only real anchor targets carry the offset.
+
+     Anything meant to be linked to by fragment therefore needs to be one of these elements —
+     a focusable control must not carry the offset, or the same fight starts again. */
+  :is(section, article, div, main, aside, h1, h2, h3)[id] {
+    scroll-margin-top: calc(var(--spacing-chrome) + 1rem);
   }
 
   body {

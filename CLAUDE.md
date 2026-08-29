@@ -70,8 +70,15 @@ catalogue module, and PostgreSQL for what visitors write.
   for good. Pinned state is measured off layout (`getBoundingClientRect().top <= 0`) through
   `useSyncExternalStore`, not state from an effect, and published as `data-stuck` so children condense off
   `group-data-[stuck=true]/chrome:` (masthead 72px -> 58px, mobile search row folds away). Pinned height is
-  the `--spacing-chrome` token (103px), read by `html`'s `scroll-padding-top` and the PDP buy box's sticky
-  offset — changing chrome height is a one-line edit.
+  the `--spacing-chrome` token (103px), read by the anchor-target `scroll-margin-top` rule and the PDP buy
+  box's sticky offset — changing chrome height is a one-line edit.
+- **That anchor offset is `scroll-margin-top` on the targets, never `scroll-padding-top` on `html`.** Scroll
+  padding applies to every reveal the browser performs on the scroll container, including the one after each
+  keystroke that keeps the caret visible — and the search field is inside sticky chrome, so that reveal can
+  never be satisfied: scrolling up moves the page without moving the field, and the deficit is identical on
+  the next letter. The field walked the page back to the top one letter at a time, and focusing or tabbing
+  into the chrome jumped the same way. `search-check.mjs` asserts the page does not move; `chrome-check.mjs`
+  still measures that `#reviews` clears the chrome. A focusable control must not carry that offset.
 - **`components/chrome/site-header.tsx` carries a temporary preview notice** — small red Thai
   ("ยังไม่เสร็จ / พรีเวิว") beside the lockup. **Delete before launch**; the only masthead element not meant
   to ship.
