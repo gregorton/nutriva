@@ -578,9 +578,16 @@ as static assets beside the Worker.
 - **The free plan caps a Worker at 3MiB gzipped**, and Next 16 on OpenNext spends most of that on its own
   server runtime — this one measured ~2.7MB before the proxy came out, ~2.1MB after. It fits, with little
   room: a new dependency in the request path is now a size decision. Paid Workers raises the cap to 10MiB.
-- Environment variables live in the Worker's settings: `DATABASE_URL` (unset switches accounts off),
-  `ADMIN_EMAILS` (unset means nobody), `OAUTH_REDIRECT_ORIGIN` plus the optional `GOOGLE_*` / `FACEBOOK_*`
-  pairs. A provider whose pair is blank shows no button.
+- Environment variables live in the Worker's settings, and **as Secrets rather than plaintext
+  Variables**: the deploy step runs `wrangler deploy`, which treats the committed config as the source
+  of truth for plaintext `vars` and removes dashboard-added ones it cannot see, while encrypted
+  secrets survive. `npx wrangler secret put <NAME>` is the reliable way in, and setting one deploys a
+  new version by itself — no rebuild. A missing value fails quietly by design: no `DATABASE_URL`
+  switches accounts, reviews and saved items off (`lib/db.ts`), no `ADMIN_EMAILS` means `/admin` 404s
+  for everybody, and a provider whose pair is blank shows no button, so `/api/auth/google` answers
+  `/signin?error=provider`. `OAUTH_REDIRECT_ORIGIN` is only needed behind a proxy that rewrites the
+  host — on `*.workers.dev` the origin is derived from the request — but each origin's
+  `<origin>/api/auth/<provider>/callback` still has to be registered with the provider.
 
 ## Reference material
 
