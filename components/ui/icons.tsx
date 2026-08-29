@@ -226,25 +226,6 @@ export function CircleSlashIcon({ className = base }: IconProps) {
   );
 }
 
-/* Filled rather than stroked, both of them: at the 11px the hero's rotation toggle draws them, a
-   1.5px outline of a triangle is a smudge. */
-export function PauseIcon({ className = base }: IconProps) {
-  return (
-    <svg viewBox="0 0 20 20" fill="currentColor" className={className} aria-hidden>
-      <rect x="6.2" y="4.6" width="2.9" height="10.8" rx="1" />
-      <rect x="10.9" y="4.6" width="2.9" height="10.8" rx="1" />
-    </svg>
-  );
-}
-
-export function PlayIcon({ className = base }: IconProps) {
-  return (
-    <svg viewBox="0 0 20 20" fill="currentColor" className={className} aria-hidden>
-      <path d="M6.6 4.9c0-.8.9-1.3 1.6-.9l7.1 4.3c.6.4.6 1.3 0 1.7l-7.1 4.3c-.7.4-1.6-.1-1.6-.9V4.9Z" />
-    </svg>
-  );
-}
-
 export function SunIcon({ className = base }: IconProps) {
   return (
     <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>

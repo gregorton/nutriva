@@ -7,8 +7,8 @@
 // and jump to their slide, and only the slide on screen is reachable — every other one is inert.
 // Medical equipment is locked for now, so its assertions are that it cannot be opened: the tab is
 // announced disabled, carries the restricted cursor, and a press leaves the topic where it was.
-// The rotation is checked last, because it is the slow part: it advances on its own, it holds still
-// while the pointer is over the banner, and the toggle stops it.
+// The rotation is checked last, because it is the slow part: it advances on its own every 6.5s, and
+// it holds still while the pointer is over the banner or focus is inside it.
 import { chromium } from 'playwright-core';
 
 const EXE = 'C:/Users/sixth/AppData/Local/ms-playwright/chromium-1234/chrome-win64/chrome.exe';
@@ -119,7 +119,6 @@ check('a dot press does not switch tab', await pressed('supplements'), 'true');
 // ---------- it rotates on its own ----------
 // Every check above ran with the pointer parked on whatever it last pressed, which holds the slide
 // still — so each wait here starts by letting go: pointer out of the banner, focus off the control.
-const toggle = page.locator('button[aria-label$="the slideshow"]');
 const release = async () => {
   await page.mouse.move(4, 4);
   await page.evaluate(() => document.activeElement instanceof HTMLElement && document.activeElement.blur());
@@ -143,22 +142,15 @@ await page.locator('button[aria-label="Next slide"]').focus();
 await aTurn();
 check('focus inside the banner holds the slide', await heading(), 'Vitamins');
 
-check('the toggle reads as a stop while it is rotating', await toggle.getAttribute('aria-label'), 'Stop the slideshow');
-await step(toggle);
-check('pressing it turns the rotation off', await toggle.getAttribute('aria-label'), 'Start the slideshow');
-await release();
-await aTurn();
-check('a stopped slideshow stays put', await heading(), 'Vitamins');
-
 // The third shelf's name comes off its own dot, so reordering `SHELVES` cannot make this fail.
 const thirdShelf = await dots.nth(2).evaluate((el) => el.getAttribute('aria-label').split(': ').slice(1).join(': '));
-await step(toggle);
 await release();
 await aTurn();
-check('pressing it again starts it', await heading(), thirdShelf);
+check('it keeps going, one shelf to the next', await heading(), thirdShelf);
 
-await step(toggle); // leave it off for the geometry below
-await release();
+// Nothing stops the rotation for good, so the geometry below is measured with the pointer parked on
+// the banner — which holds the slide still for as long as it stays there.
+await page.mouse.move(720, 400);
 
 // ---------- the frame itself ----------
 check(

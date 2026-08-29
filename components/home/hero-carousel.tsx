@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState, useSyncExternalStore } from "react";
-import { ArrowIcon, CircleSlashIcon, PauseIcon, PlayIcon } from "@/components/ui/icons";
+import { ArrowIcon, CircleSlashIcon } from "@/components/ui/icons";
 import { EquipmentGlyph } from "@/components/home/equipment-glyphs";
 import type { HeroCta, RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
 
@@ -31,8 +31,7 @@ import type { HeroCta, RangeSlide, ShelfSlide } from "@/components/home/hero-sli
  * **It advances on its own, and wrapping is what makes that possible** — the rotation is the same
  * `move` the arrows call, so it runs the shelves in a ring and never reaches an end to stop at. It
  * turns itself off while the pointer is over the banner or the keyboard is inside it (reading a
- * blurb that slides away is the failure mode), the toggle beside the pill stops it for good, and
- * `prefers-reduced-motion` means it never starts.
+ * blurb that slides away is the failure mode), and `prefers-reduced-motion` means it never starts.
  */
 
 /** Time on one slide. Long enough to read a heading, a blurb and the in-stock line. */
@@ -48,8 +47,6 @@ export function HeroCarousel({
   const [tab, setTab] = useState(0);
   // One position per tab, so switching topic never disturbs where the other one was left.
   const [positions, setPositions] = useState([0, 0]);
-  // The toggle: off is a decision the visitor made, so nothing turns it back on for them.
-  const [rotating, setRotating] = useState(true);
   // The pointer is over the banner, or focus is somewhere inside it. Either one holds the slide
   // still for as long as it lasts — this is attention, not a preference, so it is not the toggle.
   const [held, setHeld] = useState(false);
@@ -64,7 +61,7 @@ export function HeroCarousel({
   const move = (next: number) =>
     setPositions((prev) => prev.map((p, index) => (index === tab ? (next + count) % count : p)));
 
-  const advancing = rotating && !held && !stillness && count > 1;
+  const advancing = !held && !stillness && count > 1;
 
   // A timeout per slide rather than one repeating interval, keyed on where we are: pressing an
   // arrow or a dot changes `position`, which tears this down and starts the clock again, so a
@@ -149,11 +146,12 @@ export function HeroCarousel({
             photograph as well as over the blue field. The strip itself takes no clicks, or it would
             eat presses along the whole foot of the banner.
 
-            **One pill from `sm` up, two stacked rows below it.** Two labels, six dots and the toggle
-            come to 348px and a 375px phone gives the frame 343px, which clips rather than scrolls;
-            split in two, both rows fit and nothing has to shrink to a 12px hit area. The split is
-            explicit rather than `flex-wrap`, which would break after the dots at one width and
-            after a tab at another. */}
+            **One pill from `sm` up, two stacked rows below it.** Two labels and six dots come to
+            328px and a 375px phone gives the frame 343px to hold them in, 48px of which is the
+            indent — so on one row the last dots fall outside the frame, which clips rather than
+            scrolls. Split in two, both rows fit and nothing has to shrink to a 12px hit area. The
+            split is explicit rather than `flex-wrap`, which would break after the dots at one width
+            and after a tab at another. */}
         <div className="pointer-events-none absolute inset-x-0 bottom-0 flex justify-start pb-3.5 pl-12 sm:pl-14 xl:pl-[72px]">
           <div className="pointer-events-auto flex max-w-full flex-col items-start gap-1 sm:flex-row sm:items-center sm:gap-1 sm:rounded-full sm:bg-plum-900/70 sm:p-1 sm:backdrop-blur-sm">
             <div className={ROW}>
@@ -185,7 +183,7 @@ export function HeroCarousel({
             {count > 1 ? (
               <div className={ROW}>
                 <span className="mx-0.5 hidden h-4 w-px shrink-0 bg-white/25 sm:block" aria-hidden />
-                <div className="flex items-center">
+                <div className="flex items-center sm:pr-1">
                   {headings.map((heading, index) => (
                     <button
                       key={heading}
@@ -203,27 +201,6 @@ export function HeroCarousel({
                     </button>
                   ))}
                 </div>
-
-                {/* Stop and start the rotation. Anything that moves on its own for longer than five
-                    seconds needs a way to stop it that is not "hover and hold your hand there"
-                    (WCAG 2.2.2), and it sits with the dots because that is the row about where you
-                    are in the slideshow. Under `prefers-reduced-motion` nothing rotates, so there is
-                    nothing to pause and the button is not rendered at all. */}
-                {stillness ? null : (
-                  <button
-                    type="button"
-                    onClick={() => setRotating((on) => !on)}
-                    aria-label={rotating ? "Stop the slideshow" : "Start the slideshow"}
-                    title={rotating ? "Stop the slideshow" : "Start the slideshow"}
-                    className="grid h-6 w-6 shrink-0 place-items-center rounded-full text-white/70 transition-colors hover:bg-white/15 hover:text-white"
-                  >
-                    {rotating ? (
-                      <PauseIcon className="h-[11px] w-[11px]" />
-                    ) : (
-                      <PlayIcon className="h-[11px] w-[11px]" />
-                    )}
-                  </button>
-                )}
               </div>
             ) : null}
           </div>
@@ -236,7 +213,7 @@ export function HeroCarousel({
 /**
  * One row of the control cluster. Below `sm` each row is its own pill and carries the plum ground;
  * from `sm` up the two rows are one pill, so the ground moves to the element around them and these
- * go transparent — one pill at that width, exactly as before the toggle joined the row.
+ * go transparent — a single pill at that width, indistinguishable from one row of children.
  */
 const ROW =
   "flex items-center gap-1 rounded-full bg-plum-900/70 p-1 backdrop-blur-sm sm:rounded-none sm:bg-transparent sm:p-0 sm:backdrop-blur-none";
