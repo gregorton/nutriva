@@ -91,7 +91,7 @@ client island in `components/chrome/search-box.tsx`.
   scores: title 10, brand 7, category 5, label fields (form, dose, pack quantity, highlights) 2; then +8 for
   the whole phrase in the title, +6 if the title opens with it, +1 in stock, tie-broken on `sold30d` then
   `reviews`. **A term under three characters may only match title, brand or category** — a stray `d` in a
-  highlight bullet is noise. `vitamin d` is now 66 results led by three D3 products. Still a plain
+  highlight bullet is noise. `vitamin d` is now 73 results led by three D3 products. Still a plain
   synchronous scan of 470 rows: no index, no cache.
 - **Only suggest what the stock holds.** `lib/search-suggest.ts` assembles its vocabulary out of things the
   repo already declares — `CATEGORIES[].chips`, the browse rail's `groupLabels()`, `brandsIn`, `formsIn` —
@@ -104,7 +104,11 @@ client island in `components/chrome/search-box.tsx`.
 - **`GET /api/search/suggest?q=` is the seam**, cached `public, max-age=300` — nothing per-visitor here,
   unlike `/api/session`. Fetching rather than shipping an index keeps the catalogue out of the client bundle
   and means the panel and the results page run **the same `search()`**, so the rows previewed are the rows
-  delivered.
+  delivered. **It must send `Netlify-Vary: query=q`.** Netlify's adapter keys its caches on
+  `__nextDataReq` and `_rsc` only, so a `public` response was stored under a key that ignored `q`: the
+  first query cached was served to every later one and the live field predicted nothing, while `next dev`
+  — no CDN in front of it — behaved perfectly. Any future cacheable handler reading a search param needs
+  that header.
 - **One combobox, three placements.** An anchored panel from `sm` up, the phone search row, and a
   full-screen sheet below `sm` — a dropdown there would fight the 103px pinned chrome and the on-screen
   keyboard. Sheet state lives in the store module rather than React context, because the three placements sit

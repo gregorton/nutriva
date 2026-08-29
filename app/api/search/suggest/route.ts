@@ -14,11 +14,22 @@ import { suggest } from "@/lib/search-suggest";
 
   Cacheable for everyone: the answer depends on the query and nothing else — no cookie is read
   here, unlike `/api/session`.
+
+  `Netlify-Vary` is not optional, and leaving it off shipped a bug no local run can show. Netlify's
+  adapter keys its edge and durable caches on `__nextDataReq` and `_rsc` only, so a `public`
+  response is stored under a key that ignores `q` — the first query cached (the panel prefetches
+  the empty one on focus) was then served to every later query, and the live field predicted
+  nothing while `next dev`, with no CDN in front of it, behaved perfectly. Declaring `query=q`
+  puts the query back in the key. Any future cacheable handler that reads a search param needs the
+  same line.
 */
 export async function GET(request: Request) {
   const query = new URL(request.url).searchParams.get("q") ?? "";
 
   return Response.json(suggest(query), {
-    headers: { "Cache-Control": "public, max-age=300" },
+    headers: {
+      "Cache-Control": "public, max-age=300",
+      "Netlify-Vary": "query=q",
+    },
   });
 }
