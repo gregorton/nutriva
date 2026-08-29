@@ -1,14 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { CartProvider } from "@/components/cart/cart-context";
-import { SessionSync } from "@/components/account/session-sync";
-import { UtilityBar } from "@/components/chrome/utility-bar";
-import { SiteHeader } from "@/components/chrome/site-header";
-import { CategoryNav } from "@/components/chrome/category-nav";
-import { StickyChrome } from "@/components/chrome/sticky-chrome";
-import { SiteFooter } from "@/components/chrome/site-footer";
-import { CartDrawer } from "@/components/cart/cart-drawer";
 import { CONTACT_JSON_LD } from "@/lib/contact";
 
 // One face for the whole site: headings, body, UI and data. Size, weight and tracking do the
@@ -28,6 +20,19 @@ export const metadata: Metadata = {
     "Vitamins, minerals and daily supplements, with the label read out in full on every product page. Free delivery in Thailand over ฿1,200.",
 };
 
+/*
+  The root layout is the document and nothing else: html, body, the one face, the organisation
+  JSON-LD.
+
+  Everything that looks like the shop — utility bar, masthead, category nav, footer, cart drawer —
+  now lives in `app/(storefront)/layout.tsx` by way of components/chrome/storefront-shell.tsx, so
+  /admin can be a surface of its own instead of a dashboard wearing a storefront's masthead. Route
+  groups do not appear in URLs, so every route is exactly where it was and the 470 prerendered
+  product paths are untouched.
+
+  `body` stays the flex column. The storefront's `main` is `flex-1` inside it, and so is the
+  console's ground, which is what lets /admin fill the window with no chrome above or below it.
+*/
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" className={`${inter.variable} h-full antialiased`}>
@@ -37,19 +42,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(CONTACT_JSON_LD) }}
         />
       </head>
-      <body className="flex min-h-full flex-col bg-white">
-        <CartProvider>
-          <SessionSync />
-          <UtilityBar />
-          <StickyChrome>
-            <SiteHeader />
-            <CategoryNav />
-          </StickyChrome>
-          <main className="flex-1">{children}</main>
-          <SiteFooter />
-          <CartDrawer />
-        </CartProvider>
-      </body>
+      <body className="flex min-h-full flex-col bg-white">{children}</body>
     </html>
   );
 }

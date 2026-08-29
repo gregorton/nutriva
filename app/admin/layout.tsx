@@ -24,15 +24,15 @@ const TABS = [
 ];
 
 /*
-  Everything under /admin, dressed as a terminal.
+  Everything under /admin — a site of its own, not a page of the shop.
 
-  The dark ground is doing a job beyond taste: the storefront chrome is in the root layout and cannot
-  be opted out of without moving every route into a `(storefront)` group, so this surface has to
-  announce itself as not-the-shop from the first glance. Nothing here uses the brand palette.
+  /admin sits outside the `(storefront)` route group, so the only layout above this one is the
+  document: no utility bar, no masthead, no category nav, no footer, no cart drawer. That is why the
+  two links in the top bar matter — with the masthead gone, they are the only way back out.
 
-  `requireAdmin()` here is for the window bar and the tabs, not the boundary: a layout does not
+  `requireAdmin()` here is for the title bar and the tabs, not the boundary: a layout does not
   control whether its children render, so every page below calls it too — the rule
-  app/account/layout.tsx already states.
+  app/(storefront)/account/layout.tsx already states.
 
   Deliberately no `dynamic = "force-dynamic"`. These routes are already request-time because the gate
   reads the session cookie, and forcing it as well breaks `refresh()`.
@@ -41,52 +41,65 @@ export default async function AdminLayout({ children }: LayoutProps<"/admin">) {
   const user = await requireAdmin();
 
   return (
-    <div className={`${jetbrains.variable} min-h-full bg-term-950 font-term text-term-text`}>
-      <div className="shell py-8">
-        <div className="overflow-hidden rounded-card border border-term-line">
-          {/* Window bar. The dots are decoration and say so — nothing here is a control. */}
-          <div className="flex items-center gap-2.5 border-b border-term-line bg-term-900 px-4 py-2.5">
-            <span className="flex gap-1.5" aria-hidden>
-              <span className="h-2.5 w-2.5 rounded-full bg-term-alert/70" />
-              <span className="h-2.5 w-2.5 rounded-full bg-turmeric-500/70" />
-              <span className="h-2.5 w-2.5 rounded-full bg-term-cyan/70" />
-            </span>
-            <p className="truncate text-[11.5px] tracking-wide text-term-dim">
-              swa-admin — read-only — {user.displayName}
-            </p>
-          </div>
-
-          <div className="bg-term-900/50 px-4 pt-4 pb-0">
-            <p className="text-[13px]">
-              <span className="text-term-cyan">admin@slim-wellness</span>
-              <span className="text-term-dim">:~$</span> dashboard --read-only
-            </p>
-
-            <nav
-              className="mt-3.5 -mb-px flex gap-1 overflow-x-auto text-[12.5px]"
-              aria-label="Dashboard sections"
-            >
-              {TABS.map((tab) => (
-                <Tab key={tab.href} href={tab.href}>
-                  {tab.label}
-                </Tab>
-              ))}
-            </nav>
-          </div>
-
-          <div className="border-t border-term-line px-4 py-7 sm:px-5">{children}</div>
+    <div className={`${jetbrains.variable} flex flex-1 flex-col bg-term-950 font-term text-term-text`}>
+      <header className="sticky top-0 z-10 border-b border-term-line bg-term-900">
+        <div className="shell flex h-11 items-center gap-3">
+          <span className="flex shrink-0 gap-1.5" aria-hidden>
+            <span className="h-2.5 w-2.5 rounded-full bg-term-alert/70" />
+            <span className="h-2.5 w-2.5 rounded-full bg-turmeric-500/70" />
+            <span className="h-2.5 w-2.5 rounded-full bg-term-cyan/70" />
+          </span>
+          <p className="truncate text-[11.5px] tracking-wide text-term-dim">
+            swa-admin — read-only — {user.displayName}
+          </p>
+          <span className="flex-1" />
+          <nav className="flex shrink-0 gap-3 text-[11.5px]" aria-label="Leave the dashboard">
+            <Link href="/" className="text-term-dim transition-colors hover:text-term-cyan">
+              storefront ↗
+            </Link>
+            <Link href="/account" className="text-term-dim transition-colors hover:text-term-cyan">
+              account ↗
+            </Link>
+          </nav>
         </div>
+      </header>
 
-        <p className="mt-3 text-[11.5px] text-term-dim">
-          Counters exclude everyone on the allowlist, so nothing you open from here moves a figure you
-          read here. Days are Bangkok days.
-        </p>
+      <div className="border-b border-term-line bg-term-900/40">
+        <div className="shell pt-4 pb-0">
+          <p className="text-[13px]">
+            <span className="text-term-cyan">admin@slim-wellness</span>
+            <span className="text-term-dim">:~$</span> dashboard --read-only
+          </p>
+
+          <nav
+            className="mt-3.5 -mb-px flex gap-1 overflow-x-auto text-[12.5px]"
+            aria-label="Dashboard sections"
+          >
+            {TABS.map((tab) => (
+              <Tab key={tab.href} href={tab.href}>
+                {tab.label}
+              </Tab>
+            ))}
+          </nav>
+        </div>
       </div>
+
+      <main className="shell flex-1 py-8">{children}</main>
+
+      <footer className="border-t border-term-line bg-term-900">
+        <div className="shell flex min-h-9 flex-wrap items-center gap-x-3 gap-y-1 py-2 text-[11px] text-term-dim">
+          <span>read-only</span>
+          <span aria-hidden>·</span>
+          <span>days are Bangkok days</span>
+          <span aria-hidden>·</span>
+          <span>counters exclude everyone on the allowlist</span>
+        </div>
+      </footer>
     </div>
   );
 }
 
-/* A link, not a client component reading usePathname — app/account/layout.tsx's reasoning. */
+/* A link, not a client component reading usePathname — the account layout's reasoning. */
 function Tab({ href, children }: { href: string; children: React.ReactNode }) {
   return (
     <Link

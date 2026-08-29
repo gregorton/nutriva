@@ -68,6 +68,13 @@ catalogue module, and PostgreSQL for what visitors write.
   `/account/saved` + `/account/reviews` (dynamic — session cookie), `/admin` + `/admin/accounts` +
   `/admin/reviews` + `/admin/products` + `/admin/search` (dynamic — session cookie), `/api/session`,
   `/api/search/suggest`, `/api/track`, `not-found`.
+- **`app/` is split in two: `(storefront)` and `admin`.** The root layout is the document only — html,
+  body, Inter, the organisation JSON-LD. `app/(storefront)/layout.tsx` renders
+  `components/chrome/storefront-shell.tsx` (utility bar, pinned chrome, `main`, footer, cart drawer) and wraps
+  every shop route; `/admin` sits beside the group and wears none of it. Route groups do not appear in URLs, so
+  no path changed and all 470 product pages still prerender. `app/not-found.tsx` **cannot** live inside the
+  group — it catches unmatched URLs site-wide — so it composes the same shell rather than a second copy of the
+  chrome, which is what keeps a mistyped URL looking like the shop.
 - `components/chrome/sticky-chrome.tsx` — pins masthead + category row; the utility strip above scrolls away
   for good. Pinned state is measured off layout (`getBoundingClientRect().top <= 0`) through
   `useSyncExternalStore`, not state from an effect, and published as `data-stuck` so children condense off
@@ -233,16 +240,16 @@ switches the feature off rather than erroring, which keeps a build working with 
 - `lib/accounts.ts`, `lib/reviews.ts`, `lib/saved.ts` are the query modules; `app/actions/*.ts` the mutations,
   and **every one re-verifies the session**: a Server Action is a POST endpoint anything can call.
 
-**Keeping the site static shaped all of it** — the masthead is in the root layout, so awaiting `cookies()`
-there would turn every route dynamic and cost all 470 product pages their prerender. Consequences, none
-optional:
+**Keeping the site static shaped all of it** — the masthead is in `app/(storefront)/layout.tsx`, so awaiting
+`cookies()` there would turn every storefront route dynamic and cost all 470 product pages their prerender.
+Consequences, none optional:
 
 - `components/account/account-store.ts` — the cart's contract applied to the session:
   `useSyncExternalStore`, empty server snapshot, filled from `GET /api/session` after mount.
   `account-button.tsx`, `review-form.tsx` and `product/save-button.tsx` read it and render signed-out until it
   says otherwise. **None of them is a permission check.**
-- `components/account/session-sync.tsx` (root layout) re-reads the session on pathname change, because signing
-  in navigates before client code gets a say. Refreshes are **sequence-numbered** so a stale reply cannot
+- `components/account/session-sync.tsx` (the storefront shell) re-reads the session on pathname change, because
+  signing in navigates before client code gets a say. Refreshes are **sequence-numbered** so a stale reply cannot
   overwrite a newer one; **do not reintroduce in-flight deduplication**, which caused exactly that bug.
 - `/p/[slug]` reads reviews through `unstable_cache` tagged `reviews:<slug>`, so anonymous traffic gets built
   HTML and never reaches Postgres. Posting calls **`updateTag()`, not `revalidateTag()`** (which serves the
@@ -360,13 +367,13 @@ answer "how many", never "who", and that is the whole design rather than a gap i
 - Charts are hand-rolled inline SVG (`components/admin/bar-chart.tsx`), stretched with
   `preserveAspectRatio="none"`, which is why every bar is a plain rect: rounded corners, strokes and
   text would distort with it. No charting library — the project runs on five dependencies.
-- **It is dressed as a terminal, and that is load-bearing, not a mood.** The storefront chrome lives
-  in the root layout and cannot be opted out of per route without moving every route into a
-  `(storefront)` group, so this surface has to announce itself as not-the-shop at a glance: the
-  `term-*` tokens (dark navy through near-black, cyan accents, `term-alert` for a zero worth
-  noticing), a window bar, a shell prompt, lowercase tab labels. **Nothing here uses the brand
-  palette** except `turmeric-500`, `sold` and `star`, which all hold up on that ground. A white band
-  remains between the console and the footer — the footer's own spacing, visible only here.
+- **It is a site of its own, dressed as a terminal.** `/admin` sits **outside** the `(storefront)`
+  route group, so the only layout above it is the document: no utility bar, no masthead, no category
+  nav, no footer, no cart drawer. A full-width title bar, a shell prompt, lowercase tabs and a status
+  line stand in, and the two links in that title bar are the only way back out. The `term-*` tokens
+  run dark navy to near-black with cyan accents and `term-alert` for a zero worth noticing.
+  **Nothing here uses the brand palette** except `turmeric-500`, `sold` and `star`, which all hold up
+  on that ground.
 - **JetBrains Mono is loaded in `app/admin/layout.tsx`, not the root layout**, so it is requested on
   `/admin` and nowhere else. It binds `--font-jetbrains`, which `@theme` reads through `--font-term`;
   a separate token rather than overriding `--font-mono`, so nothing on the storefront changes face.

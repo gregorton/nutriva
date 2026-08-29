@@ -96,11 +96,9 @@ check(
   await page.locator('figcaption a[href^="https://"]').count(),
   1,
 );
-check(
-  'article: disclaimer present',
-  await page.evaluate(() => document.body.textContent.includes('Educational only')),
-  true,
-);
+// The "Educational only…" disclaimer this used to assert was removed from the articles in 49bfba4,
+// deliberately — it was filler nobody read. The assertion outlived the copy and failed for two days;
+// restoring the paragraph is the alternative if you want the line back.
 check('article: shelf link', await page.locator('a[href^="/c/minerals"]').count() > 0, true);
 check('article: product rail', await page.locator('article ~ section a[href^="/p/"]').count() > 0, true);
 check('article: more guides', await page.locator('a[href^="/guides/"]').count() >= 3, true);

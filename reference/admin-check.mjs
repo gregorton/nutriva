@@ -94,6 +94,16 @@ const searchRow = (text) =>
     bangkokToday,
   ]);
 
+const surfaceViewCount = async (surface) =>
+  Number(
+    (
+      await scalar(
+        `select coalesce(sum(views), 0)::int as n from page_views where surface = $1 and day = $2::date`,
+        [surface, bangkokToday],
+      )
+    ).n,
+  );
+
 const post = (body) =>
   fetch(`${BASE}/api/track`, {
     method: 'POST',
@@ -105,12 +115,23 @@ const post = (body) =>
 const before = {
   apiSlug: await productViews(API_SLUG),
   pdpSlug: await productViews(PDP_SLUG),
+  home: await surfaceViewCount('home'),
   realQuery: await searchRow(REAL_QUERY),
 };
 
 const browser = await chromium.launch({ executablePath: EXE, headless: true });
 const context = await browser.newContext({ viewport: { width: 1440, height: 950 } });
 const page = await context.newPage();
+
+// ---------- the storefront still wears its chrome ----------
+// The route-group move that freed /admin of the masthead must not have taken it off the shop, and a
+// mistyped URL must still land somewhere that looks like the shop rather than on a bare document.
+await page.goto(`${BASE}/`, { waitUntil: 'domcontentloaded' });
+checkThat('the home page keeps the utility bar', (await visible(page)).includes('free delivery over'));
+await page.goto(`${BASE}/no-such-page-${stamp}`, { waitUntil: 'domcontentloaded' });
+const missing = await visible(page);
+checkThat('a 404 keeps the chrome', missing.includes('free delivery over'));
+checkThat('and offers the categories', missing.includes('discontinued'));
 
 // ---------- the counters ----------
 const fakeSlug = `no-such-product-${stamp}`;
@@ -233,6 +254,13 @@ if (!allowlisted) {
   checkThat('and the prompt says it is read-only', consoleText.includes('dashboard --read-only'));
   checkThat('the page asks not to be indexed', (await admin.text()).includes('noindex'));
 
+  // /admin sits outside the (storefront) route group, so none of the shop's chrome is above or below
+  // it. These three strings come from the utility bar, the category nav and the footer.
+  checkThat('no storefront utility bar', !consoleText.includes('free delivery over'));
+  checkThat('no storefront category nav', !consoleText.includes('gut & digestion'));
+  checkThat('no storefront footer', !consoleText.includes('supplements shipped from bangkok'));
+  checkThat('but a way back to the shop', consoleText.includes('storefront'));
+
   const accounts = Number((await scalar('select count(*)::int as n from users')).n);
   check(
     'the accounts tile matches the table',
@@ -300,6 +328,16 @@ const restoreViews = async (slug, was) => {
 };
 await restoreViews(API_SLUG, before.apiSlug);
 await restoreViews(PDP_SLUG, before.pdpSlug);
+// The chrome check opens the home page, which counts itself.
+if (before.home === 0) {
+  await db.query('delete from page_views where surface = $1 and day = $2::date', ['home', bangkokToday]);
+} else {
+  await db.query('update page_views set views = $3 where surface = $1 and day = $2::date', [
+    'home',
+    bangkokToday,
+    before.home,
+  ]);
+}
 await db.query('delete from search_queries where query = $1 and day = $2::date', [ZERO_QUERY, bangkokToday]);
 if (before.realQuery) {
   await db.query('update search_queries set searches = $3, results = $4 where query = $1 and day = $2::date', [
