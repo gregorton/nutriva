@@ -1,3 +1,4 @@
+import type { StaticImageData } from "next/image";
 import type { EquipmentGlyphName } from "@/components/home/equipment-glyphs";
 
 /*
@@ -20,8 +21,8 @@ export type ShelfSlide = {
   cta: HeroCta;
   /** the one cross-link, on the opening slide only */
   link: HeroCta | null;
-  /** this slide's photograph, already resolved on disk, or null when no file is in place */
-  photo: string | null;
+  /** this slide's photograph, imported so the bundler resolves it — never a path read at runtime */
+  photo: StaticImageData;
 };
 
 /** A slide on the Medical equipment tab: one range, on the blue field. */

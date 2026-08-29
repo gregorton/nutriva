@@ -422,8 +422,11 @@ meet at the types in `hero-slides.ts`.
 - **Position within a tab is the dot row** in the tab pill: one dot per slide, `aria-current` on the live one,
   press to jump. On a phone the label shortens to "Equipment"; the `aria-label` stays the full name, so the
   accessible name does not change with the viewport.
-- **Each supplements slide has its own photograph.** `SHELVES` pairs shelf to shot; a missing file falls back
-  to the flat-lay rather than failing the build, so adding or reordering is a file drop plus a line. Nothing
+- **Each supplements slide has its own photograph, and the photographs are imported.** `SHELVES` pairs shelf
+  to an imported image, so adding or reordering is a file drop plus an import and a missing file is a build
+  error. It used to be a path checked with `existsSync` against `public/`, which looked safe and was the
+  opposite: **a Worker has no filesystem**, so in production every check failed and the hero shipped with no
+  photograph at all — see Deployment. Nothing
   hardcodes the count — frame, dot row and `hero-check.mjs` all count them. **Every shot must be composed like
   the flat-lay** (subject in the right-hand two thirds, bare wood left), because the copy column sits in the
   empty half — its left 43%.
@@ -566,6 +569,12 @@ as static assets beside the Worker.
 - **`npx opennextjs-cloudflare build` cannot finish on Windows without Developer Mode** — OpenNext symlinks
   traced packages and Windows refuses `symlink` without it (junctions are permitted, symlinks are not).
   `next build` is unaffected; CI is Linux and unaffected.
+- **Nothing may touch the filesystem at request time.** A Worker has no filesystem: `node:fs` under
+  `nodejs_compat` is a stub, and `existsSync` answers false for a file that is demonstrably deployed and
+  serving. `home-hero.tsx` and `trust-band.tsx` both gated their photographs behind exactly that check, so the
+  hero and the trust band shipped with no image while every product photograph was fine. Anything derived from
+  disk must be resolved by the bundler (import the asset) or generated into a module at build time, the way
+  `catalog.generated.json` is. It fails silently, not loudly, which is what makes it worth a rule.
 - **The free plan caps a Worker at 3MiB gzipped**, and Next 16 on OpenNext spends most of that on its own
   server runtime — this one measured ~2.7MB before the proxy came out, ~2.1MB after. It fits, with little
   room: a new dependency in the request path is now a size decision. Paid Workers raises the cap to 10MiB.

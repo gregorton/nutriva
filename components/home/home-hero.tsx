@@ -1,9 +1,14 @@
-import { existsSync } from "node:fs";
-import path from "node:path";
+import type { StaticImageData } from "next/image";
 import { CATEGORIES, CATEGORY_BY_SLUG, byCategory, products, type CategorySlug } from "@/lib/catalog";
 import { EQUIPMENT_RANGES } from "@/components/home/equipment-glyphs";
 import { HeroCarousel } from "@/components/home/hero-carousel";
 import type { RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
+import flatLay from "@/public/hero/supplements-flat-lay.png";
+import vitaminsShot from "@/public/hero/vitamins-native.jpg";
+import mineralsShot from "@/public/hero/minerals-native.jpg";
+import immunityShot from "@/public/hero/supplements-04-immunity.jpg";
+import omegaShot from "@/public/hero/supplements-05-omega.jpg";
+import herbsShot from "@/public/hero/supplements-06-herbal.jpg";
 
 /**
  * Home hero — the server half of the two-tab banner. Every figure beside the copy is counted off
@@ -12,30 +17,28 @@ import type { RangeSlide, ShelfSlide } from "@/components/home/hero-slides";
  * browser bundle.
  */
 
-/** The flat-lay the supplements tab is built on, and the stand-in for any slide with no shot of
- *  its own. Checked on disk rather than imported, so replacing it is a file drop and a missing one
- *  leaves the copy on the plain field instead of failing the build. The name is the file as
- *  supplied — spaces and all; `next/image` encodes the URL. */
-const HERO_PHOTO = "/hero/Supplements flat-lay banner v3.png";
+/*
+  The photographs are imported, not looked up. They used to be paths checked with
+  `existsSync(process.cwd() + "/public" + …)` so that a missing file left the copy on a plain field
+  instead of failing the build — which read as harmless and was not: a Worker has no filesystem, so
+  in production every one of those checks returned false and the hero shipped with no photograph at
+  all. Importing them puts the question to the bundler, where a missing file is a build error and
+  the emitted URL is a hashed, immutable asset. Adding or swapping a shot is now a file drop plus an
+  import.
+*/
 
 /**
  * The shelves the arrow advances through after the opening slide, in the order the photographs were
- * supplied in. `photo` is that shelf's own shot; a shelf whose file is not on disk falls back to the
- * flat-lay rather than failing the build, so adding or swapping a shelf is a file drop and a line
- * here. Every shot in this list is composed the same way as the flat-lay — subject in the right-hand
+ * supplied in. Every shot here is composed the same way as the flat-lay — subject in the right-hand
  * two thirds, bare wood on the left — because the copy column sits in that empty half.
  */
-const SHELVES: { slug: CategorySlug; cta: string; photo: string }[] = [
-  { slug: "vitamins", cta: "Shop vitamins", photo: "/hero/vitamins-native.jpg" },
-  { slug: "minerals", cta: "Shop minerals", photo: "/hero/minerals-native.jpg" },
-  { slug: "immunity", cta: "Shop immunity", photo: "/hero/supplements-04-immunity.jpg" },
-  { slug: "omega", cta: "Shop omega", photo: "/hero/supplements-05-omega.jpg" },
-  { slug: "herbs", cta: "Shop herbs", photo: "/hero/supplements-06-herbal.jpg" },
+const SHELVES: { slug: CategorySlug; cta: string; photo: StaticImageData }[] = [
+  { slug: "vitamins", cta: "Shop vitamins", photo: vitaminsShot },
+  { slug: "minerals", cta: "Shop minerals", photo: mineralsShot },
+  { slug: "immunity", cta: "Shop immunity", photo: immunityShot },
+  { slug: "omega", cta: "Shop omega", photo: omegaShot },
+  { slug: "herbs", cta: "Shop herbs", photo: herbsShot },
 ];
-
-function onDisk(file: string): string | null {
-  return existsSync(path.join(process.cwd(), "public", file)) ? file : null;
-}
 
 export function HomeHero() {
   const stats = {
@@ -43,8 +46,6 @@ export function HomeHero() {
     brands: new Set(products.map((product) => product.brand)).size,
     shelves: CATEGORIES.length,
   };
-
-  const flatLay = onDisk(HERO_PHOTO);
 
   const opening: ShelfSlide = {
     id: "all",
@@ -72,7 +73,7 @@ export function HomeHero() {
         figures: `${inStock} in stock`,
         cta: { href: `/c/${slug}`, label: cta },
         link: null,
-        photo: onDisk(photo) ?? flatLay,
+        photo,
       },
     ];
   });

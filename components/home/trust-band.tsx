@@ -12,15 +12,12 @@
  * navy metal rather than a flat ramp.
  */
 
-import { existsSync } from "node:fs";
-import path from "node:path";
 import Image from "next/image";
+import bandPhoto from "@/public/hero/navy-brushed-band.png";
 
-/** The band's field. Checked on disk rather than imported, so replacing it is a file drop and a
- *  missing file leaves the `banner-clinic` ramp showing instead of failing the build. The name is
- *  the file as supplied — spaces and all; `next/image` encodes the URL. */
-const BAND_PHOTO = "/hero/Navy brushed aluminium band.png";
-
+/** The band's field. Imported rather than read off disk: the check that used to guard it —
+ *  `existsSync` against `public/` — always fails on a runtime with no filesystem, which quietly
+ *  dropped the photograph in production. A missing file is now a build error. */
 const CARDS = [
   { icon: FlaskGlyph, text: "Ingredients that have been studied in the scientific literature" },
   { icon: ShieldGlyph, text: "Manufacturing that follows industry standards such as cGMP" },
@@ -29,27 +26,23 @@ const CARDS = [
 ] as const;
 
 export function TrustBand() {
-  const photo = existsSync(path.join(process.cwd(), "public", BAND_PHOTO)) ? BAND_PHOTO : null;
-
   return (
     <section className="shell mt-6" aria-labelledby="professional-brands-heading">
-      {/* `banner-clinic` stays underneath the photograph: it is what paints while the image loads
-          and what shows if the file is ever missing. The ramp lives in globals.css — the home
-          hero's equipment slide and the /equipment page read the same three stops, so this blue
-          means one thing site-wide, and the photograph runs dark-left to light-right like it. */}
+      {/* `banner-clinic` stays underneath the photograph: it is what paints while the image loads.
+          The ramp lives in globals.css — the home hero's equipment slide and the /equipment page
+          read the same three stops, so this blue means one thing site-wide, and the photograph runs
+          dark-left to light-right like it. */}
       <div className="banner-clinic relative flex flex-col items-center overflow-hidden rounded-tile p-8">
-        {photo ? (
-          <Image
-            src={photo}
-            alt=""
-            fill
-            /* The band spans the shell, so it is viewport-wide up to the 1376px the shell caps at. */
-            sizes="(min-width: 1440px) 1376px, 100vw"
-            /* Cropped from the centre: the grain is horizontal and the light falls left to right,
-               so height is the only axis there is nothing to lose along. */
-            className="pointer-events-none select-none object-cover object-center"
-          />
-        ) : null}
+        <Image
+          src={bandPhoto}
+          alt=""
+          fill
+          /* The band spans the shell, so it is viewport-wide up to the 1376px the shell caps at. */
+          sizes="(min-width: 1440px) 1376px, 100vw"
+          /* Cropped from the centre: the grain is horizontal and the light falls left to right,
+             so height is the only axis there is nothing to lose along. */
+          className="pointer-events-none select-none object-cover object-center"
+        />
 
         <div className="relative w-full max-w-[1312px]">
           {/* header */}

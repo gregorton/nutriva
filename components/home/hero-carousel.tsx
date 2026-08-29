@@ -366,9 +366,9 @@ function ShopButton({ cta, tone }: { cta: HeroCta; tone: keyof typeof CTA_TONE }
  * the copy and the button go in that empty half and no scrim is needed to hold them apart from the
  * subject. Dark type on the wood, plum button, one cross-link on the opening slide.
  *
- * A slide with no shot of its own shows the flat-lay — the server half resolves that, so the arrow
- * currently advances the shelf, the figures and the button over one photograph. Dropping
- * `public/hero/<name>.png` in gives that shelf its own field with no code change.
+ * Each slide carries its own shot, imported by the server half so the bundler resolves it — the
+ * photograph cannot be missing at runtime, which it silently was when this was a path checked on
+ * disk. Giving a shelf a different field is a file drop plus an import in `home-hero.tsx`.
  */
 function SupplementsSlide({
   slide,
@@ -384,40 +384,36 @@ function SupplementsSlide({
 
   return (
     <div className="relative h-full">
-      {slide.photo ? (
-        <>
-          {/* One `Image`, two compositions, so the hero preloads one file rather than two.
-              From `lg` it is the whole field (`inset-0`, cover). Below that the copy cannot fit in
-              43% of a phone's width, so the shot becomes a band across the foot of the slide with
-              the copy above it on white — height as a percentage rather than an aspect ratio,
-              because the banner's height there is set by whichever slide is taller and a fixed
-              ratio leaves a white gap under the copy. Its top edge is masked: a hard seam between
-              the wood and the page is the one thing that gives away a photograph pasted into a
-              box. The crop is biased down the frame and to the right — the three spoons sit below
-              centre and in the right-hand two thirds, so a centred window cuts the last of them
-              in half and a narrow one lands on empty wood. */}
-          <div
-            className="pointer-events-none absolute inset-x-0 bottom-0 h-[52%] [mask-image:linear-gradient(to_bottom,transparent,black_32%)] md:h-[58%] lg:inset-0 lg:h-auto lg:[mask-image:none]"
-            aria-hidden
-          >
-            <Image
-              src={slide.photo}
-              alt=""
-              fill
-              priority={first}
-              sizes="(min-width: 1376px) 1312px, 100vw"
-              className="object-cover object-[100%_62%]"
-            />
-          </div>
-          {/* A wash under the copy, `lg` only. The wood there is already close to white, so this
-              evens out its grain rather than covering anything: enough that the heading holds if
-              a wider viewport shifts the crop, not enough to read as a panel. */}
-          <div
-            className="pointer-events-none absolute inset-0 hidden lg:block lg:bg-[linear-gradient(100deg,rgba(255,255,255,0.62)_0%,rgba(255,255,255,0.34)_26%,rgba(255,255,255,0)_56%)]"
-            aria-hidden
-          />
-        </>
-      ) : null}
+      {/* One `Image`, two compositions, so the hero preloads one file rather than two.
+          From `lg` it is the whole field (`inset-0`, cover). Below that the copy cannot fit in
+          43% of a phone's width, so the shot becomes a band across the foot of the slide with
+          the copy above it on white — height as a percentage rather than an aspect ratio,
+          because the banner's height there is set by whichever slide is taller and a fixed
+          ratio leaves a white gap under the copy. Its top edge is masked: a hard seam between
+          the wood and the page is the one thing that gives away a photograph pasted into a
+          box. The crop is biased down the frame and to the right — the three spoons sit below
+          centre and in the right-hand two thirds, so a centred window cuts the last of them
+          in half and a narrow one lands on empty wood. */}
+      <div
+        className="pointer-events-none absolute inset-x-0 bottom-0 h-[52%] [mask-image:linear-gradient(to_bottom,transparent,black_32%)] md:h-[58%] lg:inset-0 lg:h-auto lg:[mask-image:none]"
+        aria-hidden
+      >
+        <Image
+          src={slide.photo}
+          alt=""
+          fill
+          priority={first}
+          sizes="(min-width: 1376px) 1312px, 100vw"
+          className="object-cover object-[100%_62%]"
+        />
+      </div>
+      {/* A wash under the copy, `lg` only. The wood there is already close to white, so this
+          evens out its grain rather than covering anything: enough that the heading holds if
+          a wider viewport shifts the crop, not enough to read as a panel. */}
+      <div
+        className="pointer-events-none absolute inset-0 hidden lg:block lg:bg-[linear-gradient(100deg,rgba(255,255,255,0.62)_0%,rgba(255,255,255,0.34)_26%,rgba(255,255,255,0)_56%)]"
+        aria-hidden
+      />
 
       {/* The copy column is measured against the empty half of the shot, which is the left 43%
           of it: at `lg` that is 426px of a 992px banner, so the block narrows there and only
