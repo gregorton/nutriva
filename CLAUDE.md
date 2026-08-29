@@ -120,11 +120,14 @@ client island in `components/chrome/search-box.tsx`.
 - **`GET /api/search/suggest?q=` is the seam**, cached `public, max-age=300` — nothing per-visitor here,
   unlike `/api/session`. Fetching rather than shipping an index keeps the catalogue out of the client bundle
   and means the panel and the results page run **the same `search()`**, so the rows previewed are the rows
-  delivered. **It must send `Netlify-Vary: query=q`.** Netlify's adapter keys its caches on
-  `__nextDataReq` and `_rsc` only, so a `public` response was stored under a key that ignored `q`: the
-  first query cached was served to every later one and the live field predicted nothing, while `next dev`
-  — no CDN in front of it — behaved perfectly. Any future cacheable handler reading a search param needs
-  that header.
+  delivered. `max-age` is the **browser's** cache: a Worker's response is not held at the edge unless a
+  Cache Rule or the Cache API puts it there, so on Cloudflare a keystroke that misses the panel's own
+  `Map` reaches the handler — affordable, since `suggest()` is a synchronous scan of 470 rows with no
+  database behind it. **If an edge cache is ever put in front of it, check `q` is in the key.** On
+  Netlify it was not: that adapter keyed its caches on `__nextDataReq` and `_rsc` only, so a `public`
+  response was stored under a key ignoring `q` — the first query cached was served to every later one and
+  the live field predicted nothing, while `next dev`, with no CDN in front of it, behaved perfectly. It
+  took a `Netlify-Vary: query=q` header to undo, and no local run can show the bug.
 - **One combobox, three placements.** An anchored panel from `sm` up, the phone search row, and a
   full-screen sheet below `sm` — a dropdown there would fight the 103px pinned chrome and the on-screen
   keyboard. Sheet state lives in the store module rather than React context, because the three placements sit
@@ -358,10 +361,11 @@ answer "how many", never "who", and that is the whole design rather than a gap i
   deliberately **no `AbortController`**: this is the one place where aborting on unmount is wrong,
   because unmount is the navigation being recorded. So a view is a product opened by a browsing
   context — not a hit and not a person. Bots mostly do not run JS, which excludes crawlers for free.
-- **Search is counted on a submitted `/search` only.** `/api/search/suggest` is CDN-cached with
-  `Netlify-Vary: query=q` and a cached response never reaches the origin, so keystrokes cannot be
-  logged even in principle. What the panel shows is intent-to-search, which is the more useful
-  figure — and **the queries that returned nothing are the point of the page**.
+- **Search is counted on a submitted `/search` only.** `/api/search/suggest` writes nothing — it
+  calls `suggest()` and returns — so keystrokes are not logged however that route is cached, which
+  is what keeps the figure honest now that Cloudflare lets those requests reach the Worker. What
+  the panel shows is intent-to-search, which is the more useful figure — and **the queries that
+  returned nothing are the point of the page**.
 - Averages on `/admin/products` count **our** reviews only; the harvested aggregate is never mixed
   in. `sold30d` appears nowhere on the dashboard — it describes trade at the source, not here.
 - Charts are hand-rolled inline SVG (`components/admin/bar-chart.tsx`), stretched with
@@ -522,7 +526,41 @@ so filter bands, sorting, kit totals and the free-delivery threshold all see pla
   imported by every page. `reference/fx.mjs` reads the ECB daily reference rate (falling back to
   `open.er-api.com`), refuses anything outside 25-45 as a broken response, and **writes only once the rate has
   moved more than 0.5%**. `.github/workflows/exchange-rate.yml` runs it on weekdays just after the ECB
-  publishes and commits when it wrote, landing on `main` for Netlify's git deploy.
+  publishes and commits when it wrote, landing on `main` for Cloudflare's git deploy.
+
+## Deployment
+
+Cloudflare Workers, built by **OpenNext** (`@opennextjs/cloudflare`), deployed from `main` by Cloudflare's
+git integration. It is not a static export: `/c/[slug]`, `/search`, `/signin`, `/signup`, `/account/*`,
+`/admin/*` and the five route handlers render at request time, and the 470 prerendered product pages ship
+as static assets beside the Worker.
+
+- **`wrangler.jsonc` and `open-next.config.ts` are committed, and that is the point.** `wrangler deploy`
+  runs its framework auto-configuration only when it finds no Wrangler config — so every deploy was
+  installing the adapter into a throwaway container, rewriting `package.json` and `next.config.ts` there,
+  and failing. Both files are in the repo and the adapter and `wrangler` are pinned devDependencies.
+  `wrangler.jsonc` carries `build.command`, so a plain `wrangler deploy` builds the Worker first.
+- **`compatibility_flags` must keep `nodejs_compat`** — `pg` reaches for `node:crypto`, `node:events` and
+  `node:stream`, and `lib/password.ts` hashes with scrypt from `node:crypto`.
+- **`next.config.ts` traces `pg-cloudflare` in on purpose, and the build fails without it.** `pg` picks its
+  socket at runtime: `node:net` under Node, `pg-cloudflare`'s `CloudflareSocket` when it detects a Worker.
+  That package exports `dist/index.js` under the `workerd` condition and a do-nothing `dist/empty.js`
+  otherwise; Next traces with Node's conditions and copies only the empty one, then the adapter bundles the
+  server under `workerd`, asks for the real file and dies on `Could not resolve "pg-cloudflare"`.
+  `outputFileTracingIncludes` puts it where esbuild looks. Symptom is a build failure, never a runtime one.
+- **`next` must satisfy the adapter's peer range** (`>=15.5.24 <16 || >=16.3.3`). 16.3.2 did not, and
+  OpenNext patches the Next server at build time — an unsupported pair is not a warning worth carrying.
+- **Incremental cache is not set up**, the one thing this deployment still lacks. Reviews are read through
+  `unstable_cache` tagged `reviews:<slug>` and posting calls `updateTag()`; with no cache binding there is
+  nothing for that tag to invalidate, so a review lands on its prerendered product page at the next deploy
+  rather than at once. Unlocking it: create the R2 bucket, uncomment the two blocks in `wrangler.jsonc` and
+  the override in `open-next.config.ts`.
+- **`npx opennextjs-cloudflare build` cannot finish on Windows without Developer Mode** — OpenNext symlinks
+  traced packages and Windows refuses `symlink` without it (junctions are permitted, symlinks are not).
+  `next build` is unaffected; CI is Linux and unaffected.
+- Environment variables live in the Worker's settings: `DATABASE_URL` (unset switches accounts off),
+  `ADMIN_EMAILS` (unset means nobody), `OAUTH_REDIRECT_ORIGIN` plus the optional `GOOGLE_*` / `FACEBOOK_*`
+  pairs. A provider whose pair is blank shows no button.
 
 ## Reference material
 

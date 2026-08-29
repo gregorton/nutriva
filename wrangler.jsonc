@@ -1,0 +1,65 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+
+	// Cloudflare Workers deployment for Slim Wellness Asia, via the OpenNext adapter.
+	//
+	// The site is not a static export: /c/[slug], /search, /signin, /signup, /account/*, /admin/*
+	// and the route handlers all render at request time, so it deploys as a Worker with the 470
+	// prerendered product pages served from static assets beside it.
+	//
+	// This file is committed on purpose. `wrangler deploy` runs its framework auto-configuration
+	// only when it finds no Wrangler config, and that setup ran inside the throwaway build
+	// container on every deploy — installing the adapter afresh, rewriting package.json and
+	// next.config.ts, and then failing. With the config here, the build is reproducible and the
+	// adapter is a pinned devDependency like everything else.
+	//
+	// Environment variables belong in the Worker's settings, not here. DATABASE_URL is the only
+	// one the site needs; with it unset the storefront still builds and serves, and accounts,
+	// reviews and saved items switch themselves off (see lib/db.ts). ADMIN_EMAILS gates /admin,
+	// and unset means nobody. GOOGLE_* and FACEBOOK_* are optional — a provider whose pair is
+	// blank shows no button. Set OAUTH_REDIRECT_ORIGIN to the deployed origin and register
+	// <origin>/api/auth/google/callback and /api/auth/facebook/callback with each provider, or
+	// the consent screen refuses the redirect.
+
+	"main": ".open-next/worker.js",
+	"name": "slim-wellness-asia",
+	"compatibility_date": "2026-08-28",
+	// nodejs_compat is not optional: `pg` reaches for node:crypto, node:events and node:stream,
+	// and lib/password.ts hashes with scrypt from node:crypto.
+	"compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+	"assets": {
+		"directory": ".open-next/assets",
+		"binding": "ASSETS"
+	},
+	// Enables next/image optimisation through Cloudflare Images. Without it the adapter serves
+	// every product photograph at its source resolution.
+	"images": {
+		"binding": "IMAGES"
+	},
+	// Build the Worker before uploading it, so a plain `wrangler deploy` is the whole deploy step.
+	"build": {
+		"command": "npx opennextjs-cloudflare build"
+	}
+
+	// Incremental cache is NOT set up yet, which is the one thing this deployment still lacks.
+	// Reviews are read through `unstable_cache` tagged `reviews:<slug>` and posting calls
+	// `updateTag()`; with no cache binding there is nothing for that tag to invalidate, so a new
+	// review appears on its prerendered product page at the next deploy rather than at once.
+	// To turn it on: `npx wrangler r2 bucket create slim-wellness-asia-opennext-cache`, uncomment
+	// both blocks below, and uncomment `incrementalCache` in open-next.config.ts.
+	// See https://opennext.js.org/cloudflare/caching
+	//
+	// "services": [
+	// 	{
+	// 		// Self-reference; the service name must match the worker name above.
+	// 		"binding": "WORKER_SELF_REFERENCE",
+	// 		"service": "slim-wellness-asia"
+	// 	}
+	// ],
+	// "r2_buckets": [
+	// 	{
+	// 		"binding": "NEXT_INC_CACHE_R2_BUCKET",
+	// 		"bucket_name": "slim-wellness-asia-opennext-cache"
+	// 	}
+	// ]
+}
