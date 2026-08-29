@@ -15,18 +15,13 @@ import { suggest } from "@/lib/search-suggest";
   Cacheable for everyone: the answer depends on the query and nothing else — no cookie is read
   here, unlike `/api/session`.
 
-  `max-age` is the browser's cache and nothing else's. A Worker's response is not held at the edge
-  unless a Cache Rule or the Cache API puts it there, so on Cloudflare every keystroke that misses
-  the in-memory `Map` in search-box.tsx reaches this handler. That is affordable — `suggest()` is a
-  synchronous scan of 470 rows with no database behind it.
-
-  **If an edge cache is ever put in front of this, check that `q` is in its key.** Netlify's adapter
-  keyed its caches on `__nextDataReq` and `_rsc` alone, so a `public` response was stored under a
-  key that ignored `q`: the first query cached (the panel prefetches the empty one on focus) was
-  served to every later query, and the live field predicted nothing while `next dev`, with no CDN in
-  front of it, behaved perfectly. It needed a `Netlify-Vary: query=q` header to undo. Cloudflare
-  keys on the full URL including the query string, so nothing is needed here — but a rule that
-  strips or normalises query strings would bring the same bug back, and no local run can show it.
+  `Netlify-Vary` is not optional, and leaving it off shipped a bug no local run can show. Netlify's
+  adapter keys its edge and durable caches on `__nextDataReq` and `_rsc` only, so a `public`
+  response is stored under a key that ignores `q` — the first query cached (the panel prefetches
+  the empty one on focus) was then served to every later query, and the live field predicted
+  nothing while `next dev`, with no CDN in front of it, behaved perfectly. Declaring `query=q`
+  puts the query back in the key. Any future cacheable handler that reads a search param needs the
+  same line.
 */
 export async function GET(request: Request) {
   const query = new URL(request.url).searchParams.get("q") ?? "";
@@ -34,6 +29,7 @@ export async function GET(request: Request) {
   return Response.json(suggest(query), {
     headers: {
       "Cache-Control": "public, max-age=300",
+      "Netlify-Vary": "query=q",
     },
   });
 }

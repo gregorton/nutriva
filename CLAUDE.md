@@ -120,14 +120,11 @@ client island in `components/chrome/search-box.tsx`.
 - **`GET /api/search/suggest?q=` is the seam**, cached `public, max-age=300` — nothing per-visitor here,
   unlike `/api/session`. Fetching rather than shipping an index keeps the catalogue out of the client bundle
   and means the panel and the results page run **the same `search()`**, so the rows previewed are the rows
-  delivered. `max-age` is the **browser's** cache: a Worker's response is not held at the edge unless a
-  Cache Rule or the Cache API puts it there, so on Cloudflare a keystroke that misses the panel's own
-  `Map` reaches the handler — affordable, since `suggest()` is a synchronous scan of 470 rows with no
-  database behind it. **If an edge cache is ever put in front of it, check `q` is in the key.** On
-  Netlify it was not: that adapter keyed its caches on `__nextDataReq` and `_rsc` only, so a `public`
-  response was stored under a key ignoring `q` — the first query cached was served to every later one and
-  the live field predicted nothing, while `next dev`, with no CDN in front of it, behaved perfectly. It
-  took a `Netlify-Vary: query=q` header to undo, and no local run can show the bug.
+  delivered. **It must send `Netlify-Vary: query=q`.** Netlify's adapter keys its caches on
+  `__nextDataReq` and `_rsc` only, so a `public` response was stored under a key that ignored `q`: the
+  first query cached was served to every later one and the live field predicted nothing, while `next dev`
+  — no CDN in front of it — behaved perfectly. Any future cacheable handler reading a search param needs
+  that header.
 - **One combobox, three placements.** An anchored panel from `sm` up, the phone search row, and a
   full-screen sheet below `sm` — a dropdown there would fight the 103px pinned chrome and the on-screen
   keyboard. Sheet state lives in the store module rather than React context, because the three placements sit
@@ -238,10 +235,8 @@ switches the feature off rather than erroring, which keeps a build working with 
   **first**: reading cookies during a prerender throws a framework signal meaning "render at request time",
   and swallowing it renders the page as though nobody were signed in.
 - **Nothing under `/account` sets `force-dynamic`** — the cookie read already makes it dynamic, and forcing it
-  stops `refresh()` from an action updating the page in place. **There is no proxy — Next 16's renamed
-  middleware — and adding one back is expensive**: it checked only whether a session cookie existed, which
-  `requireUser()` and `requireAdmin()` both do anyway with the same `?next=` redirect, and it cost 0.6MB
-  gzipped of a 3MiB Worker to do it. What it saved was a render on a signed-out prefetch. See Deployment.
+  stops `refresh()` from an action updating the page in place. `proxy.ts` (Next 16's renamed middleware) only
+  checks whether a cookie exists, keeping a DB round trip off every prefetch.
 - `lib/accounts.ts`, `lib/reviews.ts`, `lib/saved.ts` are the query modules; `app/actions/*.ts` the mutations,
   and **every one re-verifies the session**: a Server Action is a POST endpoint anything can call.
 
@@ -334,8 +329,8 @@ all recorded what people look at.
   address up inside the module and lets only a boolean out. `/admin/accounts` is the one surface on
   the site that displays an address, and that is what the gate is protecting.
 - **Read-only by construction** — no action, no form, no mutation. A leaked admin session discloses
-  and cannot damage. Nothing stands in front of it either — `requireAdmin()` on each page is the
-  whole gate, and there is no proxy to mistake for one.
+  and cannot damage. `proxy.ts` matches `/admin` too, but only for the cookie-presence check: it is
+  not the gate.
 
 **The counters** are `lib/schema/003_analytics.sql`, written by `lib/analytics.ts` and read by
 `lib/admin-stats.ts`: `product_views`, `page_views`, `search_queries`, each a `(thing, day)` primary
@@ -363,11 +358,10 @@ answer "how many", never "who", and that is the whole design rather than a gap i
   deliberately **no `AbortController`**: this is the one place where aborting on unmount is wrong,
   because unmount is the navigation being recorded. So a view is a product opened by a browsing
   context — not a hit and not a person. Bots mostly do not run JS, which excludes crawlers for free.
-- **Search is counted on a submitted `/search` only.** `/api/search/suggest` writes nothing — it
-  calls `suggest()` and returns — so keystrokes are not logged however that route is cached, which
-  is what keeps the figure honest now that Cloudflare lets those requests reach the Worker. What
-  the panel shows is intent-to-search, which is the more useful figure — and **the queries that
-  returned nothing are the point of the page**.
+- **Search is counted on a submitted `/search` only.** `/api/search/suggest` is CDN-cached with
+  `Netlify-Vary: query=q` and a cached response never reaches the origin, so keystrokes cannot be
+  logged even in principle. What the panel shows is intent-to-search, which is the more useful
+  figure — and **the queries that returned nothing are the point of the page**.
 - Averages on `/admin/products` count **our** reviews only; the harvested aggregate is never mixed
   in. `sold30d` appears nowhere on the dashboard — it describes trade at the source, not here.
 - Charts are hand-rolled inline SVG (`components/admin/bar-chart.tsx`), stretched with
@@ -423,10 +417,11 @@ meet at the types in `hero-slides.ts`.
   press to jump. On a phone the label shortens to "Equipment"; the `aria-label` stays the full name, so the
   accessible name does not change with the viewport.
 - **Each supplements slide has its own photograph, and the photographs are imported.** `SHELVES` pairs shelf
-  to an imported image, so adding or reordering is a file drop plus an import and a missing file is a build
-  error. It used to be a path checked with `existsSync` against `public/`, which looked safe and was the
-  opposite: **a Worker has no filesystem**, so in production every check failed and the hero shipped with no
-  photograph at all — see Deployment. Nothing
+  to an imported image, so adding or reordering is a file drop plus an import, a missing file is a build error
+  rather than a silent omission, and the emitted URL is a hashed immutable asset. It used to be a path checked
+  with `existsSync` against `public/`, which read as safe and is not: the check runs wherever the page renders,
+  so on any host without a real filesystem at that moment it answers false for a file that is deployed and
+  serving, and the slide ships with no photograph. `trust-band.tsx` carries the same rule. Nothing
   hardcodes the count — frame, dot row and `hero-check.mjs` all count them. **Every shot must be composed like
   the flat-lay** (subject in the right-hand two thirds, bare wood left), because the copy column sits in the
   empty half — its left 43%.
@@ -531,63 +526,7 @@ so filter bands, sorting, kit totals and the free-delivery threshold all see pla
   imported by every page. `reference/fx.mjs` reads the ECB daily reference rate (falling back to
   `open.er-api.com`), refuses anything outside 25-45 as a broken response, and **writes only once the rate has
   moved more than 0.5%**. `.github/workflows/exchange-rate.yml` runs it on weekdays just after the ECB
-  publishes and commits when it wrote, landing on `main` for Cloudflare's git deploy.
-
-## Deployment
-
-Cloudflare Workers, built by **OpenNext** (`@opennextjs/cloudflare`), deployed from `main` by Cloudflare's
-git integration. It is not a static export: `/c/[slug]`, `/search`, `/signin`, `/signup`, `/account/*`,
-`/admin/*` and the five route handlers render at request time, and the 470 prerendered product pages ship
-as static assets beside the Worker.
-
-- **The Workers Builds commands are `npx opennextjs-cloudflare build` and `npx wrangler deploy`, in that
-  order, and the build one is not optional.** `wrangler deploy` does not build this project: it detects a
-  Next.js app with an `open-next.config.ts` and delegates to `opennextjs-cloudflare deploy`, which reads
-  the compiled config out of `.open-next/.build/` and exits with *Could not find compiled Open Next
-  config* if the bundle is not already there. A build command of `npm run build` — plain `next build` —
-  leaves the Worker unbuilt. The delegation also pre-empts a `build.command` in `wrangler.jsonc`, which is
-  why there is none: it would only fire in the inner `wrangler deploy` and bundle a second time.
-- **`wrangler.jsonc` and `open-next.config.ts` are committed, and that is the point.** `wrangler deploy`
-  runs its framework auto-configuration only when it finds no Wrangler config — so every deploy was
-  installing the adapter into a throwaway container, rewriting `package.json` and `next.config.ts` there,
-  and failing. Both files are in the repo and the adapter and `wrangler` are pinned devDependencies.
-- **`compatibility_flags` must keep `nodejs_compat`** — `pg` reaches for `node:crypto`, `node:events` and
-  `node:stream`, and `lib/password.ts` hashes with scrypt from `node:crypto`.
-- **`next.config.ts` traces `pg-cloudflare` in on purpose, and the build fails without it.** `pg` picks its
-  socket at runtime: `node:net` under Node, `pg-cloudflare`'s `CloudflareSocket` when it detects a Worker.
-  That package exports `dist/index.js` under the `workerd` condition and a do-nothing `dist/empty.js`
-  otherwise; Next traces with Node's conditions and copies only the empty one, then the adapter bundles the
-  server under `workerd`, asks for the real file and dies on `Could not resolve "pg-cloudflare"`.
-  `outputFileTracingIncludes` puts it where esbuild looks. Symptom is a build failure, never a runtime one.
-- **`next` must satisfy the adapter's peer range** (`>=15.5.24 <16 || >=16.3.3`). 16.3.2 did not, and
-  OpenNext patches the Next server at build time — an unsupported pair is not a warning worth carrying.
-- **Incremental cache is not set up**, the one thing this deployment still lacks. Reviews are read through
-  `unstable_cache` tagged `reviews:<slug>` and posting calls `updateTag()`; with no cache binding there is
-  nothing for that tag to invalidate, so a review lands on its prerendered product page at the next deploy
-  rather than at once. Unlocking it: create the R2 bucket, uncomment the two blocks in `wrangler.jsonc` and
-  the override in `open-next.config.ts`.
-- **`npx opennextjs-cloudflare build` cannot finish on Windows without Developer Mode** — OpenNext symlinks
-  traced packages and Windows refuses `symlink` without it (junctions are permitted, symlinks are not).
-  `next build` is unaffected; CI is Linux and unaffected.
-- **Nothing may touch the filesystem at request time.** A Worker has no filesystem: `node:fs` under
-  `nodejs_compat` is a stub, and `existsSync` answers false for a file that is demonstrably deployed and
-  serving. `home-hero.tsx` and `trust-band.tsx` both gated their photographs behind exactly that check, so the
-  hero and the trust band shipped with no image while every product photograph was fine. Anything derived from
-  disk must be resolved by the bundler (import the asset) or generated into a module at build time, the way
-  `catalog.generated.json` is. It fails silently, not loudly, which is what makes it worth a rule.
-- **The free plan caps a Worker at 3MiB gzipped**, and Next 16 on OpenNext spends most of that on its own
-  server runtime — this one measured ~2.7MB before the proxy came out, ~2.1MB after. It fits, with little
-  room: a new dependency in the request path is now a size decision. Paid Workers raises the cap to 10MiB.
-- Environment variables live in the Worker's settings, and **as Secrets rather than plaintext
-  Variables**: the deploy step runs `wrangler deploy`, which treats the committed config as the source
-  of truth for plaintext `vars` and removes dashboard-added ones it cannot see, while encrypted
-  secrets survive. `npx wrangler secret put <NAME>` is the reliable way in, and setting one deploys a
-  new version by itself — no rebuild. A missing value fails quietly by design: no `DATABASE_URL`
-  switches accounts, reviews and saved items off (`lib/db.ts`), no `ADMIN_EMAILS` means `/admin` 404s
-  for everybody, and a provider whose pair is blank shows no button, so `/api/auth/google` answers
-  `/signin?error=provider`. `OAUTH_REDIRECT_ORIGIN` is only needed behind a proxy that rewrites the
-  host — on `*.workers.dev` the origin is derived from the request — but each origin's
-  `<origin>/api/auth/<provider>/callback` still has to be registered with the provider.
+  publishes and commits when it wrote, landing on `main` for Netlify's git deploy.
 
 ## Reference material
 

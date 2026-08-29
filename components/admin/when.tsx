@@ -2,7 +2,7 @@
   A timestamp on the dashboard, always in Bangkok time.
 
   Pinned to the zone rather than left to the runtime's, because the counters bucket on Bangkok days
-  and a Cloudflare Worker runs in UTC — a signup at 06:30 Thai time would otherwise print as the
+  and a Netlify function runs in UTC — a signup at 06:30 Thai time would otherwise print as the
   previous evening and disagree with the bar it is counted in.
 */
 const stamp = new Intl.DateTimeFormat("en-GB", {

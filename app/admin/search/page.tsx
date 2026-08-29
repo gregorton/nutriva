@@ -13,9 +13,9 @@ const WINDOW = 30;
   What people type into the field, and — the reason this page exists — what they typed that this shop
   could not answer. A query with no results is a stock decision waiting to be made.
 
-  Only submitted searches are here, because /api/search/suggest counts nothing: it calls `suggest()`
-  and returns, and the one writer of these figures is /search itself. So these are queries somebody
-  committed to, not keystrokes — and that holds however the suggestion route happens to be cached.
+  Only submitted searches are here. Suggestions come from /api/search/suggest, which is cached at the
+  CDN with `Netlify-Vary: query=q`, and a response served from that cache never reaches the origin to
+  be counted. So these are queries somebody committed to, not keystrokes.
 */
 export default async function AdminSearchPage() {
   await requireAdmin("/admin/search");

@@ -2,6 +2,7 @@ import "server-only";
 import { createHash, randomBytes } from "node:crypto";
 import { cookies } from "next/headers";
 import { query, queryOne } from "@/lib/db";
+import { SESSION_COOKIE } from "@/lib/session-cookie";
 
 /*
   Sessions, stored in the database rather than signed into the cookie.
@@ -14,15 +15,6 @@ import { query, queryOne } from "@/lib/db";
   A plain hash rather than scrypt is right here and wrong for passwords: the token is already
   32 bytes of entropy, so there is nothing to brute-force, and this runs on every request.
 */
-
-/*
-  The cookie's name lived in its own import-free module while `proxy.ts` existed, because Next traces
-  a proxy's whole import graph into the proxy bundle and reaching this file pulled in `lib/db.ts` and
-  so `pg` — which Next emits as a runtime dynamic import the proxy runtime cannot resolve, leaving
-  every path under /account answering 500. The proxy is gone (it cost 0.6MB gzipped of a 3MiB Worker
-  to check whether a cookie exists) and nothing outside this module reads the name any more.
-*/
-const SESSION_COOKIE = "swa.session";
 
 const SESSION_DAYS = 30;
 

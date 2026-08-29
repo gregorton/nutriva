@@ -4,8 +4,8 @@
 # dollar moves (see lib/fx.ts). This fetches the market rate, and reference/fx.mjs writes it only
 # when it has moved more than half a percent — so most runs do nothing and change no files.
 #
-# When it does write, the commit lands on main and Cloudflare rebuilds the site with the new rate.
-# Nothing runs at request time and no page loses its prerender.
+# When it does write, the commit lands on main and Netlify's git deploy rebuilds the site with the
+# new rate. Nothing runs at request time and no page loses its prerender.
 #
 # Needs no secrets. GITHUB_TOKEN is granted contents:write below, which is what lets the push
 # through; the schedule does not re-trigger on the bot's own commit.
