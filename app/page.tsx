@@ -6,10 +6,12 @@ import { TrustBand } from "@/components/home/trust-band";
 import { EditorialStrip } from "@/components/home/editorial-strip";
 import { ProductRail } from "@/components/product/product-grid";
 import { SectionHeader } from "@/components/ui/section-header";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export default function HomePage() {
   return (
     <>
+      <ViewBeacon kind="surface" value="home" />
       <HomeHero />
       <StarterKits />
       <CategoryTiles />

@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { ArrowIcon } from "@/components/ui/icons";
 import { EQUIPMENT_RANGES, EquipmentGlyph } from "@/components/home/equipment-glyphs";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export const metadata: Metadata = {
   title: "Medical equipment",
@@ -13,6 +14,7 @@ export const metadata: Metadata = {
 export default function EquipmentPage() {
   return (
     <div>
+      <ViewBeacon kind="surface" value="equipment" />
       <div className="shell pt-6">
         <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Medical equipment" }]} />
       </div>

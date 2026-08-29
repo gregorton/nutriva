@@ -5,6 +5,7 @@ import { didYouMean } from "@/lib/search-suggest";
 import { ProductGrid } from "@/components/product/product-grid";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { values, type RawSearchParams } from "@/lib/query";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export const metadata: Metadata = { title: "Search" };
 
@@ -18,6 +19,9 @@ export default async function SearchPage({ searchParams }: PageProps<"/search">)
 
   return (
     <div className="shell py-6">
+      <ViewBeacon kind="surface" value="search" />
+      {/* Only a submitted query is counted; the cached suggestion endpoint cannot report one. */}
+      {query.trim() && <ViewBeacon kind="search" value={query} />}
       <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Search" }]} />
 
       <header className="mt-3 border-b border-line pb-5">

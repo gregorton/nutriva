@@ -21,6 +21,7 @@ import { Stars } from "@/components/ui/stars";
 import { ProductRail } from "@/components/product/product-grid";
 import { SectionHeader } from "@/components/ui/section-header";
 import { TrendIcon } from "@/components/ui/icons";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export function generateStaticParams() {
   return products.map((product) => ({ slug: product.slug }));
@@ -60,6 +61,7 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
 
   return (
     <div className="shell py-6">
+      <ViewBeacon kind="product" value={product.slug} />
       <Breadcrumbs
         trail={[
           { label: "Home", href: "/" },

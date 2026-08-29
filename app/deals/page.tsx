@@ -3,6 +3,7 @@ import { deals } from "@/lib/catalog";
 import { ProductGrid } from "@/components/product/product-grid";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { Countdown } from "@/components/home/countdown";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export const metadata: Metadata = {
   title: "Deals",
@@ -14,6 +15,7 @@ export default function DealsPage() {
 
   return (
     <div className="shell py-6">
+      <ViewBeacon kind="surface" value="deals" />
       <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Deals" }]} />
 
       <header className="mt-3 flex flex-wrap items-end justify-between gap-4 border-b border-line pb-5">

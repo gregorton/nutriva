@@ -16,6 +16,7 @@ import { SortSelect } from "@/components/plp/sort-select";
 import { CategoryTypeRail } from "@/components/plp/category-type-rail";
 import { inSubcategory } from "@/lib/subcategories";
 import { CloseIcon } from "@/components/ui/icons";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export function generateStaticParams() {
   return CATEGORIES.map((category) => ({ slug: category.slug }));
@@ -102,6 +103,7 @@ export default async function CategoryPage({ params, searchParams }: PageProps<"
 
   return (
     <div className="shell py-6">
+      <ViewBeacon kind="surface" value="category" />
       <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: category.name }]} />
 
       <header className="mt-3 border-b border-line pb-5">

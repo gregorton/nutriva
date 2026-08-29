@@ -9,8 +9,10 @@ import { SESSION_COOKIE } from "@/lib/session-cookie";
   matched request including prefetches, and a database round trip here would put one on the path
   of every navigation.
 
-  The real check is `requireUser()` in lib/dal.ts, which every page under /account calls. This
-  only saves a stranger with no cookie at all from rendering a page that would redirect anyway.
+  The real check is `requireUser()` in lib/dal.ts, which every page under /account calls, and
+  `requireAdmin()` in lib/admin.ts under /admin. This only saves a stranger with no cookie at all
+  from rendering a page that would redirect anyway. It is emphatically not the admin gate: holding
+  a session cookie gets you past this and no further.
 */
 export function proxy(request: NextRequest) {
   if (request.cookies.has(SESSION_COOKIE)) return NextResponse.next();
@@ -21,5 +23,5 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/account", "/account/:path*"],
+  matcher: ["/account", "/account/:path*", "/admin", "/admin/:path*"],
 };

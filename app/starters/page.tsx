@@ -6,6 +6,7 @@ import { KitCard } from "@/components/starters/kit-card";
 import { GuideCard } from "@/components/guides/guide-card";
 import { ProductGrid } from "@/components/product/product-grid";
 import { SectionHeader } from "@/components/ui/section-header";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export const metadata: Metadata = {
   title: "Starter kits",
@@ -19,6 +20,7 @@ export default function StartersPage() {
 
   return (
     <div className="shell py-6 pb-10">
+      <ViewBeacon kind="surface" value="starters" />
       <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Starter kits" }]} />
 
       <header className="mt-3 border-b border-line pb-6">

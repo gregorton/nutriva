@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { GUIDES } from "@/lib/guides";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { GuideCard, GuideFeature } from "@/components/guides/guide-card";
+import { ViewBeacon } from "@/components/analytics/view-beacon";
 
 export const metadata: Metadata = {
   title: "Guides",
@@ -22,6 +23,7 @@ export default function GuidesPage() {
 
   return (
     <div className="shell py-6">
+      <ViewBeacon kind="surface" value="guides" />
       <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Guides" }]} />
 
       <header className="mt-3 border-b border-line pb-6">

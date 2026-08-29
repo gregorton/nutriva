@@ -44,6 +44,7 @@ node reference/starters-check.mjs  # kit surfaces swept for claim copy
 node reference/guides-check.mjs    # a credit exists for every cover
 node reference/search-check.mjs    # prediction panel, keyboard, phone sheet, no-JS fallback
 node reference/auth-check.mjs      # full auth round trip; WRITES to the DB — use a scratch project
+node reference/admin-check.mjs     # /admin gate, counters, beacon; writes but restores every counter
 ```
 
 ## Architecture
@@ -64,8 +65,9 @@ catalogue module, and PostgreSQL for what visitors write.
   snapshot. **Never `useState` + effect**: hydration mismatch, and trips `react-hooks/set-state-in-effect`.
 - Routes: `/`, `/c/[slug]` (dynamic — searchParams), `/p/[slug]` (SSG, 470 paths), `/starters`, `/deals`,
   `/equipment`, `/search`, `/guides` + `/guides/[slug]` (SSG), `/signin`, `/signup`, `/account` +
-  `/account/saved` + `/account/reviews` (dynamic — session cookie), `/api/session`,
-  `/api/search/suggest`, `not-found`.
+  `/account/saved` + `/account/reviews` (dynamic — session cookie), `/admin` + `/admin/accounts` +
+  `/admin/reviews` + `/admin/products` + `/admin/search` (dynamic — session cookie), `/api/session`,
+  `/api/search/suggest`, `/api/track`, `not-found`.
 - `components/chrome/sticky-chrome.tsx` — pins masthead + category row; the utility strip above scrolls away
   for good. Pinned state is measured off layout (`getBoundingClientRect().top <= 0`) through
   `useSyncExternalStore`, not state from an effect, and published as `data-stuck` so children condense off
@@ -299,6 +301,59 @@ Two `auth-check.mjs` traps. `page.textContent('body')` also reads the RSC flight
 `domcontentloaded`, not `networkidle`, because the footer links to six routes that do not exist
 (`/help/delivery`, `/help/returns`, `/help/contact`, `/account/orders`, `/quality`, `/sourcing`) and their
 prefetches never settle.
+
+## Internal dashboard
+
+`/admin` — a private, read-only survey for a named few: overview, accounts, reviews, products, search.
+It exists because nothing else aggregates what the database holds, and because until now nothing at
+all recorded what people look at.
+
+- **The gate is `lib/admin.ts`, and it is an env allowlist.** `ADMIN_EMAILS`, comma-separated,
+  checked after the ordinary sign-in. Unset means nobody and `/admin` 404s for everyone — there is
+  no default administrator. Revoking is an env edit rather than a migration, and there is no admin
+  column for a stray update to flip. `requireAdmin()` sends a stranger to `/signin` and answers a
+  signed-in non-admin with **`notFound()`, not 403**, so a guessed URL discloses nothing. Every page
+  calls it for itself; the layout's call is for the bar and the tabs.
+- **Nothing on this site verifies an email address** — it sends no mail at all — so whoever
+  registers an allowlisted address first gets in. **Create the accounts, then add the addresses.**
+- `lib/dal.ts`'s rule that no email reaches a component holds where it matters: `isAdmin()` looks the
+  address up inside the module and lets only a boolean out. `/admin/accounts` is the one surface on
+  the site that displays an address, and that is what the gate is protecting.
+- **Read-only by construction** — no action, no form, no mutation. A leaked admin session discloses
+  and cannot damage. `proxy.ts` matches `/admin` too, but only for the cookie-presence check: it is
+  not the gate.
+
+**The counters** are `lib/schema/003_analytics.sql`, written by `lib/analytics.ts` and read by
+`lib/admin-stats.ts`: `product_views`, `page_views`, `search_queries`, each a `(thing, day)` primary
+key over an integer bumped by one upsert. No visitor id, no cookie, no IP, no per-event row — they
+answer "how many", never "who", and that is the whole design rather than a gap in it.
+
+- **`day` is Bangkok's, never `current_date`.** The Neon branch runs in GMT, so the two disagree for
+  the first seven hours of every Thai day and the evening peak would file under yesterday. The zone
+  is passed as a parameter — `(now() at time zone $n::text)::date` — so it lives in one constant.
+- **`POST /api/track` is the only writer, and every key is validated against something the server
+  already knows**: a slug through `getProduct()`, a surface against a fixed set, and the search
+  result count from `search()` — **never from the request body**. It answers 204 to everything, so
+  probing it maps nothing. No CSRF token, deliberately: a forged call can only nudge an anonymous
+  counter.
+- **`components/analytics/view-beacon.tsx` is a client island because the counted pages must stay
+  prerendered** — `/p/[slug]` is 470 built pages, and a server-side insert there would either break
+  the prerender or never run again. A module-level `Set` dedupes per JS context, and there is
+  deliberately **no `AbortController`**: this is the one place where aborting on unmount is wrong,
+  because unmount is the navigation being recorded. So a view is a product opened by a browsing
+  context — not a hit and not a person. Bots mostly do not run JS, which excludes crawlers for free.
+- **Search is counted on a submitted `/search` only.** `/api/search/suggest` is CDN-cached with
+  `Netlify-Vary: query=q` and a cached response never reaches the origin, so keystrokes cannot be
+  logged even in principle. What the panel shows is intent-to-search, which is the more useful
+  figure — and **the queries that returned nothing are the point of the page**.
+- Averages on `/admin/products` count **our** reviews only; the harvested aggregate is never mixed
+  in. `sold30d` appears nowhere on the dashboard — it describes trade at the source, not here.
+- Charts are hand-rolled inline SVG (`components/admin/bar-chart.tsx`), stretched with
+  `preserveAspectRatio="none"`, which is why every bar is a plain rect: rounded corners, strokes and
+  text would distort with it. No charting library — the project runs on five dependencies.
+- `node reference/admin-check.mjs` covers all of it and **puts every counter it touches back**, so
+  unlike `auth-check.mjs` it is safe to point at the real project. The dashboard half needs
+  `ADMIN_EMAILS=admin-check@slimwellness.test` on the allowlist or it SKIPs.
 
 ## Home hero
 
