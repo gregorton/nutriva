@@ -9,7 +9,8 @@ import { type Guide, creditLine } from "@/lib/guides";
   next to a page otherwise full of product shots.
 
   The photo credit rides on the card only in the feature size, where there is room for it. Every
-  other placement leaves crediting to the article page, which always prints it.
+  other placement leaves crediting to the article page, which always prints it. The tag is printed
+  once, in the meta line — the badge that also sat over the photograph said the same word twice.
 */
 
 function Meta({ guide, className = "" }: { guide: Guide; className?: string }) {
@@ -22,7 +23,7 @@ function Meta({ guide, className = "" }: { guide: Guide; className?: string }) {
   );
 }
 
-/** Lead slot: 16:9 photograph over the headline, standfirst and the first takeaway. */
+/** Lead slot: 16:9 photograph over the headline and standfirst. */
 export function GuideFeature({ guide, priority = false }: { guide: Guide; priority?: boolean }) {
   const credit = creditLine(guide.photo);
 
@@ -34,28 +35,22 @@ export function GuideFeature({ guide, priority = false }: { guide: Guide; priori
             src={guide.photo.file}
             alt=""
             fill
-            sizes="(max-width: 1024px) 100vw, 700px"
+            sizes="(max-width: 1024px) 100vw, 620px"
             priority={priority}
             className="object-cover"
           />
-          <span className="kicker absolute left-0 top-0 bg-plum-800 px-2.5 py-1.5 text-turmeric-200">
-            {guide.tag}
-          </span>
         </div>
       )}
 
-      <div className="flex flex-1 flex-col p-5">
+      <div className="flex flex-1 flex-col p-4 sm:p-[18px]">
         <Meta guide={guide} />
-        <h3 className="mt-2 font-display text-[24px] leading-tight sm:text-[27px]">
+        <h3 className="mt-1.5 font-display text-[20px] leading-tight sm:text-[22px]">
           <Link href={`/guides/${guide.slug}`} className="static before:absolute before:inset-0">
             {guide.title}
           </Link>
         </h3>
-        <p className="mt-2.5 text-[14.5px] leading-relaxed text-muted">{guide.dek}</p>
-        <p className="mt-4 border-t border-line pt-3 text-[13.5px] leading-snug text-ink">
-          {guide.takeaways[0]}
-        </p>
-        {credit && <p className="facts mt-3 text-faint">Photo: {credit}</p>}
+        <p className="mt-2 line-clamp-2 text-[14px] leading-snug text-muted">{guide.dek}</p>
+        {credit && <p className="facts mt-auto pt-3 text-faint">Photo: {credit}</p>}
       </div>
     </article>
   );
@@ -91,24 +86,24 @@ export function GuideCard({ guide, priority = false }: { guide: Guide; priority?
   );
 }
 
-/** List slot: square thumbnail beside the headline, for a column next to the feature. */
+/** List slot: small thumbnail beside the headline, for a column next to the feature. */
 export function GuideRow({ guide }: { guide: Guide }) {
   return (
-    <article className="group relative flex gap-3.5 py-3.5 first:pt-0 last:pb-0">
+    <article className="group relative flex items-center gap-3 py-2.5 first:pt-0 last:pb-0">
       {guide.photo && (
         <Link
           href={`/guides/${guide.slug}`}
           tabIndex={-1}
           aria-hidden
-          className="relative h-[70px] w-[100px] shrink-0 overflow-hidden rounded-[7px] bg-paper sm:h-[80px] sm:w-[116px]"
+          className="relative h-[52px] w-[74px] shrink-0 overflow-hidden rounded-[6px] bg-paper"
         >
-          <Image src={guide.photo.file} alt="" fill sizes="116px" className="object-cover" />
+          <Image src={guide.photo.file} alt="" fill sizes="74px" className="object-cover" />
         </Link>
       )}
 
       <div className="min-w-0 flex-1">
         <Meta guide={guide} />
-        <h3 className="mt-1 font-display text-[16px] leading-tight">
+        <h3 className="mt-0.5 font-display text-[15px] leading-tight">
           <Link
             href={`/guides/${guide.slug}`}
             className="static line-clamp-2 group-hover:text-plum-700 before:absolute before:inset-0"
@@ -116,7 +111,6 @@ export function GuideRow({ guide }: { guide: Guide }) {
             {guide.title}
           </Link>
         </h3>
-        <p className="mt-1 line-clamp-2 text-[13px] leading-snug text-muted">{guide.dek}</p>
       </div>
     </article>
   );
