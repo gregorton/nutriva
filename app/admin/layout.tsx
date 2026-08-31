@@ -18,6 +18,7 @@ const jetbrains = JetBrains_Mono({ variable: "--font-jetbrains", subsets: ["lati
 const TABS = [
   { href: "/admin", label: "overview" },
   { href: "/admin/accounts", label: "accounts" },
+  { href: "/admin/orders", label: "orders" },
   { href: "/admin/reviews", label: "reviews" },
   { href: "/admin/products", label: "products" },
   { href: "/admin/search", label: "search" },

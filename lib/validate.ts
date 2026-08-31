@@ -83,3 +83,57 @@ export function checkReview(form: FormData): Checked<ReviewDraft, keyof ReviewDr
     ? { ok: false, errors }
     : { ok: true, value: { rating, title: title || null, body } };
 }
+
+export type CheckoutDetails = {
+  name: string;
+  email: string;
+  phone: string;
+  line: string;
+  subdistrict: string;
+  district: string;
+  province: string;
+  postcode: string;
+};
+
+/** Thai mobile and landline numbers, with or without +66 and with spaces or dashes anywhere. */
+const PHONE = /^(\+?66|0)[\d\s-]{8,12}$/;
+const POSTCODE = /^\d{5}$/;
+
+/**
+ * The checkout address. `provinces` is passed in rather than imported so this module stays free of
+ * dependencies, and so the action and the form validate against the same list the select renders.
+ */
+export function checkCheckout(
+  form: FormData,
+  provinces: readonly string[],
+): Checked<CheckoutDetails, keyof CheckoutDetails> {
+  const value: CheckoutDetails = {
+    name: text(form.get("name")),
+    email: text(form.get("email")).toLowerCase(),
+    phone: text(form.get("phone")),
+    line: text(form.get("line")),
+    subdistrict: text(form.get("subdistrict")),
+    district: text(form.get("district")),
+    province: text(form.get("province")),
+    postcode: text(form.get("postcode")),
+  };
+  const errors: Invalid<keyof CheckoutDetails>["errors"] = {};
+
+  if (value.name.length < 2) errors.name = "Enter the name the parcel is for.";
+  else if (value.name.length > 120) errors.name = "Keep the name under 120 characters.";
+
+  if (!EMAIL.test(value.email) || value.email.length > 254)
+    errors.email = "Enter an email address we can reach you on.";
+
+  if (!PHONE.test(value.phone)) errors.phone = "Enter a Thai phone number the courier can call.";
+
+  if (value.line.length < 4) errors.line = "Enter the house number and street.";
+  else if (value.line.length > 200) errors.line = "Keep the address line under 200 characters.";
+
+  if (!value.subdistrict) errors.subdistrict = "Enter the sub-district (tambon).";
+  if (!value.district) errors.district = "Enter the district (amphoe).";
+  if (!provinces.includes(value.province)) errors.province = "Choose a province.";
+  if (!POSTCODE.test(value.postcode)) errors.postcode = "A Thai postcode is five digits.";
+
+  return Object.keys(errors).length ? { ok: false, errors } : { ok: true, value };
+}

@@ -24,6 +24,7 @@ export default async function AccountLayout({ children }: LayoutProps<"/account"
 
       <nav className="mt-6 flex gap-1 overflow-x-auto border-b border-line" aria-label="Account sections">
         <Tab href="/account">Overview</Tab>
+        <Tab href="/account/orders">Orders</Tab>
         <Tab href="/account/saved">Saved items</Tab>
         <Tab href="/account/reviews">Your reviews</Tab>
       </nav>

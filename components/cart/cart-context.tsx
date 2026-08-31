@@ -18,6 +18,8 @@ type CartState = {
   add: (slug: string, qty?: number) => void;
   setQty: (slug: string, qty: number) => void;
   remove: (slug: string) => void;
+  /** Empties the cart. Called once by the confirmation page after an order is placed. */
+  clear: () => void;
   open: () => void;
   close: () => void;
 };
@@ -115,6 +117,10 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     write(snapshot.filter((l) => l.slug !== slug));
   }, []);
 
+  const clear = useCallback(() => {
+    write([]);
+  }, []);
+
   const value = useMemo<CartState>(() => {
     // A slug the catalogue no longer holds is dropped; one it holds but marks out of stock is kept
     // and shown, because silently deleting a line somebody chose is worse than explaining it.
@@ -137,10 +143,11 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
       add,
       setQty,
       remove,
+      clear,
       open: () => setIsOpen(true),
       close: () => setIsOpen(false),
     };
-  }, [raw, isOpen, add, setQty, remove]);
+  }, [raw, isOpen, add, setQty, remove, clear]);
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;
 }

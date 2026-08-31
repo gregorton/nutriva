@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useCart } from "@/components/cart/cart-context";
 import type { Product } from "@/lib/catalog";
+import { MAX_QTY_PER_LINE } from "@/lib/cart";
 import { FREE_DELIVERY_THRESHOLD, METHODS, RETURNS_DAYS } from "@/lib/delivery";
 import { price } from "@/lib/format";
 import { Hint } from "@/components/ui/hint";
@@ -25,9 +26,6 @@ import { CheckIcon, MinusIcon, PlusIcon, ShieldIcon, TruckIcon } from "@/compone
   packed in Bangkok" and a live Add to cart beside a summary line reading "Out of stock" on the
   twelve products the catalogue marks unavailable.
 */
-
-/** Per-order cap. Matches the stepper's max so the input and the buttons cannot disagree. */
-const MAX_QTY = 12;
 
 const STANDARD = METHODS[0];
 
@@ -115,7 +113,7 @@ function InStock({
 
       <div className="mt-3">
         <p className="facts">
-          Limit <span data-num>{MAX_QTY}</span> per order{" "}
+          Limit <span data-num>{MAX_QTY_PER_LINE}</span> per order{" "}
           <Hint label="Why quantities are limited" className="ml-0.5">
             Stock is allocated per batch, which caps what a single order can take.
           </Hint>
@@ -137,8 +135,8 @@ function InStock({
             </span>
             <button
               type="button"
-              onClick={() => setQty((q) => Math.min(MAX_QTY, q + 1))}
-              disabled={qty === MAX_QTY}
+              onClick={() => setQty((q) => Math.min(MAX_QTY_PER_LINE, q + 1))}
+              disabled={qty === MAX_QTY_PER_LINE}
               className="flex h-12 w-10 items-center justify-center text-muted transition-colors hover:bg-paper hover:text-ink disabled:opacity-35 disabled:hover:bg-transparent"
               aria-label="Increase quantity"
             >

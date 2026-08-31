@@ -12,11 +12,14 @@ export function StatTile({
   value,
   note,
   href,
+  /** Overrides the compacted number — for a figure that is money rather than a count. */
+  display,
 }: {
   label: string;
   value: number;
   note?: string;
   href?: string;
+  display?: string;
 }) {
   const body = (
     <>
@@ -27,7 +30,7 @@ export function StatTile({
         {label}
       </p>
       <p className="mt-2.5 text-[30px] leading-none text-term-text" data-num>
-        {reviewCount(value)}
+        {display ?? reviewCount(value)}
       </p>
       {note && <p className="mt-2 max-w-[30ch] text-[11.5px] leading-snug text-term-dim">{note}</p>}
     </>
