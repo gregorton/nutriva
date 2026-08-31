@@ -8,9 +8,8 @@ import { ordersForUser } from "@/lib/orders";
 import { savedSlugs } from "@/lib/saved";
 import { reviewsByUser } from "@/lib/reviews";
 import { ProductCard } from "@/components/product/product-card";
-import { SectionHeader } from "@/components/ui/section-header";
 import { Stars } from "@/components/ui/stars";
-import { EmptyPanel, StatusPill } from "@/components/account/account-panels";
+import { EmptyPanel, Panel, StatusPill } from "@/components/account/account-panels";
 import { ArrowIcon, UserIcon } from "@/components/ui/icons";
 
 export const metadata: Metadata = { title: "Your account" };
@@ -18,8 +17,8 @@ export const metadata: Metadata = { title: "Your account" };
 /*
   Overview: the three figures the account holds, then the newest row of each list.
 
-  Everything here is a summary of a page in the sidebar, so nothing is editable and no block
-  repeats another block's layout: figures on a divided strip, the order as one wide row, saved
+  Everything here is a summary of a page in the sidebar, so nothing is editable and no panel
+  repeats another panel's layout: figures on a divided strip, the order as one wide row, saved
   items as the same card the shelves use, the review as itself.
 */
 export default async function AccountPage() {
@@ -43,7 +42,7 @@ export default async function AccountPage() {
   if (orders.length === 0 && savedProducts.length === 0 && reviews.length === 0) {
     return (
       <EmptyPanel
-        icon={<UserIcon className="h-6 w-6 text-plum-700" />}
+        icon={<UserIcon className="h-9 w-9" />}
         title={`Welcome, ${user.displayName}`}
         action={{ href: "/starters", label: "See starter kits" }}
       >
@@ -54,28 +53,26 @@ export default async function AccountPage() {
   }
 
   return (
-    <div className="space-y-12">
-      <div className="grid grid-cols-3 divide-x divide-line overflow-hidden rounded-tile border border-line bg-paper">
-        <Figure href="/account/orders" label="Orders" value={orders.length} />
-        <Figure href="/account/saved" label="Saved" value={savedProducts.length} />
-        <Figure href="/account/reviews" label="Reviews" value={reviews.length} />
-      </div>
+    <>
+      <Panel padded={false}>
+        <div className="grid grid-cols-3 divide-x divide-line">
+          <Figure href="/account/orders" label="Orders" value={orders.length} />
+          <Figure href="/account/saved" label="Saved" value={savedProducts.length} />
+          <Figure href="/account/reviews" label="Reviews" value={reviews.length} />
+        </div>
+      </Panel>
 
       {latestOrder && (
-        <section>
-          <SectionHeader title="Latest order" href="/account/orders" linkLabel="All orders" />
+        <Panel title="Latest order" action={{ href: "/account/orders", label: "All orders" }}>
           <Link
             href={`/account/orders/${latestOrder.orderNo}`}
-            className="group mt-4 flex flex-wrap items-center gap-x-5 gap-y-4 rounded-tile border border-line bg-white p-4 transition-colors hover:border-line-strong sm:p-5"
+            className="group flex flex-wrap items-center gap-x-5 gap-y-4"
           >
             <ul className="flex shrink-0 gap-1.5">
               {latestOrder.slugs.map((slug) => {
                 const product = getProduct(slug);
                 return (
-                  <li
-                    key={slug}
-                    className="relative h-14 w-14 overflow-hidden rounded-[7px] bg-paper"
-                  >
+                  <li key={slug} className="relative h-14 w-14 bg-paper">
                     {product && (
                       <Image
                         src={product.image}
@@ -113,38 +110,35 @@ export default async function AccountPage() {
               </span>
             </div>
           </Link>
-        </section>
+        </Panel>
       )}
 
       {savedProducts.length > 0 && (
-        <section>
-          <SectionHeader
-            kicker={savedProducts.length > 4 ? `4 of ${savedProducts.length}` : undefined}
-            title="Saved items"
-            href="/account/saved"
-            linkLabel="All saved"
-          />
+        <Panel
+          title="Saved items"
+          meta={savedProducts.length > 4 ? `4 of ${savedProducts.length}` : undefined}
+          action={{ href: "/account/saved", label: "All saved" }}
+        >
           {/* Columns come off the count, so three saved items make three cells rather than three
-              cells and a hole. */}
+              cells and a hole, and a cell is capped so two of them do not become two posters. */}
           <div
-            className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-[repeat(var(--cells),minmax(0,1fr))]"
+            className="grid grid-cols-2 gap-3 sm:grid-cols-[repeat(var(--cells),minmax(0,224px))]"
             style={{ "--cells": Math.min(savedProducts.length, 4) } as React.CSSProperties}
           >
             {savedProducts.slice(0, 4).map((product) => (
               <ProductCard key={product.slug} product={product} />
             ))}
           </div>
-        </section>
+        </Panel>
       )}
 
       {latestReview && reviewed && (
-        <section>
-          <SectionHeader title="Your latest review" href="/account/reviews" linkLabel="All reviews" />
-          <div className="mt-4 flex gap-4 rounded-tile border border-line bg-white p-4 sm:p-5">
-            <Link
-              href={`/p/${reviewed.slug}`}
-              className="relative h-16 w-16 shrink-0 overflow-hidden rounded-[7px] bg-paper"
-            >
+        <Panel
+          title="Your latest review"
+          action={{ href: "/account/reviews", label: "All reviews" }}
+        >
+          <div className="flex gap-4">
+            <Link href={`/p/${reviewed.slug}`} className="relative h-16 w-16 shrink-0 bg-paper">
               <Image
                 src={reviewed.image}
                 alt={`${reviewed.brand} ${reviewed.title}`}
@@ -174,9 +168,9 @@ export default async function AccountPage() {
               </p>
             </div>
           </div>
-        </section>
+        </Panel>
       )}
-    </div>
+    </>
   );
 }
 
@@ -185,7 +179,7 @@ function Figure({ href, label, value }: { href: string; label: string; value: nu
   return (
     <Link
       href={href}
-      className="px-3 py-5 text-center transition-colors hover:bg-white sm:px-5 sm:text-left"
+      className="px-3 py-5 text-center transition-colors hover:bg-paper sm:px-5 sm:text-left"
     >
       <p className="font-display text-[30px] leading-none text-ink sm:text-[34px]" data-num>
         {value}

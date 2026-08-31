@@ -191,6 +191,21 @@
   );
 }
 
+/*
+  The account area runs one square-cornered language, so this flattens everything inside it —
+  including components it shares with the storefront, which stays rounded: the product card on
+  /account/saved and the three boxes in `checkout/order-detail.tsx`, which the confirmation page
+  wants with its own radius.
+
+  Deliberately unlayered. Cascade layers put unlayered rules above every layered one, which is how
+  two selectors of otherwise equal weight beat the `rounded-*` utilities on those components
+  without `!important` and without threading a prop through each of them.
+*/
+.squared,
+.squared * {
+  border-radius: 0;
+}
+
 @layer base {
   html {
     -webkit-text-size-adjust: 100%;

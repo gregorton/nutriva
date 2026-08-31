@@ -3,7 +3,7 @@ import { getProduct } from "@/lib/catalog";
 import { requireUser } from "@/lib/dal";
 import { savedSlugs } from "@/lib/saved";
 import { ProductGrid } from "@/components/product/product-grid";
-import { AccountHeading, EmptyPanel } from "@/components/account/account-panels";
+import { EmptyPanel, Panel } from "@/components/account/account-panels";
 import { HeartIcon } from "@/components/ui/icons";
 
 export const metadata: Metadata = { title: "Saved items" };
@@ -20,7 +20,7 @@ export default async function SavedPage() {
   if (products.length === 0) {
     return (
       <EmptyPanel
-        icon={<HeartIcon className="h-6 w-6 text-plum-700" />}
+        icon={<HeartIcon className="h-9 w-9" />}
         title="Nothing saved yet"
         action={{ href: "/c/vitamins", label: "Browse vitamins" }}
       >
@@ -31,12 +31,11 @@ export default async function SavedPage() {
   }
 
   return (
-    <>
-      <AccountHeading
-        title="Saved items"
-        count={`${products.length} saved${retired > 0 ? ` · ${retired} no longer stocked` : ""}`}
-      />
+    <Panel
+      title="Saved items"
+      meta={`${products.length} saved${retired > 0 ? ` · ${retired} no longer stocked` : ""}`}
+    >
       <ProductGrid products={products} />
-    </>
+    </Panel>
   );
 }

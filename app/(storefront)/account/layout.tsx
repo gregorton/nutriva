@@ -8,7 +8,7 @@ export const metadata: Metadata = { robots: { index: false } };
 /*
   Everything under /account. `requireUser()` here is not the security boundary — a layout does
   not control whether its children render, and the Next auth guide is explicit about that — so
-  every page below calls it too. This is here for the identity card and the sections.
+  every page below calls it too. This is here for the greeting and the sections.
 
   Deliberately no `dynamic = "force-dynamic"`. These routes are already dynamic by construction:
   the DAL reads `cookies()`, which cannot be prerendered. Forcing it as well stops `refresh()`
@@ -17,45 +17,36 @@ export const metadata: Metadata = { robots: { index: false } };
   configured, accounts are switched off and these become prerendered redirects to /signin, which
   is the right answer for a site that has no accounts.
 
-  The shape is a sidebar rather than the tab strip it used to be: four sections that each hold a
-  list want a fixed rail beside the list, not a row of links that scrolls away with it. The rail
-  sticks below the pinned chrome, so `--spacing-chrome` is the offset here for the same reason
-  the buy box uses it.
+  The account area is the one part of the storefront that runs on a grey ground rather than white:
+  the sections each hold a list, and a list reads as a thing you can act on when it sits in a white
+  panel on a field. The grey is a plain neutral and deliberately not `paper` or `paper-warm` — the
+  warm tint is the storefront's shelf ground, and a page of white panels on it looks unwashed. The
+  sidebar sticks below the pinned chrome, so `--spacing-chrome` is the offset here for the same
+  reason the buy box uses it.
 */
 export default async function AccountLayout({ children }: LayoutProps<"/account">) {
   const user = await requireUser("/account");
-  // Array.from, not charAt: a name whose first character is outside the BMP would come back as
-  // half a surrogate pair.
-  const initial = Array.from(user.displayName.trim())[0]?.toUpperCase() ?? "?";
 
   return (
-    <div className="shell py-6 pb-14">
-      <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Your account" }]} />
-      <h1 className="mt-3 text-[28px] leading-none tracking-tight sm:text-[34px]">Your account</h1>
+    <div className="squared bg-[#eef0f2]">
+      <div className="shell py-6 pb-14">
+        <Breadcrumbs trail={[{ label: "Home", href: "/" }, { label: "Your account" }]} />
+        <h1 className="mt-2.5 text-[26px] font-semibold leading-none tracking-tight sm:text-[30px]">
+          Your account
+        </h1>
 
-      <div className="mt-6 grid grid-cols-1 gap-6 lg:grid-cols-[248px_minmax(0,1fr)] lg:gap-10">
-        <aside>
-          <div className="space-y-4 lg:sticky lg:top-[calc(var(--spacing-chrome)+1.5rem)]">
-            <div className="banner-plum flex items-center gap-3.5 rounded-tile p-4 text-white">
-              <span
-                aria-hidden
-                className="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-white/15 text-[19px] font-semibold ring-1 ring-white/25"
-              >
-                {initial}
-              </span>
-              <div className="min-w-0">
-                <p className="kicker text-plum-200">Signed in</p>
-                <p className="mt-0.5 truncate text-[17px] font-semibold leading-tight">
-                  {user.displayName}
-                </p>
-              </div>
+        <div className="mt-6 grid grid-cols-1 gap-5 lg:grid-cols-[204px_minmax(0,1fr)] lg:gap-8">
+          <aside>
+            <div className="lg:sticky lg:top-[calc(var(--spacing-chrome)+1.5rem)]">
+              <p className="facts mb-3 hidden lg:block">
+                Hello, <span className="font-semibold text-ink">{user.displayName}</span>
+              </p>
+              <AccountNav />
             </div>
+          </aside>
 
-            <AccountNav />
-          </div>
-        </aside>
-
-        <div className="min-w-0">{children}</div>
+          <div className="min-w-0 space-y-5">{children}</div>
+        </div>
       </div>
     </div>
   );

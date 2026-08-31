@@ -5,7 +5,7 @@ import { getProduct } from "@/lib/catalog";
 import { requireUser } from "@/lib/dal";
 import { price, reviewDate } from "@/lib/format";
 import { ordersForUser } from "@/lib/orders";
-import { AccountHeading, EmptyPanel, StatusPill } from "@/components/account/account-panels";
+import { EmptyPanel, Panel, StatusPill } from "@/components/account/account-panels";
 import { ArrowIcon, TruckIcon } from "@/components/ui/icons";
 
 export const metadata: Metadata = { title: "Your orders" };
@@ -17,7 +17,7 @@ export default async function OrdersPage() {
   if (orders.length === 0) {
     return (
       <EmptyPanel
-        icon={<TruckIcon className="h-6 w-6 text-plum-700" />}
+        icon={<TruckIcon className="h-9 w-9" />}
         title="No orders yet"
         action={{ href: "/c/vitamins", label: "Browse vitamins" }}
       >
@@ -28,27 +28,23 @@ export default async function OrdersPage() {
   }
 
   return (
-    <>
-      <AccountHeading
-        title="Orders"
-        count={`${orders.length} ${orders.length === 1 ? "order" : "orders"}`}
-      />
-
-      <ul className="space-y-3">
+    <Panel
+      title="Orders"
+      meta={`${orders.length} ${orders.length === 1 ? "order" : "orders"}`}
+      padded={false}
+    >
+      <ul className="divide-y divide-line">
         {orders.map((order) => (
           <li key={order.orderNo}>
             <Link
               href={`/account/orders/${order.orderNo}`}
-              className="group flex flex-wrap items-center gap-x-5 gap-y-4 rounded-tile border border-line bg-white p-4 transition-colors hover:border-line-strong sm:p-5"
+              className="group flex flex-wrap items-center gap-x-5 gap-y-4 p-4 transition-colors hover:bg-paper sm:p-5"
             >
               <ul className="flex shrink-0 gap-1.5">
                 {order.slugs.map((slug) => {
                   const product = getProduct(slug);
                   return (
-                    <li
-                      key={slug}
-                      className="relative h-14 w-14 overflow-hidden rounded-[7px] bg-paper"
-                    >
+                    <li key={slug} className="relative h-14 w-14 bg-paper">
                       {product && (
                         <Image
                           src={product.image}
@@ -89,6 +85,6 @@ export default async function OrdersPage() {
           </li>
         ))}
       </ul>
-    </>
+    </Panel>
   );
 }

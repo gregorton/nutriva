@@ -22,8 +22,8 @@ export default async function AccountOrderPage({ params }: PageProps<"/account/o
   if (!order) notFound();
 
   return (
-    <>
-      <div className="mb-6 border-b border-line pb-4">
+    <div className="bg-white">
+      <div className="border-b border-line px-4 py-4 sm:px-5">
         <Link
           href="/account/orders"
           className="facts inline-flex items-center gap-1.5 text-plum-700 hover:text-plum-600 hover:underline"
@@ -39,7 +39,9 @@ export default async function AccountOrderPage({ params }: PageProps<"/account/o
         </div>
       </div>
 
-      <OrderDetail order={order} payment={paymentMethod(order.paymentMethod)} />
-    </>
+      <div className="p-4 sm:p-5">
+        <OrderDetail order={order} payment={paymentMethod(order.paymentMethod)} />
+      </div>
+    </div>
   );
 }

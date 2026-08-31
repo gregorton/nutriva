@@ -262,6 +262,12 @@ PostgreSQL on Neon holds what the catalogue cannot — accounts, sessions, revie
 `.env.local` is the project's only secret; unset, `isConfigured()` in `lib/db.ts` switches the feature off rather
 than erroring, so a build works with no database.
 
+- **`/account` is the one storefront area on a grey ground, and the one with square corners.** Its layout carries
+  `.squared` (an unlayered rule in `globals.css`, so it beats the `rounded-*` utilities), which flattens shared
+  components inside it too — the product card on `/account/saved`, the boxes in `checkout/order-detail.tsx` — while
+  they stay rounded everywhere else. The grey is a plain neutral, deliberately not `paper`: white panels on the
+  warm tint look unwashed. Sections are plain text in the sidebar; `components/account/account-panels.tsx` holds
+  the panel, the empty state and the status label.
 - `lib/db.ts` — one `pg` pool on `globalThis`, or `next dev` leaks a socket set per hot reload. TLS verified
   (localhost excepted). **Every statement is parameterised**; a placeholder used twice needs an explicit `::type`
   (see the lockout update in `lib/accounts.ts`).

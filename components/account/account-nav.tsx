@@ -2,24 +2,24 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { HeartIcon, StarIcon, TruckIcon, UserIcon } from "@/components/ui/icons";
 
 /*
   The account sidebar. The one place in this area that ships JavaScript, and it earns it: the
-  sections used to be an unmarked tab strip, so nothing on the page said which of the four you
-  were looking at. `usePathname` is the only way a layout can know that — a layout does not
-  receive the URL — and /account is already dynamic by construction (the DAL reads `cookies()`),
-  so a client island here costs no prerendered route.
+  sections used to be an unmarked strip, so nothing on the page said which of the four you were
+  looking at. `usePathname` is the only way a layout can know that — a layout does not receive the
+  URL — and /account is already dynamic by construction (the DAL reads `cookies()`), so a client
+  island here costs no prerendered route.
 
-  Vertical from `lg` up, a horizontal row below it. The glyphs are `lg`-only: four labelled links
-  with an icon each overflow a 375px frame, and a nav that has to be scrolled to reach its last
-  section is worse than one without pictures.
+  Plain text, no boxes and no glyphs: it sits on the grey field beside white panels, and a pill or
+  an icon per row would compete with them. Colour alone marks the section from `lg` up; below that
+  the four sit in a row and the current one carries an underline as well, because a row of links
+  needs more than a shade to say which is which.
 */
-const SECTIONS: { href: string; label: string; icon: React.ComponentType<{ className?: string }> }[] = [
-  { href: "/account", label: "Overview", icon: UserIcon },
-  { href: "/account/orders", label: "Orders", icon: TruckIcon },
-  { href: "/account/saved", label: "Saved", icon: HeartIcon },
-  { href: "/account/reviews", label: "Reviews", icon: StarIcon },
+const SECTIONS = [
+  { href: "/account", label: "Overview" },
+  { href: "/account/orders", label: "Orders" },
+  { href: "/account/saved", label: "Saved" },
+  { href: "/account/reviews", label: "Reviews" },
 ];
 
 export function AccountNav() {
@@ -28,9 +28,9 @@ export function AccountNav() {
   return (
     <nav
       aria-label="Account sections"
-      className="rail -mx-1 flex gap-1 overflow-x-auto px-1 lg:mx-0 lg:flex-col lg:gap-0.5 lg:overflow-visible lg:px-0"
+      className="flex gap-5 border-b border-line-strong text-[14px] lg:flex-col lg:gap-0 lg:border-0"
     >
-      {SECTIONS.map(({ href, label, icon: Icon }) => {
+      {SECTIONS.map(({ href, label }) => {
         // Overview matches its own URL only; the others own everything beneath them, so an
         // order detail page keeps Orders marked.
         const current = href === "/account" ? pathname === href : pathname.startsWith(href);
@@ -40,15 +40,12 @@ export function AccountNav() {
             key={href}
             href={href}
             aria-current={current ? "page" : undefined}
-            className={`flex shrink-0 items-center gap-2.5 rounded-card px-3 py-2.5 text-sm font-medium transition-colors ${
+            className={`-mb-px shrink-0 border-b-2 pb-2.5 transition-colors lg:border-b-0 lg:py-1.5 ${
               current
-                ? "bg-plum-100 text-plum-800"
-                : "text-muted hover:bg-paper hover:text-ink"
+                ? "border-plum-700 font-semibold text-plum-700"
+                : "border-transparent text-muted hover:text-ink"
             }`}
           >
-            <Icon
-              className={`hidden h-[17px] w-[17px] shrink-0 lg:block ${current ? "text-plum-700" : "text-faint"}`}
-            />
             {label}
           </Link>
         );
