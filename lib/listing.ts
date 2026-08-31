@@ -1,4 +1,4 @@
-import type { CategorySlug, Product } from "@/lib/catalog";
+import { firstAvailableKey, type CategorySlug, type Product } from "@/lib/catalog";
 import { values, type RawSearchParams } from "@/lib/query";
 import { inSubcategory } from "@/lib/subcategories";
 
@@ -33,14 +33,6 @@ export const SORTS = [
 export const RELEVANCE = { id: "relevance", label: "Best match" } as const;
 
 export type SortId = (typeof SORTS)[number]["id"] | typeof RELEVANCE.id;
-
-/** "03/2024" -> 202403, so `firstAvailable` sorts without parsing a date. */
-function firstAvailableKey(product: Product): number {
-  const value = product.firstAvailable;
-  if (!value) return 0;
-  const [month, year] = value.split("/");
-  return Number(year) * 100 + Number(month);
-}
 
 export function applyFilters(
   pool: Product[],

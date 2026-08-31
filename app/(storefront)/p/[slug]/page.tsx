@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { CATEGORY_BY_SLUG, bestSellers, getProduct, products, related } from "@/lib/catalog";
+import { CATEGORY_BY_SLUG, bestSellers, brandSlug, getProduct, products, related } from "@/lib/catalog";
 import { count, reviewCount } from "@/lib/format";
 import { productReviews } from "@/lib/reviews";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
@@ -22,6 +22,7 @@ import { ProductRail } from "@/components/product/product-grid";
 import { SectionHeader } from "@/components/ui/section-header";
 import { TrendIcon } from "@/components/ui/icons";
 import { ViewBeacon } from "@/components/analytics/view-beacon";
+import { RecentlyViewed, RecordViewed } from "@/components/product/recently-viewed";
 
 export function generateStaticParams() {
   return products.map((product) => ({ slug: product.slug }));
@@ -62,11 +63,12 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
   return (
     <div className="shell py-6">
       <ViewBeacon kind="product" value={product.slug} />
+      <RecordViewed slug={product.slug} />
       <Breadcrumbs
         trail={[
           { label: "Home", href: "/" },
           { label: category?.name ?? product.category, href: `/c/${product.category}` },
-          { label: product.brand, href: `/c/${product.category}?brand=${encodeURIComponent(product.brand)}` },
+          { label: product.brand, href: `/b/${brandSlug(product.brand)}` },
           { label: product.title },
         ]}
       />
@@ -89,7 +91,7 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
             <p className="facts mt-1.5">
               By{" "}
               <Link
-                href={`/c/${product.category}?brand=${encodeURIComponent(product.brand)}`}
+                href={`/b/${brandSlug(product.brand)}`}
                 className="font-medium text-plum-700 hover:underline"
               >
                 {product.brand}
@@ -156,6 +158,8 @@ export default async function ProductPage({ params }: PageProps<"/p/[slug]">) {
       )}
 
       <ProductInformation product={product} />
+
+      <RecentlyViewed exclude={product.slug} />
 
       <section id="reviews" className="mt-14 rounded-tile border border-line bg-paper p-6">
         <SectionHeader

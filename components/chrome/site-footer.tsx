@@ -4,6 +4,7 @@ import { RETURNS_DAYS, STORAGE_MAX_C } from "@/lib/delivery";
 import { CONTACT } from "@/lib/contact";
 import { Logo } from "@/components/chrome/logo";
 import { EmailSignup } from "@/components/ui/email-signup";
+import { PaymentMarks } from "@/components/ui/payment-marks";
 import { CheckIcon } from "@/components/ui/icons";
 
 const COLUMNS = [
@@ -155,7 +156,10 @@ export function SiteFooter() {
               </li>
             ))}
           </ul>
-          <p className="facts">TH · EN · ฿ THB</p>
+          <div className="flex flex-wrap items-center gap-x-5 gap-y-1.5">
+            <PaymentMarks />
+            <p className="facts">TH · EN · ฿ THB</p>
+          </div>
         </div>
       </div>
     </footer>

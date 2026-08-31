@@ -282,7 +282,8 @@ export function dealCount(): number {
 }
 
 /** MM/YYYY -> sortable YYYYMM. Products with no stated date sort last. */
-function firstAvailableKey(product: Product): number {
+/** "03/2024" -> 202403, so `firstAvailable` sorts without parsing a date. */
+export function firstAvailableKey(product: Product): number {
   const match = product.firstAvailable?.match(/(\d{1,2})\/(\d{4})/);
   return match ? Number(match[2]) * 100 + Number(match[1]) : 0;
 }
@@ -445,4 +446,63 @@ export function formsIn(items: Product[]): { name: string; count: number }[] {
   return [...counts.entries()]
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count);
+}
+
+/*
+  Brands as their own dimension.
+
+  A brand link used to be a filtered category page, which showed one category's slice of a brand:
+  46 of the 134 brands here span more than one shelf, and California Gold Nutrition spans ten, so
+  that link hid most of what the brand actually sells. `/b/[brand]` is the whole of it.
+
+  The slug is derived here rather than in the route, because this module is the single boundary over
+  the catalogue and a name-to-URL mapping is catalogue knowledge. Collisions are resolved by first
+  come, and asserted against by `brandSlugs()` returning one entry per slug.
+*/
+export function brandSlug(brand: string): string {
+  return brand
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+export type Brand = {
+  name: string;
+  slug: string;
+  count: number;
+  /** The shelves this brand appears on, most stocked first. */
+  categories: CategorySlug[];
+};
+
+const brandBySlugMap = new Map<string, Brand>();
+
+for (const product of products) {
+  const slug = brandSlug(product.brand);
+  const existing = brandBySlugMap.get(slug);
+  if (existing) {
+    existing.count += 1;
+    if (!existing.categories.includes(product.category)) existing.categories.push(product.category);
+  } else {
+    brandBySlugMap.set(slug, {
+      name: product.brand,
+      slug,
+      count: 1,
+      categories: [product.category],
+    });
+  }
+}
+
+/** Every brand, most stocked first. Drives generateStaticParams for /b/[brand]. */
+export const BRANDS: Brand[] = [...brandBySlugMap.values()].sort(
+  (a, b) => b.count - a.count || a.name.localeCompare(b.name),
+);
+
+export function brandBySlug(slug: string): Brand | undefined {
+  return brandBySlugMap.get(slug);
+}
+
+/** Everything a brand sells, across every shelf. */
+export function byBrand(brand: string): Product[] {
+  return products.filter((p) => p.brand === brand);
 }

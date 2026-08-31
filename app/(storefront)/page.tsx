@@ -7,6 +7,7 @@ import { EditorialStrip } from "@/components/home/editorial-strip";
 import { ProductRail } from "@/components/product/product-grid";
 import { SectionHeader } from "@/components/ui/section-header";
 import { ViewBeacon } from "@/components/analytics/view-beacon";
+import { RecentlyViewed } from "@/components/product/recently-viewed";
 
 export default function HomePage() {
   return (
@@ -30,7 +31,7 @@ export default function HomePage() {
       <TrustBand />
 
       <section className="shell mt-14">
-        <SectionHeader kicker="Newly stocked" title="Just landed" href="/c/sports" />
+        <SectionHeader kicker="Newly stocked" title="Just landed" href="/new" />
         <div className="mt-5">
           <ProductRail products={newArrivals(12)} />
         </div>
@@ -42,6 +43,10 @@ export default function HomePage() {
           <ProductRail products={topRated(12)} />
         </div>
       </section>
+
+      <div className="shell">
+        <RecentlyViewed />
+      </div>
 
       <EditorialStrip />
     </>

@@ -42,7 +42,7 @@ export function FilterRail({
     <div className="space-y-7">
       <Group heading="Price">
         <p className="facts mb-2" data-num>
-          {price(cheapest)} – {price(dearest)} in this category
+          {price(cheapest)} – {price(dearest)} across these products
         </p>
         <ul className="space-y-1.5">
           {PRICE_BUCKETS.map((bucket) => {

@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { CATEGORIES, search } from "@/lib/catalog";
 import { didYouMean } from "@/lib/search-suggest";
-import { ProductGrid } from "@/components/product/product-grid";
+import { ProductListing } from "@/components/plp/product-listing";
+import { RELEVANCE, SORTS } from "@/lib/listing";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { values, type RawSearchParams } from "@/lib/query";
 import { ViewBeacon } from "@/components/analytics/view-beacon";
@@ -28,20 +29,20 @@ export default async function SearchPage({ searchParams }: PageProps<"/search">)
         <h1 className="text-[26px] sm:text-[32px]">
           {query ? <>Results for “{query}”</> : "Search"}
         </h1>
-        {query && (
-          <p className="mt-1.5 text-sm text-muted">
-            <span className="font-semibold text-ink" data-num>
-              {results.length}
-            </span>{" "}
-            {results.length === 1 ? "product" : "products"}
-          </p>
-        )}
       </header>
 
       {results.length > 0 ? (
-        <div className="mt-6">
-          <ProductGrid products={results} />
-        </div>
+        /* Relevance heads the sort list and is the default: `search()` has already ranked these by
+           score, and re-sorting would throw the ranking away. See lib/listing.ts. */
+        <ProductListing
+          base="/search"
+          raw={raw}
+          pool={results}
+          defaultSort={RELEVANCE.id}
+          sortOptions={[RELEVANCE, ...SORTS]}
+          presorted
+          preserve={{ q: query }}
+        />
       ) : (
         <div className="mt-6 rounded-card border border-line bg-paper px-6 py-14 text-center">
           <p className="font-display text-lg">

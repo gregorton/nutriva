@@ -356,3 +356,37 @@ export function FacebookGlyph({ className = base }: IconProps) {
     </svg>
   );
 }
+
+/* Payment marks. Drawn rather than fetched as brand logos: the shop takes transfers, PromptPay and
+   cash, none of which has a logo we have the right to place, and no card scheme is accepted. */
+
+export function BankIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <path d="M2.5 7.5 10 3.5l7.5 4" strokeLinejoin="round" strokeLinecap="round" />
+      <path d="M4 7.5v7M8 7.5v7M12 7.5v7M16 7.5v7" strokeLinecap="round" />
+      <path d="M2.5 16.5h15" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+export function QrIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <rect x="3" y="3" width="5" height="5" rx="1" />
+      <rect x="12" y="3" width="5" height="5" rx="1" />
+      <rect x="3" y="12" width="5" height="5" rx="1" />
+      <path d="M12 12h2v2h-2zM15.5 15.5H17V17h-1.5z" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function CashIcon({ className = base }: IconProps) {
+  return (
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5" className={className} aria-hidden>
+      <rect x="2.5" y="5.5" width="15" height="9" rx="1.5" />
+      <circle cx="10" cy="10" r="2.2" />
+      <path d="M5.5 10h.5M14 10h.5" strokeLinecap="round" />
+    </svg>
+  );
+}

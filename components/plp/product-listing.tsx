@@ -25,6 +25,8 @@ export function ProductListing({
   showBrands = true,
   /** /search ranks by score, which `applySort` must leave alone. */
   presorted = false,
+  /** Params "Clear all" must keep — the query itself, on /search. */
+  preserve = {},
 }: {
   base: string;
   raw: RawSearchParams;
@@ -34,6 +36,7 @@ export function ProductListing({
   sortOptions?: readonly { id: string; label: string }[];
   showBrands?: boolean;
   presorted?: boolean;
+  preserve?: RawSearchParams;
 }) {
   const filtered = applyFilters(pool, raw, slug);
   const sort = values(raw, "sort")[0] ?? defaultSort;
@@ -79,7 +82,7 @@ export function ProductListing({
             ))}
             <li>
               <Link
-                href={setHref(base, {}, "sort", sort)}
+                href={setHref(base, preserve, "sort", sort)}
                 scroll={false}
                 className="facts px-1 text-plum-700 underline underline-offset-4 hover:text-plum-600"
               >
@@ -107,7 +110,7 @@ export function ProductListing({
                 Remove a filter, or start again from the full list.
               </p>
               <Link
-                href={setHref(base, {}, "sort", sort)}
+                href={setHref(base, preserve, "sort", sort)}
                 className="mt-5 inline-flex h-10 items-center rounded-[7px] bg-plum-800 px-5 text-sm font-semibold text-white hover:bg-plum-700"
               >
                 Show all {pool.length} products

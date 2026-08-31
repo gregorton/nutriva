@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import type { ReactNode } from "react";
 import { useCart } from "@/components/cart/cart-context";
 import { CartLine } from "@/components/cart/cart-line";
 import { FreeDeliveryMeter } from "@/components/cart/free-delivery-meter";
@@ -22,7 +23,7 @@ import { price } from "@/lib/format";
   The summary block is deliberately the buy box's card again — same border, same price scale, same
   order of facts — so the block you press here is the block you pressed on the product page.
 */
-export function CartPage() {
+export function CartPage({ marks }: { marks?: ReactNode }) {
   const { lines, unavailable, itemCount, subtotal } = useCart();
 
   if (lines.length === 0 && unavailable.length === 0) {
@@ -119,6 +120,9 @@ export function CartPage() {
             <p className="facts mt-2.5 text-center">
               Prices include VAT · delivery chosen at checkout
             </p>
+
+            {/* Rendered on the server and handed down: lib/payment.ts reads the env. */}
+            {marks && <div className="mt-3.5 border-t border-line pt-3">{marks}</div>}
 
             <ul className="mt-4 space-y-1.5 border-t border-line pt-3.5">
               <li className="facts">
