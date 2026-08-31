@@ -99,7 +99,7 @@ module, and PostgreSQL for what visitors write.
   ("ยังไม่เสร็จ / พรีเวิว") beside the lockup. **Delete before launch.**
 - Everything is a server component except the cart and cart page, checkout form, category-nav panel, sort select,
   countdown, rail scroller, sticky chrome, PDP zoom, hero carousel, delivery estimate, recently-viewed and compare
-  islands, and the account/review/save islands.
+  islands, the account sidebar (it marks the current section), and the account/review/save islands.
 
 ## Search
 

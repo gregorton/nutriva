@@ -5,6 +5,8 @@ import { requireUser } from "@/lib/dal";
 import { orderForUser } from "@/lib/orders";
 import { paymentMethod } from "@/lib/payment";
 import { OrderDetail } from "@/components/checkout/order-detail";
+import { StatusPill } from "@/components/account/account-panels";
+import { ArrowIcon } from "@/components/ui/icons";
 
 export const metadata: Metadata = { title: "Order" };
 
@@ -21,19 +23,20 @@ export default async function AccountOrderPage({ params }: PageProps<"/account/o
 
   return (
     <>
-      <div className="mb-6 flex flex-wrap items-baseline justify-between gap-3 border-b border-line pb-4">
-        <div>
-          <p className="kicker text-muted">Order</p>
-          <h2 className="mt-1 text-[22px] font-semibold text-ink" data-num>
-            {order.orderNo}
-          </h2>
-        </div>
+      <div className="mb-6 border-b border-line pb-4">
         <Link
           href="/account/orders"
-          className="facts text-plum-700 underline underline-offset-4 hover:text-plum-600"
+          className="facts inline-flex items-center gap-1.5 text-plum-700 hover:text-plum-600 hover:underline"
         >
+          <ArrowIcon className="h-3.5 w-3.5 rotate-180" />
           All orders
         </Link>
+        <div className="mt-2.5 flex flex-wrap items-center justify-between gap-x-6 gap-y-2">
+          <h2 className="text-[22px] font-semibold text-ink sm:text-[26px]" data-num>
+            {order.orderNo}
+          </h2>
+          <StatusPill status={order.status} />
+        </div>
       </div>
 
       <OrderDetail order={order} payment={paymentMethod(order.paymentMethod)} />

@@ -1,9 +1,10 @@
-import Link from "next/link";
 import type { Metadata } from "next";
 import { getProduct } from "@/lib/catalog";
 import { requireUser } from "@/lib/dal";
 import { savedSlugs } from "@/lib/saved";
 import { ProductGrid } from "@/components/product/product-grid";
+import { AccountHeading, EmptyPanel } from "@/components/account/account-panels";
+import { HeartIcon } from "@/components/ui/icons";
 
 export const metadata: Metadata = { title: "Saved items" };
 
@@ -18,28 +19,23 @@ export default async function SavedPage() {
 
   if (products.length === 0) {
     return (
-      <div className="rounded-tile border border-line bg-paper px-6 py-14 text-center">
-        <p className="text-[17px] font-medium text-ink">Nothing saved yet</p>
-        <p className="mx-auto mt-2 max-w-[42ch] text-sm text-muted">
-          The heart on a product card or product page keeps it here. Saved items are private to
-          your account.
-        </p>
-        <Link
-          href="/c/vitamins"
-          className="mt-6 inline-flex rounded-card bg-plum-800 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-plum-700"
-        >
-          Browse vitamins
-        </Link>
-      </div>
+      <EmptyPanel
+        icon={<HeartIcon className="h-6 w-6 text-plum-700" />}
+        title="Nothing saved yet"
+        action={{ href: "/c/vitamins", label: "Browse vitamins" }}
+      >
+        The heart on a product card or product page keeps it here. Saved items are private to your
+        account.
+      </EmptyPanel>
     );
   }
 
   return (
     <>
-      <p className="facts mb-5" data-num>
-        {products.length} saved
-        {retired > 0 && ` · ${retired} no longer stocked`}
-      </p>
+      <AccountHeading
+        title="Saved items"
+        count={`${products.length} saved${retired > 0 ? ` · ${retired} no longer stocked` : ""}`}
+      />
       <ProductGrid products={products} />
     </>
   );
