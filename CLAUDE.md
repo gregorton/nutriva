@@ -36,16 +36,16 @@ server up, all take `BASE_URL`. Run the one covering the surface you touched:
 
 ```bash
 node reference/interact.mjs        # cards: one link, hover-reveal add
-node reference/pdp-check.mjs       # PDP layout, stepper, cart round-trip, colour rules
-node reference/chrome-check.mjs    # pinned chrome, clearances, stars without a numeral
-node reference/hero-check.mjs      # tabs, wrapping, dots, inert slides, locked tab
+node reference/pdp-check.mjs       # PDP layout, stepper, cart round trip
+node reference/chrome-check.mjs    # pinned chrome, clearances, stars
+node reference/hero-check.mjs      # tabs, dots, inert slides, locked tab
 node reference/starters-check.mjs  # kit surfaces swept for claim copy
-node reference/guides-check.mjs    # a credit exists for every cover
-node reference/search-check.mjs    # panel, keyboard, phone sheet, no-JS fallback
-node reference/stock-check.mjs     # out-of-stock: buy box, card, filter and cart agree
-node reference/auth-check.mjs      # auth round trip.  WRITES — use a scratch project
-node reference/cart-check.mjs      # cart -> checkout -> order row.  WRITES — scratch project
-node reference/admin-check.mjs     # /admin gate, counters, beacon.  Writes, then restores
+node reference/guides-check.mjs    # a credit for every cover
+node reference/search-check.mjs    # panel, keyboard, sheet, no-JS fallback
+node reference/stock-check.mjs     # out-of-stock agrees everywhere
+node reference/auth-check.mjs      # auth round trip.  WRITES — scratch project
+node reference/cart-check.mjs      # cart -> order row.  WRITES — scratch project
+node reference/admin-check.mjs     # /admin gate, counters, beacon.  Writes, restores
 ```
 
 ## Architecture
@@ -74,8 +74,8 @@ module, and PostgreSQL for what visitors write.
   searchParams), `/p/[slug]` (SSG, 470 paths), `/starters`, `/deals`, `/equipment`, `/brands`,
   `/guides` + `/guides/[slug]` (SSG), `/cart`, `/checkout`,
   `/checkout/confirmation/[orderNo]`, `/help/{delivery,returns,contact}`, `/quality`, `/sourcing`,
-  `/careers`, `/legal/{privacy,terms,cookies}`, `/signin`, `/signup`, `/account` + `/account/orders`
-  (+ `/[orderNo]`) + `/account/saved` + `/account/reviews` (dynamic — cookie), `/admin` +
+  `/careers`, `/legal/{privacy,terms,cookies}`, `/signin`, `/signup`, `/account` + `/account/`
+  `{orders (+ /[orderNo]),saved,reviews,profile,addresses,payment}` (dynamic — cookie), `/admin` +
   `/admin/accounts` + `/admin/orders` + `/admin/reviews` + `/admin/products` + `/admin/search`
   (dynamic — cookie), `/api/session`, `/api/search/suggest`, `/api/track`, `not-found`.
 - **A page that reads `searchParams` cannot prerender.** That is why the listing pages are dynamic
@@ -111,10 +111,9 @@ Ranking in `lib/catalog.ts`, suggestion vocabulary in `lib/search-suggest.ts`, o
   title 10, brand 7, category 5, label fields 2, then +8 whole phrase in title, +6 title opens with it, +1 in stock,
   tie-break `sold30d` then `reviews`. **A term under three characters may only match title, brand or category.**
   Plain synchronous scan of 470 rows.
-- **Only suggest what the stock holds.** `lib/search-suggest.ts` (`server-only`) builds its vocabulary from what the
-  repo already declares (`CATEGORIES[].chips`, `groupLabels()`, `brandsIn`, `formsIn`), counts each entry against the
-  page it links to and **drops it at zero**, so it cannot drift. `didYouMean` is a Levenshtein pass over that
-  vocabulary, used **only when a query scored nothing**; the results page renders the same guess from the same module.
+- **Only suggest what the stock holds.** `lib/search-suggest.ts` builds its vocabulary from what the repo already
+  declares, counts each entry against the page it links to and **drops it at zero**, so it cannot drift.
+  `didYouMean` is a Levenshtein pass over that vocabulary, used **only when a query scored nothing**.
 - **`GET /api/search/suggest?q=` is the seam**, cached `public, max-age=300`, so panel and results page run **the
   same `search()`**. **It must send `Netlify-Vary: query=q`** — Netlify's adapter keys caches on `__nextDataReq` and
   `_rsc` only, so the first query cached was served to every later one (invisible in `next dev`). Any cacheable
@@ -122,14 +121,13 @@ Ranking in `lib/catalog.ts`, suggestion vocabulary in `lib/search-suggest.ts`, o
 - **One combobox, three placements**: anchored panel from `sm` up, phone search row, full-screen sheet below `sm`
   (a dropdown there fights the 103px chrome and the keyboard). Sheet state lives in the store module, not React
   context, because the placements sit in three parents, and **the sheet is mounted by the icon trigger, not the
-  row**, which folds away when the chrome pins. Every section flattens into **one flat `rows` array**, so arrow
-  keys, `aria-activedescendant`, Enter and the live count never learn how many sections exist; sections are
-  `role="group"` and focus stays in the input. **The closed panel is unmounted, never a transparent one left in
-  flow** — the `hint.tsx` sideways-scroll bug, asserted at 375px. Each placement is a real GET
-  `<form action="/search">`, so it works before hydration and with JS off.
+  row**, which folds away when the chrome pins. Every section flattens into **one flat `rows` array**, so the
+  keyboard handling never learns how many sections exist; sections are `role="group"` and focus stays in the input.
+  **The closed panel is unmounted, never a transparent one left in flow** — the `hint.tsx` sideways-scroll bug,
+  asserted at 375px. Each placement is a real GET `<form action="/search">`, so it works with JS off.
 - **Fetches are sequence-numbered, and in-flight deduplication must not come back** — joining an older request
-  resolves with a stale answer. 120ms debounce, an `AbortController` per request, a `Map` of query to response so
-  backspacing is instant. Previous rows stay while the next request is in flight; the panel never flashes empty.
+  resolves with a stale answer. 120ms debounce, an `AbortController` each, a `Map` of query to response so
+  backspacing is instant. Previous rows stay while the next is in flight; the panel never flashes empty.
 
 ## Design system
 
@@ -140,7 +138,7 @@ reference site is green chrome with an orange button, so green chrome here would
 |---|---|---|
 | Brand chrome (utility bar, nav, footer accents) | `plum-800` / `plum-900` | `#3b1430` / `#2b0f20` |
 | Secondary accent — active nav, countdown digits, deal meters | `turmeric-500` | `#d08a0e` |
-| Add-to-cart, the compare tray's Compare, and the ticked compare box — a gradient, via `btn-cart` | `cart-top` -> `cart-bottom` | `#c06d00` -> `#bc5500` |
+| Add-to-cart and the compare pair — a gradient, via `btn-cart` | `cart-top` -> `cart-bottom` | `#c06d00` -> `#bc5500` |
 | Review stars and nothing else | `star` | `#f5a623` |
 | Volume figures ("90K bought this month") | `sold` | `#659fd9` |
 | Trust semantics only (in stock, verified, savings) | `pandan-600` | `#1e5b41` |
@@ -162,17 +160,15 @@ reference site is green chrome with an orange button, so green chrome here would
 - **The signature device is the facts strip** — a back-of-bottle spec row on every card
   (`components/product/facts-strip.tsx`), opened out on the PDP into `pdp/at-a-glance.tsx` and
   `pdp/supplement-facts.tsx`. Keep the card version **one fixed-height line** so card CTAs align across a row.
-  Its right-hand slot holds the compare checkbox, which fills `cart-bottom` when ticked so it reads as the same
-  press as the tray's Compare.
+  Its right-hand slot holds the compare checkbox.
 - **`product.inStock` is honoured everywhere, and that is load-bearing.** The buy box used to ignore it, so the
   twelve unavailable products showed "In stock, packed in Bangkok" and a live add beside a summary reading "Out of
   stock". Now: no stepper or add on the PDP, a restock form instead; no quick-add on the card; `add()` refuses the
   slug; a line already in the cart is **kept, greyed and left out of the subtotal**. `stock-check.mjs` asserts it.
 - **Cost per serving is gone from the storefront — do not reintroduce it.** Computed, not stated by any label.
-- **Product cards are one link**: one absolutely-positioned anchor (`before:absolute before:inset-0` on the title
-  link) covers the card — one tab stop, text stays selectable, no button nested in an anchor. Add to cart, the save
-  heart and the compare box layer above at `z-20` and stop the click; the add is revealed on hover/focus
-  (`.reveal-add`), always shown on devices without hover.
+- **Product cards are one link**: `before:absolute before:inset-0` on the title link covers the card — one tab stop,
+  text stays selectable, no button nested in an anchor. Add to cart, the save heart and the compare box layer above
+  at `z-20` and stop the click; the add is revealed on hover/focus (`.reveal-add`), always shown without hover.
 
 ## Product page anatomy
 
@@ -182,12 +178,10 @@ Three columns: media, summary (flag -> title -> brand -> rating -> stock and mom
 
 - `pdp/product-gallery.tsx` — one view per shot, max four, switched by radio inputs and the `.gallery` rules in
   `globals.css`: no client JS, keyboard-operable, survives reload.
-- `pdp/zoom-shot.tsx` — lens over the region under the pointer plus a pane beside the frame at the source file's
-  resolution (900px, ~2.3x). The pane is `position: fixed` to escape the frame's `overflow-hidden`, which holds only
-  while no ancestor creates a containing block — **never put `transform`, `filter` or `will-change` back on the
-  frame**. Inactive shots are `visibility: hidden`, so no active-index state is needed, and it **must stay a direct
-  child of `.frame` in source order**. Off below 1024px and for touch. **No product image carries a hover
-  transform.**
+- `pdp/zoom-shot.tsx` — a lens plus a pane beside the frame, off below 1024px and for touch. The pane is
+  `position: fixed` to escape the frame's `overflow-hidden`, so **never put `transform`, `filter` or `will-change`
+  back on the frame** and it **must stay a direct child of `.frame` in source order**. **No product image carries a
+  hover transform.**
 - `pdp/product-information.tsx` — 14/10 split: Overview, Specifications, Suggested use, Other ingredients,
   Warnings, Storage, Disclaimer left, `supplement-facts.tsx` right. **New copy blocks go here**, never beside the
   buy box.
@@ -205,26 +199,24 @@ Three columns: media, summary (flag -> title -> brand -> rating -> stock and mom
 
 Six external stores, one contract, no exceptions: `useSyncExternalStore`, an **empty server snapshot**, never
 `useState` plus an effect (hydration mismatch, and it trips `react-hooks/set-state-in-effect`). They exist because 470
-product pages are prerendered and a prerendered page cannot know anything about the reader.
-`cart-context.tsx` · `account/account-store.ts` · `chrome/search-store.ts` ·
-`product/recently-viewed-store.ts` · `product/compare-store.ts` · `ui/clock-store.ts`.
+product pages are prerendered and a prerendered page cannot know anything about the reader: the cart, the session,
+search, recently viewed, compare and the clock.
 
 - **Recently viewed** is twelve slugs and nothing else — no timestamps, no counts, so it is not a behavioural log.
   Written by `RecordViewed` on the PDP, separate from `ViewBeacon`: that increments an anonymous server counter, this
   never leaves the browser. The rail renders nothing below two entries.
 - **Compare** holds up to four slugs, but the comparison itself is a URL (`/compare?p=…&p=…`), so it is shareable
-  and that page needs no client state. Rows are keyed on the **nutrient**, not the printed string — two labels
-  write the same magnesium differently, and keying on the string put them on two rows with a dash each; each cell
-  keeps its own label's wording underneath. **A dash means the label does not state the row; never a zero.**
+  and that page needs no client state. Rows are keyed on the **nutrient**, not the printed string — two labels write
+  the same magnesium differently — and each cell keeps its own label's wording underneath. **A dash means the label
+  does not state the row; never a zero.** The tray's Compare is `btn-cart` and the ticked box fills `cart-bottom`.
 - **The clock** exists so an arrival date can be shown at all: a date rendered on the server is the date the build
   ran. Zero is the pre-mount value; the consumer renders wording instead.
 
 ## Brands, new arrivals, listings
 
-- **`/b/[brand]`** is the whole of a brand, across every shelf. The old brand link was `/c/[category]?brand=…`,
-  one shelf's slice of a brand that may sit on ten — 46 of the 134 span more than one, and California Gold
-  Nutrition spans all ten. `brandSlug` and `BRANDS` live in `lib/catalog.ts`: a name-to-URL mapping is catalogue
-  knowledge. `/brands` indexes them; without it each page had one entry point.
+- **`/b/[brand]`** is the whole of a brand, across every shelf. The old link was `/c/[category]?brand=…`, one
+  shelf's slice of a brand that may sit on ten — 46 of the 134 span more than one. `brandSlug` and `BRANDS` live in
+  `lib/catalog.ts`: a name-to-URL mapping is catalogue knowledge. `/brands` indexes them.
 - **`/new`** sorts on `firstAvailable`, the month the label says the product first shipped — set on all 470, 140 of
   them 2025–26. New to the market, not to the warehouse; the kicker says so.
 - The rail's **brand group stays a filter**: scoping a category is a different job from browsing a brand.
@@ -234,9 +226,9 @@ product pages are prerendered and a prerendered page cannot know anything about 
 The cart is `localStorage`; everything an order needs is Postgres. Drawer, then `/cart`, then `/checkout`, then
 `/checkout/confirmation/[orderNo]`.
 
-- **Checkout is one page, three numbered sections, one submit** — deliberately not a wizard with the step in the
-  URL, the way the rest of the site carries state. Carrying a half-finished checkout between steps means a name,
-  phone and address in the query string, where it lands in history and in logs, or a draft in `localStorage`.
+- **Checkout is one page, three numbered sections, one submit** — deliberately not a wizard with the step in the URL,
+  the way the rest of the site carries state: that means a name, phone and address in the query string, where it
+  lands in history and in logs, or a draft in `localStorage`.
 - **Prices never cross the wire.** The form posts `item` fields of `"slug:qty"` and nothing else;
   `app/actions/checkout.ts` resolves each slug through `getProduct()`, refuses out-of-stock, clamps to
   `MAX_QTY_PER_LINE` and recomputes every figure — the same principle as `/api/track`. The address field is `line`
@@ -263,11 +255,11 @@ PostgreSQL on Neon holds what the catalogue cannot — accounts, sessions, revie
 `.env.local` is the project's only secret; unset, `isConfigured()` in `lib/db.ts` switches the feature off rather
 than erroring, so a build works with no database.
 
-- **`/account` is the one area on a grey ground with square corners.** Its layout carries `.squared`, an unlayered
-  rule in `globals.css` so it beats the `rounded-*` utilities and flattens shared components inside it too (the
-  product card, `checkout/order-detail.tsx`) while they stay rounded elsewhere. The grey is a plain neutral, not
-  `paper`: white panels on the warm tint look unwashed. `components/account/account-panels.tsx` holds the panel,
-  the empty state and the status label.
+- **`/account` is the one area on a grey ground with square corners.** `.squared` on its layout is unlayered in
+  `globals.css`, so it beats the `rounded-*` utilities and flattens shared components inside it too while they stay
+  rounded elsewhere. The grey is a plain neutral, not `paper`. Panel, empty state and status label live in
+  `components/account/account-panels.tsx`; the sidebar is two levels, flattened to one wrapped row below `lg` by
+  `display: contents` rather than a second copy of the markup.
 - `lib/db.ts` — one `pg` pool on `globalThis`, or `next dev` leaks a socket set per hot reload. TLS verified
   (localhost excepted). **Every statement is parameterised**; a placeholder used twice needs an explicit `::type`
   (see the lockout update in `lib/accounts.ts`).
@@ -283,6 +275,13 @@ than erroring, so a build works with no database.
 - **Nothing under `/account` sets `force-dynamic`** — the cookie read already makes it dynamic, and forcing it stops
   `refresh()` from an action updating the page in place. `proxy.ts` (Next 16's renamed middleware) only checks that a
   cookie exists.
+- **`lib/profile.ts` is the one read that hands an email address to a component**, which is what `/account/profile`
+  needs and nothing else does. It refuses to clear an address the account signs in with. No re-authentication on an
+  email change, because no password reset exists to turn one into a takeover; add it with the reset.
+- `lib/addresses.ts` — **one default per account is the partial unique index `addresses_one_default`**, not app
+  logic; writes clear the old default in the same transaction because the index will not have it otherwise, and
+  deleting the default promotes the newest left. **Nothing else reads the book yet** — the checkout still asks,
+  its form being a client island on a page open to guests. `/account/payment` stores nothing and says why.
 - `lib/accounts.ts`, `lib/reviews.ts`, `lib/saved.ts` query; `app/actions/*.ts` mutate, and **every action
   re-verifies the session**: a Server Action is a POST endpoint anything can call.
 
@@ -290,15 +289,14 @@ than erroring, so a build works with no database.
 `cookies()` there would turn every storefront route dynamic and cost all 470 product pages their prerender.
 Consequences, none optional:
 
-- `components/account/account-store.ts` — the session as a store, filled from `GET /api/session` after mount.
-  `account-button.tsx`, `review-form.tsx` and `product/save-button.tsx` render signed-out until it says otherwise.
-  **None is a permission check.**
-- `components/account/session-sync.tsx` re-reads the session on pathname change, because signing in navigates
-  before client code gets a say. Refreshes are **sequence-numbered**; **do not reintroduce in-flight
-  deduplication**, which let a stale reply overwrite a newer one.
-- `/p/[slug]` reads reviews through `unstable_cache` tagged `reviews:<slug>`, so anonymous traffic gets built HTML and
-  never reaches Postgres. Posting calls **`updateTag()`, not `revalidateTag()`** (which serves the writer the stale
-  copy their own review is missing from), then `refresh()`.
+- `components/account/account-store.ts` — the session as a store, filled from `GET /api/session` after mount. Its
+  consumers render signed-out until it says otherwise, and **none of them is a permission check.**
+- `components/account/session-sync.tsx` re-reads the session on pathname change, because signing in navigates before
+  client code gets a say. Refreshes are **sequence-numbered**; **do not reintroduce in-flight deduplication**, which
+  let a stale reply overwrite a newer one.
+- `/p/[slug]` reads reviews through `unstable_cache` tagged `reviews:<slug>`, so anonymous traffic never reaches
+  Postgres. Posting calls **`updateTag()`, not `revalidateTag()`** — which serves the writer the stale copy their own
+  review is missing from — then `refresh()`.
 - Auth actions **do not `redirect()`**: they return where to go and the form navigates, fields held in state so a
   rejected password does not empty the form. (The checkout action is the exception, and says why.)
 - Review paging is a server function with a cursor (`pdp/review-more.tsx`), not `?page=` — reading `searchParams`
@@ -318,8 +316,8 @@ password if not.
 - Providers appear on step one only, where "sign in" and "create an account" are the same press.
 
 **The honesty rule.** `product.rating`/`product.reviews` are the source listing's aggregate; reviews written here
-are ours. Two labelled figures, **never averaged into one**. `ratingBreakdown()`, which fitted a curve to the source
-average to draw per-star bars, is **deleted**: bars count real rows.
+are ours. Two labelled figures, **never averaged into one**, and the per-star bars count real rows rather than
+fitting a curve to the source average, which is what `ratingBreakdown()` did before it was deleted.
 
 **Google / Facebook sign-in replaces none of it**: a provider is another way to reach `startSession()`. `lib/oauth.ts`
 describes one authorization-code flow as data, an entry per provider; `/api/auth/[provider]` starts it,
@@ -339,9 +337,9 @@ describes one authorization-code flow as data, an entry per provider; `/api/auth
   attach it to, leaving the callback nothing to check `state` against.
 - Failures return `/signin?error=<reason>`; the page turns each reason into something readable.
 
-Two traps every assertion script inherits: `page.textContent('body')` also reads the RSC flight data Next embeds in
-`<script>` tags, so "is it gone" is a false pass — use `innerText`; and navigate on `domcontentloaded`, not
-`networkidle`, because a page with many prefetching links need not settle.
+Two traps every assertion script inherits: `page.textContent('body')` also reads the RSC flight data in `<script>`
+tags, so "is it gone" is a false pass — use `innerText`; and navigate on `domcontentloaded`, not `networkidle`,
+which a page full of prefetching links never reaches.
 
 ## Internal dashboard
 
@@ -357,13 +355,11 @@ Two traps every assertion script inherits: `page.textContent('body')` also reads
   `/admin/accounts` is the one surface that displays an address.
 - **Read-only by construction** — no action, no form, no mutation, so a leaked admin session cannot damage.
   `proxy.ts` matches `/admin` only for the cookie-presence check: it is not the gate.
-- `/admin` sits **outside** `(storefront)`, so the only layout above it is the document — a title bar, shell
-  prompt, lowercase tabs and a status line stand in, and the two links in that title bar are the only way out.
-  **Nothing here uses the brand palette** except `turmeric-500`, `sold` and `star`, and
-  **JetBrains Mono is loaded in `app/admin/layout.tsx`, not the root layout**, binding
-  `--font-jetbrains` which `@theme` reads through `--font-term` — a separate token, so the storefront keeps Inter.
-- Charts are hand-rolled inline SVG (`components/admin/bar-chart.tsx`) stretched with
-  `preserveAspectRatio="none"`, so every bar must stay a plain rect — corners, strokes and text distort with it.
+- `/admin` sits **outside** `(storefront)`, so the only layout above it is the document, and the two links in its
+  title bar are the only way out. **Nothing here uses the brand palette** except `turmeric-500`, `sold` and `star`,
+  and **JetBrains Mono is loaded in `app/admin/layout.tsx`, not the root layout**, so the storefront keeps Inter.
+- Charts are inline SVG stretched with `preserveAspectRatio="none"`, so **every bar must stay a plain rect** —
+  corners, strokes and text distort with it.
 
 **The counters** are `lib/schema/003_analytics.sql`, written by `lib/analytics.ts`, read by `lib/admin-stats.ts`:
 `product_views`, `page_views`, `search_queries`, each a `(thing, day)` key over an integer bumped by one upsert. No
@@ -406,9 +402,11 @@ in `hero-slides.ts`.
 - **Two nested tracks, not one** — flat, a tab switch animates through intervening slides. **Each tab keeps its own
   position**; every slide stays mounted for a stable height and carries **`inert` unless on screen**, or an
   off-screen CTA is a tab stop for a slide nobody can see.
-- **The control cluster is one pill from `sm` up and two stacked rows below** — two labels and six dots overflow a
-  375px frame that clips rather than scrolls, so the split is explicit, not `flex-wrap`. The strip takes no pointer
-  events or it eats presses along the foot of the frame.
+- **The control cluster is one pill from `sm` up and two stacked rows below**, an explicit split rather than
+  `flex-wrap`, and it takes no pointer events or it eats presses along the foot of the frame.
+- **The edge arrows are a 3px pill until the banner is hovered**, one shape resized in percent (`.hero-arrow-shape`),
+  hidden only inside `@media (hover: hover)` so touch keeps the button. The delay before it collapses lives on the
+  rest state. Not `clip-path`: its two endpoints landed in different units and every frame interpolated a `calc()`.
 - **Slide photographs are imported — never `existsSync` against `public/`.** That check runs wherever the page
   renders, so on a host with no real filesystem it answers false for a file that is deployed and serving, and the
   slide ships blank. `SHELVES` pairs shelf to an imported image, so a missing file is a build error.
@@ -419,9 +417,8 @@ in `hero-slides.ts`.
 - **21:9 from `lg` up, content-driven below** — 21:9 on a phone is a 160px letterbox, so the shot becomes a band
   across the foot with copy above. One `Image` carries both compositions, so the hero preloads one file. Body copy
   runs `font-medium` and plum, because wood grain eats 400-weight type.
-- **Each slide owns its background; there is no cross-fade** — slides translate on one flex track. `h-full` down
-  the outer track, panels and inner tracks hands the frame's 21:9 height to the slides; it is shortest between `lg`
-  and `xl`, which is why the equipment glyph plate shrinks in exactly that range.
+- **Each slide owns its background; there is no cross-fade** — slides translate on one flex track, and `h-full` down
+  the outer track, panels and inner tracks is what hands the frame's 21:9 height to them.
 
 ## Starter kits
 
@@ -432,9 +429,8 @@ under two items is not published.
 
 Audience is 16 and up, and the guardrails are code:
 
-- `EXCLUDED` keeps children's lines and the whole `kids` category out of every kit. Most gummies in stock are
-  children's lines, which is why no kit leads on format. Melatonin is excluded too, while staying on the sleep shelf
-  with its guide — see `#what-we-wont-do` on `/starters`.
+- `EXCLUDED` keeps children's lines and the whole `kids` category out of every kit, which is why no kit leads on
+  format: most gummies in stock are children's. Melatonin is out too, while staying on the sleep shelf.
 - Value is real numbers only: sum of item prices, a markdown only when every item has a `listPrice`, days supply
   from `servings`. No bundle discount is implied because there isn't one.
 - No claim copy. `starters-check.mjs` sweeps both surfaces for weight-loss, focus and exam-result phrasing, skipping
@@ -448,13 +444,12 @@ counted off those words at 220wpm, so the label cannot drift from the article.
 
 The copy rules are the catalogue's rules applied to prose: reference intakes are quoted as population figures and
 named as such, label arithmetic is checkable against the bottle in your hand, and no sentence needs a study the site
-cannot show you. The COA guide and `/quality` both state that no laboratory stands behind the shop; the older "we
-publish the certificate of analysis for every lot" copy is gone.
+cannot show you. The COA guide and `/quality` both state that no laboratory stands behind the shop.
 
-Photography is harvested: `reference/editorial/photos.mjs` pulls one CC0 / public-domain / CC BY photo per guide
-from Openverse, downscales to 2000px through Next's own `sharp`, and writes the credit to
-`lib/editorial.generated.json`. `guides-check.mjs` asserts a credit exists for every cover, because a missing one
-puts a CC BY image out of licence. Covers are reviewed by eye then pinned by image id in `PICKS`.
+Photography is harvested: `reference/editorial/photos.mjs` pulls one CC0 / public-domain / CC BY photo per guide from
+Openverse, downscales through Next's own `sharp`, and writes the credit to `lib/editorial.generated.json`.
+`guides-check.mjs` asserts a credit exists for every cover, because a missing one puts a CC BY image out of licence.
+Covers are picked by eye then pinned by image id in `PICKS`.
 
 
 ## Catalogue data
@@ -463,13 +458,12 @@ puts a CC BY image out of licence. Covers are reviewed by eye then pinned by ima
 `products/<pid>.json` plus `public/products/iherb/*.jpg`), `build` (-> `lib/catalog.generated.json`). **Read
 `reference/iherb/README.md` before touching it**; the bot check dictates the whole design.
 
-- **Real, from the source page**: everything on the `Product` type except the three cases below — title, brand,
-  price, availability, volume, rating, review count, every label field, every copy block, and the supplement-facts
-  table including %DV.
+- **Real, from the source page**: everything on the `Product` type except the three cases below, down to every
+  label field, every copy block and the supplement-facts table including %DV.
 - **Computed from two real numbers**: discount percent. (`perServing` is still emitted but shown nowhere.)
 - **Real, restated at today's rate**: the price the storefront shows. See Currency.
 - **Ours**: the storefront's own handling standards and site disclaimer — the source's names the source and is
-  deliberately not copied. `ratingBreakdown` used to be here and is gone.
+  deliberately not copied.
 - **A field the source does not state comes through as `null` or an empty array and its panel renders nothing.** Keep
   that rule when adding fields: it is what stops the page claiming a %DV or best-by date no label backs.
 - Stage 3 does all interpretation, so changing how a field is read is a `build.mjs` edit plus a rerun, never a
@@ -488,16 +482,14 @@ sorting, kit totals and the free-delivery threshold all see plain THB.
   shave it off every price, once, silently. On a re-harvest this constant wants **the market rate for the new
   harvest date**, not the rate the new prices imply.
 - **Prices round up to the whole baht** (`Math.ceil` in `adjust`), so none moves by more than ฿1 and every one stays
-  at or above what it converts to. `price()` prints two decimals. No charm pricing — ฿9 is a margin decision and
-  does not belong inside a currency conversion.
+  at or above what it converts to. No charm pricing — ฿9 is a margin decision, not part of a conversion.
 - **The rate is a committed build input, not a runtime lookup**, because `lib/catalog.ts` is synchronous and imported
-  by every page. `reference/fx.mjs` reads the ECB daily reference rate (falling back to `open.er-api.com`), refuses
-  anything outside 25-45 as broken, and **writes only once the rate has moved more than 0.5%**.
-  `.github/workflows/exchange-rate.yml` runs it on weekdays and commits when it wrote.
+  by every page. `reference/fx.mjs` reads the ECB daily rate, refuses anything outside 25-45 as broken, and **writes
+  only once it has moved more than 0.5%**; a weekday workflow runs it and commits when it wrote.
 
 ## Reference material and git
 
 `reference/NOTES.md` — measured iHerb tokens, per-page anatomy, and what was deliberately not copied.
-`reference/shots/` holds the source screenshots; `reference/capture.mjs` re-captures them.
+`reference/shots/` holds the source screenshots, re-captured by `reference/capture.mjs`.
 
 This folder is its own repository, on `main`, pushed to `github.com/gregorton/nutriva`.

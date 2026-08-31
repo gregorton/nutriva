@@ -84,6 +84,124 @@ export function checkReview(form: FormData): Checked<ReviewDraft, keyof ReviewDr
     : { ok: true, value: { rating, title: title || null, body } };
 }
 
+/*
+  The account's own details, for /account/profile. Every field but the name is optional, because an
+  account has always been an address and a display name and stays usable with the rest left blank.
+
+  `emailRequired` is passed in rather than assumed: an account made through Google or Facebook can
+  have no address at all, and one that *does* have an address must not be able to clear it, because
+  the address is what the password path signs in with.
+*/
+export type ProfileDetails = {
+  displayName: string;
+  email: string | null;
+  phone: string | null;
+  birthday: string | null;
+  gender: "female" | "male" | "other" | null;
+};
+
+const BIRTHDAY = /^\d{4}-\d{2}-\d{2}$/;
+const GENDERS = ["female", "male", "other"];
+
+export function checkProfile(
+  form: FormData,
+  emailRequired: boolean,
+): Checked<ProfileDetails, keyof ProfileDetails> {
+  const displayName = text(form.get("displayName"));
+  const email = text(form.get("email")).toLowerCase();
+  const phone = text(form.get("phone"));
+  const birthday = text(form.get("birthday"));
+  const gender = text(form.get("gender"));
+  const errors: Invalid<keyof ProfileDetails>["errors"] = {};
+
+  if (displayName.length < 2) errors.displayName = "Give a name of at least 2 characters.";
+  else if (displayName.length > 40) errors.displayName = "Keep this under 40 characters.";
+
+  if (email) {
+    if (!EMAIL.test(email) || email.length > 254)
+      errors.email = "Enter an email address we can reach you at.";
+  } else if (emailRequired) {
+    errors.email = "This is the address you sign in with, so it cannot be empty.";
+  }
+
+  if (phone && !PHONE.test(phone)) errors.phone = "Enter a Thai phone number, or leave it blank.";
+
+  // A date input hands back yyyy-mm-dd or nothing, so anything else was not typed here. The range
+  // is what a supplement shop can serve: the starter kits are 16 and up, and 120 is generous.
+  if (birthday) {
+    const when = new Date(`${birthday}T00:00:00Z`);
+    const years = (Date.now() - when.getTime()) / 31_557_600_000;
+    if (!BIRTHDAY.test(birthday) || Number.isNaN(when.getTime()))
+      errors.birthday = "Enter a date, or leave it blank.";
+    else if (years < 16) errors.birthday = "This shop is for 16 and over.";
+    else if (years > 120) errors.birthday = "Check the year.";
+  }
+
+  if (gender && !GENDERS.includes(gender)) errors.gender = "Choose one, or leave it unanswered.";
+
+  return Object.keys(errors).length
+    ? { ok: false, errors }
+    : {
+        ok: true,
+        value: {
+          displayName,
+          email: email || null,
+          phone: phone || null,
+          birthday: birthday || null,
+          gender: (gender || null) as ProfileDetails["gender"],
+        },
+      };
+}
+
+/*
+  One address book entry. The same rules the checkout address is held to, minus the email it does
+  not carry and plus an optional label, so an entry saved here could not be refused at checkout.
+*/
+export type AddressDetails = {
+  label: string | null;
+  name: string;
+  phone: string;
+  line: string;
+  subdistrict: string;
+  district: string;
+  province: string;
+  postcode: string;
+};
+
+export function checkAddress(
+  form: FormData,
+  provinces: readonly string[],
+): Checked<AddressDetails, keyof AddressDetails> {
+  const value: AddressDetails = {
+    label: text(form.get("label")) || null,
+    name: text(form.get("name")),
+    phone: text(form.get("phone")),
+    line: text(form.get("line")),
+    subdistrict: text(form.get("subdistrict")),
+    district: text(form.get("district")),
+    province: text(form.get("province")),
+    postcode: text(form.get("postcode")),
+  };
+  const errors: Invalid<keyof AddressDetails>["errors"] = {};
+
+  if (value.label && value.label.length > 30) errors.label = "Keep the label under 30 characters.";
+
+  if (value.name.length < 2) errors.name = "Enter the name the parcel is for.";
+  else if (value.name.length > 120) errors.name = "Keep the name under 120 characters.";
+
+  if (!PHONE.test(value.phone)) errors.phone = "Enter a Thai phone number the courier can call.";
+
+  if (value.line.length < 4) errors.line = "Enter the house number and street.";
+  else if (value.line.length > 200) errors.line = "Keep the address line under 200 characters.";
+
+  if (!value.subdistrict) errors.subdistrict = "Enter the sub-district (tambon).";
+  if (!value.district) errors.district = "Enter the district (amphoe).";
+  if (!provinces.includes(value.province)) errors.province = "Choose a province.";
+  if (!POSTCODE.test(value.postcode)) errors.postcode = "A Thai postcode is five digits.";
+
+  return Object.keys(errors).length ? { ok: false, errors } : { ok: true, value };
+}
+
 export type CheckoutDetails = {
   name: string;
   email: string;
