@@ -140,7 +140,7 @@ reference site is green chrome with an orange button, so green chrome here would
 |---|---|---|
 | Brand chrome (utility bar, nav, footer accents) | `plum-800` / `plum-900` | `#3b1430` / `#2b0f20` |
 | Secondary accent — active nav, countdown digits, deal meters | `turmeric-500` | `#d08a0e` |
-| Add-to-cart and nothing else — a gradient, via `btn-cart` | `cart-top` -> `cart-bottom` | `#c06d00` -> `#bc5500` |
+| Add-to-cart, the compare tray's Compare, and the ticked compare box — a gradient, via `btn-cart` | `cart-top` -> `cart-bottom` | `#c06d00` -> `#bc5500` |
 | Review stars and nothing else | `star` | `#f5a623` |
 | Volume figures ("90K bought this month") | `sold` | `#659fd9` |
 | Trust semantics only (in stock, verified, savings) | `pandan-600` | `#1e5b41` |
@@ -162,7 +162,8 @@ reference site is green chrome with an orange button, so green chrome here would
 - **The signature device is the facts strip** — a back-of-bottle spec row on every card
   (`components/product/facts-strip.tsx`), opened out on the PDP into `pdp/at-a-glance.tsx` and
   `pdp/supplement-facts.tsx`. Keep the card version **one fixed-height line** so card CTAs align across a row.
-  Its right-hand slot holds the compare checkbox.
+  Its right-hand slot holds the compare checkbox, which fills `cart-bottom` when ticked so it reads as the same
+  press as the tray's Compare.
 - **`product.inStock` is honoured everywhere, and that is load-bearing.** The buy box used to ignore it, so the
   twelve unavailable products showed "In stock, packed in Bangkok" and a live add beside a summary reading "Out of
   stock". Now: no stepper or add on the PDP, a restock form instead; no quick-add on the card; `add()` refuses the
@@ -262,12 +263,11 @@ PostgreSQL on Neon holds what the catalogue cannot — accounts, sessions, revie
 `.env.local` is the project's only secret; unset, `isConfigured()` in `lib/db.ts` switches the feature off rather
 than erroring, so a build works with no database.
 
-- **`/account` is the one storefront area on a grey ground, and the one with square corners.** Its layout carries
-  `.squared` (an unlayered rule in `globals.css`, so it beats the `rounded-*` utilities), which flattens shared
-  components inside it too — the product card on `/account/saved`, the boxes in `checkout/order-detail.tsx` — while
-  they stay rounded everywhere else. The grey is a plain neutral, deliberately not `paper`: white panels on the
-  warm tint look unwashed. Sections are plain text in the sidebar; `components/account/account-panels.tsx` holds
-  the panel, the empty state and the status label.
+- **`/account` is the one area on a grey ground with square corners.** Its layout carries `.squared`, an unlayered
+  rule in `globals.css` so it beats the `rounded-*` utilities and flattens shared components inside it too (the
+  product card, `checkout/order-detail.tsx`) while they stay rounded elsewhere. The grey is a plain neutral, not
+  `paper`: white panels on the warm tint look unwashed. `components/account/account-panels.tsx` holds the panel,
+  the empty state and the status label.
 - `lib/db.ts` — one `pg` pool on `globalThis`, or `next dev` leaks a socket set per hot reload. TLS verified
   (localhost excepted). **Every statement is parameterised**; a placeholder used twice needs an explicit `::type`
   (see the lockout update in `lib/accounts.ts`).

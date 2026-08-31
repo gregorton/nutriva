@@ -33,7 +33,7 @@ export function CompareTray() {
 
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-0 z-40 flex justify-center px-3 pb-3">
-      <div className="pointer-events-auto flex max-w-full items-center gap-3 rounded-tile border border-line-strong bg-white px-3 py-2.5 shadow-[0_18px_40px_-20px_rgba(43,15,32,0.5)]">
+      <div className="pointer-events-auto flex max-w-full animate-tray-up items-center gap-3 rounded-tile border border-line-strong bg-white px-3 py-2.5 shadow-[0_18px_40px_-20px_rgba(43,15,32,0.5)]">
         <ul className="flex gap-2">
           {products.map((product) => (
             <li key={product.slug} className="relative">
@@ -67,7 +67,7 @@ export function CompareTray() {
 
         <Link
           href={compareHref(products.map((product) => product.slug))}
-          className="flex h-10 shrink-0 items-center rounded-[7px] bg-plum-800 px-4 text-sm font-semibold text-white transition-colors hover:bg-plum-700"
+          className="btn-cart h-10 shrink-0 px-4 text-[14px]"
         >
           Compare
         </Link>

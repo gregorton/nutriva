@@ -95,6 +95,20 @@
   --radius-card: 10px;
   --radius-tile: 14px;
 
+  /*
+    The compare tray arriving. It is conditionally rendered, so this plays once on mount and never
+    again as products are added — which is what it should do. There is no exit animation: leaving
+    would need the tray kept mounted through a timeout, and the last tick removing it instantly is
+    honest feedback. The blanket `prefers-reduced-motion` rule below stops it.
+  */
+  --animate-tray-up: tray-up 240ms cubic-bezier(0.16, 1, 0.3, 1);
+  @keyframes tray-up {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+  }
+
   /* Height of the pinned chrome — condensed 58px masthead + its border + the 44px category
      row. Anything that sticks inside a page (the buy box) or gets scrolled to by anchor has
      to clear this, so it is a token rather than a number repeated per site. */
@@ -128,7 +142,8 @@
 }
 
 /*
-  Add-to-cart, everywhere it appears: card, cross-sell tile and buy box.
+  Add-to-cart, everywhere it appears: card, cross-sell tile, buy box, and the compare tray's
+  Compare, which commits to a page rather than to money but is the same press.
 
   A raised gradient orange with a one-step-darker edge and a 3px radius — the storefront
   convention for the one button that commits money, and the only place gradient or this

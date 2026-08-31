@@ -40,7 +40,7 @@ export function CompareToggle({ slug }: { slug: string }) {
           event.stopPropagation();
           toggleCompare(slug);
         }}
-        className="h-3.5 w-3.5 accent-plum-700"
+        className="h-3.5 w-3.5 accent-cart-bottom"
       />
       <span className={checked ? "font-medium text-plum-700" : ""}>Compare</span>
     </label>
