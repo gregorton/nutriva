@@ -310,8 +310,7 @@ function Slide({
 /*
   One edge arrow. The button is always the full 36/44px target — only what it looks like changes, so
   the click area, the tab stop and the accessible name never move. `.hero-arrow` in globals.css
-  holds the two appearances and the swap; the bar and the glyph share one grid cell rather than
-  being positioned, which is what keeps them concentric at both sizes.
+  holds the two appearances and the morph between them.
 */
 function NavArrow({ direction, onClick }: { direction: "prev" | "next"; onClick: () => void }) {
   return (
@@ -319,11 +318,13 @@ function NavArrow({ direction, onClick }: { direction: "prev" | "next"; onClick:
       type="button"
       onClick={onClick}
       aria-label={direction === "next" ? "Next slide" : "Previous slide"}
-      className={`hero-arrow absolute top-1/2 z-10 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full text-plum-900 sm:h-11 sm:w-11 ${
+      className={`hero-arrow absolute top-1/2 z-10 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full sm:h-11 sm:w-11 ${
         direction === "next" ? "right-2 sm:right-3" : "left-2 sm:left-3"
       }`}
     >
-      <span aria-hidden className="hero-arrow-bar col-start-1 row-start-1 h-6 w-[3px] sm:h-7" />
+      {/* Both children share one grid cell, so the glyph stays concentric with the shape it opens
+          out of at either size, and paints over it by source order alone. */}
+      <span aria-hidden className="hero-arrow-shape col-start-1 row-start-1" />
       <ArrowIcon
         className={`hero-arrow-glyph col-start-1 row-start-1 h-5 w-5 ${direction === "prev" ? "rotate-180" : ""}`}
       />

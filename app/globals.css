@@ -281,57 +281,65 @@
   /*
     Hero arrows, and the bar each one collapses to.
 
-    At rest the banner shows two short vertical bars at its edges and nothing else, so the
-    photograph is not covered by two white chips; hovering anywhere on the banner turns each bar
-    into the round button. The bar is what makes that discoverable — an arrow that appears only on
-    hover, with nothing there beforehand, is a control nobody knows to look for.
+    One shape, not two: `.hero-arrow-shape` fills the button and is clipped down to a 3px bar at
+    rest, so hovering the banner opens the bar into the circle rather than fading a second element in
+    over it. `clip-path: inset()` rather than width and height, which would be a layout animation,
+    and rather than a non-uniform `scale`, which turns a circle into a pointed ellipse instead of a
+    bar with round ends. The insets are percentages, so one pair covers both button sizes. The glyph
+    follows the shape in and leaves before it, which is what makes the morph read as one movement
+    instead of three.
 
-    Pointer devices only, the same rule the card's add-to-cart follows: where hover does not exist
-    the round button is simply always there, because a touch user has no way to reveal it. Keyboard
-    users get it from `:focus-within` on the banner. The bar keeps a hairline shadow while the
-    button has none — 3px of white needs an edge to read on pale wood, a 44px disc does not.
+    Coming back takes a beat: the collapse delay lives on the rest state, so leaving the banner is
+    forgiving of a pointer that crosses a corner while reaching for an arrow, and arriving is
+    instant. `plum-900` throughout, which is the same near-black as the tab pill below it and needs
+    no shadow to hold on pale wood.
+
+    Pointer devices only, the rule the card's add-to-cart already follows: where hover does not
+    exist the round button is simply always there, because a touch user has no way to reveal it.
+    Keyboard users get it from `:focus-within` on the banner. The button itself is the full 36/44px
+    target in every state, so the hit area, the tab stop and the accessible name never move.
   */
-  .hero-arrow {
-    background-color: #fff;
-    box-shadow: inset 0 0 0 1px rgb(43 15 32 / 0.14);
-    transition:
-      background-color 160ms ease,
-      box-shadow 160ms ease;
-  }
-  .hero-arrow-bar {
+  .hero-arrow-shape {
+    height: 100%;
+    width: 100%;
     border-radius: 999px;
-    background-color: #fff;
-    box-shadow: 0 0 2px rgb(43 15 32 / 0.5);
-    opacity: 0;
-    transition: opacity 160ms ease;
+    background-color: var(--color-plum-900);
+    clip-path: inset(0 round 999px);
+    transition:
+      clip-path 300ms cubic-bezier(0.4, 0, 0.2, 1),
+      background-color 160ms ease;
   }
+  .hero-arrow:hover .hero-arrow-shape {
+    background-color: var(--color-plum-700);
+  }
+  /* Positioned, because a non-`none` clip-path makes the shape a stacking context and a stacking
+     context paints above the in-flow content of its parent — the glyph would otherwise sit behind
+     the disc it is meant to be inside. */
   .hero-arrow-glyph {
-    transition: opacity 160ms ease;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    transition: opacity 150ms ease;
   }
 
   @media (hover: hover) {
-    .hero-arrow {
-      background-color: transparent;
-      box-shadow: none;
-    }
-    .hero-arrow-bar {
-      opacity: 1;
+    .hero-arrow-shape {
+      clip-path: inset(20% 46% round 999px);
+      transition-delay: 420ms;
     }
     .hero-arrow-glyph {
       opacity: 0;
+      transition-delay: 300ms;
     }
-    .hero-frame:hover .hero-arrow,
-    .hero-frame:focus-within .hero-arrow {
-      background-color: #fff;
-      box-shadow: inset 0 0 0 1px rgb(43 15 32 / 0.14);
-    }
-    .hero-frame:hover .hero-arrow-bar,
-    .hero-frame:focus-within .hero-arrow-bar {
-      opacity: 0;
+    .hero-frame:hover .hero-arrow-shape,
+    .hero-frame:focus-within .hero-arrow-shape {
+      clip-path: inset(0 round 999px);
+      transition-delay: 0ms;
     }
     .hero-frame:hover .hero-arrow-glyph,
     .hero-frame:focus-within .hero-arrow-glyph {
       opacity: 1;
+      transition-delay: 130ms;
     }
   }
 
