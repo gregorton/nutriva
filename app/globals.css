@@ -279,20 +279,21 @@
   }
 
   /*
-    Hero arrows, and the bar each one collapses to.
+    Hero arrows, and the pill each one collapses to.
 
-    One shape, not two: `.hero-arrow-shape` fills the button and is clipped down to a 3px bar at
-    rest, so hovering the banner opens the bar into the circle rather than fading a second element in
-    over it. `clip-path: inset()` rather than width and height, which would be a layout animation,
-    and rather than a non-uniform `scale`, which turns a circle into a pointed ellipse instead of a
-    bar with round ends. The insets are percentages, so one pair covers both button sizes. The glyph
-    follows the shape in and leaves before it, which is what makes the morph read as one movement
-    instead of three.
+    One shape, not two: `.hero-arrow-shape` is a white pill at rest and the full white disc on hover,
+    so hovering the banner opens the pill into the button rather than fading a second element in over
+    it. Width and height, both in percent, for two reasons. `clip-path` was the first attempt and its
+    two endpoints ended up in different units, which makes the browser interpolate a calc() every
+    frame and is what made closing stutter; and a non-uniform `scale` turns a circle into a pointed
+    ellipse rather than a bar with round ends. The shape is a grid item in a fixed cell, so resizing
+    it lays out nothing but itself, and percentages mean one pair of numbers covers both button
+    sizes.
 
-    Coming back takes a beat: the collapse delay lives on the rest state, so leaving the banner is
-    forgiving of a pointer that crosses a corner while reaching for an arrow, and arriving is
-    instant. `plum-900` throughout, which is the same near-black as the tab pill below it and needs
-    no shadow to hold on pale wood.
+    Coming back takes a beat: the delay lives on the rest state, so leaving the banner is forgiving
+    of a pointer that crosses a corner while reaching for an arrow, and arriving is instant. One
+    duration and one curve in both directions, because two of each is how an exit ends up feeling
+    unlike its entrance.
 
     Pointer devices only, the rule the card's add-to-cart already follows: where hover does not
     exist the round button is simply always there, because a touch user has no way to reveal it.
@@ -303,43 +304,43 @@
     height: 100%;
     width: 100%;
     border-radius: 999px;
-    background-color: var(--color-plum-900);
-    clip-path: inset(0 round 999px);
+    background-color: #fff;
+    /* The same hairline in both states, and never transitioned: 3px of white needs an edge to read
+       against pale wood, and the open disc wants exactly that ring and no drop shadow. */
+    box-shadow: 0 0 0 1px rgb(43 15 32 / 0.15);
     transition:
-      clip-path 300ms cubic-bezier(0.4, 0, 0.2, 1),
+      width 240ms cubic-bezier(0.4, 0, 0.2, 1),
+      height 240ms cubic-bezier(0.4, 0, 0.2, 1),
       background-color 160ms ease;
   }
   .hero-arrow:hover .hero-arrow-shape {
-    background-color: var(--color-plum-700);
+    background-color: var(--color-paper);
   }
-  /* Positioned, because a non-`none` clip-path makes the shape a stacking context and a stacking
-     context paints above the in-flow content of its parent — the glyph would otherwise sit behind
-     the disc it is meant to be inside. */
   .hero-arrow-glyph {
-    position: relative;
-    z-index: 1;
-    color: #fff;
+    color: var(--color-plum-900);
     transition: opacity 150ms ease;
   }
 
   @media (hover: hover) {
     .hero-arrow-shape {
-      clip-path: inset(20% 46% round 999px);
-      transition-delay: 420ms;
+      height: 60%;
+      width: 7%;
+      transition-delay: 300ms;
     }
     .hero-arrow-glyph {
       opacity: 0;
-      transition-delay: 300ms;
+      transition-delay: 200ms;
     }
     .hero-frame:hover .hero-arrow-shape,
     .hero-frame:focus-within .hero-arrow-shape {
-      clip-path: inset(0 round 999px);
+      height: 100%;
+      width: 100%;
       transition-delay: 0ms;
     }
     .hero-frame:hover .hero-arrow-glyph,
     .hero-frame:focus-within .hero-arrow-glyph {
       opacity: 1;
-      transition-delay: 130ms;
+      transition-delay: 120ms;
     }
   }
 
