@@ -278,6 +278,63 @@
     color: var(--color-plum-900);
   }
 
+  /*
+    Hero arrows, and the bar each one collapses to.
+
+    At rest the banner shows two short vertical bars at its edges and nothing else, so the
+    photograph is not covered by two white chips; hovering anywhere on the banner turns each bar
+    into the round button. The bar is what makes that discoverable — an arrow that appears only on
+    hover, with nothing there beforehand, is a control nobody knows to look for.
+
+    Pointer devices only, the same rule the card's add-to-cart follows: where hover does not exist
+    the round button is simply always there, because a touch user has no way to reveal it. Keyboard
+    users get it from `:focus-within` on the banner. The bar keeps a hairline shadow while the
+    button has none — 3px of white needs an edge to read on pale wood, a 44px disc does not.
+  */
+  .hero-arrow {
+    background-color: #fff;
+    box-shadow: inset 0 0 0 1px rgb(43 15 32 / 0.14);
+    transition:
+      background-color 160ms ease,
+      box-shadow 160ms ease;
+  }
+  .hero-arrow-bar {
+    border-radius: 999px;
+    background-color: #fff;
+    box-shadow: 0 0 2px rgb(43 15 32 / 0.5);
+    opacity: 0;
+    transition: opacity 160ms ease;
+  }
+  .hero-arrow-glyph {
+    transition: opacity 160ms ease;
+  }
+
+  @media (hover: hover) {
+    .hero-arrow {
+      background-color: transparent;
+      box-shadow: none;
+    }
+    .hero-arrow-bar {
+      opacity: 1;
+    }
+    .hero-arrow-glyph {
+      opacity: 0;
+    }
+    .hero-frame:hover .hero-arrow,
+    .hero-frame:focus-within .hero-arrow {
+      background-color: #fff;
+      box-shadow: inset 0 0 0 1px rgb(43 15 32 / 0.14);
+    }
+    .hero-frame:hover .hero-arrow-bar,
+    .hero-frame:focus-within .hero-arrow-bar {
+      opacity: 0;
+    }
+    .hero-frame:hover .hero-arrow-glyph,
+    .hero-frame:focus-within .hero-arrow-glyph {
+      opacity: 1;
+    }
+  }
+
   /* Horizontal rails scroll by snap; scrollbar hidden but keyboard/trackpad still work. */
   .rail {
     scrollbar-width: none;

@@ -81,7 +81,7 @@ export function HeroCarousel({
           not decoration: a near-white photograph on a white page has no edge of its own, and
           without it the rounded corners read as a rendering fault. */}
       <div
-        className="relative overflow-hidden rounded-tile bg-white ring-1 ring-line lg:aspect-[21/9]"
+        className="hero-frame relative overflow-hidden rounded-tile bg-white ring-1 ring-line lg:aspect-[21/9]"
         role="group"
         aria-roledescription="carousel"
         aria-label="Featured shelves"
@@ -307,17 +307,26 @@ function Slide({
   );
 }
 
+/*
+  One edge arrow. The button is always the full 36/44px target — only what it looks like changes, so
+  the click area, the tab stop and the accessible name never move. `.hero-arrow` in globals.css
+  holds the two appearances and the swap; the bar and the glyph share one grid cell rather than
+  being positioned, which is what keeps them concentric at both sizes.
+*/
 function NavArrow({ direction, onClick }: { direction: "prev" | "next"; onClick: () => void }) {
   return (
     <button
       type="button"
       onClick={onClick}
       aria-label={direction === "next" ? "Next slide" : "Previous slide"}
-      className={`absolute top-1/2 z-10 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-white text-plum-900 ring-1 ring-black/[0.07] shadow-[0_2px_12px_rgba(0,0,0,0.22)] transition hover:bg-paper sm:h-11 sm:w-11 ${
+      className={`hero-arrow absolute top-1/2 z-10 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full text-plum-900 sm:h-11 sm:w-11 ${
         direction === "next" ? "right-2 sm:right-3" : "left-2 sm:left-3"
       }`}
     >
-      <ArrowIcon className={`h-5 w-5 ${direction === "prev" ? "rotate-180" : ""}`} />
+      <span aria-hidden className="hero-arrow-bar col-start-1 row-start-1 h-6 w-[3px] sm:h-7" />
+      <ArrowIcon
+        className={`hero-arrow-glyph col-start-1 row-start-1 h-5 w-5 ${direction === "prev" ? "rotate-180" : ""}`}
+      />
     </button>
   );
 }
