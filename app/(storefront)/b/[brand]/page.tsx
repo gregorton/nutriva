@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { BRANDS, CATEGORY_BY_SLUG, brandBySlug, byBrand } from "@/lib/catalog";
+import { CATEGORY_BY_SLUG, brandBySlug, byBrand } from "@/lib/catalog";
 import { price } from "@/lib/format";
 import type { RawSearchParams } from "@/lib/query";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
@@ -11,15 +11,16 @@ import { ViewBeacon } from "@/components/analytics/view-beacon";
 /*
   One brand, everything it sells.
 
-  Prerendered for all 134 brands, which is what makes this worth having: a brand link used to be
-  `/c/[category]?brand=…`, showing one shelf's slice of a brand that may sit on ten.
+  A brand link used to be `/c/[category]?brand=…`, showing one shelf's slice of a brand that may sit
+  on ten. This is all of it, for all 134 brands.
+
+  Dynamic rather than prerendered, for the same reason `/c/[slug]` is: the filters live in the URL,
+  and a page that reads `searchParams` renders at request time. `generateStaticParams` would be dead
+  weight — an unknown slug is caught by `brandBySlug` returning nothing.
 
   The filter rail suppresses its own brand group here — the page is already one brand — but keeps
   price, availability, rating and format, which are the axes that still narrow anything.
 */
-export function generateStaticParams() {
-  return BRANDS.map((brand) => ({ brand: brand.slug }));
-}
 
 export async function generateMetadata({ params }: PageProps<"/b/[brand]">): Promise<Metadata> {
   const { brand: slug } = await params;

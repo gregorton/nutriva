@@ -30,16 +30,26 @@ function packLabel(product: Product): string | null {
   return `${count} ${match ? match[1] : product.form.toLowerCase()}`;
 }
 
-export function FactsStrip({ product, className = "" }: { product: Product; className?: string }) {
+export function FactsStrip({
+  product,
+  className = "",
+  /** Right-aligned in the row: the compare checkbox, on cards. */
+  action,
+}: {
+  product: Product;
+  className?: string;
+  action?: React.ReactNode;
+}) {
   // The dose is already in the product title, so the strip carries pack size instead. Dose falls
   // back in when pack size is unknown.
   const spec = packLabel(product) ?? product.dose;
 
   return (
     <dl className={`facts flex h-[26px] items-center gap-2 border-t border-line pt-2 ${className}`}>
-      <dd className="truncate" data-num>
+      <dd className="min-w-0 flex-1 truncate" data-num>
         {spec}
       </dd>
+      {action}
     </dl>
   );
 }

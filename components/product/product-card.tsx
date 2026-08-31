@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import type { Product } from "@/lib/catalog";
 import { count, price } from "@/lib/format";
+import { CompareToggle } from "@/components/product/compare-toggle";
 import { FactsStrip } from "@/components/product/facts-strip";
 import { Rating } from "@/components/product/rating";
 import { SaveButton } from "@/components/product/save-button";
@@ -65,7 +66,11 @@ export function ProductCard({ product, priority = false }: { product: Product; p
       </div>
 
       <div className="mt-auto pt-3">
-        <FactsStrip product={product} className="mb-2.5" />
+        <FactsStrip
+          product={product}
+          className="mb-2.5"
+          action={<CompareToggle slug={product.slug} />}
+        />
 
         {/* Wraps rather than overflows: two four-figure baht prices side by side are wider than
             a card in the two-column phone grid. */}

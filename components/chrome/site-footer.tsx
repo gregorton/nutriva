@@ -15,6 +15,7 @@ const COLUMNS = [
       ["Deals", "/deals"],
       ["Best sellers", "/c/vitamins"],
       ["New arrivals", "/new"],
+      ["All brands", "/brands"],
       ["Medical equipment", "/equipment"],
     ],
   },

@@ -6,6 +6,7 @@ import { CategoryNav } from "@/components/chrome/category-nav";
 import { StickyChrome } from "@/components/chrome/sticky-chrome";
 import { SiteFooter } from "@/components/chrome/site-footer";
 import { CartDrawer } from "@/components/cart/cart-drawer";
+import { CompareTray } from "@/components/product/compare-tray";
 
 /*
   The storefront's chrome, in one place.
@@ -36,6 +37,7 @@ export function StorefrontShell({ children }: { children: React.ReactNode }) {
       <main className="flex-1">{children}</main>
       <SiteFooter />
       <CartDrawer />
+      <CompareTray />
     </CartProvider>
   );
 }
