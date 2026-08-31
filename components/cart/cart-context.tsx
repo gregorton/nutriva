@@ -5,8 +5,13 @@ import { getProduct, type Product } from "@/lib/catalog";
 
 type Line = { slug: string; qty: number };
 
+export type CartLine = { product: Product; qty: number };
+
 type CartState = {
-  lines: { product: Product; qty: number }[];
+  /** Lines that can be bought: the product still resolves and is in stock. */
+  lines: CartLine[];
+  /** Lines held over from before a catalogue refresh took the product out of stock. */
+  unavailable: CartLine[];
   itemCount: number;
   subtotal: number;
   isOpen: boolean;
@@ -84,6 +89,11 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
   const [isOpen, setIsOpen] = useState(false);
 
   const add = useCallback((slug: string, qty = 1) => {
+    // Nothing unavailable enters the cart. The buy box and the card both hide their add for these,
+    // so reaching here means a stale page or a direct call — either way the answer is no.
+    const product = getProduct(slug);
+    if (!product?.inStock) return;
+
     const existing = snapshot.find((l) => l.slug === slug);
     write(
       existing
@@ -106,15 +116,21 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   const value = useMemo<CartState>(() => {
-    const lines = raw
+    // A slug the catalogue no longer holds is dropped; one it holds but marks out of stock is kept
+    // and shown, because silently deleting a line somebody chose is worse than explaining it.
+    const resolved = raw
       .map((l) => {
         const product = getProduct(l.slug);
         return product ? { product, qty: l.qty } : null;
       })
-      .filter((l): l is { product: Product; qty: number } => l !== null);
+      .filter((l): l is CartLine => l !== null);
+
+    const lines = resolved.filter((l) => l.product.inStock);
+    const unavailable = resolved.filter((l) => !l.product.inStock);
 
     return {
       lines,
+      unavailable,
       itemCount: lines.reduce((n, l) => n + l.qty, 0),
       subtotal: lines.reduce((sum, l) => sum + l.product.price * l.qty, 0),
       isOpen,

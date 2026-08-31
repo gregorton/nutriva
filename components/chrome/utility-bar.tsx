@@ -1,5 +1,5 @@
 import { ShieldIcon, TruckIcon } from "@/components/ui/icons";
-import { FREE_DELIVERY_THRESHOLD } from "@/lib/format";
+import { FREE_DELIVERY_THRESHOLD, STORAGE_MAX_C } from "@/lib/delivery";
 
 /**
  * Thin utility strip: the three facts a shopper checks before browsing — what delivery costs,
@@ -18,7 +18,7 @@ export function UtilityBar() {
 
         <p className="facts hidden items-center gap-2 text-plum-200 md:flex">
           <ShieldIcon className="h-3.5 w-3.5 text-turmeric-500" />
-          <span>Held below 25°C, shipped sealed</span>
+          <span>Held below {STORAGE_MAX_C}°C, shipped sealed</span>
         </p>
 
         <p className="facts flex items-center gap-3 text-plum-200">

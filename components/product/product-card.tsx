@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import type { Product } from "@/lib/catalog";
 import { count, price } from "@/lib/format";
+import { FactsStrip } from "@/components/product/facts-strip";
 import { Rating } from "@/components/product/rating";
 import { SaveButton } from "@/components/product/save-button";
 import { QuickAdd } from "@/components/cart/quick-add";
@@ -24,7 +25,7 @@ export function ProductCard({ product, priority = false }: { product: Product; p
           fill
           sizes="(max-width: 640px) 45vw, (max-width: 1024px) 30vw, 250px"
           priority={priority}
-          className="object-contain p-2"
+          className={`object-contain p-2 ${product.inStock ? "" : "opacity-55 saturate-50"}`}
         />
         {product.discount && (
           <span className="kicker absolute left-0 top-0 z-10 rounded-br-[7px] bg-plum-800 px-2 py-1 text-turmeric-200">
@@ -35,9 +36,16 @@ export function ProductCard({ product, priority = false }: { product: Product; p
         {/* Opposite corner from the markdown flag, and above the full-card anchor. */}
         <SaveButton slug={product.slug} />
 
-        {/* Sits over the foot of the image, where product photography is empty anyway. */}
+        {/* Sits over the foot of the image, where product photography is empty anyway. Nothing
+            the catalogue marks unavailable offers an add — the cart refuses the slug anyway. */}
         <div className="absolute inset-x-2 bottom-2 z-20">
-          <QuickAdd slug={product.slug} variant="reveal" />
+          {product.inStock ? (
+            <QuickAdd slug={product.slug} variant="reveal" />
+          ) : (
+            <p className="kicker rounded-[7px] bg-white/90 py-1.5 text-center text-muted ring-1 ring-line">
+              Out of stock
+            </p>
+          )}
         </div>
       </div>
 
@@ -57,6 +65,8 @@ export function ProductCard({ product, priority = false }: { product: Product; p
       </div>
 
       <div className="mt-auto pt-3">
+        <FactsStrip product={product} className="mb-2.5" />
+
         {/* Wraps rather than overflows: two four-figure baht prices side by side are wider than
             a card in the two-column phone grid. */}
         <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5">

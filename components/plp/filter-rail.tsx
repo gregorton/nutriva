@@ -3,14 +3,8 @@ import type { Product } from "@/lib/catalog";
 import { brandsIn, formsIn } from "@/lib/catalog";
 import { price } from "@/lib/format";
 import { toggleHref, values, type RawSearchParams } from "@/lib/query";
+import { PRICE_BUCKETS } from "@/lib/listing";
 import { CheckIcon } from "@/components/ui/icons";
-
-export const PRICE_BUCKETS = [
-  { id: "0-400", label: "Under ฿400", min: 0, max: 400 },
-  { id: "400-800", label: "฿400 – ฿800", min: 400, max: 800 },
-  { id: "800-1500", label: "฿800 – ฿1,500", min: 800, max: 1500 },
-  { id: "1500-99999", label: "฿1,500 and up", min: 1500, max: Number.MAX_SAFE_INTEGER },
-];
 
 /**
  * Filter rail built from links rather than form controls: every option is a URL, so
@@ -21,20 +15,25 @@ export function FilterRail({
   raw,
   /** the category's items before filtering, so counts stay stable as options are picked */
   pool,
+  /** A brand page is already one brand, so it suppresses that group. */
+  showBrands = true,
 }: {
   base: string;
   raw: RawSearchParams;
   pool: Product[];
+  showBrands?: boolean;
 }) {
   const selectedBrands = values(raw, "brand");
   const selectedForms = values(raw, "form");
   const selectedPrices = values(raw, "price");
   const onSale = values(raw, "sale").includes("1");
+  const inStockOnly = values(raw, "stock").includes("1");
   const minRating = values(raw, "rating")[0];
 
   const brands = brandsIn(pool).slice(0, 10);
   const forms = formsIn(pool).slice(0, 6);
   const saleCount = pool.filter((p) => p.discount).length;
+  const stockCount = pool.filter((p) => p.inStock).length;
 
   const cheapest = Math.min(...pool.map((p) => p.price));
   const dearest = Math.max(...pool.map((p) => p.price));
@@ -62,8 +61,14 @@ export function FilterRail({
         </ul>
       </Group>
 
-      <Group heading="Offers">
+      <Group heading="Availability">
         <ul className="space-y-1.5">
+          <Option
+            href={toggleHref(base, raw, "stock", "1")}
+            label="In stock only"
+            count={stockCount}
+            checked={inStockOnly}
+          />
           <Option
             href={toggleHref(base, raw, "sale", "1")}
             label="On offer"
@@ -103,6 +108,7 @@ export function FilterRail({
         </Group>
       )}
 
+      {showBrands && (
       <Group heading="Brand">
         <ul className="space-y-1.5">
           {brands.map((brand) => (
@@ -116,6 +122,7 @@ export function FilterRail({
           ))}
         </ul>
       </Group>
+      )}
     </div>
   );
 }

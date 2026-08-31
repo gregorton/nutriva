@@ -2,24 +2,23 @@
 
 import { useRouter } from "next/navigation";
 import { ChevronIcon } from "@/components/ui/icons";
-
-export const SORTS = [
-  { id: "recommended", label: "Recommended" },
-  { id: "price-asc", label: "Price: low to high" },
-  { id: "price-desc", label: "Price: high to low" },
-  { id: "rating", label: "Rating" },
-  { id: "reviews", label: "Most reviewed" },
-  { id: "discount", label: "Biggest discount" },
-] as const;
-
-export type SortId = (typeof SORTS)[number]["id"];
+import { SORTS } from "@/lib/listing";
 
 /**
  * Sort lives in the URL, so this is the one control that has to push a route. "Cost per serving"
  * used to head the list; it was computed from price and serving count rather than stated by any
  * label, and went out with the rest of the per-serving figures.
  */
-export function SortSelect({ base, current }: { base: string; current: string }) {
+export function SortSelect({
+  base,
+  current,
+  /** /search prepends "Best match", which no other listing has. */
+  options = SORTS,
+}: {
+  base: string;
+  current: string;
+  options?: readonly { id: string; label: string }[];
+}) {
   const router = useRouter();
 
   return (
@@ -34,7 +33,7 @@ export function SortSelect({ base, current }: { base: string; current: string })
         }}
         className="h-9 appearance-none rounded-[7px] border border-line-strong bg-white pl-3 pr-8 text-[13.5px] font-medium text-ink focus:border-plum-600 focus:outline-none"
       >
-        {SORTS.map((sort) => (
+        {options.map((sort) => (
           <option key={sort.id} value={sort.id}>
             {sort.label}
           </option>

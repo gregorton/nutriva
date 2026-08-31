@@ -1,8 +1,10 @@
 import Link from "next/link";
 import { CATEGORIES } from "@/lib/catalog";
+import { RETURNS_DAYS, STORAGE_MAX_C } from "@/lib/delivery";
 import { CONTACT } from "@/lib/contact";
 import { Logo } from "@/components/chrome/logo";
-import { ArrowIcon, CheckIcon } from "@/components/ui/icons";
+import { EmailSignup } from "@/components/ui/email-signup";
+import { CheckIcon } from "@/components/ui/icons";
 
 const COLUMNS = [
   {
@@ -11,7 +13,7 @@ const COLUMNS = [
       ["Starter kits", "/starters"],
       ["Deals", "/deals"],
       ["Best sellers", "/c/vitamins"],
-      ["New arrivals", "/c/sports"],
+      ["New arrivals", "/new"],
       ["Medical equipment", "/equipment"],
     ],
   },
@@ -47,7 +49,11 @@ export function SiteFooter() {
               page.
             </p>
             <ul className="mt-4 space-y-1.5">
-              {["Held below 25°C", "Shipped sealed", "60-day returns"].map((claim) => (
+              {[
+                `Held below ${STORAGE_MAX_C}°C`,
+                "Shipped sealed",
+                `${RETURNS_DAYS}-day returns`,
+              ].map((claim) => (
                 <li key={claim} className="facts flex items-center gap-2 text-pandan-700">
                   <CheckIcon className="h-3.5 w-3.5" />
                   {claim}
@@ -110,28 +116,17 @@ export function SiteFooter() {
             </ul>
           </nav>
 
-          <form className="md:w-80">
-            <label htmlFor="newsletter" className="kicker text-muted">
-              Restock reminders
-            </label>
-            <p className="mt-2 text-sm text-muted">One email when your usual runs low, and nothing else.</p>
-            <div className="mt-3 flex gap-2">
-              <input
-                id="newsletter"
-                type="email"
-                required
-                placeholder="you@email.com"
-                className="h-10 min-w-0 flex-1 rounded-[7px] border border-line-strong bg-white px-3 text-sm placeholder:text-faint focus:border-plum-600 focus:outline-none"
-              />
-              <button
-                type="submit"
-                className="flex h-10 items-center gap-1.5 rounded-[7px] bg-plum-800 px-4 text-sm font-semibold text-white transition-colors hover:bg-plum-700"
-              >
-                Sign up
-                <ArrowIcon className="h-4 w-4" />
-              </button>
+          {/* Posts to app/actions/subscribe.ts. Nothing here promises mail the site cannot send:
+              the confirmation says the request was recorded. */}
+          <div className="md:w-80">
+            <h2 className="kicker text-muted">Restock reminders</h2>
+            <p className="mt-2 text-sm text-muted">
+              Tell us your address and we will get in touch when something you asked about is back.
+            </p>
+            <div className="mt-3">
+              <EmailSignup source="footer" />
             </div>
-          </form>
+          </div>
         </div>
       </div>
 

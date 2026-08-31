@@ -16,7 +16,8 @@ import { isConfigured, query } from "@/lib/db";
  * rather than written into the SQL text, which keeps this module's statements parameterised in
  * the way lib/db.ts requires and puts the zone in exactly one place.
  */
-export const BANGKOK = "Asia/Bangkok";
+export { BANGKOK } from "@/lib/delivery";
+import { BANGKOK } from "@/lib/delivery";
 
 /** One row per product per Bangkok day. The slug is validated by the caller against the catalogue. */
 export async function recordProductView(slug: string): Promise<void> {

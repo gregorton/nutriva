@@ -1,5 +1,3 @@
-export const FREE_DELIVERY_THRESHOLD = 1200;
-
 const baht = new Intl.NumberFormat("en-US", {
   minimumFractionDigits: 2,
   maximumFractionDigits: 2,
