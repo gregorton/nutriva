@@ -1,0 +1,641 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Slim Wellness Asia — 555/20 On-Nuch Rd · office concept map</title>
+<style>
+:root{
+  --plum-900:#2b0f20; --plum-800:#3b1430; --plum-700:#4d1a3f; --plum-200:#d9c6d2;
+  --turmeric:#d08a0e; --turmeric-soft:#f0d9a8;
+  --paper:#fbf9f5; --paper-warm:#f4efe6; --line:#e6ded2; --line-strong:#cfc3b4;
+  --ink:#241a20; --muted:#6f6169; --pandan:#1e5b41; --clinic:#1b5ca7; --water:#a8c8e4;
+  /* camera */
+  --rx:56deg; --rz:-30deg; --zoom:.62; --px:0px; --py:0px;
+  /* our plot on the neighbourhood plate, in px from its centre */
+  --ox:56px; --oy:-94px;
+  --ease:cubic-bezier(.22,.68,.16,1);
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0; overflow:hidden; color:var(--ink);
+  font:400 14px/1.45 Inter,ui-sans-serif,system-ui,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+  background:
+    radial-gradient(120% 90% at 50% 0%,#fffdf9 0%,var(--paper) 42%,var(--paper-warm) 100%);
+}
+button{font:inherit;color:inherit}
+
+/* ---------- stage & camera ---------- */
+#stage{position:fixed;inset:0;perspective:1900px;perspective-origin:50% 44%;cursor:grab;touch-action:none}
+#stage.dragging{cursor:grabbing}
+#world{
+  position:absolute;left:50%;top:56%;width:0;height:0;
+  transform-style:preserve-3d;
+  transform:translate3d(var(--px),var(--py),0) scale(var(--zoom)) rotateX(var(--rx)) rotateZ(var(--rz));
+  transition:transform 1s var(--ease);
+}
+#stage.dragging #world{transition:none}
+#stage.dragging .mk,#stage.dragging .ftag,#stage.dragging .plate{transition:none}
+
+/* every 3d layer is centred on the world origin */
+.layer{position:absolute;transform-style:preserve-3d;translate:-50% -50%}
+
+/* ---------- neighbourhood plate ---------- */
+#hood{
+  width:1000px;height:711px;
+  transform:translateZ(0);
+  transition:opacity .7s var(--ease),transform 1s var(--ease);
+}
+#hood svg{display:block;width:100%;height:100%;overflow:visible}
+body[data-mode="plan"] #hood{opacity:.1;transform:translateZ(-40px)}
+.hood-fill{fill:#efe8dd}
+.hood-block{fill:#e7ded1;stroke:#d8ccbb;stroke-width:.6}
+.hood-road{fill:#fdfbf7;stroke:var(--line-strong);stroke-width:.7}
+.hood-water{fill:var(--water);opacity:.55}
+.hood-label{font:600 2.6px/1 Inter,sans-serif;fill:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.hood-road-label{font:600 2.4px/1 Inter,sans-serif;fill:#8d7f88;letter-spacing:.18em;text-transform:uppercase}
+.hood-poi{font:500 2.2px/1 Inter,sans-serif;fill:#9a8b95}
+#plot{fill:var(--turmeric);opacity:.22;stroke:var(--turmeric);stroke-width:1.2}
+#plot-ring{fill:none;stroke:var(--turmeric);stroke-width:1;opacity:.9;
+  animation:ping 2.8s var(--ease) infinite}
+@keyframes ping{0%{r:14;opacity:.9}70%,100%{r:46;opacity:0}}
+.traffic{fill:var(--plum-700);opacity:.35;offset-path:path("M -6 76 L 186 50");
+  animation:drive 9s linear infinite}
+.traffic:nth-of-type(2){animation-duration:13s;animation-delay:-4s;opacity:.22}
+.traffic:nth-of-type(3){animation-duration:16s;animation-delay:-9s;opacity:.16}
+@keyframes drive{to{offset-distance:100%}}
+.rd-under{fill:none;stroke:var(--line-strong);stroke-linecap:round}
+.rd{fill:none;stroke:#fdfbf7;stroke-linecap:round}
+.klong{fill:none;stroke:var(--water);stroke-width:5;opacity:.6;stroke-linecap:round}
+
+/* dashed leader from plot up to the stack */
+#leader{width:2px;height:300px;translate:0 0;transform-origin:50% 100%;
+  transform:translate(var(--ox),var(--oy)) rotateX(-90deg);
+  background:repeating-linear-gradient(to top,var(--turmeric) 0 6px,transparent 6px 13px);
+  opacity:.5;animation:rise 1.2s var(--ease) both .45s;
+  transition:opacity .7s var(--ease)}
+@keyframes rise{from{scale:1 0;opacity:0}}
+body[data-mode="plan"] #leader{opacity:0}
+
+/* ---------- building floor plates ---------- */
+.plate{
+  translate:calc(-50% + var(--ox)) calc(-50% + var(--oy));
+  transform:translateZ(calc(var(--z) * 1px));
+  transition:transform 1s var(--ease),opacity .7s var(--ease),filter .7s var(--ease);
+  animation:drop 1s var(--ease) both;
+}
+@keyframes drop{from{opacity:0;transform:translateZ(calc((var(--z) + 220) * 1px))}}
+.plate.dim{opacity:.16;filter:saturate(.2);pointer-events:none}
+body[data-mode="plan"] .plate{translate:-50% -50%}   /* centre the flat plan */
+.plate svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+/* slab edge — one solid copy sitting just under the plan */
+.slab{position:absolute;inset:0;background:var(--plum-200);opacity:.75;
+  transform:translateZ(-13px);border-radius:2px;
+  box-shadow:0 0 0 1px var(--plum-700) inset}
+.plan-fill{fill:var(--paper);stroke:var(--plum-800);stroke-width:.55}
+.room{fill:#fefdfb;stroke:var(--plum-800);stroke-width:.4;cursor:pointer;
+  transition:fill .35s var(--ease),stroke-width .2s}
+.room:hover{fill:var(--turmeric-soft)}
+.room.key{fill:#fdf3e0}
+.room.on{fill:var(--turmeric-soft);stroke-width:.75}
+.rlabel{font:600 2.6px/1 Inter,sans-serif;fill:var(--plum-700);letter-spacing:.09em;
+  text-transform:uppercase;pointer-events:none;user-select:none}
+.rsub{font:400 2.1px/1 Inter,sans-serif;fill:var(--muted);pointer-events:none}
+.hatch{pointer-events:none}
+.wall{fill:none;stroke:var(--plum-900);stroke-width:1.1;pointer-events:none}
+.door{stroke:var(--paper);stroke-width:1.3}
+.stairs{stroke:var(--plum-700);stroke-width:.28;pointer-events:none}
+
+/* ---------- dot markers (html overlay, billboarded) ---------- */
+.markers{position:absolute;inset:0;transform-style:preserve-3d}
+.mk{
+  position:absolute;transform-style:preserve-3d;
+  translate:0 -50%;margin-left:-7px;transform-origin:7px 50%;
+  transform:rotateZ(calc(-1 * var(--rz))) rotateX(calc(-1 * var(--rx)))
+            translateZ(18px) scale(calc(1 / var(--zoom)));
+  transition:transform 1s var(--ease);
+  display:flex;align-items:center;gap:7px;
+  background:none;border:0;padding:0;cursor:pointer;white-space:nowrap;
+  animation:pop .5s var(--ease) both;
+  animation-delay:calc(var(--i) * 70ms + 700ms);
+}
+@keyframes pop{from{opacity:0;scale:.4}to{opacity:1;scale:1}}
+.mk .dot{
+  position:relative;flex:0 0 auto;width:14px;height:14px;border-radius:50%;
+  background:var(--turmeric);box-shadow:0 0 0 3px #fff,0 3px 8px rgb(43 15 32/.35);
+  transition:background .25s,scale .25s var(--ease)}
+.mk.key .dot{background:var(--plum-800);width:16px;height:16px}
+.mk .dot::after{content:"";position:absolute;inset:-3px;border-radius:50%;
+  border:1.5px solid var(--turmeric);opacity:0}
+.mk.key .dot::after{border-color:var(--plum-700);opacity:.9;
+  animation:halo 2.4s var(--ease) infinite}
+@keyframes halo{0%{scale:1;opacity:.85}70%,100%{scale:2.6;opacity:0}}
+.mk .chip{
+  font:600 11px/1 Inter,sans-serif;letter-spacing:.04em;
+  background:rgb(255 255 255/.94);border:1px solid var(--line);
+  padding:5px 8px;border-radius:5px;color:var(--plum-900);
+  box-shadow:0 2px 7px rgb(43 15 32/.12);
+  transition:background .25s,color .25s,scale .25s var(--ease);transform-origin:left center}
+.mk:hover .dot,.mk:focus-visible .dot{scale:1.3}
+.mk:hover .chip,.mk:focus-visible .chip{background:var(--plum-900);color:#fff;border-color:var(--plum-900)}
+.mk.on .dot{background:var(--plum-900);scale:1.35}
+.mk.on .chip{background:var(--plum-900);color:#fff;border-color:var(--plum-900)}
+.mk:focus-visible{outline:none}
+.mk:focus-visible .chip{box-shadow:0 0 0 3px var(--turmeric-soft)}
+
+/* floor tag riding the corner of each plate */
+.ftag{position:absolute;left:-2px;top:-2px;
+  transform:rotateZ(calc(-1 * var(--rz))) rotateX(calc(-1 * var(--rx))) translateZ(6px);
+  transform-origin:0 100%;translate:0 -100%;
+  font:700 10px/1 Inter,sans-serif;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--plum-700);background:rgb(255 255 255/.8);border:1px solid var(--line);
+  padding:4px 7px;border-radius:4px;pointer-events:none;transition:transform 1s var(--ease)}
+
+/* ---------- ui chrome ---------- */
+.ui{position:fixed;z-index:5}
+#top{top:0;left:0;right:0;display:flex;gap:14px;align-items:flex-start;
+  justify-content:space-between;padding:16px 18px;pointer-events:none;flex-wrap:wrap}
+#top>*{pointer-events:auto}
+#brand{background:rgb(255 255 255/.82);backdrop-filter:blur(8px);
+  border:1px solid var(--line);border-radius:9px;padding:11px 14px;
+  box-shadow:0 6px 20px rgb(43 15 32/.07);animation:slide .7s var(--ease) both}
+@keyframes slide{from{opacity:0;translate:0 -14px}}
+#brand h1{margin:0;font:700 13px/1.2 Inter,sans-serif;letter-spacing:-.01em}
+#brand p{margin:3px 0 0;font-size:11.5px;color:var(--muted)}
+#brand a{color:var(--plum-700)}
+#brand code{font:500 11px/1 ui-monospace,monospace;color:var(--muted)}
+.tools{display:flex;gap:8px;flex-wrap:wrap;animation:slide .7s var(--ease) both .1s}
+.seg{display:flex;background:rgb(255 255 255/.85);backdrop-filter:blur(8px);
+  border:1px solid var(--line);border-radius:8px;padding:3px;gap:2px;
+  box-shadow:0 6px 20px rgb(43 15 32/.07)}
+.seg button{border:0;background:none;padding:7px 11px;border-radius:6px;cursor:pointer;
+  font:600 11.5px/1 Inter,sans-serif;letter-spacing:.02em;color:var(--muted);
+  transition:background .25s,color .25s}
+.seg button:hover{color:var(--plum-900);background:var(--paper-warm)}
+.seg button[aria-pressed=true]{background:var(--plum-900);color:#fff}
+.seg button:focus-visible{outline:2px solid var(--turmeric);outline-offset:1px}
+#tour{border:1px solid var(--plum-900);background:var(--plum-900);color:#fff;
+  border-radius:8px;padding:10px 14px;cursor:pointer;font:600 11.5px/1 Inter,sans-serif;
+  letter-spacing:.02em;box-shadow:0 6px 20px rgb(43 15 32/.16);
+  display:flex;align-items:center;gap:8px;transition:filter .25s}
+#tour:hover{filter:brightness(1.25)}
+#tour:focus-visible{outline:2px solid var(--turmeric);outline-offset:2px}
+#tour b{width:5px;height:5px;border-radius:50%;background:var(--turmeric)}
+#tour[data-on=true] b{animation:halo 1.2s linear infinite}
+#bar{position:fixed;left:0;top:0;height:2px;width:0;background:var(--turmeric);z-index:9;
+  transition:width .6s linear;opacity:0}
+#bar.on{opacity:1}
+
+/* right-hand info card */
+#info{right:18px;top:96px;width:288px;
+  background:rgb(255 255 255/.93);backdrop-filter:blur(10px);
+  border:1px solid var(--line);border-radius:10px;overflow:hidden;
+  box-shadow:0 14px 40px rgb(43 15 32/.12);
+  opacity:0;translate:18px 0;pointer-events:none;
+  transition:opacity .45s var(--ease),translate .45s var(--ease)}
+#info.on{opacity:1;translate:0 0;pointer-events:auto}
+#info header{padding:14px 15px 12px;border-bottom:1px solid var(--line);
+  background:linear-gradient(var(--paper),#fff)}
+#info .kick{font:700 9.5px/1 Inter,sans-serif;letter-spacing:.19em;text-transform:uppercase;
+  color:var(--turmeric)}
+#info h2{margin:7px 0 0;font:600 16.5px/1.2 Inter,sans-serif;letter-spacing:-.01em}
+#info .sub{margin:5px 0 0;font-size:12px;color:var(--muted)}
+#info dl{margin:0;padding:12px 15px 14px;display:grid;grid-template-columns:auto 1fr;
+  gap:7px 12px;font-size:12px}
+#info dt{color:var(--muted)}
+#info dd{margin:0;font-variant-numeric:tabular-nums;font-weight:500;text-align:right}
+#info footer{padding:10px 15px;border-top:1px solid var(--line);background:var(--paper);
+  font-size:11px;color:var(--muted);display:flex;justify-content:space-between;gap:10px}
+#info footer button{border:0;background:none;padding:0;cursor:pointer;color:var(--plum-700);
+  font-weight:600;font-size:11px}
+
+/* bottom-left legend + coord table */
+#sheet{left:18px;bottom:18px;width:330px;max-height:52vh;overflow:auto;
+  background:rgb(255 255 255/.9);backdrop-filter:blur(10px);
+  border:1px solid var(--line);border-radius:10px;
+  box-shadow:0 14px 40px rgb(43 15 32/.1);animation:slide .7s var(--ease) both .2s}
+#sheet>summary{padding:11px 14px;cursor:pointer;font:600 11.5px/1 Inter,sans-serif;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--plum-700);list-style:none;
+  display:flex;justify-content:space-between;align-items:center}
+#sheet>summary::-webkit-details-marker{display:none}
+#sheet>summary::after{content:"▾";transition:rotate .3s var(--ease)}
+#sheet[open]>summary::after{rotate:180deg}
+table{width:100%;border-collapse:collapse;font-size:11.5px}
+caption{text-align:left;padding:9px 14px 5px;font:700 9.5px/1 Inter,sans-serif;
+  letter-spacing:.17em;text-transform:uppercase;color:var(--muted)}
+th,td{padding:5px 8px;text-align:right;border-top:1px solid var(--line)}
+th:first-child,td:first-child{text-align:left;padding-left:14px}
+td:last-child,th:last-child{padding-right:14px}
+thead th{font:600 9.5px/1 Inter,sans-serif;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--muted);border-top:0}
+tbody tr{cursor:pointer;transition:background .2s}
+tbody tr:hover,tbody tr.on{background:var(--turmeric-soft)}
+td b{font-weight:600}
+td small{color:var(--muted);font-weight:400}
+#hint{right:18px;bottom:18px;font-size:11px;color:var(--muted);text-align:right;
+  pointer-events:none;animation:slide .7s var(--ease) both .3s}
+#hint kbd{font:500 10px/1 ui-monospace,monospace;background:#fff;border:1px solid var(--line);
+  border-bottom-width:2px;border-radius:4px;padding:2px 5px;color:var(--ink)}
+@media (max-width:1080px){
+  #info{width:250px;top:auto;bottom:18px}
+  #sheet{width:250px;max-height:38vh}
+  #hint{display:none}
+  #brand p{display:none}
+  #top{padding:12px}
+}
+@media (max-width:620px){
+  #sheet{left:12px;right:12px;width:auto;bottom:12px}
+  #info{left:12px;right:12px;width:auto;top:auto;bottom:calc(38vh + 26px)}
+}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;
+  animation-iteration-count:1!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body data-mode="model" data-floor="all">
+<div id="bar"></div>
+
+<div id="stage">
+ <div id="world">
+
+  <div class="layer" id="hood">
+   <svg viewBox="0 0 180 128" aria-label="Schematic neighbourhood: On Nut Road, Prawet, Bangkok">
+    <defs>
+     <g id="main"><path d="M-6 76 L186 50"/><path d="M40 -6 L48 134"/></g>
+     <g id="sois">
+      <path d="M96 61 L100 -6"/><path d="M130 56 L134 -6"/><path d="M156 52 L160 -6"/>
+      <path d="M66 71 L62 134"/><path d="M112 66 L108 134"/><path d="M146 61 L142 134"/>
+     </g>
+    </defs>
+
+    <rect x="0" y="0" width="180" height="128" rx="3" class="hood-fill"/>
+
+    <!-- blocks -->
+    <g class="hood-block">
+     <rect x="50" y="14" width="42" height="42" rx="1"/>
+     <rect x="104" y="10" width="22" height="46" rx="1"/>
+     <rect x="138" y="8" width="14" height="44" rx="1"/>
+     <rect x="164" y="6" width="14" height="42" rx="1"/>
+     <rect x="6" y="18" width="26" height="50" rx="1"/>
+     <rect x="6" y="84" width="48" height="34" rx="1"/>
+     <rect x="72" y="80" width="30" height="16" rx="1"/>
+     <rect x="118" y="74" width="18" height="20" rx="1"/>
+     <rect x="150" y="70" width="24" height="22" rx="1"/>
+    </g>
+
+    <!-- klong prawet burirom -->
+    <path class="klong" d="M-6 108 C40 104 92 100 186 88"/>
+
+    <!-- roads: dark casing then pale carriageway -->
+    <use href="#sois" class="rd-under" stroke-width="5.4"/>
+    <use href="#sois" class="rd" stroke-width="4"/>
+    <use href="#main" class="rd-under" stroke-width="10.6"/>
+    <use href="#main" class="rd" stroke-width="9"/>
+    <circle class="traffic" r="1.5"/><circle class="traffic" r="1.5"/><circle class="traffic" r="1.5"/>
+
+    <!-- our plot -->
+    <g transform="rotate(-7.72 100 50)">
+     <rect id="plot" x="93" y="41.5" width="14" height="11.5" rx="1"/>
+    </g>
+    <circle id="plot-ring" cx="100" cy="47" r="14"/>
+
+    <text class="hood-road-label" x="12" y="70" transform="rotate(-7.72 12 70)">ON NUT ROAD</text>
+    <text class="hood-road-label" x="120" y="55.5" transform="rotate(-7.72 120 55.5)">ถนนอ่อนนุช · 10250</text>
+    <text class="hood-road-label" x="44" y="122" transform="rotate(88 44 122)">SRINAKARIN RD</text>
+    <text class="hood-poi" x="60" y="115">Khlong Prawet Burirom</text>
+    <text class="hood-poi" x="55" y="36">Prawet District Office</text>
+    <text class="hood-poi" x="74" y="90">fresh market</text>
+    <text class="hood-poi" x="106" y="30">Soi On Nut 46</text>
+    <text class="hood-poi" x="140" y="26">Soi On Nut 62</text>
+    <text class="hood-label" x="6" y="10">← On Nut BTS · Sukhumvit 77</text>
+    <text class="hood-label" x="174" y="122" text-anchor="end">Seacon Square →</text>
+    <g class="hood-label"><text x="166" y="14">N</text>
+     <path d="M168.6 15.5 L168.6 24 M166.6 17.6 L168.6 15.5 L170.6 17.6"
+       fill="none" stroke="#9a8b95" stroke-width=".7"/></g>
+   </svg>
+  </div>
+
+  <div class="layer" id="leader"><i></i></div>
+ </div>
+</div>
+<div class="ui" id="top">
+ <div id="brand">
+  <h1>Slim Wellness Asia · office complex</h1>
+  <p>555/20 On-Nuch Rd, Prawet, Bangkok 10250, Thailand<br>
+   <code>≈ 13.7163° N, 100.6536° E</code> ·
+   <a href="https://www.google.com/maps/search/?api=1&amp;query=555%2F20%20On-Nuch%20Rd%2C%20Prawet%2C%20Bangkok%2010250%2C%20Thailand"
+      target="_blank" rel="noopener">Google Maps ↗</a></p>
+ </div>
+ <div class="tools">
+  <div class="seg" role="group" aria-label="View">
+   <button data-mode="model" aria-pressed="true">3D model</button>
+   <button data-mode="plan" aria-pressed="false">2D plan</button>
+  </div>
+  <div class="seg" role="group" aria-label="Floor">
+   <button data-floor="all" aria-pressed="true">Both</button>
+   <button data-floor="1" aria-pressed="false">Floor 1</button>
+   <button data-floor="2" aria-pressed="false">Floor 2</button>
+  </div>
+  <div class="seg" role="group" aria-label="Camera">
+   <button id="explode" aria-pressed="false">Explode</button>
+   <button id="reset" aria-pressed="false">Reset</button>
+  </div>
+  <button id="tour" data-on="false" aria-live="polite"><b></b><span>Guided tour</span></button>
+ </div>
+</div>
+
+<div class="ui" id="info" role="region" aria-label="Selected room">
+ <header>
+  <div class="kick" id="i-floor">Floor 1</div>
+  <h2 id="i-name">—</h2>
+  <p class="sub" id="i-sub"></p>
+ </header>
+ <dl>
+  <dt>Marker x, y</dt><dd id="i-xy">—</dd>
+  <dt>Marker (% of plate)</dt><dd id="i-pct">—</dd>
+  <dt>Room extent</dt><dd id="i-ext">—</dd>
+  <dt>Floor area share</dt><dd id="i-area">—</dd>
+ </dl>
+ <footer><span id="i-idx"></span><button id="i-close">Close</button></footer>
+</div>
+
+<details class="ui" id="sheet" open>
+ <summary>Rooms &amp; marker coordinates</summary>
+ <div id="tables"></div>
+</details>
+
+<div class="ui" id="hint">
+ drag to orbit · <kbd>shift</kbd>+drag or right-drag to pan · scroll to zoom<br>
+ <kbd>1</kbd> <kbd>2</kbd> floors · <kbd>P</kbd> plan · <kbd>T</kbd> tour · <kbd>Esc</kbd> close
+</div>
+<script>
+/* Unit space for both floors: 100 wide (street frontage) x 72 deep.
+   Every dot marker is the centre of its room rect — one source of numbers,
+   so the plan, the dots and the coordinate table cannot drift apart. */
+const B={w:100,d:72}, PX=6.4, GAP=140, EXPLODE=270, LIFT=250;
+const ROOMS=[
+ {f:1,id:"welcome", label:"Welcoming Room",  sub:"Reception & waiting",   x:58,y:34,w:42,h:38,key:1},
+ {f:1,id:"lobby",   label:"Entrance Lobby",  sub:"Street door, On Nut Rd",x:36,y:55,w:22,h:17,door:1},
+ {f:1,id:"stairs1", label:"Stair Core",      sub:"Up to Floor 2",         x:36,y:34,w:22,h:21,st:1},
+ {f:1,id:"dispatch",label:"Dispatch & Packing",sub:"Picking, 15:00 cutoff",x:0,y:34,w:36,h:38},
+ {f:1,id:"stock",   label:"Stock Room",      sub:"Sealed cases, best-by rotation",x:0,y:0,w:58,h:34,pat:1},
+ {f:1,id:"goods",   label:"Goods In",        sub:"Rear loading door",     x:58,y:0,w:42,h:34,pat:1},
+ {f:2,id:"office",  label:"Office",          sub:"Buying, support, admin",x:58,y:30,w:42,h:42,key:1},
+ {f:2,id:"meeting", label:"Meeting Room",    sub:"Supplier & courier calls",x:0,y:30,w:36,h:42,key:1},
+ {f:2,id:"landing", label:"Stair Landing",   sub:"Down to Floor 1",       x:36,y:30,w:22,h:25,st:1},
+ {f:2,id:"balcony", label:"Balcony",         sub:"Over the entrance",     x:36,y:55,w:22,h:17,door:1},
+ {f:2,id:"break",   label:"Break Room",      sub:"Kitchen & lockers",     x:0,y:0,w:40,h:30},
+ {f:2,id:"records", label:"Storage & Records",sub:"Invoices, COAs, spares",x:40,y:0,w:60,h:30,pat:1},
+];
+const cx=r=>r.x+r.w/2, cy=r=>r.y+r.h/2;
+const pct=r=>[+(cx(r)/B.w*100).toFixed(1),+(cy(r)/B.d*100).toFixed(1)];
+const FLOORS=[1,2];
+
+/* --- self-check: the geometry is the one thing that breaks silently --- */
+(function check(){
+  const bad=[];
+  for(const f of FLOORS){
+    const rs=ROOMS.filter(r=>r.f===f);
+    const area=rs.reduce((s,r)=>s+r.w*r.h,0);
+    if(area!==B.w*B.d) bad.push(`floor ${f} tiles ${area} of ${B.w*B.d} units`);
+    for(const r of rs){
+      if(r.x<0||r.y<0||r.x+r.w>B.w||r.y+r.h>B.d) bad.push(`${r.id} outside footprint`);
+      const[px,py]=pct(r);
+      if(px<0||px>100||py<0||py>100) bad.push(`${r.id} marker off plate`);
+    }
+    for(let i=0;i<rs.length;i++)for(let j=i+1;j<rs.length;j++){
+      const a=rs[i],b=rs[j];
+      if(a.x<b.x+b.w&&b.x<a.x+a.w&&a.y<b.y+b.h&&b.y<a.y+a.h) bad.push(`${a.id} overlaps ${b.id}`);
+    }
+  }
+  if(new Set(ROOMS.map(r=>r.id)).size!==ROOMS.length) bad.push("duplicate room id");
+  if(bad.length){console.error("FLOOR PLAN CHECK FAILED:",bad);throw new Error(bad[0]);}
+  console.log(`floor plan check PASS — ${ROOMS.length} rooms, ${FLOORS.length} floors, no gaps or overlaps`);
+})();
+</script>
+<script>
+const world=document.getElementById("world"), body=document.body;
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;");
+
+function treads(r){                     // stair treads, drawn from the room's own bounds
+  let d="";
+  for(let i=1;i<8;i++){const y=r.y+3+ (r.h-6)*i/8; d+=`M${r.x+3.5} ${y}H${r.x+r.w-3.5}`;}
+  return `<path class="stairs" d="${d}"/>`+
+    `<path class="stairs" d="M${r.x+3.5} ${r.y+3}V${r.y+r.h-3}M${r.x+r.w-3.5} ${r.y+3}V${r.y+r.h-3}"/>`;
+}
+
+function plateHTML(f){
+  const rs=ROOMS.filter(r=>r.f===f);
+  const rooms=rs.map(r=>
+    `<rect class="room${r.key?" key":""}" data-room="${r.id}" x="${r.x}" y="${r.y}" `+
+    `width="${r.w}" height="${r.h}" rx=".6"><title>${esc(r.label)}</title></rect>`).join("");
+  const pats=rs.filter(r=>r.pat).map(r=>
+    `<rect class="hatch" x="${r.x}" y="${r.y}" width="${r.w}" height="${r.h}"/>`).join("");
+  const text=rs.map(r=>
+    `<text class="rlabel" x="${r.x+2.6}" y="${r.y+4.8}">${esc(r.label)}</text>`+
+    `<text class="rsub" x="${r.x+2.6}" y="${r.y+7.9}">${esc(r.sub)}</text>`).join("");
+  const st=rs.filter(r=>r.st).map(treads).join("");
+  const door=rs.filter(r=>r.door).map(r=>
+    `<line class="door" x1="${r.x+6}" y1="${B.d}" x2="${r.x+r.w-6}" y2="${B.d}"/>`).join("");
+  const mk=rs.map((r,i)=>{
+    const[px,py]=pct(r);
+    return `<button class="mk${r.key?" key":""}" data-room="${r.id}" style="--i:${i};`+
+      `left:${px}%;top:${py}%"><span class="dot"></span>`+
+      `<span class="chip">${esc(r.label)}</span></button>`;
+  }).join("");
+  return `<div class="slab"></div>
+    <svg viewBox="0 0 ${B.w} ${B.d}" aria-label="Floor ${f} plan">
+      <defs><pattern id="hatch${f}" width="3" height="3" patternUnits="userSpaceOnUse">
+        <circle cx="1.5" cy="1.5" r=".3" fill="#cfc3b4"/></pattern></defs>
+      <rect class="plan-fill" x="0" y="0" width="${B.w}" height="${B.d}" rx=".8"/>
+      ${rooms}<g style="fill:url(#hatch${f})">${pats}</g>${st}${text}
+      <rect class="wall" x="0" y="0" width="${B.w}" height="${B.d}" rx=".8"/>${door}
+    </svg>
+    <div class="markers">${mk}</div>
+    <div class="ftag">Floor ${f}</div>`;
+}
+
+const plates={};
+for(const f of FLOORS){
+  const el=document.createElement("div");
+  el.className="layer plate"; el.dataset.floor=f;
+  el.style.width=B.w*PX+"px"; el.style.height=B.d*PX+"px";
+  el.style.setProperty("--z",(f-1)*GAP+LIFT);
+  el.style.animationDelay=(f-1)*180+120+"ms";
+  el.innerHTML=plateHTML(f);
+  world.appendChild(el); plates[f]=el;
+}
+</script>
+<script>
+/* ---------- camera ---------- */
+/* the whole composition (neighbourhood plate + the lifted stack) is about
+   1240 x 850 screen px at rest, so the resting zoom is a fit, not a constant. */
+const fitZoom=()=>Math.min(.95,Math.max(.26,Math.min(
+  (innerWidth-(innerWidth>1080?400:56))/1240,(innerHeight-140)/960)));
+const HOME={rx:56,rz:-30,zoom:fitZoom(),px:0,py:0};
+const cam={...HOME};
+function apply(){
+  const s=world.style;
+  s.setProperty("--rx",cam.rx+"deg"); s.setProperty("--rz",cam.rz+"deg");
+  s.setProperty("--zoom",cam.zoom);
+  s.setProperty("--px",cam.px+"px"); s.setProperty("--py",cam.py+"px");
+}
+function moveTo(o){Object.assign(cam,o);apply();}
+apply();
+
+const stage=document.getElementById("stage");
+let drag=null;
+stage.addEventListener("pointerdown",e=>{
+  if(e.target.closest("button,a,summary,tr")) return;
+  drag={x:e.clientX,y:e.clientY,...cam,pan:e.shiftKey||e.button===2};
+  stage.classList.add("dragging"); stage.setPointerCapture(e.pointerId);
+});
+stage.addEventListener("pointermove",e=>{
+  if(!drag) return;
+  const dx=e.clientX-drag.x, dy=e.clientY-drag.y;
+  if(drag.pan){cam.px=drag.px+dx;cam.py=drag.py+dy;}
+  else{cam.rz=drag.rz-dx*.35; cam.rx=Math.min(88,Math.max(0,drag.rx-dy*.3));}
+  apply();
+});
+const endDrag=()=>{drag=null;stage.classList.remove("dragging")};
+stage.addEventListener("pointerup",endDrag);
+stage.addEventListener("pointercancel",endDrag);
+stage.addEventListener("contextmenu",e=>e.preventDefault());
+stage.addEventListener("wheel",e=>{
+  e.preventDefault();
+  cam.zoom=Math.min(1.8,Math.max(.22,cam.zoom*(e.deltaY>0?.9:1.11))); apply();
+},{passive:false});
+
+/* ---------- view state ---------- */
+function setMode(m){
+  body.dataset.mode=m;
+  for(const b of document.querySelectorAll("[data-mode]"))
+    b.setAttribute("aria-pressed",String(b.dataset.mode===m));
+  moveTo(m==="plan"?{rx:0,rz:0,zoom:HOME.zoom*1.35,px:0,py:0}:{...HOME,zoom:cam.zoom});
+  layout();
+}
+let exploded=false;
+function layout(){
+  const f=body.dataset.floor, plan=body.dataset.mode==="plan", gap=exploded?EXPLODE:GAP;
+  for(const n of FLOORS){
+    const p=plates[n];
+    // flat plan: floor 2 on top, floor 1 ghosted underneath as a tracing sheet
+    const ghost = f==="all" ? (plan&&n===1) : f!==String(n);
+    p.style.setProperty("--z",plan?(n-1)*2:(n-1)*gap+LIFT);
+    p.classList.toggle("dim",ghost);
+    p.style.zIndex=ghost?0:n;
+  }
+}
+</script>
+<script>
+/* ---------- selection ---------- */
+const info=document.getElementById("info"), $=id=>document.getElementById(id);
+let sel=null;
+function select(id){
+  sel=id;
+  for(const el of document.querySelectorAll("[data-room]"))
+    el.classList.toggle("on",el.dataset.room===id);
+  if(!id){info.classList.remove("on");return;}
+  const r=ROOMS.find(x=>x.id===id), [px,py]=pct(r);
+  $("i-floor").textContent=`Floor ${r.f}`+(r.key?" · key area":"");
+  $("i-name").textContent=r.label;
+  $("i-sub").textContent=r.sub;
+  $("i-xy").textContent=`${cx(r)}, ${cy(r)} of ${B.w}×${B.d}`;
+  $("i-pct").textContent=`${px}% , ${py}%`;
+  $("i-ext").textContent=`${r.x},${r.y} → ${r.x+r.w},${r.y+r.h}`;
+  $("i-area").textContent=`${Math.round(r.w*r.h/(B.w*B.d)*100)}%`;
+  const list=ROOMS.filter(x=>x.f===r.f);
+  $("i-idx").textContent=`${list.indexOf(r)+1} of ${list.length} on this floor`;
+  info.classList.add("on");
+  if(body.dataset.floor!=="all"&&body.dataset.floor!==String(r.f)) setFloor(String(r.f));
+}
+document.addEventListener("click",e=>{
+  const t=e.target.closest("[data-room]");
+  if(t) select(t.dataset.room===sel?null:t.dataset.room);
+});
+$("i-close").onclick=()=>select(null);
+
+/* ---------- coordinate tables (same array as the dots) ---------- */
+$("tables").innerHTML=FLOORS.map(f=>`<table>
+  <caption>Floor ${f}</caption>
+  <thead><tr><th>Room</th><th>x, y</th><th>% of plate</th></tr></thead>
+  <tbody>${ROOMS.filter(r=>r.f===f).map(r=>{const[px,py]=pct(r);
+    return `<tr data-room="${r.id}"><td><b>${esc(r.label)}</b><br><small>${esc(r.sub)}</small></td>`+
+      `<td>${cx(r)}, ${cy(r)}</td><td>${px}, ${py}</td></tr>`;}).join("")}</tbody></table>`).join("");
+
+/* ---------- controls ---------- */
+function setFloor(f){
+  body.dataset.floor=f;
+  for(const b of document.querySelectorAll("[data-floor]"))
+    if(b.tagName==="BUTTON") b.setAttribute("aria-pressed",String(b.dataset.floor===f));
+  layout();
+}
+for(const b of document.querySelectorAll("#top [data-mode]")) b.onclick=()=>setMode(b.dataset.mode);
+for(const b of document.querySelectorAll("#top [data-floor]")) b.onclick=()=>setFloor(b.dataset.floor);
+$("explode").onclick=e=>{exploded=!exploded;e.currentTarget.setAttribute("aria-pressed",String(exploded));layout();};
+$("reset").onclick=()=>{exploded=false;$("explode").setAttribute("aria-pressed","false");
+  setMode("model");setFloor("all");moveTo(HOME);select(null);};
+</script>
+<script>
+/* ---------- guided tour ---------- */
+const Z=HOME.zoom;                      // camera nudges scale with the resting fit
+const STEPS=[
+ {t:2200,floor:"all",room:null,cam:{rx:56,rz:-30,zoom:Z*.86,px:0,py:0},explode:false},
+ {t:3000,floor:"1",room:"welcome", cam:{rx:44,rz:-22,zoom:Z*1.5,px:-240*Z,py:80*Z}},
+ {t:2800,floor:"1",room:"dispatch",cam:{rx:52,rz:-42,zoom:Z*1.4,px:200*Z,py:40*Z}},
+ {t:3000,floor:"2",room:"office",  cam:{rx:38,rz:-18,zoom:Z*1.5,px:-240*Z,py:230*Z}},
+ {t:2800,floor:"2",room:"meeting", cam:{rx:46,rz:-46,zoom:Z*1.4,px:220*Z,py:230*Z}},
+ {t:3200,floor:"all",room:null,cam:{rx:64,rz:-34,zoom:Z*.74,px:0,py:50*Z},explode:true},
+];
+const tourBtn=$("tour"), bar=$("bar");
+let tour=null;
+function stopTour(){
+  if(tour) clearTimeout(tour);
+  tour=null; tourBtn.dataset.on="false"; tourBtn.lastElementChild.textContent="Guided tour";
+  bar.classList.remove("on"); bar.style.width="0";
+}
+function runTour(i=0){
+  if(i>=STEPS.length){stopTour();return;}
+  const s=STEPS[i];
+  tourBtn.lastElementChild.textContent=`Stop tour · ${i+1}/${STEPS.length}`;
+  bar.classList.add("on");
+  bar.style.transitionDuration=s.t+"ms";
+  bar.style.width=(i+1)/STEPS.length*100+"%";
+  if(s.explode!==undefined&&s.explode!==exploded)
+    {exploded=s.explode;$("explode").setAttribute("aria-pressed",String(exploded));}
+  setFloor(s.floor); moveTo(s.cam); select(s.room);
+  tour=setTimeout(()=>runTour(i+1),s.t);
+}
+tourBtn.onclick=()=>{
+  if(tour){stopTour();return;}
+  tourBtn.dataset.on="true"; setMode("model"); runTour(0);
+};
+
+/* ---------- keyboard ---------- */
+addEventListener("keydown",e=>{
+  if(e.target.closest?.("input,textarea")) return;
+  const k=e.key.toLowerCase();
+  if(k==="escape"){ tour?stopTour():select(null); }
+  else if(k==="1"||k==="2") setFloor(k);
+  else if(k==="0"||k==="a") setFloor("all");
+  else if(k==="p") setMode(body.dataset.mode==="plan"?"model":"plan");
+  else if(k==="e") $("explode").click();
+  else if(k==="r") $("reset").click();
+  else if(k==="t") tourBtn.click();
+  else return;
+  e.preventDefault();
+});
+for(const el of document.querySelectorAll("#top button,#sheet tr")) el.addEventListener("click",()=>{
+  if(tour&&el.id!=="tour") stopTour();
+});
+
+/* ---------- intro fly-in ---------- */
+if(innerWidth<1080) $("sheet").open=false;
+addEventListener("resize",()=>{HOME.zoom=fitZoom();if(!tour&&!drag) moveTo(HOME);});
+moveTo({rx:78,rz:-64,zoom:HOME.zoom*.48,px:0,py:60});
+requestAnimationFrame(()=>requestAnimationFrame(()=>moveTo(HOME)));
+layout();
+</script>
+</body>
+</html>
